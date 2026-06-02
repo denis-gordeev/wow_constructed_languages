@@ -78,3 +78,64 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Auchindoun | (?) | (?) | Very Low |
 | Telredor | *tel* + *red* + *or* | (?) + (?) + "place" | Low |
 | Oshu'gun | *oshu* + *gun* | (?) | Very Low |
+
+## Additional Canon Phrases (Argus / Broken Isles / Warlords of Draenor)
+
+Phrases and terms attested in the Legion (Argus), Warlords of Draenor, and Broken Isles content.
+
+### Places — Argus (Legion)
+
+| Word | Gloss | Source / Notes |
+|------|-------|----------------|
+| Mac'Aree | (uncertain; possibly "beloved" or "sanctuary") | Region on Argus; Eredun/Draenei name |
+| Antoran | (uncertain) | Antoran Wastes on Argus; possibly "wastes" or "desolation" |
+| Krokuun | (uncertain; possibly related to *krokul* "broken") | Region on Argus; inhabited by Broken Draenei |
+| Eredath | (uncertain; possibly "city of the Eredar") | Ruined city on Argus; contains *ered* + *ath* |
+| Xenedar | (uncertain) | Crashed Draenei vessel on Argus |
+| Vindicaar | (uncertain; possibly "vessel of vindication") | Draenei vessel used in the Argus campaign |
+| Seat of the Naaru | (English) | Location on the Vindicaar; no Draenei name attested |
+
+### People — Warlords of Draenor
+
+| Word | Gloss | Source / Notes |
+|------|-------|----------------|
+| Exarch | Draenei military leader title | Title used in Draenor garrison storyline |
+| Vindicator | Draenei warrior-priest | English title; no Draenei term attested |
+| Artificer | Draenei craftsman | English title; no Draenei term attested |
+| Anchorite | Draenei priest/healer | English title; no Draenei term attested |
+| Velen | Draenei prophet | Proper name; may contain Draenei morphemes |
+| Maraad | Draenei vindicator | Proper name; may contain *ara* morpheme |
+| Yrel | Draenei paladin | Proper name from Warlords of Draenor |
+| Nobundo | Broken Draenei shaman | Proper name |
+| Restalaan | Draenei captain | Proper name; possibly *rest* + *alaan* |
+| Hatuun | Krokul leader on Argus | Proper name from Legion |
+| Archimonde | Man'ari Eredar | Eredun name; see Eredun vocabulary |
+
+### Places — Warlords of Draenor
+
+| Word | Gloss | Source / Notes |
+|------|-------|----------------|
+| Elodor | (uncertain) | Draenei settlement on Draenor; possibly *elo* + *dor* |
+| Karabor | "Temple" | Temple of Karabor (the Black Temple); Draenor version |
+| Auchindoun | (uncertain; possibly "resting place") | Draenei crypt on Draenor |
+| Telaar | (uncertain) | Draenei settlement in Nagrand |
+| Telredor | (uncertain) | Draenei settlement in Zangarmarsh |
+| Farahlon | (uncertain) | Region on Draenor (now Netherstorm) |
+| Anguish Fortress | (English) | Shadowmoon Valley location; no Draenei name attested |
+| Twilight Glade | (English) | Shadowmoon Valley location; no Draenei name attested |
+
+### Additional Morphemes (Argus / WoD)
+
+| Morpheme | Gloss | Evidence | Certainty |
+|----------|-------|----------|-----------|
+| ered | "Eredar" / "original people" | *Eredar*, *Eredath* | Medium |
+| ath | (uncertain; possibly "city" or "place") | *Eredath* | Low |
+| antor | (uncertain; possibly "waste" or "corruption") | *Antoran* | Low |
+| krok | "broken" / "devolved" | *Krokuun*, *Krokul* | Medium |
+| -uun | (uncertain; possibly a place suffix) | *Krokuun* | Low |
+| vindic | (uncertain; possibly "justice" or "defend") | *Vindicaar*, *Vindicator* | Low |
+| elo | (uncertain; possibly "light" or "holy") | *Elodor* | Very Low |
+
+### Phrases (Argus / WoD)
+
+No new glossed phrases are attested from Argus or Warlords of Draenor content. Draenei NPCs on Argus speak Common in-game. The Argus storyline provides extensive lore about the Eredar/Draenei split but no new Draenei-language sentences.

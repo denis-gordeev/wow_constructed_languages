@@ -43,3 +43,55 @@
 |------|-------------|-------|
 | Leyweaver | Title for arcane artisans | Possibly has Shalassian origin (uncertain) |
 | Nightborne | English translation of Shal'dorei | Not a Shalassian word |
+
+## Additional Canon Phrases (from Legion Content)
+
+Phrases and terms attested in the Legion expansion (2016), particularly the Suramar questline and Nighthold raid.
+
+### Places (Legion)
+
+| Word | Translation | Notes |
+|------|-------------|-------|
+| Suramar | City of the Nightborne | Shared with Darnassian tradition; pre-Sundering city |
+| Nighthold | Palace of the Nightborne | English name; no Shalassian form attested |
+| Arcway | Nightborne underground network | English name; no Shalassian form attested |
+| Court of Stars | Nightborne noble district | English name; no Shalassian form attested |
+| Felborne | Nightborne who allied with the Legion | English term; "fel" may be Eredun in origin |
+| Withered | Nightborne cut off from Nightwell | English term for those who lost arcane sustenance |
+| Tel'anor'ien | (uncertain) | Attested Nightborne location; possibly contains *tel* ("earth") and *or* ("place") |
+| Lunastre | Nightborne noble family name | Proper name; may contain Shalassian morphemes |
+| Val'sharah | (region name) | Legion zone; etymology uncertain; may be Darnassian rather than Shalassian |
+
+### People and Titles (Legion)
+
+| Word | Translation | Notes |
+|------|-------------|-------|
+| Elisande | Grand Magistrix of Suramar | Proper name; may contain Shalassian elements |
+| Thalyssra | First Arcanist | Proper name; possibly contains *thal* ("home") element |
+| Silgryn | Nightborne loyalist | Proper name |
+| Ly'leth | Nightborne noble | Proper name; apostrophe marks morpheme boundary |
+| Oculeth | Nightborne telemancer | Proper name |
+| Arluin | Nightborne operative | Proper name |
+| Margaux | Nightborne vintner | Proper name; may not be Shalassian in origin |
+| Vintner | Arcwine maker | English title |
+| Arcanist | Nightborne mage title | English title |
+| Telemancer | Teleportation specialist | English title |
+| Leyweaver | Arcane artisan | English title; may have Shalassian origin |
+
+### Additional Morphemes (Legion)
+
+| Element | Inferred Meaning | Attested In | Confidence |
+|---------|-----------------|-------------|------------|
+| -stre | Possibly "star" or "light" | Lunastre (uncertain) | Low |
+| Ly'- | Possibly "moon" or "night" | Ly'leth (uncertain) | Low |
+| Thal- | Possibly "home" (cognate with Thalassian *thalas*) | Thalyssra (uncertain) | Low |
+| -yssra | Possibly "arcane" or "magic" | Thalyssra (uncertain) | Very Low |
+
+### Arcane Vocabulary (Legion)
+
+| Word | Translation | Notes |
+|------|-------------|-------|
+| Arcwine | Magical wine from Nightwell | English compound; no Shalassian form attested |
+| Nightwell | Source of Nightborne power | English name; no Shalassian form attested |
+| Ley-line | Arcane energy channel | English term; may have Shalassian equivalent |
+| Withered | Deprived of arcane energy | English term for Nightborne who lost access to the Nightwell |

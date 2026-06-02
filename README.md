@@ -20,6 +20,9 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 | Pandaren | Pandaren | [pandaren/](pandaren/) | Very Low — proper names only |
 | Vulpera | Vulpera | [vulpera/](vulpera/) | Extremely Low — proper names only |
 | Eredun/Demonic | Man'ari Eredar, Burning Legion | [eredun/](eredun/) | Low — names + Draenei cognates |
+| Mogu | Mogu (stone constructs) | [mogu/](mogu/) | Very Low — proper names only |
+| Sethrak | Sethrak (serpent people) | [sethrak/](sethrak/) | Extremely Low — proper names only |
+| Nature/Druidic | Druids of all races | [nature/](nature/) | Not a distinct language — vocabulary from Darnassian and Taur-ahe |
 
 ## Structure
 
@@ -33,7 +36,8 @@ Each language folder contains:
 ## Comparative Resources
 
 - **[elven-comparative.html](elven-comparative.html)** — Cross-reference of Darnassian, Thalassian, and Shalassian: cognate sets, sound correspondences, etymological reconstruction, and comparative wordlist
-- **[example-sentences.html](example-sentences.html)** — Constructed example sentences using inferred grammar (clearly marked as non-canon)
+- **[eredun-draenei-comparative.html](eredun-draenei-comparative.html)** — Cross-reference of Draenei and Eredun: cognate sets, sound correspondences, etymological reconstruction, and comparative wordlist
+- **[example-sentences.html](example-sentences.html)** — Constructed example sentences using inferred grammar for Darnassian, Thalassian, Orcish, Shalassian, Draenei, and Zandali (clearly marked as non-canon)
 
 ## Methodology
 
@@ -47,6 +51,8 @@ Each language folder contains:
 Several languages are genetically related:
 
 - **Darnassian** is ancestral to **Thalassian** and **Shalassian** (all share the `-dorei` ethnonym pattern and core vocabulary; see [elven-comparative.html](elven-comparative.html) for full comparative analysis)
-- **Draenei** and **Eredun** are the same language with cultural divergence
+- **Draenei** and **Eredun** are the same language with cultural divergence (see [eredun-draenei-comparative.html](eredun-draenei-comparative.html) for comparative analysis)
 - **Zandali** dialects vary across troll tribes but share core grammar
 - **Shath'Yar** has no known relationship to any mortal language
+- **Pandaren** and **Mogu** share contact vocabulary due to millennia of domination (see [pandaren/index.html](pandaren/index.html#mogu-crossref) for cross-reference)
+- **Sethrak** names show Zandali orthographic influence (apostrophe usage)

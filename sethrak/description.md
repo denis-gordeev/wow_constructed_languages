@@ -1,0 +1,94 @@
+# Sethrak Language — Overview
+
+## Speakers
+
+The Sethrak language is spoken by the Sethrak, a serpent-like race native to the desert region of Vol'dun on the continent of Zandalar. They are introduced in *World of Warcraft: Battle for Azeroth* (2018). The Sethrak are divided into two factions:
+
+- **The Devoted**: Sethrak who remain loyal to the loa Sethraliss and ally with the Vulpera and Horde players. Led by Vorrik from his sanctum.
+- **The Faithless**: Corrupted Sethrak who rejected Sethraliss and seized power, led by Jakra'zet and later Emperor Korgok. The Faithless enslaved Vulpera and sought to harness the power of Sethraliss for themselves.
+
+Both factions presumably speak the same language; the Faithless/Devoted split is political and religious, not linguistic (paralleling the Draenei/Man'ari split).
+
+## History
+
+The Sethrak have inhabited Vol'dun since antiquity. They are the primary servants of Sethraliss, the Loa of Serpents and Lightning. Sethraliss sacrificed herself to protect Vol'dun from the faithless, and her weakened state is central to the Vol'dun storyline in Battle for Azeroth.
+
+The Faithless, under Jakra'zet, sought to reclaim Sethraliss's power rather than restore her. They enslaved Vulpera and threatened the Devoted. Horde players ally with the Devoted and Vulpera to defeat the Faithless and restore Sethraliss.
+
+The Temple of Sethraliss, a dungeon in Vol'dun, is the most significant Sethrak structure and the site of Sethraliss's resting place.
+
+## Cultural Context
+
+Sethrak culture is organized around two central concepts:
+
+- **Reverence for Sethraliss**: The Loa of Serpents and Lightning is the spiritual center of Sethrak civilization. The race name *Sethrak* and the loa name *Sethraliss* share the morpheme *seth* (inferred: "serpent"), encoding the fundamental connection between the people and their loa.
+- **Lightning and serpents**: Sethraliss embodies both serpent and lightning motifs. If *raliss* (inferred) means "lightning" or "divine," then *Sethraliss* encodes this dual nature directly.
+
+The Devoted represent continuity with this tradition, while the Faithless represent a break — seizing the loa's power rather than serving it. This cultural fracture may have linguistic consequences (dialect divergence, lexical innovation) that are entirely unattested.
+
+## Relationship to Other Languages
+
+### Zandali
+
+The Sethrak coexist with Zandalari trolls on Zandalar. Several indicators suggest Zandali influence on Sethrak:
+
+- The apostrophe in *Jakra'zet* follows the Zandali orthographic convention (cf. *Zul'jin*, *Zul'farrak*, *Tal'farrak*), suggesting Zandali scribal or orthographic influence on Sethrak.
+- The title "loa" is a Zandali term applied to Sethraliss; the Sethrak may have their own term for the concept.
+- *Atul'Aman* uses the Zandali apostrophe convention and may be Zandali in origin rather than Sethrak.
+
+### Vulpera
+
+The Vulpera and Sethrak coexist in Vol'dun. The Vulpera were persecuted by the Faithless and allied with the Devoted. Possible linguistic contact includes:
+
+- Shared place names in Vol'dun (e.g., the Slithering Gauntlet is relevant to both peoples).
+- Potential loanwords, though none are identifiable in the attested corpus.
+- The similarity between Sethrak *-rak* ("people"? (inferred)) and Vulpera *-era* ("people/folk"? (inferred)) is intriguing but may be coincidental or reflect a shared WoW naming convention rather than genetic relationship.
+
+### Draenei
+
+The parallel between Sethrak *Sethrak* (*seth* + *rak*) and Draenei *Draenei* (*draen* + *ei*) — both ethnonyms formed as "descriptor + people-suffix" — likely reflects a shared Blizzard naming convention rather than a linguistic relationship.
+
+## Key Phonological Features
+
+- **Dental fricative /θ/**: The sound represented by *th* in *Sethrak*, *Sethraliss*, *Korthek*, and *Merektha* is unusually frequent. It may be a characteristic or marked phoneme of the language, potentially associated with serpent-related vocabulary.
+- **Rhotic frequency**: /r/ appears in nearly every attested name.
+- **Syllable structure**: Predominantly CVC roots, with 2–3 syllable names common.
+- **Apostrophe**: Attested once (*Jakra'zet*), likely representing a morpheme boundary and/or glottal stop, following Zandali convention.
+
+## Attestation and Reliability
+
+Sethrak is an **extremely poorly attested** constructed language — even more limited than Vulpera or Draenei. The known corpus consists of:
+
+- Approximately 10 proper names (personal names, a loa name, the ethnonym).
+- 1–2 possible place names (*Amet*; *Atul'Aman* is likely Zandali).
+- No phrases, sentences, verb forms, grammatical particles, or glossed words of any kind.
+
+No grammar, syntax, or extended text has been published by Blizzard. All morphological inferences are based on decomposition of proper names. The entire corpus can be counted on two hands.
+
+### What is reliable
+
+- The ethnonym *Sethrak* and loa name *Sethraliss* share the element *seth*, which is almost certainly a genuine morpheme given its appearance in the two most culturally central terms.
+- The apostrophe in *Jakra'zet* marks a morpheme boundary, consistent with Zandali orthographic convention.
+- The names of NPCs and places are accurately transcribed from in-game sources.
+
+### What is uncertain
+
+- The meaning of *seth* ("serpent"? (inferred)). It could mean "serpent," "scale," "coil," or something else entirely.
+- The meaning of *rak* ("people"? (inferred)). It could be a suffix, a root, or part of an unanalyzable ethnonym.
+- The meaning of *raliss*, *zet*, *jakra*, *rek*, *kor* — all morphemes inferred from name decomposition with zero confirming evidence.
+- Whether the Devoted and Faithless have any linguistic differences.
+- Whether *Amet* is a Sethrak word.
+
+### What is unknown
+
+- Syntax (word order, case marking, agreement).
+- Verbal morphology.
+- Pronouns, prepositions, or functional elements.
+- Any vocabulary beyond the proper names listed in `vocabulary.md`.
+- Whether the Sethrak had a written language before Zandalari contact.
+- The degree of mutual intelligibility (if any) with Zandali or Vulpera.
+
+## References
+
+- World of Warcraft: Battle for Azeroth (2018). Blizzard Entertainment.
+- Blizzard Entertainment. Various official publications and in-game text.

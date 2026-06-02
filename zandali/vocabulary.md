@@ -98,3 +98,73 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Dey be | They are | Attested in troll NPC speech |
 | Mon be strong | I am strong | Attested in troll NPC speech |
 | Ya be dead | You are dead | Attested in troll NPC speech |
+
+## Additional Canon Phrases (Battle for Azeroth)
+
+Terms and names attested in the Battle for Azeroth expansion (2018), particularly the Zandalar storyline.
+
+### Places — Zandalar (BfA)
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Zuldazar | Capital city of Zandalar | Zul + dazar; "dazar" possibly = "throne" or "great" |
+| Dazar'alor | The palace/raid in Zuldazar | Dazar + alor; possibly "throne of the king" |
+| Atal'Dazar | Loa temple in Zandalar | Atal + dazar; "devoted temple" or "chosen throne" |
+| Nazmir | Blood troll region of Zandalar | Region name; etymology uncertain |
+| Vol'dun | Desert region of Zandalar | Region name; possibly "vol" = "desert" + "dun" = "land" |
+| Zul'jan | Ruins in Zandalar | Zul + jan; "jan" meaning unknown |
+| Terrace of the Speakers | Zandalari gathering place | English name; no Zandali form attested |
+| The Great Seal | Zandalari hub | English name; no Zandali form attested |
+| Port of Zandalar | Harbor district | English name; no Zandali form attested |
+
+### Loa — Zandalar (BfA)
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Torga | Loa of Turtles | Nazmir loa; proper name |
+| Pa'ku | Loa of Winds | Confirmed in BfA Zuldazar storyline |
+| Krag'wa | Loa of Frogs/Earth | Confirmed in BfA Nazmir storyline |
+| Gonk | Loa of Raptors | Confirmed in BfA Zuldazar storyline |
+| Akunda | Loa of Storms/Thoughts | Confirmed in BfA Vol'dun storyline |
+| Sethraliss | Loa of Serpents/Lightning | Confirmed in BfA Vol'dun storyline |
+| Bwonsamdi | Loa of Death | Major BfA character; confirmed in Zandalar storyline |
+| Mueh'zala | Loa of Death/Sunset | Bwonsamdi's father; Shadowlands connection |
+| Rezan | Loa of Kings | Killed by blood trolls; BfA storyline |
+| Jani | Loa of Scavengers | BfA trash god; proper name |
+| Kimbul | Loa of Tigers | BfA Zuldazar loa |
+
+### People — Zandalar (BfA)
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Talanji | Princess then Queen of Zandalari | BfA main character; proper name |
+| Rastakhan | King of Zandalari | BfA character; killed in Zuldazar raid |
+| Zul | Zandalari prophet | BfA character; same word as the prefix "Zul" |
+| Yazma | Priestess of Shadra | BfA Atal'Dazar boss; proper name |
+| Wardruid Loti | Servant of Gonk | BfA character; title + name |
+| Grand Ma'da | Title | BfA; meaning uncertain |
+| Hexlord Raal | Servant of Krag'wa | BfA character; title + name |
+| Hir'eek | Loa of Bats | BfA Nazmir loa; killed by blood trolls |
+
+### Blood Troll Vocabulary (BfA)
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Blood troll | Corrupted Zandalari offshoot | English term; no Zandali form attested |
+| G'huun | Blood God of the blood trolls | BfA raid boss; related to Old God corruption; possibly Shath'Yar influence |
+| Underrot | Blood troll lair | English name; no Zandali form attested |
+
+### Additional Morphemes (BfA)
+
+| Element | Inferred Meaning | Attested In | Confidence |
+|---------|-----------------|-------------|------------|
+| dazar | Possibly "throne" or "king" | Zuldazar, Dazar'alor, Atal'Dazar | Medium |
+| alor | Possibly "palace" or "hall" | Dazar'alor | Low |
+| naz | Possibly "blood" or "dark" | Nazmir (uncertain) | Low |
+| mir | Possibly "land" or "region" | Nazmir (uncertain) | Low |
+| vol | Possibly "desert" or "waste" | Vol'dun (uncertain) | Low |
+| dun | Possibly "land" or "place" | Vol'dun (uncertain) | Low |
+
+### Phrases (BfA)
+
+No new glossed Zandali phrases are attested from BfA content. Zandalari trolls speak Common in-game. The BfA Zandalar storyline provides extensive cultural context but no new Zandali-language sentences with translations.

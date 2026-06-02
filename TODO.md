@@ -29,19 +29,29 @@
 - [x] Create a comparative wordlist across related languages (especially elven languages)
 - [x] Add example sentences constructed using inferred grammar (clearly marked as non-canon)
 - [x] Create hypertext (HTML) versions of vocabulary files with IPA
+- [x] Add IPA phonetic transcriptions for remaining languages (Draenei, Zandali, Taur-ahe, Dwarven, Shath'Yar, Kalimag, Gutterspeak)
+- [x] Create HTML vocabulary files for remaining languages (Draenei, Zandali, Taur-ahe, Dwarven, Shath'Yar, Kalimag, Gutterspeak)
+- [x] Expand Shalassian vocabulary with additional canon phrases from Legion content
+- [x] Expand Draenei vocabulary with additional canon phrases from Argus/Broken Isles content
+- [x] Expand Zandali vocabulary with additional canon phrases from Battle for Azeroth content
+- [x] Add etymological reconstruction for Draenei/Eredun sound changes
+- [x] Create comparative wordlist for Draenei/Eredun cognates
+- [x] Add constructed example sentences for Shalassian, Draenei, and Zandali
+- [x] Research and add Mogu language (Mogu empire in Pandaria)
+- [x] Research and add Sethrak language (Vol'dun serpent people)
+- [x] Cross-reference Pandaren and Mogu language elements
+- [x] Add Nexian/Nature language elements (Druidic communication)
 
 ## Next Actions
 
 - [ ] Verify vocabulary against WoW wiki sources when web access is available
-- [ ] Add IPA phonetic transcriptions for remaining languages (Draenei, Zandali, Taur-ahe, Dwarven, Shath'Yar, Kalimag, Gutterspeak)
-- [ ] Create HTML vocabulary files for remaining languages
-- [ ] Expand Shalassian vocabulary with additional canon phrases from Legion content
-- [ ] Expand Draenei vocabulary with additional canon phrases from Argus/Broken Isles content
-- [ ] Expand Zandali vocabulary with additional canon phrases from Battle for Azeroth content
-- [ ] Add etymological reconstruction for Draenei/Eredun sound changes
-- [ ] Cross-reference Pandaren and Mogu language elements
-- [ ] Create comparative wordlist for Draenei/Eredun cognates
-- [ ] Add constructed example sentences for Shalassian, Draenei, and Zandali
-- [ ] Research and add Mogu language (Mogu empire in Pandaria)
-- [ ] Research and add Sethrak language (Vol'dun serpent people)
-- [ ] Add Nexian/Nature language elements (Druidic communication)
+- [ ] Create HTML vocabulary files for Shalassian, Mogu, Sethrak, and Nature
+- [ ] Research and add Titan language (Titan facilities across Azeroth)
+- [ ] Research and add Vrykul language (Northrend viking-like race)
+- [ ] Research and add Naga language (Nazjatar naga)
+- [ ] Cross-reference Dwarven with Titan language elements
+- [ ] Add constructed example sentences for Orcish, Taur-ahe, and Dwarven
+- [ ] Expand Mogu vocabulary with additional canon phrases from Mists of Pandaria
+- [ ] Cross-reference Sethrak and Zandali naming patterns
+- [ ] Create a comprehensive cross-language comparison table (shared morphemes across all languages)
+- [ ] Add audio pronunciation guide links where available
