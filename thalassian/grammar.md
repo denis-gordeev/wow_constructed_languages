@@ -1,0 +1,117 @@
+# Thalassian Grammar
+
+All rules below are inferred from attested examples in World of Warcraft. Thalassian is a constructed language with limited corpus, so many grammatical features remain uncertain. Inferences are marked accordingly.
+
+## Morphology
+
+### The -'dorei Suffix Pattern
+
+The most productive morphological pattern in Thalassian is the compound noun formed with the suffix **-'dorei**, meaning "children of" or "people of":
+
+- Sin'dorei = Sin (blood) + 'dorei (children of) = "Children of the Blood"
+- Quel'dorei = Quel (noble/high) + 'dorei (children of) = "Children of Noble Birth"
+- Ren'dorei = Ren (void) + 'dorei (children of) = "Children of the Void"
+- Kaldorei = Kal (stars) + 'dorei (children of) = "Children of the Stars" (Darnassian, shared root)
+
+This pattern is shared with Darnassian, confirming common ancestry. The first element is always a noun or adjective denoting the defining characteristic of the people. The compound functions as a self-designation or ethnonym.
+
+### The Apostrophe as Morpheme Boundary
+
+The apostrophe (') consistently marks a morpheme boundary between two joined elements:
+
+| Word | Left Morpheme | Right Morpheme |
+|------|---------------|----------------|
+| Sin'dorei | Sin (blood) | dorei (children of) |
+| Quel'dorei | Quel (noble/high) | dorei (children of) |
+| Quel'Thalas | Quel (high) | Thalas (home/kingdom) |
+| Anar'alah | Anar (by) | alah (light) |
+| Shorel'aran | Shorel (?) | aran (?) |
+| Bal'a dash | Bal (?) | a dash (?) |
+| Ande'thoras | Ande (may) | thoras (troubles) |
+
+The hyphen (-) also appears as a morpheme boundary within larger compounds (e.g., Ande'thoras-ethil), possibly marking a different type of juncture — perhaps a clause or phrasal boundary rather than a compounding boundary.
+
+**Inference:** Apostrophe = compounding/derivational boundary; hyphen = inflectional or phrasal boundary.
+
+### Head-Initial Compounding
+
+In the -'dorei pattern, the modifier precedes the head: Sin (blood) + dorei (children of) = "Children of the Blood." This suggests **modifier-head** ordering in at least some compound types. However, the semantic reading "children OF blood" implies a genitive relationship where the head (dorei) governs the preceding modifier, comparable to English noun-of-noun constructions.
+
+**Uncertain:** Whether this is true modifier-head order or a fossilized genitive construction.
+
+## Syntax
+
+### Word Order: Evidence from "Anu belore dela'na"
+
+The phrase **Anu belore dela'na** = "The sun will guide us" provides the best evidence for basic word order:
+
+- Anu = the (article / subject marker)
+- Belore = sun
+- Dela'na = will guide us
+
+Parsing: **[Anu belore] [dela'na]** → Subject + Verb
+
+This suggests **SVO or SV word order**, with the subject preceding the verb. The object ("us") appears to be incorporated into the verb form dela'na (subject-verb agreement or pronominal object incorporated into the verb).
+
+**Inference (uncertain):** Thalassian may be SVO, or may be SV with pronominal objects incorporated into the verb (a polysynthetic trait). The limited corpus prevents firm conclusions.
+
+### The Optative Construction: "Ande'thoras-ethil"
+
+**Ande'thoras-ethil** = "May your troubles be diminished"
+
+- Ande = optative marker ("may")
+- Thoras = troubles (noun)
+- Ethil = diminished (adjective/verb)
+
+Structure: **Optative Marker + Subject + Predicate**
+
+This appears to be a formulaic blessing construction where:
+1. Ande opens the clause as an optative particle
+2. The subject (thoras) follows
+3. The predicate adjective/verb (ethil) closes the clause
+
+The possessive ("your") is unexpressed, possibly implied by context or by the optative construction itself.
+
+**Inference (uncertain):** Thalassian may lack explicit possessive pronouns in blessing formulae, or the possessive may be zero-marked when contextually understood.
+
+### Greeting and Farewell Formulae
+
+Greetings and farewells appear to be fixed formulae:
+
+- **Bal'a dash** — Greeting (internal structure unclear)
+- **Shorel'aran** — Farewell (internal structure unclear)
+- **Anar'alah belore** — Blessing-greeting ("By the light of the sun")
+- **Ande'thoras-ethil** — Blessing-farewell ("May your troubles be diminished")
+
+The blessing-greeting **Anar'alah belore** may follow a prepositional phrase structure: **Anar'alah** (by the light) + **belore** (of the sun / the sun), but the exact syntax is uncertain.
+
+### Vocative Construction
+
+**Bal'a dash, malanorei** = "Greetings, traveler"
+
+The addressee follows the greeting, separated by a comma. This suggests a **[Greeting] + [Vocative]** pattern, consistent with SVO-type languages where the vocative is appended after the formula.
+
+## Relationship to Darnassian
+
+Thalassian is a descendant of Darnassian (the Night Elf language), diverging after the Highborne exile. Shared features include:
+
+1. **The -'dorei ethnonym pattern** — identical in both languages (Kaldorei, Quel'dorei)
+2. **The morpheme-boundary apostrophe** — used in both languages
+3. **Shared vocabulary** — Quel (high/noble), dorei (children of), and other roots
+
+Key differences:
+1. **Lexical innovation** — Sin (blood), Ren (void) are Thalassian innovations not found in Darnassian
+2. **Cultural vocabulary shift** — Thalassian emphasizes solar imagery (belore = sun, anar'alah = by the light) vs. Darnassian's lunar/stellar imagery (Kaldorei = children of the stars, Elune = moon goddess)
+3. **Phonological divergence** — Thalassian appears to have undergone sound changes from the Darnassian base, though the limited corpus makes phonological reconstruction speculative
+
+## Summary of Grammatical Inferences
+
+| Feature | Inference | Certainty |
+|---------|-----------|-----------|
+| Word order | Possibly SVO | Low — based on one phrase |
+| Apostrophe function | Morpheme boundary in compounds | High — consistent across all examples |
+| Hyphen function | Phrasal/clausal boundary | Moderate — only one example (Ande'thoras-ethil) |
+| -'dorei pattern | Productive ethnonym-forming suffix | High — four attested examples |
+| Optative construction | Ande + Subject + Predicate | Moderate — one clear example |
+| Pronoun incorporation | Possible in verb forms (dela'na) | Low — could also be inflection |
+| Possessive marking | Possibly zero-marked in blessings | Low — based on absence of evidence |
