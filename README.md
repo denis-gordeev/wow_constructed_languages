@@ -6,8 +6,8 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 
 | Language | Speakers | Folder | Attestation Level |
 |----------|----------|--------|-------------------|
-| Darnassian | Night Elves (Kaldorei) | [darnassian/](darnassian/) | Moderate — ~25-30 items |
-| Thalassian | Blood Elves, High Elves, Void Elves | [thalassian/](thalassian/) | Moderate — ~20-25 items |
+| Darnassian | Night Elves (Kaldorei) | [darnassian/](darnassian/) | Moderate — ~30-35 items |
+| Thalassian | Blood Elves, High Elves, Void Elves | [thalassian/](thalassian/) | Moderate — ~25-30 items |
 | Draenei | Draenei (exiled Eredar) | [draenei/](draenei/) | Low — mostly place names |
 | Orcish | Orcs | [orcish/](orcish/) | Moderate — well-known phrases |
 | Zandali | Trolls (all tribes) | [zandali/](zandali/) | Moderate — creole + naming patterns |
@@ -17,14 +17,23 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 | Kalimag | Elementals | [kalimag/](kalimag/) | Very Low — mostly proper names |
 | Shalassian | Nightborne (Shal'dorei) | [shalassian/](shalassian/) | Low — derived from Darnassian |
 | Gutterspeak | Forsaken (Undead) | [gutterspeak/](gutterspeak/) | Very Low — corrupted Common |
+| Pandaren | Pandaren | [pandaren/](pandaren/) | Very Low — proper names only |
+| Vulpera | Vulpera | [vulpera/](vulpera/) | Extremely Low — proper names only |
+| Eredun/Demonic | Man'ari Eredar, Burning Legion | [eredun/](eredun/) | Low — names + Draenei cognates |
 
 ## Structure
 
 Each language folder contains:
 
 - **vocabulary.md** — Known words and phrases with translations and source notes
+- **vocabulary.html** — Expanded vocabulary with IPA phonetic transcriptions (hypertext)
 - **grammar.md** — Inferred grammatical rules (morphology, syntax, phonology)
 - **description.md** — Overview of speakers, history, cultural context, and reliability
+
+## Comparative Resources
+
+- **[elven-comparative.html](elven-comparative.html)** — Cross-reference of Darnassian, Thalassian, and Shalassian: cognate sets, sound correspondences, etymological reconstruction, and comparative wordlist
+- **[example-sentences.html](example-sentences.html)** — Constructed example sentences using inferred grammar (clearly marked as non-canon)
 
 ## Methodology
 
@@ -37,7 +46,7 @@ Each language folder contains:
 
 Several languages are genetically related:
 
-- **Darnassian** is ancestral to **Thalassian** and **Shalassian** (all share the `-dorei` ethnonym pattern and core vocabulary)
-- **Draenei** and **Eredar** are the same language with cultural divergence
+- **Darnassian** is ancestral to **Thalassian** and **Shalassian** (all share the `-dorei` ethnonym pattern and core vocabulary; see [elven-comparative.html](elven-comparative.html) for full comparative analysis)
+- **Draenei** and **Eredun** are the same language with cultural divergence
 - **Zandali** dialects vary across troll tribes but share core grammar
 - **Shath'Yar** has no known relationship to any mortal language

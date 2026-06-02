@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Comparative Elven Linguistics — Darnassian, Thalassian, Shalassian</title>
+<style>
+  body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+  h1 { border-bottom: 2px solid #5a3e7a; padding-bottom: 0.3em; }
+  h2 { color: #5a3e7a; margin-top: 2em; }
+  h3 { color: #7a5a9a; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+  th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+  th { background: #eee8f5; font-weight: bold; }
+  tr:nth-child(even) { background: #faf8fc; }
+  .uncertain { color: #888; font-style: italic; }
+  .reconstructed { color: #a0522d; }
+  .shared { background: #e8f5e8; }
+  .note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+  .ipa { font-family: "DejaVu Sans", "Gentium Plus", serif; }
+  nav { background: #f5f0fa; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+  nav a { margin-right: 1em; }
+  a { color: #5a3e7a; }
+  a:hover { color: #8a6aaa; }
+  .sound-change { font-variant: small-caps; letter-spacing: 0.05em; }
+  .cog { font-weight: bold; }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="#cognates">Cognate Sets</a>
+  <a href="#sound-changes">Sound Correspondences</a>
+  <a href="#etymology">Etymological Reconstruction</a>
+  <a href="#wordlist">Comparative Wordlist</a>
+  <a href="#grammar">Shared Grammar</a>
+</nav>
+
+<h1>Comparative Elven Linguistics</h1>
+
+<p>A comparative analysis of the three attested elven languages of Azeroth:
+<a href="darnassian/description.md">Darnassian</a> (Night Elven),
+<a href="thalassian/description.md">Thalassian</a> (High Elven / Blood Elven), and
+<a href="shalassian/description.md">Shalassian</a> (Nightborne).
+All three descend from a common ancestor — <em>Proto-Elven</em> — spoken before the
+Great Sundering approximately 10,000 years before the First War.</p>
+
+<div class="note">
+<strong>Methodological caveat:</strong> The attested corpus for each language is extremely small
+(~20–30 items per language). All reconstructions and sound correspondences are provisional.
+Forms marked <span class="reconstructed">in brown</span> are reconstructed; forms marked
+<span class="uncertain">in gray italics</span> have uncertain glosses.
+</div>
+
+<!-- ============================================================ -->
+<h2 id="cognates">Cognate Sets</h2>
+
+<p>The following sets identify words across the three elven languages that derive from a
+common Proto-Elven root. Shared roots are highlighted in <span class="shared">green</span>.</p>
+
+<h3>Set 1: Ethnonym-forming suffix <span class="cog">*-dorei</span></h3>
+
+<table>
+<tr>
+  <th>Proto-Elven</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th><th>Gloss</th>
+</tr>
+<tr class="shared">
+  <td class="reconstructed">*dorei</td>
+  <td>-dorei</td><td>-dorei</td><td>-dorei</td><td>children of / people of</td>
+</tr>
+<tr>
+  <td></td>
+  <td><em>Kal</em>'dorei</td><td><em>Quel</em>'dorei</td><td><em>Shal</em>'dorei</td><td>(first element varies)</td>
+</tr>
+<tr>
+  <td></td>
+  <td><em>Quel</em>'dorei</td><td><em>Sin</em>'dorei</td><td></td><td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td><td><em>Ren</em>'dorei</td><td></td><td></td>
+</tr>
+</table>
+
+<p><strong>Analysis:</strong> The <em>-dorei</em> suffix is the most securely attested cognate across all three
+languages. It appears with identical form and meaning, suggesting it has been resistant to
+sound change — possibly because it is a bound morpheme in high-frequency compound formations.</p>
+
+<h3>Set 2: The modifier <span class="cog">*quel</span> "noble / high"</h3>
+
+<table>
+<tr>
+  <th>Proto-Elven</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th><th>Gloss</th>
+</tr>
+<tr class="shared">
+  <td class="reconstructed">*quel</td>
+  <td>Quel</td><td>Quel</td><td class="uncertain">(not attested)</td><td>noble / high</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Quel'dorei</td><td>Quel'dorei</td><td></td><td>Children of Noble Birth</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td><td>Quel'Thalas</td><td></td><td>High Home / High Kingdom</td>
+</tr>
+</table>
+
+<p><strong>Analysis:</strong> <em>Quel</em> is attested identically in Darnassian and Thalassian.
+Its absence from the Shalassian corpus likely reflects the small sample size rather than loss.
+The form is stable across the two languages where it appears.</p>
+
+<h3>Set 3: Solar/luminous root <span class="cog">*belor-</span> / <span class="cog">*belore</span></h3>
+
+<table>
+<tr>
+  <th>Proto-Elven</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th><th>Gloss</th>
+</tr>
+<tr>
+  <td class="reconstructed">*belore</td>
+  <td class="uncertain">belore (in <em>Fandu-dath-belore</em>)</td>
+  <td>belore</td><td class="uncertain">(not attested)</td><td>sun / light</td>
+</tr>
+</table>
+
+<p><strong>Analysis:</strong> <em>Belore</em> appears in Darnassian within the sentry challenge
+<em>Fandu-dath-belore</em> ("Who goes there?") and in Thalassian as "sun"
+(<em>Anu belore dela'na</em> = "The sun will guide us"). The shared form confirms Proto-Elven
+<em class="reconstructed">*belore</em>. In Darnassian, <em>belore</em> may have shifted semantically
+from "sun" to a more general "light/revelation" sense (in the sentry challenge, possibly
+"reveal yourself by the light"), while Thalassian retains the primary meaning "sun."
+This semantic split parallels the cultural divergence: Night Elves venerate the moon,
+High/Blood Elves venerate the sun.</p>
+
+<h3>Set 4: Morpheme boundary marker — apostrophe</h3>
+
+<table>
+<tr>
+  <th>Feature</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th>
+</tr>
+<tr class="shared">
+  <td>Apostrophe marks compound-internal morpheme boundary</td>
+  <td>Quel'dorei, Shan'do, Thero'shan, Ru'shem</td>
+  <td>Sin'dorei, Quel'Thalas, Anar'alah, Shorel'aran, Bal'a dash</td>
+  <td>Shal'dorei, Shal'Aran</td>
+</tr>
+<tr class="shared">
+  <td>Hyphen marks phrase/syntactic boundary</td>
+  <td>Elune-adore, Andu-falah-dor</td>
+  <td>Ande'thoras-ethil</td>
+  <td class="uncertain">(not attested)</td>
+</tr>
+</table>
+
+<p><strong>Analysis:</strong> The apostrophe/hyphen distinction is consistent across Darnassian
+and Thalassian, strongly suggesting it is an inherited orthographic convention from
+Proto-Elven, not an independent development. This is a shared <em>graphological</em>
+cognate — a feature of the writing system preserved across all daughter languages.</p>
+
+<h3>Set 5: Root <span class="cog">*shal-</span> / <span class="cog">*shala-</span></h3>
+
+<table>
+<tr>
+  <th>Proto-Elven</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th><th>Gloss</th>
+</tr>
+<tr>
+  <td class="reconstructed">*shal-</td>
+  <td>Shaladrassil (place name element)</td><td class="uncertain">(not attested)</td><td>Shal'dorei, Shal'Aran, Shalassian</td><td>twilight / arcane / shadow</td>
+</tr>
+</table>
+
+<p><strong>Analysis:</strong> The morpheme <em>shal</em> appears in Darnassian only in the World Tree
+name <em>Shaladrassil</em>, while it is productive in Shalassian as the defining ethnic/cultural
+morpheme. If <em>Shaladrassil</em> in Darnassian contains the same root, it would mean "twilight"
+or "shadow" was already a Darnassian lexical item before the Nightborne's isolation. The World Tree
+in Val'sharah stands in a region of twilight and corruption, which is semantically consistent.</p>
+
+<h3>Set 6: Place-name element <span class="cog">*-aran</span></h3>
+
+<table>
+<tr>
+  <th>Proto-Elven</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th><th>Gloss</th>
+</tr>
+<tr>
+  <td class="reconstructed">*aran</td>
+  <td class="uncertain">(not clearly attested)</td><td class="uncertain">Shorel'aran (farewell — if related)</td><td>Shal'Aran, Aran'el</td><td>sanctuary / home / refuge</td>
+</tr>
+</table>
+
+<p><strong>Analysis:</strong> This cognate set is weak. The Shalassian <em>Aran</em> in
+<em>Shal'Aran</em> and <em>Aran'el</em> suggests a meaning "sanctuary/refuge." The
+Thalassian <em>-aran</em> in <em>Shorel'aran</em> (farewell) may be a different morpheme
+entirely. More data is needed.</p>
+
+<!-- ============================================================ -->
+<h2 id="sound-changes">Sound Correspondences</h2>
+
+<p>The following regular sound correspondences are observed between the three elven languages.
+Because the corpus is very small, these are <strong>hypotheses</strong>, not confirmed rules.</p>
+
+<h3>Correspondence 1: Vowel quality before <em>-dorei</em></h3>
+
+<table>
+<tr><th>Environment</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th><th>Notes</th></tr>
+<tr>
+  <td>Before -'dorei</td>
+  <td><em>Kal</em>'dorei (a)</td>
+  <td><em>Sin</em>'dorei (i), <em>Quel</em>'dorei (el)</td>
+  <td><em>Shal</em>'dorei (a)</td>
+  <td>No consistent vowel change; vowels in the modifier element are preserved</td>
+</tr>
+</table>
+
+<p><strong>Inference:</strong> The vowel in the pre-'dorei element is stable across languages.
+There is no evidence for a systematic vowel shift between Darnassian and Thalassian in
+this position. The different vowels (a, i, el) reflect different lexical roots, not sound changes.</p>
+
+<h3>Correspondence 2: The devoicing hypothesis</h3>
+
+<table>
+<tr><th>Proto-Elven</th><th>Darnassian</th><th>Thalassian</th><th>Evidence</th></tr>
+<tr>
+  <td class="reconstructed">*d</td>
+  <td>d</td>
+  <td>d</td>
+  <td><em>dorei</em> is identical in both languages</td>
+</tr>
+<tr>
+  <td class="reconstructed">*d</td>
+  <td>d (in <em>do</em> "teacher")</td>
+  <td>d (in <em>dath</em> in <em>Fandu-dath-belore</em>)</td>
+  <td>Initial /d/ preserved in both</td>
+</tr>
+</table>
+
+<p><strong>Inference:</strong> There is no evidence for consonant devoicing between
+Darnassian and Thalassian. The consonant inventories appear largely identical where
+comparison is possible.</p>
+
+<h3>Correspondence 3: Liquids /l/ and /r/</h3>
+
+<table>
+<tr><th>Proto-Elven</th><th>Darnassian</th><th>Thalassian</th><th>Evidence</th></tr>
+<tr>
+  <td class="reconstructed">*l</td>
+  <td>l</td>
+  <td>l</td>
+  <td><em>belore</em>, <em>falah</em> / <em>alah</em>, <em>drassil</em></td>
+</tr>
+<tr>
+  <td class="reconstructed">*r</td>
+  <td>r</td>
+  <td>r</td>
+  <td><em>dorei</em> (internal), <em>ilisar</em> / <em>thoras</em></td>
+</tr>
+</table>
+
+<p><strong>Inference:</strong> Liquids are stable. No liquid shifts are attested between
+Darnassian and Thalassian. This contrasts with many real-world language families where
+liquid shifts (rhotacism, lambdacism) are common.</p>
+
+<h3>Correspondence 4: Semantic divergence despite phonological stability</h3>
+
+<table>
+<tr><th>Root</th><th>Darnassian sense</th><th>Thalassian sense</th><th>Type of change</th></tr>
+<tr>
+  <td><em>belore</em></td>
+  <td>light / revelation (in sentry challenge)</td>
+  <td>sun</td>
+  <td>Semantic narrowing (Thalassian) vs. generalization (Darnassian)</td>
+</tr>
+<tr>
+  <td><em>Quel</em></td>
+  <td>noble / high</td>
+  <td>noble / high</td>
+  <td>Stable</td>
+</tr>
+<tr>
+  <td><em>ala/alah</em></td>
+  <td class="uncertain">(uncertain; possibly in <em>falah</em> "balance")</td>
+  <td>light</td>
+  <td class="uncertain">Uncertain — may not be cognate</td>
+</tr>
+</table>
+
+<p><strong>Inference:</strong> Where phonological form is preserved, semantic shift is the
+primary mechanism of divergence between Darnassian and Thalassian. This is consistent with
+a relatively recent separation (~7,300 years) where sound changes have not had time to
+accumulate significantly, but cultural divergence (lunar vs. solar worship, isolation vs.
+expansion) has driven lexical-semantic innovation.</p>
+
+<!-- ============================================================ -->
+<h2 id="etymology">Etymological Reconstruction</h2>
+
+<p>Reconstructed Proto-Elven forms are proposed based on the comparative method applied to
+attested Darnassian, Thalassian, and Shalassian forms. Each reconstruction is rated for
+reliability.</p>
+
+<h3>Secure Reconstructions (multiple cognate witnesses)</h3>
+
+<table>
+<tr><th>Proto-Elven</th><th>Gloss</th><th>Darnassian reflex</th><th>Thalassian reflex</th><th>Shalassian reflex</th><th>Confidence</th></tr>
+<tr>
+  <td class="reconstructed">*dorei</td>
+  <td>children of / people of</td>
+  <td>-dorei</td><td>-dorei</td><td>-dorei</td><td>High (3 witnesses)</td>
+</tr>
+<tr>
+  <td class="reconstructed">*quel</td>
+  <td>noble / high</td>
+  <td>Quel</td><td>Quel</td><td class="uncertain">—</td><td>High (2 witnesses)</td>
+</tr>
+<tr>
+  <td class="reconstructed">*belore</td>
+  <td>sun / light</td>
+  <td>belore</td><td>belore</td><td class="uncertain">—</td><td>High (2 witnesses)</td>
+</tr>
+<tr>
+  <td class="reconstructed">*kal</td>
+  <td>star</td>
+  <td>Kal</td><td>Kal (in Kaldorei)</td><td class="uncertain">—</td><td>High (2 witnesses)</td>
+</tr>
+</table>
+
+<h3>Probable Reconstructions (single cognate + semantic plausibility)</h3>
+
+<table>
+<tr><th>Proto-Elven</th><th>Gloss</th><th>Evidence</th><th>Confidence</th></tr>
+<tr>
+  <td class="reconstructed">*shal-</td>
+  <td>twilight / shadow</td>
+  <td>Shalassian <em>Shal</em>'dorei, Darnassian <em>Shaladrassil</em></td><td>Medium</td>
+</tr>
+<tr>
+  <td class="reconstructed">*dor- / *drassil</td>
+  <td>crown</td>
+  <td>Darnassian <em>dor/drassil</em> in World Tree names</td><td>Medium</td>
+</tr>
+<tr>
+  <td class="reconstructed">*aran</td>
+  <td>sanctuary / refuge</td>
+  <td>Shalassian <em>Shal'Aran</em>, <em>Aran'el</em></td><td>Medium–Low</td>
+</tr>
+<tr>
+  <td class="reconstructed">*ande-/andu-</td>
+  <td>optative / imperative particle ("may / let")</td>
+  <td>Darnassian <em>Andu</em>-falah-dor, Thalassian <em>Ande</em>'thoras-ethil</td><td>Medium</td>
+</tr>
+<tr>
+  <td class="reconstructed">*tel</td>
+  <td>earth</td>
+  <td>Darnassian <em>Tel</em>drassil</td><td>Low</td>
+</tr>
+<tr>
+  <td class="reconstructed">*nor</td>
+  <td>heavens / sky</td>
+  <td>Darnassian <em>Nor</em>drassil</td><td>Low</td>
+</tr>
+</table>
+
+<h3>The <em>Andu</em> / <em>Ande</em> Correspondence</h3>
+
+<p>A particularly interesting pair is Darnassian <em>Andu</em> (in <em>Andu-falah-dor</em>,
+"Let balance be restored") and Thalassian <em>Ande</em> (in <em>Ande'thoras-ethil</em>,
+"May your troubles be diminished").</p>
+
+<table>
+<tr><th>Language</th><th>Form</th><th>Function</th><th>Phonological shape</th></tr>
+<tr>
+  <td>Darnassian</td><td><em>Andu</em></td><td>jussive/imperative particle</td><td>CV.CV</td>
+</tr>
+<tr>
+  <td>Thalassian</td><td><em>Ande</em></td><td>optative particle</td><td>CV.CV</td>
+</tr>
+</table>
+
+<p>The vowel alternation <em>u</em> ~ <em>e</em> may reflect:</p>
+<ol>
+  <li>A Proto-Elven <span class="sound-change">*andV-</span> with vowel gradation conditioned by
+      the following syllable (ablaut)</li>
+  <li>A semantic分化: <em>andu</em> = jussive ("let"), <em>ande</em> = optative ("may")</li>
+  <li>An independent sound change: Proto-Elven <span class="sound-change">*andu</span> &gt;
+      Thalassian <em>ande</em> via <span class="sound-change">u &gt; e / _CV</span>
+      (word-final vowel raising/fronting)</li>
+</ol>
+
+<p>Hypothesis 3 is the most parsimonious. If correct, it represents the only attested
+regular sound change between Darnassian and Thalassian: <strong>word-final
+<span class="sound-change">*u &gt; e</span> in Thalassian</strong>. However, this rests on
+a single cognate pair and cannot be confirmed.</p>
+
+<h3>Proposed Darnassian-to-Thalassian Sound Changes</h3>
+
+<table>
+<tr><th>Sound Change</th><th>Environment</th><th>Evidence</th><th>Confidence</th></tr>
+<tr>
+  <td class="sound-change">*u &gt; e / _#</td>
+  <td>Word-finally</td>
+  <td>*andu &gt; ande</td><td>Low (1 example)</td>
+</tr>
+<tr>
+  <td class="sound-change">(no change)</td>
+  <td>Consonants and non-final vowels</td>
+  <td>*dorei, *quel, *belore unchanged</td><td>Moderate (multiple examples)</td>
+</tr>
+</table>
+
+<p><strong>Conclusion:</strong> Darnassian and Thalassian are remarkably conservative in
+their phonology. The primary divergence is <em>lexical and semantic</em>, not phonological.
+This is consistent with a relatively recent separation (~7,300 years) and continued cultural
+contact (the High Elves maintained trade and occasional communication with Kalimdor before
+the Third War).</p>
+
+<!-- ============================================================ -->
+<h2 id="wordlist">Comparative Wordlist</h2>
+
+<p>Words and morphemes across all three elven languages, grouped by semantic domain.
+Cells marked "—" indicate the word is not attested in that language; this may reflect
+corpus limitations rather than genuine absence.</p>
+
+<h3>People and Identity</h3>
+<table>
+<tr><th>Gloss</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th><th>Notes</th></tr>
+<tr><td>children of / people of</td><td>-dorei</td><td>-dorei</td><td>-dorei</td><td>Shared</td></tr>
+<tr><td>noble / high</td><td>Quel</td><td>Quel</td><td>—</td><td>Shared</td></tr>
+<tr><td>star</td><td>Kal</td><td>Kal (in Kaldorei)</td><td>—</td><td>Shared</td></tr>
+<tr><td>blood</td><td>—</td><td>Sin</td><td>—</td><td>Thalassian innovation</td></tr>
+<tr><td>void</td><td>—</td><td>Ren</td><td>—</td><td>Thalassian innovation</td></tr>
+<tr><td>twilight / arcane</td><td>—</td><td>—</td><td>Shal</td><td>Shalassian innovation</td></tr>
+<tr><td>servants / followers</td><td>Ilfari</td><td>—</td><td>—</td><td>Darnassian only</td></tr>
+<tr><td>travelers / wanderers</td><td>—</td><td>Malanorei</td><td>—</td><td>Thalassian only</td></tr>
+<tr><td>honored teacher</td><td>Shan'do</td><td>—</td><td>—</td><td>Darnassian only</td></tr>
+<tr><td>beloved student</td><td>Thero'shan</td><td>—</td><td>—</td><td>Darnassian only</td></tr>
+</table>
+
+<h3>Natural World</h3>
+<table>
+<tr><th>Gloss</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th><th>Notes</th></tr>
+<tr><td>sun</td><td>—</td><td>Belore</td><td>—</td><td>Thalassian primary</td></tr>
+<tr><td>sun / light (archaic)</td><td>Belore</td><td>—</td><td>—</td><td>Darnassian relic form</td></tr>
+<tr><td>moon</td><td>Isha, Elune</td><td>—</td><td>—</td><td>Darnassian only</td></tr>
+<tr><td>earth</td><td>Tel</td><td>—</td><td>—</td><td>Darnassian only</td></tr>
+<tr><td>heavens / sky</td><td>Nor</td><td>—</td><td>—</td><td>Darnassian only</td></tr>
+<tr><td>crown</td><td>Dor / Drassil</td><td>—</td><td>—</td><td>Darnassian only</td></tr>
+<tr><td>glory</td><td>Zin</td><td>—</td><td>—</td><td>Darnassian only</td></tr>
+<tr><td>light</td><td>—</td><td>Alah</td><td>—</td><td>Thalassian only</td></tr>
+<tr><td>home / kingdom</td><td>—</td><td>Thalas</td><td>—</td><td>Thalassian only</td></tr>
+<tr><td>sanctuary / refuge</td><td>—</td><td>—</td><td>Aran</td><td>Shalassian only</td></tr>
+</table>
+
+<h3>Grammatical Morphemes</h3>
+<table>
+<tr><th>Gloss</th><th>Darnassian</th><th>Thalassian</th><th>Shalassian</th><th>Notes</th></tr>
+<tr><td>jussive / optative ("let / may")</td><td>Andu / Tor</td><td>Ande</td><td>—</td><td>Cognate pair: *andu &gt; ande</td></tr>
+<tr><td>definite article / subject marker</td><td>—</td><td>Anu</td><td>—</td><td>Thalassian only</td></tr>
+<tr><td>negative particle</td><td>Endu</td><td>—</td><td>—</td><td>Darnassian only</td></tr>
+<tr><td>preposition ("by")</td><td>—</td><td>Anar</td><td>—</td><td>Thalassian only</td></tr>
+<tr><td>genitive/relational</td><td>—</td><td>Dei (in -dorei)</td><td>—</td><td>Thalassian analysis</td></tr>
+</table>
+
+<!-- ============================================================ -->
+<h2 id="grammar">Shared Grammatical Features</h2>
+
+<p>Features confirmed across two or more elven languages are listed below as inherited from
+Proto-Elven. Features attested in only one language are excluded (they may be innovations).</p>
+
+<h3>Inherited from Proto-Elven</h3>
+
+<table>
+<tr><th>Feature</th><th>Description</th><th>Attested In</th><th>Confidence</th></tr>
+<tr>
+  <td>-'dorei ethnonym compounding</td>
+  <td>Modifier + 'dorei = "Children of [X]"</td>
+  <td>All three</td><td>High</td>
+</tr>
+<tr>
+  <td>Apostrophe as morpheme boundary</td>
+  <td>Apostrophe separates compound-internal morphemes</td>
+  <td>All three</td><td>High</td>
+</tr>
+<tr>
+  <td>Hyphen as phrase boundary</td>
+  <td>Hyphen separates syntactic/phrase elements</td>
+  <td>Darnassian, Thalassian</td><td>High</td>
+</tr>
+<tr>
+  <td>Modifier-head compounding</td>
+  <td>Descriptive element precedes head noun</td>
+  <td>All three (in -dorei pattern)</td><td>High</td>
+</tr>
+<tr>
+  <td>Optative/jussive particle</td>
+  <td>Sentence-initial particle marking wishes/commands</td>
+  <td>Darnassian (<em>Andu</em>, <em>Tor</em>), Thalassian (<em>Ande</em>)</td><td>High</td>
+</tr>
+</table>
+
+<h3>Likely Innovations (not inherited)</h3>
+
+<table>
+<tr><th>Feature</th><th>Language</th><th>Description</th></tr>
+<tr>
+  <td>Solar vocabulary</td><td>Thalassian</td>
+  <td>Belore as primary celestial noun; Anar'alah belore as primary greeting</td>
+</tr>
+<tr>
+  <td>Void vocabulary</td><td>Thalassian</td>
+  <td><em>Ren</em> ("void") is a Thalassian innovation, reflecting Void Elf identity</td>
+</tr>
+<tr>
+  <td>Blood vocabulary</td><td>Thalassian</td>
+  <td><em>Sin</em> ("blood") is a Thalassian innovation reflecting the Blood Elf renaming</td>
+</tr>
+<tr>
+  <td>Arcane/twilight vocabulary</td><td>Shalassian</td>
+  <td><em>Shal</em> as productive ethnic morpheme reflects Nightborne arcane culture</td>
+</tr>
+<tr>
+  <td>Definite article <em>Anu</em></td><td>Thalassian</td>
+  <td>May be an innovation or a retained archaism lost in Darnassian</td>
+</tr>
+<tr>
+  <td>Druidic titles</td><td>Darnassian</td>
+  <td><em>Shan'do</em>, <em>Thero'shan</em> reflect Darnassian druidic tradition</td>
+</tr>
+</table>
+
+<hr>
+<p><em>Last updated: 2026-06-02. All reconstructions are provisional based on the limited attested corpus.
+No forms should be cited as established fact.</em></p>
+
+</body>
+</html>
