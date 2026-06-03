@@ -58,18 +58,23 @@
 - [x] Cross-reference Nazja with Darnassian/Thalassian/Shalassian for shared morphemes (elven-comparative.html updated)
 - [x] Research and add Tol'vir language (Uldum cat-people)
 - [x] Research and add Drust language (Kul Tiras witch-folk, Vrykul offshoot)
+- [x] Create HTML vocabulary file for Drust
+- [x] Cross-reference Drust with Vrykul language elements (shared morphemes, sound correspondences, Gol- prefix vs. Vrykul suffixes)
+- [x] Add Drust to titan-forged-comparative.html (Vrykul → Drust branch)
+- [x] Cross-reference Tol'vir with Titan and Mogu for shared morphemes
+- [x] Add Tol'vir to titan-forged-comparative.html (Titan → Tol'vir branch)
+- [x] Create a comprehensive cross-language comparison table (shared morphemes across all titan-forged languages)
+- [x] Add toponymic strategy comparison across all titan-forged languages
 
 ## Next Actions
 
 - [ ] Verify vocabulary against WoW wiki sources when web access is available
-- [ ] Create HTML vocabulary file for Drust
-- [ ] Cross-reference Drust with Vrykul language elements (shared morphemes, sound correspondences, Gol- prefix vs. Vrykul suffixes)
-- [ ] Add Drust to titan-forged-comparative.html (Vrykul → Drust branch)
-- [ ] Cross-reference Tol'vir with Titan and Mogu for shared morphemes
-- [ ] Add Tol'vir to titan-forged-comparative.html (Titan → Tol'vir branch)
-- [ ] Create a comprehensive cross-language comparison table (shared morphemes across all languages)
 - [ ] Add audio pronunciation guide links where available
 - [ ] Expand Tol'vir vocabulary with additional proper names from Uldum content
 - [ ] Expand Drust vocabulary with Drustvar zone names and NPC dialogue
 - [ ] Research and add Gnomish language (Mechagnome descendants, titan-forged)
 - [ ] Research and add Common/Human language (descended from Vrykul)
+- [ ] Add constructed example sentences for Tol'vir, Drust, Mogu, and Sethrak
+- [ ] Create HTML vocabulary file for Titan language
+- [ ] Investigate potential Drust-Gol connection to Titan Golganneth (Gol- morpheme shared?)
+- [ ] Deepen Tol'vir morpheme analysis with additional Uldum place name patterns
