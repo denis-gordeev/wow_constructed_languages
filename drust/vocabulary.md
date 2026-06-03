@@ -250,7 +250,7 @@ These are in-game readable objects that contain narrative descriptions of Drust 
 
 | Morpheme | Inferred Meaning | Evidence | Notes |
 |----------|-----------------|----------|-------|
-| Gol- | Settlement / place / fortress / stone-place | Gol Osigr, Gol Inath, Gol Koval, Gol Var | Not found in mainland Vrykul; Drust innovation. Four attested toponyms all use this prefix. |
+| Gol- | Settlement / place / fortress / stone-place | Gol Osigr, Gol Inath, Gol Koval, Gol Var | Not found in mainland Vrykul; Drust innovation. Four attested toponyms all use this prefix. May be connected to the *Gol-* element in Titan *Golganneth* — see grammar.md and titan-forged-comparative.html for analysis. |
 | -var | Land / home / region | Drustvar | Parallels Vrykul -heim (home/realm); may be a cognate or independent development |
 | Gorak- | King / lord / ruler / great one | Gorak Tul, Gorak Zhar | Two Drust leaders share this element; may be a title rather than a personal name |
 | -Tul | ? (title element?) | Gorak Tul | Distinguishes this Gorak from Gorak Zhar |
@@ -261,6 +261,19 @@ These are in-game readable objects that contain narrative descriptions of Drust 
 | Koval | ? (element in Gol Koval) | Gol Koval | Unknown |
 | Var | ? (element in Gol Var) | Gol Var | Note: different from the -var in "Drustvar"; Gol Var uses Var as a root, Drustvar uses -var as a suffix |
 
+### Additional Potential Drust Morphemes (from expanded analysis)
+
+| Morpheme | Inferred Meaning | Evidence | Notes |
+|----------|-----------------|----------|-------|
+| -kor / kor- | "hunter" / "hunter-kin" (?) | *Lorkron* the Hunter (Drust in Ardenweald) | If *Lorkron* = *Lor* + *kor* + *on*, the *kor* element may relate to hunting; parallels Vrykul *-korn* (kin/seed) |
+| Sef- | ? (name element) | *Sef Iwen* (Thornspeaker martyr) | First element of two-element personal name |
+| -iwen | ? (name element) | *Sef Iwen* | Second element; may be a personal name or epithet |
+| Kiv- | ? (name element) | *Kivarr* (Thornspeaker teacher) | Initial element; may relate to druidic tradition |
+| -arr | ? (name element) | *Kivarr* | Final element; parallels Vrykul *-arr* in some names |
+| Vade- | ? (name element) | *Vadekius* (at Drustvar location) | Initial element; Latin-sounding; may not be Drust |
+| Ath- | ? (name element) | *Athainne*, *Athair* (Thornspeaker names) | Shared initial in two Thornspeaker names; may be a druidic name element |
+| -ainne / -air | ? (name element) | *Athainne*, *Athair* | Shared ending in two Thornspeaker names; possibly related to Celtic *athair* ("father") |
+
 ### Speculative Morpheme Analysis
 
 | Comparison | Inference | Notes |
@@ -270,6 +283,20 @@ These are in-game readable objects that contain narrative descriptions of Drust 
 | Drustvar | "Drust" + "-var" = "land of the Drust" | Consistent with Vrykul compounding pattern (modifier + head) |
 | Sef Iwen | Two-element personal name | May follow Vrykul compound name patterns |
 | Vadekius | Possible Drust personal name | Latin-sounding; may be a Common-language name rather than Drust |
+| Athainne / Athair | Shared initial *Ath-* in two Thornspeaker names | May be a druidic name prefix; cf. Celtic *athair* ("father") or *ath* ("renewal") |
+| Lorkron | Compound name structure | *Lor* + *kron*; parallels Vrykul compound names; "the Hunter" title suggests martial meaning |
+
+### Drustvar Place Names with Potential Drust Etymologies
+
+Several place names in Drustvar may contain Drust-language elements, even though they appear in Common:
+
+| Name | Potential Drust Element | Notes |
+|------|------------------------|-------|
+| Corlain | *Corl-* or *-lain* | Possibly Drust-influenced; does not follow standard English place-name patterns |
+| Arom's Stand | "Arom" | Named after Arom Waycrest; "Arom" may be Drust-influenced phonology |
+| Barrowknoll | *Barrow-* | "Barrow" may translate a Drust word for burial mound |
+| Barbthorn | *Barb-* + *thorn* | May be a translation of a Drust compound (spine/thorn) |
+| Iwen's Sanctum | "Iwen" | Named after Sef Iwen; "Iwen" may be a Drust name element |
 
 ## 6. Relationship to Vrykul Naming Patterns
 

@@ -51,6 +51,7 @@ This is consistent with the Vrykul vowel system. The diphthongs /aɪ/ and /ɔɪ/
 - **Function**: Forms Drust place names, likely designating a Drust settlement or structure
 - **Parallel**: No direct parallel in mainland Vrykul. The Vrykul use -heim (home/realm), -garde (enclosure), and -bron (hold/fortress) as place-name suffixes. Drust uses Gol- as a **prefix**, which is a structural innovation.
 - **Etymology**: May be related to "gol" meaning "stone" in some Celtic languages (cf. Irish "gall" = "stone/rock"), though this real-world parallel should not be treated as canon evidence.
+- **Potential Titan connection**: The *Gol-* element in the Titan Pantheon name *Golganneth* (Lord of the Skies and Roaring Oceans) shares an identical phonological shape with Drust *Gol-*. If *Gol-* is a genuine Titan morpheme, it may have had a broader meaning ("great/mighty/primary") in Titan that narrowed to "stronghold/fortress" in Drust. The structural parallel with Titan *Uld-* (both being prefix-based place-naming) supports the hypothesis that Drust *Gol-* is a retention from an earlier stage of the titan-forged language family, preserved by the Thornspeaker druidic tradition. However, the semantic gap between "settlement" and a Pantheon name element makes this connection speculative. See titan-forged-comparative.html for full analysis. **Confidence: Low.**
 
 | Place Name | Decomposition | Inferred Meaning |
 |------------|---------------|------------------|

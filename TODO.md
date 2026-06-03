@@ -65,16 +65,24 @@
 - [x] Add Tol'vir to titan-forged-comparative.html (Titan → Tol'vir branch)
 - [x] Create a comprehensive cross-language comparison table (shared morphemes across all titan-forged languages)
 - [x] Add toponymic strategy comparison across all titan-forged languages
+- [x] Create HTML vocabulary file for Titan language (already existed as titan/vocabulary.html)
+- [x] Add constructed example sentences for Tol'vir, Drust, Mogu, and Sethrak
+- [x] Investigate potential Drust-Gol connection to Titan Golganneth (analysis added to titan-forged-comparative.html and drust/grammar.md; conclusion: speculative, low confidence)
+- [x] Research and add Gnomish language (Mechagnome descendants, titan-forged)
+- [x] Research and add Common/Human language (descended from Vrykul)
+- [x] Expand Tol'vir vocabulary with additional proper names from Uldum content (Amathet tribe, BfA 8.3 additions)
+- [x] Expand Drust vocabulary with Drustvar zone names and NPC dialogue (Thornspeaker names, Ardenweald Drust, potential Drust toponym elements)
+- [x] Deepen Tol'vir morpheme analysis with additional Uldum place name patterns (expanded -et/-ep alternation analysis, -en pattern, Vir'- prefix distribution)
 
 ## Next Actions
 
 - [ ] Verify vocabulary against WoW wiki sources when web access is available
 - [ ] Add audio pronunciation guide links where available
-- [ ] Expand Tol'vir vocabulary with additional proper names from Uldum content
-- [ ] Expand Drust vocabulary with Drustvar zone names and NPC dialogue
-- [ ] Research and add Gnomish language (Mechagnome descendants, titan-forged)
-- [ ] Research and add Common/Human language (descended from Vrykul)
-- [ ] Add constructed example sentences for Tol'vir, Drust, Mogu, and Sethrak
-- [ ] Create HTML vocabulary file for Titan language
-- [ ] Investigate potential Drust-Gol connection to Titan Golganneth (Gol- morpheme shared?)
-- [ ] Deepen Tol'vir morpheme analysis with additional Uldum place name patterns
+- [ ] Create HTML vocabulary files for Tol'vir, Drust, Mogu, Sethrak, Gnomish, and Common (currently only markdown versions exist)
+- [ ] Expand Gnomish vocabulary with additional mechagnome and gnomish NPC names from Mechagon content
+- [ ] Expand Common vocabulary with additional human kingdom and NPC names
+- [ ] Add constructed example sentences for Gnomish and Common to example-sentences.html
+- [ ] Add Gnomish and Common cross-references to titan-forged-comparative.html
+- [ ] Research additional Drust Stele inscription content for possible Drust-language fragments
+- [ ] Investigate potential Vrykul sound changes reflected in Common place names beyond Tirisfal
+- [ ] Deepen Drust morpheme analysis: investigate whether *-kor* in *Lorkron* relates to Vrykul *-korn*

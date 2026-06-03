@@ -85,6 +85,44 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Halls of Origination | — | Titan facility | Not a Tol'vir name — English/Titan. Contains the Forge of Origination. |
 | Neferset City | — | Capital of the Neferset | Southern Uldum delta. |
 
+### Additional Uldum Place Names (BfA Patch 8.3)
+
+The N'Zoth assault on Uldum (Battle for Azeroth patch 8.3) introduced additional locations and NPCs. Several are in Common but some may preserve Tol'vir morphemes:
+
+| Word | IPA | Description | Source / Notes |
+|------|-----|-------------|----------------|
+| Obelisk of the Sun | — | Ancient tol'vir monument | Common-language name; the obelisk itself may have a Tol'vir name |
+| Ruins of Ammon | — | Amathet-controlled area | "Ammon" is the Tol'vir name (cf. Egyptian *Amun*) |
+| Tomb of the Sun King | — | Amathet-occupied tomb | Contains Amathet forces; English name |
+| Halls of Origination | — | Titan facility (Amathet-occupied) | English/Titan name; Amathet sought to use the Forge |
+| Uldum Accord Camp | — | Alliance base | Common-language name |
+| Ramkahen Legion Outpost | — | Ramkahen military camp | Already listed above; reinforced in BfA |
+| Sunstone Terrace | — | Amathet territory | Already listed above; expanded in BfA |
+
+### Amathet-Specific Names (BfA Patch 8.3)
+
+| Word | IPA | Description | Source / Notes |
+|------|-----|-------------|----------------|
+| Amathet | /ɑˈmɑθɛt/ | Stone tol'vir tribe | Emerged from tombs unearthed by Sargeras' sword. Unaffected by Curse of Flesh. Wield solar magic. Possible decomposition: *Ama* + *thet*. |
+| Nahkotep | /nɑˈkoʊtɛp/ | Sun King of the Amathet | Cf. Egyptian *-hotep* ("pleased/at peace"). |
+| Abari | /ɑˈbɑri/ | Prince of the Amathet | Secondary leader. |
+| Lapisa | /lɑˈpiːsɑ/ | Prophet of the Amathet | Name may be Tol'vir. |
+| Epaphos | /ɛˈpɑfoʊs/ | Sun Prophet of the Amathet | Greek-sounding; may not be Tol'vir. |
+| Tenhamen | /tɛnˈhɑmɛn/ | Sun Prophet of the Amathet | Cf. Egyptian *Amun* in the *-hamen* element. |
+| Nubitt | /nuːˈbɪt/ | Sun Priestess of the Amathet | Cf. Nubia (region); may be Egyptian-inspired. |
+
+### Additional Uldum NPC Names
+
+| Word | IPA | Description | Source / Notes |
+|------|-----|-------------|----------------|
+| Sun Prophet Neder | /ˈnɛdɛr/ | Amathet sun prophet | "Neder" may be Tol'vir; no etymology confirmed. |
+| Sun Priest Asar | /əˈsɑr/ | Amathet sun priest | Cf. Egyptian *Osiris* (Asar); may be intentional. |
+| Sun Captain Arete | /əˈrɛteɪ/ | Amathet captain | Greek-sounding name; may not be Tol'vir. |
+| General Ammantep | /ɑˈmɑntɛp/ | Amathet military leader | Contains *-tep* element; cf. *-hotep* pattern. |
+| Paku'ai | /pɑˈkuːaɪ/ | Tol'vir NPC | Apostrophe marks morpheme boundary. |
+| Zunashi | /zuˈnɑːʃi/ | Ramkahen tol'vir | No known decomposition. |
+| Kusambi | /kuˈsɑːmbi/ | Ramkahen tol'vir | No known decomposition. |
+
 ## Proper Names — Artifacts and Items
 
 | Word | IPA | Description | Source / Notes |
@@ -137,15 +175,86 @@ These items are discovered through the Archaeology profession from Tol'vir dig s
 
 ## Roots and Morphemes
 
+### Confirmed
+
 | Morpheme | Gloss | Evidence | Certainty |
 |----------|-------|----------|-----------|
-| Vir' | (possibly "water" or "river") | Shared prefix in *Vir'naal* (river system) and *Vir'sar* (oasis). Both are water features. | Low |
-| -en | (possibly "place" / "settlement") | Shared ending in *Ramkahen* (capital city) and possibly *Akhenet* (if *-en-et*), *Ankhaten* (harbor). All are settlements. | Very Low |
-| -et / -ep | (possibly locative suffix) | Shared ending in *Amathet*, *Akhenet*, *Hamatep*, *Sahket*, *Khintaset*. All are place names. The alternation *-et* / *-ep* may reflect phonological conditioning or different suffixes. | Very Low |
-| Al'- | (possibly definite article "the") | *Al'burq* and *Alra'ed* — both names of the Fists of the Heavens. If *Al'* = "the" (cf. Arabic *al-*), then *burq* = "lightning/flash" and *ra'ed* = "thunder," which fits weapons associated with Al'Akir (Elemental Lord of Air). | Low–Medium (strong Arabic parallel, but unconfirmed) |
-| -hotep / -tep | (possibly "pleased" or title element) | *Tebhotep*, *Hamatep*, *Nahkotep*. Cf. Egyptian *-hotep* ("pleased/at peace"). If intentional, this may be a title element meaning something like "satisfied" or "blessed." | Low |
-| Nefer- | (possibly "beautiful" / "good") | *Neferset*. Cf. Egyptian *nfr* ("beautiful/good"), as in Nefertiti. If intentional, *Neferset* could mean "beautiful place" or "good settlement." | Very Low |
-| khopesh | "sickle sword" | Confirmed translation from Scimitar of the Sirocco. The only confirmed common noun. | High |
+| khopesh | "sickle sword" | Confirmed translation from Scimitar of the Sirocco | High |
+
+### High-Probability Morphemes
+
+| Morpheme | Gloss | Evidence | Certainty |
+|----------|-------|----------|-----------|
+| Vir' | "water" or "river" | Shared prefix in *Vir'naal* (river system) and *Vir'sar* (oasis). Both are water features. The simplest analysis is *Vir* = "water/river". | Medium |
+| Al'- | definite article "the" | *Al'burq* and *Alra'ed* — both names of the Fists of the Heavens. If *Al'* = "the" (cf. Arabic *al-*), then *burq* = "lightning/flash" and *ra'ed* = "thunder," which fits weapons associated with Al'Akir (Elemental Lord of Air). | Low–Medium |
+
+### Medium-Probability Morphemes
+
+| Morpheme | Gloss | Evidence | Certainty |
+|----------|-------|----------|-----------|
+| -en | "place" / "settlement" | Shared ending in *Ramkahen* (capital city) and possibly *Akhenet* (if *-en-et*), *Ankhaten* (harbor). All are settlements. | Low |
+| -et / -ep | locative suffix | Shared ending in *Amathet*, *Akhenet*, *Sahket*, *Khintaset*, *Tahret*, *Hamatep*, *Nahkotep*, *Ammantep*. All are place names or title names. The alternation *-et* / *-ep* may reflect phonological conditioning (e.g., *-ep* after certain vowels) or different suffixes. | Low |
+| -tep / -hotep | "pleased" / "blessed" / title element | *Tebhotep*, *Hamatep*, *Nahkotep*, *Ammantep*. Cf. Egyptian *-hotep* ("pleased/at peace"). If this is a productive Tol'vir element, it may be a title component meaning "blessed" or "divinely approved." The *-tep* form may be a reduced variant of *-hotep*. | Low |
+
+### Low-Probability Morphemes
+
+| Morpheme | Gloss | Evidence | Certainty |
+|----------|-------|----------|-----------|
+| Nefer- | "beautiful" / "good" | *Neferset*. Cf. Egyptian *nfr* ("beautiful/good"), as in Nefertiti. If intentional, *Neferset* could mean "beautiful place" or "good settlement." | Very Low |
+| -set | locative / tribal suffix | *Neferset*. If *-set* is a suffix, *Neferset* = *Nefer* + *-set*. Could be related to *-et* locative. | Very Low |
+| Ankh- / -ankh | "life" | *Ankhaten*. Cf. Egyptian *ankh* ("life"). If intentional, *Ankhaten* could mean "Life of the Sun Disk." | Very Low |
+| -aten | "sun disk" | *Ankhaten*. Cf. Egyptian *aten* ("sun disk"). If intentional, parallels *Akhenaten*. | Very Low |
+| Ama- | "sun" (?) or unknown | *Amathet* (*Ama* + *thet*), *Ammunae* (Titan keeper). Both are associated with solar imagery. *Amathet* wield solar magic; *Ammunae* is the Construct of Life in the Halls of Origination. | Very Low |
+| -kess / -kas | unknown suffix | Not directly attested; noted for comparison with Nazja *-kess* tribal suffix. No Tol'vir example. | N/A |
+
+### Deepened Morpheme Analysis: Uldum Place-Name Patterns
+
+#### The *-et / -ep* Alternation
+
+The place names of Uldum show a recurring pattern of *-et* and *-ep* endings:
+
+| Name | Ending | Type | Preceding Vowel |
+|------|--------|------|-----------------|
+| Amathet | -et | Tribe/place | e |
+| Akhenet | -et | Settlement | e |
+| Sahket | -et | Wasteland | e |
+| Khintaset | -et | Ruin | e |
+| Tahret | -et | Farm/dynasty | e |
+| Hamatep | -ep | Gate | e |
+| Nahkotep | -ep | Person (Sun King) | e |
+| Tebhotep | -ep | Person (pharaoh) | e |
+| Ammantep | -ep | Person (general) | e |
+
+**Observation:** The *-et* ending appears exclusively in place names, while *-ep* appears in both place names (*Hamatep*) and personal names (*Nahkotep*, *Tebhotep*, *Ammantep*). This suggests either:
+
+1. *-et* and *-ep* are different suffixes: *-et* = locative, *-ep* = title/honorific (cf. Egyptian *-hotep*)
+2. *-ep* is a phonologically conditioned variant of *-et* that appears after certain consonant patterns
+3. The alternation is coincidental — these are monomorphemic names
+
+**Most likely analysis:** If *-ep* contains the *-hotep* element (as suggested by the Egyptian parallels), then *-ep* is a title element meaning "pleased/blessed" while *-et* is a locative suffix. The appearance of *-ep* in *Hamatep* (a gate, not a person) is problematic for this analysis, unless *Hamatep* is named after a person (the "Gate of Hamatep").
+
+#### The *-en* Pattern
+
+| Name | Ending | Type | Decomposition |
+|------|--------|------|---------------|
+| Ramkahen | -en | Capital city | *Ramka* + *hen* or *Ram* + *kahen* |
+| Akhenet | -en- | Settlement | *Akhen* + *et* (if *-en* precedes *-et*) |
+| Ankhaten | -en | Harbor | *Ankh* + *aten* (if *-en* is part of *aten*) |
+
+The *-en* ending is less clearly a suffix. In *Ramkahen*, it may be part of a compound (*kahen* = unknown). In *Ankhaten*, *-en* is part of the *aten* element. The evidence for *-en* as a productive suffix is weak.
+
+#### The *Vir'*- Prefix Distribution
+
+| Name | Root | Feature Type |
+|------|------|-------------|
+| Vir'naal | *naal* | River (major water system) |
+| Vir'sar | *sar* | Oasis |
+
+Both *Vir'naal* and *Vir'sar* are water features, supporting the interpretation of *Vir'* as a water/river prefix. The roots *naal* and *sar* may specify the type of water feature:
+- *naal* = "river" or "flowing water" (Vir'naal is the major river system)
+- *sar* = "still water" or "pool" (Vir'sar is an oasis)
+
+This is speculative but internally consistent.
 
 ## Potential Morphemic Decompositions (Speculative)
 
