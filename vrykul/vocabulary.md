@@ -315,7 +315,7 @@
 | Name | Description |
 |------|-------------|
 | Bloodwake | Vrykul clan |
-| Drust | Vrykul who settled Kul Tiras; became witch-focused culture |
+| Drust | Vrykul who settled Kul Tiras; became witch-focused culture | See [drust/](../drust/) for full Drust vocabulary |
 | Fleshrot | Vrykul group |
 
 ### The War Within
@@ -395,6 +395,7 @@ Titan
     │   ├── Northrend dialect
     │   ├── Stormheim dialect
     │   ├── Kvaldir variant
+    │   ├── Drust (see drust/ for full documentation)
     │   └── Common (Human) — simplified descendant
     ├── Dwarven (via Earthen)
     ├── Gnomish (via Mechagnomes)

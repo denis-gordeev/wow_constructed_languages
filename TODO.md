@@ -50,17 +50,26 @@
 - [x] Cross-reference Sethrak and Zandali naming patterns
 - [x] Add constructed example sentences for Taur-ahe and Dwarven
 - [x] Update README with new languages (Titan, Vrykul, Nazja)
+- [x] Create HTML vocabulary files for Titan and Vrykul
+- [x] Add constructed example sentences for Titan, Vrykul, and Nazja
+- [x] Update elven-comparative.html to include Nazja as a fourth elven language
+- [x] Create Titan-forged language family comparison (Titan → Vrykul → Common/Drust; Titan → Dwarven; Titan → Mogu; Titan → Tol'vir)
+- [x] Cross-reference Vrykul with Titan and Dwarven language elements (titan-forged-comparative.html)
+- [x] Cross-reference Nazja with Darnassian/Thalassian/Shalassian for shared morphemes (elven-comparative.html updated)
+- [x] Research and add Tol'vir language (Uldum cat-people)
+- [x] Research and add Drust language (Kul Tiras witch-folk, Vrykul offshoot)
 
 ## Next Actions
 
 - [ ] Verify vocabulary against WoW wiki sources when web access is available
-- [ ] Create HTML vocabulary files for Titan, Vrykul, and Nazja
-- [ ] Add constructed example sentences for Titan, Vrykul, and Nazja
-- [ ] Cross-reference Vrykul with Titan and Dwarven language elements
-- [ ] Cross-reference Nazja with Darnassian/Thalassian/Shalassian for shared morphemes
+- [ ] Create HTML vocabulary file for Drust
+- [ ] Cross-reference Drust with Vrykul language elements (shared morphemes, sound correspondences, Gol- prefix vs. Vrykul suffixes)
+- [ ] Add Drust to titan-forged-comparative.html (Vrykul → Drust branch)
+- [ ] Cross-reference Tol'vir with Titan and Mogu for shared morphemes
+- [ ] Add Tol'vir to titan-forged-comparative.html (Titan → Tol'vir branch)
 - [ ] Create a comprehensive cross-language comparison table (shared morphemes across all languages)
 - [ ] Add audio pronunciation guide links where available
-- [ ] Update elven-comparative.html to include Nazja as a fourth elven language
-- [ ] Create a Titan-forged language family comparison (Titan → Vrykul → Common; Titan → Dwarven; Titan → Mogu; Titan → Tol'vir)
-- [ ] Research and add Tol'vir language (Uldum cat-people)
-- [ ] Research and add Drust language (Kul Tiras witch-folk, Vrykul offshoot)
+- [ ] Expand Tol'vir vocabulary with additional proper names from Uldum content
+- [ ] Expand Drust vocabulary with Drustvar zone names and NPC dialogue
+- [ ] Research and add Gnomish language (Mechagnome descendants, titan-forged)
+- [ ] Research and add Common/Human language (descended from Vrykul)
