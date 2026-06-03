@@ -41,17 +41,26 @@
 - [x] Research and add Sethrak language (Vol'dun serpent people)
 - [x] Cross-reference Pandaren and Mogu language elements
 - [x] Add Nexian/Nature language elements (Druidic communication)
+- [x] Create HTML vocabulary files for Shalassian, Mogu, Sethrak, and Nature
+- [x] Research and add Titan language (Titan facilities across Azeroth)
+- [x] Research and add Vrykul language (Northrend viking-like race)
+- [x] Research and add Naga language (Nazjatar naga)
+- [x] Expand Mogu vocabulary with additional canon phrases from Mists of Pandaria
+- [x] Cross-reference Dwarven with Titan language elements
+- [x] Cross-reference Sethrak and Zandali naming patterns
+- [x] Add constructed example sentences for Taur-ahe and Dwarven
+- [x] Update README with new languages (Titan, Vrykul, Nazja)
 
 ## Next Actions
 
 - [ ] Verify vocabulary against WoW wiki sources when web access is available
-- [ ] Create HTML vocabulary files for Shalassian, Mogu, Sethrak, and Nature
-- [ ] Research and add Titan language (Titan facilities across Azeroth)
-- [ ] Research and add Vrykul language (Northrend viking-like race)
-- [ ] Research and add Naga language (Nazjatar naga)
-- [ ] Cross-reference Dwarven with Titan language elements
-- [ ] Add constructed example sentences for Orcish, Taur-ahe, and Dwarven
-- [ ] Expand Mogu vocabulary with additional canon phrases from Mists of Pandaria
-- [ ] Cross-reference Sethrak and Zandali naming patterns
+- [ ] Create HTML vocabulary files for Titan, Vrykul, and Nazja
+- [ ] Add constructed example sentences for Titan, Vrykul, and Nazja
+- [ ] Cross-reference Vrykul with Titan and Dwarven language elements
+- [ ] Cross-reference Nazja with Darnassian/Thalassian/Shalassian for shared morphemes
 - [ ] Create a comprehensive cross-language comparison table (shared morphemes across all languages)
 - [ ] Add audio pronunciation guide links where available
+- [ ] Update elven-comparative.html to include Nazja as a fourth elven language
+- [ ] Create a Titan-forged language family comparison (Titan → Vrykul → Common; Titan → Dwarven; Titan → Mogu; Titan → Tol'vir)
+- [ ] Research and add Tol'vir language (Uldum cat-people)
+- [ ] Research and add Drust language (Kul Tiras witch-folk, Vrykul offshoot)

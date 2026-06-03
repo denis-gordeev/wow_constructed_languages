@@ -42,6 +42,25 @@ Unlike Taur-ahe, compounding does not appear to use apostrophes as regular marke
 - Word order cannot be determined
 - The language may follow a modifier-head structure in compounds (inferred) from Dun Morogh (fortress + descriptor)
 
+## Titan-Dwarven Linguistic Connection
+
+Dwarves are descended from the Earthen, titan-forged stone beings created by Khaz'goroth. The Dwarven language preserves several morphemes of Titan origin:
+
+### Confirmed Titan Loans
+
+- **Uld-** — The prefix meaning "city" or "facility" appears in Dwarven-associated place names (*Ulduar*, *Uldum*, *Uldaman*). This is a direct Titan loanword, not a native Dwarven morpheme.
+- **Khaz** — The root meaning "forge" or "shape" appears in both the Titan creator's name (*Khaz'goroth* = "Shaper of Worlds") and the Dwarven kingdom (*Khaz Modan* = "Mountain of Khaz"). Dwarves likely preserved this as a proper-name element rather than a productive morpheme.
+- **Earthen** — The name of the titan-forged progenitors is a Titan designation, not a native Dwarven word.
+
+### Possible Sound Correspondences
+
+| Dwarven | Titan | Proposed Correspondence | Confidence |
+|---------|-------|------------------------|-----------|
+| -modan | -dor (in *Kalimdor*) | Both relate to land/mountain; *-dor* = "land" in Titan, *-modan* = "mountain" in Dwarven | Low |
+| -dun | -den (in *Ra-den*) | Both appear in fortification/authority contexts | Very Low |
+
+These correspondences are highly speculative. The sample size is too small to confirm regular sound changes between Titan and Dwarven.
+
 ## Limitations
 
-Dwarven grammar is almost entirely unattested beyond place name decomposition. The compounding patterns observed in toponyms may not reflect everyday syntax. Many "Dwarven" place names could be Common renderings of original Dwarven terms.
+Dwarven grammar is almost entirely unattested beyond place name decomposition. The compounding patterns observed in toponyms may not reflect everyday syntax. Many "Dwarven" place names could be Common renderings of original Dwarven terms. The Titan-Dwarven connection is inferential; no Blizzard source explicitly confirms linguistic descent.

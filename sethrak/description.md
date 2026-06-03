@@ -36,6 +36,19 @@ The Sethrak coexist with Zandalari trolls on Zandalar. Several indicators sugges
 - The title "loa" is a Zandali term applied to Sethraliss; the Sethrak may have their own term for the concept.
 - *Atul'Aman* uses the Zandali apostrophe convention and may be Zandali in origin rather than Sethrak.
 
+### Cross-Reference: Sethrak and Zandali Naming Patterns
+
+| Feature | Sethrak | Zandali | Analysis |
+|---------|---------|---------|----------|
+| Apostrophe usage | *Jakra'zet* (1 attestation) | *Zul'jin*, *Zul'farrak*, *Tal'farrak*, *Zul'Drak*, *Jin'rokh* | Zandali convention; Sethrak borrowing likely |
+| People-suffix | *-rak* (in *Sethrak*) | *-ari* (in *Zandalari*), *-aki* (in *Drakkari*) | Different morphemes; no shared suffix |
+| Loa terminology | Uses Zandali "loa" for Sethraliss | Native concept; extensive loa vocabulary | Sethrak borrowed "loa" from Zandali |
+| Place-name apostrophe | *Atul'Aman* (likely Zandali) | *Zul'farrak*, *Zul'Drak*, *Zul'Aman* | Shared *Zul-/Atul-* + *Aman* pattern |
+| Morpheme boundary | Apostrophe = morpheme boundary | Apostrophe = morpheme boundary | Orthographic borrowing confirmed |
+| Initial /z/ names | None attested | Very common (*Zul-*, *Zanza*, *Zel'hi*) | No Sethrak names begin with /z/ |
+
+The apostrophe-as-morpheme-boundary convention is the strongest shared feature, and it is clearly a borrowing from Zandali orthographic tradition rather than a native Sethrak development. The Sethrak language does not share the prolific *Zul-* prefix, *-ari* tribal suffix, or other core Zandali morphemes, indicating that the two languages are genetically unrelated despite cultural contact.
+
 ### Vulpera
 
 The Vulpera and Sethrak coexist in Vol'dun. The Vulpera were persecuted by the Faithless and allied with the Devoted. Possible linguistic contact includes:

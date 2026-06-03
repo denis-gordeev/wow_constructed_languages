@@ -15,18 +15,32 @@ The apostrophe in *Mogu'shan* marks a morpheme boundary between the two compound
 
 ### Potential Suffixation
 
-**-shen** (inferred: "king" / "ruler"): Possibly a title suffix indicating rulership or authority.
+**-shen** (inferred: "god" / "deity" / "ruler"): Possibly a title suffix indicating divine authority or rulership.
 
-- *Lei Shen* = "Thunder King" (*lei* + *shen*)
+- *Lei Shen* = "Thunder God" (*lei* + *shen*)
 
-If *shen* is a productive suffix, it could theoretically combine with other roots to form titles. Only one attestation exists, so this remains highly speculative.
+If *shen* is a productive suffix, it could theoretically combine with other roots to form titles. Only one attestation exists, so this remains highly speculative. The Shen dynasty bears the same morpheme, suggesting it may also function as a dynasty name.
 
-**-shan** (inferred: "palace" / "mountain"): A toponymic element appearing in place names.
+**-shan** (inferred: "mountain"): A toponymic element appearing in place names.
 
-- *Mogu'shan Palace* = "Mogu Palace" (*Mogu* + *shan*)
-- *Mogu'shan Vaults* = same *shan* element
+- *Mogu'shan* = "Mogu Mountain" (*Mogu* + *shan*)
+- *Shan'ze* = *shan* ("mountain") + *ze* (unknown)
 
-Whether *-shan* is a suffix or an independent noun is unclear. Its appearance in both compounds (and its potential overlap with Pandaren vocabulary) complicates analysis.
+Chinese localization confirms 山 (shān) = "mountain." Whether *-shan* is a suffix or an independent noun is unclear. It appears as both a second element (*Mogu'shan*) and a first element (*Shan'ze*), suggesting it may be a free morpheme that can occur in either position.
+
+**-xi** (inferred: "emperor" / "ruler"?): A shared element in two boss names from the "Will of the Emperor" encounter.
+
+- *Qin-xi* = *qin* + *xi*
+- *Jan-xi* = *jan* + *xi*
+
+The encounter is named "Will of the Emperor," and the hyphenated structure suggests *-xi* may be a title. Only two attestations exist, both from the same encounter, so this remains highly speculative.
+
+**-ani** (inferred: clan-designation suffix?): A shared ending in two clan names.
+
+- *Dokani* = *dok* + *ani* (?)
+- *Rajani* = *raj* + *ani* (?)
+
+If *-ani* is a clan suffix, it could indicate group membership or affiliation. Only two attestations exist. The other three clan names (*Shan'ze*, *Baruk*, *Zan-Tien*) do not share this ending, which may indicate that *-ani* is not productive, or that these clans have a different morphological origin.
 
 ### Name-Epithet Pattern
 
@@ -36,6 +50,10 @@ Several Mogu names follow a pattern of a short Mogu word followed by an English 
 - *Zian* of the Endless Shadow
 - *Meng* the Demented
 - *Xin* the Weaponmaster
+- *Feng* the Accursed
+- *Kuai* the Brigand
+- *Hai* the Unbreakable
+- *Ming* the Cunning
 
 The Mogu element in each case may be a given name that semantically echoes the English epithet. If so, this would suggest that Mogu personal names carry lexical meaning (a common cross-linguistic pattern), and that the English epithets are translations or glosses of the Mogu names:
 
@@ -43,16 +61,49 @@ The Mogu element in each case may be a given name that semantically echoes the E
 - *Zian* ≈ "shadow/dark" → "of the Endless Shadow"
 - *Meng* ≈ "mad/fierce" → "the Demented"
 - *Xin* ≈ "weapon/blade" → "the Weaponmaster"
+- *Feng* ≈ "accursed" → "the Accursed"
+- *Kuai* ≈ "brigand/swift" → "the Brigand"
+- *Hai* ≈ "unbreakable" → "the Unbreakable"
+- *Ming* ≈ "bright/cunning" → "the Cunning"
 
 This pattern is (inferred) and not confirmed by Blizzard.
+
+### Hyphenated Compound Names
+
+Two Mogu bosses use a hyphenated compound pattern:
+
+- *Qin-xi* (Will of the Emperor)
+- *Jan-xi* (Will of the Emperor)
+
+The hyphen may mark a morpheme boundary, similar to the apostrophe in *Mogu'shan* and *Lu'lin*. The shared *-xi* element suggests this is a title or suffix rather than part of the personal name.
+
+### Dynasty Name Pattern
+
+Three Mogu dynasty names are attested: *Shen*, *Wai*, *Qiang*. Each is a single morpheme that also appears as a personal name element or standalone name:
+
+- *Shen*: same morpheme as in *Lei Shen* ("Thunder God")
+- *Qiang*: same as *Qiang the Merciless*
+- *Wai*: no other attestation
+
+Dynasties may be named after a founder or defining characteristic, consistent with the Mogu practice of naming individuals for their dominant traits.
 
 ### Apostrophe Usage
 
 The apostrophe in Mogu orthography appears to mark a morpheme boundary:
 
 - *Mogu'shan*: *Mogu* + *shan* — the apostrophe separates two compounding roots.
+- *Shan'ze*: *shan* + *ze* — the apostrophe separates two morphemes.
+- *Lu'lin*: *lu* + *lin* — the apostrophe separates two morphemes in a Twin Consort's name.
 
-Only one attestation of the apostrophe exists in Mogu. Whether it also indicates a phonological feature (e.g., glottal stop) is unknown.
+Three attestations of the apostrophe exist in Mogu, all marking morpheme boundaries within compounds. Whether it also indicates a phonological feature (e.g., glottal stop) is unknown.
+
+The hyphen is also used as a morpheme boundary marker:
+
+- *Qin-xi*: *qin* + *xi*
+- *Jan-xi*: *jan* + *xi*
+- *Zan-Tien*: *zan* + *tien*
+
+The hyphen may indicate a looser compound or different morphological process than the apostrophe, but the sample size is too small to confirm.
 
 ## Syntax
 
@@ -70,12 +121,12 @@ No data available.
 
 Based on attested forms, Mogu consonants include:
 
-- **Stops**: /m/, /k/, /g/, /t/, /b/, /d/
-- **Affricates**: /tʃ/ (Qiang), /dʒ/ (possible in some names)
-- **Fricatives**: /ʃ/ (Shen, Shan), /z/ (Zian), /θ/ (Molthor)
+- **Stops**: /p/, /b/, /t/, /d/, /k/, /g/
+- **Affricates**: /tʃ/ (Qiang, Qin-xi), /dʒ/ (Jan-xi)
+- **Fricatives**: /f/ (Feng), /ʃ/ (Shen, Shan, Xin), /z/ (Zian, Zan-Tien), /θ/ (Molthor)
 - **Nasals**: /m/, /n/
 - **Liquids**: /r/, /l/
-- **Glottal**: /ʔ/ (possible, suggested by apostrophe in Mogu'shan)
+- **Glottal**: /ʔ/ (possible, suggested by apostrophe in Mogu'shan, Shan'ze, Lu'lin)
 
 ### Consonant Clusters
 
@@ -84,14 +135,16 @@ Mogu permits some consonant clusters, though they are less complex than those in
 - *Molthor*: /lθ/
 - *Ogudei*: no complex clusters
 
-Observed syllable structures tend toward (C)V(C) — simple open or lightly closed syllables.
+Observed syllable structures tend toward (C)V(C) — simple open or lightly closed syllables. Clan names and compound names may be sequences of (C)V(C) syllables: *Do-ka-ni*, *Ra-ja-ni*, *Za-n-Tien*.
 
 ### Vowel Inventory
 
 Observed vowels include /a/, /e/, /i/, /o/, /u/. Possible diphthongs:
 
 - *Lei*: /eɪ/
-- *Subetai*: /aɪ/
+- *Subetai*, *Kuai*, *Wai*: /aɪ/
+
+The vowels in *Feng* (/ɛ/) and *Ming* (/ɪ/) suggest that vowel quality may distinguish meaning in monosyllabic words, consistent with an isolating language typology.
 
 ### Stress
 
@@ -108,12 +161,15 @@ No data available. Based on the romanization, stress may fall on the penultimate
 
 | Feature | Confidence | Reason |
 |---------|-----------|--------|
-| Compounding in place names | High | Transparent in *Mogu'shan* |
-| *lei* = "thunder" | Medium | Supported by *Lei Shen* = "Thunder King" translation |
-| *shen* = "king/ruler" | Medium | Supported by *Lei Shen* = "Thunder King" translation |
-| *shan* = "palace/mountain" | Medium | Supported by *Mogu'shan* place names |
-| Name-epithet correspondence | Low | Pattern is suggestive but not confirmed |
+| Compounding in place names | High | Transparent in *Mogu'shan*, *Shan'ze Dao* |
+| *lei* = "thunder" | High | Supported by *Lei Shen* = "Thunder King" + Chinese 雷神 |
+| *shen* = "god/deity/ruler" | High | Supported by *Lei Shen* = "Thunder King" + Chinese 雷神 + Shen dynasty |
+| *shan* = "mountain" | High | Supported by *Mogu'shan* place names + Chinese 魔古山 |
+| Name-epithet correspondence | Low–Medium | Pattern is consistent across 8 names but not confirmed |
+| *xi* = "emperor/ruler" suffix | Low | Only two attestations (*Qin-xi*, *Jan-xi*) + encounter name "Will of the Emperor" |
+| *ani* = clan suffix | Low | Only two attestations (*Dokani*, *Rajani*) |
 | *qon* = "iron/strength" | Low | Only one attestation (*Iron Qon*) |
-| Individual name meanings (*qiang*, *zian*, *meng*, *xin*) | Low | Inferred from English epithets only |
+| Individual name meanings (*qiang*, *zian*, *meng*, *xin*, *feng*, *kuai*, *hai*, *ming*) | Low | Inferred from English epithets only |
+| Dynasty names as morphemes | Low–Medium | *Shen* and *Qiang* are attested elsewhere; *Wai* is not |
 | Word order | None | No sentences available |
-| Phonological analysis | Low | Based solely on orthography; no phonetic data |
+| Phonological analysis | Low–Medium | Based on orthography + Chinese localization; no phonetic data |

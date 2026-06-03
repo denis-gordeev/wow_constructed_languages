@@ -6,21 +6,27 @@ The Mogu language is spoken by the Mogu, a race of stone constructs created by t
 
 ## History
 
-The Mogu were originally created by Ra-den as stone guardians of Titan facilities on Pandaria. Over millennia, the Mogu gained sentience and broke free of their Titan purpose. Under Lei Shen, the Thunder King, the Mogu were unified into the first empire and subjugated the other races of Pandaria — most notably the Pandaren, whom they enslaved for thousands of years.
+The Mogu were originally created by Ra-den as stone guardians of Titan facilities on Pandaria. Over millennia, the Curse of Flesh weakened the Mogu, and they gained sentience while breaking free of their Titan purpose. Before Lei Shen's unification, the Mogu lived through the era of the "Hundred Kings" — a period of inter-clan warfare and fragmentation.
 
-The Mogu empire was built on arcane magic, flesh-shaping, and brutal domination. Lei Shen's power was so great that even the Pandaren could not challenge him directly. Only after his death did the Pandaren revolution succeed in overthrowing Mogu rule.
+Under Lei Shen, the Thunder King, the Mogu were unified into the first empire and subjugated the other races of Pandaria — most notably the Pandaren, whom they enslaved for thousands of years. Lei Shen discovered and defeated the Titan Keeper Ra-den, seizing his command of storms and power linked to Aman'Thul. He also used the Engine of Nalak'sha for flesh-shaping experiments. Lei Shen unified the Mogu language, standardized currency, weights, and measures, and created written law. He built the Serpent's Spine wall to defend against mantid incursions.
 
-In the modern era, the Mogu are divided into competing clans, each vying for dominance. The Zandalari trolls formed an alliance with the Mogu during the *Mists of Pandaria* storyline, attempting to restore the Thunder King. The Mogu'shan Palace and Vaults remain as monuments to their former power.
+The Mogu empire was built on arcane magic, flesh-shaping, and brutal domination. At least three dynasties ruled during the Mogu reign: the Shen dynasty, the Wai dynasty, and the Qiang dynasty. Lei Shen's oppression grew over time: he created the Divine Bell to dominate minds, barred Pandaren from learning to read and write, burned books, and killed scholars. His first reign ended when the tol'vir activated the Forge of Origination in Uldum, killing him along with all surface life. Only after his death did the Pandaren revolution succeed in overthrowing Mogu rule.
+
+In the modern era, the Mogu are divided into competing clans, each vying for dominance: the Shan'ze, Baruk, Dokani, Zan-Tien, and others. The Zandalari trolls formed an alliance with the Mogu during the *Mists of Pandaria* storyline, resurrecting Lei Shen and attempting to restore the Thunder King on the Isle of Thunder. During the *Battle for Azeroth* N'Zoth assault (patch 8.3), the Baruk, Dokani, and Zan-Tien clans vied for control of the Vale of Eternal Blossoms, while the Rajani clan allied with adventurers against N'Zoth.
 
 ## Cultural Context
 
 Mogu culture is built on strength, domination, and mastery of arcane and flesh-shaping magic. This worldview is reflected in the limited vocabulary that survives:
 
-- **Lei Shen** = "Thunder King" (inferred: *lei* "thunder" + *shen* "king") — the name of the first and greatest Mogu emperor encodes the combination of elemental power and rulership.
-- **Mogu'shan** = "Mogu Palace" (inferred: *Mogu* + *shan* "palace/mountain") — the seat of Mogu power, built on Titan foundations.
-- The name-epithet pattern (*Qiang the Merciless*, *Zian of the Endless Shadow*, *Meng the Demented*, *Xin the Weaponmaster*) suggests that Mogu personal names carry aggressive or dominant meanings, consistent with a culture that values power above all else.
+- **Lei Shen** = "Thunder God/King" (confirmed by Chinese localization: 雷神 Léishén = "Thunder God") — the name of the first and greatest Mogu emperor encodes the combination of elemental power and divine authority.
+- **Mogu'shan** = "Mogu Mountain" (confirmed by Chinese localization: 魔古山 Mógǔshān) — the seat of Mogu power, built on Titan foundations. The *shan* element means "mountain," not "palace" as previously inferred.
+- The name-epithet pattern (*Qiang the Merciless*, *Zian of the Endless Shadow*, *Meng the Demented*, *Xin the Weaponmaster*, *Feng the Accursed*, *Kuai the Brigand*, *Hai the Unbreakable*, *Ming the Cunning*) suggests that Mogu personal names carry aggressive or dominant meanings, consistent with a culture that values power above all else.
+- The *-xi* suffix shared by *Qin-xi* and *Jan-xi* (the "Will of the Emperor" bosses) may be a title meaning "emperor" or "ruler."
+- The *-ani* ending shared by *Dokani* and *Rajani* may be a clan-designation suffix.
+- The *-tien* element in *Zan-Tien* may mean "heaven" or "sky" (cf. Chinese 天 tiān), fitting a clan specializing in lightning magic.
+- Clan names encode their specialization: *Shan'ze* ("mountain-[ze]"), *Baruk* (spirit animators), *Dokani* (blood magic), *Zan-Tien* (lightning/storm), *Rajani* (resistance/alliance).
 
-The Mogu were originally stone constructs, and their language may retain vocabulary related to stone, creation, and command that reflects their Titan origins. The flesh-shaping magic they developed — used to reshape living beings — is an extension of their own created nature.
+The Mogu were originally stone constructs, and their language may retain vocabulary related to stone, creation, and command that reflects their Titan origins. The flesh-shaping magic they developed — used to reshape living beings — is an extension of their own created nature. The existence of written Mogu is confirmed by lore noting that Lei Shen burned books and forbade the Pandaren from reading and writing, though no samples of the Mogu script survive in-game.
 
 ## Relationship to Other Languages
 
@@ -42,23 +48,34 @@ Mogu is a **very poorly attested** constructed language. The known corpus consis
 
 - A small set of proper names (personal names, place names, titles).
 - Two compound place names with plausible but unconfirmed morphemic decomposition (*Mogu'shan*, *Lei Shen*).
-- Several personal names with English epithets that may gloss the Mogu element (*Qiang* the Merciless, *Zian* of the Endless Shadow, *Meng* the Demented, *Xin* the Weaponmaster, *Iron Qon*).
+- Several personal names with English epithets that may gloss the Mogu element (*Qiang* the Merciless, *Zian* of the Endless Shadow, *Meng* the Demented, *Xin* the Weaponmaster, *Feng* the Accursed, *Kuai* the Brigand, *Hai* the Unbreakable, *Ming* the Cunning).
+- Five clan names (*Shan'ze*, *Baruk*, *Dokani*, *Zan-Tien*, *Rajani*).
+- Three dynasty names (*Shen*, *Wai*, *Qiang*).
+- One compound construct name (*Qin-xi*, *Jan-xi*) sharing the *-xi* element.
+- Two celestial being names (*Suen*, *Lu'lin*) from the Twin Consorts encounter.
+- One artifact compound (*Nalak'sha* in *Engine of Nalak'sha*).
+- Chinese localization data providing strong support for *lei* = "thunder," *shen* = "god/deity," and *shan* = "mountain."
 
 No grammar, syntax, or extended text has been published by Blizzard. No Mogu-language sentences exist. All grammatical inferences are based on morphological decomposition of proper names.
 
 ### What is reliable
 
-- *Lei Shen* is confirmed as "the Thunder King" by Blizzard's official translations and lore.
-- *Mogu'shan Palace* and *Mogu'shan Vaults* are confirmed place names; the *shan* element is consistent across both.
+- *Lei Shen* is confirmed as "the Thunder King" / "Thunder God" by Blizzard's official translations and lore. Chinese 雷神 confirms *lei* = "thunder" and *shen* = "god/deity."
+- *Mogu'shan Palace* and *Mogu'shan Vaults* are confirmed place names; the *shan* element is confirmed as "mountain" by Chinese 魔古山.
 - The Mogu were created by Ra-den and enslaved the Pandaren — this is well-established lore.
+- The three Mogu dynasties (Shen, Wai, Qiang) are confirmed in WoWWiki.
+- Lei Shen unified the Mogu language, created written law, and forbade Pandaren literacy — confirmed in Blizzard's official lore.
+- The five Mogu clans (Shan'ze, Baruk, Dokani, Zan-Tien, Rajani) are attested in-game.
 
 ### What is uncertain
 
-- The decomposition of *Lei Shen* into *lei* ("thunder") + *shen* ("king") is plausible but not explicitly confirmed by Blizzard.
-- The meaning of *shan* as "palace" or "mountain" is inferred from context; it could mean something else entirely.
-- The correspondence between Mogu personal names and their English epithets (*Qiang* = "merciless", *Zian* = "shadow", etc.) is a pattern that may reflect translation or may be coincidental.
-- Whether *Mogu* itself is a compound (*mo* + *gu*) or a single morpheme is unknown.
+- The decomposition of *Lei Shen* into *lei* ("thunder") + *shen* ("god/king") is now well-supported by Chinese localization, but whether Blizzard intended this etymology or whether the Chinese rendering is a translation of an English-origin name remains unclear.
+- The meaning of *shan* as "mountain" is strongly supported by the Chinese rendering; "palace" is now considered less likely.
+- The correspondence between Mogu personal names and their English epithets (*Qiang* = "merciless", *Zian* = "shadow", *Feng* = "accursed", *Kuai* = "brigand", *Hai* = "unbreakable", *Ming* = "cunning", etc.) is a pattern that may reflect translation or may be coincidental.
+- Whether *Mogu* itself is a compound (*mo* + *gu*) or a single morpheme is unknown. The Chinese rendering 魔古 suggests "demon/magic" + "ancient," but this may be a Chinese translation rather than original etymology.
 - The meaning of *Ra-den*; "Ra" may or may not be the Mogu word for their creator.
+- The *-xi* suffix in *Qin-xi* and *Jan-xi* may mean "emperor" or "ruler" (based on the "Will of the Emperor" encounter name), but this is highly speculative.
+- The *-ani* ending in *Dokani* and *Rajani* may be a clan suffix, but this is unconfirmed.
 
 ### What is unknown
 
@@ -67,6 +84,7 @@ No grammar, syntax, or extended text has been published by Blizzard. No Mogu-lan
 - Pronouns, prepositions, or functional elements.
 - Any vocabulary beyond the words listed in `vocabulary.md`.
 - Whether the Mogu language was systematically designed by Blizzard or consists only of aesthetically chosen names.
+- The appearance of the Mogu script (confirmed to exist but never shown in-game).
 
 ## References
 
