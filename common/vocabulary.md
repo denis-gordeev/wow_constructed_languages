@@ -14,7 +14,7 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 
 | Name | IPA | Proposed Origin | Notes |
 |------|-----|-----------------|-------|
-| Lordaeron | /ˈlɔːrdərɒn/ | Possibly Vrykul/Common | The human kingdom. No etymology confirmed. "Lord" prefix is English; "-aeron" may preserve an older element. |
+| Lordaeron | /ˈlɔːrdərɒn/ | Possibly Vrykul/Common | The human kingdom. No etymology confirmed. "Lord" prefix is English; "-aeron" may preserve an older element. The *-eron* / *-aeron* suffix parallels no known Vrykul morpheme but may be a fossilized Common development. |
 | Stormwind | /ˈstɔːrmwɪnd/ | Common compound | "Storm" + "Wind" — a transparent Common compound. The human capital city. |
 | Ironforge | /ˈaɪərnfɔːrdʒ/ | Dwarven/Common | Named for the dwarven forge within the mountain. May contain Dwarven elements. |
 | Dalaran | /ˈdæləræn/ | Possibly Common | The magocratic city. No etymology confirmed. The *-an* ending parallels Tol'vir place names but may be coincidental. |
@@ -26,17 +26,30 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Hillsbrad | /ˈhɪlzbræd/ | Common compound | "Hills" + "brad" (broad?). English compound. |
 | Arathi | /əˈrɑːθi/ | Unknown | The Arathi Highlands, home of the first human empire. May preserve a pre-Common or Vrykul element. |
 | Theramore | /ˈθɛrəmɔːr/ | Common compound | "There" + "more"? Possibly a constructed name. |
+| Nethergarde | /ˈnɛðərɡɑːrd/ | Common + Vrykul suffix | "Nether" (lower/under) + <span class="vrykul">*-garde*</span> (Vrykul enclosure suffix). Second attested example of *-garde* surviving in Common, confirming this Vrykul suffix was productive enough to combine with Common roots. |
+| Andorhal | /ˈændɔːrhɑːl/ | Possibly Common/Vrykul | City in Western Plaguelands. Etymology unknown. *-hal* may parallel Vrykul *-halas* (hall) or be coincidental. |
+| Stratholme | /ˈstræθoʊm/ | Common compound | "Strath" (broad valley) + "holme" (island/river meadow). Transparent Common compound. |
+| Durnholde | /ˈdɜːrnhoʊld/ | Possibly Dwarven/Common | Keep in Hillsbrad. "Durn" may be related to Dwarven *Dun* (fortress/hill); "holde" = hold/keep. |
+| Strom | /strɒm/ | Possibly Vrykul | Original capital of the Arathi Empire; now called Stromgarde. "Strom" may be a Vrykul word for "stream" or "current" (cf. Old Norse *straumr*). |
 
 ## Proper Names (Historical Human Figures — Potential Vrykul-Name Patterns)
 
 | Name | IPA | Context | Notes |
 |------|-----|---------|-------|
-| Thoradin | /ˈθɔːrədɪn/ | First human king, unifier of the Arathi tribes | Name may contain Vrykul *Thor-* element (cf. Thorim, Thaurissan). The *-din* ending parallels Vrykul *-inn* (as in *Drottinn*). |
-| Anduin Lothar | /ˈænduɪn ˈloʊθɑːr/ | Last descendant of the Arathi kings | "Anduin" may be Common; "Lothar" may contain Vrykul elements. |
+| Thoradin | /ˈθɔːrədɪn/ | First human king, unifier of the Arathi tribes | Name may contain Vrykul *Thor-* element (cf. Thorim, Thaurissan). The *-din* ending parallels Vrykul *-inn* (as in *Drottinn*). The name structure suggests a Vrykul-origin personal name adopted into Common. |
+| Anduin Lothar | /ˈænduɪn ˈloʊθɑːr/ | Last descendant of the Arathi kings | "Anduin" may be Common; "Lothar" may contain Vrykul elements (cf. Old Norse *Loðarr*). |
 | Varian Wrynn | /ˈvɛəriən/ | King of Stormwind | "Varian" may be Common; "Wrynn" may contain Vrykul *-ynn* element. |
 | Arthas Menethil | /ˈɑːrθəs/ | Crown Prince of Lordaeron, later the Lich King | "Arthas" may contain Vrykul *Arth-* element (cf. Arthur, "bear-king"). "Menethil" is an elf-influenced name. |
 | Daelin Proudmoore | /ˈdeɪlɪn/ | Admiral of Kul Tiras | Common-language name. |
 | Aegwynn | /ˈeɪɡwɪn/ | Guardian of Tirisfal | May contain Vrykul *Aeg-* / *Eg-* element (cf. Aggramar). |
+| Terenas Menethil | /tɛˈreɪnəs/ | King of Lordaeron | "Terenas" etymology unknown; may contain a pre-Common element. "Menethil" is elf-influenced. |
+| Uther the Lightbringer | /ˈuːθər/ | First paladin | "Uther" may contain Vrykul elements (cf. Old Norse name *Óttarr*). The /θ/ phoneme is notable — rare in Common names but attested in Vrykul (*Thros*, *Thorim*). |
+| Tirion Fordring | /ˈtɪriən/ | Paladin, Ashbringer wielder | "Tirion" may be related to *Tiris-* (Tyr) in *Tirisfal*; possible preservation of the Vrykul Tyr element in a personal name. |
+| Calia Menethil | /ˈkɑːliə/ | Princess of Lordaeron | "Calia" etymology unknown; may be Common. |
+| Danath Trollbane | /ˈdænəθ/ | General of Stromgarde | "Danath" may contain Vrykul *-nath* element; "Trollbane" is a Common compound title. |
+| Genn Greymane | /ˈɡɛn/ | King of Gilneas | Common-language name. |
+| Taelia Fordragon | /ˈteɪliə/ | BfA character | "Taelia" may contain Vrykul *Tael-* element (cf. Titan *Tael*/*Taes* in weapon names *Taeshalach*, *Taeschalach*). Possible preservation of a Titan/Vrykul root in a Common personal name. |
+| Alonsus Faol | /əˈlɒnsəs/ | Founder of the priesthood | "Alonsus" etymology unknown; Latin-influenced structure; may be Common. |
 
 ## Human Kingdom Names
 
@@ -54,11 +67,14 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 
 ## Inherited Vrykul Morphemes in Common Place Names
 
-| Morpheme | Vrykul Meaning | Common Usage | Examples | Certainty |
-|----------|---------------|--------------|----------|-----------|
-| *-garde* | enclosure / keep | Retained as place-name suffix | Stromgarde | High — direct inheritance from Vrykul |
-| *Tiris-* | Tyr (the keeper) | Retained in place name, no longer parsed | Tirisfal | High — confirmed by *Chronicle* |
-| *-fal* | fall | Retained in place name, no longer parsed | Tirisfal | High — confirmed by *Chronicle* |
+| Morpheme | Vrykul Meaning | Common Usage | Examples | Status |
+|----------|---------------|--------------|----------|--------|
+| *-garde* | enclosure / keep | Retained as place-name suffix | Stromgarde, Nethergarde | Fossilized; no longer parsed. Two attested examples confirm *-garde* was productively combined with Common roots. |
+| *Tiris-* | Tyr (the keeper) | Retained in place name | Tirisfal | Fossilized; no longer recognized as "Tyr" |
+| *-fal* | fall | Retained in place name | Tirisfal | Fossilized; no longer recognized as "fall" |
+| *Thor-* | thunder / Thorim | Possibly retained in personal names | Thoradin | Uncertain; may be Vrykul *Thor-* element preserved in human naming |
+| *Tir-* / *Tiris-* | Tyr (the keeper) | Possibly retained in personal names | Tirion | Uncertain; "Tirion" may be related to "Tiris-" (Tyr) |
+| *Tael-* | ? (cf. Titan *Tael*/*Taes*) | Possibly retained in personal names | Taelia | Uncertain; may reflect Titan/Vrykul root for "flame/blade" |
 | *-heim* | home / realm | Not retained; replaced by Common equivalents | — | — |
 | *-korn* | kin / seed | Not retained in Common | — | — |
 

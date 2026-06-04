@@ -73,16 +73,22 @@
 - [x] Expand Tol'vir vocabulary with additional proper names from Uldum content (Amathet tribe, BfA 8.3 additions)
 - [x] Expand Drust vocabulary with Drustvar zone names and NPC dialogue (Thornspeaker names, Ardenweald Drust, potential Drust toponym elements)
 - [x] Deepen Tol'vir morpheme analysis with additional Uldum place name patterns (expanded -et/-ep alternation analysis, -en pattern, Vir'- prefix distribution)
+- [x] Create HTML vocabulary files for Tol'vir, Drust, Mogu, Sethrak, Gnomish, and Common (already existed)
+- [x] Expand Gnomish vocabulary with additional mechagnome and gnomish NPC names from Mechagon content (added Sicco Thermaplugg, Captain Krazz, Bondo, Rinling, Mekgineer title, Qip, Zapjack, Zapslaw; expanded morpheme analysis with -torque, -min, Mek- variant)
+- [x] Expand Common vocabulary with additional human kingdom and NPC names (added Nethergarde, Andorhal, Strom, Stratholme, Durnholde; added Terenas, Uther, Tirion, Taelia, Calia, Danath, Alonsus; expanded Vrykul morpheme table with Thor-, Tir-, Tael-)
+- [x] Add constructed example sentences for Gnomish and Common to example-sentences.html
+- [x] Add Gnomish and Common cross-references to titan-forged-comparative.html (new Titan↔Gnomish and Common↔Gnomish sections; updated cross-language comparison and wordlist tables; updated toponymic strategies table)
+- [x] Deepen Drust morpheme analysis: investigate whether *-kor* in *Lorkron* relates to Vrykul *-korn* (analysis added to drust/grammar.md and titan-forged-comparative.html; conclusion: plausible phonological match, Low–Medium confidence; single data point and functional difference prevent firm conclusion)
+- [x] Investigate potential Vrykul sound changes reflected in Common place names beyond Tirisfal (added Nethergarde as second -garde example; added analysis of Vrykul elements in personal names Thoradin, Uther, Tirion, Taelia; added hypothetical sound change table to common/grammar.md)
 
 ## Next Actions
 
 - [ ] Verify vocabulary against WoW wiki sources when web access is available
 - [ ] Add audio pronunciation guide links where available
-- [ ] Create HTML vocabulary files for Tol'vir, Drust, Mogu, Sethrak, Gnomish, and Common (currently only markdown versions exist)
-- [ ] Expand Gnomish vocabulary with additional mechagnome and gnomish NPC names from Mechagon content
-- [ ] Expand Common vocabulary with additional human kingdom and NPC names
-- [ ] Add constructed example sentences for Gnomish and Common to example-sentences.html
-- [ ] Add Gnomish and Common cross-references to titan-forged-comparative.html
 - [ ] Research additional Drust Stele inscription content for possible Drust-language fragments
-- [ ] Investigate potential Vrykul sound changes reflected in Common place names beyond Tirisfal
-- [ ] Deepen Drust morpheme analysis: investigate whether *-kor* in *Lorkron* relates to Vrykul *-korn*
+- [ ] Investigate Sethrak *Kor-* element and its potential relationship to Drust *-kor* and Vrykul *-korn*
+- [ ] Expand analysis of Common place names with fossilized Vrykul elements (Andorhal *-hal*, Lordaeron *-aeron*, Alterac *-ac*, Arathi *Arath-*)
+- [ ] Investigate whether *-din* in Thoradin reflects regular sound change from Vrykul *-inn*
+- [ ] Research The War Within content for new Vrykul, Earthen, and Nerubian language data
+- [ ] Add constructed example sentences for Shath'Yar and Kalimag to example-sentences.html
+- [ ] Investigate potential Dwarven *Dun-* / *Durn-* connection to Common *Durnholde*

@@ -17,6 +17,7 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Name | IPA | Context | Notes |
 |------|-----|---------|-------|
 | Gelbin Mekkatorque | /ˈɡɛlbɪn ˈmɛkətɔːrk/ | High Tinker of the gnomes | "Mekkatorque" may contain *mekka-* (cf. Mechagnome) as a Gnomish morpheme; "torque" may be a separate element |
+| Sicco Thermaplugg | /ˈsɪkoʊ ˈθɜːrməplʌɡ/ | Traitor who caused the fall of Gnomeregan | Title "Mekgineer" contains *Mek-* variant; "Thermaplugg" may contain *Therm-* element (heat?) + *-aplugg* |
 | Milli Featherwhistle | — | NPC | Common-language surname |
 | Oglethorpe Obnoticus | — | NPC | Possibly Gnomish-influenced given name; Common surname |
 | Gnomercy | — | NPC/pun | English pun on "no mercy"; not Gnomish |
@@ -26,13 +27,18 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Razzle Sprysprocket | — | NPC | Common-language compound name |
 | Spark | /spɑːrk/ | NPC | Possibly a Common word used as a name; may reflect Gnomish phonological preference for initial clusters |
 | Tinkmaster Overspark | — | NPC | Common-language title |
+| Captain Krazz | /kræz/ | Mechagon NPC | "Krazz" may reflect Gnomish phonological preference for initial Kr- clusters and final -azz pattern; possibly Gnomish-influenced |
+| Bondo | /ˈbɒndoʊ/ | Mechagon NPC (Bondo's Yard) | Single-element name; may reflect Gnomish phonological preference for CVCV pattern with final /oʊ/ |
+| Rinling | /ˈrɪnlɪŋ/ | Mechagon NPC | Possibly Gnomish-influenced; -ling suffix may be Common diminutive |
+| Recycler Kerchunk | — | Mechagon NPC | Common-language compound |
+| Rocket-Chief Fuselage | — | Mechagon NPC | Common-language title |
 
 ## Proper Names (Beings — Mechagnomes)
 
 | Name | IPA | Context | Notes |
 |------|-----|---------|-------|
 | King Mechagon | /ˈmɛkəɡɒn/ | Last king of the mechagnomes | Contains *Mech-*/*Meka-* element; "-agon" may be a title or place suffix |
-| Prince Erazmin | /ˈɛræzmɪn/ | Mechagnome prince, leader of the Rustbolt Resistance | No clear morpheme decomposition |
+| Prince Erazmin | /ˈɛræzmɪn/ | Mechagnome prince, leader of the Rustbolt Resistance | No clear morpheme decomposition; *Eraz-* element unclear; *-min* may be a suffix |
 | Christy Punchcog | — | Mechagnome NPC | Common-language name |
 | Flip Quickcharge | — | Mechagnome NPC | Common-language name |
 | Kelsey Steelspark | — | Mechagnome NPC | Common-language name |
@@ -40,6 +46,9 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Cork Stuttguard | — | Mechagnome NPC | Common-language name |
 | Waren Gearhart | — | Mechagnome NPC | Common-language name |
 | Bolt | /boʊlt/ | Mechagnome NPC | Possibly a Common word used as name; may reflect Gnomish phonological preference |
+| Mekgineer Thermaplugg | /ˈmɛkdʒɪnɪər ˈθɜːrməplʌɡ/ | Title of Sicco Thermaplugg | *Mekgineer* = *Mek-* + *gineer* (engineer?); the *Mek-* variant of *Mech-* appears in this title and in *Mekkatorque* |
+| Advance Scout Jo | — | Mechagnome NPC | Common-language name |
+| Qip | /kwɪp/ | Mechagnome NPC | Short single-element name; may reflect Gnomish phonological preference for monosyllabic names with complex codas |
 
 ## Proper Names (Places — Gnomeregan Area)
 
@@ -62,6 +71,10 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Bondo's Yard | — | Area on Mechagon | Common-language name |
 | Scrapyard Den | — | Area on Mechagon | Common-language name |
 | Outflow | — | Area on Mechagon | Common-language name |
+| The Hollow | — | Area on Mechagon | Common-language name |
+| Armstrout's Camp | — | Area on Mechagon | Common-language name |
+| Zapjack | /ˈzæpdʒæk/ | Area on Mechagon | Possibly Gnomish-influenced; *Zap-* may reflect electrical/mechanical vocabulary |
+| Zapslaw | /ˈzæpslɔː/ | Area near Mechagon | Possibly Gnomish-influenced; shares *Zap-* element with Zapjack |
 
 ## Proper Names (Titan/Mechagnome Facilities)
 
@@ -76,6 +89,7 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Title | Holder | Notes |
 |-------|--------|-------|
 | High Tinker | Gelbin Mekkatorque | Elected leader of the gnomes. Common-language title. |
+| Mekgineer | Sicco Thermaplugg | Gnomish title = *Mek-* (machine) + *gineer* (engineer?). The *Mek-* element is a variant of *Mech-*/*Mekka-*, confirming this root's productivity in Gnomish technical vocabulary. |
 | King | King Mechagon | Traditional title of the mechagnome ruler. Common-language. |
 
 ## Gnomish Technology Terms
@@ -95,8 +109,10 @@ Many gnomish technological terms are Common-language compounds or English words.
 | Morpheme | Inferred Meaning | Evidence | Certainty |
 |----------|-----------------|----------|-----------|
 | Gnom- / Gnome- | (self-designation; etymology uncertain) | *Gnomeregan*, *Gnome* (race name), *Mechagnome* | Medium — the race name appears in the capital city name |
-| Mekk- / Mech- / Meka- | "machine" / "mechanism" / "craft" (inferred) | *Mekkatorque*, *Mechagon*, *Mechagnome*, *Mimiron* (Titan Keeper who created mechagnomes) | Low–Medium — the phonological similarity across multiple related terms suggests a shared root, possibly Titan in origin |
+| Mekk- / Mech- / Meka- / Mek- | "machine" / "mechanism" / "craft" (inferred) | *Mekkatorque*, *Mechagon*, *Mechagnome*, *Mimiron* (Titan Keeper who created mechagnomes), *Mekgineer* (title) | Low–Medium — the phonological similarity across multiple related terms suggests a shared root, possibly Titan in origin. *Mek-* variant in *Mekgineer* confirms phonological alternation *Mekk-* ~ *Mek-* ~ *Mech-* ~ *Meka-*. |
 | -regan / -ragon | (unknown; possibly "city" or "home") | *Gnomeregan*, *Mechagon* — if *Mechagon* = *Mech-* + *-agon* and *Gnomeregan* = *Gnom-* + *-eregan*, the suffixal elements may be related | Very Low |
+| -torque | (unknown; possibly a title or rank suffix) | *Mekkatorque* — if *Mekkatorque* = *Mekka-* + *-torque*, the *-torque* element may be a title or rank designation | Very Low |
+| -min | (unknown; possibly a name suffix) | *Erazmin* — if *Erazmin* = *Eraz-* + *-min*, the *-min* element may parallel Vrykul *-inn* definite article suffix | Very Low |
 
 ### Potential Titan-Related Morphemes
 
@@ -113,6 +129,9 @@ Many gnomish technological terms are Common-language compounds or English words.
 | Mechagon | *Mech-* + *-agon* | "Machine-[place/city]" | Low–Medium |
 | Mekkatorque | *Mekka-* + *-torque* | "Machine-[title/element]" | Very Low |
 | Mechagnome | *Mecha-* + *gnome* | "Machine-gnome" | Medium (transparent compound in Common) |
+| Mekgineer | *Mek-* + *gineer* | "Machine-engineer" | Medium (partially transparent; *Mek-* is Gnomish, *gineer* may be Common borrowing) |
+| Erazmin | *Eraz-* + *-min* | "[Personal name]-[title/suffix]" | Very Low |
+| Thermaplugg | *Therm-* + *-aplugg* | "Heat-[element]" | Very Low — *Therm-* may be Common borrowing from Greek *therme* |
 
 ## Relationship to Other Languages
 

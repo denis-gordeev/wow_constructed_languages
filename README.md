@@ -44,8 +44,8 @@ Each language folder contains:
 
 - **[elven-comparative.html](elven-comparative.html)** — Cross-reference of Darnassian, Thalassian, Shalassian, and Nazja: cognate sets, sound correspondences, etymological reconstruction, and comparative wordlist
 - **[eredun-draenei-comparative.html](eredun-draenei-comparative.html)** — Cross-reference of Draenei and Eredun: cognate sets, sound correspondences, etymological reconstruction, and comparative wordlist
-- **[titan-forged-comparative.html](titan-forged-comparative.html)** — Titan-forged language family: cross-reference of Titan, Vrykul, Drust, Dwarven, Mogu, Tol'vir, and Common; shared morphemes, sound correspondences, toponymic strategies, and comparative wordlist
-- **[example-sentences.html](example-sentences.html)** — Constructed example sentences using inferred grammar for Darnassian, Thalassian, Orcish, Shalassian, Draenei, Zandali, Taur-ahe, Dwarven, Titan, Vrykul, Nazja, Tol'vir, Drust, Mogu, and Sethrak (clearly marked as non-canon)
+- **[titan-forged-comparative.html](titan-forged-comparative.html)** — Titan-forged language family: cross-reference of Titan, Vrykul, Drust, Dwarven, Mogu, Tol'vir, Gnomish, and Common; shared morphemes, sound correspondences, toponymic strategies, and comparative wordlist
+- **[example-sentences.html](example-sentences.html)** — Constructed example sentences using inferred grammar for Darnassian, Thalassian, Orcish, Shalassian, Draenei, Zandali, Taur-ahe, Dwarven, Titan, Vrykul, Nazja, Tol'vir, Drust, Mogu, Sethrak, Gnomish, and Common (clearly marked as non-canon)
 
 ## Methodology
 

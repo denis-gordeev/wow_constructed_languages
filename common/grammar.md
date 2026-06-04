@@ -63,9 +63,53 @@ Common has undergone significant morphological simplification from Vrykul:
 
 A small number of Vrykul morphemes survive in Common as fossilized elements in place names:
 
-1. **-garde** (enclosure/keep): Survives in *Stromgarde*. Common speakers likely no longer parse this as a separate morpheme.
+1. **-garde** (enclosure/keep): Survives in *Stromgarde* and *Nethergarde*. Common speakers likely no longer parse this as a separate morpheme. The two examples confirm that *-garde* was productively combined with Common roots (*Strom* + *-garde*, *Nether* + *-garde*), not merely fossilized in a single borrowed word.
+
 2. **Tiris-** (Tyr): Survives in *Tirisfal*. No longer recognized as referring to the Keeper Tyr.
+
 3. **-fal** (fall): Survives in *Tirisfal*. No longer recognized as meaning "fall."
+
+4. **Thor-** (thunder/Thorim): Possibly survives in the personal name *Thoradin*, the first human king. If *Thoradin* = *Thor-* + *-din* (cf. Vrykul *-inn*), this would represent a Vrykul personal name adopted into Common.
+
+5. **Tir- / Tiris-** (Tyr): Possibly survives in the personal name *Tirion*. If *Tirion* is related to *Tiris-* (Tyr), this would show the Tyr element preserved in a Common personal name, parallel to its preservation in the place name *Tirisfal*.
+
+6. **Tael-** (cf. Titan *Tael*/*Taes*): Possibly survives in the personal name *Taelia*. The Titan weapon names *Taeshalach* and *Taeschalach* contain a *Tael*/*Taes* element meaning "flame" or "blade." If *Taelia* preserves this element, it would demonstrate a Titan morpheme reaching Common through the Vrykul intermediary, surviving in a personal name.
+
+### Vrykul Sound Changes in Common Place Names Beyond Tirisfal
+
+The confirmed Vrykul→Common sound changes are limited, as *Tirisfal* is the only place name with a confirmed Vrykul etymology. However, several additional place names and personal names show patterns consistent with Vrykul-origin elements:
+
+**Place names with probable Vrykul morphemes:**
+
+| Place Name | Vrykul Element | Analysis | Confidence |
+|------------|---------------|----------|------------|
+| Stromgarde | *-garde* (enclosure) | Vrykul suffix combined with Common *Strom* (possibly Vrykul *straumr* = "stream") | High |
+| Nethergarde | *-garde* (enclosure) | Vrykul suffix combined with Common *Nether* ("lower") | High |
+| Andorhal | *-hal* (?) | May parallel Vrykul *-halas* (hall); if so, shows Vrykul *-halas* → Common *-hal* with loss of final syllable | Low |
+| Strom | *Straumr* (?) | If *Strom* = Vrykul for "stream/current" (cf. Old Norse *straumr*), this is a Vrykul word adopted into Common | Low |
+| Arathi | *Arath-* (?) | The Arathi Highlands may preserve a pre-Common or Vrykul element; *Arath-* appears in both *Arathi* and *Arathor* | Low |
+
+**Personal names with probable Vrykul elements:**
+
+| Name | Vrykul Element | Analysis | Confidence |
+|------|---------------|----------|------------|
+| Thoradin | *Thor-* + *-din* | Vrykul *Thor-* (thunder) + *-din* ~ Vrykul *-inn* (definite article); if correct, the sound change is Vrykul *-inn* → Common *-din* with voicing of initial vowel | Low–Medium |
+| Uther | *Þórr* / *Óttarr* (?) | The /θ/ phoneme in *Uther* is rare in Common names but attested in Vrykul; may reflect direct Vrykul personal name inheritance | Low |
+| Tirion | *Tir-* / *Tiris-* (Tyr) | If related to *Tiris-* (Tyr), shows Vrykul divine name element surviving in a Common personal name; the form *Tirion* shows loss of the *-is-* syllable from *Tiris-* | Low |
+| Taelia | *Tael-* (cf. Titan *Tael*) | If related to Titan *Tael* (flame/blade) through Vrykul, demonstrates a Titan morpheme surviving in Common via Vrykul transmission | Very Low |
+| Arthas | *Arth-* (bear?) | If related to Old Norse *Arth-* / *Arthur* (bear-king), may reflect a Vrykul name element | Low |
+
+**Hypothetical sound changes observed:**
+
+| Vrykul Feature | Common Reflex | Example | Notes |
+|----------------|--------------|---------|-------|
+| *-korn* (clan suffix) | Not retained | — | Common lost the Vrykul clan-naming system entirely |
+| *-heim* (home/realm) | Not retained | — | Replaced by Common compounds (*Stormwind*, *Southshore*) |
+| *-garde* (enclosure) | Retained as *-garde* | Stromgarde, Nethergarde | Fossilized suffix; still productive enough to combine with Common roots |
+| *-inn* (definite article/title) | Possibly *-din* | Thoradin | If correct, shows voicing of initial vowel in the suffix |
+| Initial Vr-, Sk-, Hr- | Simplified | — | No Common words begin with these clusters; they were simplified or lost |
+| Vrykul /θ/ | Retained in some names | Uther, Arthas | Rare in Common but preserved in a few personal names |
+| Vrykul compound structure | Simplified | Tirisfal → unanalyzed | Vrykul compounds adopted as single unanalyzed words |
 
 These are **lexicalized fossils** — Vrykul compound elements that have been adopted into Common as unanalyzed place names. This is a common pattern when one language replaces another: place names survive long after the language that created them is gone.
 

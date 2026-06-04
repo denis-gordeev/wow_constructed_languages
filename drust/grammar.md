@@ -98,6 +98,41 @@ Drust personal names show two patterns:
    - Thros — single element (place name used as a proper name)
    - Vadekius — single element; Latin-sounding, may not be Drust
 
+### Investigation: *-kor* in *Lorkron* and Vrykul *-korn*
+
+The Drust name *Lorkron* the Hunter (a Drust in Ardenweald, Shadowlands) contains the element *-kron* which may be decomposed as *-kor* + *-on* or as a single *-kron* suffix. This analysis investigates whether the *-kor*/*-kron* element in *Lorkron* is related to the Vrykul clan suffix *-korn* (as in *Winterskorn*, *Tideskorn*, *Felskorn*).
+
+**Arguments for a connection:**
+
+1. **Phonological similarity:** Drust *-kor* /kɔɾ/ (if *Lorkron* = *Lor* + *kor* + *on*) or *-kron* /kɾɔn/ is phonologically very close to Vrykul *-korn* /kɔɾn/. The only difference is the presence or absence of the final nasal /n/. Final nasal loss is a common sound change in language divergence (cf. French *bon* → informal *bo*; many languages drop final nasals in casual speech).
+
+2. **Genetic relationship:** Drust is a confirmed daughter language of Vrykul. A Vrykul suffix *-korn* being inherited in Drust as *-kor(n)* is entirely plausible given the confirmed genetic relationship.
+
+3. **Semantic plausibility:** Vrykul *-korn* means "kin/chosen/seed" (as in *Winterskorn* = "winter-kin", *Tideskorn* = "tide-kin"). If *Lorkron* = *Lor* + *-korn* (with loss of final /n/), the name would mean "Lor-kin" or "kin of Lor," which is consistent with Vrykul/Drust compound personal naming patterns. The title "the Hunter" could be an epithet parallel to Vrykul epithets like "the Plunderer" or "the Ruthless."
+
+4. **Structural parallel:** Both *-korn* in Vrykul and *-kor*/*-kron* in Drust appear as the second element in compound names, consistent with the right-headed compounding pattern inherited from Titan.
+
+**Arguments against a connection:**
+
+1. **Sample size:** *-kor*/*-kron* appears in only one Drust name (*Lorkron*), while *-korn* appears in three Vrykul clan names. A single data point cannot establish a sound correspondence.
+
+2. **Functional difference:** Vrykul *-korn* is a **clan suffix** (forming group names: *Winterskorn*, *Tideskorn*, *Felskorn*), while *-kor*/*-kron* in *Lorkron* appears in a **personal name**. If *-korn* specifically means "kin/group," using it in a personal name would represent a semantic shift from "kin" to a general compound-forming suffix.
+
+3. **Alternative decomposition:** *Lorkron* could be decomposed as *Lork* + *-ron* (cf. Titan *-ron* honorific in *Mimiron*, *Khaz'goroth* → *-roth*), or as *Lor* + *-kron* (a single unanalyzed element). The segmentation *Lor* + *kor* + *on* assumes three morphemes, which may be over-analysis of a single proper name.
+
+4. **Sethrak *Kor-***: The Sethrak language has a *Kor-* element (in *Korthek*, *Korgok*) that is inferred to mean "iron" or "great." If *Lorkron* contains a *Kor-* element, it could reflect contact between Drust and Sethrak (geographically distant but both present in BfA content) rather than inheritance from Vrykul. However, Drust-Sethrak contact is not supported by any lore evidence.
+
+**Assessment:**
+
+The most likely analysis is that *Lorkron* = *Lor* + *-kron*, where *-kron* is either:
+- (a) A Drust reflex of Vrykul *-korn* with regular loss of final /n/ — **plausible but unconfirmed**
+- (b) An unrelated Drust personal name suffix — **also plausible**
+- (c) A single unanalyzed name element — **most conservative interpretation**
+
+If analysis (a) is correct, the sound change Vrykul *-korn* → Drust *-kron* (with loss of final /n/ or metathesis of /ɾ/ and /n/) would be consistent with the general pattern of Drust phonological simplification from Vrykul (reduced consonant clusters, fewer complex onsets). The semantic shift from clan suffix to personal name element is also plausible — as Drust society fragmented and individual identity became more important than clan affiliation, the clan suffix could have been reanalyzed as a personal name element.
+
+**Confidence: Low–Medium.** The phonological match is good and the genetic relationship supports inheritance, but the single data point and functional difference (clan suffix vs. personal name element) prevent a confident conclusion.
+
 ### Compound Place Names
 
 | Name | Structure | Notes |
