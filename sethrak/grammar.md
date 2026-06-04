@@ -95,6 +95,38 @@ No data available. Names with heavy penultimate syllables (*Merektha*, *Sethrali
 - Rhotic /r/ is frequent, appearing in nearly every name (Sethrak, Sethraliss, Vorrik, Merektha, Korthek, Korgok).
 - Names tend to be 2–3 syllables, with CVC roots appearing common.
 
+### Investigation: *Kor-* and Its Potential Relationship to Drust *-kor* and Vrykul *-korn*
+
+The Sethrak *Kor-* element (attested in *Korthek*, *Korgok*) has been compared to the Drust *-kor*/*-kron* element (in *Lorkron*) and the Vrykul *-korn* clan suffix (in *Winterskorn*, *Tideskorn*, *Felskorn*). All three share the phonological shape /kɔr/.
+
+**Arguments for a connection:**
+
+1. **Phonological identity:** All three elements contain the sequence /kɔr/, which could reflect a shared deep morpheme.
+
+2. **Sethrak–Zandali contact:** Sethrak and Zandalari trolls coexist on Zandalar. The Zandali language itself has no known *-korn* or *Kor-* morpheme, but the geographic proximity creates a potential transmission chain: Vrykul (Northrend) → Drust (Kul Tiras) → Zandalari (contact) → Sethrak (contact). However, each link in this chain is unsupported by lore.
+
+**Arguments against a connection:**
+
+1. **No genetic relationship:** Sethrak are not titan-forged. They are a native Azerothian race with no confirmed lineage connection to the Vrykul→Drust chain. The titan-forged language family (Titan → Vrykul → Drust) is genetically coherent; Sethrak falls entirely outside this family.
+
+2. **Semantic mismatch:** Vrykul *-korn* = "kin/chosen/seed" (a clan-designating suffix). Sethrak *Kor-* = "iron" or "great" (inferred from military leader names). If the elements were cognate, one would expect at least partially overlapping semantics.
+
+3. **Structural mismatch:** Vrykul *-korn* is a **suffix** (Winterskorn, Tideskorn). Sethrak *Kor-* is a **prefix** (Korthek, Korgok). Drust *-kor*/*-kron* is a **suffix** (Lorkron). A morpheme that appears as both prefix and suffix across related languages would require explanation; across unrelated languages, it is more likely coincidental.
+
+4. **Geographic distance:** Sethrak are in Vol'dun (Zandalar), Drust in Kul Tiras, and Vrykul in Northrend/Stormheim. No lore evidence supports Sethrak–Drust or Sethrak–Vrykul contact.
+
+5. **Phonological coincidence:** The sequence /kɔr/ uses three of the most common phonemes cross-linguistically (/k/, /ɔ/, /ɾ/). Independent occurrence of this sequence in unrelated languages is expected, not remarkable.
+
+6. **Alternative Sethrak etymology:** *Kor-* in Sethrak may be related to the Zandali word for "iron" or "metal" (cf. Zandali *Zul'jin* where *Zul* = "great/city"; no *Kor-* morpheme is attested in Zandali, but the semantic field of metallurgy is plausible for a desert-dwelling race that works with metal).
+
+**Assessment:**
+
+The phonological similarity between Sethrak *Kor-*, Drust *-kor*, and Vrykul *-korn* is almost certainly **coincidental**. The three elements appear in languages with no genetic relationship (Sethrak is not titan-forged), with different semantics ("iron/great" vs. "kin/seed"), and in different structural positions (prefix vs. suffix). The shared /kɔr/ sequence is explicable by the high frequency of these sounds.
+
+A remote possibility is that *Kor-* is a very old Azerothian substrate word that was inherited independently by both the titan-forged family and the Sethrak, but there is no evidence for such a substrate, and this hypothesis is unfalsifiable.
+
+**Confidence: Very Low** for any connection. The most likely explanation is coincidence.
+
 ## Summary of Confidence
 
 | Feature | Confidence | Reason |

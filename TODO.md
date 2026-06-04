@@ -80,15 +80,23 @@
 - [x] Add Gnomish and Common cross-references to titan-forged-comparative.html (new Titan↔Gnomish and Common↔Gnomish sections; updated cross-language comparison and wordlist tables; updated toponymic strategies table)
 - [x] Deepen Drust morpheme analysis: investigate whether *-kor* in *Lorkron* relates to Vrykul *-korn* (analysis added to drust/grammar.md and titan-forged-comparative.html; conclusion: plausible phonological match, Low–Medium confidence; single data point and functional difference prevent firm conclusion)
 - [x] Investigate potential Vrykul sound changes reflected in Common place names beyond Tirisfal (added Nethergarde as second -garde example; added analysis of Vrykul elements in personal names Thoradin, Uther, Tirion, Taelia; added hypothetical sound change table to common/grammar.md)
+- [x] Investigate Sethrak *Kor-* element and its potential relationship to Drust *-kor* and Vrykul *-korn* (analysis added to sethrak/grammar.md; conclusion: most likely coincidental; no genetic relationship between Sethrak and titan-forged family; different semantics and structural positions; Confidence: Very Low)
+- [x] Expand analysis of Common place names with fossilized Vrykul elements (added analysis of Andorhal *-hal* ↔ Vrykul *-halas*, Lordaeron *-aeron*/*-on* suffix, Alterac *-ac* suffix, Arathi *Arath-* root; all added to common/grammar.md; Confidence: Low–Very Low)
+- [x] Investigate whether *-din* in Thoradin reflects regular sound change from Vrykul *-inn* (analysis added to common/grammar.md; three analyses considered: *-inn* → *-din* via epenthesis/voicing, independent *-adin* suffix, direct loan from Vrykul *Mjordin*; Confidence: Low)
+- [x] Research The War Within content for new Vrykul, Earthen, and Nerubian language data (added TWW Earthen data to dwarven/vocabulary.md: Khaz Algar, Dornogal, Baelgrim, Merrix, Adelgonn, Brinthe, Eirich, Lufsela, Skardyn; added nerubian data to nazja/vocabulary.md: Azj-Kahet, Ansurek, Neferess, Arak'nai, Anub'azal, Nizrek; added *Azj-*/*Nazj-* analysis; updated titan-forged-comparative.html with TWW findings)
+- [x] Add constructed example sentences for Shath'Yar and Kalimag to example-sentences.html (6 sentences each; SY1–SY6 and Km1–Km6)
+- [x] Investigate potential Dwarven *Dun-* / *Durn-* connection to Common *Durnholde* (analysis added to dwarven/grammar.md and referenced in common/grammar.md and titan-forged-comparative.html; Dwarven *Dun* → Common *Durn* with epenthetic /r/ is plausible; alternative: independent Common root; Confidence: Low–Medium)
 
 ## Next Actions
 
 - [ ] Verify vocabulary against WoW wiki sources when web access is available
 - [ ] Add audio pronunciation guide links where available
 - [ ] Research additional Drust Stele inscription content for possible Drust-language fragments
-- [ ] Investigate Sethrak *Kor-* element and its potential relationship to Drust *-kor* and Vrykul *-korn*
-- [ ] Expand analysis of Common place names with fossilized Vrykul elements (Andorhal *-hal*, Lordaeron *-aeron*, Alterac *-ac*, Arathi *Arath-*)
-- [ ] Investigate whether *-din* in Thoradin reflects regular sound change from Vrykul *-inn*
-- [ ] Research The War Within content for new Vrykul, Earthen, and Nerubian language data
-- [ ] Add constructed example sentences for Shath'Yar and Kalimag to example-sentences.html
-- [ ] Investigate potential Dwarven *Dun-* / *Durn-* connection to Common *Durnholde*
+- [ ] Create dedicated Earthen language folder with grammar.md, vocabulary.md, and description.md based on The War Within data (Dornogal, Khaz Algar, Baelgrim, etc.)
+- [ ] Create dedicated Nerubian language folder with grammar.md, vocabulary.md, and description.md based on The War Within data (Azj-Kahet, Ansurek, Anub'azal, etc.)
+- [ ] Research The War Within content for additional Haranir language data (Orweyna and the subterranean druidic race)
+- [ ] Investigate *Azj-*/*Nazj-* connection between nerubian *Azj-Kahet* and naga *Nazjatar* — potential Aqir substrate (analysis started in nazja/vocabulary.md)
+- [ ] Investigate *Eir-* connection between Earthen *Eirich* and Vrykul *Eyir* — potential shared Titan morpheme
+- [ ] Expand Skardyn analysis: is *Skar-* related to Vrykul *Skarvald*/*Voldskar*?
+- [ ] Add Earthen constructed example sentences to example-sentences.html
+- [ ] Add Nerubian constructed example sentences to example-sentences.html

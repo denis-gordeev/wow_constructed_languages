@@ -113,6 +113,116 @@ The confirmed Vrykul→Common sound changes are limited, as *Tirisfal* is the on
 
 These are **lexicalized fossils** — Vrykul compound elements that have been adopted into Common as unanalyzed place names. This is a common pattern when one language replaces another: place names survive long after the language that created them is gone.
 
+### Expanded Analysis of Common Place Names with Fossilized Vrykul Elements
+
+Beyond the confirmed *Tirisfal* and the well-attested *-garde* suffix, several other Common place names show patterns consistent with fossilized Vrykul elements. This section provides a deeper analysis of *Andorhal*, *Lordaeron*, *Alterac*, and *Arathi*.
+
+#### Andorhal and the *-hal* Element
+
+*Andorhal* /ˈændɔːrhɑːl/ is a city in the Western Plaguelands. The name can be decomposed as *Andor* + *-hal*.
+
+**Hypothesis: *-hal* relates to Vrykul *-halas* (hall).**
+
+- Vrykul *-halas* / *-hallas* appears in *Valhalas* = "Halls of Valor" (confirmed translation: Halls of Valor). The element means "hall" and is cognate with Old Norse *hǫll*.
+- If Vrykul *-halas* → Common *-hal*, the sound change would involve loss of the final syllable: *-halas* → *-hals* → *-hal*. This is consistent with the general Common pattern of simplifying Vrykul consonant clusters and reducing final syllables.
+- The compound structure would be *Andor* + *-hal* = "[Andor]-hall", parallel to Vrykul *Val* + *-halas* = "Slain-hall".
+- The *Andor-* element is unknown; it could be a personal name, a descriptor, or a pre-Common root.
+
+**Alternative: *-hal* is a Common innovation.** The English word "hall" is a plausible independent origin; *Andorhal* could be a Common compound meaning "Andor's Hall" or similar, with no Vrykul connection. However, the phonological shape *-hal* (rather than *-hall* or *-holme*) is more consistent with a Vrykul loan than a native Common development.
+
+**Confidence: Low.** The *-hal* / *-halas* correspondence is phonologically plausible and semantically consistent, but a single data point cannot confirm a sound correspondence.
+
+#### Lordaeron and the *-aeron* / *-on* Element
+
+*Lordaeron* /ˈlɔːrdərɒn/ is the name of the northern human kingdom and its capital. Several decompositions are possible:
+
+1. ***Lord** + *-aeron*: The "Lord" element is English/Common. *-aeron* is then an unanalyzed suffix of unknown origin.
+
+2. ***Lor** + *-daeron*: *Lor-* is an unknown root; *-daeron* is the suffix.
+
+3. ***Lordaer** + *-on*: The root is *Lordaer-*; *-on* is a Common place-name suffix.
+
+**Hypothesis: *-on* is a Common place-name suffix derived from Vrykul *-inn*.**
+
+- If *-on* in *Lordaer-on* is a regular Common suffix, it may appear in other names: *Dalar-an* (cf. *-an*), *Gilne-as* (different suffix), *Arath-or* (cf. *-or*).
+- The *-on* / *-an* / *-or* set could represent reflexes of Vrykul *-inn* (definite article) that was reanalyzed as a place-name suffix in Common. The sound change would be: Vrykul *-inn* → Common *-in* → Common *-on* (vowel raising/backing in unstressed position) or Common *-or* (rhotacism of /n/ → /r/ in certain environments).
+- Alternative: *-on* / *-an* could be an independent Common development with no Vrykul origin, similar to the English *-ton* (town) or *-don* (hill) suffixes.
+
+**Hypothesis: *-aeron* is a fossilized element from a pre-Common substrate.**
+
+- If *Lordaeron* predates the arrival of vrykul-descended humans in the region, *-aeron* could preserve an older linguistic stratum. However, there is no evidence for a pre-Vrykul substrate in the Lordaeron region.
+
+**Confidence: Very Low.** No clear Vrykul cognate for *-aeron* exists, and the etymology remains uncertain. The *-on* suffix analysis is the most parsimonious but unconfirmed.
+
+#### Alterac and the *-ac* Element
+
+*Alterac* /ˈɔːltəræk/ is a fallen human kingdom in the Alterac Mountains. The name decomposes as *Alter* + *-ac*.
+
+**Hypothesis: *-ac* is a Common place-name suffix.**
+
+- The *-ac* suffix has no clear Vrykul cognate. Vrykul uses *-heim*, *-garde*, *-bron*, and *-korn* for place names, none of which resemble *-ac*.
+- *-ac* may be related to the real-world Celtic/Gaulish place-name suffix *-acum* (found in French *-ac*, *-y*, as in *Cognac*, *Orléans* ← *Aurelianum*). If Blizzard's naming followed this pattern, *Alterac* would mean "Alter's place" or "place of Alter."
+- In-universe, *-ac* could be a Common innovation, a fossilized Dwarven element (cf. Dwarven *-dun*, but no *-ac* is attested in Dwarven), or simply an unanalyzed name.
+
+**Confidence: Very Low.** A single attestation of *-ac* cannot establish it as a productive suffix.
+
+#### Arathi and the *Arath-* Root
+
+*Arathi* /əˈrɑːθi/ (the Arathi Highlands) and *Arathor* /ˈærɑθɔːr/ (the first human empire) share the root *Arath-*.
+
+**Hypothesis: *Arath-* is a pre-Common or Vrykul root.**
+
+- The *Arath-* element appears in two distinct Common names: *Arathi* (a people/region) and *Arathor* (a kingdom). This dual occurrence suggests *Arath-* was a meaningful root in the formative period of Common.
+- If *Arathi* = *Arath-* + *-i* (ethnic/collective suffix) and *Arathor* = *Arath-* + *-or* (kingdom suffix), the pattern parallels Vrykul name formation: root + suffix.
+- No Vrykul cognate for *Arath-* is attested, but the Vrykul corpus is limited. The phonological shape /ærɑθ/ is consistent with Vrykul phonotactics (cf. *Arthas* with the same /ɑrθ/ cluster).
+- The *-i* suffix in *Arathi* could be related to the Draenei collective suffix *-ei* (as in *Draenei* = "exiled ones"), but this would require cross-family borrowing which is not supported by lore. More likely, *-i* is an independent Common ethnic suffix.
+- The *-or* suffix in *Arathor* could be the same suffix as in *Draenor* (Draenei *-or* = "land/refuge"), but again, cross-family borrowing is unsupported. More likely, *-or* is a Common kingdom/empire suffix that developed independently.
+
+**Alternative: *Arath-* is a Common root with no Vrykul origin.**
+
+- If *Arath-* is native to Common (rather than borrowed from Vrykul), it could mean "united" or "first" (fitting the historical role of the Arathi as the first united human tribe). However, this requires assuming a Common root that has no other attestation.
+
+**Confidence: Low for the root *Arath-*** (the dual occurrence suggests it is meaningful, but its origin and meaning are unknown). **Very Low for *-or*** as a kingdom suffix.
+
+#### Investigation: *-din* in *Thoradin* and Vrykul *-inn*
+
+The name *Thoradin* /ˈθɔːrədɪn/, the first human king who unified the Arathi tribes, contains the element *-din*. This section investigates whether *-din* reflects a regular sound change from Vrykul *-inn* (the definite article suffix attested in *Drottinn* = "the Lord").
+
+**If *Thoradin* = *Thor-* + *-inn*:**
+
+- *Thor-* is the Vrykul thunder element (cf. Thorim, Thaurissan), which is well-attested and likely preserved in Common.
+- *-inn* is the Vrykul definite article suffix (cf. *Drottinn* = drott + inn = "the Lord").
+- *Thor-inn* would mean "the Thunderer" or "the Thunder-Lord" — a fitting name for a warrior king.
+
+**Proposed sound change: Vrykul *-inn* → Common *-din* via:**
+
+1. *Þórr-inn* → *Thor-in* (loss of gemination, unrounding of /y/ in preceding syllable)
+2. *Thor-in* → *Thora-in* (epenthesis of linking vowel /a/ between /r/ and /i/)
+3. *Thora-in* → *Thoradin* (voicing of the hiatus boundary; /i/ → /di/ through stop epenthesis after the linking vowel)
+
+The key step is (3): the development of /d/ at the boundary between the linking vowel /a/ and the following /i/. Stop epenthesis at vowel boundaries is cross-linguistically common (cf. Latin *etiam* → Romance *edia*; Japanese *kai* → *kadi* in some dialects). The specific change /a.i/ → /a.di/ could reflect a glottal stop realization /a.ʔi/ → /a.di/, where the glottal stop was reinterpreted as a dental stop due to the following high front vowel /i/.
+
+**Alternative analysis 1: *-din* is not from *-inn*.**
+
+- *Thoradin* = *Thor-* + *-adin*, where *-adin* is a Common personal name suffix unrelated to Vrykul *-inn*.
+- This requires no sound changes but leaves *-adin* unexplained.
+
+**Alternative analysis 2: *-din* reflects a different Vrykul morpheme.**
+
+- Vrykul has *Mjordin* /ˈmjɔɾðɪn/ (elite vrykul warriors) and *Hyldnir* /ˈhʏldnɪɾ/ (matriarchal vrykul). The *-in* / *-nir* suffix in these names may be a different morpheme from the definite article *-inn*.
+- If *Mjordin* contains a *-din* suffix, it could be a warrior/honorific suffix that was borrowed into Common: Vrykul *-din* → Common *-din* (direct loan, no sound change needed).
+- However, *Mjordin* is typically analyzed as *Mjor* + *-din* or *Mjor* + *-in*, and the *-din* / *-in* element is not independently glossed.
+
+**Assessment:**
+
+| Analysis | Plausibility | Issues |
+|----------|-------------|--------|
+| Vrykul *-inn* → Common *-din* (sound change) | Low–Medium | Requires multiple unattested sound changes (epenthesis, stop insertion); internally consistent but not confirmed |
+| *-adin* is an independent Common suffix | Medium | Simpler; no sound changes needed; but *-adin* is unexplained |
+| *-din* is a direct Vrykul loan (cf. *Mjordin*) | Medium | Requires *-din* to be a distinct Vrykul morpheme; no independent gloss for *-din* exists |
+
+**Confidence: Low.** The *-inn* → *-din* sound change is phonologically possible but requires multiple steps without confirming evidence. The simplest explanation is that *-adin* or *-din* is a Common suffix of uncertain origin, possibly but not certainly related to Vrykul *-inn*.
+
 ### Common Place-Naming Conventions
 
 Common has developed its own place-naming conventions, largely replacing the Vrykul suffix system:

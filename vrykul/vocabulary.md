@@ -322,7 +322,9 @@
 
 | Name | Description |
 |------|-------------|
-| Sturmvyn clan | Vrykul clan (noted in Sturmpyk = Storm Peaks) |
+| Sturmvyn clan | Vrykul clan in Khaz Algar (noted in Sturmpyk = Storm Peaks); *Sturm-* = "storm" (cf. *Sturmpyk* = "Storm Peaks" attested on Glittering Ancient Tablet) |
+
+The War Within (2024) features vrykul primarily through the *Sturmvyn* clan name, which confirms the *Sturm-* = "storm" morpheme previously attested in *Sturmpyk* (Storm Peaks, from the Glittering Ancient Tablet). The *Sturm-* / *Storm-* alternation is consistent with the Vrykul phonological pattern where /ʊ/ appears in some environments and /ɔ/ in others.
 
 ## 8. Phonological Observations
 

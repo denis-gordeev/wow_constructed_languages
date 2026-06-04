@@ -337,3 +337,54 @@ All three daughter languages diverged from Darnassian approximately 10,000 years
 | Zin- | Zin-Azshari ("glory") | — | — | Zin-Azshari adore |
 | adore | Elune-adore | — | — | Zin-Azshari adore |
 | -'assian | — | Thalassian | Shalassian | — |
+
+## 8. The War Within (2024): Nerubian Language Data and the *Azj-* Connection
+
+*The War Within* introduces the nerubian kingdom of **Azj-Kahet** and its queen **Ansurek**. While nerubians are a separate species from naga, the shared *Azj-* prefix in *Azj-Kahet* and *Nazjatar* raises questions about a possible deep linguistic connection.
+
+### Nerubian Proper Names (The War Within)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Ansurek | /ænˈsʊərɛk/ | Queen of Azj-Kahet | Usurped her mother Neferess |
+| Neferess | /nɛˈfɛrɛs/ | Former queen | Deposed by Ansurek; later found as an abomination |
+| Arak'nai | /ɑˈrɑːknaɪ/ | Spymaster ("the Weaver") | *Arak-* element; *-nai* suffix |
+| Anub'azal | /ɑˈnʊbɑːˈzɑːl/ | Former military commander ("the General") | *Anub-* element (cf. Egyptian *Anubis*); apostrophe marks morpheme boundary; *-azal* suffix |
+| Nizrek | /ˈnɪzrɛk/ | Advisor ("the Vizier") | *-rek* element parallels Sethrak *Merektha* |
+| Y'tekhi | /ɪˈtɛki/ | Quartermaster | Apostrophe initial; may reflect Old God/Shath'Yar orthographic influence |
+| Orweyna | /ɔːrˈweɪnə/ | Haranir druid | Haranir are a separate subterranean race, not nerubian |
+
+### Nerubian Place Names
+
+| Name | IPA | Notes |
+|------|-----|-------|
+| Azj-Kahet | /æzˈkɑːhɛt/ | Nerubian kingdom. *Azj-* prefix parallels *Nazj-* in *Nazjatar*. *-Kahet* may mean "realm" or "kingdom." |
+| City of Threads | — | Common/English name for the nerubian capital |
+| Nerub-ar Palace | /ˈnɛrʊbɑːr/ | Ansurek's seat of power. *Nerub-* + *-ar* (?). The *-ar* suffix parallels Zandali *-ar* suffixes. |
+| The Transformatory | — | Common/English name for the Ascended creation facility |
+
+### Analysis: The *Azj-* / *Nazj-* Connection
+
+The prefix *Azj-* in *Azj-Kahet* (nerubian kingdom) and *Nazj-* / *Nazj-* in *Nazjatar* (naga capital) and *Nazja* (naga language) share a phonological shape that may not be coincidental:
+
+**Arguments for a connection:**
+
+1. **Phonological identity:** *Azj-* and *Nazj-* share the sequence /æz(ʒ)dʒ/, differing only by the initial /n/ in the naga form. If *Nazj-* = *N-* + *Azj-*, then *Nazjatar* = *N-azj-atar* and *Azj-Kahet* = *Azj-kahet*, with the same root *Azj-* meaning "deep" or "realm below."
+
+2. **Aqir ancestry:** Both nerubians and naga (via the qiraji/n'raqi) descend from the Aqir, the ancient insectoid race created by the Old Gods. If the *Azj-* element was an Aqir word meaning "deep" or "home," it could have been inherited by both descendant species. The Aqir vocabulary *Azj-* could have survived 10,000+ years in both lineages.
+
+3. **Old God substrate:** Both nerubians and naga have been influenced by Old Gods (N'Zoth for naga; historically C'Thun/Yogg-Saron for nerubians). The *Azj-* element could be a Shath'Yar loanword that entered both languages independently through Old God contact.
+
+**Arguments against a connection:**
+
+1. **Different language families:** Nazja is an elven language (derived from Darnassian). The nerubian language has no confirmed relationship to the elven family. A shared morpheme between unrelated languages requires explanation through borrowing or substrate, not inheritance.
+
+2. **Geographic and temporal separation:** Nerubians are from Northrend/Khaz Algar; naga are from the Maelstrom/Nazjatar. The two species have had no documented contact for millennia. Shared vocabulary would require either deep ancestral retention (from the Aqir period) or independent borrowing from the same source.
+
+3. **Blizzard design convergence:** The similarity may be a Blizzard naming convention rather than a linguistic connection. Both *Azj-* and *Nazj-* evoke an "alien/ancient" aesthetic that Blizzard has used for multiple Old God-related species.
+
+**Assessment:**
+
+The *Azj-* / *Nazj-* connection is **intriguing but unconfirmed**. If the Aqir hypothesis is correct, *Azj-* could be one of the few surviving Aqir morphemes, preserved in both the nerubian and naga descendants. This would make *Azj-* a "fossil word" from the Aqir language, analogous to how *-garde* is a fossil word from Vrykul in Common. However, coincidence cannot be ruled out.
+
+**Confidence: Low–Medium.** The phonological match is strong, and the Aqir ancestry provides a plausible transmission mechanism, but the lack of any confirmed Aqir vocabulary makes this unconfirmable.
