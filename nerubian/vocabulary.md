@@ -37,6 +37,7 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Anok'ra | /ɑˈnɒkrə/ | Nerubian (the Manipulator) | *Anok-* + *-ra*; apostrophe-marked compound. |
 | Krik'thir | /ˈkrɪkθɪr/ | Nerubian (the Gatewatcher) | *Krik-* + *-thir*; apostrophe-marked compound. |
 | Hadronox | /ˈhædrənɒks/ | Nerubian in Azjol-Nerub | Single-word name, no apostrophe. *-nox* / *-nax* parallel. |
+| Elder Nadox | /ˈnædɒks/ | Nerubian boss in Ahn'kahet | Single-word name, no apostrophe. *-ox* / *-nox* ending parallels *Hadronox*, *Ovi'nax*. If *-ox* = *-nax* with vowel variant, this strengthens the *-nax*/*-ox* suffix hypothesis. |
 | Maexxna | /ˈmɛksnə/ | Spider boss (Naxxramas) | Single-word name, no apostrophe. Not clearly nerubian but arachnid. |
 
 ## 2. Proper Names (Places)
@@ -392,7 +393,82 @@ The Ascended are nerubians transformed by Black Blood. This is a Common-language
 
 The Severed Threads is the name of the resistance faction. "Threads" likely translates a nerubian concept related to web/spider silk, though no nerubian-language word for "thread" is attested.
 
-## 13. Writing System
+## 13. Investigation: *Ahn-* in *Ahn'kahet* and *Ahn'qiraj* — A Shared Aqir Morpheme?
+
+The element *Ahn-* appears in two significant Old God-related place names across different Aqir-descended species:
+
+| Name | Species | Location | Expansion |
+|------|---------|----------|-----------|
+| *Ahn'kahet* | Nerubian | Dragonblight, Northrend | WotLK (2008) |
+| *Ahn'qiraj* | Qiraji | Silithus | Classic (2006) |
+
+Both nerubians and qiraji descend from the Aqir, the ancient insectoid race created by the Old Gods. If *Ahn-* is an Aqir morpheme preserved in both descendant languages, it would be only the second confirmed Aqir substrate element (after the *Azj-* / *Nazj-* pattern analyzed in §5).
+
+### The Qiraji Naming Context
+
+The qiraji are the other major Aqir-descended civilization, inhabiting Silithus in southwestern Kalimdor. Key qiraji place and personal names:
+
+| Name | IPA | Context | Analysis |
+|------|-----|---------|----------|
+| Ahn'qiraj | /ˈɑːnkwɪrɑːʒ/ | The qiraji fortress-temple in Silithus | *Ahn-* + *-qiraj*; the *-qiraj* element may be the source of the English "qiraji" (the people's name). |
+| C'Thun | /kəˈθuːn/ | Old God who created the qiraji | Shath'Yar-style name; not qiraji-language. |
+| Ruins of Ahn'qiraj | — | The outdoor portion of the temple | Same *Ahn'qiraj* toponym. |
+| Ossirian | /ˈɒsiːriən/ | Qiraji boss (the Unscarred) | Egyptian-inspired name; no apostrophe. |
+| Moam | /moʊm/ | Qiraji construct boss | Short name; uncertain etymology. |
+| Buru the Gorger | — | Qiraji boss | English epithet. |
+| Ayamiss the Hunter | — | Qiraji boss | English epithet. |
+| General Rajaxx | /ˈrædʒɑːks/ | Qiraji military leader | *-axx* ending; parallels nerubian *-ax* / *-nax*. |
+| Kurinnaxx | /ˈkʊrɪnæks/ | Qiraji boss | *-naxx* ending; parallels nerubian *-nax* in *Ovi'nax*. |
+
+### The *-qiraj* / *-qiraji* Element
+
+If *-qiraj* in *Ahn'qiraj* is the same root as "qiraji" (the English name for the species), then *Ahn'qiraj* = "[Ahn]-[qiraji place]" or "[Ahn]-temple of the qiraji." This would make *-qiraj* a qiraji self-designation morpheme, parallel to how *-nerub* in *Azjol-Nerub* contains the nerubian self-designation.
+
+### The *Ahn-* Element as a Shared Aqir Morpheme
+
+If *Ahn-* appears in both nerubian (*Ahn'kahet*) and qiraji (*Ahn'qiraj*) toponyms, the most parsimonious explanation is that it is a **shared Aqir substrate morpheme** inherited by both descendant species before their divergence.
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| *Ahn-* = shared Aqir morpheme (inherited by both nerubians and qiraji) | **Medium** | Both species descend from the Aqir; shared morphemes are expected but this is the first potential example (besides *Azj-*). *Ahn'kahet* = "Ahn-kingdom"; *Ahn'qiraj* = "Ahn-[qiraji place]." If *Ahn-* = "old/ancient/sacred," both translations work: "Old Kingdom" and "Ancient Temple." |
+| *Ahn-* = coincidental phonological similarity | **Low–Medium** | /ɑn/ is a common syllable; but the structural parallel (both as prefixes before apostrophe + second morpheme) reduces the chance of coincidence. |
+| *Ahn-* = different morphemes in nerubian and qiraji | **Medium** | The simplest analysis that doesn't require cross-species comparison; but it fails to explain the structural parallel. |
+
+### The *-naxx* / *-nax* / *-axx* Pattern Across Qiraji and Nerubian
+
+A further potential connection:
+
+| Nerubian | Qiraji | Shared Element |
+|----------|--------|---------------|
+| *Ovi'nax* | *Kurinnaxx* | *-nax* / *-naxx* |
+| *Ulgrax* | *General Rajaxx* | *-ax* / *-axx* |
+| *Hadronox* | — | *-nox* |
+| *Elder Nadox* | — | *-ox* |
+
+If the *-nax* / *-naxx* element is a shared Aqir suffix (perhaps meaning "warrior" or "hunter"), this would represent a third potential Aqir substrate morpheme. The qiraji forms consistently double the final consonant (*-naxx*, *-axx*), while the nerubian forms do not (*-nax*, *-ax*). This could reflect a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate).
+
+**Confidence: Very Low** for the *-nax*/*-naxx* connection. The sample size is tiny, and the similarity could reflect Blizzard's consistent aesthetic for insectoid naming rather than genuine morpheme sharing.
+
+### Assessment
+
+The *Ahn-* element provides the strongest evidence yet for shared vocabulary between Aqir-descended species:
+
+1. **Ahn-** appears in both nerubian (*Ahn'kahet*) and qiraji (*Ahn'qiraj*) toponyms
+2. Both use the same structural pattern: *Ahn-* + apostrophe + second morpheme
+3. Both species descend from the Aqir, making shared vocabulary expected
+4. The semantics ("old/ancient/sacred") fit both contexts
+
+Combined with the *Azj-*/*Nazj-* pattern (§5) and the possible *-nax*/*-naxx* parallel, a picture is emerging of **at least two, possibly three, Aqir substrate morphemes** surviving in both nerubian and qiraji/naga:
+
+| Aqir Morpheme | Nerubian Form | Qiraji Form | Naga Form | Inferred Meaning |
+|--------------|--------------|-------------|-----------|-----------------|
+| *\*Azj-* | *Azj-Kahet*, *Azjol-Nerub* | — | *Nazj-* (with *N-* prefix) in *Nazjatar* | "deep/realm" |
+| *\*Ahn-* | *Ahn'kahet* | *Ahn'qiraj* | — | "old/ancient/sacred" |
+| *\*-naxx* (?) | *-nax* (*Ovi'nax*) | *-naxx* (*Kurinnaxx*) | — | "warrior/hunter" (?) |
+
+**Confidence: Low–Medium** for *Ahn-* as a shared Aqir morpheme; **Very Low** for the *-nax*/*-naxx* connection. The Aqir substrate hypothesis is gaining support but remains unconfirmed without attested Aqir vocabulary.
+
+## 14. Writing System
 
 Nerubians are known to have a written language. In WotLK, nerubian script appears on various objects and architecture in Azjol-Nerub. The script appears to be glyphic or hieroglyphic, consistent with the Egyptian aesthetic.
 

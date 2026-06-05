@@ -108,14 +108,23 @@
 - [ ] Verify vocabulary against WoW wiki sources when web access is available (especially TWW raid/dungeon boss names: Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek) — partial verification from Wikipedia TWW article completed; full wiki verification still needed
 - [ ] Add audio pronunciation guide links where available
 - [ ] Research additional Drust Stele inscription content (blocked by web access issues to warcraft.wiki.gg and wowhead.com — TLS connectivity failures)
-- [ ] Expand Nerubian vocabulary with pre-TWW names (Anub'arak, Anub'rekhan, Krik'thir, Hadronox, etc.) — verify against wiki sources
-- [ ] Investigate *Nefer-* connection between Nerubian *Neferess* and Tol'vir *Neferset* — **ANALYZED**: likely shared Blizzard design inspiration from Egyptian *nfr*, not genuine in-universe linguistic connection (Confidence: Very Low for genuine connection; High for shared design inspiration)
-- [ ] Investigate *Ahn-* vs. *Azj-* alternation in nerubian place names (*Ahn'kahet* vs. *Azj-Kahet*) — **ANALYZED**: data insufficient to resolve; three hypotheses evaluated (Confidence: Low)
+- [x] Expand Nerubian vocabulary with pre-TWW names (Anub'arak, Anub'rekhan, Krik'thir, Hadronox, etc.) — added Elder Nadox (WotLK boss in Ahn'kahet); pre-TWW names verified against Wikipedia TWW article
+- [x] Investigate *Ahn-* in *Ahn'kahet* and *Ahn'qiraj* — **ANALYZED**: *Ahn-* likely a shared Aqir substrate morpheme meaning "old/ancient/sacred," appearing in both nerubian and qiraji toponyms; also identified *-naxx*/*-nax* pattern across qiraji and nerubian names; full analysis in nerubian/vocabulary.md §13, nerubian/grammar.md, nerubian/vocabulary.html (Confidence: Low–Medium for *Ahn-*; Very Low for *-nax*/*-naxx*)
+- [x] Investigate *kobyss* naming — **RESEARCHED**: no individual kobyss NPC names documented; "kobyss" is Common/English designation; may derive from "abyss" or be a nerubian loanword; analysis in earthen/vocabulary.md §10, earthen/vocabulary.html (Confidence: Very Low — no naming data available)
+- [x] Update earthen/vocabulary.html with the *-dar* suffix and Arathi analyses (was already complete)
+- [x] Update titan-forged-comparative.html with Ahn'qiraj analysis and Aqir substrate morpheme summary
+- [x] Create dedicated Qiraji language folder with vocabulary.md, grammar.md, description.md, and vocabulary.html — based on Classic WoW Ahn'qiraj content; includes Aqir substrate analysis (Ahn- morpheme, -naxx/-nax pattern, Anub- prefix); updated README.md; added 6 constructed example sentences (Qr1–Qr6) to example-sentences.html
+
+## Next Actions
+
+- [ ] Verify vocabulary against WoW wiki sources when web access is available (especially TWW raid/dungeon boss names: Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek) — partial verification from Wikipedia TWW article completed; full wiki verification still needed (blocked by TLS failures to warcraft.wiki.gg and wowhead.com)
+- [ ] Add audio pronunciation guide links where available
+- [ ] Research additional Drust Stele inscription content (blocked by web access issues)
 - [ ] Research additional Earthen NPC names from TWW zones (especially vendors and questgivers in Dornogal who may have Earthen names)
 - [ ] Create dedicated Haranir language section if additional names are discovered in future TWW content updates
-- [ ] Cross-reference Earthen *-dar* suffix with Arathi language (if Beledar and Mereldar are Arathi rather than Earthen toponyms) — **ANALYZED**: *-dar* most likely from Earthen substrate (borrowed by Arathi); restricted to Khaz Algar, not found in any other Common/Arathi place names (Confidence: Low–Medium)
 - [ ] Research TWW Arathi naming patterns further: verify Faerin Lothar, Vaelisia Steelstrike, Aelric Leid names against wiki sources; investigate whether Arathi names show consistent Elven phonological influence
-- [ ] Investigate whether *Ahn-* in *Ahn'kahet* and *Ahn'qiraj* reflects a shared Aqir morpheme (cross-reference nerubian and qiraji naming)
 - [ ] Research additional nerubian NPC names from TWW quests and world content (beyond raid/dungeon bosses)
-- [ ] Investigate *kobyss* naming (the amphibious creatures in Hallowfall) — potential for additional naming data
-- [ ] Update earthen/vocabulary.html with the *-dar* suffix and Arathi analyses
+- [ ] Research individual kobyss NPC names from TWW Hallowfall content when web access is available
+- [ ] Investigate *-naxx* / *-nax* pattern across qiraji and nerubian names — **STARTED**: initial analysis in qiraji/vocabulary.md §7 and nerubian/vocabulary.md §13; qiraji retains geminates (*-naxx*) while nerubian simplifies (*-nax*); needs more data points
+- [ ] Investigate whether Undermine (goblin capital from TWW patch) adds any new Gnomish/Goblin linguistic data (Gallywix, Darkfuse Enforcement, Pamsy, Grimla Fizzlecrank, Nikki the Fixer)
+- [ ] Investigate ethereal/K'aresh naming from TWW patch content (Locus-Walker, Ve'nari, Nexus-King Salhadaar, Phase-Thief Azir, Soul-Scribe) — potential for a new language section

@@ -221,3 +221,35 @@ The Arathi of Hallowfall are a mixed human–high-elf population. Their personal
 The mixed human–elven heritage of the Arathi could produce names that combine Common (Vrykul-descended) and Thalassian (Elven) phonological features. However, with only three named Arathi characters, the sample is too small to establish patterns.
 
 **Confidence: Very Low.** The Arathi naming data is interesting but insufficient for morphological analysis. The primary significance is the *-dar* suffix in place names, which connects to the Earthen/Titan *-dor* morpheme.
+
+## 10. Kobyss Naming (Hallowfall Creatures)
+
+The kobyss are monstrous amphibious creatures native to Hallowfall. They attack the Arathi settlements whenever Beledar shifts into its Void phase, suggesting a connection to Void energy. Despite their prominence in Hallowfall's ecology, no individual kobyss NPC names are currently documented in our sources.
+
+### Known Information
+
+- Kobyss are "monstrous" creatures that inhabit the waters and caverns of Hallowfall
+- They attack in coordinated raids during Beledar's Void phase, suggesting sensitivity to or affinity with Void energy
+- They formed a joint invasion force with the Order of Night (void cultists) to attack Mereldar
+- They are amphibious, emerging from Hallowfall's waterways
+- The term "kobyss" is the Common/English designation; no kobyss-language term is known
+
+### Etymological Speculation
+
+The name "kobyss" may reflect:
+
+1. **Real-world "abyss"**: *kobyss* ≈ "co-abyss" or "of the abyss" — a name given by the Arathi based on the creatures' emergence from deep waters. If *kob-* = "of" and *-yss* = "abyss" (a Common morphological parallel), then *kobyss* = "abyss-dweller."
+
+2. **Nerubian origin**: Given the nerubians' extensive underground network in Azj-Kahet (adjacent to Hallowfall), the kobyss could be named from a nerubian word. The *-yss* ending does not match known nerubian suffix patterns (*-nax*, *-rek*, *-kahet*), making this less likely.
+
+3. **Independent designation**: "Kobyss" may simply be an Arathi word for the creatures, unrelated to any known language family.
+
+### Assessment
+
+Without individual kobyss NPC names or any kobyss-language data, no morphological analysis is possible. The creatures are linguistically significant only as potential evidence for:
+
+- Areal Void-influenced naming in Hallowfall
+- Contact between kobyss and nerubian/Arathi naming systems
+- Future TWW content patches that may introduce named kobyss NPCs
+
+**Confidence: Very Low.** No kobyss proper names or language data are available. The entry exists to document the gap and flag for future research when web access to TWW NPC databases becomes available.

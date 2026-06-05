@@ -110,13 +110,16 @@ The *-rek* / *-urek* element may be a title or rank suffix. If *-rek* is related
 | *Ovi'nax* | *Ovi-* + *-nax* |
 | *Ulgrax* | *Ulgr-* + *-ax* |
 | *Hadronox* | *Hadron-* + *-ox* |
+| *Elder Nadox* | *Nad-* + *-ox* |
 
-Three names end in the /æks/ or /ɒks/ sound. This may be:
+Four names end in the /æks/ or /ɒks/ sound. This may be:
 - A rank or role suffix (e.g., "broodtwister" or "devourer")
 - A coincidence (the sound is common in harsh-sounding names)
 - Related to the *-nai* suffix in *Arak'nai* through a phonological alternation
 
 **Confidence: Very Low.**
+
+Notably, qiraji names also feature the *-naxx* / *-axx* ending (*Kurinnaxx*, *General Rajaxx*), suggesting this may be a shared Aqir substrate suffix. The qiraji forms consistently double the final consonant (*-naxx*, *-axx*) while the nerubian forms do not (*-nax*, *-ax*), potentially reflecting a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate). See vocabulary.md §13 for full analysis.
 
 ### The *-zek* / *-rek* Parallel
 
@@ -160,9 +163,9 @@ The place names *Ahn'kahet* and *Azj-Kahet* share *-kahet* but differ in the ini
 
 2. **Dialectal variation from shared root**: A proto-nerubian form like *\*Anzj-* could have simplified to *Ahn-* in Northrend and fronted to *Azj-* in Khaz Algar. Speculative but possible.
 
-3. **Ahn- is not nerubian**: *Ahn'kahet* may be an Aqir or qiraji name rather than native nerubian, since the similar element *Ahn-* appears in *Ahn'qiraj* (a qiraji place name).
+3. **Ahn- is not nerubian**: *Ahn'kahet* may be an Aqir or qiraji name rather than native nerubian, since the similar element *Ahn-* appears in *Ahn'qiraj* (a qiraji place name). The *Ahn-* element appears in both nerubian (*Ahn'kahet*) and qiraji (*Ahn'qiraj*) toponyms, both with the same structural pattern (*Ahn-* + apostrophe + second morpheme). If *Ahn-* is a shared Aqir substrate morpheme meaning "old/ancient/sacred," it was inherited by both species from their common Aqir ancestry. This would make *Ahn-* the second confirmed Aqir substrate morpheme (after *Azj-*). See vocabulary.md §13 for full analysis.
 
-**Confidence: Low.** The data is insufficient to distinguish between these hypotheses.
+**Confidence: Low–Medium** for *Ahn-* as a shared Aqir morpheme; **Low** for the data being insufficient to resolve the *Ahn-* vs. *Azj-* alternation.
 
 ### The *Nefer-* Element: Nerubian–Tol'vir Connection
 

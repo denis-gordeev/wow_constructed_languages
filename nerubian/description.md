@@ -35,7 +35,7 @@ The nerubian kingdom of Azj-Kahet, located in Khaz Algar, survived the Scourge's
 - **Tol'vir**: Both share an Egyptian-inspired aesthetic and the *Nefer-* morpheme (*Neferess*, *Neferset*). This almost certainly reflects shared Blizzard design inspiration from Egyptian *nfr* rather than a genuine linguistic connection — no other morphemes are shared between the two languages, and they belong to completely different species with no documented contact.
 - **Shath'Yar (Old God)**: The initial apostrophe in *Y'tekhi* and the harsh consonant clusters in nerubian names are consistent with Old God phonological influence, but no direct Shath'Yar loanwords are confirmed.
 - **Titan-Forged family**: No confirmed genetic relationship. The shared compounding pattern (right-headed, apostrophe-marked) may be coincidental or an areal feature.
-- **Qiraji**: Both nerubians and qiraji descend from the Aqir. The *Ahn-* element in *Ahn'qiraj* (qiraji) and *Ahn'kahet* (nerubian) may reflect a shared Aqir morpheme, but this is highly speculative.
+- **Qiraji**: Both nerubians and qiraji descend from the Aqir. The *Ahn-* element in *Ahn'qiraj* (qiraji) and *Ahn'kahet* (nerubian) may reflect a shared Aqir substrate morpheme meaning "old/ancient/sacred." If confirmed, *Ahn-* would be the second Aqir substrate morpheme (after *Azj-*). Additionally, the *-naxx* / *-nax* ending appears in both qiraji (*Kurinnaxx*, *Rajaxx*) and nerubian (*Ovi'nax*) names, potentially a third shared element. These parallels are strengthening the Aqir substrate hypothesis, though it remains unconfirmed without attested Aqir vocabulary.
 
 ### Hypothetical Language Family
 
