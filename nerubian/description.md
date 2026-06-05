@@ -32,9 +32,10 @@ The nerubian kingdom of Azj-Kahet, located in Khaz Algar, survived the Scourge's
 ## Relationship to Other Languages
 
 - **Nazja (Naga)**: The *Azj-* / *Nazj-* connection is the primary link between nerubian and naga naming. If this reflects an Aqir substrate word, both languages inherited it from their common Aqir ancestry. However, the languages are otherwise completely different — Nazja is an elven language, while nerubian has no confirmed relationship to any elven or titan-forged language family.
-- **Tol'vir**: Both share an Egyptian-inspired aesthetic and potentially the *Nefer-* morpheme (*Neferess*, *Neferset*). This may reflect a shared Blizzard design inspiration rather than a genuine linguistic connection.
+- **Tol'vir**: Both share an Egyptian-inspired aesthetic and the *Nefer-* morpheme (*Neferess*, *Neferset*). This almost certainly reflects shared Blizzard design inspiration from Egyptian *nfr* rather than a genuine linguistic connection — no other morphemes are shared between the two languages, and they belong to completely different species with no documented contact.
 - **Shath'Yar (Old God)**: The initial apostrophe in *Y'tekhi* and the harsh consonant clusters in nerubian names are consistent with Old God phonological influence, but no direct Shath'Yar loanwords are confirmed.
 - **Titan-Forged family**: No confirmed genetic relationship. The shared compounding pattern (right-headed, apostrophe-marked) may be coincidental or an areal feature.
+- **Qiraji**: Both nerubians and qiraji descend from the Aqir. The *Ahn-* element in *Ahn'qiraj* (qiraji) and *Ahn'kahet* (nerubian) may reflect a shared Aqir morpheme, but this is highly speculative.
 
 ### Hypothetical Language Family
 
@@ -58,7 +59,9 @@ Unlike the Titan-forged language family (which has confirmed genetic relationshi
 - **The *Anub-* prefix analysis** (as a title meaning "lord/warrior") is speculative. It could simply be a proper-name element with no independent meaning.
 - **The *-kahet* suffix analysis** (as "kingdom/realm") is the strongest morpheme inference, supported by two independent attestations across 16 years of game development.
 - **The *Azj-* / *Nazj-* connection** is intriguing but unconfirmed. It cannot be verified without attested Aqir vocabulary.
-- **Names from TWW raid/dungeon bosses** (Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek) need verification against wiki sources.
+- **Names from TWW raid/dungeon bosses** (Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek) confirmed against Wikipedia TWW plot summary. All names verified as correct.
+- **The *Nefer-* connection** between nerubian and Tol'vir is almost certainly shared Blizzard design inspiration from Egyptian *nfr*, not a genuine in-universe linguistic connection.
+- **The *Ahn-* vs. *Azj-* alternation** remains unresolved — the data is insufficient to determine whether these are different morphemes, dialectal variants, or from different source languages.
 
 ## Sources
 

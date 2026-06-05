@@ -145,8 +145,8 @@ The Earthen name *Eirich* and the Vrykul Val'kyr goddess *Eyir* share the elemen
 1. **Phonological identity:** Both *Eirich* and *Eyir* begin with the sequence /ɛɪr/. The phonological match is exact for the first syllable.
 
 2. **Semantic plausibility:** In Norse mythology, *Eir* is a goddess associated with healing, medicine, and medical skill. If the Warcraft *Eir-* morpheme has a similar meaning ("healer," "guardian," "one who tends"), then:
-   - *Eyir* as a Val'kyr goddess could be "the Healer" or "the Guardian" — fitting for a goddess who chooses and tends to the slain
-   - *Eirich* as a Machine Speaker leader could be "Healer-[suffix]" or "Guardian of [uncertain]" — fitting for one who maintains (heals) ancient machinery
+    - *Eyir* as a Val'kyr goddess could be "the Healer" or "the Guardian" — fitting for a goddess who chooses and tends to the slain
+    - *Eirich* as a Machine Speaker leader could be "Healer-[suffix]" or "Guardian of [uncertain]" — fitting for one who maintains (heals) ancient machinery
 
 3. **Titan morpheme distribution:** If *Eir-* is a Titan morpheme, it would be expected to appear in multiple titan-forged languages. The appearance in both Earthen (via Khaz'goroth's creations) and Vrykul (via Odyn's Val'kyr) is consistent with a shared Titan source that was preserved in different cultural contexts.
 
@@ -171,3 +171,53 @@ The Earthen name *Eirich* and the Vrykul Val'kyr goddess *Eyir* share the elemen
 | Coincidence | Low | The phonological match is too close for pure coincidence; some shared source (even if only real-world) is likely |
 
 **Confidence: Low–Medium.** The *Eir-* element could represent a shared Titan morpheme preserved in both Earthen and Vrykul, with *Eyir* specializing in the Val'kyr/guardian semantic field and *Eirich* in the Machine Speaker/technician field. However, the Norse inspiration makes it impossible to distinguish in-universe inheritance from out-of-universe design convergence.
+
+## 8. The *-dar* Suffix and the Arathi Connection
+
+The *-dar* suffix appears in two Hallowfall place names (*Beledar*, *Mereldar*) and may reflect a variant of Titan *-dor* (land/realm). However, Hallowfall is an Arathi settlement, not an Earthen one. This section evaluates whether *-dar* is Earthen, Arathi, or shared.
+
+### Arathi Naming Data (from *The War Within*)
+
+The Arathi of Hallowfall are a mixed-race people descended from humans and high elves of the ancient Empire of Arathor. Key Arathi names from TWW:
+
+| Name | IPA | Role | Analysis |
+|------|-----|------|----------|
+| Faerin Lothar | /ˈfɛərɪn/ | Arathi Lamplighter | Human/Arathi name; "Lothar" is the famous Arathi dynasty name |
+| Vaelisia Steelstrike | /vɛˈliːsiə/ | General of the Arathi military | First name may be Arathi; surname is English compound |
+| Aelric Leid | /ˈɛlrɪk/ | Leader of the Order of Night (void cultist) | "Aelric" resembles Old English Ælfric; "Leid" may be from German "Leid" (suffering) |
+| Beledar | /bɛˈlɛdɑːr/ | The crystal in Hallowfall's ceiling | *-dar* suffix; if *Bel-* = "light" and *-edar* = "place/crystal", then "Light-place" |
+| Mereldar | /mɛˈrɛldɑːr/ | Arathi city in Hallowfall | *-dar* suffix; *Merel-* element unknown |
+
+### Analysis: Earthen *-dar* vs. Arathi *-dar*
+
+There are three possible explanations for the *-dar* suffix in Hallowfall place names:
+
+**1. Earthen substrate:** The Hallowfall area was originally Earthen territory (part of Khaz Algar). The Arathi arrived later (expedition from the Arathi Empire 15 years prior). If the Arathi adopted existing Earthen place names, then *Beledar* and *Mereldar* would be Earthen toponyms borrowed into Arathi/Common. This would make *-dar* = *-dor* (Titan "land/realm"), with regular vowel raising /ɔ/ → /ɑ/.
+
+**2. Arathi independent innovation:** The Arathi, as descendants of humans (who descend from Vrykul, who descend from Titan), may have preserved the *-dor* morpheme through their Vrykul ancestry, developing it independently into *-dar*. This would represent a parallel sound change in two branches of the titan-forged family: Earthen *-dor* → *-dar* and Common/Arathi *-dor* → *-dar*.
+
+**3. Contact borrowing:** The Arathi, living in close proximity to Earthen in Khaz Algar, borrowed the *-dar* toponymic suffix from Earthen for their own place names. This would be consistent with the known contact between the two groups.
+
+### Assessment
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| Earthen substrate (pre-existing Earthen toponyms adopted by Arathi) | **Medium** | Hallowfall was part of Khaz Algar before the Arathi arrived; the Arathi may have adopted existing place names |
+| Arathi independent innovation (from Vrykul/Common heritage) | **Low** | No other Common or Arathi place names show the *-dar* suffix outside of Khaz Algar |
+| Contact borrowing (Arathi borrowed *-dar* from Earthen) | **Medium** | Consistent with documented contact; the Arathi have been in Khaz Algar for 15+ years |
+
+**Confidence: Low–Medium.** The *-dar* suffix most likely derives from Titan *-dor*, but whether it entered Arathi through Earthen substrate, contact borrowing, or independent inheritance cannot be determined with current evidence. The fact that *-dar* appears ONLY in Khaz Algar (not in any other Arathi or Common place names) strongly suggests an Earthen source rather than independent Arathi innovation.
+
+## 9. Arathi Personal Names and Their Linguistic Affiliation
+
+The Arathi of Hallowfall are a mixed human–high-elf population. Their personal names reflect this dual heritage:
+
+| Name | Linguistic Affiliation | Analysis |
+|------|----------------------|----------|
+| Faerin Lothar | Common/Human | "Lothar" is the Arathi dynasty (cf. Anduin Lothar); "Faerin" may be Elven-influenced (cf. Thalassian *-in* names) |
+| Vaelisia Steelstrike | Common/Human | Given name has Elven phonological features (/ɛɪ/, /siə/); surname is English compound |
+| Aelric Leid | Common/Human | Germanic/Old English style; "Ælfric" pattern; not clearly Elven |
+
+The mixed human–elven heritage of the Arathi could produce names that combine Common (Vrykul-descended) and Thalassian (Elven) phonological features. However, with only three named Arathi characters, the sample is too small to establish patterns.
+
+**Confidence: Very Low.** The Arathi naming data is interesting but insufficient for morphological analysis. The primary significance is the *-dar* suffix in place names, which connects to the Earthen/Titan *-dor* morpheme.

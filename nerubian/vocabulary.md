@@ -267,7 +267,132 @@ Aqir (unattested; Old God-created insectoid race)
 
 Unlike the Titan-forged language family (which has confirmed genetic relationships), the Aqir-descended language family is entirely hypothetical. Only the *Azj-* element provides any evidence for shared vocabulary, and even this is uncertain.
 
-## 10. Writing System
+## 10. The *Nefer-* Element: Nerubian–Tol'vir Connection
+
+The element *Nefer-* appears in both nerubian and Tol'vir naming:
+
+| Name | Language | Context | Decomposition |
+|------|----------|---------|---------------|
+| *Neferess* | Nerubian | Former queen of Azj-Kahet | *Nefer-* + *-ess* |
+| *Neferset* | Tol'vir | Tol'vir tribe (Uldum) | *Nefer-* + *-set* |
+
+### Arguments for a Genuine Linguistic Connection
+
+1. **Phonological identity:** Both forms share the exact sequence /nɛfɛr/ — not merely a similar sound but an identical one.
+
+2. **Egyptian *nfr* as a shared design root:** Egyptian *nfr* means "beautiful" or "good." If both *Neferess* and *Neferset* independently draw on this real-world morpheme through Blizzard's Egyptian-inspired naming aesthetic, they could have the same intended in-universe meaning: *Neferess* ≈ "the beautiful one" and *Neferset* ≈ "beautiful place/settlement."
+
+3. **Semantic coherence:** *Neferess* as a queen's name meaning "beautiful" fits the convention of royal names carrying positive epithets. *Neferset* as a tribal/place name meaning "beautiful place" is also plausible.
+
+4. **Potential in-universe transmission mechanism:** Tol'vir are titan-forged stone constructs; nerubians are Aqir-descended arachnids. These are completely unrelated species with no documented contact. However, both species coexisted on Azeroth for millennia, and both had interactions with Old God forces. If *Nefer-* were an extremely old Azerothian word (perhaps even predating the Titan–Old God conflict), it could theoretically have been borrowed into both languages through ancient contact.
+
+### Arguments Against a Genuine Linguistic Connection
+
+1. **No genetic relationship:** Nerubian has no confirmed relationship to the titan-forged language family (which includes Tol'vir). A shared morpheme between unrelated language families requires borrowing or coincidence, not inheritance.
+
+2. **Independent Egyptian-inspired design:** Both nerubians and Tol'vir have an Egyptian aesthetic (pyramids, scarabs, mummification, underworld themes). Blizzard designers likely drew on the same Egyptian vocabulary independently for both races. *Nefer-* is one of the most recognizable Egyptian morphemes (as in Nefertiti), making it a natural choice for both naming systems.
+
+3. **Different suffix systems:** *Neferess* uses *-ess* (a nerubian suffix not found in Tol'vir), while *Neferset* uses *-set* (a Tol'vir locative suffix not found in nerubian). The root *Nefer-* is shared but the grammatical contexts are entirely different.
+
+4. **No other shared morphemes:** Despite both having Egyptian-inspired naming, no other shared morphemes exist between nerubian and Tol'vir (*Anub-* is nerubian-only; *-kahet* is nerubian-only; *Vir'-*, *-et*, *-hotep* are Tol'vir-only). A genuine linguistic connection would be expected to show more than one shared morpheme.
+
+### Assessment
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| Shared Blizzard design inspiration (independent Egyptian borrowing) | **High** | Both races are Egyptian-themed; *Nefer-* is the most obvious Egyptian morpheme; no other shared morphemes exist |
+| Ancient Azerothian areal borrowing (Nefer- borrowed between nerubian and Tol'vir at some point) | **Very Low** | No documented contact; completely different language families; no other shared vocabulary |
+| Coincidence | **Very Low** | The phonological match is too exact for coincidence; some shared source (even if only real-world Egyptian) is certain |
+
+**Confidence: Very Low** for a genuine in-universe linguistic connection; **High** for a shared Blizzard design inspiration from Egyptian *nfr*.
+
+## 11. The *Ahn-* vs. *Azj-* Alternation
+
+The nerubian place names *Ahn'kahet* and *Azj-Kahet* share the suffix *-kahet* but differ in the initial element:
+
+| Name | Expansion | Initial Element | Suffix | In-Game Designation |
+|------|-----------|----------------|--------|---------------------|
+| *Ahn'kahet* | WotLK (2008) | *Ahn-* | *-kahet* | "The Old Kingdom" |
+| *Azj-Kahet* | TWW (2024) | *Azj-* | *-kahet* | The nerubian kingdom in Khaz Algar |
+
+If *-kahet* = "kingdom/realm" (as argued in §6), then:
+- *Ahn'kahet* = "Ahn-kingdom" → "The Old Kingdom" (matches in-game designation)
+- *Azj-Kahet* = "Azj-kingdom" → "The Deep Kingdom" or "The Domain-Kingdom"
+
+This raises the question: are *Ahn-* and *Azj-* different morphemes, or do they represent a sound change between dialects?
+
+### Hypothesis 1: Different Morphemes
+
+*Ahn-* and *Azj-* are completely different morphemes with different meanings:
+- *Ahn-* = "old" or "ancient" (if *Ahn'kahet* = "Old Kingdom")
+- *Azj-* = "deep" or "realm/domain" (if *Azj-Kahet* = "Deep Kingdom")
+
+This is the simplest analysis. Each morpheme has a single attestation before *-kahet*, and no sound change needs to be posited. However, the phonological similarity (/ɑn/ vs. /æz(dʒ)/) is notable.
+
+### Hypothesis 2: Regular Sound Change
+
+*Ahn-* and *Azj-* reflect a regular sound change between the Northrend dialect (WotLK) and the Khaz Algar dialect (TWW):
+
+| Northrend (Ahn-) | Khaz Algar (Azj-) | Sound Change |
+|-------------------|--------------------|--------------|
+| /ɑn/ | /æz(dʒ)/ | Vowel fronting + consonant epenthesis |
+
+The sound change /ɑn/ → /æz(dʒ)/ is phonologically unusual and lacks supporting evidence from other nerubian morphemes. No other morpheme shows a parallel alternation between Northrend and Khaz Algar forms.
+
+### Hypothesis 3: Dialectal Variation with Shared Root
+
+*Ahn-* and *Azj-* descend from a common proto-nerubian root that diverged in the two geographically separated nerubian populations. The proto-form could have been something like **\*Anz-* or **\*Anzj-*, which:
+- In Northrend, simplified to *Ahn-* through loss of the final consonant
+- In Khaz Algar, fronted to *Azj-* through vowel change
+
+This is speculative but internally consistent. The challenge is that with only one morpheme pair showing the alternation, no sound correspondences can be established.
+
+### Hypothesis 4: *Ahn-* is Not Nerubian
+
+The dungeon *Ahn'kahet* is located in Dragonblight, Northrend, but it may not be a native nerubian name. The Tol'vir language has a strikingly similar structure (Egyptian-inspired, apostrophe-marked compounds) and uses the *Ahn-* element in other contexts:
+- Tol'vir *Ahn'qiraj* (if *Ahn-* is a shared morpheme across Old God-related species)
+
+If *Ahn'kahet* were a qiraji or Aqir name rather than a nerubian one, then the *Ahn-* vs. *Azj-* alternation would be a difference between two entirely different languages, not a dialectal variation.
+
+### Assessment
+
+| Hypothesis | Plausibility | Notes |
+|------------|-------------|-------|
+| Different morphemes (*Ahn-* ≠ *Azj-*) | **Medium** | Simplest explanation; no sound change needed; phonological similarity may be coincidental |
+| Regular sound change between dialects | **Low** | Phonologically unusual; no supporting evidence from other morphemes |
+| Dialectal variation from shared root | **Low–Medium** | Possible but requires a reconstructed proto-form with no supporting evidence |
+| *Ahn-* is not nerubian (Aqir/qiraji origin) | **Low–Medium** | The *Ahn-* element in *Ahn'qiraj* is suggestive; however, *Ahn'kahet* is a nerubian dungeon in canon |
+
+**Confidence: Low.** The data is insufficient to distinguish between these hypotheses. The different-morphemes analysis is the most parsimonious, but the shared-root hypothesis cannot be ruled out.
+
+## 12. Additional TWW Names and Titles
+
+### Nerubian Social Structure (from TWW Plot)
+
+The Wikipedia summary of *The War Within* plot confirms the following social structure and titles:
+
+| Title/Role | Name | Notes |
+|------------|------|-------|
+| Queen | Ansurek | Usurped her mother Neferess; ally of Xal'atath |
+| Former Queen | Neferess | Deposed; later found as an abomination in the Transformatory |
+| The Weaver (spymaster) | Arak'nai | Widow Arak'nai; "the Weaver" is her epithet |
+| The General (commander) | Anub'azal | "The General" is his epithet; former military commander |
+| The Vizier (advisor) | Nizrek | "The Vizier" is his epithet; Executor Nizrek |
+| Quartermaster | Y'tekhi | Underwent ascension to infiltrate the City of Threads |
+
+The epithet system (The Weaver, The General, The Vizier) represents Common-language translations of nerubian titles, similar to how Earthen titles (Stormward, Councilward, Stoneward) are Common-language translations.
+
+The term "Widow" applied to Arak'nai (*Widow Arak'nai*) is notable — it may be a Common-language rendering of a nerubian title (cf. "widow" as a spider reference), or it may reflect a genuine nerubian social role.
+
+### The Ascended
+
+The Ascended are nerubians transformed by Black Blood. This is a Common-language term, not a nerubian word. The transformation process takes place in the Transformatory (also Common-language).
+
+### The Severed Threads
+
+The Severed Threads is the name of the resistance faction. "Threads" likely translates a nerubian concept related to web/spider silk, though no nerubian-language word for "thread" is attested.
+
+## 13. Writing System
 
 Nerubians are known to have a written language. In WotLK, nerubian script appears on various objects and architecture in Azjol-Nerub. The script appears to be glyphic or hieroglyphic, consistent with the Egyptian aesthetic.
 

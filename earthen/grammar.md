@@ -76,6 +76,20 @@ If *-dor* → *-dar* → *Dorn-* represents a regular sound change chain from Ti
 
 [speculative]: This correspondence is supported by three independent data points but remains unconfirmed. The Hallowfall places (*Beledar*, *Mereldar*) are Arathi settlements, not Earthen ones, so the *-dar* suffix may be an Arathi borrowing from Earthen rather than native Earthen.
 
+### The *-dar* Suffix: Earthen or Arathi?
+
+The *-dar* suffix appears only in Khaz Algar place names (*Beledar*, *Mereldar*), both of which are Arathi settlements in Hallowfall. Three possible origins:
+
+1. **Earthen substrate**: Hallowfall was part of Khaz Algar before the Arathi arrived. The Arathi may have adopted pre-existing Earthen toponyms. This is the most likely explanation, since *-dar* does not appear in any other Arathi or Common place names outside Khaz Algar.
+
+2. **Contact borrowing**: The Arathi, living in proximity to Earthen, borrowed the *-dar* suffix for new place names.
+
+3. **Independent Arathi innovation from Vrykul/Common heritage**: The Arathi descend from humans (Vrykul descendants) who could have preserved *-dor* through their Titan heritage. However, no other human/Common place names show *-dar* (cf. *Stormwind*, *Lordaeron*, *Arathi* — none use *-dar*).
+
+The geographic restriction of *-dar* to Khaz Algar strongly supports an Earthen source. If *-dar* = *-dor* (Titan "land/realm"), the sound change /ɔ/ → /ɑ/ is plausible and parallels other Titan-to-Earthen vowel shifts.
+
+**Confidence: Low–Medium** for *-dar* as an Earthen variant of Titan *-dor*.
+
 ### The *-ward* Title Suffix
 
 Three of four Earthen leadership titles use the English suffix *-ward*:

@@ -152,6 +152,30 @@ The *Azj-* element is the primary evidence for an Aqir substrate:
 
 If *Azj-* is an Aqir word, it would be a "fossil morpheme" — preserved in both descendant languages but with different phonological development (*Azj-* in nerubian, *Nazj-* in naga with initial *N-* prefix).
 
+### The *Ahn-* vs. *Azj-* Alternation
+
+The place names *Ahn'kahet* and *Azj-Kahet* share *-kahet* but differ in the initial element. Possible explanations:
+
+1. **Different morphemes**: *Ahn-* = "old" (if *Ahn'kahet* = "Old Kingdom") and *Azj-* = "deep/domain" (if *Azj-Kahet* = "Deep Kingdom"). Simplest analysis; no sound change needed.
+
+2. **Dialectal variation from shared root**: A proto-nerubian form like *\*Anzj-* could have simplified to *Ahn-* in Northrend and fronted to *Azj-* in Khaz Algar. Speculative but possible.
+
+3. **Ahn- is not nerubian**: *Ahn'kahet* may be an Aqir or qiraji name rather than native nerubian, since the similar element *Ahn-* appears in *Ahn'qiraj* (a qiraji place name).
+
+**Confidence: Low.** The data is insufficient to distinguish between these hypotheses.
+
+### The *Nefer-* Element: Nerubian–Tol'vir Connection
+
+The element *Nefer-* appears in both nerubian (*Neferess*) and Tol'vir (*Neferset*). Both are phonologically identical (/nɛfɛr/) and both reflect Blizzard's Egyptian-inspired naming aesthetic (cf. Egyptian *nfr* = "beautiful/good").
+
+However, this is almost certainly a shared **design inspiration** rather than a genuine in-universe linguistic connection:
+
+- Nerubian has no confirmed relationship to the titan-forged language family (which includes Tol'vir)
+- No other shared morphemes exist between nerubian and Tol'vir (*Anub-* is nerubian-only; *-kahet* is nerubian-only; *Vir'-*, *-et* are Tol'vir-only)
+- Both species have Egyptian aesthetics, and *Nefer-* is the most recognizable Egyptian morpheme
+
+**Confidence: Very Low** for a genuine linguistic connection; **High** for shared Blizzard design inspiration.
+
 ### Comparison with Titan-Forged Compounding
 
 Both nerubian and titan-forged languages use right-headed compounding with apostrophe boundaries:

@@ -37,18 +37,21 @@ The discovery of Khaz Algar by surface-dwellers during *The War Within* brings t
 - **Vrykul**: Both Earthen and Vrykul descend from Titan, but through different creator lineages (Earthen via Khaz'goroth, Vrykul via Odyn's iron vrykul). The potential *Eir-* connection (*Eirich*, *Eyir*) and *-grim* connection (*Baelgrim*, *Bjarngrim*) suggest some shared morphemes across these lineages.
 - **Gnomish**: Both Earthen (via Dwarven) and Gnomish descend from Titan-forged, but through different creators (Khaz'goroth vs. Mimiron). No direct morpheme sharing is attested.
 - **Common**: Common descends from Vrykul, which descends from Titan — making it a "cousin" language to Earthen through the Titan family. The *-dar* suffix in Hallowfall place names (*Beledar*, *Mereldar*) may reflect Earthen influence on Common/Arathi naming.
+- **Arathi (Common variant)**: The Arathi of Hallowfall speak a dialect of Common, but their place names (*Beledar*, *Mereldar*) preserve the *-dar* suffix that likely derives from Earthen *-dar* ← Titan *-dor*. The Arathi personal names (*Faerin*, *Vaelisia*, *Aelric*) show mixed human and Elven phonological influences, reflecting their mixed human–high-elf heritage.
 
 ## Reliability Notes
 
 - **Very limited attestation.** Only 6 personal names and ~5 place names with potential Earthen etymologies are known from *The War Within*.
 - **No full sentences or verb forms are attested.** All Earthen NPCs speak Common (English) in-game.
 - **The decomposition of personal names** (*Baelgrim* = *Bael* + *grim*, *Adelgonn* = *Adel* + *gonn*) is speculative and based on cross-language parallels rather than canon confirmation.
-- **The *-dar* suffix analysis** for Hallowfall places (*Beledar*, *Mereldar*) is uncertain because these are Arathi settlements, not Earthen ones. The suffix may have been borrowed from Earthen or may be independent.
+- **The *-dar* suffix analysis** for Hallowfall places (*Beledar*, *Mereldar*) is uncertain because these are Arathi settlements, not Earthen ones. The suffix may have been borrowed from Earthen or may be independent. However, the geographic restriction of *-dar* to Khaz Algar (not found in any other Arathi or Common place names) supports an Earthen source.
 - **The *Eir-* connection** between Earthen *Eirich* and Vrykul *Eyir* is complicated by the fact that both names are clearly Norse-inspired, making it impossible to distinguish in-universe linguistic inheritance from out-of-universe design convergence.
 - **Leadership titles** (Stormward, Councilward, Stoneward, High Speaker) are Common-language terms, not Earthen-language words.
+- **Arathi personal names** (*Faerin Lothar*, *Vaelisia Steelstrike*, *Aelric Leid*) are too few to establish naming patterns. Their significance is primarily as context for the *-dar* toponymic suffix.
 
 ## Sources
 
-- World of Warcraft: The War Within (2024), Blizzard Entertainment — NPC names, zone names, faction designations
+- World of Warcraft: The War Within (2024), Blizzard Entertainment — NPC names, zone names, faction designations, plot summary
 - World of Warcraft: Chronicle Volume 1 (2016) — Earthen creation lore
 - In-game dialogue and quest text from *The War Within* campaigns
+- Wikipedia: "World of Warcraft: The War Within" (2024) — plot summary confirmation

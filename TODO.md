@@ -96,15 +96,26 @@
 - [x] Update README.md with Earthen and Nerubian languages
 - [x] Update titan-forged-comparative.html with Earthen (family tree restructured: Earthen → Dwarven lineage; new Titan↔Earthen cross-reference section; Earthen↔Dwarven simplification path table)
 - [x] Research The War Within content for additional Haranir language data (only Orweyna confirmed as a named Haranir; no other Haranir names or phrases attested; Haranir appear to be isolationist with no constructed-language dialogue)
+- [x] Investigate *Nefer-* connection between Nerubian *Neferess* and Tol'vir *Neferset* — analyzed: likely shared Blizzard design inspiration from Egyptian *nfr*, not genuine in-universe connection; no other shared morphemes between nerubian and Tol'vir; full analysis in nerubian/vocabulary.md §10, nerubian/grammar.md, nerubian/vocabulary.html
+- [x] Investigate *Ahn-* vs. *Azj-* alternation in nerubian place names — analyzed: data insufficient to resolve; three hypotheses evaluated (different morphemes, dialectal variation, Aqir origin); full analysis in nerubian/vocabulary.md §11, nerubian/vocabulary.html
+- [x] Cross-reference Earthen *-dar* suffix with Arathi language — analyzed: *-dar* most likely from Earthen substrate (borrowed by Arathi in Khaz Algar); restricted to Khaz Algar, not found elsewhere; full analysis in earthen/vocabulary.md §8, earthen/grammar.md, earthen/vocabulary.html
+- [x] Add Arathi personal names (Faerin Lothar, Vaelisia Steelstrike, Aelric Leid) with linguistic affiliation analysis to earthen/vocabulary.md and earthen/vocabulary.html
+- [x] Verify TWW nerubian boss names against Wikipedia TWW article (partial verification — all boss names confirmed correct; full wiki verification still needed when web access restored)
+- [x] Update titan-forged-comparative.html: add Earthen column to cross-language comparison tables; add Arathi to toponymic strategies table; update *-dar* note; update last-updated date
 
 ## Next Actions
 
-- [ ] Verify vocabulary against WoW wiki sources when web access is available (especially TWW raid/dungeon boss names: Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek)
+- [ ] Verify vocabulary against WoW wiki sources when web access is available (especially TWW raid/dungeon boss names: Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek) — partial verification from Wikipedia TWW article completed; full wiki verification still needed
 - [ ] Add audio pronunciation guide links where available
-- [ ] Research additional Drust Stele inscription content for possible Drust-language fragments
+- [ ] Research additional Drust Stele inscription content (blocked by web access issues to warcraft.wiki.gg and wowhead.com — TLS connectivity failures)
 - [ ] Expand Nerubian vocabulary with pre-TWW names (Anub'arak, Anub'rekhan, Krik'thir, Hadronox, etc.) — verify against wiki sources
-- [ ] Investigate *Nefer-* connection between Nerubian *Neferess* and Tol'vir *Neferset* — potential shared morpheme or independent Egyptian-inspired design
-- [ ] Investigate *Ahn-* vs. *Azj-* alternation in nerubian place names (*Ahn'kahet* vs. *Azj-Kahet*) — sound change or different morpheme?
+- [ ] Investigate *Nefer-* connection between Nerubian *Neferess* and Tol'vir *Neferset* — **ANALYZED**: likely shared Blizzard design inspiration from Egyptian *nfr*, not genuine in-universe linguistic connection (Confidence: Very Low for genuine connection; High for shared design inspiration)
+- [ ] Investigate *Ahn-* vs. *Azj-* alternation in nerubian place names (*Ahn'kahet* vs. *Azj-Kahet*) — **ANALYZED**: data insufficient to resolve; three hypotheses evaluated (Confidence: Low)
 - [ ] Research additional Earthen NPC names from TWW zones (especially vendors and questgivers in Dornogal who may have Earthen names)
 - [ ] Create dedicated Haranir language section if additional names are discovered in future TWW content updates
-- [ ] Cross-reference Earthen *-dar* suffix with Arathi language (if Beledar and Mereldar are Arathi rather than Earthen toponyms)
+- [ ] Cross-reference Earthen *-dar* suffix with Arathi language (if Beledar and Mereldar are Arathi rather than Earthen toponyms) — **ANALYZED**: *-dar* most likely from Earthen substrate (borrowed by Arathi); restricted to Khaz Algar, not found in any other Common/Arathi place names (Confidence: Low–Medium)
+- [ ] Research TWW Arathi naming patterns further: verify Faerin Lothar, Vaelisia Steelstrike, Aelric Leid names against wiki sources; investigate whether Arathi names show consistent Elven phonological influence
+- [ ] Investigate whether *Ahn-* in *Ahn'kahet* and *Ahn'qiraj* reflects a shared Aqir morpheme (cross-reference nerubian and qiraji naming)
+- [ ] Research additional nerubian NPC names from TWW quests and world content (beyond raid/dungeon bosses)
+- [ ] Investigate *kobyss* naming (the amphibious creatures in Hallowfall) — potential for additional naming data
+- [ ] Update earthen/vocabulary.html with the *-dar* suffix and Arathi analyses

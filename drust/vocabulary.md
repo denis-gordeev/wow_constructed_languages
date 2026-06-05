@@ -176,11 +176,11 @@ These are in-game readable objects that contain narrative descriptions of Drust 
 
 ### Drust Stele: The Ritual
 **Location**: Drustvar (Iceveil Glacier area)
-*(Full inscription text not yet recovered from wiki sources)*
+*(Full inscription text not yet recovered from wiki sources — web access to warcraft.wiki.gg and wowhead.com currently unavailable due to TLS connectivity issues. Retry when access is restored.)*
 
 ### Drust Stele: Protectors of the Forest
 **Location**: Drustvar (Ulfar's Den area)
-*(Full inscription text not yet recovered from wiki sources)*
+*(Full inscription text not yet recovered from wiki sources — web access to warcraft.wiki.gg and wowhead.com currently unavailable due to TLS connectivity issues. Retry when access is restored.)*
 
 ## 4. Drust Magic and Ritual Terminology
 
