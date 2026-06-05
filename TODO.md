@@ -86,17 +86,25 @@
 - [x] Research The War Within content for new Vrykul, Earthen, and Nerubian language data (added TWW Earthen data to dwarven/vocabulary.md: Khaz Algar, Dornogal, Baelgrim, Merrix, Adelgonn, Brinthe, Eirich, Lufsela, Skardyn; added nerubian data to nazja/vocabulary.md: Azj-Kahet, Ansurek, Neferess, Arak'nai, Anub'azal, Nizrek; added *Azj-*/*Nazj-* analysis; updated titan-forged-comparative.html with TWW findings)
 - [x] Add constructed example sentences for Shath'Yar and Kalimag to example-sentences.html (6 sentences each; SY1–SY6 and Km1–Km6)
 - [x] Investigate potential Dwarven *Dun-* / *Durn-* connection to Common *Durnholde* (analysis added to dwarven/grammar.md and referenced in common/grammar.md and titan-forged-comparative.html; Dwarven *Dun* → Common *Durn* with epenthetic /r/ is plausible; alternative: independent Common root; Confidence: Low–Medium)
+- [x] Create dedicated Earthen language folder with grammar.md, vocabulary.md, description.md, and vocabulary.html based on The War Within data (Dornogal, Khaz Algar, Baelgrim, etc.)
+- [x] Create dedicated Nerubian language folder with grammar.md, vocabulary.md, description.md, and vocabulary.html based on The War Within data (Azj-Kahet, Ansurek, Anub'azal, etc.)
+- [x] Investigate *Azj-*/*Nazj-* connection between nerubian *Azj-Kahet* and naga *Nazjatar* — potential Aqir substrate (full analysis in nerubian/vocabulary.md §5 and nerubian/grammar.md; also discovered *Azjol-Nerub* and *Ahn'kahet* as earlier attestations; Confidence: Low–Medium)
+- [x] Investigate *Eir-* connection between Earthen *Eirich* and Vrykul *Eyir* — potential shared Titan morpheme (full analysis in earthen/vocabulary.md §7 and earthen/grammar.md; Norse design convergence equally likely; Confidence: Low–Medium)
+- [x] Expand Skardyn analysis: is *Skar-* related to Vrykul *Skarvald*/*Voldskar*? (analysis in earthen/vocabulary.md §3 and earthen/grammar.md; *Skar-* = "dark/corrupt/shadow" plausible across three languages; Confidence: Low)
+- [x] Add Earthen constructed example sentences to example-sentences.html (6 sentences; Ea1–Ea6)
+- [x] Add Nerubian constructed example sentences to example-sentences.html (6 sentences; Nr1–Nr6)
+- [x] Update README.md with Earthen and Nerubian languages
+- [x] Update titan-forged-comparative.html with Earthen (family tree restructured: Earthen → Dwarven lineage; new Titan↔Earthen cross-reference section; Earthen↔Dwarven simplification path table)
+- [x] Research The War Within content for additional Haranir language data (only Orweyna confirmed as a named Haranir; no other Haranir names or phrases attested; Haranir appear to be isolationist with no constructed-language dialogue)
 
 ## Next Actions
 
-- [ ] Verify vocabulary against WoW wiki sources when web access is available
+- [ ] Verify vocabulary against WoW wiki sources when web access is available (especially TWW raid/dungeon boss names: Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek)
 - [ ] Add audio pronunciation guide links where available
 - [ ] Research additional Drust Stele inscription content for possible Drust-language fragments
-- [ ] Create dedicated Earthen language folder with grammar.md, vocabulary.md, and description.md based on The War Within data (Dornogal, Khaz Algar, Baelgrim, etc.)
-- [ ] Create dedicated Nerubian language folder with grammar.md, vocabulary.md, and description.md based on The War Within data (Azj-Kahet, Ansurek, Anub'azal, etc.)
-- [ ] Research The War Within content for additional Haranir language data (Orweyna and the subterranean druidic race)
-- [ ] Investigate *Azj-*/*Nazj-* connection between nerubian *Azj-Kahet* and naga *Nazjatar* — potential Aqir substrate (analysis started in nazja/vocabulary.md)
-- [ ] Investigate *Eir-* connection between Earthen *Eirich* and Vrykul *Eyir* — potential shared Titan morpheme
-- [ ] Expand Skardyn analysis: is *Skar-* related to Vrykul *Skarvald*/*Voldskar*?
-- [ ] Add Earthen constructed example sentences to example-sentences.html
-- [ ] Add Nerubian constructed example sentences to example-sentences.html
+- [ ] Expand Nerubian vocabulary with pre-TWW names (Anub'arak, Anub'rekhan, Krik'thir, Hadronox, etc.) — verify against wiki sources
+- [ ] Investigate *Nefer-* connection between Nerubian *Neferess* and Tol'vir *Neferset* — potential shared morpheme or independent Egyptian-inspired design
+- [ ] Investigate *Ahn-* vs. *Azj-* alternation in nerubian place names (*Ahn'kahet* vs. *Azj-Kahet*) — sound change or different morpheme?
+- [ ] Research additional Earthen NPC names from TWW zones (especially vendors and questgivers in Dornogal who may have Earthen names)
+- [ ] Create dedicated Haranir language section if additional names are discovered in future TWW content updates
+- [ ] Cross-reference Earthen *-dar* suffix with Arathi language (if Beledar and Mereldar are Arathi rather than Earthen toponyms)

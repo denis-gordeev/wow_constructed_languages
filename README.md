@@ -30,6 +30,8 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 | Drust | Drust (Vrykul offshoot, Kul Tiras) | [drust/](drust/) | Extremely Low — proper names only, no attested phrases with translations |
 | Gnomish | Gnomes (Mechagnome descendants) | [gnomish/](gnomish/) | Extremely Low — proper names only, no attested phrases or sentences |
 | Common | Humans (Vrykul descendants) | [common/](common/) | Extremely Low — rendered as English in-game; only Vrykul-origin place names provide distinct linguistic evidence |
+| Earthen | Titan-forged stone beings (Dwarven progenitors) | [earthen/](earthen/) | Extremely Low — proper names and place names only, no attested phrases (The War Within) |
+| Nerubian | Nerubians (spider-people of Azj-Kahet) | [nerubian/](nerubian/) | Extremely Low — proper names and place names only, no attested phrases; potential Aqir substrate (The War Within) |
 
 ## Structure
 
@@ -45,7 +47,7 @@ Each language folder contains:
 - **[elven-comparative.html](elven-comparative.html)** — Cross-reference of Darnassian, Thalassian, Shalassian, and Nazja: cognate sets, sound correspondences, etymological reconstruction, and comparative wordlist
 - **[eredun-draenei-comparative.html](eredun-draenei-comparative.html)** — Cross-reference of Draenei and Eredun: cognate sets, sound correspondences, etymological reconstruction, and comparative wordlist
 - **[titan-forged-comparative.html](titan-forged-comparative.html)** — Titan-forged language family: cross-reference of Titan, Vrykul, Drust, Dwarven, Mogu, Tol'vir, Gnomish, and Common; shared morphemes, sound correspondences, toponymic strategies, and comparative wordlist
-- **[example-sentences.html](example-sentences.html)** — Constructed example sentences using inferred grammar for Darnassian, Thalassian, Orcish, Shalassian, Draenei, Zandali, Taur-ahe, Dwarven, Titan, Vrykul, Nazja, Tol'vir, Drust, Mogu, Sethrak, Gnomish, Common, Shath'Yar, and Kalimag (clearly marked as non-canon)
+- **[example-sentences.html](example-sentences.html)** — Constructed example sentences using inferred grammar for Darnassian, Thalassian, Orcish, Shalassian, Draenei, Zandali, Taur-ahe, Dwarven, Titan, Vrykul, Nazja, Tol'vir, Drust, Mogu, Sethrak, Gnomish, Common, Shath'Yar, Kalimag, Earthen, and Nerubian (clearly marked as non-canon)
 
 ## Methodology
 
@@ -68,5 +70,7 @@ Several languages are genetically related:
 - **Vrykul** is a direct descendant of Titan; **Common** (Human language) descends from Vrykul
 - **Gnomish** descends from Titan via Mechagnomes, clockwork beings created by Keeper Mimiron; the *Mech-* / *Mekka-* root may be Titan-derived
 - **Drust** is a daughter language of Vrykul, spoken by vrykul who settled Kul Tiras after the Sundering; it uses a unique *Gol-* prefix for place names (vs. Vrykul suffixes like *-heim*, *-garde*) and may preserve archaic features through its druidic Thornspeaker tradition
+- **Earthen** is the direct ancestor of Dwarven, spoken by the titan-forged stone beings created by Khaz'goroth; it preserves more Titan morphemes and phonological features than Dwarven (including the /θ/ phoneme and longer compound names)
+- **Nerubian** is spoken by the spider-people of Azj-Kahet; it has no confirmed genetic relationship to any other WoW language family but may preserve Aqir substrate vocabulary (the *Azj-* prefix) shared with naga *Nazj-*
 - **Nazja** (Naga) is derived from Darnassian but has diverged significantly due to 10,000 years of underwater isolation and physiological transformation
 - **Tol'vir** is likely derived from Titan, sharing this ancestry with **Mogu** — both are titan-forged languages from stone construct races; Tol'vir shows strong Egyptian-inspired naming conventions

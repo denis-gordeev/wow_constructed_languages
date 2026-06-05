@@ -1,0 +1,68 @@
+# Nerubian — Description
+
+## Speakers
+
+The Nerubian language is spoken by the nerubians — an ancient arachnid race native to the underground realms of Azeroth. The two known nerubian civilizations are:
+
+- **Azjol-Nerub** — the ancient kingdom in Northrend, devastated by the Scourge during *Wrath of the Lich King* (2008). Formerly ruled by King Anub'arak.
+- **Azj-Kahet** — the surviving kingdom in the subterranean continent of Khaz Algar, introduced in *The War Within* (2024). Currently ruled by Queen Ansurek.
+
+The nerubians of Azj-Kahet are divided into several factions:
+
+- **The Ascended** — nerubians transformed by Black Blood into more powerful forms; loyal to Queen Ansurek
+- **The Severed Threads** — resistance faction led by the three "Threads": the Weaver (Arak'nai), the General (Anub'azal), and the Vizier (Nizrek)
+- **Sureki** — a nerubian house/faction (as in "Captain of the Sureki")
+
+## History
+
+The nerubians are descended from the Aqir, an ancient insectoid race created by the Old Gods during the Black Empire. When the Titans defeated the Old Gods and imprisoned them, the Aqir were scattered. Some retreated underground and evolved into the nerubians; others became the Qiraji of Silithus.
+
+The nerubian civilization of Azjol-Nerub was one of the oldest on Azeroth, predating the War of the Ancients by millennia. When the Lich King Ner'zhul arrived in Northrend, he warred against the nerubians for years. Although the nerubians were immune to the Scourge's mental domination, they were eventually overwhelmed by sheer numbers. Many nerubians were raised as undead, including their king Anub'arak.
+
+The nerubian kingdom of Azj-Kahet, located in Khaz Algar, survived the Scourge's devastation and maintained an independent civilization. However, Queen Ansurek's experiments with Black Blood — a substance linked to the Old Gods — created a schism in nerubian society between the Ascended (who embrace the transformation) and the Severed Threads (who resist it).
+
+## Cultural Context
+
+- Nerubian society values cunning, knowledge, and survival. The three "Threads" of the Severed Threads resistance — spymaster, general, and vizier — represent intelligence, military strength, and wisdom respectively.
+- Queen Ansurek's use of Black Blood to create the Ascended represents a cultural transformation — the nerubians are being altered at a fundamental level, not just physically but socially and politically.
+- The *Anub-* prefix, given only to military leaders, suggests a warrior aristocracy similar to the Vrykul *Drottinn* or Drust *Gorak* title systems.
+- The Egyptian aesthetic (pyramids, scarabs, underworld themes) that permeates nerubian design extends to their naming conventions, with *Anub-* evoking Egyptian *Anubis* and *Nefer-* evoking Egyptian *nfr* ("beautiful").
+- Nerubians are known to have a written language with a glyphic or hieroglyphic script, but no nerubian hieroglyphs have been translated in canon (unlike Tol'vir, which has three confirmed translations).
+
+## Relationship to Other Languages
+
+- **Nazja (Naga)**: The *Azj-* / *Nazj-* connection is the primary link between nerubian and naga naming. If this reflects an Aqir substrate word, both languages inherited it from their common Aqir ancestry. However, the languages are otherwise completely different — Nazja is an elven language, while nerubian has no confirmed relationship to any elven or titan-forged language family.
+- **Tol'vir**: Both share an Egyptian-inspired aesthetic and potentially the *Nefer-* morpheme (*Neferess*, *Neferset*). This may reflect a shared Blizzard design inspiration rather than a genuine linguistic connection.
+- **Shath'Yar (Old God)**: The initial apostrophe in *Y'tekhi* and the harsh consonant clusters in nerubian names are consistent with Old God phonological influence, but no direct Shath'Yar loanwords are confirmed.
+- **Titan-Forged family**: No confirmed genetic relationship. The shared compounding pattern (right-headed, apostrophe-marked) may be coincidental or an areal feature.
+
+### Hypothetical Language Family
+
+```
+Aqir (unattested; Old God-created insectoid race)
+├── Nerubian (via nerubian spider-people)
+│   ├── Northrend dialect (Azjol-Nerub)
+│   └── Khaz Algar dialect (Azj-Kahet)
+├── Qiraji (via Silithid → Qiraji; language unattested)
+└── [Possible substrate in Nazja]
+    └── *Azj-* / *Nazj-* element (if Aqir origin)
+```
+
+Unlike the Titan-forged language family (which has confirmed genetic relationships through shared morphemes and sound correspondences), the Aqir-descended language family is entirely hypothetical. Only the *Azj-* element provides any evidence for shared vocabulary.
+
+## Reliability Notes
+
+- **Very limited attestation.** Only ~16 personal names and ~7 place names are known from WotLK and TWW combined.
+- **No full sentences or verb forms are attested.** All nerubian NPCs speak Common (English) in-game.
+- **No attested phrases at all.** Unlike naga (who have ~15 battle cries in Nazja) and vrykul (who have ~10 attested phrases with translations), nerubians have zero constructed-language phrases in canon.
+- **The *Anub-* prefix analysis** (as a title meaning "lord/warrior") is speculative. It could simply be a proper-name element with no independent meaning.
+- **The *-kahet* suffix analysis** (as "kingdom/realm") is the strongest morpheme inference, supported by two independent attestations across 16 years of game development.
+- **The *Azj-* / *Nazj-* connection** is intriguing but unconfirmed. It cannot be verified without attested Aqir vocabulary.
+- **Names from TWW raid/dungeon bosses** (Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek) need verification against wiki sources.
+
+## Sources
+
+- World of Warcraft: Wrath of the Lich King (2008) — Azjol-Nerub, Ahn'kahet dungeons; Anub'arak, Anub'rekhan, Krik'thir NPCs
+- World of Warcraft: The War Within (2024) — Azj-Kahet zone; Ansurek, Arak'nai, Anub'azal, Nizrek, Y'tekhi NPCs; Nerub-ar Palace raid
+- World of Warcraft: Classic — Anub'ess (Silithus)
+- World of Warcraft: Chronicle Volume 1 (2016) — Aqir history and nerubian origins
