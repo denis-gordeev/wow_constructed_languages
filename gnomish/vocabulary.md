@@ -76,6 +76,54 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Zapjack | /ˈzæpdʒæk/ | Area on Mechagon | Possibly Gnomish-influenced; *Zap-* may reflect electrical/mechanical vocabulary |
 | Zapslaw | /ˈzæpslɔː/ | Area near Mechagon | Possibly Gnomish-influenced; shares *Zap-* element with Zapjack |
 
+## Proper Names (Beings — Undermine / TWW Patch)
+
+The following goblin names are from the *Undermine(d)* campaign in *The War Within* (2025). Goblin names are primarily Common-language compounds, but some may preserve Gnomish/Goblin phonological patterns.
+
+| Name | IPA | Context | Notes |
+|------|-----|---------|-------|
+| Pamsy | /ˈpæmzi/ | Goblin engineer; helped Gazlowe reach Undermine | Short name; *-sy* diminutive suffix is Common-language. *Pam-* element unclear. |
+| Grimla Fizzlecrank | /ˈɡrɪmlə ˈfɪzəlkræŋk/ | High-ranking Venture Co. member; opposed Gallywix | *Grimla* — the *-la* ending parallels other feminine goblin names; may reflect Gnomish/Goblin phonological pattern. *Fizzlecrank* is a Common-language compound surname (cf. *Brassbolts*, *Steelspark*). |
+| Nikki the Fixer | /ˈnɪki/ | Venture Co. chairwoman; sided with Gallywix | Short nickname; Common-language. "The Fixer" is an English epithet. |
+| Jastor Gallywix | /ˈɡæliwɪks/ | Former Trade Prince of the Bilgewater Cartel | *Gallywix* may contain *Galla-* + *-wix*. The *-wix* / *-ix* ending is notable — it appears in *Gallywix* and potentially in other goblin names. |
+| Monte Gazlowe | /ɡæzˈloʊ/ | Trade Prince of the Bilgewater Cartel | *Gazlowe* may contain *Gaz-* + *-lowe*. The *-lowe* ending is unique. |
+| Renzik "The Shiv" | /ˈrɛnzɪk/ | Goblin spy; killed by Nikki | *Renzik* — the *-zik* ending parallels *-wix* in *Gallywix* as a possible goblin name suffix. Short, punchy name consistent with goblin naming patterns. |
+| Trade Prince Revilgaz | /ˈrɛvɪlɡæz/ | Leader of the Blackwater Cartel | *Revilgaz* may contain *Revil-* + *-gaz*. The *-gaz* element also appears in *Gazlowe* (*Gaz-*), possibly a shared goblin morpheme. |
+| Trade Prince Marin Noggenfogger | /ˈnɒɡənfɒɡər/ | Leader of the Steamweedle Cartel | *Noggenfogger* is a Common-language compound surname. *Marin* is a short given name. |
+
+## Proper Names (Places — Undermine)
+
+| Name | IPA | Description | Notes |
+|------|-----|-------------|-------|
+| Undermine | /ˈʌndərmaɪn/ | Goblin capital city | Common-language name. Not Gnomish/Goblin-language. |
+| Gallagio | /ˌɡæləˈdʒiːoʊ/ | Gallywix's personal casino | Potentially Gnomish/Goblin-influenced. May be a portmanteau of *Gally-* (from *Gallywix*) + Italian *-aggio* or a goblin place suffix *-gio*. The *-gio* / *-agio* ending is unique among attested goblin place names and may preserve a genuine morpheme. |
+| Opportunity Point | — | Goblin settlement in Khaz Algar | Common-language name. Not Gnomish/Goblin. |
+| Incontinental Hotel | — | Hotel in Undermine | English pun; not Gnomish/Goblin. |
+
+## Goblin Cartel Names
+
+| Name | Trade Prince | Notes |
+|------|-------------|-------|
+| Bilgewater Cartel | Gazlowe (current); Gallywix (former) | Common-language compound; "bilge" + "water." |
+| Venture Company / Venture Co. | Nikki the Fixer (chairwoman) | Common-language compound. |
+| Darkfuse Enforcement | (mercenary company) | Common-language compound; "dark" + "fuse." |
+| Blackwater Cartel | Revilgaz | Common-language compound; shares "water" element with Bilgewater. |
+| Steamweedle Cartel | Noggenfogger | Common-language compound. |
+
+### Analysis: Goblin Naming Patterns
+
+Goblin names in the Undermine campaign reinforce existing patterns:
+
+1. **Short punchy given names**: *Pamsy*, *Nikki*, *Marin* — CVCV or CVC patterns, consistent with goblin cultural emphasis on speed and efficiency.
+
+2. **Compound surnames**: *Fizzlecrank*, *Noggenfogger* — Common-language descriptive compounds reflecting goblin engineering culture.
+
+3. **Potential *-gaz* / *Gaz-* morpheme**: *Gazlowe*, *Revilgaz* both contain *Gaz-* / *-gaz*. If this is a genuine goblin morpheme, it could mean "trade" or "value" — central to goblin culture. **Confidence: Very Low** — only two attestations.
+
+4. **Potential *-wix* / *-ik* name suffix**: *Gallywix*, *Renzik* share similar final-syllable patterns (*-ɪks* and *-ɪk*). If *-ik* / *-iks* is a goblin name suffix, it may mark personal names. **Confidence: Very Low** — only two attestations.
+
+5. **Gallagio *-gio* ending**: The *-gio* / *-agio* ending in *Gallagio* is unique. If it reflects a goblin/Gnomish place-name suffix (paralleling *-agon* in *Mechagon*), it would be the first attestation of a goblin place-name morpheme. **Confidence: Very Low** — single attestation; may simply be an Italian-style aesthetic choice by Blizzard.
+
 ## Proper Names (Titan/Mechagnome Facilities)
 
 | Name | IPA | Description | Notes |

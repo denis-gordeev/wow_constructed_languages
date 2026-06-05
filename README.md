@@ -33,6 +33,7 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 | Earthen | Titan-forged stone beings (Dwarven progenitors) | [earthen/](earthen/) | Extremely Low — proper names and place names only, no attested phrases (The War Within) |
 | Nerubian | Nerubians (spider-people of Azj-Kahet) | [nerubian/](nerubian/) | Extremely Low — proper names and place names only, no attested phrases; potential Aqir substrate (The War Within) |
 | Qiraji | Qiraji (insectoid servants of C'Thun) | [qiraji/](qiraji/) | Extremely Low — proper names and place names only, no attested phrases; Aqir-descended language sharing *Ahn-* morpheme with nerubian |
+| Ethereal / Broker | Ethereals and Brokers (energy beings from K'aresh) | [ethereal/](ethereal/) | Extremely Low — proper names and place names only, no attested phrases; potential *-esh* locative suffix in *K'aresh* and *Tazavesh*; TBC and TWW data |
 
 ## Structure
 
@@ -48,7 +49,7 @@ Each language folder contains:
 - **[elven-comparative.html](elven-comparative.html)** — Cross-reference of Darnassian, Thalassian, Shalassian, and Nazja: cognate sets, sound correspondences, etymological reconstruction, and comparative wordlist
 - **[eredun-draenei-comparative.html](eredun-draenei-comparative.html)** — Cross-reference of Draenei and Eredun: cognate sets, sound correspondences, etymological reconstruction, and comparative wordlist
 - **[titan-forged-comparative.html](titan-forged-comparative.html)** — Titan-forged language family: cross-reference of Titan, Vrykul, Drust, Dwarven, Mogu, Tol'vir, Gnomish, and Common; shared morphemes, sound correspondences, toponymic strategies, and comparative wordlist
-- **[example-sentences.html](example-sentences.html)** — Constructed example sentences using inferred grammar for Darnassian, Thalassian, Orcish, Shalassian, Draenei, Zandali, Taur-ahe, Dwarven, Titan, Vrykul, Nazja, Tol'vir, Drust, Mogu, Sethrak, Gnomish, Common, Shath'Yar, Kalimag, Earthen, and Nerubian (clearly marked as non-canon)
+- **[example-sentences.html](example-sentences.html)** — Constructed example sentences using inferred grammar for Darnassian, Thalassian, Orcish, Shalassian, Draenei, Zandali, Taur-ahe, Dwarven, Titan, Vrykul, Nazja, Tol'vir, Drust, Mogu, Sethrak, Gnomish, Common, Shath'Yar, Kalimag, Earthen, Nerubian, Qiraji, and Ethereal (clearly marked as non-canon)
 
 ## Methodology
 
@@ -76,3 +77,4 @@ Several languages are genetically related:
 - **Qiraji** is spoken by the insectoid servants of C'Thun in Silithus; it descends from the Aqir alongside nerubian, sharing the *Ahn-* morpheme ("old/ancient/sacred") and possibly the *-naxx* suffix pattern; qiraji retains geminate consonants (*-naxx*) where nerubian simplifies (*-nax*)
 - **Nazja** (Naga) is derived from Darnassian but has diverged significantly due to 10,000 years of underwater isolation and physiological transformation
 - **Tol'vir** is likely derived from Titan, sharing this ancestry with **Mogu** — both are titan-forged languages from stone construct races; Tol'vir shows strong Egyptian-inspired naming conventions
+- **Ethereal / Broker** is spoken by ethereals and brokers from the shattered world of K'aresh; it has no confirmed genetic relationship to any other WoW language family. The potential *-esh* locative suffix appears in both *K'aresh* (homeworld) and *Tazavesh* (broker capital). Ethereals and brokers likely speak dialects of the same language, with broker names tending to be shorter
