@@ -20,8 +20,10 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Sikran | /ˈsɪkræn/ | Raid boss; Captain of the Sureki | Short name without apostrophe; may be a rank-based name. |
 | Rasha'nan | /rɑˈʃɑːnæn/ | Raid boss | Apostrophe marks morpheme boundary; *-nan* suffix. |
 | Ovi'nax | /ˈoʊvɪnæks/ | Raid boss (Broodtwister) | Apostrophe-marked compound: *Ovi-* + *-nax*. |
-| Ky'veza | /kaɪˈvɛzə/ | Raid boss (Nexus-Princess) | Apostrophe-marked compound: *Ky-* + *-veza*. |
+| Ky'veza | /kaɪˈvɛzə/ | Raid boss (Nexus-Princess) | **Ethereal, not nerubian.** Ky'veza is a Nexus-Princess of the ethereals who infiltrated Queen Ansurek's court. Apostrophe-marked compound: *Ky-* + *-veza*. Listed here because she appears in Nerub-ar Palace as a raid boss. See ethereal/vocabulary.md for full analysis. |
 | Izo | /ˈiːzoʊ/ | Dungeon boss (the Grand Splicer) | Unusually short nerubian name; may be a title or abbreviation. |
+| Ki'katal | /kiːˈkɑːtɑːl/ | Quest NPC (the Harvester) | Apostrophe-marked compound: *Ki-* + *-katal*. TWW quest NPC targeted by Severed Threads. |
+| Gut'usul | /ɡʊˈtuːsʊl/ | Quest NPC (one of Nizrek's contacts) | Apostrophe-marked compound: *Gut-* + *-usul*. TWW quest NPC who reveals Ansurek's forced ascensions. |
 | Krix'vizk | /ˈkrɪksvɪzk/ | Dungeon boss (Orator) | Apostrophe-marked compound: *Krix-* + *-vizk*. The *-vizk* element is unique. |
 | Xanventh | /ˈzænvɛnθ/ | Dungeon boss (Speaker) | *Xan-* + *-venth*; no apostrophe; contains /θ/ (dental fricative). |
 | Ix'zek | /ɪksˈzɛk/ | Dungeon boss (the Gnarled) | Apostrophe-marked compound: *Ix-* + *-zek*. *-zek* parallels *-rek* / *-urek*. |
@@ -39,6 +41,29 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Hadronox | /ˈhædrənɒks/ | Nerubian in Azjol-Nerub | Single-word name, no apostrophe. *-nox* / *-nax* parallel. |
 | Elder Nadox | /ˈnædɒks/ | Nerubian boss in Ahn'kahet | Single-word name, no apostrophe. *-ox* / *-nox* ending parallels *Hadronox*, *Ovi'nax*. If *-ox* = *-nax* with vowel variant, this strengthens the *-nax*/*-ox* suffix hypothesis. |
 | Maexxna | /ˈmɛksnə/ | Spider boss (Naxxramas) | Single-word name, no apostrophe. Not clearly nerubian but arachnid. |
+| Kilix the Unraveler | /ˈkɪlɪks/ | Azjol-anak leader (Pit of Narjun, Dragonblight) | *Kilix* contains *-ix* ending. Prominent WotLK NPC who leads the living nerubian resistance against the Scourge. |
+| Seer Ixit | /ˈɪksɪt/ | Azjol-anak vizier (Ahn'kahet) | Short name, no apostrophe. *Ix-* element matches *Ix'zek*; *-it* ending is new. |
+| Reclaimer A'zak | /əˈzæk/ | Azjol-anak (Upper Kingdom, Azjol-Nerub) | Apostrophe-marked: *A'* + *-zak*. The *-zak* element parallels *Rak-Zakaz*. |
+| Nezar'Azret | /nɛˈzɑːrˈæzrɛt/ | Queen (slain by Arthas) | Apostrophe-marked compound: *Nezar'* + *Azret*. Capital *A* after apostrophe is unusual in nerubian naming. WC3 era. |
+| Queen Anub'izek | /ɑˈnʊbɪˈzɛk/ | First Queen of the True Nerub (Black Empire era) | *Anub-* + *-izek*. The *-izek* parallels *-zek* in *Ix'zek*. Ancient, pre-WotLK lore. Led her people away from the Old Gods. |
+
+### Pre-TWW: Scourge Nerubians (Undead)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Anub'rekhan | /ɑˈnʊbˈrɛkæn/ | Crypt lord (Naxxramas) | *Anub-* + *-rekhan*; *-rekhan* parallels *-rek* in *Nizrek*. |
+| Anub'esset | /ɑˈnʊbˈɛsɛt/ | Crypt lord (Violet Hold) | *Anub-* + *-esset*. The *-esset* parallels *Anub'ess* (*-ess*) with extended suffix. Legion era. |
+| Under-King Anub'et'kan | /ɑˈnʊbˈɛtˈkæn/ | Crypt lord (Anub'ar leader, Icemist Village) | Double-apostrophe: *Anub-* + *-et-* + *-kan*. WotLK era. |
+| Ix'lar the Underlord | /ɪksˈlɑːr/ | Crypt lord (Eastern Plaguelands) | *Ix-* + *-lar*. The *Ix-* element matches *Ix'zek*. Cata/MoP era. |
+| Nerub'enkan | /nɛˈrʊbˈɛnkæn/ | Crypt fiend (Stratholme) | *Nerub-* + *-enkan*. Classic era. |
+| Tuten'kash | /ˈtuːtɛnˈkæʃ/ | Crypt fiend (Razorfen Downs) | *Tuten-* + *-kash*. Egyptian-inspired name (cf. Tutankhamun). Classic era. |
+
+### Pre-TWW: Other Nerubians
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Vorus'arak | /ˈvoʊrʊsəˈræk/ | Swarm Lord (Voru'kar brood, Skittering Hollow) | *Vorus'* + *-arak*. The *-arak* suffix matches *Anub'arak*. BfA era. |
+| Prophet Nox'tir | /ˈnɒksˈtɪr/ | Nerubian sage (Skittering Hollow) | *Nox-* + *-tir*. The *Nox-* element parallels *Hadronox*, *Elder Nadox*. BfA era. |
 
 ## 2. Proper Names (Places)
 
@@ -54,19 +79,47 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Sureki Unyielding | — | *Sureki* + Common epithet | Subzone; *Sureki* is a nerubian house/faction |
 | Weaver's Lair | — | Common name for Arak'nai's base | |
 
-### Pre-TWW: Northrend
+### Pre-TWW: Northrend and Aqir Empire
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
 | Azjol-Nerub | /ˈæzjoʊlˈnɛrʊb/ | *Azj-* + *-ol* + *Nerub* | Ancient nerubian kingdom in Northrend. *Azj-* prefix matches *Azj-Kahet*! |
 | Ahn'kahet | /ˈɑːnkɑːhɛt/ | *Ahn-* + *-kahet* | Old Kingdom dungeon. *-kahet* matches *Azj-Kahet* — this is a significant parallel. |
+| Azj'Aqir | /æzˈɑːkwɪr/ | *Azj-* + *Aqir* | The original Aqir empire (capital city). Critical third attestation of the *Azj-* toponymic prefix, directly connecting it to the Aqir self-designation. |
 | Kil'jaeden's Terrace | — | Named after the demon; not nerubian | |
+| En'kilah | /ɛnˈkiːlɑː/ | *En-* + *-kilah* | Temple City in Borean Tundra; Scourge-occupied nerubian structure. The *En-* prefix differs from *Ahn-*. |
 
 ## 3. Attested Phrases
 
-**No constructed-language nerubian phrases are attested.** All nerubian NPCs speak Common (English) in-game. No nerubian-language dialogue, battle cries, or incantations have been recorded.
+A single attested nerubian-language text survives — writing on a nerubian scroll:
 
-This is a notable absence compared to naga (who have ~15 attested phrases in Nazja) and vrykul (who have ~10 attested phrases). The nerubian language is known entirely from proper names.
+> **"Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k."**
+> — Writing on a nerubian scroll (source: warcraft.wiki.gg)
+
+### Analysis of the Nerubian Scroll Text
+
+This is the **only attested nerubian-language sentence** (or sequence of phrases). Key observations:
+
+1. **Repeated *-shisss* / *a-shisss* element:** The sequence *-shisss* appears twice, once as *tikk-a-shisss* and once as *bkah a-shisss*. If *-shisss* is a suffix or particle, the repeated form suggests grammatical agreement or parallel structure.
+
+2. **Hyphens as morpheme boundaries:** Unlike proper names (which use apostrophes), the scroll text uses hyphens to mark word-internal morpheme boundaries (*tikk-a-shisss*, *Na-l*, *Sohk-a*, *a-k-k-k*). This suggests that nerubian writing distinguishes between compound names (apostrophe) and grammatical morpheme boundaries (hyphen).
+
+3. **Hissing/sibilant phonology:** The text is dominated by sibilants: *shisss*, *Kreesh*, *hiss*, *shir*. This is consistent with the arachnid nature of nerubians and supports the inference that sibilant-heavy phonology is a genuine feature of the language, not just a naming convention.
+
+4. **Short utterances:** The text consists of five short phrases separated by periods. This may reflect an incantation, ritual text, or formal register rather than everyday speech.
+
+5. **Potential morphological analysis:**
+   - *Unhhh-* may be an exclamation or interjection
+   - *tikk-a-shisss* may be *tikk-* + *-a-* (linking vowel) + *-shisss* (suffix/particle)
+   - *Kka shir* appears to be a two-word phrase
+   - *Na-l* shows a hyphenated element (possibly *Na* + *-l* suffix)
+   - *a-k-k-k* may represent a trilled or geminate /k/ sound
+
+**Confidence: Very Low** for any specific gloss; **High** that this is genuine nerubian-language text rather than gibberish.
+
+### Comparison with Other Attested Phrases
+
+This parallels the attested Tol'vir phrases (*Kadesh* = "Swing", *Osadi* = "Strike", *Satekh* = "Block") — brief, formulaic utterances in a titan-forged/Aqir-descended language. However, unlike Tol'vir (which has confirmed translations), no nerubian scroll text has been translated in canon.
 
 ## 4. Potential Morphemes and Inferred Meanings
 
@@ -74,8 +127,8 @@ This is a notable absence compared to naga (who have ~15 attested phrases in Naz
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
-| Anub- | Possibly "servant/warrior/lord" (cf. Egyptian *Anubis*) | *Anub'arak*, *Anub'rekhan*, *Anub'ess*, *Anub'azal* | **High** — four attestations spanning WotLK to TWW; clearly a productive prefix |
-| Azj- | Possibly "realm/domain/deep" | *Azj-Kahet* (TWW), *Azjol-Nerub* (WotLK) | **High** — two place names across two expansions; see §5 for full analysis |
+| Anub- | Possibly "servant/warrior/lord" (cf. Egyptian *Anubis*) | *Anub'arak*, *Anub'rekhan*, *Anub'ess*, *Anub'azal*, *Anub'izek*, *Anub'esset*, *Anub'et'kan* | **High** — seven attestations spanning Black Empire to TWW; clearly a productive prefix; used for both male and female leaders |
+| Azj- | Possibly "realm/domain/deep" | *Azj-Kahet* (TWW), *Azjol-Nerub* (WotLK), *Azj'Aqir* (Aqir empire) | **High** — three place names across multiple expansions and lore sources; *Azj'Aqir* is the original Aqir empire, directly connecting *Azj-* to the Aqir self-designation; see §5 for full analysis |
 | -kahet / -Kahet | Possibly "kingdom/realm/capital" | *Azj-Kahet* (TWW), *Ahn'kahet* (WotLK) | **High** — two place names with the same suffix; the *Ahn-* vs. *Azj-* alternation may reflect different morphemes or a sound change |
 
 ### Moderate-Confidence Morphemes
@@ -83,7 +136,7 @@ This is a notable absence compared to naga (who have ~15 attested phrases in Naz
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
 | -rek / -urek | Possibly a title or rank suffix | *Nizrek*, *Ansurek* | **Moderate** — two attestations; *-urek* may be a phonologically conditioned variant of *-rek* |
-| -arak | Possibly "king/ruler" | *Anub'arak* (the king of Azjol-Nerub) | **Low–Moderate** — only one attestation, but *Anub'arak* is the most prominent nerubian in WoW lore |
+| -arak | Possibly "king/ruler" | *Anub'arak* (the king of Azjol-Nerub), *Vorus'arak* (Swarm Lord) | **Low–Moderate** — two attestations; both bearers hold supreme military/leadership ranks |
 | Nerub- | Self-designation / race name | *Nerub-ar*, *Azjol-Nerub*, *Nerubian* (English) | **Moderate** — appears in both internal and external designations |
 | -nai | Possibly "weaver/spymaster" or a feminine suffix | *Arak'nai* | **Low** — single attestation |
 | -azal | Possibly "general/commander" | *Anub'azal* | **Low** — single attestation |
@@ -96,7 +149,7 @@ This is a notable absence compared to naga (who have ~15 attested phrases in Naz
 | -zek | Possibly a rank or role suffix | *Ix'zek*, parallels *-rek* in *Nizrek* | **Very Low** — phonological similarity to *-rek* may reflect a common suffix pattern |
 | -vizk | Uncertain | *Krix'vizk* | **Very Low** — single attestation |
 | -nan | Uncertain | *Rasha'nan* | **Very Low** — single attestation |
-| -veza | Uncertain | *Ky'veza* | **Very Low** — single attestation |
+| -veza | Uncertain | *Ky'veza* | **Very Low** — single attestation; Ky'veza is actually an ethereal, so *-veza* may be an ethereal morpheme, not nerubian |
 | -venth | Uncertain | *Xanventh* | **Very Low** — single attestation |
 | Ix- / Y- | Possibly "chosen" or "first" (if Old God substrate) | *Ix'zek*, *Y'tekhi* | **Very Low** — initial apostrophe forms may reflect Shath'Yar influence |
 
@@ -110,6 +163,7 @@ The prefix *Azj-* in nerubian place names (*Azj-Kahet*, *Azjol-Nerub*) and *Nazj
 |------|-----------|----------|
 | *Azjol-Nerub* | WotLK (2008) | *Azj-* + *-ol-* + *Nerub*. The first element of the ancient nerubian kingdom in Northrend. |
 | *Azj-Kahet* | TWW (2024) | *Azj-* + *-Kahet*. The nerubian kingdom in Khaz Algar. |
+| *Azj'Aqir* | Lore | *Azj-* + *Aqir*. The original Aqir empire (capital city). This is a critical third attestation — the *Aqir* element directly contains the Aqir self-designation, confirming that *Azj-* was used as a toponymic prefix by the Aqir themselves before their divergence into nerubians and qiraji. |
 
 ### Naga *Nazj-* Attestations
 
@@ -148,7 +202,7 @@ The prefix *Azj-* in nerubian place names (*Azj-Kahet*, *Azjol-Nerub*) and *Nazj
 
 The *Azj-* / *Nazj-* connection is **intriguing but unconfirmed**. The discovery that *Azj-* appears in *Azjol-Nerub* (WotLK, 2008) — predating *Nazjatar* (BfA, 2018) — strengthens the case, as it shows Blizzard has used *Azj-* for nerubian naming since Wrath. If the Aqir hypothesis is correct, *Azj-* could be one of the few surviving Aqir morphemes, preserved in both the nerubian and naga descendants.
 
-**Confidence: Low–Medium.** The phonological match is strong, and the Aqir ancestry provides a plausible transmission mechanism, but the lack of any confirmed Aqir vocabulary makes this unconfirmable.
+**Confidence: Medium.** The phonological match is strong, and the Aqir ancestry provides a plausible transmission mechanism. The discovery of *Azj'Aqir* — the original Aqir empire name directly containing the Aqir self-designation after the *Azj-* prefix — significantly strengthens the case, as it shows *Azj-* was used by the Aqir themselves before their divergence into nerubians and qiraji.
 
 ## 6. The *-kahet* Suffix: A Persistent Nerubian Morpheme
 
@@ -177,6 +231,9 @@ The prefix *Anub-* appears in four nerubian names across multiple expansions:
 | *Anub'rekhan* | WotLK (Naxxramas) | Crypt lord |
 | *Anub'ess* | Classic | Nerubian in Silithus |
 | *Anub'azal* | TWW | Military commander |
+| *Anub'izek* | Lore (Black Empire) | First Queen of the True Nerub |
+| *Anub'esset* | Legion | Crypt lord (Violet Hold) |
+| *Anub'et'kan* | WotLK | Under-King, crypt lord |
 
 The *Anub-* prefix clearly evokes Egyptian *Anubis* (the jackal-headed god of mummification and the afterlife). In WoW, all *Anub-* named nerubians are male and hold positions of military or leadership significance. This suggests:
 
@@ -393,6 +450,23 @@ The Ascended are nerubians transformed by Black Blood. This is a Common-language
 
 The Severed Threads is the name of the resistance faction. "Threads" likely translates a nerubian concept related to web/spider silk, though no nerubian-language word for "thread" is attested.
 
+### Nerubian Faction and Group Names
+
+| Name | IPA | Type | Notes |
+|------|-----|------|-------|
+| Azjol-anak | /ˈæzjoʊləˈnæk/ | Living nerubian faction (Northrend) | *Azjol-* + *-anak*. The living nerubian resistance against the Scourge in WotLK. |
+| Voru'kar | /ˈvoʊrʊkɑːr/ | Hostile nerubian brood (BfA) | Apostrophe-marked compound; Skittering Hollow, BfA. |
+| Anub'ar | /ɑˈnʊbɑːr/ | Scourge faction (Dragonblight) | *Anub-* + *-ar*; parallels *Nerub-ar*. |
+| Hath'ar | /ˈhæθɑːr/ | Scourge faction (Zul'Drak) | Apostrophe-marked: *Hath-* + *-ar*. |
+| Nerub'ar | /ˈnɛrʊbɑːr/ | Scourge faction (Borean Tundra) | *Nerub-* + *-ar*; parallels *Anub'ar*. |
+| Ahn'kahar | /ˈɑːnkɑːhɑːr/ | Scourge faction (Ahn'kahet) | *Ahn-* + *-kahar*; parallels *Ahn'kahet*. |
+| Nerubis | /ˈnɛrʊbɪs/ | Crypt fiend group (Quel'Thalas) | *Nerub-* + *-is*; no apostrophe. |
+| Sureki | /sʊˈrɛki/ | Loyalist faction (Azj-Kahet) | Short name; may contain *-rek* variant. |
+
+The *-ar* suffix appears in four faction names (*Anub'ar*, *Hath'ar*, *Nerub'ar*, *Ahn'kahar*). If *-ar* = "brood" or "swarm," this would be a productive faction-designation suffix. This parallels *Nerub-ar Palace* (TWW), where *-ar* may have the same meaning.
+
+**Confidence: Low–Moderate** for *-ar* as a productive faction suffix.
+
 ## 13. Investigation: *Ahn-* in *Ahn'kahet* and *Ahn'qiraj* — A Shared Aqir Morpheme?
 
 The element *Ahn-* appears in two significant Old God-related place names across different Aqir-descended species:
@@ -465,13 +539,14 @@ Combined with the *Azj-*/*Nazj-* pattern (§5) and the possible *-nax*/*-naxx* p
 | Aqir Morpheme | Nerubian Form | Qiraji Form | Naga Form | Inferred Meaning |
 |--------------|--------------|-------------|-----------|-----------------|
 | *\*Azj-* | *Azj-Kahet*, *Azjol-Nerub* | — | *Nazj-* (with *N-* prefix) in *Nazjatar* | "deep/realm" |
+| *\*Azj-* (original) | — | *Azj'Aqir* (the Aqir empire itself) | — | Confirmed Aqir-era usage; *Azj'Aqir* = *Azj-* + *Aqir* self-designation |
 | *\*Ahn-* | *Ahn'kahet* | *Ahn'qiraj* | — | "old/ancient/sacred" |
 | *\*-naxx* (?) | *-nax* (*Ovi'nax*) | *-naxx* (*Kurinnaxx*) | — | "warrior/hunter" (?) |
 
-**Confidence: Low–Medium** for *Ahn-* as a shared Aqir morpheme; **Very Low** for the *-nax*/*-naxx* connection. The Aqir substrate hypothesis is gaining support but remains unconfirmed without attested Aqir vocabulary.
+**Confidence: Medium** for *Ahn-* as a shared Aqir morpheme; **Medium** for *Azj-* as a confirmed Aqir morpheme (strengthened by *Azj'Aqir*); **Very Low** for the *-nax*/*-naxx* connection. The Aqir substrate hypothesis is now well-supported for *Azj-*, with *Azj'Aqir* providing direct evidence of Aqir-era usage.
 
 ## 14. Writing System
 
 Nerubians are known to have a written language. In WotLK, nerubian script appears on various objects and architecture in Azjol-Nerub. The script appears to be glyphic or hieroglyphic, consistent with the Egyptian aesthetic.
 
-Unlike Tol'vir hieroglyphs (which have three confirmed translations: *Kadesh* = "Swing", *Osadi* = "Strike", *Satekh* = "Block"), no nerubian hieroglyphs have been translated in canon.
+Unlike Tol'vir hieroglyphs (which have three confirmed translations: *Kadesh* = "Swing", *Osadi* = "Strike", *Satekh* = "Block"), no nerubian hieroglyphs have been translated in canon. However, the attested nerubian scroll text (§3) provides the first example of nerubian-language writing, using hyphens as morpheme boundaries (unlike the apostrophe convention in proper names). This suggests that nerubian orthography distinguishes between compound names (apostrophe boundary) and grammatical morpheme boundaries (hyphen boundary).

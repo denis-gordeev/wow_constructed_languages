@@ -1,6 +1,6 @@
 # Nerubian Grammar
 
-Grammar rules below are **inferred from attested examples only**. The Nerubian language has no attested sentences — the entire corpus consists of proper names and place names spanning *Wrath of the Lich King* (2008) and *The War Within* (2024). Patterns are noted where multiple examples support a rule. Speculative extensions are marked [speculative].
+Grammar rules below are **inferred from attested examples only**. The Nerubian language has one attested text (a nerubian scroll: "Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k.") plus a corpus of proper names and place names spanning *Wrath of the Lich King* (2008), *Battle for Azeroth* (2018), and *The War Within* (2024). Patterns are noted where multiple examples support a rule. Speculative extensions are marked [speculative].
 
 ## Phonology
 
@@ -13,9 +13,12 @@ Grammar rules below are **inferred from attested examples only**. The Nerubian l
 ### Phonological Patterns
 
 1. **Apostrophe as consistent morpheme boundary**: The most distinctive structural feature of nerubian naming. Nearly all multi-morpheme names use apostrophes to mark morpheme boundaries:
-   - *Anub'azal*, *Anub'arak*, *Anub'rekhan*, *Anub'ess* (four attestations of *Anub-* + suffix)
-   - *Arak'nai*, *Ovi'nax*, *Ky'veza*, *Krix'vizk*, *Ix'zek*, *Rasha'nan* (TWW compounds)
-   - *Krik'thir*, *Anok'ra* (WotLK compounds)
+   - *Anub'azal*, *Anub'arak*, *Anub'rekhan*, *Anub'ess*, *Anub'izek*, *Anub'esset*, *Anub'et'kan* (seven attestations of *Anub-* + suffix)
+   - *Arak'nai*, *Ky'veza*, *Krix'vizk*, *Ix'zek*, *Rasha'nan*, *Ki'katal*, *Gut'usul* (TWW compounds)
+   - *Krik'thir*, *Anok'ra*, *Nezar'Azret* (pre-TWW compounds)
+   - *Vorus'arak*, *Nox'tir* (BfA compounds)
+
+   However, the attested nerubian scroll text uses **hyphens** (not apostrophes) to mark grammatical morpheme boundaries (*tikk-a-shisss*, *Na-l*, *Sohk-a*, *a-k-k-k*). This suggests that nerubian orthography distinguishes between compound name boundaries (apostrophe) and grammatical morpheme boundaries (hyphen).
 
    This is more consistent than Darnassian/Nazja, where some compounds lack apostrophes (*Kaldorei*, *Teldrassil*). The nerubian apostrophe convention may reflect a more regular orthographic tradition.
 

@@ -31,9 +31,9 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 | Gnomish | Gnomes (Mechagnome descendants) | [gnomish/](gnomish/) | Extremely Low — proper names only, no attested phrases or sentences |
 | Common | Humans (Vrykul descendants) | [common/](common/) | Extremely Low — rendered as English in-game; only Vrykul-origin place names provide distinct linguistic evidence |
 | Earthen | Titan-forged stone beings (Dwarven progenitors) | [earthen/](earthen/) | Extremely Low — proper names and place names only, no attested phrases (The War Within) |
-| Nerubian | Nerubians (spider-people of Azj-Kahet) | [nerubian/](nerubian/) | Extremely Low — proper names and place names only, no attested phrases; potential Aqir substrate (The War Within) |
+| Nerubian | Nerubians (spider-people of Azj-Kahet) | [nerubian/](nerubian/) | Extremely Low — proper names and place names only; **one attested scroll text** ("Unhhh-tikk-a-shisss. Kka shir..."); potential Aqir substrate (The War Within); *Azj-* prefix confirmed in Aqir empire name *Azj'Aqir* |
 | Qiraji | Qiraji (insectoid servants of C'Thun) | [qiraji/](qiraji/) | Extremely Low — proper names and place names only, no attested phrases; Aqir-descended language sharing *Ahn-* morpheme with nerubian |
-| Ethereal / Broker | Ethereals and Brokers (energy beings from K'aresh) | [ethereal/](ethereal/) | Extremely Low — proper names and place names only, no attested phrases; potential *-esh* locative suffix in *K'aresh* and *Tazavesh*; TBC and TWW data |
+| Ethereal / Broker | Ethereals and Brokers (energy beings from K'aresh) | [ethereal/](ethereal/) | Very Low — 20+ proper names and 9 place names, no attested phrases; potential *-esh* locative suffix in *K'aresh* and *Tazavesh*; Arabic-inspired naming pattern; TBC, Legion, BfA, and TWW data; Nexus-Princess Ky'veza reclassified from nerubian |
 
 ## Structure
 

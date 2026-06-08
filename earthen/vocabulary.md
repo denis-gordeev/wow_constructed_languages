@@ -33,6 +33,9 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | The Awakening Machine | Facility for recharging Earthen | Common/English name |
 | Deepforge Golemworks | Abandoned war golem facility | Common/English compound |
 | Coreway | Large access tunnel connecting surface to underground | Common/English compound |
+| Dhar Oztan | /dɑːr ˈɒztæn/ | Location in Khaz Algar where first stormrooks were summoned. Possibly non-Common toponym. The *-Oztan* element is unexplained. |
+| Thor Modan | /θɔːr ˈmoʊdæn/ | Iron dwarf capital in Grizzly Hills. *Thor-* + *Modan*; parallels *Khaz Modan*; titan-forged toponym. |
+| Stonehearth | — | Earthen settlement in Deepholm. Common compound. |
 
 ## 2. People & Proper Names
 
@@ -46,6 +49,24 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Brinthe | /ˈbrɪnθə/ | Machine Speakers (High Speaker) | Contains the dental fricative /θ/, also found in Vrykul (*Thros*, *Thorim*). May reflect Titan substrate vocabulary. |
 | Eirich | /ˈaɪrɪk/ | Machine Speakers (former High Speaker) | Possibly related to Vrykul *Eyir* (Val'kyr goddess). Both contain the *Eir-* element. If related, this would demonstrate a shared Titan morpheme across Vrykul and Earthen. |
 | Lufsela | /ˈlʊfsɛlə/ | Stormriders (new Stormward) | No clear morpheme decomposition. |
+| Kothilde | /koʊˈθɪldə/ | Earthen NPC | Contains /θ/. Germanic-style name (cf. Mathilde). |
+| Olbarig | /ˈɒlbærɪɡ/ | Earthen NPC | No clear morpheme decomposition. |
+| Vokmar | /ˈvɒkmɑːr/ | Earthen NPC | Contains *-mar* element (cf. Dwarven *Modimar*?). |
+| Wireweaver Grelka | /ˈɡrɛlkə/ | Machine Speaker | *Grelka* is a personal name; "Wireweaver" is a Common title. |
+| Leikaroc | /ˈleɪkærɒk/ | Earthen NPC | Contains *-oc* / *-roc* element (cf. *Goggeroc*). |
+| Adland | /ˈædlænd/ | Earthen NPC | Contains *-land* element (Common/English?). |
+
+### Pre-TWW Earthen Names
+
+| Name | IPA | Affiliation | Notes |
+|------|-----|-------------|-------|
+| Urel Stoneheart | /ˈjʊərɛl/ | First king of the earthen | *Urel* is a personal name; "Stoneheart" is a Common epithet. Wielded Val'anyr, Hammer of Ancient Kings. Ancient/pre-Sundering. |
+| Bouldercrag the Rockshaper | — | Ulduar earthen leader | Common compound name. Led the earthen after Loken's betrayal. WotLK era. |
+| Dungard Ironcutter | /ˈdʊnɡɑːrd/ | Earthen spokesman | *Dungard* may contain *Dun-* (cf. Dwarven *Dun Morogh*) + *-gard* (cf. Vrykul *-garde*). *Ironcutter* is a Common epithet. War of the Ancients. |
+| Stonefather Oremantle | — | Deepholm earthen leader | *Oremantle* = Latin *ore* + *mantle*. Common compound. Cata era. |
+| Flint Oremantle | — | Deepholm earthen (son of Stonefather) | *Flint* is Common. Cata era. |
+| Goggeroc | /ˈɡɒɡərɒk/ | Earthen (Kalimdor) | Contains *-oc* / *-roc* element (cf. *Leikaroc*). Classic era. |
+| Iron Thane Argrum | /ˈɑːrɡrʊm/ | Iron dwarf (Thor Modan) | Iron dwarf, not strictly earthen. WotLK era. |
 
 ### Earthen Cultural Groups
 
@@ -55,7 +76,11 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Oathsworn | — | English designation; earthen who follow Titan edicts |
 | Unbound | — | English designation; earthen who reject Titan edicts |
 | Machine Speakers | — | English designation; earthen who maintain ancient machinery |
+| Freysworn | — | English designation; earthen cultural group (affiliation unknown) |
+| Stonebound | — | English designation; led by the Stoneward |
+| Stormrangers | — | English designation; new branch of Stormriders commissioned by Lufsela |
 | Skardyn | /ˈskɑːrdɪn/ | Earthen corrupted by void magic; the *Skar-* element may relate to Vrykul *Skar-* (cf. *Skarvald*, *Voldskar*) |
+| Thraegar | /ˈθreɪɡɑːr/ | Earthen corrupted by the Worldsoul's influence; crystallized variant |
 
 ### Earthen Leadership Titles
 

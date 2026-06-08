@@ -12,9 +12,14 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 |------|-----|------|-------|
 | Locus-Walker | /ˈloʊkəs ˈwɔːkər/ | Ethereal; Alleria's mentor in Void magic | English compound title. "Locus-Walker" is almost certainly a Common-language translation of an ethereal title, not an ethereal-language name. |
 | Ve'nari | /vɛˈnɑːri/ | Broker; leader of the K'aresh Trust | Apostrophe-marked compound: *Ve'* + *-nari*. Previously appeared in Shadowlands (9.0) as a broker in the Maw. |
-| Nexus-King Salhadaar | /ˌnɛksəsˈkɪŋ sɑːləˈdɑːr/ | Leader of the Shadowguard; former ruler of K'aresh | "Nexus-King" is a Common-language title. *Salhadaar* is an ethereal name: possibly *Sala-* + *-daar*. The *-daar* suffix may be an ethereal title or rank element. First attested in TBC (Netherstorm). |
-| Phase-Thief Azir | /ˈfeɪzθiːf ˈæzɪr/ | Shadowguard ethereal lieutenant | "Phase-Thief" is a Common-language title. *Azir* is an ethereal name; may contain the *Az-* element also found in *Azj-* (nerubian), but this is likely coincidental. |
-| Soul-Scribe | /ˈsoʊlskraɪb/ | Wastelander ethereal leader | English compound title. May translate an ethereal title. |
+| Nexus-King Salhadaar | /ˌnɛksəsˈkɪŋ sɑːləˈdɑːr/ | Leader of the Shadowguard; former ruler of K'aresh | "Nexus-King" is a Common-language title. *Salhadaar* is an ethereal name: possibly *Sala-* + *-daar*. The *-daar* suffix may be an ethereal title or rank element. First attested in TBC (Netherstorm). Killed in TBC; resurrected by Dimensius in the Void for TWW. |
+| Nexus-Prince Azir | /ˈæzɪr/ | Nexus-Prince; Shadowguard leader | Previously known as "Phase-Thief Azir." The wiki confirms his title is Nexus-Prince. *Azir* is an ethereal name; may contain the *Az-* element also found in nerubian *Azj-*, but this is likely coincidental. |
+| Soul-Scribe | /ˈsoʊlskraɪb/ | Wastelander ethereal leader | English compound title. May translate an ethereal title. Gave her life to heal K'aresh's Worldsoul. |
+| Nexus-Princess Ky'veza | /kaɪˈvɛzə/ | Raid boss (Nerub-ar Palace); ethereal infiltrator | Apostrophe-marked compound: *Ky-* + *-veza*. Confidant of Queen Ansurek, but working for an unknown master. Also ruled the city of *Ma'nussa* on K'aresh. Previously listed as a nerubian raid boss; reclassified here as ethereal. |
+| Abductor Arzda | /ˈɑːrzdə/ | Ethereal; led Ansurek's kidnapping operations | *Arzda* is a possible ethereal personal name. TWW era. |
+| Zovex | /ˈzoʊvɛks/ | Ethereal prisoner (Violet Hold escapee) | Short name, no apostrophe. TWW era. |
+| Soulbinder Naazindhri | /ˌnɑːˈzɪndri/ | Ethereal (Ghosts of K'aresh) | *Naazindhri* contains geminate vowel *-aa-* and consonant cluster *-ndhr*. No apostrophe. Ghosts of K'aresh patch. |
+| Forgeweaver Araz | /əˈræz/ | Ethereal (Ghosts of K'aresh) | Short name *Araz*; no apostrophe. Gave his own essence to complete the resurrection ritual at Manaforge Omega. |
 
 ### The Burning Crusade (2007): Netherstorm Ethereals
 
@@ -22,7 +27,30 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 |------|-----|------|-------|
 | Nexus-Prince Shaffar | /ˈʃæfɑːr/ | Boss of Mana-Tombs | "Nexus-Prince" is a Common-language title. *Shaffar* is an ethereal name; double consonant *-ff-* may reflect an ethereal geminate pattern. |
 | Nexus-Prince Haramad | /ˈhærəmæd/ | Leader of the Consortium | "Nexus-Prince" is a Common-language title. *Haramad* is an ethereal name; the *-mad* / *-aad* ending parallels *Salhadaar*'s long *-aa-* sequence. |
-| Commander Ameer | /əˈmɪər/ | Leader of the Ethereum | "Commander" is a Common-language title. *Ameer* is an ethereal name; phonologically similar to Arabic *amīr* ("commander"), possibly deliberate Blizzard design. |
+| Commander Ameer | /əˈmɪər/ | Leader of the Protectorate | "Commander" is a Common-language title. *Ameer* is an ethereal name; phonologically similar to Arabic *amīr* ("commander"), possibly deliberate Blizzard design. |
+| Nexus-Prince Bilaal | /bɪˈlɑːl/ | Leader of Ethereum (Nexus invasion); former ruler of Tazavesh | "Nexus-Prince" is a Common-language title. *Bilaal* is an ethereal name; Arabic-style name (cf. Bilal). Transformed into a void revenant during the Legion artifact questline. |
+| Nexus-Prince Razaan | /rɑːˈzɑːn/ | Leader of the Razaani (Blade's Edge Mountains) | Apostrophe-free ethereal name. The *-aan* ending parallels *Durzaan*. |
+| Artificer Morphalius | /mɔːrˈfæliəs/ | Consortium ethereal (Mana-Tombs) | Latin-style name; may not reflect ethereal-language phonology. |
+| Warp-Raider Nesaad | /nɛˈsɑːd/ | Leader of the Zaxxis | Apostrophe-free ethereal name. *-aad* ending parallels *Salhadaar*. |
+| Nether-Stalker Khay'ji | /keɪˈdʒi/ | Consortium agent who infiltrated the Zaxxis | Apostrophe-marked compound: *Khay'* + *-ji*. The *-ji* ending is unique. |
+| Gava'xi | /ɡɑːˈvɑːʃi/ | Leader of the Vir'aani | Apostrophe-marked: *Gava'* + *-xi*. The *-xi* ending is unusual. |
+| Wind Trader Mu'fah | /muːˈfɑː/ | Ethereum ambassador to the blue dragonflight | Apostrophe-marked: *Mu'* + *-fah*. WotLK era. |
+| Xevozz | /ˈzɛvɒz/ | Arcane weapons dealer (Violet Hold) | *-vozz* ending unique; no apostrophe. WotLK era. |
+| Yazzai | /ˈjæzaɪ/ | Ethereum acolyte (Magisters' Terrace) | Short name, no apostrophe. TBC era. |
+| Gezhe | /ˈɡɛʒɛ/ | Overseer of Aeris Landing (Nagrand) | Short name, no apostrophe. Contains /ʒ/. TBC era. |
+| Shadow Lord Xiraxis | /zɪˈræksɪs/ | Ethereal (quote source) | No apostrophe. *-xis* ending unique. |
+| Kadavan | /kæˈdævən/ | Ethereal mercenary (comics/manga source) | No apostrophe; long name. Non-game source. |
+
+### Other Expansions
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Viceroy Nezhar | /ˈnɛzhɑːr/ | Leader of the Shadowguard on Argus | *Nezhar* is a possible ethereal name. Contains /ʒ/. Legion era. |
+| Nether-Prince Durzaan | /dɜːrˈzɑːn/ | Leader of the Netherguard (Telogrus Rift) | *Durzaan* contains *-zaan* ending (parallels *Razaan*). BfA era. |
+| Shadreen | /ʃæˈdriːn/ | Ethereal connected to void elves | No apostrophe; /ʃ/ initial. BfA era. |
+| Xan-Sallish | /zænˈsælɪʃ/ | Agent of Shadreen (Brawler's Guild) | Hyphenated compound (not apostrophe). BfA era. |
+| Zarhaal | /zɑːrˈhɑːl/ | Ethereal who sought power from N'Zoth | *-haal* ending. BfA era. |
+| Nari | /ˈnɑːri/ | K'areshi who helped destroy K'aresh | Short name; pre-TBC lore. Worked with Locus-Walker against Dimensius. |
 
 ## 2. Proper Names (Places)
 
@@ -30,8 +58,13 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 |------|-----|----------|-------|
 | K'aresh | /kəˈrɛʃ/ | *K'* + *-aresh* | The ethereal homeworld, destroyed by Dimensius. Apostrophe marks morpheme boundary. *-aresh* may mean "world" or "home." The initial *K'* element is uncertain — it could be a prefix, a definite article, or part of the root. |
 | Tazavesh | /tɑːˈzɑːvɛʃ/ | Uncertain | The broker capital. Previously located in the Shadowlands (9.1 patch); relocated to K'aresh in TWW. No clear morpheme decomposition. Shares *-esh* ending with *K'aresh*. |
-| Manaforge Omega | — | Common + Greek | "Manaforge" is a Common compound; "Omega" is Greek. Not ethereal-language. |
-| Eco-dome | — | Common compound | Not ethereal-language. Refers to the preserved fragments of K'aresh. |
+| Ma'nussa | /mɑːˈnʊsə/ | *Ma'* + *-nussa* | City on K'aresh, ruled by Nexus-Princess Ky'veza. Apostrophe-marked compound. The *-nussa* element is new. |
+| Eco-Dome Al'dani | /ælˈdɑːni/ | *Al'* + *-dani* | Preserved fragment of K'aresh, built atop a sacred site of ancient K'aresh. Apostrophe-marked compound: *Al'* + *-dani*. The *-dani* element is new. Ghosts of K'aresh patch. |
+| Manaforge Omega | — | Common + Greek | "Manaforge" is a Common compound; "Omega" is Greek. Not ethereal-language. A colossal Shadowguard facility in K'aresh. |
+| Hara'samid Sector | /ˈhærəˌsæmɪd/ | *Hara'* + *-samid* | Region in the Great Dark Beyond / Twisting Nether. Apostrophe-marked. The *Hara-* element may relate to *Haramad*. |
+| Heraazi | /hɛˈrɑːzi/ | Uncertain | Region in the Great Dark Beyond / Twisting Nether. No apostrophe. Arabic-style name. |
+| Sodaraami | /soʊˈdɑːrɑːmi/ | Uncertain | Region in the Great Dark Beyond / Twisting Nether. No apostrophe. Long name. |
+| Xarodi Sector | /ˈzɑːroʊdi/ | Uncertain | Region in the Great Dark Beyond / Twisting Nether. No apostrophe. |
 
 ## 3. Attested Phrases
 
@@ -80,16 +113,23 @@ The ethereals use a hierarchical title system rendered in Common:
 
 | Title | Attested Holders | Notes |
 |-------|-----------------|-------|
-| Nexus-King | *Salhadaar* | Highest rank; ruler of K'aresh |
-| Nexus-Prince | *Shaffar*, *Haramad* | High nobility; likely a rank below Nexus-King |
+| Nexus-King | *Salhadaar* | Highest rank; ruler of K'aresh. Only one holder known. |
+| Nexus-Prince | *Shaffar*, *Haramad*, *Bilaal*, *Razaan*, *Azir* | High nobility; likely a rank below Nexus-King. Multiple holders across different factions. |
+| Nexus-Princess | *Ky'veza* | Female equivalent of Nexus-Prince; only one attestation. Ky'veza ruled the city of *Ma'nussa* on K'aresh. |
 
 The *Nexus-* prefix is a Common-language compound meaning "connection point" or "center of power." It may translate an ethereal-language title element. If the ethereal language had a native title equivalent to "Nexus," it is not attested.
 
 The title hierarchy suggests a political structure:
 - **Nexus-King** = sovereign ruler
-- **Nexus-Prince** = high nobility / regional governors
+- **Nexus-Prince** / **Nexus-Princess** = high nobility / regional governors / city rulers
 
-The *-King* / *-Prince* elements are Common translations. The ethereal originals are unknown.
+The *-King* / *-Prince* / *-Princess* elements are Common translations. The ethereal originals are unknown.
+
+### The *-daar* Suffix and Royal Naming
+
+*Salhadaar* (the Nexus-King) contains the element *-daar*. If *-daar* = "king/lord/ruler" as an ethereal-language suffix, this would be the only attested ethereal morpheme with a confirmed semantic match to a Common-language title. However, the single attestation prevents firm conclusions.
+
+**Confidence: Low.** The *-daar* element could be part of the personal name with no title meaning.
 
 ## 7. The *Phase-* and *Locus-* Title Elements
 
@@ -128,12 +168,19 @@ Ethereals and brokers are closely related species from K'aresh. The brokers may 
 
 | Name | Type | Notes |
 |------|------|-------|
-| The Consortium | Trade guild | TBC faction; ethereal-led trading organization based in Netherstorm. Common-language name. |
+| The Consortium | Trade guild | TBC faction; ethereal-led trading organization based in Netherstorm. Common-language name. Led by Nexus-Prince Haramad. |
 | The Ethereum | Faction | TBC faction; ethereal separatist group. The name *Ethereum* may contain *Ethere-* (the self-designation root) + *-um* (a faction/collective suffix). |
+| The Protectorate | Faction | TBC faction; formed to stop the Ethereum. Led by Commander Ameer. Common-language name. |
 | The Shadowguard | Faction | TWW faction; void-corrupted ethereals serving the Old Gods/Void. Common-language name. |
-| The Wastelanders | Faction | TWW faction; ethereals who worship K'aresh's Worldsoul. Common-language name. |
-| K'aresh Trust | Coalition | TWW faction; coalition of ethereals and brokers. Partially Common-language. |
+| The Wastelanders | Faction | TWW faction; ethereals who worship K'aresh's Worldsoul. Common-language name. Led by Soul-Scribe. |
+| K'aresh Trust | Coalition | TWW faction; coalition of ethereals and brokers. Founded by Ve'nari. Partially Common-language. |
 | The Ravel | Secret collective | TWW faction; ancient group that used Reshii Ribbons to survive K'aresh's destruction. Common-language name. |
+| The Zaxxis | Rogue faction | TBC faction; broke from the Consortium. Led by Warp-Raider Nesaad. |
+| The Razaani | Faction | TBC faction; ethereal group in Blade's Edge Mountains. Led by Nexus-Prince Razaan. |
+| The Vir'aani | Faction | TBC faction; band led by Gava'xi. Apostrophe-marked: *Vir'* + *-aani*. |
+| The Bash'ir | Faction | TBC faction; Ethereum subgroup in Blade's Edge Mountains. Apostrophe-marked: *Bash'* + *-ir*. |
+| The Netherguard | Faction | BfA faction; void ethereal group led by Nether-Prince Durzaan. |
+| Cartel Om | Broker cartel | TWW faction; taken over by Ve'nari. Short name; broker organization. |
 
 ### The *Ethere-* Self-Designation
 
@@ -183,14 +230,23 @@ Alternatively, *Resh-* may be a separate root with no connection to *-esh*.
 4. **No initial consonant clusters**: Unlike nerubian (*Krix'vizk*, *Vrrix*), ethereal names do not feature complex initial clusters. Names are predominantly CVCV or CVC patterns.
 
 5. **Syllable structure**: Tends toward (C)V(C), simpler than nerubian:
-   - CV: *Azir*
-   - CVC: *Ameer*
-   - CVC.CV: *Shaffar*, *Haramad*
+   - CV: *Azir*, *Nari*
+   - CVC: *Ameer*, *Gezhe*
+   - CVC.CV: *Shaffar*, *Haramad*, *Arzda*, *Zovex*
    - CV.CV: *Ve'nari*
    - CVC.V.CVC: *Salhadaar*
    - CV.CV.CVC: *Tazavesh*
+   - CVC.CVC: *Nezhar*, *Xiraxis*
+   - CV.CV.CV: *Bilaal*, *Razaan*, *Durzaan*
+   - CVC.CV.CCV: *Naazindhri* (complex; unusual cluster *-ndhr*)
 
-6. **Post-vocalic /ʃ/ (sh) frequency**: High. *K'aresh*, *Tazavesh*, *Shaffar* all contain /ʃ/. This may reflect Blizzard's design aesthetic for ethereal names, evoking "shimmering" or "whispering" sounds appropriate for energy beings.
+6. **Post-vocalic /ʃ/ (sh) frequency**: High. *K'aresh*, *Tazavesh*, *Shaffar*, *Shadreen*, *Khay'ji* all contain /ʃ/. This may reflect Blizzard's design aesthetic for ethereal names, evoking "shimmering" or "whispering" sounds appropriate for energy beings.
+
+7. **Arabic-inspired naming pattern**: Many ethereal names evoke Arabic phonology: *Salhadaar*, *Haramad*, *Ameer*, *Bilaal*, *Razaan*, *Durzaan*, *Nezhar*, *Mu'fah*. This is likely a deliberate Blizzard design choice reflecting the ethereals' desert-dwelling origins on K'aresh and their merchant/trading culture — paralleling real-world Arabic-speaking merchant cultures.
+
+8. **The *-aan* / *-aan* ending**: Three ethereal names share the *-aan* / *-zaan* ending: *Razaan*, *Durzaan*. If *-aan* = a title or rank suffix, this would be a new ethereal morpheme. However, the sample size is very small.
+
+   **Confidence: Very Low.** The *-aan* similarity may reflect Blizzard's Arabic-inspired naming convention rather than a genuine ethereal morpheme.
 
 ### Comparison with Nerubian Phonology
 
@@ -434,13 +490,15 @@ This creates a problem for the transmission hypothesis: if ethereals independent
 | Self-designation | *Shath'Yar* | *Nerub-* | *-qiraj* | *Ethere-* (?) |
 | Shared morphemes with others | *-i* plural (?) | *Ahn-*, *Azj-* (Aqir) | *Ahn-* (Aqir) | None confirmed |
 
-## 16. Names Requiring Verification
+## 16. Names Verified from Wiki Sources
 
-The following ethereal/broker names from TBC and earlier content require verification against wiki sources when web access is restored:
+The following ethereal/broker names have been verified against warcraft.wiki.gg sources:
 
-- **Nexus-Prince Shaffar** — Mana-Tombs boss (TBC); confident in name but need to verify role
-- **Nexus-Prince Haramad** — Consortium leader (TBC); confident in name but need to verify role
-- **Commander Ameer** — Ethereum leader (TBC); confident in name but need to verify role
-- Additional ethereal NPCs from TBC Netherstorm, Mana-Tombs, and Auchindoun content
-- Additional broker NPCs from Shadowlands Tazavesh content
-- Whether *Locus-Walker* has a confirmed ethereal-language name
+- **Nexus-Prince Shaffar** — Verified: Boss of Mana-Tombs, spent his fortune to move his army into the shadow halls of Auchindoun.
+- **Nexus-Prince Haramad** — Verified: Leader of the Consortium; tasked adventurers with recovering the Spirit's Song; broke neutrality in favor of the Sha'tar.
+- **Commander Ameer** — Verified: Leader of the Protectorate (not Ethereum as previously listed); formed to stop the Ethereum.
+- **Nexus-Prince Bilaal** — Verified: Former ruler of Tazavesh; led Ethereum invasion of the Nexus; transformed into a void revenant.
+- **Nexus-Prince Razaan** — Verified: Leader of the Razaani in Blade's Edge Mountains.
+- **Nexus-King Salhadaar** — Verified: Former ruler of K'aresh; led the Ethereum; killed in TBC Netherstorm; resurrected by Dimensius for TWW Ghosts of K'aresh.
+- **Nexus-Princess Ky'veza** — Verified: Ethereal who infiltrated Queen Ansurek's court; ruled the city of Ma'nussa on K'aresh.
+- **Locus-Walker** — Verified: Pre-Destruction K'areshi who helped destroy K'aresh to prevent Dimensius from devouring the Worldsoul.

@@ -31,12 +31,13 @@ Grammar rules below are **inferred from attested examples only**. The Ethereal l
 
 | Feature | Ethereal | Nerubian | Qiraji | Shath'Yar |
 |---------|----------|----------|--------|-----------|
-| Apostrophe usage | Moderate | Very consistent | Consistent | Very consistent |
+| Apostrophe usage | Moderate (*K'aresh*, *Ve'nari*, *Ma'nussa*, *Al'dani*, *Mu'fah*, *Khay'ji*, *Gava'xi*) | Very consistent | Consistent | Very consistent |
 | Initial clusters | Absent | Present | Absent | Present |
-| Geminate consonants | Possible | Absent | Present | Not clearly attested |
+| Geminate consonants | Possible (*-ff-*, *-aa-*, *-zz-*) | Absent | Present | Not clearly attested |
 | Sibilant density | High | Moderate | Moderate | High |
 | Syllable complexity | Simple | Complex | Moderate | Complex |
-| /ks/ (x) frequency | Absent | High | Moderate | Absent |
+| /ks/ (x) frequency | Absent from names | High | Moderate | Absent |
+| Arabic-inspired names | High (*Salhadaar*, *Haramad*, *Ameer*, *Bilaal*, *Razaan*, *Durzaan*, *Nezhar*) | Low | Moderate | Absent |
 
 ## Morphology
 
@@ -85,7 +86,8 @@ The ethereal political system uses a hierarchy of Common-language titles:
 | Title | Rank | Attested Holders |
 |-------|------|-----------------|
 | Nexus-King | Highest (sovereign) | *Salhadaar* |
-| Nexus-Prince | High nobility | *Shaffar*, *Haramad* |
+| Nexus-Prince | High nobility / city rulers | *Shaffar*, *Haramad*, *Bilaal*, *Razaan*, *Azir* |
+| Nexus-Princess | High nobility / city rulers | *Ky'veza* |
 
 [speculative]: If the ethereal language has native equivalents for these titles, they may use different suffixes:
 - Nexus-King ≈ *[name]-daar* (if *-daar* = "king")
@@ -141,8 +143,8 @@ Brokers and ethereals are closely related species from K'aresh. The shared *-esh
 ## Limitations
 
 The ethereal corpus is extremely small:
-- ~6 personal names
-- ~4 place names with potential ethereal etymologies
+- ~20+ personal names (expanded from TBC, WotLK, Legion, BfA, and TWW verification)
+- ~9 place names with potential ethereal etymologies
 - **0 attested phrases or sentences**
 
 No verb forms, particles, or syntactic structures are known. The only confirmed morphological patterns are:
