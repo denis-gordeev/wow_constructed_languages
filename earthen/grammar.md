@@ -118,6 +118,65 @@ The parallel structure — [animal/element] + *-grim* — in both Vrykul and Ear
 
 **Confidence: Low.** The parallel is suggestive but cannot distinguish in-universe inheritance from design convergence.
 
+## Investigation: The *-oc* / *-roc* Element in Earthen Names
+
+Two Earthen names share the element *-oc* / *-roc*:
+
+| Name | IPA | Context | Expansion |
+|------|-----|---------|-----------|
+| *Goggeroc* | /ˈɡɒɡərɒk/ | Earthen (Kalimdor) | Classic |
+| *Leikaroc* | /ˈleɪkærɒk/ | Earthen NPC (Khaz Algar) | TWW |
+
+### Possible Decompositions
+
+**Goggeroc**:
+- *Gogger-* + *-oc* (if *-oc* is a suffix)
+- *Gog-* + *-ger-* + *-oc* (three morphemes)
+- *Gogge-* + *-roc* (if *-roc* is a suffix)
+- Undecomposable single morpheme
+
+**Leikaroc**:
+- *Leikar-* + *-oc* (if *-oc* is a suffix)
+- *Leika-* + *-roc* (if *-roc* is a suffix)
+- Undecomposable single morpheme
+
+### Arguments for a Genuine Earthen Morpheme
+
+1. **Two independent attestations**: *Goggeroc* (Classic, 2004) and *Leikaroc* (TWW, 2024) share the *-oc* / *-roc* ending across 20 years of game development. This temporal span reduces the likelihood of coincidence.
+
+2. **Phonological consistency**: Both names end in the sequence /ɒk/, with the *-roc* variant showing the /r/ before the /k/. The alternation *-oc* / *-roc* could reflect:
+   - A single suffix *-oc* with optional epenthetic /r/ before it
+   - A single suffix *-roc* that loses /r/ after certain consonant patterns
+   - Two different suffixes that happen to sound similar
+
+3. **Semantic possibility**: If *-oc* / *-roc* is a genuine Earthen morpheme, it could mean:
+   - "stone" or "rock" (fitting for Earthen beings)
+   - A personal name suffix (like Old English *-oc* in names like *Eadoc*)
+   - A territorial or regional designation
+   - A diminutive or pejorative suffix
+
+4. **Cross-language parallels**: The *-oc* ending does not appear in Dwarven names (*Magni*, *Muradin*, *Brann*), suggesting it may be an Earthen-specific morpheme that was lost during the Earthen → Dwarven simplification process. This would parallel the loss of /θ/ in Dwarven names.
+
+### Arguments Against
+
+1. **Only two attestations**: With only two names, the *-oc* / *-roc* ending could be coincidental homophony. Two data points are insufficient to establish a morpheme.
+
+2. **No clear semantic pattern**: Unlike *Anub-* (always borne by military leaders) or *-kahet* (always a place-name suffix), the two *-oc* bearers do not share an obvious semantic role — *Goggeroc* is a hostile earthen in Kalimdor, while *Leikaroc* is a TWW NPC with no specified leadership role.
+
+3. **Possible Blizzard design convergence**: Both names could independently reflect Blizzard's tendency to give Earthen/Dwarven names harsh final consonants (*-oc*, *-ax*, *-uk*). The *-oc* ending may be an aesthetic choice rather than a genuine morpheme.
+
+4. **Real-world parallel**: Old English and other Germanic languages use *-oc* as a name-forming element (cf. *Eadoc*, *Sigenoc*). Blizzard may have drawn on this convention independently for both names.
+
+### Assessment
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| *-oc* / *-roc* = genuine Earthen morpheme (suffix meaning "stone" or "one of [place]") | **Low** | Two attestations across 20 years is suggestive but insufficient for firm conclusion |
+| *-oc* / *-roc* = coincidental homophony | **Medium** | Two data points could easily be coincidence |
+| *-oc* / *-roc* = Blizzard aesthetic convention for harsh Earthen names | **Medium–High** | Consistent with Blizzard's design approach for Earthen/Dwarven naming; no clear semantic pattern to support genuine morpheme |
+
+**Confidence: Very Low.** The *-oc* / *-roc* element is flagged as a potential Earthen morpheme but cannot be confirmed with only two attestations and no clear semantic pattern. If future Earthen names appear with the same ending (e.g., *[name]-roc* or *[name]-oc* in TWW patch content), the case would strengthen significantly.
+
 ## Syntax
 
 - No sentence-level attestation exists

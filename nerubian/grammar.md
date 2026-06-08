@@ -138,12 +138,162 @@ The phonological similarity between *-zek* and *-rek* (voiceless vs. voiced fina
 
 [speculative]: If *-zek* and *-rek* are the same suffix with voicing alternation, the distribution could reflect a grammatical distinction (e.g., nominative *-rek* vs. genitive *-zek*, or singular *-rek* vs. plural *-zek*).
 
+## Attested Text Analysis: The Nerubian Scroll
+
+The only attested nerubian-language text is writing on a nerubian scroll:
+
+> **"Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k."**
+
+### Orthographic Conventions
+
+The scroll text uses **hyphens** (not apostrophes) to mark word-internal morpheme boundaries, unlike proper names which use apostrophes. This orthographic distinction suggests:
+
+| Context | Boundary Marker | Examples |
+|---------|----------------|----------|
+| Compound names | Apostrophe (') | *Anub'azal*, *Ovi'nax*, *Krix'vizk* |
+| Grammatical morpheme boundaries | Hyphen (-) | *tikk-a-shisss*, *Na-l*, *Sohk-a*, *a-k-k-k* |
+
+This dual system parallels real-world writing systems that distinguish between lexical compounding and inflectional morphology in their orthography.
+
+### Phonological Evidence from the Scroll
+
+1. **Sibilant dominance confirmed**: The text is dominated by sibilants: *shisss*, *Kreesh*, *hiss*, *shir*, *a-shisss*. This confirms that the sibilant-heavy phonology observed in nerubian proper names is a genuine feature of the language, not merely a Blizzard naming convention.
+
+2. **Repeated *-shisss* / *a-shisss* element**: The element *-shisss* appears twice — once as *tikk-a-shisss* and once as *bkah a-shisss*. If *-shisss* is a suffix or particle, the repetition suggests grammatical agreement, parallel structure, or a refrain pattern.
+
+3. **Geminate/trilled consonants**: The sequence *a-k-k-k* may represent a trilled or emphatic /k/ sound, suggesting that nerubian phonology includes consonant gemination or articulatory emphasis not captured in the romanization of proper names.
+
+4. **Linking vowel *-a-***: The sequences *tikk-a-shisss* and *Sohk-a* suggest a linking vowel /a/ that connects morphemes within words. This is a morphological feature not visible in proper names (which use apostrophes instead).
+
+5. **Short utterance structure**: The text consists of five short phrases separated by periods. This may reflect:
+   - An incantation or ritual text (formal register)
+   - A list format (itemized information)
+   - Natural nerubian sentence length (if short phrases are the norm)
+
+### Potential Morphological Decomposition
+
+| Phrase | Possible Decomposition | Notes |
+|--------|----------------------|-------|
+| *Unhhh-tikk-a-shisss* | *Unhhh-* (interjection) + *tikk-* (verb?) + *-a-* (linking) + *-shisss* (suffix/particle) | *Unhhh-* may be an exclamation; the triple *h* may mark aspiration or breathiness |
+| *Kka shir* | *Kka* (pronoun/adverb?) + *shir* (verb?) | Two-word phrase; no hyphens |
+| *Na-l bkah a-shisss* | *Na-* + *-l* (suffix) + *bkah* + *a-* + *-shisss* | *Na-l* shows hyphenated element; *a-shisss* repeats the suffix |
+| *Kreesh kik ik ta* | *Kreesh* + *kik* + *ik* + *ta* | Four short words; no hyphens |
+| *Sohk-a tik hiss a-k-k-k* | *Sohk-* + *-a-* (linking) + *tik* + *hiss* + *a-k-k-k* | Final *a-k-k-k* may be emphatic |
+
+**Confidence: Very Low** for any specific gloss; **High** that this is genuine nerubian-language text with regular morphological structure.
+
+### Comparison with Other Attested Texts
+
+This parallels the attested Tol'vir phrases (*Kadesh* = "Swing", *Osadi* = "Strike", *Satekh* = "Block") — brief, formulaic utterances in a titan-forged/Aqir-descended language. However, unlike Tol'vir (which has confirmed translations), no nerubian scroll text has been translated in canon. The nerubian text is longer and more syntactically complex than the Tol'vir examples, which are single-word battle commands.
+
+## The *-ar* Suffix: A Nerubian Faction-Designation Morpheme
+
+The suffix *-ar* appears in five nerubian faction/group names and one major place name:
+
+| Name | Decomposition | Context | Expansion |
+|------|---------------|---------|-----------|
+| *Anub'ar* | *Anub-* + *-ar* | Scourge faction (Dragonblight) | WotLK |
+| *Hath'ar* | *Hath-* + *-ar* | Scourge faction (Zul'Drak) | WotLK |
+| *Nerub'ar* | *Nerub-* + *-ar* | Scourge faction (Borean Tundra) | WotLK |
+| *Ahn'kahar* | *Ahn-* + *-kahar* | Scourge faction (Ahn'kahet) | WotLK |
+| *Nerub-ar Palace* | *Nerub-* + *-ar* | Ansurek's seat of power | TWW |
+| *Voru'kar* | *Voru'* + *-kar* | Hostile brood (Skittering Hollow) | BfA |
+
+### Arguments for *-ar* as a Genuine Morpheme
+
+1. **Five attestations**: The *-ar* suffix appears in five distinct faction names (*Anub'ar*, *Hath'ar*, *Nerub'ar*, *Ahn'kahar*, *Nerub-ar Palace*), spanning WotLK and TWW. This is too many independent occurrences to be purely coincidental.
+
+2. **Consistent semantic field**: All five *-ar*-bearing names designate groups, factions, or collective entities:
+   - *Anub'ar*, *Hath'ar*, *Nerub'ar* = Scourge nerubian factions
+   - *Ahn'kahar* = faction associated with Ahn'kahet
+   - *Nerub-ar Palace* = the seat of the nerubian queen (the "Nerub-collective" seat)
+
+3. **Structural parallel with *-kahet***: The *-kahar* in *Ahn'kahar* closely parallels *-kahet* in *Ahn'kahet*. If *-kahet* = "kingdom" and *-kahar* = "kingdom-faction" or "kingdom-brood," then *-ar* may be a suffix that converts a place-name element into a collective/faction designation.
+
+4. **Precedent in other WoW languages**: The pattern of a collective suffix appended to a root is well-attested:
+   - Darnassian *-dorei* = "people of" (*Kaldorei* = "Children of the Stars")
+   - Nazja *-ess* / *-esssi* = collective/tribal suffix (*Sira'kess*)
+   - The *-ar* suffix could be the nerubian equivalent: a morpheme meaning "brood," "swarm," or "collective"
+
+5. **Voru'kar variant**: The BfA faction *Voru'kar* contains *-kar* rather than *-ar*. If *-kar* = *k-* + *-ar*, the initial /k/ could be a linking consonant or a different morphological form. Alternatively, *-kar* could be an independent suffix with a different meaning. The relationship between *-ar* and *-kar* is unclear.
+
+### Arguments Against
+
+1. **Small sample size**: Only five clear attestations (six with *Voru'kar*). The pattern could be coincidental.
+
+2. **Scourge influence**: Three of the five *-ar* names are Scourge factions (*Anub'ar*, *Hath'ar*, *Nerub'ar*). The *-ar* suffix could be a Scourge-era innovation rather than a native nerubian morpheme — a designation imposed by the Lich King's forces on organized nerubian groups. However, *Nerub-ar Palace* (TWW) is clearly native nerubian, not Scourge, which argues against this.
+
+3. **Homophony with Common/English *-ar***: The *-ar* suffix could be a Blizzard rendering convention rather than a genuine nerubian morpheme. However, the same argument applies to all inferred morphemes in the corpus.
+
+### Assessment
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| *-ar* = genuine nerubian collective/faction suffix meaning "brood" or "swarm" | **Medium** | Five attestations with consistent semantics; *Nerub-ar Palace* confirms it is native nerubian, not just Scourge designation |
+| *-ar* = Scourge-era innovation applied to organized nerubian groups | **Low** | *Nerub-ar Palace* (TWW) is pre-Scourge, undermining this hypothesis |
+| *-ar* = coincidental homophony | **Low** | Five independent occurrences of the same suffix in the same semantic domain is unlikely to be coincidence |
+
+**Confidence: Low–Moderate.** The *-ar* suffix has a plausible semantic interpretation as a collective/faction-designation morpheme, supported by five attestations spanning two expansions. The strongest evidence is the consistent pairing of known nerubian roots (*Anub-*, *Nerub-*, *Hath-*) with the same suffix, combined with the TWW *Nerub-ar Palace* confirming native (non-Scourge) usage.
+
+### Implications for *Ahn'kahar*
+
+If *-ar* = "brood/collective" and *-kahet* = "kingdom," then *Ahn'kahar* = *Ahn-* + *-kah-* + *-ar*, where *-kah-* may be a truncated form of *-kahet*. This would mean:
+- *Ahn'kahet* = "Old-kingdom"
+- *Ahn'kahar* = "Old-kingdom-brood" = "the brood of the Old Kingdom"
+
+This is semantically coherent — the Ahn'kahar are the faction of nerubians associated with the Ahn'kahet dungeon. The *-kah-* truncation (*-kahet* → *-kah-*) before the *-ar* suffix would be a regular morphological process: dropping the final syllable of the place-name root before adding the collective suffix.
+
+## Investigation: *En'kilah* and the *En-* Prefix
+
+The WotLK place name *En'kilah* (/ɛnˈkiːlɑː/) is a Temple City in Borean Tundra, occupied by the Scourge during the Wrath of the Lich King expansion. If this is a native nerubian toponym, the decomposition *En-* + *-kilah* would add a new prefix to the nerubian toponymic system alongside the established *Ahn-* and *Azj-*.
+
+### The Nerubian Toponymic Prefix System (Attested)
+
+| Prefix | Attested In | Inferred Meaning | Confidence |
+|--------|-------------|-----------------|------------|
+| *Azj-* | *Azjol-Nerub*, *Azj-Kahet*, *Azj'Aqir* | "deep/realm/domain" | Medium–High |
+| *Ahn-* | *Ahn'kahet*, *Ahn'qiraj* | "old/ancient/sacred" | Low–Medium |
+| *En-* | *En'kilah* (?) | Unknown | Very Low |
+
+### Arguments for *En-* as a Nerubian Toponymic Prefix
+
+1. **Structural parallel**: *En'kilah* follows the same pattern as *Ahn'kahet* and *Ahn'qiraj* — a short initial element followed by an apostrophe and a second morpheme. This is the established nerubian/Aqir toponymic pattern.
+
+2. **Three-prefix system**: Many real-world languages have multiple toponymic prefixes (e.g., Arabic *Al-*, *Dar-*, *Bir-*). A three-prefix system (*Azj-*, *Ahn-*, *En-*) is typologically plausible.
+
+3. **Semantic possibility**: If *Azj-* = "deep/realm" and *Ahn-* = "old/ancient," then *En-* could mean "sacred," "high," "new," or "inner" — any semantic field that distinguishes a temple city from a kingdom or an old fortress.
+
+### Arguments Against
+
+1. **Single attestation**: *En'kilah* is the only known place name with the *En-* element. No other *En-* toponyms exist in the corpus.
+
+2. **Possible non-nerubian origin**: *En'kilah* is located in Borean Tundra, not in a confirmed nerubian zone. While it is described as a Scourge-occupied structure, its original builders are not definitively identified as nerubian. It could be:
+   - A Vrykul structure (Borean Tundra had significant Vrykul presence)
+   - A Titan-forged structure (Borean Tundra contains Coldarra and other Titan-related sites)
+   - A Scourge-era construction with no pre-Scourge significance
+
+3. **Possible qiraji origin**: If *En'kilah* were a qiraji or Aqir name rather than nerubian, the *En-* prefix would belong to a different language's toponymic system. However, qiraji toponyms use *Ahn-* (*Ahn'qiraj*), not *En-*.
+
+4. **Etymology of *-kilah***: The element *-kilah* resembles Arabic *qila* ("fortress") or *kil'a* ("citadel"), consistent with the Egyptian/Middle Eastern aesthetic of both nerubian and qiraji naming. If *-kilah* is an Arabic loan by Blizzard rather than a genuine nerubian morpheme, the *En-* + *-kilah* decomposition may not reflect nerubian morphology at all.
+
+### Assessment
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| *En-* is a nerubian toponymic prefix (parallel to *Ahn-* and *Azj-*) | **Low–Medium** | Structural parallel is strong; but single attestation and uncertain building origin weaken the case |
+| *En-* is a qiraji/Aqir prefix (not nerubian) | **Low** | No other qiraji names use *En-*; qiraji uses *Ahn-* |
+| *En'kilah* is not a nerubian/Aqir name at all | **Low–Medium** | Borean Tundra is not a confirmed nerubian zone; the structure could be Vrykul, Titan-forged, or Scourge-built |
+| *En'kilah* is a Blizzard design borrowing from Arabic *kil'a* ("citadel") with no in-universe morphological significance | **Medium** | The *-kilah* element strongly resembles Arabic; Blizzard may have simply chosen a "temple city" name without regard for nerubian morphological consistency |
+
+**Confidence: Very Low.** The *En-* element in *En'kilah* cannot be confidently assigned to the nerubian toponymic system. While the structural parallel with *Ahn'kahet* and *Ahn'qiraj* is suggestive, the single attestation, uncertain building origin, and possible Arabic design borrowing prevent any firm conclusion. The item is flagged for future investigation if additional *En-* toponyms are discovered.
+
 ## Syntax
 
-- No sentence-level attestation exists
-- Word order cannot be determined
-- The compounding pattern (prefix + head, with apostrophe boundary) is the only confirmed syntactic observation
+- No sentence-level attestation exists (the nerubian scroll text is untranslated)
+- Word order cannot be determined with confidence
+- The compounding pattern (prefix + head, with apostrophe boundary) is the only confirmed syntactic observation from proper names
 - The language may follow a modifier-head structure in compounds (inferred from *Anub-* + suffix pattern), consistent with the right-headed compounding tradition found in both Titan-forged and Aqir-descended languages
+- The scroll text shows short phrases (2–5 words) separated by periods, but without translations, the syntactic structure of these phrases cannot be determined
 
 ## Relationship to Other WoW Languages
 

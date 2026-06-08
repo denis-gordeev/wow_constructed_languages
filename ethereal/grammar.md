@@ -95,6 +95,77 @@ The ethereal political system uses a hierarchy of Common-language titles:
 
 This is entirely speculative but provides a framework for future investigation.
 
+## Investigation: The Arabic-Inspired Naming Pattern
+
+A striking number of ethereal names evoke Arabic phonology and morphology:
+
+| Ethereal Name | Arabic Parallel | Notes |
+|---------------|----------------|-------|
+| *Salhadaar* | *Salah al-Din* (Saladin), *salah* ("righteousness") | Two-part structure with long vowel |
+| *Haramad* | *Haram* ("sanctuary"), *Ahmad* | Similar consonant pattern /h...m...d/ |
+| *Ameer* | *amīr* ("commander/prince") | Near-phonological identity; semantic match (Commander Ameer) |
+| *Bilaal* | *Bilal* (Arabic name, companion of Muhammad) | Near-identity; geminate /l/ in both |
+| *Razaan* | *Razan* (Arabic name) | Same consonant skeleton /r...z...n/ |
+| *Durzaan* | *Dhu'l-Qa'dah* pattern? or Persian *-zaan* suffix | *-zaan* ending parallels *Razaan* |
+| *Nezhar* | *Nizar* (Arabic name) | Similar consonant pattern /n...zh...r/ ~ /n...z...r/ |
+| *Mu'fah* | *Mu'awiyah*, *Muhammad* | The *Mu-* prefix is common in Arabic names |
+| *Khay'ji* | *Khayri* (Arabic name from *khayr* "good") | Initial /xeɪ/ ~ /xaɪ/ |
+
+### The Pattern
+
+Nine of approximately 25 documented ethereal names show clear Arabic phonological or morphological parallels. This is a significantly higher concentration than in any other WoW language. The pattern includes:
+
+1. **Consonant skeletons**: Arabic uses triconsonantal roots (e.g., *k-t-b* for "writing"). Ethereal names like *Haramad* (/h-r-m-d/), *Razaan* (/r-z-n/), and *Nezhar* (/n-zh-r/) follow similar root patterns.
+
+2. **Long vowels**: Arabic distinguishes long and short vowels. Ethereal names with *-aa-* (*Salhadaar*, *Razaan*, *Durzaan*) mirror this feature.
+
+3. **The *-aan* ending**: Three ethereal names end in *-aan* / *-zaan* (*Razaan*, *Durzaan*). Arabic uses *-ān* as a noun-forming suffix (e.g., *sultān*).
+
+4. **Semantic calques**: *Ameer* ≈ Arabic *amīr* ("commander") — and the character holds the rank of Commander. This is the strongest evidence for deliberate design rather than coincidence.
+
+### Two Explanations
+
+**Hypothesis 1: Deliberate Blizzard Design Pattern**
+
+Blizzard deliberately chose Arabic-inspired names for ethereals to evoke:
+- Desert-dwelling merchant culture (paralleling real-world Arabic-speaking merchant traditions)
+- The mystique of an exotic, ancient civilization
+- A "foreign/otherworldly" aesthetic distinct from the Norse-inspired titan-forged family
+
+This is the more parsimonious explanation. Blizzard's art team explicitly designed ethereals with a Middle Eastern aesthetic (flowing bandages = robes, Netherstorm = desert, merchant culture = bazaar), and the naming convention follows this design intent.
+
+**Hypothesis 2: Genuine Ethereal-Language Phonological Tendency**
+
+If we treat the ethereal language as a genuine in-universe linguistic system, the Arabic-like features could reflect:
+- Genuine ethereal phonological preferences (triconsonantal roots, long vowels)
+- A cultural-linguistic link between desert environments and certain phonological features
+- An independent development that converges on Arabic-like patterns due to similar cultural pressures (merchant culture, desert environment, hierarchical political structure)
+
+This hypothesis would require the Arabic-like features to be internally consistent within the ethereal-language system, not just superficially similar to Arabic.
+
+### Assessment
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| Deliberate Blizzard design pattern (Arabic aesthetic for desert merchant species) | **High** | The design intent is transparent: desert setting, merchant culture, bandage-wrappings evoking robes. *Ameer* ≈ *amīr* is a near-semantic calque. |
+| Genuine ethereal-language phonological tendency (independent convergence on Arabic-like patterns) | **Low** | Possible in principle but unnecessary as an explanation; Occam's razor favors the design hypothesis |
+| Some names are genuine ethereal-language words that happen to sound Arabic | **Low–Medium** | Not all ethereal names sound Arabic (*Ve'nari*, *Xevozz*, *Zovex*, *Gava'xi*); the Arabic pattern may apply to only certain dialects or factions (e.g., Netherstorm Consortium vs. K'aresh Shadowguard) |
+
+**Confidence: High** that the Arabic-inspired naming is a deliberate Blizzard design pattern; **Low** that it reflects genuine in-universe phonological tendencies. The primary significance for linguistic analysis is that the Arabic-like names should be treated with extra caution when identifying genuine ethereal morphemes — the *-aan* ending, for example, could be a Blizzard rendering of Arabic *-ān* rather than a genuine ethereal suffix.
+
+### Implications for Morpheme Analysis
+
+The Arabic design pattern affects the reliability of certain inferred morphemes:
+
+| Inferred Morpheme | Attestation | Risk of Design Artifact |
+|-------------------|-------------|------------------------|
+| *-aan* / *-zaan* | *Razaan*, *Durzaan* | **High** — Arabic *-ān* suffix; may be design borrowing, not genuine morpheme |
+| *-daar* | *Salhadaar* | **High** — Arabic *-dar* / *-dār* ("abode/house"); cf. *Salah al-Din* → *Salhadaar* could be "Salah's abode" |
+| *-mad* | *Haramad* | **Medium** — Arabic *Ahmad* / *Muhammad* pattern; could be design borrowing |
+| *-eer* / *-meer* | *Ameer* | **Very High** — Near-identical to Arabic *amīr*; almost certainly a design calque |
+
+The safest approach is to require non-Arabic-parallel evidence before accepting these elements as genuine ethereal morphemes. The *-esh* / *-aresh* suffix (attested in *K'aresh* and *Tazavesh*) does not have a clear Arabic parallel and is therefore more likely to be a genuine ethereal morpheme.
+
 ## Syntax
 
 - No sentence-level attestation exists
