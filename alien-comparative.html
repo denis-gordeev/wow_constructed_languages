@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alien Languages of Azeroth — Shath'Yar, Nerubian, Qiraji, Ethereal</title>
+<style>
+  body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+  h1 { border-bottom: 2px solid #6a1b9a; padding-bottom: 0.3em; }
+  h2 { color: #6a1b9a; margin-top: 2em; }
+  h3 { color: #8e24aa; }
+  h4 { color: #9c27b0; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+  th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+  th { background: #f3e5f5; font-weight: bold; }
+  tr:nth-child(even) { background: #faf5fc; }
+  .uncertain { color: #888; font-style: italic; }
+  .inferred { color: #6a1b9a; }
+  .shared { background: #e8f5e9; }
+  .aqir { background: #fff3e0; }
+  .note { background: #f3e5f5; border-left: 3px solid #6a1b9a; padding: 0.5em 1em; margin: 1em 0; }
+  .ipa { font-family: "DejaVu Sans", "Gentium Plus", serif; }
+  nav { background: #f3e5f5; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+  nav a { margin-right: 1em; }
+  a { color: #6a1b9a; }
+  a:hover { color: #9c27b0; }
+  pre { background: #f5f5f5; padding: 1em; border-radius: 4px; overflow-x: auto; }
+  .confidence-high { color: #2e7d32; font-weight: bold; }
+  .confidence-mod { color: #f57f17; font-weight: bold; }
+  .confidence-low { color: #c62828; font-weight: bold; }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="#overview">Overview</a>
+  <a href="#family">Family Tree</a>
+  <a href="#apostrophe">Apostrophe Patterns</a>
+  <a href="#phonology">Phonology</a>
+  <a href="#aqir">Aqir Substrate</a>
+  <a href="#morphemes">Morpheme Index</a>
+  <a href="#compounds">Compounds</a>
+  <a href="#transmission">Transmission</a>
+  <a href="#wordlist">Wordlist</a>
+  <a href="#grammar">Grammar</a>
+</nav>
+
+<h1>Alien Languages of Azeroth</h1>
+
+<p>A comparative analysis of the four &ldquo;alien&rdquo; languages of World of Warcraft:
+<a href="shath-yar/description.md">Shath&rsquo;Yar</a> (Old Gods and their servants),
+<a href="nerubian/description.md">Nerubian</a> (spider-people of Azj-Kahet),
+<a href="qiraji/description.md">Qiraji</a> (insectoid servants of C&rsquo;Thun in Silithus), and
+<a href="ethereal/description.md">Ethereal / Broker</a> (energy beings from K&rsquo;aresh).
+These languages share no confirmed genetic relationship to the elven or titan-forged
+language families, but exhibit striking parallels in orthographic conventions (especially
+apostrophe-marked morpheme boundaries) and, in the case of nerubian and qiraji, a potential
+shared Aqir substrate.</p>
+
+<div class="note">
+<strong>Methodological caveat:</strong> The attested corpus for all four languages is extremely small.
+None has any attested sentences &mdash; the entire corpus for each consists of proper names and place names.
+Shath&rsquo;Yar has a few opaque phrases without translations. All morpheme decompositions and
+reconstructed forms are provisional. Forms marked <span class="inferred">in purple</span> are inferred;
+forms marked <span class="uncertain">in gray italics</span> have uncertain glosses. Confidence ratings:
+<span class="confidence-high">High</span>,
+<span class="confidence-mod">Low&ndash;Moderate</span>,
+<span class="confidence-low">Very Low</span>.
+</div>
+
+<h2 id="overview">Overview</h2>
+
+<table>
+<tr><th>Feature</th><th>Shath'Yar</th><th>Nerubian</th><th>Qiraji</th><th>Ethereal</th></tr>
+<tr><td>Speakers</td><td>Old Gods, N'raqi, K'thir</td><td>Nerubian spider-people</td><td>Qiraji insectoids</td><td>Ethereals and Brokers</td></tr>
+<tr><td>Origin</td><td>Azeroth (primordial)</td><td>Azeroth (Aqir-descended)</td><td>Azeroth (Aqir-descended)</td><td>K'aresh (separate world)</td></tr>
+<tr><td>Attested items</td><td>~7 proper names + 3 phrases</td><td>~16 personal names + ~7 place names</td><td>~8 personal names + ~6 place names</td><td>~6 personal names + ~4 place names</td></tr>
+<tr><td>Attested sentences</td><td>0 (3 opaque phrases, no translations)</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Old God connection</td><td>Core &mdash; the language IS Old God speech</td><td>Via Aqir (created by Old Gods); some later corrupted by Yogg-Saron</td><td>Via Aqir; created by C'Thun</td><td>Shadowguard corrupted by Void (recent); Dimensius destroyed K'aresh</td></tr>
+<tr><td>Apostrophe convention</td><td>Very high (nearly all names)</td><td>Very high (nearly all multi-morpheme names)</td><td>High (consistent in attested compounds)</td><td>Low (only 2 of ~10 names)</td></tr>
+<tr><td>Self-designation</td><td><em>Shath'Yar</em></td><td><em>Nerub-</em></td><td><em>-qiraj</em> / <em>-qiraji</em></td><td><em>Ethere-</em> (?)</td></tr>
+</table>
+
+<h2 id="family">Hypothetical Language Family Tree</h2>
+
+<pre>
+Shath'Yar (Old God language; primordial)
+    &darr; (Old Gods created the Aqir)
+Aqir (unattested; Old God-created insectoid race)
+    &darr; (Aqir diverged into multiple species)
+    &boxv;&boxvr;&ndash; Nerubian (via nerubian spider-people)
+    &boxv;&boxv;&boxv;&boxvr;&ndash; Northrend dialect (Azjol-Nerub, Ahn'kahet)
+    &boxv;&boxv;&boxur;&ndash; Khaz Algar dialect (Azj-Kahet, City of Threads)
+    &boxv;&boxvr;&ndash; Qiraji (via Silithid &rarr; Qiraji)
+    &boxv;&boxv;&boxur;&ndash; Silithus dialect (Ahn'qiraj, Hive'Ashi, Hive'Zora)
+    &boxur;&ndash; [Possible substrate in Nazja via naga/Old God contact]
+         &boxur;&ndash; *Azj-* / *Nazj-* element (if Aqir origin)
+
+Ethereal / Broker (independent &mdash; native to K'aresh, not Azeroth)
+    &boxvr;&ndash; Ethereal dialect (Netherstorm, K'aresh variants)
+    &boxur;&ndash; Broker dialect (Tazavesh, K'aresh Trust)
+</pre>
+
+<div class="note">
+<strong>Key distinction:</strong> Shath'Yar, nerubian, and qiraji are connected through the
+Old God &rarr; Aqir chain. The ethereal language is <strong>genetically unrelated</strong>
+&mdash; ethereals originate from K'aresh, a separate world &mdash; but shares surface features
+(apostrophe-marked compounding, sibilant preference) that may reflect Blizzard design aesthetics
+or convergent typological development.
+</div>
+
+<h2 id="apostrophe">Apostrophe Patterns</h2>
+
+<p>The most striking shared feature across all four languages is the use of apostrophes
+to mark morpheme boundaries. However, the <em>structural position</em> and <em>function</em>
+of the apostrophe differ significantly between Shath'Yar and the other three languages.</p>
+
+<h3>Pattern 1: Initial Apostrophe (Shath'Yar dominant)</h3>
+
+<p>In Shath'Yar, the apostrophe typically separates a <strong>single initial consonant</strong>
+from the remainder of the name. This suggests the initial consonant is itself a morpheme
+(possibly a prefix or determiner).</p>
+
+<table>
+<tr><th>Name</th><th>IPA</th><th>Decomposition</th><th>Initial Element</th><th>Root</th></tr>
+<tr><td><em>N'Zoth</em></td><td class="ipa">/n&#712;zo&#650;&#952;/</td><td>N' + Zoth</td><td class="inferred">N' (negation/absence?)</td><td>Zoth</td></tr>
+<tr><td><em>C'Thun</em></td><td class="ipa">/k&#601;&#712;&#952;u&#720;n/</td><td>C' + Thun</td><td class="inferred">C' (unknown)</td><td>Thun</td></tr>
+<tr><td><em>N'raqi</em></td><td class="ipa">/n&#712;r&#593;&#720;ki/</td><td>N' + raqi</td><td class="inferred">N' (negation/absence?)</td><td>raq + -i</td></tr>
+<tr><td><em>K'thir</em></td><td class="ipa">/k&#712;&#952;&#618;r/</td><td>K' + thir</td><td class="inferred">K' (servant/thrall?)</td><td>th + -ir</td></tr>
+<tr><td><em>Y'Shaarj</em></td><td class="ipa">/j&#712;&#643;&#593;&#720;rd&#658;/</td><td>Y' + Shaarj</td><td class="inferred">Y' (unknown)</td><td>Shaarj</td></tr>
+<tr><td><em>Il'gynoth</em></td><td class="ipa">/&#618;l&#712;&#609;&#618;n&#594;&#952;/</td><td>Il' + gynoth</td><td class="inferred">Il (heart/core?)</td><td>gynoth</td></tr>
+</table>
+
+<h3>Pattern 2: Medial Apostrophe (nerubian, qiraji, ethereal dominant)</h3>
+
+<p>In nerubian, qiraji, and ethereal, the apostrophe typically separates <strong>two content
+morphemes</strong> &mdash; a true compound boundary, not a prefix-stem division.</p>
+
+<table>
+<tr><th>Language</th><th>Name</th><th>IPA</th><th>Decomposition</th><th>Left</th><th>Right</th></tr>
+<tr><td>Nerubian</td><td><em>Anub'azal</em></td><td class="ipa">/&#593;&#712;n&#650;b&#593;&#720;&#712;z&#593;&#720;l/</td><td>Anub + azal</td><td class="inferred">Anub- (lord)</td><td class="inferred">-azal (commander?)</td></tr>
+<tr><td>Nerubian</td><td><em>Anub'arak</em></td><td class="ipa">/&#593;&#712;n&#650;b&#601;&#712;r&aelig;k/</td><td>Anub + arak</td><td class="inferred">Anub- (lord)</td><td class="inferred">-arak (king?)</td></tr>
+<tr><td>Nerubian</td><td><em>Anub'rekhan</em></td><td class="ipa">/&#593;&#712;n&#650;b&#712;r&#603;k&aelig;n/</td><td>Anub + rekhan</td><td class="inferred">Anub- (lord)</td><td class="inferred">-rekhan</td></tr>
+<tr><td>Nerubian</td><td><em>Arak'nai</em></td><td class="ipa">/&#593;&#712;r&#593;&#720;kna&#618;/</td><td>Arak + nai</td><td class="inferred">Arak- (spider?)</td><td class="inferred">-nai (weaver?)</td></tr>
+<tr><td>Nerubian</td><td><em>Ovi'nax</em></td><td class="ipa">/&#712;o&#650;v&#618;n&aelig;ks/</td><td>Ovi + nax</td><td>Ovi-</td><td class="inferred">-nax (brood?)</td></tr>
+<tr><td>Nerubian</td><td><em>Ky'veza</em></td><td class="ipa">/ka&#618;&#712;v&#603;z&#601;/</td><td>Ky + veza</td><td>Ky-</td><td class="inferred">-veza</td></tr>
+<tr><td>Nerubian</td><td><em>Krix'vizk</em></td><td class="ipa">/&#712;kr&#618;ksv&#618;zk/</td><td>Krix + vizk</td><td>Krix-</td><td class="inferred">-vizk</td></tr>
+<tr><td>Nerubian</td><td><em>Ix'zek</em></td><td class="ipa">/&#618;ks&#712;z&#603;k/</td><td>Ix + zek</td><td class="inferred">Ix- (Old God?)</td><td class="inferred">-zek (rank?)</td></tr>
+<tr><td>Nerubian</td><td><em>Rasha'nan</em></td><td class="ipa">/r&#593;&#712;&#643;&#593;&#720;n&aelig;n/</td><td>Rasha + nan</td><td>Rasha-</td><td class="inferred">-nan</td></tr>
+<tr><td>Nerubian</td><td><em>Y'tekhi</em></td><td class="ipa">/&#618;&#712;t&#603;ki/</td><td>Y' + tekhi</td><td class="inferred">Y'- (Old God?)</td><td>tekhi</td></tr>
+<tr class="aqir"><td>Nerubian</td><td><em>Ahn'kahet</em></td><td class="ipa">/&#712;&#593;&#720;nk&#593;&#720;h&#603;t/</td><td>Ahn + kahet</td><td class="inferred">Ahn- (old/sacred)</td><td class="inferred">-kahet (kingdom)</td></tr>
+<tr class="aqir"><td>Qiraji</td><td><em>Ahn'qiraj</em></td><td class="ipa">/&#712;&#593;&#720;nkw&#618;r&#593;&#720;&#658;/</td><td>Ahn + qiraj</td><td class="inferred">Ahn- (old/sacred)</td><td class="inferred">-qiraj (the people)</td></tr>
+<tr><td>Qiraji</td><td><em>Hive'Ashi</em></td><td class="ipa">/&#712;h&#618;v&#712;&aelig;&#643;i/</td><td>Hive + Ashi</td><td>Hive (English)</td><td>Ashi</td></tr>
+<tr><td>Ethereal</td><td><em>K'aresh</em></td><td class="ipa">/k&#601;&#712;r&#603;&#643;/</td><td>K' + aresh</td><td class="inferred">K'- (?)</td><td class="inferred">-aresh (realm)</td></tr>
+<tr><td>Ethereal</td><td><em>Ve'nari</em></td><td class="ipa">/v&#603;&#712;n&#593;&#720;ri/</td><td>Ve' + nari</td><td class="inferred">Ve'- (broker prefix?)</td><td>nari</td></tr>
+</table>
+
+<h3>Structural Comparison</h3>
+
+<table>
+<tr><th>Feature</th><th>Shath'Yar</th><th>Nerubian</th><th>Qiraji</th><th>Ethereal</th></tr>
+<tr><td>Dominant apostrophe position</td><td><strong>Initial</strong> (C' + root)</td><td><strong>Medial</strong> (stem + ' + stem)</td><td><strong>Medial</strong> (stem + ' + stem)</td><td>Both initial and medial</td></tr>
+<tr><td>Apostrophe function</td><td><strong>Prefix boundary</strong></td><td><strong>Compound boundary</strong></td><td><strong>Compound boundary</strong></td><td><strong>Compound boundary</strong></td></tr>
+<tr><td>Frequency</td><td>Very high (6 of ~7 names)</td><td>Very high (10 of ~16 names)</td><td>High (3 of ~8 names)</td><td>Low (2 of ~10 names)</td></tr>
+<tr><td>Consistency</td><td>Near-universal</td><td>Very consistent for multi-morpheme names</td><td>Consistent in attested compounds</td><td>Inconsistent &mdash; many names lack apostrophes</td></tr>
+</table>
+
+<div class="note">
+<strong>Key insight:</strong> The two apostrophe patterns are <em>structurally different</em> and
+may have different origins. Shath'Yar uses apostrophes to mark <em>prefix boundaries</em>
+(single initial consonant + root), while nerubian/qiraji/ethereal use them to mark
+<em>compound boundaries</em> (two content morphemes). If the Aqir inherited apostrophe-marking
+from Shath'Yar (via Old God creation), the function shifted from prefix-marking to
+compound-marking during the transmission.
+</div>
+
+<h2 id="phonology">Comparative Phonology</h2>
+
+<h3>Full Feature Comparison</h3>
+
+<table>
+<tr><th>Feature</th><th>Shath'Yar</th><th>Nerubian</th><th>Qiraji</th><th>Ethereal</th></tr>
+<tr><td>Apostrophe position</td><td>Initial (C'CVC)</td><td>Medial (CVC'CVC)</td><td>Medial (CVC'CVC)</td><td>Both (K'aresh, Ve'nari)</td></tr>
+<tr><td>Initial consonant clusters</td><td>Present (N'Zoth, Y'Shaarj)</td><td>Present (Krix'vizk, Vrrix)</td><td>Absent</td><td>Absent</td></tr>
+<tr><td>/ks/ (x) frequency</td><td>Absent</td><td>High (Ulgrax, Ovi'nax, Krix'vizk)</td><td>Moderate (Kurinnaxx, Rajaxx)</td><td>Absent</td></tr>
+<tr><td>Sibilant density</td><td>Very high (fhssh, Ssra'thik)</td><td>Moderate (Nizrek, Krix'vizk)</td><td>Moderate (Ossirian, Anubisath)</td><td>High (K'aresh, Tazavesh, Shaffar)</td></tr>
+<tr><td>Geminate consonants</td><td>Not clearly attested</td><td>Absent (-nax, not -naxx)</td><td>Present (-naxx, -axx)</td><td>Possible (-ff- in Shaffar, -aa- in Salhadaar)</td></tr>
+<tr><td>Syllable complexity</td><td>Complex</td><td>Complex</td><td>Moderate</td><td>Simple</td></tr>
+<tr><td>Post-vocalic /&#643;/ (sh)</td><td>Moderate (Shath'Yar)</td><td>Low (Rasha'nan)</td><td>Low (Anubisath)</td><td>High (K'aresh, Tazavesh, Shaffar)</td></tr>
+<tr><td>Dental fricative /&#952;/</td><td>Present (C'Thun)</td><td>Present (Xanventh, Krik'thir)</td><td>Present (Anubisath)</td><td>Absent</td></tr>
+<tr><td>Vowel /e/</td><td>Rare or absent</td><td>Present</td><td>Present</td><td>Present</td></tr>
+<tr><td>Harshness index</td><td>Very high (guttural, alien)</td><td>High (clicking, chitinous)</td><td>Moderate (Egyptian-inspired)</td><td>Low (soft, shimmering)</td></tr>
+<tr><td>Old God connection</td><td>Core (language of Old Gods)</td><td>Via Aqir</td><td>Via Aqir</td><td>Via Shadowguard (recent)</td></tr>
+<tr><td>Self-designation</td><td>Shath'Yar</td><td>Nerub-</td><td>-qiraj (?)</td><td>Ethere- (?)</td></tr>
+<tr><td>Shared morphemes with others</td><td>-i plural (?)</td><td>Ahn-, Azj- (Aqir)</td><td>Ahn- (Aqir)</td><td>None confirmed</td></tr>
+</table>
+
+<h3>Key Phonological Observations</h3>
+
+<ol>
+<li><strong>The /ks/ (x) phoneme</strong> is diagnostic of Aqir-descended languages (nerubian, qiraji)
+but absent from both Shath'Yar and ethereal. Its high frequency in nerubian names may reflect
+the chitinous clicking sounds of arachnid vocalization, or a Blizzard aesthetic choice
+for harsh insectoid names.</li>
+
+<li><strong>Ethereal phonology is distinctly softer</strong> than the other three languages.
+The absence of /ks/, /&#952;/, and complex initial clusters, combined with high /&#643;/ frequency and
+simple CV/CVC syllable structure, creates a whispery, shimmering quality appropriate for
+energy beings.</li>
+
+<li><strong>Geminate patterns diverge</strong>: qiraji retains Aqir geminates (-naxx), nerubian
+simplifies them (-nax), and ethereal may have independently developed geminates (-ff- in
+Shaffar). Shath'Yar geminates are unclear due to the small corpus.</li>
+
+<li><strong>The /&#952;/ (dental fricative)</strong> appears in Shath'Yar, nerubian, and qiraji
+but not in ethereal. It also appears in several titan-forged languages (Vrykul, Earthen) and
+Darnassian, suggesting it may be a deep Azerothian areal feature rather than inherited from
+any single source. Its absence from ethereal is consistent with ethereal being native to
+K'aresh, not Azeroth.</li>
+</ol>
+
+<h2 id="aqir">Aqir Substrate Morphemes</h2>
+
+<p>The Aqir were the ancient insectoid race created by the Old Gods. Both nerubians and
+qiraji descend from the Aqir. If the Aqir had a language, both descendant languages would
+be expected to preserve fragments of it. The following morphemes are potential Aqir substrate
+elements &mdash; words inherited from the Aqir language that survive in both nerubian and qiraji.</p>
+
+<h3>Emerging Aqir Vocabulary</h3>
+
+<table>
+<tr><th>Aqir Morpheme</th><th>Nerubian Form</th><th>Qiraji Form</th><th>Naga Form</th><th>Inferred Meaning</th><th>Confidence</th></tr>
+<tr class="aqir"><td class="inferred">*Azj-</td><td><em>Azj-Kahet</em>, <em>Azjol-Nerub</em></td><td>&mdash;</td><td><em>Nazj-</em> (with *N-* prefix) in <em>Nazjatar</em></td><td>deep / realm / domain</td><td class="confidence-mod">Low&ndash;Medium</td></tr>
+<tr class="aqir"><td class="inferred">*Ahn-</td><td><em>Ahn'kahet</em> ("The Old Kingdom")</td><td><em>Ahn'qiraj</em> (fortress-temple)</td><td>&mdash;</td><td>old / ancient / sacred</td><td class="confidence-mod">Low&ndash;Medium</td></tr>
+<tr class="aqir"><td class="inferred">*-naxx</td><td><em>-nax</em> (<em>Ovi'nax</em>)</td><td><em>-naxx</em> (<em>Kurinnaxx</em>)</td><td>&mdash;</td><td class="uncertain">warrior / hunter (?)</td><td class="confidence-low">Very Low</td></tr>
+<tr class="aqir"><td class="inferred">*Anub-</td><td><em>Anub'arak</em>, <em>Anub'azal</em>, <em>Anub'rekhan</em>, <em>Anub'ess</em></td><td><em>Anubisath</em> (if qiraji/tol'vir)</td><td>&mdash;</td><td class="uncertain">lord / guardian / warrior</td><td class="confidence-mod">Moderate (nerubian); <span class="confidence-low">Very Low</span> (cross-species)</td></tr>
+</table>
+
+<h3>The *Azj- / *Nazj- Connection</h3>
+
+<table>
+<tr><th>Name</th><th>Language</th><th>Expansion</th><th>Analysis</th></tr>
+<tr><td><em>Azjol-Nerub</em></td><td>Nerubian</td><td>WotLK (2008)</td><td>*Azj-* + *-ol-* + *Nerub*</td></tr>
+<tr><td><em>Azj-Kahet</em></td><td>Nerubian</td><td>TWW (2024)</td><td>*Azj-* + *-Kahet*</td></tr>
+<tr><td><em>Nazjatar</em></td><td>Nazja</td><td>BfA (2018)</td><td>*Nazj-* + *-atar* (if *Nazj-* = *N-* + *Azj-*)</td></tr>
+<tr><td><em>Naz'jar</em></td><td>Nazja</td><td>Cata (2010)</td><td>*Naz-* + *-jar*</td></tr>
+<tr><td><em>Nazeshi</em></td><td>Nazja</td><td>BfA (2018)</td><td>*Naz-* + *-eshi*</td></tr>
+</table>
+
+<p>If *Nazj-* = *N-* + *Azj-*, then the naga form preserves an initial *N-* prefix not found
+in the nerubian form. The *N-* prefix may be related to Shath'Yar *N'-* (negation/absence),
+suggesting: *Azj-* = "realm" &rarr; *N-azj-* = "[negated/un-] realm" = "the deep" or "the
+hidden domain." <strong>Confidence:</strong> <span class="confidence-mod">Low&ndash;Medium</span>.</p>
+
+<h3>The *Ahn-* Element: Shared Aqir Morpheme</h3>
+
+<p>The element <em>Ahn-</em> appears in both qiraji and nerubian toponyms with the same
+structural pattern:</p>
+
+<table>
+<tr><th>Name</th><th>Species</th><th>Expansion</th><th>Context</th></tr>
+<tr><td><em>Ahn'qiraj</em></td><td>Qiraji</td><td>Classic (2006)</td><td>The fortress-temple in Silithus</td></tr>
+<tr><td><em>Ahn'kahet</em></td><td>Nerubian</td><td>WotLK (2008)</td><td>"The Old Kingdom" in Dragonblight</td></tr>
+</table>
+
+<p>If *Ahn-* = "old/ancient/sacred" (supported by <em>Ahn'kahet</em> = "Old Kingdom"):</p>
+<ul>
+<li><em>Ahn'qiraj</em> = "Sacred [place of the] Qiraj" or "Ancient Temple"</li>
+<li><em>Ahn'kahet</em> = "Old Kingdom" (matches in-game designation)</li>
+</ul>
+
+<p><em>Ahn'qiraj</em> predates <em>Ahn'kahet</em> in real-world development (2006 vs. 2008),
+meaning Blizzard established the *Ahn-* + apostrophe pattern first with the qiraji, then
+reused it for the nerubian dungeon &mdash; potentially as a deliberate echo of the Aqir connection.
+<strong>Confidence:</strong> <span class="confidence-mod">Low&ndash;Medium</span>.</p>
+
+<h3>The *-naxx* / *-nax* Suffix: Regular Sound Change?</h3>
+
+<table>
+<tr><th>Qiraji Form</th><th>Nerubian Form</th><th>Aqir Proto-Form</th><th>Sound Change</th></tr>
+<tr><td><em>-naxx</em> (<em>Kurinnaxx</em>)</td><td><em>-nax</em> (<em>Ovi'nax</em>)</td><td class="inferred">*-naxx*</td><td>Geminate simplification: *-naxx* &rarr; *-nax*</td></tr>
+<tr><td><em>-axx</em> (<em>Rajaxx</em>)</td><td><em>-ax</em> (<em>Ulgrax</em>)</td><td class="inferred">*-axx*</td><td>Same pattern</td></tr>
+<tr><td>&mdash;</td><td><em>-nox</em> (<em>Hadronox</em>)</td><td class="inferred">*-nox*</td><td>Vowel variant</td></tr>
+<tr><td>&mdash;</td><td><em>-ox</em> (<em>Elder Nadox</em>)</td><td class="inferred">*-ox*</td><td>Reduced form</td></tr>
+</table>
+
+<div class="note">
+<strong>The *x* ambiguity:</strong> If *x* = /ks/ in these suffixes, the geminate *-naxx* =
+/n&aelig;ksks/ is phonotactically difficult. If *x* = /x/ (velar fricative), then *-naxx* =
+/n&aelig;x&#720;/ and *-nax* = /n&aelig;x/ &mdash; a natural geminate vs. single fricative
+distinction. The *-nox* / *-ox* variants would then be vowel alternations of the same /x/-final
+suffix. If the geminate simplification hypothesis is correct, it would represent the <strong>first
+regular sound correspondence</strong> established between two Aqir-descended languages.
+See <a href="qiraji/vocabulary.md">qiraji/vocabulary.md</a> &sect;7 and
+<a href="nerubian/vocabulary.md">nerubian/vocabulary.md</a> &sect;13 for full discussion.
+</div>
+
+<p><strong>Confidence:</strong> <span class="confidence-low">Very Low</span>. The sample size
+is tiny and the similarity could reflect Blizzard's consistent aesthetic for insectoid naming.</p>
+
+<h2 id="morphemes">Morpheme Cross-Reference</h2>
+
+<p>All identified morphemes across the four languages, organized by confidence level.
+Morphemes highlighted in <span class="aqir">orange</span> are potential Aqir substrate elements.</p>
+
+<h3>High-Confidence Morphemes</h3>
+
+<table>
+<tr><th>Morpheme</th><th>Language</th><th>Meaning</th><th>Attestations</th><th>Confidence</th></tr>
+<tr><td class="inferred">Anub-</td><td>Nerubian</td><td>lord / warrior / guardian</td><td><em>Anub'arak</em>, <em>Anub'rekhan</em>, <em>Anub'ess</em>, <em>Anub'azal</em> (4 names, 2 expansions)</td><td class="confidence-high">High</td></tr>
+<tr><td class="inferred">-kahet</td><td>Nerubian</td><td>kingdom / realm</td><td><em>Ahn'kahet</em> (WotLK), <em>Azj-Kahet</em> (TWW) &mdash; 2 attestations spanning 16 years</td><td class="confidence-mod">Moderate&ndash;High</td></tr>
+</table>
+
+<h3>Moderate-Confidence Morphemes</h3>
+
+<table>
+<tr><th>Morpheme</th><th>Language</th><th>Meaning</th><th>Attestations</th><th>Confidence</th></tr>
+<tr class="aqir"><td class="inferred">*Azj-</td><td>Nerubian / Nazja</td><td>deep / realm / domain</td><td><em>Azj-Kahet</em>, <em>Azjol-Nerub</em>, <em>Nazjatar</em></td><td class="confidence-mod">Low&ndash;Medium</td></tr>
+<tr class="aqir"><td class="inferred">*Ahn-</td><td>Nerubian / Qiraji</td><td>old / ancient / sacred</td><td><em>Ahn'kahet</em>, <em>Ahn'qiraj</em></td><td class="confidence-mod">Low&ndash;Medium</td></tr>
+<tr><td class="inferred">-rek / -urek</td><td>Nerubian</td><td>title / rank suffix</td><td><em>Nizrek</em>, <em>Ansurek</em></td><td class="confidence-mod">Moderate</td></tr>
+<tr><td class="inferred">-esh / -aresh</td><td>Ethereal</td><td>world / realm / home</td><td><em>K'aresh</em>, <em>Tazavesh</em>, possibly <em>Reshii</em></td><td class="confidence-mod">Moderate</td></tr>
+<tr><td class="inferred">Nerub-</td><td>Nerubian</td><td>self-designation</td><td><em>Nerub-ar</em>, <em>Azjol-Nerub</em></td><td class="confidence-mod">Moderate</td></tr>
+<tr><td class="inferred">-qiraj</td><td>Qiraji</td><td>self-designation / "the people"</td><td><em>Ahn'qiraj</em></td><td class="confidence-mod">Low&ndash;Moderate</td></tr>
+</table>
+
+<h3>Speculative Morphemes (Low&ndash;Very Low Confidence)</h3>
+
+<table>
+<tr><th>Morpheme</th><th>Language</th><th>Proposed Meaning</th><th>Attestations</th><th>Confidence</th></tr>
+<tr class="aqir"><td class="inferred">*-naxx / -nax</td><td>Qiraji / Nerubian</td><td class="uncertain">warrior / hunter (?)</td><td><em>Kurinnaxx</em>, <em>Ovi'nax</em>, <em>Ulgrax</em>, <em>Rajaxx</em></td><td class="confidence-low">Very Low</td></tr>
+<tr><td class="inferred">-daar</td><td>Ethereal</td><td class="uncertain">king / ruler</td><td><em>Salhadaar</em> (Nexus-King)</td><td class="confidence-low">Very Low</td></tr>
+<tr><td class="inferred">-arak</td><td>Nerubian</td><td class="uncertain">king / ruler</td><td><em>Anub'arak</em> (the king)</td><td class="confidence-low">Low&ndash;Moderate</td></tr>
+<tr><td class="inferred">N'-</td><td>Shath'Yar</td><td class="uncertain">negation / absence</td><td><em>N'Zoth</em>, <em>N'raqi</em></td><td class="confidence-low">Low</td></tr>
+<tr><td class="inferred">Shath-</td><td>Shath'Yar</td><td class="uncertain">old / ancient (?)</td><td><em>Shath'Yar</em></td><td class="confidence-low">Very Low</td></tr>
+<tr><td class="inferred">-Yar</td><td>Shath'Yar</td><td class="uncertain">speech / whisper (?)</td><td><em>Shath'Yar</em></td><td class="confidence-low">Very Low</td></tr>
+<tr><td class="inferred">-oth</td><td>Shath'Yar</td><td class="uncertain">divine / name-forming</td><td><em>N'Zoth</em>, <em>Il'gynoth</em></td><td class="confidence-low">Very Low</td></tr>
+<tr><td class="inferred">-i</td><td>Shath'Yar</td><td class="uncertain">plural / agent</td><td><em>N'raqi</em>, <em>Aqir</em></td><td class="confidence-low">Very Low</td></tr>
+</table>
+
+<h2 id="compounds">Compound Structures</h2>
+
+<p>All four languages show right-headed compounding (modifier + head), with the apostrophe
+marking the boundary. The head element carries the primary semantic content.</p>
+
+<h3>Nerubian Compounds (most data)</h3>
+
+<table>
+<tr><th>Pattern</th><th>Examples</th><th>Head Position</th></tr>
+<tr><td>Title + name</td><td><em>Anub'azal</em>, <em>Anub'arak</em>, <em>Anub'rekhan</em>, <em>Anub'ess</em></td><td>Right</td></tr>
+<tr><td>Modifier + role</td><td><em>Arak'nai</em>, <em>Ovi'nax</em>, <em>Ky'veza</em></td><td>Right</td></tr>
+<tr><td>Place prefix + place suffix</td><td><em>Azj-Kahet</em>, <em>Ahn'kahet</em></td><td>Right (-kahet = place type)</td></tr>
+</table>
+
+<h3>Qiraji Compounds</h3>
+
+<table>
+<tr><th>Pattern</th><th>Example</th><th>Head Position</th></tr>
+<tr><td>Modifier + self-designation</td><td><em>Ahn'qiraj</em> = "Sacred [place of the] Qiraj"</td><td>Right</td></tr>
+<tr><td>English + qiraji element</td><td><em>Hive'Ashi</em>, <em>Hive'Zora</em></td><td>Right</td></tr>
+</table>
+
+<h3>Ethereal Compounds</h3>
+
+<table>
+<tr><th>Pattern</th><th>Example</th><th>Head Position</th></tr>
+<tr><td>Element + locative</td><td><em>K'aresh</em> = "[K']-realm"</td><td>Right (-esh/-aresh = realm)</td></tr>
+<tr><td>Prefix + name</td><td><em>Ve'nari</em></td><td>Unclear</td></tr>
+</table>
+
+<h3>Shath'Yar Compounds</h3>
+
+<table>
+<tr><th>Pattern</th><th>Example</th><th>Head Position</th></tr>
+<tr><td>Prefix + root</td><td><em>N'Zoth</em>, <em>C'Thun</em>, <em>N'raqi</em>, <em>K'thir</em></td><td>Right</td></tr>
+<tr><td>Modifier + root</td><td><em>Il'gynoth</em>, <em>Y'Shaarj</em></td><td>Unclear</td></tr>
+</table>
+
+<h2 id="transmission">Transmission Hypotheses</h2>
+
+<p>The shared apostrophe convention across all four languages requires explanation.
+Three broad hypotheses are evaluated:</p>
+
+<h3>Hypothesis 1: Blizzard Design Aesthetic</h3>
+
+<p>Apostrophe-marked names are a standard fantasy convention for "alien" or "ancient" names.
+Blizzard applied this convention consistently to all non-titan-forged, non-elven species
+without implying in-universe linguistic connections. <strong>Assessment:</strong>
+<span class="confidence-high">High</span> plausibility as at least a contributing factor.</p>
+
+<h3>Hypothesis 2: Old God &rarr; Aqir &rarr; Nerubian/Qiraji Transmission</h3>
+
+<pre>
+Shath'Yar (Old God language; initial apostrophe = prefix boundary)
+    &darr; (Old Gods created the Aqir)
+Aqir (inherited apostrophe convention; shifted to medial = compound boundary)
+    &darr; (Aqir diverged)
+    &boxv;&boxvr;&ndash; Nerubian (retained medial apostrophe compounding)
+    &boxv;&boxvr;&ndash; Qiraji (retained medial apostrophe compounding)
+    &boxur;&ndash; [Substrate in Nazja via naga/Old God contact]
+</pre>
+
+<p><strong>Assessment:</strong> <span class="confidence-mod">Medium&ndash;High</span> plausibility
+for the Shath'Yar &rarr; Aqir &rarr; nerubian/qiraji chain. The ethereal language sits
+outside this chain.</p>
+
+<h3>Hypothesis 3: Convergent Development</h3>
+
+<p>Multiple alien languages independently developed apostrophe-marked compounding because
+their phonological systems all feature morpheme boundaries at points of phonotactic transition.
+<strong>Assessment:</strong> <span class="confidence-mod">Medium</span> plausibility. Most
+likely, the truth combines Hypothesis 1 (Blizzard aesthetic) and Hypothesis 2 (in-universe
+transmission for Aqir-descended languages).</p>
+
+<h3>Comprehensive Assessment</h3>
+
+<table>
+<tr><th>Hypothesis</th><th>Plausibility</th><th>Evidence</th></tr>
+<tr><td>Blizzard design aesthetic (applies to all four)</td><td class="confidence-high">High</td><td>Standard fantasy convention; explains ethereal</td></tr>
+<tr><td>Aqir inherited from Shath'Yar; ethereal is independent</td><td class="confidence-mod">Medium&ndash;High</td><td>Old God &rarr; Aqir &rarr; nerubian/qiraji chain is plausible</td></tr>
+<tr><td>Deep Azerothian areal feature</td><td class="confidence-low">Low</td><td>Ethereals are from K'aresh, not Azeroth; areal features require proximity</td></tr>
+<tr><td>Direct contact between ethereals and Old God species</td><td class="confidence-low">Very Low</td><td>No documented contact before TWW</td></tr>
+</table>
+
+<h2 id="wordlist">Comparative Wordlist</h2>
+
+<p>Words and morphemes across all four languages, grouped by semantic domain.
+Cells marked "&mdash;" indicate the morpheme is not attested.</p>
+
+<h3>Self-Designation and Identity</h3>
+
+<table>
+<tr><th>Gloss</th><th>Shath'Yar</th><th>Nerubian</th><th>Qiraji</th><th>Ethereal</th><th>Notes</th></tr>
+<tr><td>language name</td><td><em>Shath'Yar</em></td><td><em>Nerub-</em></td><td><em>-qiraj</em></td><td><em>Ethere-</em> (?)</td><td>Each has a self-designation root</td></tr>
+<tr><td>faceless ones</td><td><em>N'raqi</em></td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>Shath'Yar only</td></tr>
+<tr><td>servants / thralls</td><td><em>K'thir</em></td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>Shath'Yar only</td></tr>
+<tr><td>insectoid ancestors</td><td><em>Aqir</em></td><td>(descended from Aqir)</td><td>(descended from Aqir)</td><td>&mdash;</td><td>Shared ancestry term</td></tr>
+</table>
+
+<h3>Place and Domain</h3>
+
+<table>
+<tr><th>Gloss</th><th>Shath'Yar</th><th>Nerubian</th><th>Qiraji</th><th>Ethereal</th><th>Notes</th></tr>
+<tr class="aqir"><td>deep / realm</td><td>&mdash;</td><td class="inferred">*Azj-*</td><td>&mdash;</td><td>&mdash;</td><td>Aqir substrate; also in naga *Nazj-*</td></tr>
+<tr class="aqir"><td>old / sacred</td><td>&mdash;</td><td class="inferred">*Ahn-*</td><td class="inferred">*Ahn-*</td><td>&mdash;</td><td>Aqir substrate; shared nerubian &amp; qiraji</td></tr>
+<tr><td>kingdom / realm</td><td>&mdash;</td><td class="inferred">*-kahet*</td><td>&mdash;</td><td>&mdash;</td><td>Nerubian only; 2 attestations</td></tr>
+<tr><td>world / home</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td class="inferred">*-esh* / *-aresh*</td><td>Ethereal only; 2&ndash;3 attestations</td></tr>
+<tr><td>self-name in toponym</td><td>&mdash;</td><td><em>-Nerub</em></td><td><em>-qiraj</em></td><td>&mdash;</td><td>Both Aqir-descended embed their name in toponyms</td></tr>
+</table>
+
+<h3>Titles and Ranks</h3>
+
+<table>
+<tr><th>Gloss</th><th>Shath'Yar</th><th>Nerubian</th><th>Qiraji</th><th>Ethereal</th><th>Notes</th></tr>
+<tr><td>lord / warrior</td><td>&mdash;</td><td class="inferred">*Anub-*</td><td class="inferred">*Anub-* (?)</td><td>&mdash;</td><td>High confidence in nerubian</td></tr>
+<tr><td>king / ruler</td><td>&mdash;</td><td class="inferred">*-arak*</td><td>&mdash;</td><td class="inferred">*-daar*</td><td>Parallel suffixes; may be coincidental</td></tr>
+<tr class="aqir"><td class="uncertain">warrior / hunter</td><td>&mdash;</td><td class="inferred">*-nax* / *-ax*</td><td class="inferred">*-naxx* / *-axx*</td><td>&mdash;</td><td>Aqir substrate; geminate simplification</td></tr>
+<tr><td>advisor / vizier</td><td>&mdash;</td><td class="inferred">*-rek* / *-urek*</td><td>&mdash;</td><td>&mdash;</td><td>Nerubian only</td></tr>
+</table>
+
+<h3>Deity and Divine</h3>
+
+<table>
+<tr><th>Gloss</th><th>Shath'Yar</th><th>Nerubian</th><th>Qiraji</th><th>Ethereal</th><th>Notes</th></tr>
+<tr><td>Old God names</td><td><em>N'Zoth</em>, <em>C'Thun</em>, <em>Yogg-Saron</em>, <em>Y'Shaarj</em></td><td>&mdash;</td><td><em>C'Thun</em> (not qiraji-language)</td><td>&mdash;</td><td>C'Thun is Shath'Yar; qiraji worship it</td></tr>
+<tr><td>divine suffix</td><td class="inferred">*-oth*</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>Shath'Yar only</td></tr>
+<tr><td>negation prefix</td><td class="inferred">*N'-*</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>Shath'Yar only</td></tr>
+</table>
+
+<h2 id="grammar">Shared Grammatical Features</h2>
+
+<p>Features confirmed across two or more of the four languages. Since no sentences are
+attested in any language, only morphological and orthographic features can be compared.</p>
+
+<h3>Confirmed Across All Four</h3>
+
+<table>
+<tr><th>Feature</th><th>Description</th><th>Shath'Yar</th><th>Nerubian</th><th>Qiraji</th><th>Ethereal</th></tr>
+<tr><td>Apostrophe-marked boundary</td><td>Apostrophe separates morphemes in compounds</td><td>Yes (N'Zoth, C'Thun, Il'gynoth)</td><td>Yes (Anub'azal, Ovi'nax, Ahn'kahet)</td><td>Yes (Ahn'qiraj, Hive'Ashi)</td><td>Yes (K'aresh, Ve'nari)</td></tr>
+<tr><td>Right-headed compounding</td><td>Head element is the second (right) element</td><td>Yes (N'+Zoth, C'+Thun)</td><td>Yes (Anub+azal, Azj+Kahet)</td><td>Yes (Ahn+qiraj)</td><td>Yes (K'+aresh, Tazav+esh)</td></tr>
+</table>
+
+<h3>Shared by Nerubian and Qiraji (Aqir Substrate)</h3>
+
+<table>
+<tr><th>Feature</th><th>Description</th><th>Evidence</th></tr>
+<tr><td>Medial apostrophe compound boundary</td><td>Apostrophe separates two content morphemes</td><td>Nerubian: *Anub'azal*; Qiraji: *Ahn'qiraj*</td></tr>
+<tr class="aqir"><td>*Ahn-* prefix</td><td>Shared Aqir morpheme meaning "old/ancient/sacred"</td><td>Nerubian: *Ahn'kahet*; Qiraji: *Ahn'qiraj*</td></tr>
+<tr><td>Self-designation in toponym</td><td>The people's name appears in their major place names</td><td>Nerubian: *Azjol-Nerub*; Qiraji: *Ahn'qiraj*</td></tr>
+<tr><td>Egyptian-inspired naming</td><td>Both use Egyptian aesthetic in proper names</td><td>Nerubian: *Anub-*, *Neferess*; Qiraji: *Ossirian*, *Anubisath*</td></tr>
+<tr><td>Geminate simplification (nerubian)</td><td>Qiraji retains Aqir geminates; nerubian simplifies</td><td>Qiraji: *-naxx*; Nerubian: *-nax*</td></tr>
+</table>
+
+<h3>Unique to Individual Languages</h3>
+
+<table>
+<tr><th>Feature</th><th>Language</th><th>Description</th></tr>
+<tr><td>Initial apostrophe (C'+root)</td><td>Shath'Yar</td><td>Apostrophe marks prefix boundary, not compound boundary. The initial single consonant is itself a morpheme.</td></tr>
+<tr><td>*-kahet* place suffix</td><td>Nerubian</td><td>Productive place-name suffix meaning "kingdom/realm"; 2 attestations spanning 16 years</td></tr>
+<tr><td>Extreme apostrophe consistency</td><td>Nerubian</td><td>Nearly all multi-morpheme names use apostrophes; more consistent than any other WoW language</td></tr>
+<tr><td>High /ks/ (x) frequency</td><td>Nerubian</td><td>6+ names with /ks/ or /x/; diagnostic of nerubian phonology</td></tr>
+<tr><td>Geminate consonants in suffixes</td><td>Qiraji</td><td>*-naxx*, *-axx* (nerubian has simplified *-nax*, *-ax*)</td></tr>
+<tr><td>Egyptian-inspired aesthetic</td><td>Qiraji (also Tol'vir)</td><td>Names like *Ossirian*, *Anubisath* evoke Egyptian phonology</td></tr>
+<tr><td>*-esh* / *-aresh* locative suffix</td><td>Ethereal</td><td>Place-name suffix meaning "world/realm"; may have full root form *resh-*</td></tr>
+<tr><td>Nexus-* title hierarchy</td><td>Ethereal</td><td>Common-language title system (Nexus-King, Nexus-Prince)</td></tr>
+<tr><td>Broker&ndash;Ethereal dialect variation</td><td>Ethereal</td><td>Shorter names in broker dialect; shared *-esh* suffix; same language with dialectal split</td></tr>
+</table>
+
+<hr>
+
+<h3>Summary of Key Findings</h3>
+
+<ol>
+<li><strong>Two distinct apostrophe patterns:</strong> Shath'Yar uses initial apostrophes
+    (prefix boundaries: C'+root), while nerubian, qiraji, and ethereal use medial apostrophes
+    (compound boundaries: stem+'stem). This structural difference suggests independent
+    development or a functional shift during the Old God &rarr; Aqir transmission.</li>
+
+<li><strong>Aqir substrate morphemes emerging:</strong> At least two morphemes (*Ahn-* =
+    "old/sacred" and *Azj-* = "deep/realm") appear to be shared Aqir heritage between
+    nerubian and qiraji/naga. A third (*-naxx*/*-nax*) is possible but very low confidence.</li>
+
+<li><strong>Potential first regular sound correspondence:</strong> If the geminate
+    simplification hypothesis is correct (Aqir *-naxx* &rarr; nerubian *-nax*), this would
+    be the first established sound correspondence between Aqir-descended languages.</li>
+
+<li><strong>Ethereal is independent:</strong> Despite sharing the apostrophe convention,
+    the ethereal language shows no confirmed morpheme sharing with the Aqir-descended
+    languages. Its apostrophe usage and soft phonological profile suggest either independent
+    development or Blizzard aesthetic choice.</li>
+
+<li><strong>Blizzard design aesthetic is a major factor:</strong> The apostrophe convention
+    is a standard fantasy trope that Blizzard applied consistently to "alien" species.
+    Any in-universe explanation must account for the fact that the convention extends to
+    the ethereal language, which has no Azeroth origin.</li>
+</ol>
+
+<hr>
+<p><em>Last updated: 2026-06-08. All morpheme decompositions and reconstructed forms are
+provisional based on the limited attested corpus. No forms should be cited as established
+fact. Full source data: <a href="shath-yar/vocabulary.md">shath-yar/vocabulary.md</a>,
+<a href="nerubian/vocabulary.md">nerubian/vocabulary.md</a>,
+<a href="qiraji/vocabulary.md">qiraji/vocabulary.md</a>,
+<a href="ethereal/vocabulary.md">ethereal/vocabulary.md</a>.</em></p>
+
+</body>
+</html>

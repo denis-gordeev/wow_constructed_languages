@@ -122,4 +122,4 @@
 - [ ] Expand ethereal vocabulary with additional TBC Netherstorm and Shadowlands Tazavesh broker names when web access is available
 - [ ] Investigate whether *Reshii* / *-esh* / *-aresh* alternation reflects regular sound change or coincidence — requires more ethereal/broker data points from future TWW content
 - [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
-- [ ] Create dedicated comparative page for "alien" WoW languages (Shath'Yar, nerubian, qiraji, ethereal) with full apostrophe-pattern and morpheme cross-reference
+- [x] Create dedicated comparative page for "alien" WoW languages (Shath'Yar, nerubian, qiraji, ethereal) with full apostrophe-pattern and morpheme cross-reference — **COMPLETED**: created alien-comparative.html with 10 sections (overview, family tree, apostrophe patterns, phonology, Aqir substrate morphemes, morpheme cross-reference, compound structures, transmission hypotheses, comparative wordlist, shared grammar); updated README.md with links
