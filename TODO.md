@@ -1,8 +1,6 @@
 # TODO
 
 ## Completed
-
-- [x] Create folder structure for each WoW constructed language
 - [x] Compile attested vocabulary for Darnassian
 - [x] Compile attested vocabulary for Thalassian
 - [x] Compile attested vocabulary for Draenei
@@ -104,6 +102,11 @@
 - [x] Update titan-forged-comparative.html: add Earthen column to cross-language comparison tables; add Arathi to toponymic strategies table; update *-dar* note; update last-updated date
 - [x] Investigate whether Undermine (goblin capital from TWW patch) adds any new Gnomish/Goblin linguistic data — **ANALYZED**: added Undermine goblin names to gnomish/vocabulary.md (Pamsy, Grimla Fizzlecrank, Nikki the Fixer, Jastor Gallywix, Monte Gazlowe, Renzik, Trade Prince Revilgaz, Trade Prince Marin Noggenfogger, Gallagio, Darkfuse Enforcement, cartel names); analyzed potential *-gaz* / *Gaz-* morpheme, *-wix* / *-ik* name suffix, and *-gio* place-name ending; all Very Low confidence due to small sample size
 - [x] Investigate ethereal/K'aresh naming from TWW patch content — **COMPLETED**: created dedicated Ethereal language folder (ethereal/) with vocabulary.md, grammar.md, description.md, and vocabulary.html; analyzed names from TWW Ghosts of K'aresh campaign (Locus-Walker, Ve'nari, Nexus-King Salhadaar, Phase-Thief Azir, Soul-Scribe) and TBC (Shaffar, Haramad, Ameer); identified potential *-esh* / *-aresh* locative suffix in *K'aresh* and *Tazavesh* (Low–Moderate confidence); proposed broker–ethereal dialect hypothesis; added 6 constructed example sentences (Et1–Et6) to example-sentences.html; updated README.md
+- [x] Investigate *Reshii* connection to *K'aresh* *-esh* / *-resh* element — **COMPLETED**: full analysis in ethereal/vocabulary.md §14 and ethereal/vocabulary.html; *Reshii* = *Resh-* + *-ii* may contain the full root form of the *-esh* locative suffix; *resh* ~ *-esh* ~ *-aresh* alternation analyzed (Low–Moderate confidence); *-esh* suffix confidence upgraded to Moderate; also updated ethereal/grammar.md
+- [x] Cross-reference ethereal language with the broader "alien" WoW naming convention (apostrophe-marked compounds across Shath'Yar, nerubian, qiraji, and ethereal) — **COMPLETED**: full analysis in ethereal/vocabulary.md §15 and ethereal/vocabulary.html; identified two distinct apostrophe patterns (Shath'Yar initial-prefix vs. medial-compound in others); proposed Old God → Aqir transmission chain; ethereal apostrophe usage most likely independent or Blizzard aesthetic; added full feature comparison table
+- [x] Investigate whether *Gallagio* casino name contains a genuine goblin/Gnomish place-name morpheme *-gio* / *-agio* — **COMPLETED**: full analysis in gnomish/vocabulary.md; four decompositions evaluated; conclusion: Italian aesthetic choice by Blizzard is most parsimonious explanation (High confidence for aesthetic; Very Low for genuine morpheme); *Galla-* may derive from *Gallywix* as personal possessive
+- [x] Investigate additional TWW patch content: Legacy of Arathor campaign names (Marran Trollbane, Veronica Nials, Stromgarde) for Common/Vrykul linguistic analysis — **COMPLETED**: analysis added to common/grammar.md and common/vocabulary.md; *Marran* has no clear Vrykul morpheme content; *Veronica* is Latin/English; *Trollbane* confirmed as hereditary Common compound surname; *Stromgarde* analysis unchanged; names added to vocabulary
+- [x] Investigate *-naxx* / *-nax* pattern across qiraji and nerubian names — **DEEPENED**: added analysis of *x* = /ks/ vs /x/ (velar fricative) ambiguity in qiraji/vocabulary.md §7 and nerubian/vocabulary.md §13; if *x* = /x/ in the *-naxx*/*-nax* suffix specifically, the geminate vs. single fricative distinction is phonologically natural and avoids /næksks/ difficulty; *-nox* / *-ox* variants analyzed as vowel alternations of same suffix with /x/; still Very Low confidence overall
 
 ## Next Actions
 
@@ -116,9 +119,7 @@
 - [ ] Research TWW Arathi naming patterns further: verify Faerin Lothar, Vaelisia Steelstrike, Aelric Leid names against wiki sources; investigate whether Arathi names show consistent Elven phonological influence
 - [ ] Research additional nerubian NPC names from TWW quests and world content (beyond raid/dungeon bosses)
 - [ ] Research individual kobyss NPC names from TWW Hallowfall content when web access is available
-- [ ] Investigate *-naxx* / *-nax* pattern across qiraji and nerubian names — **STARTED**: initial analysis in qiraji/vocabulary.md §7 and nerubian/vocabulary.md §13; qiraji retains geminates (*-naxx*) while nerubian simplifies (*-nax*); needs more data points
 - [ ] Expand ethereal vocabulary with additional TBC Netherstorm and Shadowlands Tazavesh broker names when web access is available
-- [ ] Investigate whether *Gallagio* casino name contains a genuine goblin/Gnomish place-name morpheme *-gio* / *-agio*
-- [ ] Investigate *Reshii* connection to *K'aresh* *-esh* / *-resh* element — analyze whether *Reshii* Ribbons artifact name contains the same root as the locative suffix
-- [ ] Cross-reference ethereal language with the broader "alien" WoW naming convention (apostrophe-marked compounds across Shath'Yar, nerubian, qiraji, and ethereal)
-- [ ] Investigate additional TWW patch content: Legacy of Arathor campaign names (Marran Trollbane, Veronica Nials, Stromgarde) for Common/Vrykul linguistic analysis
+- [ ] Investigate whether *Reshii* / *-esh* / *-aresh* alternation reflects regular sound change or coincidence — requires more ethereal/broker data points from future TWW content
+- [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
+- [ ] Create dedicated comparative page for "alien" WoW languages (Shath'Yar, nerubian, qiraji, ethereal) with full apostrophe-pattern and morpheme cross-reference

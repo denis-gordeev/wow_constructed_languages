@@ -275,6 +275,40 @@ Titan (Primordial)
 
 Common represents the endpoint of the simplification chain: Titan → Vrykul → Common. Each step involves loss of morphological complexity, reduction of consonant clusters, and development of more analytic syntax.
 
+## TWW Patch: Legacy of Arathor Names
+
+The *Legacy of Arathor* campaign in *The War Within* (2025–2026) introduces several named human characters associated with Stromgarde and the Arathi Highlands. These names provide additional data points for Common/Vrykul linguistic analysis.
+
+### New Personal Names
+
+| Name | IPA | Context | Linguistic Analysis |
+|------|-----|---------|-------------------|
+| Marran Trollbane | /ˈmærən/ | Stromgarde noble; member of the Trollbane dynasty | *Marran* has no clear Vrykul morpheme content. The *-an* ending parallels other Common personal names (*Varian*, *Danath*). The *Marr-* root is unexplained — it could be native Common with no Vrykul origin, or a heavily modified Vrykul element no longer recognizable. The surname *Trollbane* is a hereditary Common compound title (cf. *Danath Trollbane*), meaning "one who breaks/banes trolls." |
+| Veronica Nials | /vəˈrɒnɪkə/ | Stromgarde military leader | *Veronica* is a Latin/English name with no Vrykul morpheme content. It follows Common naming conventions for female names derived from real-world Latin (*-ica* feminine suffix). *Nials* parallels the Arathi surname pattern seen in other Stromgarde characters. |
+
+### Analysis: The *Trollbane* Dynasty
+
+The *Trollbane* surname is now confirmed as hereditary across at least two generations (*Danath Trollbane*, *Marran Trollbane*). This confirms that Common hereditary surnames exist in the Arathi/Stromgarde tradition, using the pattern [Enemy] + [Defeat] compound:
+
+| Surname | Decomposition | Pattern |
+|---------|---------------|---------|
+| *Trollbane* | Troll + bane | [Enemy] + [defeat/killer] |
+
+This is a Common-language compound with no Vrykul morpheme content. It parallels real-world English compound surnames (*Braveheart*, *Strongbow*) and reflects the martial culture of the Arathi/Stromgarde humans.
+
+### Stromgarde Revisited
+
+The city of *Stromgarde* features prominently in the Legacy of Arathor campaign. The existing analysis (Common *Strom* + Vrykul *-garde*) is unchanged. However, the campaign's focus on Stromgarde reinforces the interpretation of *-garde* as a productive Vrykul suffix that was combined with Common roots:
+
+- *Stromgarde* = *Strom* (stream/storm) + *-garde* (enclosure/keep) = "Storm Keep" or "Stream Fortress"
+- The continued use of *Stromgarde* as a dynastic seat name (rather than replacing it with a Common compound like "Stormhold" or "Stormcastle") suggests the *-garde* element was perceived as a productive suffix, not merely a fossilized borrowing
+
+### Assessment
+
+The Legacy of Arathor names do not add significant new Vrykul morpheme evidence. *Marran* and *Veronica* are Common-language names with no identifiable Vrykul elements, consistent with the expected pattern that most Common personal names are native developments rather than Vrykul retentions. The *Trollbane* surname confirms the hereditary compound-surname tradition in Arathi culture.
+
+**Confidence: Low** for any Vrykul morpheme content in *Marran*; **Very Low** for *Veronica* (clearly Latin/Common origin).
+
 ## Limitations
 
 - **Common is not a constructed language in the traditional sense.** Blizzard has not published a distinct Common grammar, vocabulary, or phonology. In-game, Common IS English.

@@ -50,6 +50,8 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Genn Greymane | /ˈɡɛn/ | King of Gilneas | Common-language name. |
 | Taelia Fordragon | /ˈteɪliə/ | BfA character | "Taelia" may contain Vrykul *Tael-* element (cf. Titan *Tael*/*Taes* in weapon names *Taeshalach*, *Taeschalach*). Possible preservation of a Titan/Vrykul root in a Common personal name. |
 | Alonsus Faol | /əˈlɒnsəs/ | Founder of the priesthood | "Alonsus" etymology unknown; Latin-influenced structure; may be Common. |
+| Marran Trollbane | /ˈmærən/ | Stromgarde noble (TWW: Legacy of Arathor) | "Marran" has no clear Vrykul morpheme content; *-an* ending parallels *Varian*, *Danath*. "Trollbane" is a hereditary Common compound surname (cf. *Danath Trollbane*). |
+| Veronica Nials | /vəˈrɒnɪkə/ | Stromgarde military leader (TWW: Legacy of Arathor) | Latin/English name with no Vrykul morpheme content; *-ica* feminine suffix. |
 
 ## Human Kingdom Names
 

@@ -124,6 +124,49 @@ Goblin names in the Undermine campaign reinforce existing patterns:
 
 5. **Gallagio *-gio* ending**: The *-gio* / *-agio* ending in *Gallagio* is unique. If it reflects a goblin/Gnomish place-name suffix (paralleling *-agon* in *Mechagon*), it would be the first attestation of a goblin place-name morpheme. **Confidence: Very Low** — single attestation; may simply be an Italian-style aesthetic choice by Blizzard.
 
+### Analysis: The *Gallagio* Name and the *-gio* / *-agio* Element
+
+The casino name *Gallagio* /ˌɡæləˈdʒiːoʊ/ belongs to Gallywix, the former Trade Prince of the Bilgewater Cartel. Several decompositions are possible:
+
+**Decomposition 1: *Gally-* + *-agio***
+- *Gally-* would be a shortened form of *Gallywix*, the Trade Prince's surname
+- *-agio* would be a goblin place-name suffix meaning "place of" or "domain of"
+- *Gallagio* = "Gallywix's Place" or "Gally's Domain"
+- Parallels: Italian *-aggio* (collective/place suffix, e.g., *villaggio* = "village," *viaggio* = "journey")
+- If *-agio* = "place/domain," this would be the first attested goblin place-name morpheme
+
+**Decomposition 2: *Galla-* + *-gio***
+- *Galla-* is a separate root (possibly related to *Gallywix* through *Galla-* + *-wix*, but the vowel quality differs)
+- *-gio* is a shorter suffix than *-agio*
+- *Gallagio* = "[Galla]-place"
+- Parallels: Italian *-gio* (diminutive or abstract suffix, e.g., *palazzo* → *palagio*)
+
+**Decomposition 3: Italian aesthetic, no goblin morpheme**
+- *Gallagio* is simply an Italian-sounding name chosen by Blizzard for the goblin casino
+- The goblin Undermine culture deliberately parallels organized crime/mafia aesthetics
+- Italian *-aggio* / *-gio* endings are associated with grandeur and sophistication, fitting a casino
+- No genuine goblin morpheme is involved — the name is purely a Common-language construction with Italian styling
+
+**Decomposition 4: *Galla-* + *-gio* as a Gnomish/Titan morpheme**
+- If *-gio* is related to *-agon* in *Mechagon* through a regular sound change, then:
+  - *-agon* → *-gio* via palatalization of /ɡ/ before /i/ and loss of final /n/
+  - This would make *-gio* a Gnomish variant of the Titan place-name suffix *-agon*
+  - *Gallagio* = "Galla-place" (paralleling *Mechagon* = "Mech-place")
+- However, the sound change /ɡɒn/ → /dʒiːoʊ/ is phonologically extreme and unsupported by other data
+
+### Assessment
+
+| Analysis | Plausibility | Evidence |
+|----------|-------------|----------|
+| *-agio* = goblin place-name suffix | **Very Low** | Single attestation; no other goblin place names end in *-agio* or *-gio* |
+| Italian aesthetic choice by Blizzard | **High** | Goblin culture parallels Italian mafia; *Gallagio* sounds Italian; Blizzard has used real-world language aesthetics for multiple WoW races |
+| *-gio* related to *-agon* (Gnomish sound change) | **Very Low** | The sound change is phonologically implausible; no supporting evidence |
+| *Galla-* = personal name + Italian ending | **Medium** | The connection to *Gallywix* is plausible but the vowel change /ɪ/ → /æ/ is unexplained |
+
+**Confidence: Very Low** for *-gio* / *-agio* as a genuine goblin/Gnomish morpheme. The Italian aesthetic explanation is the most parsimonious: goblins in WoW are designed with organized crime aesthetics, and *Gallagio* evokes Italian *palazzo* / *villaggio* naming conventions, fitting the casino setting. The name is almost certainly a Common-language construction with Italian styling, not a goblin-language toponym.
+
+The *Galla-* / *Gally-* element may genuinely derive from *Gallywix* as a personal possessive, making *Gallagio* = "Gallywix's [establishment]" in Common with Italian styling, parallel to real-world casinos named after their owners (e.g., "Wynn" in Las Vegas).
+
 ## Proper Names (Titan/Mechagnome Facilities)
 
 | Name | IPA | Description | Notes |

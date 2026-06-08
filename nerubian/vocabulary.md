@@ -447,6 +447,8 @@ A further potential connection:
 
 If the *-nax* / *-naxx* element is a shared Aqir suffix (perhaps meaning "warrior" or "hunter"), this would represent a third potential Aqir substrate morpheme. The qiraji forms consistently double the final consonant (*-naxx*, *-axx*), while the nerubian forms do not (*-nax*, *-ax*). This could reflect a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate).
 
+**Note on the phonological value of *x*:** The *-naxx* / *-nax* suffix may involve *x* = /x/ (velar fricative) rather than /ks/. If *-naxx* = /næxː/ and *-nax* = /næx/, the geminate vs. single fricative distinction is phonologically natural. The *-nox* / *-ox* variants would then be vowel alternations of the same suffix. This analysis is speculative but avoids the phonotactic difficulty of interpreting *-naxx* as /næksks/. See qiraji/vocabulary.md §7 for full discussion.
+
 **Confidence: Very Low** for the *-nax*/*-naxx* connection. The sample size is tiny, and the similarity could reflect Blizzard's consistent aesthetic for insectoid naming rather than genuine morpheme sharing.
 
 ### Assessment

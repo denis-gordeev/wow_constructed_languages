@@ -144,7 +144,35 @@ The qiraji names *Kurinnaxx* and *General Rajaxx* end in *-naxx* and *-axx* resp
 
 If the qiraji forms preserve the original Aqir geminate consonant while the nerubian forms simplified it, this would represent a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate /xx/ → /x/).
 
-**Confidence: Very Low.** The sample size is extremely small, and the similarity could reflect Blizzard's consistent aesthetic for harsh-sounding insectoid names rather than genuine morpheme sharing.
+### The *x* Ambiguity: /ks/ vs /x/
+
+A significant complication in the *-naxx* / *-nax* analysis is the phonological value of *x* in WoW naming:
+
+1. **x = /ks/** (cluster): This is the standard value assigned in the phonology sections of both qiraji and nerubian vocabulary files. Under this interpretation:
+   - *-naxx* = /næksks/ or /næksː/ — the first option is phonotactically unusual, and the second requires interpreting *xx* as a doubled /s/ rather than a doubled /ks/
+   - *-nax* = /næks/ — straightforward
+
+2. **x = /x/** (velar fricative): In some WoW naming contexts, *x* may represent a velar fricative rather than the /ks/ cluster. Under this interpretation:
+   - *-naxx* = /næxː/ — a long velar fricative, phonologically natural
+   - *-nax* = /næx/ — a short velar fricative
+   - The geminate /xː/ vs. single /x/ distinction would be phonologically significant
+
+3. **Mixed value**: *x* may represent /ks/ in some names and /x/ in others:
+   - *Ulgrax* = /ˈʊlɡræks/ (cluster) — the IPA given in the nerubian vocabulary supports /ks/ here
+   - *-naxx* = /næxː/ (fricative) — the doubled *x* may signal a different phonological value than single *x*
+   - This mixed analysis is plausible but introduces complexity
+
+If *x* = /x/ in the *-naxx* / *-nax* suffix specifically, the qiraji–nerubian correspondence becomes:
+- Aqir *\*-nax* = /næx/ (with final velar fricative)
+- Qiraji *-naxx* = /næxː/ (retained or strengthened geminate fricative)
+- Nerubian *-nax* = /næx/ (simplified geminate to single fricative)
+
+This would also explain the *-nox* / *-ox* variants as vowel alternations of the same suffix with /x/:
+- *-nax* = /næx/ (with /æ/)
+- *-nox* = /nɒx/ (with /ɒ/)
+- *-ox* = /ɒx/ (reduced form without initial nasal)
+
+**Confidence: Very Low.** The sample size is extremely small, and the similarity could reflect Blizzard's consistent aesthetic for harsh-sounding insectoid names rather than genuine morpheme sharing. The *x* = /x/ analysis for the suffix is plausible but cannot be confirmed without Blizzard phonological guidance.
 
 ## 8. The *Ashi* / *Zora* / *Regal* Place-Name Elements
 

@@ -59,14 +59,16 @@ The element *-esh* appears in two place names:
 
 | Name | Decomposition | Proposed Gloss |
 |------|---------------|----------------|
-| *K'aresh* | *K'* + *-aresh* (or *K'ar-* + *-esh*) | "[K'ar]-realm" |
+| *K'aresh* | *K'ar-* + *-esh* (or *K'* + *-aresh*) | "[K'ar]-realm" |
 | *Tazavesh* | *Tazav-* + *-esh* | "[Tazav]-realm" |
 
 If *-esh* = "world" / "realm" / "home," this would be one of the most securely attested ethereal morphemes, with two independent attestations and consistent semantics.
 
+The artifact name *Reshii* may provide the full root form: *Resh-* = "realm/world," with *-esh* being a reduced form (loss of initial /r/ after consonant-final stems) and *-aresh* being an extended form with linking vowel. See vocabulary.md §14 for full analysis.
+
 [speculative]: The *-aresh* form in *K'aresh* could be an extended variant: *-a-resh* with a linking vowel, or *-ar-esh* with an additional consonant. If the base suffix is *-esh*, then *-aresh* = *-a-* + *-esh*, with the linking vowel possibly marking a specific semantic distinction (e.g., "homeworld" vs. "city/realm").
 
-**Confidence: Low–Moderate** for *-esh* as a genuine locative suffix.
+**Confidence: Moderate** for *-esh* as a genuine locative suffix (upgraded from Low–Moderate based on *Reshii* analysis).
 
 ### The *-daar* Suffix
 
@@ -111,7 +113,18 @@ The ethereal language shows no confirmed genetic relationship to any other WoW l
 
 ### Possible Areal Features
 
-The shared apostrophe convention across ethereal, nerubian, qiraji, and Shath'Yar may reflect an areal feature of "alien" WoW naming conventions rather than genuine linguistic contact. This is a meta-linguistic observation about Blizzard's design choices rather than an in-universe linguistic analysis.
+The shared apostrophe convention across ethereal, nerubian, qiraji, and Shath'Yar may reflect an areal feature of "alien" WoW naming conventions rather than genuine linguistic contact. However, the structural differences between Shath'Yar (initial apostrophe marking prefix boundaries) and the other three (medial apostrophe marking compound boundaries) suggest independent development or different transmission chains. See vocabulary.md §15 for full cross-reference analysis.
+
+### The *Reshii* Connection
+
+The artifact name *Reshii Ribbons* contains the element *Resh-*, which may be the full root form of the *-esh* locative suffix. If *resh* = "realm/world," then:
+- *Reshii* = *Resh-* + *-ii* = "realms" or "of the realm" (full root form)
+- *-esh* in *Tazavesh* = reduced form of *resh-* with /r/ loss after consonant cluster
+- *-aresh* in *K'aresh* = *-a-* + *resh* = "realm" with linking vowel
+
+This analysis strengthens the *-esh* suffix hypothesis by providing the full root form. See vocabulary.md §14 for full analysis.
+
+**Confidence: Low–Moderate** for *Resh-* as the full root form of *-esh*.
 
 ### The Broker–Ethereal Dialect Hypothesis
 
@@ -134,5 +147,5 @@ The ethereal corpus is extremely small:
 
 No verb forms, particles, or syntactic structures are known. The only confirmed morphological patterns are:
 1. Apostrophe-marked compounding (very low confidence — only 2 examples)
-2. *-esh* / *-aresh* suffix (low–moderate confidence)
+2. *-esh* / *-aresh* suffix (moderate confidence — upgraded from Low–Moderate based on *Reshii* analysis; see §14 in vocabulary.md)
 3. Nexus-* title hierarchy (Common-language, not ethereal)

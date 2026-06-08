@@ -251,7 +251,190 @@ Ethereals and brokers are known to have writing systems. In TBC, ethereal script
 
 No ethereal or broker hieroglyphs or texts have been translated in canon.
 
-## 14. Names Requiring Verification
+## 14. Investigation: *Reshii* and the *-esh* / *-resh* Root
+
+The artifact name *Reshii Ribbons* contains the element *Resh-*, which bears a striking phonological resemblance to the *-resh* element in *K'aresh* and the *-esh* suffix in *Tazavesh*. This section analyzes whether these three forms reflect a single ethereal morpheme.
+
+### The Three Attestations
+
+| Name | Decomposition | Element of Interest |
+|------|---------------|-------------------|
+| *K'aresh* | *K'ar-* + *-esh* or *K'* + *-aresh* | *-esh* or *-aresh* |
+| *Tazavesh* | *Tazav-* + *-esh* | *-esh* |
+| *Reshii* | *Resh-* + *-ii* | *Resh-* |
+
+### The Decomposition Problem
+
+The analysis hinges on how *K'aresh* is decomposed:
+
+**Decomposition A: *K'ar-* + *-esh*** (suffix = *-esh*)
+- *K'aresh* = "[K'ar]-realm" — parallel to *Tazavesh* = "[Tazav]-realm"
+- The suffix is *-esh* = "realm/world"
+- *Reshii* would then contain *Resh-* = a root that happens to end in the same /ɛʃ/ sequence but is not obviously decomposable using *-esh*
+- Under this analysis, the similarity between *Resh-* and *-esh* is either coincidental or reflects a deeper connection not captured by the suffix analysis
+
+**Decomposition B: *K'* + *-aresh*** (suffix = *-aresh*)
+- *K'aresh* = "[K']-[aresh]" — with *-aresh* as the suffix
+- *-aresh* = *-a-* + *resh*, where *resh* = "realm/world" and *-a-* is a linking vowel
+- *Tazavesh* would then be *Tazav-* + *-esh*, where *-esh* is a reduced form of *-resh* (loss of initial /r/)
+- *Reshii* = *Resh-* + *-ii*, where *Resh-* is the root form of "realm/world"
+- Under this analysis, all three names contain the same root *resh-* with varying phonological reductions:
+  - *Resh-* (full form) → *Reshii* = "realms" or "of the realm" (*-ii* = plural/adjectival suffix)
+  - *-aresh* (with linking vowel) → *K'aresh* = "[K']-realm"
+  - *-esh* (reduced form, loss of /r/) → *Tazavesh* = "[Tazav]-realm"
+
+### Arguments for a Shared Root
+
+1. **Phonological identity**: The sequence /rɛʃ/ in *Resh-* and /ɛʃ/ in *-esh* differ only by the initial /r/. If the /r/ was lost in post-tonic position (a common sound change cross-linguistically), *resh* → *esh* is a natural reduction.
+
+2. **Semantic coherence**: All three names involve spatial/realm concepts:
+   - *K'aresh* = a world (the ethereal homeworld)
+   - *Tazavesh* = a city/capital (the broker capital)
+   - *Reshii Ribbons* = artifacts connected to the Ravel, an ancient group that survived K'aresh's destruction; if *Reshii* = "of the realm" or "realms," the name could mean "artifacts of the realm" or "realm-ribbons"
+
+3. **Morphological plausibility**: The alternation *resh* ~ *-esh* ~ *-aresh* is morphologically regular:
+   - Full form *resh-* = "realm" (standalone noun, as in *Reshii*)
+   - Suffix form *-esh* = "realm" (after consonant-final stems, with /r/ loss)
+   - Extended form *-aresh* = "realm" (with linking vowel *-a-*, after the initial consonant *K'*)
+
+4. **The *-ii* suffix**: If *Reshii* = *Resh-* + *-ii*, the *-ii* ending could be:
+   - A plural suffix: *Reshii* = "realms" (the Ribbons connect multiple realms?)
+   - An adjectival suffix: *Reshii* = "of the realm" or "realm-ly"
+   - A diminutive or affectionate suffix: *Reshii* = "little realm" or "dear realm"
+   - No other ethereal name ends in *-ii*, so this remains speculative
+
+### Arguments Against a Shared Root
+
+1. **Only three data points**: The entire analysis rests on three names, with no other confirming evidence. The phonological similarity could be coincidental.
+
+2. **Alternative etymology for *Reshii***: *Reshii* could be a personal name, a broker word unrelated to "realm," or a Common-language rendering that doesn't preserve ethereal morpheme boundaries.
+
+3. **The /r/ loss is unidirectional**: If *resh* → *esh* is a regular sound change, we would expect it to apply consistently. The fact that *Reshii* retains the /r/ while *Tazavesh* and *K'aresh* (potentially) lose it could indicate that *Reshii* preserves an older form, or that the /r/ loss is conditioned by specific phonological environments (e.g., post-tonic position after a consonant cluster).
+
+4. **The Ravel connection**: The *Reshii* Ribbons are associated with the Ravel, a secret collective. If "Ravel" is a Common-language translation of an ethereal concept, the *Resh-* element could be related to the Ravel's name rather than the locative suffix. However, "Ravel" is an English word meaning "to tangle/unravel," which is semantically appropriate for beings made of energy strands.
+
+### Assessment
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| *Resh-* = same root as *-esh* / *-aresh* (shared "realm" morpheme) | **Low–Moderate** | Phonologically and semantically coherent; the /r/ alternation is plausible but requires assuming conditioned sound change |
+| *Resh-* is coincidentally similar to *-esh* | **Low–Moderate** | Three independent attestations of /ɛʃ/ or /rɛʃ/ in an extremely small corpus could be coincidence |
+| *Resh-* is a different morpheme from *-esh* | **Medium** | Simplest analysis that doesn't require sound changes; but leaves the phonological similarity unexplained |
+
+**Confidence: Low–Moderate.** The phonological and semantic coherence of the *resh* ~ *-esh* ~ *-aresh* alternation is suggestive. If *Resh-* is the root form meaning "realm/world," then:
+- *K'aresh* = *K'* + *-a-resh* = "[K']-realm" (with linking vowel)
+- *Tazavesh* = *Tazav-* + *-esh* = "[Tazav]-realm" (reduced form with /r/ loss after consonant cluster)
+- *Reshii* = *Resh-* + *-ii* = "realms" or "of the realm" (full root form)
+
+This analysis would strengthen the *-esh* locative suffix hypothesis by providing a third attestation with the full root form preserved. However, the small corpus prevents firm conclusions.
+
+### Implications for the *-esh* Suffix Hypothesis
+
+If the *Reshii* connection is accepted (even provisionally), it affects the confidence level of the *-esh* suffix:
+
+| *-esh* Suffix Without *Reshii* | *-esh* Suffix With *Reshii* |
+|-------------------------------|----------------------------|
+| 2 place-name data points (*K'aresh*, *Tazavesh*) | 2 place-name data points + 1 artifact name with full root form |
+| Confidence: Low–Moderate | Confidence: Moderate |
+
+The addition of *Reshii* provides the full root form (*resh-*) that the suffix analysis lacked, making the morphological decomposition more secure. However, the uncertainty about *Reshii*'s own etymology prevents upgrading confidence beyond Moderate.
+
+## 15. Cross-Reference: Apostrophe-Marked Compounds Across "Alien" WoW Languages
+
+Four WoW languages share the convention of apostrophe-marked morpheme boundaries in proper names: Shath'Yar, nerubian, qiraji, and ethereal. This section analyzes whether this shared convention reflects genuine linguistic structure, Blizzard design aesthetics, or in-universe areal influence.
+
+### Apostrophe Patterns by Language
+
+| Language | Pattern | Examples | Frequency |
+|----------|---------|----------|-----------|
+| **Shath'Yar** | C'CVC (initial consonant + apostrophe) | *N'Zoth*, *C'Thun*, *N'raqi*, *K'thir* | Very high — nearly all names |
+| **Shath'Yar** | CC'CVC (initial cluster + apostrophe) | *Il'gynoth*, *Y'Shaarj* | Moderate |
+| **Nerubian** | CVC'CVC (word-internal apostrophe) | *Anub'azal*, *Arak'nai*, *Ovi'nax*, *Krix'vizk*, *Ix'zek* | Very high — nearly all multi-morpheme names |
+| **Nerubian** | V'CVCV (vowel-initial + apostrophe) | *Y'tekhi* | Rare |
+| **Qiraji** | CVC'CVC (word-internal apostrophe) | *Ahn'qiraj* | Moderate — limited corpus |
+| **Qiraji** | English + CVC (mixed-language apostrophe) | *Hive'Ashi*, *Hive'Zora* | Moderate |
+| **Ethereal** | C'CVC (initial consonant + apostrophe) | *K'aresh* | Low — only 2 examples |
+| **Ethereal** | CV'CV.CV (word-internal apostrophe) | *Ve'nari* | Low — only 2 examples |
+
+### Structural Analysis
+
+The four languages show two distinct apostrophe placement patterns:
+
+**Pattern 1: Initial apostrophe** (C' + rest) — dominant in Shath'Yar
+- *N'Zoth*, *C'Thun*, *N'raqi*, *K'thir*, *Y'Shaarj*
+- The apostrophe separates a single initial consonant from the remainder of the name
+- This suggests that the initial consonant is a morpheme (possibly a prefix or determiner)
+- Shath'Yar hypothesis: *N'* = negation/absence prefix (cf. *N'raqi* = "faceless ones")
+
+**Pattern 2: Medial apostrophe** (stem + ' + stem) — dominant in nerubian, qiraji, ethereal
+- *Anub'azal*, *Ahn'qiraj*, *Ve'nari*, *K'aresh*
+- The apostrophe separates two content morphemes
+- This is a true compound boundary, not a prefix-stem division
+
+### Are These the Same Phenomenon?
+
+The two patterns are structurally different and may have different origins:
+
+| Question | Analysis |
+|----------|----------|
+| Do all four languages use apostrophes for the same reason? | **Unlikely.** Shath'Yar uses apostrophes to mark prefix boundaries (C' + root), while nerubian/qiraji/ethereal use them to mark compound boundaries (root + root). The functional difference suggests independent development or different transmission mechanisms. |
+| Is the apostrophe convention inherited from Aqir? | **Possible for nerubian and qiraji.** Both descend from the Aqir and share medial apostrophe patterns. If Aqir used apostrophe-marked compounding, both descendant languages would inherit it. |
+| Is the apostrophe convention inherited from Old God language? | **Possible for nerubian via Aqir.** The Aqir were created by the Old Gods and may have adopted Shath'Yar orthographic conventions, transforming initial-apostrophe prefix markers into medial-apostrophe compound markers. |
+| Is the apostrophe convention a Blizzard design aesthetic? | **Likely a contributing factor.** Apostrophes are a standard fantasy convention for "alien" names. Blizzard may have applied the convention consistently across all non-titan-forged, non-elven "alien" species without implying in-universe connections. |
+
+### The Old God Transmission Hypothesis
+
+If the apostrophe convention has an in-universe origin (rather than being purely a Blizzard aesthetic), the most plausible transmission chain is:
+
+```
+Shath'Yar (Old God language)
+    ↓ (Old Gods created Aqir)
+Aqir (inherited apostrophe convention, shifted from prefix-marking to compound-marking)
+    ↓ (Aqir diverged into nerubians and qiraji)
+    ├── Nerubian (retained medial apostrophe compounding)
+    ├── Qiraji (retained medial apostrophe compounding)
+    └── [Possible substrate in Nazja via naga/Old God contact]
+         └── Nazja (apostrophe in *Naz'jar*, *Sira'kess*)
+```
+
+The ethereal language sits outside this chain:
+- Ethereals are NOT Old God creations (they are native to K'aresh, a separate world)
+- Ethereals had no documented contact with Aqir, nerubians, or qiraji before TWW
+- The Shadowguard ethereals were corrupted by the Void, but this is a recent development
+
+This creates a problem for the transmission hypothesis: if ethereals independently developed apostrophe-marked compounding, it suggests the convention is either:
+1. A Blizzard design aesthetic applied to all "alien" species
+2. A convergent development driven by similar phonological/morphological pressures
+3. Evidence of earlier, undocumented contact between ethereals and Old God-related species
+
+### Assessment
+
+| Hypothesis | Plausibility | Evidence |
+|------------|-------------|----------|
+| Blizzard design aesthetic (all four use apostrophes because they're "alien") | **High** | Apostrophe-marked names are a standard fantasy convention; the four languages have no confirmed in-universe connections beyond Old God creation of Aqir |
+| Aqir inherited from Shath'Yar; ethereal is independent | **Medium–High** | The Old God → Aqir → nerubian/qiraji chain is plausible; ethereals' separate origin makes independent development likely |
+| All four share a deep Azerothian areal feature | **Low** | Ethereals are from K'aresh, not Azeroth; areal features require geographic proximity |
+| Direct contact between ethereals and Old God species transmitted the convention | **Very Low** | No documented contact before TWW; the Shadowguard's Void corruption is recent |
+
+**Confidence: Low–Moderate** for the Aqir-inheritance chain (Shath'Yar → Aqir → nerubian/qiraji); **High** for the Blizzard design aesthetic as at least a contributing factor. The ethereal apostrophe usage is most likely either independent development or Blizzard aesthetic choice, not evidence of in-universe linguistic contact with Aqir-descended species.
+
+### Comparison Table: Full "Alien" Language Features
+
+| Feature | Shath'Yar | Nerubian | Qiraji | Ethereal |
+|---------|-----------|----------|--------|----------|
+| Apostrophe position | Initial (C'CVC) | Medial (CVC'CVC) | Medial (CVC'CVC) | Both (K'aresh, Ve'nari) |
+| Apostrophe frequency | Very high | Very high | High | Low |
+| Apostrophe function | Prefix boundary | Compound boundary | Compound boundary | Compound boundary |
+| Initial consonant clusters | Present (*N'Zoth*, *Y'Shaarj*) | Present (*Krix'vizk*, *Vrrix*) | Absent | Absent |
+| /ks/ (x) frequency | Absent | High | Moderate | Absent |
+| Sibilant density | Very high | Moderate | Moderate | High |
+| Geminate consonants | Not clearly attested | Absent | Present (*-naxx*) | Possible (*-ff-*) |
+| Syllable complexity | Complex | Complex | Moderate | Simple |
+| Old God connection | Core | Via Aqir | Via Aqir | Via Shadowguard (recent) |
+| Self-designation | *Shath'Yar* | *Nerub-* | *-qiraj* | *Ethere-* (?) |
+| Shared morphemes with others | *-i* plural (?) | *Ahn-*, *Azj-* (Aqir) | *Ahn-* (Aqir) | None confirmed |
+
+## 16. Names Requiring Verification
 
 The following ethereal/broker names from TBC and earlier content require verification against wiki sources when web access is restored:
 
