@@ -116,6 +116,7 @@
 
 ## Next Actions
 
+- [x] Create missing standard files (vocabulary.md, grammar.md, description.md, vocabulary.html) for Eredun, Pandaren, and Vulpera languages (these directories previously had only index.html) — **COMPLETED**: all 12 files created; cross-references in eredun-draenei-comparative.html, README.md, and titan-forged-comparative.html updated
 - [x] Verify vocabulary against WoW wiki sources when web access is available (especially TWW raid/dungeon boss names: Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek) — **COMPLETED**: all boss names confirmed correct via warcraft.wiki.gg; Ky'veza reclassified as ethereal (Nexus-Princess), not nerubian; full wiki verification completed
 - [x] Verify TBC ethereal names (Shaffar, Haramad, Ameer) and additional ethereal/broker NPCs against wiki sources when web access is available — **COMPLETED**: all names verified; Ameer corrected as Protectorate leader (not Ethereum); added Bilaal, Razaan, Morphalius, Nesaad, Khay'ji, Gava'xi, Mu'fah, Xevozz, Yazzai, Gezhe, Xiraxis, Kadavan; added Legion names (Nezhar), BfA names (Durzaan, Shadreen, Xan-Sallish, Zarhaal, Nari)
 - [ ] Add audio pronunciation guide links where available

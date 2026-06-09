@@ -67,7 +67,7 @@ Several languages are genetically related:
 - **Draenei** and **Eredun** are the same language with cultural divergence (see [eredun-draenei-comparative.html](eredun-draenei-comparative.html) for comparative analysis)
 - **Zandali** dialects vary across troll tribes but share core grammar
 - **Shath'Yar** has no known relationship to any mortal language; it may be the ultimate source of apostrophe-marked compounding in Aqir-descended languages (see [alien-comparative.html](alien-comparative.html))
-- **Pandaren** and **Mogu** share contact vocabulary due to millennia of domination (see [pandaren/index.html](pandaren/index.html#mogu-crossref) for cross-reference)
+- **Pandaren** and **Mogu** share contact vocabulary due to millennia of domination (see [pandaren/vocabulary.md](pandaren/vocabulary.md#cross-reference-with-mogu-language) for cross-reference)
 - **Sethrak** names show Zandali orthographic influence (apostrophe usage)
 - **Titan** is the ancestral language of **Vrykul**, **Dwarven** (via Earthen), **Gnomish** (via Mechagnomes), **Mogu**, **Tol'vir**, and **Common** (via Vrykul→Humans) — all titan-forged races descend from Titan-speaking creations
 - **Vrykul** is a direct descendant of Titan; **Common** (Human language) descends from Vrykul
