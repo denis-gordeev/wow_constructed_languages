@@ -249,15 +249,84 @@ The mixed human–elven heritage of the Arathi could produce names that combine 
 
 ## 10. Kobyss Naming (Hallowfall Creatures)
 
-The kobyss are monstrous amphibious creatures native to Hallowfall. They attack the Arathi settlements whenever Beledar shifts into its Void phase, suggesting a connection to Void energy. Despite their prominence in Hallowfall's ecology, no individual kobyss NPC names are currently documented in our sources.
+The kobyss are vicious amphibious creatures native to the Undersea of Khaz Algar, resembling large humanoid anglerfish. They attack the Arathi settlements whenever Beledar shifts into its Void phase, suggesting a connection to Void energy.
 
-### Known Information
+### Ankoan Descent (Key Lore)
 
-- Kobyss are "monstrous" creatures that inhabit the waters and caverns of Hallowfall
-- They attack in coordinated raids during Beledar's Void phase, suggesting sensitivity to or affinity with Void energy
-- They formed a joint invasion force with the Order of Night (void cultists) to attack Mereldar
-- They are amphibious, emerging from Hallowfall's waterways
-- The term "kobyss" is the Common/English designation; no kobyss-language term is known
+According to warcraft.wiki.gg, the kobyss are **descended from ankoan**, making them **distant relatives of jinyu and murlocs**. This is significant for linguistic classification:
+
+- **Ankoan** are a aquatic race introduced in Battle for Azeroth (Nazjatar)
+- **Jinyu** are a Pandarian aquatic race with some attested language data
+- **Murlocs** have a well-known vocalization pattern (Mrglglgl)
+
+If kobyss descend from ankoan, their native language (if any) would belong to the **ankoan/jinyu/murloc language family**, entirely separate from both the titan-forged family and the Aqir-descended family. However, no kobyss-language words or phrases are attested.
+
+### Documented Kobyss NPC Names (TWW: Hallowfall)
+
+All documented kobyss NPC names are **Common/English descriptors** — there are no attested kobyss-language proper names. The names follow a consistent pattern of [English adjective/compound] + [English role descriptor]:
+
+#### Kobyss Tribal Designations (Common/English)
+
+| Tribe/Clan Name | Notes |
+|----------------|-------|
+| Murkfin | Murk + fin (anglerfish anatomy); inhabits Velhan's Claim islands |
+| Ragefin | Rage + fin; attacks Veneration Grounds |
+| Hungering | Descriptive; inhabits The Hungering Pool |
+| Fathomless | Descriptive; inhabits The Fangs |
+| Bleak | Descriptive; inhabits Bleak Sand islands |
+
+#### Kobyss NPC Types (Common/English Descriptors)
+
+| Name | Notes |
+|------|-------|
+| Bristlespine | Descriptive compound; Velhan's Claim |
+| Droopfin | Descriptive compound (droop + fin); Velhan's Claim |
+| Sharpfang | Descriptive compound; Velhan's Claim |
+| Grimslice | Descriptive compound; Veneration Grounds |
+| Kobyss Fighter | Generic NPC type |
+| Kobyss Trickster | Generic NPC type |
+| Kobyss Carver | Generic NPC type |
+| Kobyss Shadeshaper | Disguised as Arathi Captive; shapeshifter |
+| Murkfin Depthstalker | Murkfin tribe variant |
+| Murkfin Ravager | Murkfin tribe variant |
+| Murkfin Sciomancer | Murkfin tribe spellcaster |
+| Ragefin Carver | Ragefin tribe variant |
+| Ragefin Executioner | Ragefin tribe variant |
+| Ragefin Necromancer | Ragefin tribe spellcaster |
+| Ragefin Shadowcaster | Ragefin tribe spellcaster |
+| Hungering Necromage | Hungering tribe spellcaster |
+| Hungering Shimmerfin | Hungering tribe variant |
+| Hungering Slicer | Hungering tribe variant |
+| Fathomless Ambusher | Fathomless tribe variant |
+| Fathomless Necromancer | Fathomless tribe spellcaster |
+| Fathomless Warrior | Fathomless tribe variant |
+| Fathomless Scout | Fathomless tribe variant |
+| Darkwater Tidecrusher | Named kobyss; Veneration Grounds |
+| Bleak Beak-Carver | Bleak tribe variant |
+| Bleak Beastbreaker | Bleak tribe variant |
+| Bleak Claw-Eater | Bleak tribe variant |
+| Bleak Flesh-Taker | Bleak tribe variant |
+| Bleak Seatamer | Bleak tribe variant |
+
+#### Named Kobyss (Proper Names?)
+
+| Name | Notes |
+|------|-------|
+| Fallowbarb | Possibly a proper name; Shadowmire cavern |
+| Sloshmuck | Possibly a proper name; Shadowmire cavern |
+
+### Hallowfall Places in Kobyss Territory
+
+All place names in kobyss-occupied areas are Common/English designations given by the Arathi, not kobyss toponyms:
+
+| Place Name | Notes |
+|-----------|-------|
+| Velhan's Claim | Arathi personal name (*Velhan*) + Common possessive |
+| The Hungering Pool | Descriptive Common name |
+| Bleak Sand | Descriptive Common name |
+| The Fangs | Descriptive Common name |
+| Sunless Strand | Descriptive Common name |
+| The Undersea | Descriptive Common name for the underground sea |
 
 ### Etymological Speculation
 
@@ -265,16 +334,17 @@ The name "kobyss" may reflect:
 
 1. **Real-world "abyss"**: *kobyss* ≈ "co-abyss" or "of the abyss" — a name given by the Arathi based on the creatures' emergence from deep waters. If *kob-* = "of" and *-yss* = "abyss" (a Common morphological parallel), then *kobyss* = "abyss-dweller."
 
-2. **Nerubian origin**: Given the nerubians' extensive underground network in Azj-Kahet (adjacent to Hallowfall), the kobyss could be named from a nerubian word. The *-yss* ending does not match known nerubian suffix patterns (*-nax*, *-rek*, *-kahet*), making this less likely.
+2. **Ankoan-language origin**: If kobyss descend from ankoan, the name "kobyss" could be an ankoan word adopted into Arathi/Common. No ankoan-language data is available to test this hypothesis.
 
-3. **Independent designation**: "Kobyss" may simply be an Arathi word for the creatures, unrelated to any known language family.
+3. **Independent Arathi designation**: "Kobyss" may simply be an Arathi word for the creatures, unrelated to any known language family.
 
 ### Assessment
 
-Without individual kobyss NPC names or any kobyss-language data, no morphological analysis is possible. The creatures are linguistically significant only as potential evidence for:
+No kobyss-language proper names, phrases, or words are attested. All documented kobyss NPC names are Common/English descriptors. The kobyss likely have a native language related to ankoan/jinyu/murloc, but no data from this language family has been recorded in Hallowfall content.
 
-- Areal Void-influenced naming in Hallowfall
-- Contact between kobyss and nerubian/Arathi naming systems
-- Future TWW content patches that may introduce named kobyss NPCs
+The ankoan descent is the most significant finding: it places kobyss in the **jinyu/murloc language family** rather than the titan-forged or Aqir-descended families. This has implications for:
+- The Undersea ecosystem of Khaz Algar (ankoan-descended creatures coexisting with nerubians)
+- Potential future TWW content that may introduce kobyss-language dialogue or naming
+- The linguistic landscape of Hallowfall (Common/Arathi names overlay ankoan-descended territory)
 
-**Confidence: Very Low.** No kobyss proper names or language data are available. The entry exists to document the gap and flag for future research when web access to TWW NPC databases becomes available.
+**Confidence: Very Low** for kobyss-language analysis (no data); **Moderate** for ankoan descent classification (wiki-confirmed lore).

@@ -157,7 +157,9 @@
 
 ## 3. Drust Stele Inscriptions
 
-These are in-game readable objects that contain narrative descriptions of Drust history. The texts are in Common (the game's narrative language), not in the Drust language itself, but they provide cultural context.
+These are in-game readable objects that contain narrative descriptions of Drust history. The texts are in Common (the game's narrative language), not in the Drust language itself, but they provide cultural context. There are **10 Drust Steles** in total, documented by the achievement "Drust the Facts, Ma'am" (find and read all Drust Steles in Drustvar).
+
+**Important**: These inscriptions are **pictographic descriptions** — they describe images carved on stone monuments in narrative Common. They contain **no Drust-language words or phrases**. They are linguistically significant only as cultural context for Drust history and as evidence that the Drust used stone carvings (not written text) as their primary record-keeping method.
 
 ### Drust Stele: Conflict
 > \<This stone shows multiple conflicts or one great battle with many scenes. In the oldest they fight beings that look like themselves or great beasts. In others they fight much smaller beings that resemble gnomes in stature. In another the Drust are driving some Naga back into the seas. Where the carving is most recent the Drust are fighting men and women bearing anchor sigils.\>
@@ -174,13 +176,50 @@ These are in-game readable objects that contain narrative descriptions of Drust 
 
 **Location**: Drustvar (Gol Osigr area)
 
+### Drust Stele: Constructs
+> \<There are many scenes on this stone but three are clear. The Drust are building large, person-shaped constructs in one image. In a second, a person is killed over the chest of one construct. In a third the stone creature walks into battle, taller than even the Drust.\>
+
+**Location**: Drustvar
+
 ### Drust Stele: The Ritual
 **Location**: Drustvar (Iceveil Glacier area)
-*(Full inscription text not yet recovered from wiki sources — web access to warcraft.wiki.gg and wowhead.com currently unavailable due to TLS connectivity issues. Retry when access is restored.)*
+*(Full inscription text not yet recovered from wiki sources — web access to warcraft.wiki.gg and wowhead.com currently unavailable. Retry when access is restored.)*
+
+### Drust Stele: The Three
+**Location**: Drustvar
+*(Full inscription text not yet recovered from wiki sources.)*
+
+### Drust Stele: Breath Into Stone
+**Location**: Drustvar
+*(Full inscription text not yet recovered from wiki sources.)*
+
+### Drust Stele: Sacrifice
+**Location**: Drustvar
+*(Full inscription text not yet recovered from wiki sources.)*
+
+### Drust Stele: The Cycle
+**Location**: Drustvar
+*(Full inscription text not yet recovered from wiki sources.)*
+
+### Drust Stele: The Flayed Man
+**Location**: Drustvar
+*(Full inscription text not yet recovered from wiki sources.)*
 
 ### Drust Stele: Protectors of the Forest
 **Location**: Drustvar (Ulfar's Den area)
 *(Full inscription text not yet recovered from wiki sources — web access to warcraft.wiki.gg and wowhead.com currently unavailable due to TLS connectivity issues. Retry when access is restored.)*
+
+### Summary: Drust Stele Inscriptions and Language
+
+The 10 Drust Steles collectively document Drust history through pictographic narrative rather than written language. This has important implications:
+
+1. **The Drust may not have had a written language** — or at least not one used on these monuments. The steles use images rather than text to convey meaning, suggesting an oral or pictographic tradition.
+
+2. **The absence of Drust-language text on the steles** is consistent with the overall extremely low attestation of the Drust language. No Drust-language words or phrases appear on any of the 10 steles.
+
+3. **The stele titles are Common-language designations** ("Conflict," "The Tree," "Constructs," etc.) given by researchers or the game interface, not Drust-language titles.
+
+4. **The steles provide cultural context** for Drust society (conflict, tree worship, construct creation, ritual practices, sacrifice, cyclical beliefs, protector traditions), but no linguistic data.
 
 ## 4. Drust Magic and Ritual Terminology
 

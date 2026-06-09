@@ -10,11 +10,11 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
-| Locus-Walker | /ˈloʊkəs ˈwɔːkər/ | Ethereal; Alleria's mentor in Void magic | English compound title. "Locus-Walker" is almost certainly a Common-language translation of an ethereal title, not an ethereal-language name. |
+| Locus-Walker | /ˈloʊkəs ˈwɔːkər/ | Ethereal; Alleria's mentor in Void magic | English compound title. "Locus-Walker" is almost certainly a Common-language translation of an ethereal title, not an ethereal-language name. Member of the Ravel; helped destroy K'aresh to prevent Dimensius from devouring the Worldsoul. Killed by Xal'atath during the Ghosts of K'aresh campaign. |
 | Ve'nari | /vɛˈnɑːri/ | Broker; leader of the K'aresh Trust | Apostrophe-marked compound: *Ve'* + *-nari*. Previously appeared in Shadowlands (9.0) as a broker in the Maw. |
 | Nexus-King Salhadaar | /ˌnɛksəsˈkɪŋ sɑːləˈdɑːr/ | Leader of the Shadowguard; former ruler of K'aresh | "Nexus-King" is a Common-language title. *Salhadaar* is an ethereal name: possibly *Sala-* + *-daar*. The *-daar* suffix may be an ethereal title or rank element. First attested in TBC (Netherstorm). Killed in TBC; resurrected by Dimensius in the Void for TWW. |
 | Nexus-Prince Azir | /ˈæzɪr/ | Nexus-Prince; Shadowguard leader | Previously known as "Phase-Thief Azir." The wiki confirms his title is Nexus-Prince. *Azir* is an ethereal name; may contain the *Az-* element also found in nerubian *Azj-*, but this is likely coincidental. |
-| Soul-Scribe | /ˈsoʊlskraɪb/ | Wastelander ethereal leader | English compound title. May translate an ethereal title. Gave her life to heal K'aresh's Worldsoul. |
+| Soul-Scribe | /ˈsoʊlskraɪb/ | Wastelander ethereal leader | English compound title. May translate an ethereal title. Sacrificed herself to heal K'aresh's Worldsoul during the Ghosts of K'aresh campaign. |
 | Nexus-Princess Ky'veza | /kaɪˈvɛzə/ | Raid boss (Nerub-ar Palace); ethereal infiltrator | Apostrophe-marked compound: *Ky-* + *-veza*. Confidant of Queen Ansurek, but working for an unknown master. Also ruled the city of *Ma'nussa* on K'aresh. Previously listed as a nerubian raid boss; reclassified here as ethereal. |
 | Abductor Arzda | /ˈɑːrzdə/ | Ethereal; led Ansurek's kidnapping operations | *Arzda* is a possible ethereal personal name. TWW era. |
 | Zovex | /ˈzoʊvɛks/ | Ethereal prisoner (Violet Hold escapee) | Short name, no apostrophe. TWW era. |
@@ -174,13 +174,14 @@ Ethereals and brokers are closely related species from K'aresh. The brokers may 
 | The Shadowguard | Faction | TWW faction; void-corrupted ethereals serving the Old Gods/Void. Common-language name. |
 | The Wastelanders | Faction | TWW faction; ethereals who worship K'aresh's Worldsoul. Common-language name. Led by Soul-Scribe. |
 | K'aresh Trust | Coalition | TWW faction; coalition of ethereals and brokers. Founded by Ve'nari. Partially Common-language. |
-| The Ravel | Secret collective | TWW faction; ancient group that used Reshii Ribbons to survive K'aresh's destruction. Common-language name. |
+| The Ravel | Secret collective | TWW faction; ancient group that used Reshii Ribbons to survive K'aresh's destruction. Common-language name. Members included Locus-Walker and Xal'atath. The Ravel willingly destroyed K'aresh using the combined power of the Reshii Ribbons in an attempt to kill Dimensius. |
 | The Zaxxis | Rogue faction | TBC faction; broke from the Consortium. Led by Warp-Raider Nesaad. |
 | The Razaani | Faction | TBC faction; ethereal group in Blade's Edge Mountains. Led by Nexus-Prince Razaan. |
 | The Vir'aani | Faction | TBC faction; band led by Gava'xi. Apostrophe-marked: *Vir'* + *-aani*. |
 | The Bash'ir | Faction | TBC faction; Ethereum subgroup in Blade's Edge Mountains. Apostrophe-marked: *Bash'* + *-ir*. |
 | The Netherguard | Faction | BfA faction; void ethereal group led by Nether-Prince Durzaan. |
 | Cartel Om | Broker cartel | TWW faction; taken over by Ve'nari. Short name; broker organization. |
+| Devouring Host | Void army | TWW faction (The Warning patch); vast army of void creatures formed by Xal'atath using the Dark Heart. Not ethereal-language; Common-language name. Notable for being the first named void army with organizational structure, suggesting Xal'atath commands a structured military force rather than mindless void creatures. |
 
 ### The *Ethere-* Self-Designation
 
@@ -199,7 +200,9 @@ This parallels how *Nerub-* appears in *Nerubian* and *Azjol-Nerub* as a self-de
 | Reshii Ribbons | /ˈrɛʃi/ | Powerful artifacts used by the Ravel | *Reshii* may be an ethereal/broker word. The *-esh-* element appears here too (*Re-shii* or *Resh-ii*), possibly related to *K'aresh* / *Tazavesh*. |
 | Dimensius | /dɪˈmɛnsiəs/ | Void Lord who destroyed K'aresh | Latin-style name; not ethereal-language. A Common-language rendering of a Void entity name. |
 | Black Blood | — | Corruptive substance from deceased Old Gods | Common-language designation. |
-| Worldsoul | — | The living essence of K'aresh (and Azeroth) | Common-language concept. |
+| Worldsoul | — | The living essence of K'aresh (and Azeroth) | Common-language concept. K'aresh's Worldsoul was strengthened by Soul-Scribe's sacrifice. |
+| Dark Heart | — | Powerful artifact; absorbs arcane and void energy | Common-language name. Xal'atath used it to absorb Dalaran's arcane energy, then later to create the Voidstorm. Contained Khadgar temporarily. Now contains Xal'atath after she absorbed Dimensius's essence. |
+| Voidstorm | — | Massive void phenomenon created by Xal'atath | Common-language compound. Created using the Dark Heart's energy. First attested in The Warning (TWW patch). |
 
 ### The *Reshii* Element
 

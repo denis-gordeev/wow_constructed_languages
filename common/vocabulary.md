@@ -32,6 +32,51 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Durnholde | /ˈdɜːrnhoʊld/ | Possibly Dwarven/Common | Keep in Hillsbrad. "Durn" may be related to Dwarven *Dun* (fortress/hill); "holde" = hold/keep. |
 | Strom | /strɒm/ | Possibly Vrykul | Original capital of the Arathi Empire; now called Stromgarde. "Strom" may be a Vrykul word for "stream" or "current" (cf. Old Norse *straumr*). |
 
+## Proper Names (Places — Hallowfall, TWW)
+
+Hallowfall is a vast underground cavern in Khaz Algar, settled by the Arathi expedition 15 years before TWW. Most place names are Common/English designations. Place names ending in *-dar* (Beledar, Mereldar) are discussed in the Earthen vocabulary file as potential Earthen/Titan-derived toponyms.
+
+### Hallowfall Settlements (Arathi/Common Names)
+
+| Name | IPA | Notes |
+|------|-----|-------|
+| Mereldar | /mɛˈrɛldɑːr/ | Arathi city in Hallowfall; *-dar* suffix may be Earthen substrate (see earthen/vocabulary.md §8) |
+| Light's Redoubt | — | Common compound |
+| Dunelle's Kindness | — | Arathi personal name (*Dunelle*) + Common possessive + Common noun |
+| Sina's Yearning | — | Arathi personal name (*Sina*) + Common possessive + Common noun |
+| Tanir's Ascent | — | Arathi personal name (*Tanir*) + Common possessive + Common noun |
+| Tenir's Ascent | — | Arathi personal name (*Tenvir*) + Common possessive + Common noun |
+| The Orphanage | — | Common name; located in Mereldar |
+| Priory of the Sacred Flame | — | Common compound; Arathi religious site |
+
+### Hallowfall Geographic Features
+
+| Name | Notes |
+|------|-------|
+| Beledar | The immense crystal in Hallowfall's ceiling; *-dar* suffix (see earthen/vocabulary.md §8) |
+| Aegis Wall | Common compound; border wall against nerubians |
+| Sanguine Grasps | Common compound; vine-covered area |
+| The Stagnant Mire | Common compound |
+| Shadowmire | Common compound; cavern east of Dunelle's Kindness |
+| Whispering Pool | Common compound |
+| Growling Hollow | Common compound |
+| Veneration Grounds | Common compound |
+| Velhan's Claim | Arathi personal name (*Velhan*) + Common possessive |
+| The Hungering Pool | Descriptive Common name; kobyss territory |
+| Bleak Sand | Descriptive Common name; kobyss territory on northeastern island |
+| The Fangs | Descriptive Common name; kobyss territory |
+| Sunless Strand | Descriptive Common name; kobyss territory |
+| The Undersea | Descriptive Common name; underground sea beneath Hallowfall |
+
+### Arathi Personal Name Patterns
+
+The Hallowfall Arathi use a naming convention of [Personal Name] + [Common possessive 's] + [Common noun], visible in:
+- *Dunelle*'s Kindness, *Sina*'s Yearning, *Tanir*'s Ascent, *Tenvir*'s Ascent, *Velhan*'s Claim
+
+This is a **Common-language construction** using the English genitive clitic *-'s*, not an Arathi-language pattern. The personal names (*Dunelle*, *Sina*, *Tanir*, *Tenvir*, *Velhan*) may be Arathi given names, but they follow Common phonological patterns (CVCV or CVC structures).
+
+Several Arathi personal names end in *-el* or *-elle*: *Dunelle*, *Sina*, *Velhan*, *Tanir*, *Tenvir*. The *-el* / *-elle* ending could reflect Elven influence (cf. Thalassian names ending in *-el* or *-il*), consistent with the Arathi's mixed human–high-elf heritage. However, the sample is too small to establish a pattern.
+
 ## Proper Names (Historical Human Figures — Potential Vrykul-Name Patterns)
 
 | Name | IPA | Context | Notes |
@@ -51,7 +96,21 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Taelia Fordragon | /ˈteɪliə/ | BfA character | "Taelia" may contain Vrykul *Tael-* element (cf. Titan *Tael*/*Taes* in weapon names *Taeshalach*, *Taeschalach*). Possible preservation of a Titan/Vrykul root in a Common personal name. |
 | Alonsus Faol | /əˈlɒnsəs/ | Founder of the priesthood | "Alonsus" etymology unknown; Latin-influenced structure; may be Common. |
 | Marran Trollbane | /ˈmærən/ | Stromgarde noble (TWW: Legacy of Arathor) | "Marran" has no clear Vrykul morpheme content; *-an* ending parallels *Varian*, *Danath*. "Trollbane" is a hereditary Common compound surname (cf. *Danath Trollbane*). |
-| Veronica Nials | /vəˈrɒnɪkə/ | Stromgarde military leader (TWW: Legacy of Arathor) | Latin/English name with no Vrykul morpheme content; *-ica* feminine suffix. |
+| Veronica Nials | /vəˈrɒnɪkə/ | Stromgarde military leader (TWW: Legacy of Arathor) | Latin/English name with no Vrykul morpheme content; *-ica* feminine suffix. Revealed as traitor working for Marran. |
+| Danath Trollbane | /ˈdænəθ/ | Lord of Stromgarde (TWW: Legacy of Arathor) | Confirmed as current ruler of Stromgarde in TWW. |
+
+### Arathi Personal Names (Hallowfall, TWW)
+
+The Arathi of Hallowfall are a mixed human–high-elf population descended from an expedition sent by the Arathi Empire. Their names reflect Common (Vrykul-descended) and possibly Elven phonological features.
+
+| Name | IPA | Context | Notes |
+|------|-----|---------|-------|
+| Faerin Lothar | /ˈfɛərɪn/ | Arathi Lamplighter; protects Arathi from kobyss | "Lothar" is the Arathi dynasty name (cf. Anduin Lothar). "Faerin" may be Elven-influenced (cf. Thalassian *-in* names). |
+| Vaelisia Steelstrike | /vɛˈliːsiə/ | General of the Arathi military | Given name has Elven phonological features (/ɛɪ/, /siə/); surname is Common compound. |
+| Aelric Leid | /ˈɛlrɪk/ | Leader of the Order of Night (void cultist) | "Aelric" resembles Old English Ælfric; "Leid" may be from German "Leid" (suffering). |
+| Venrie Flitter | /ˈvɛnri/ | Arathi skiff operator (Dunelle's Kindness) | "Venrie" may be Arathi; "Flitter" is a Common descriptive surname. |
+| Alyza Bowblaze | /əˈlaɪzə/ | Arathi orphan quest NPC | "Alyza" is a Common name; "Bowblaze" is a Common compound surname. |
+| Kyrie | /ˈkɪriːeɪ/ | Arathi pet trainer (Lightspark) | Greek-derived name (κύριε = "lord"); Common-language. |
 
 ## Human Kingdom Names
 
