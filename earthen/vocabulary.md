@@ -247,33 +247,187 @@ The mixed human–elven heritage of the Arathi could produce names that combine 
 
 **Confidence: Very Low.** The Arathi naming data is interesting but insufficient for morphological analysis. The primary significance is the *-dar* suffix in place names, which connects to the Earthen/Titan *-dor* morpheme.
 
-## 10. Kobyss Naming (Hallowfall Creatures)
+## 10. Kobyss and the Murloc/Jinyu/Ankoan Language Family
 
-The kobyss are vicious amphibious creatures native to the Undersea of Khaz Algar, resembling large humanoid anglerfish. They attack the Arathi settlements whenever Beledar shifts into its Void phase, suggesting a connection to Void energy.
+The kobyss are vicious amphibious creatures native to the Undersea of Khaz Algar, resembling large humanoid anglerfish. They attack the Arathi settlements whenever Beledar shifts into its Void phase, suggesting a connection to Void energy. This section has been expanded with wiki-verified data on the full murloc → jinyu → ankoan → kobyss evolutionary chain.
 
-### Ankoan Descent (Key Lore)
+### 10.1 The Murloc/Jinyu/Ankoan/Kobyss Family Tree
 
-According to warcraft.wiki.gg, the kobyss are **descended from ankoan**, making them **distant relatives of jinyu and murlocs**. This is significant for linguistic classification:
+According to warcraft.wiki.gg, the evolutionary relationship is:
 
-- **Ankoan** are a aquatic race introduced in Battle for Azeroth (Nazjatar)
-- **Jinyu** are a Pandarian aquatic race with some attested language data
-- **Murlocs** have a well-known vocalization pattern (Mrglglgl)
+```
+Gorloc (speculated ancestor)
+  └── Murloc (ancient aquatic race; speak Nerglish)
+        └── Jinyu (murlocs evolved by Vale of Eternal Blossoms magic; Pandaria)
+              └── Ankoan (jinyu who left Pandaria for the deep ocean; Nazjatar)
+                    └── Kobyss (vicious ankoan tribe; Undersea of Khaz Algar)
+```
 
-If kobyss descend from ankoan, their native language (if any) would belong to the **ankoan/jinyu/murloc language family**, entirely separate from both the titan-forged family and the Aqir-descended family. However, no kobyss-language words or phrases are attested.
+This places kobyss in a language family **entirely separate** from both the titan-forged family and the Aqir-descended family. Key linguistic implications:
+- Kobyss native language (if any) belongs to the **Nerglish language family**
+- The family spans at least three evolutionary stages of increasing linguistic complexity
+- Kobyss may represent linguistic regression (see §10.5)
 
-### Documented Kobyss NPC Names (TWW: Hallowfall)
+### 10.2 Murloc Naming Data (Nerglish)
 
-All documented kobyss NPC names are **Common/English descriptors** — there are no attested kobyss-language proper names. The names follow a consistent pattern of [English adjective/compound] + [English role descriptor]:
+Murlocs speak **Nerglish**, a language shared with makrura. Key data:
 
-#### Kobyss Tribal Designations (Common/English)
+| Feature | Data | Notes |
+|---------|------|-------|
+| Self-designation | *gmmmlmrmrgmg* or *Mmmurlok* | Attested murloc-language words for "murloc" |
+| Iconic vocalization | *Aaaaaughibbrgubugbugrguburgle!* | Battle cry; Blizzard's official spelling |
+| Song titles | "Fish in the Stream", "My Favorite Pearl" | Attested murloc songs (translated to Common) |
+| Winterfin dialect | Different enough from standard Nerglish to be mutually unintelligible | Dialectal variation within Nerglish confirmed |
 
-| Tribe/Clan Name | Notes |
-|----------------|-------|
-| Murkfin | Murk + fin (anglerfish anatomy); inhabits Velhan's Claim islands |
-| Ragefin | Rage + fin; attacks Veneration Grounds |
-| Hungering | Descriptive; inhabits The Hungering Pool |
-| Fathomless | Descriptive; inhabits The Fangs |
-| Bleak | Descriptive; inhabits Bleak Sand islands |
+Murloc proper names are overwhelmingly **gurgling compounds** built from *mrgl-*, *glrgl-*, *mrg-* sequences:
+
+| Name | Pattern | Notes |
+|------|---------|-------|
+| Brglmurgl | *Brgl-* + *-murgl* | Winterfin murloc |
+| Cleaver Bmurglbrm | *Bmurglbrm* | Winterfin cook |
+| Glrglrglr | *Glrgl-* + *-rglr* | Winterfin captive |
+| Gmurgl | *Gm-* + *-urgl* | Saltscale murloc |
+| Keymaster Urmgrgl | *Urmgrgl* | Winterfin jailor |
+| Lurgglbr | *Lurggl-* + *-br* | Winterfin captive |
+| Mmmrrrggglll | *Mmmrrrggg-* + *-lll* | Grimscale chieftain |
+| Mrmrglmr | *Mr-* + *-mrgl-* + *-mr* | Winterfin murloc |
+| Murgurgula | *Mur-* + *-gurg-* + *-ula* | Siltfin murloc |
+
+**Nerglish phonotactic pattern**: Names are built from a restricted consonant inventory (/m/, /g/, /r/, /l/, /b/, /k/) with heavy use of syllabic consonants and reduplication. No complex consonant clusters from non-guttural consonants appear.
+
+### 10.3 Jinyu Naming Data (Post-Evolution)
+
+Jinyu evolved from murlocs exposed to the Vale of Eternal Blossoms' magic, which "expanded their minds and grew their bodies." Their naming shows a **dramatic shift** from Nerglish gurgling patterns:
+
+| Name | Pattern | Notes |
+|------|---------|-------|
+| Aethis | Simple CV(C)CV | Pandarian champion |
+| Clever Ashyo | *Ashyo* — CVCCV | Tian Monastery monk |
+| Cournith Waterstrider | *Cournith* — CVCVC | Pandarian champion |
+| Eshelon | CVCVCV | Pandarian champion |
+| Pearlkeeper Fujin | *Fujin* — CVCV | Pearlfin pearlkeeper |
+| Waterspeaker Gorai | *Gorai* — CV.CV | Inkgill waterspeaker |
+| Husshun | CVC.CVC | Tian Monastery trainee |
+| Dextrous Izissha | *Izissha* — CV.CVC.CV | Crane Wing monk |
+| Jogu the Drunk | *Jogu* — CVCV | Tiller member |
+| Bold Karasshi | *Karasshi* — CV.CVC.CV | Pearlfin warrior |
+| Kuru the Light-Hearted | *Kuru* — CVCV | Shrine caretaker |
+| Little Lu | *Lu* — CV | SI:7 guide |
+| Elder Lusshan | *Lusshan* — CVC.CVC | Pearlfin leader |
+| Wise Mari | *Mari* — CVCV | Temple of Jade Serpent boss |
+| Nalash Verdantis | *Nalash* — CV.CVC | Pandarian champion |
+| Traveler Nali | *Nali* — CV.CV | BfA trader |
+| Orachi | CV.CV.CV | Inkgill guard captain |
+| Ot-Temmdo | *Ot-Temmdo* — CVC.CVCCV | Pearlfin watersmith |
+| Elder Fisherman Rassan | *Rassan* — CVC.CVC | Anglers elder |
+| Rassharom | *Rassharom* — CVC.CV.CVC | Ancient jinyu Emperor of Pandaria |
+| Scrollmaker Resshi | *Resshi* — CVC.CV | Lorewalkers representative |
+| Sahn Tidehunter | *Sahn* — CVC | Pandarian champion |
+| Satay Byu | *Byu* — CV | Arena combatant |
+| Sele'na | *Sele'na* — CV.CV'.CV | Contains apostrophe (unique among jinyu) |
+| Shai Hu | *Shai* + *Hu* | Inkgill corrupter |
+| Tired Shushen | *Shushen* — CVC.CVC | Fallsong waterspeaker |
+| Instructor Sharpfin | *Sharpfin* — English compound | Pearlfin warrior instructor |
+| Zai the Outcast | *Zai* — CV | Inkgill pandarian champion |
+| Seeker Zusshi | *Zusshi* — CVC.CV | Pet tamer |
+| Waterspeaker Ryuli | *Ryuli* — CCV.CV | Legion-era waterspeaker |
+
+**Key jinyu phonological features** (compared to murloc Nerglish):
+1. **Full vowel inventory**: /a/, /e/, /i/, /o/, /u/ all appear freely (vs. Nerglish's vowel-poor gurgling)
+2. **Dorsal consonants**: /ʃ/ (Shushen, Shai), /tʃ/ (no clear example but implied by orthographic patterns)
+3. **Syllable structure**: Full CV and CVC syllables (vs. Nerglish's syllabic consonants)
+4. **Compound names**: Some jinyu use English compounds (Sharpfin, Waterstrider), but proper names are non-English
+5. **Apostrophe usage**: Sele'na uses an apostrophe — unique among jinyu names but parallels Zandali and other WoW naming conventions
+
+**Attested jinyu word with translation**: *Onoho* = "Deep Shadow" — the only known jinyu word with a confirmed Common translation, from the Razorfin tribe elder who had a vision of a great beast.
+
+#### Jinyu Place Names
+
+| Place | Notes |
+|-------|-------|
+| Pearlfin Village | English compound (tribe name + "village") |
+| Inkgill Mere | English compound |
+| Fallsong Village | English compound |
+| Mezzamere | Possibly non-English; *Mezza-* + *-mere* (cf. English "mere" = lake) |
+
+#### Jinyu Titles (Non-English)
+
+| Title | Notes |
+|-------|-------|
+| Waterspeaker | English compound; jinyu spiritual leader |
+| Pearlkeeper | English compound; pearl guardian |
+| Deep Oracle | English compound (Razorfin tribe) |
+
+### 10.4 Ankoan Naming Data
+
+Ankoan are jinyu who left Pandaria for the deep ocean. Their names show continuity with jinyu naming but with some divergence:
+
+| Name | Pattern | Notes |
+|------|---------|-------|
+| Blademaster Okani | *Okani* — CV.CV.CV | Waveblade leader; 3-syllable name |
+| Bladesman Inowari | *Inowari* — CV.CV.CV.CV | 4-syllable name; longer than typical jinyu |
+| Farseer Ori | *Ori* — CV.CV | Short name; 2 syllables |
+| Hunter Akana | *Akana* — CV.CV.CV | 3-syllable name; parallels jinyu *Karasshi*, *Izissha* |
+| Kotori Lightblade | *Kotori* — CV.CV.CV | Hearthstone paladin; 3-syllable name |
+
+#### Ankoan Place and Tribe Names
+
+| Name | Notes |
+|------|-------|
+| Mezzamere | Ankoan/Alliance base in Nazjatar; shared with jinyu (see above) |
+| Waveblade | English compound; the only ankoan clan that took the fight to Azshara |
+
+**Ankoan phonological features** (compared to jinyu):
+1. **Continuity with jinyu**: Full vowel inventory, CV/CVC syllable structure
+2. **Possible simplification**: Ankoan names tend to be shorter (2–4 syllables vs. jinyu 2–5)
+3. **No apostrophes**: Unlike jinyu (Sele'na), ankoan names show no apostrophe usage
+4. **Fewer attested names**: Only 5 ankoan personal names known vs. 30+ jinyu
+
+### 10.5 Kobyss Naming and Speech (Linguistic Regression)
+
+Kobyss were once an ankoan tribe. However, their naming and speech patterns show **dramatic linguistic regression** from their ankoan ancestors:
+
+#### Attested Kobyss Speech
+
+The wiki states that kobyss "are capable of speech but only use simple phrases like 'Animate bones', 'Devour', and 'Violence'." These appear to be Common-language utterances, not kobyss-language words. This suggests:
+
+1. **Near-total language loss**: Kobyss have lost the ankoan/jinyu language almost entirely
+2. **Pidgin Common**: Kobyss speak a minimal Common vocabulary focused on violence and necromancy
+3. **Possible Void corruption**: The loss of linguistic complexity may parallel their physical and cultural degeneration under Void influence
+
+This represents a **reverse** of the murloc → jinyu evolution: where the Vale of Eternal Blossoms expanded jinyu minds and language, the Undersea and Void energy appear to have *contracted* kobyss minds and language.
+
+#### Kobyss Chieftain Names (TWW: Hallowfall)
+
+The following named kobyss chieftains are attested:
+
+| Name | Tribe | Notes |
+|------|-------|-------|
+| Dreadfang the Merciless | Darkwater | Morgaen's Tears |
+| Grand Gluttony | Gutter | Salien Gutters, Azj-Kahet |
+| Sharpscale the Devourer | Hungering | Hungering Pool |
+| Chieftain Gillcarver | Sunless | Sunless Strand |
+| Lightwalker | Deepfin (murloc) | Surface kobyss in Zul'Aman leading deep sea murlocs |
+
+**Key observation**: All kobyss chieftain names are **Common/English compounds or descriptors** — there are no attested kobyss-language proper names. "Grand Gluttony" is particularly telling: it is a title/descriptor, not a personal name. This contrasts sharply with ankoan names like *Okani* and *Inowari*.
+
+The exception may be **Lightwalker**, a kobyss who led the Deepfin tribe of deep sea murlocs on the surface in Zul'Aman. "Lightwalker" is English but may be a title rather than a given name.
+
+#### Kobyss Tribal Designations (Complete List)
+
+All seven kobyss tribes are documented, including three not previously recorded:
+
+| Tribe | Leader | Location | Notes |
+|-------|--------|----------|-------|
+| Darkwater | Dreadfang the Merciless | Morgaen's Tears | |
+| Fathomless | Unknown | The Fangs | |
+| Gutter | Grand Gluttony | Salien Gutters, Azj-Kahet | Also found in nerubian territory |
+| Hungering | Sharpscale the Devourer | Hungering Pool | |
+| Murkfin | Unknown | Velhan's Claim | |
+| Ragefin | Unknown | Veneration Grounds | Allied with Order of Night |
+| Sunless | Chieftain Gillcarver | Sunless Strand | |
+
+**Cross-nerubian contact**: The Gutter tribe inhabits the Salien Gutters in the City of Threads (nerubian territory in Azj-Kahet). The nerubian alchemist **Al'kubian** studied this tribe for weeks, noting they grew stronger by consuming Ascended nerubians. This provides the only known direct linguistic contact between kobyss and nerubians.
 
 #### Kobyss NPC Types (Common/English Descriptors)
 
@@ -287,6 +441,7 @@ All documented kobyss NPC names are **Common/English descriptors** — there are
 | Kobyss Trickster | Generic NPC type |
 | Kobyss Carver | Generic NPC type |
 | Kobyss Shadeshaper | Disguised as Arathi Captive; shapeshifter |
+| Kobyss Swordsnapper | Bleak Sand; fights both Void and Order of Night |
 | Murkfin Depthstalker | Murkfin tribe variant |
 | Murkfin Ravager | Murkfin tribe variant |
 | Murkfin Sciomancer | Murkfin tribe spellcaster |
@@ -301,7 +456,9 @@ All documented kobyss NPC names are **Common/English descriptors** — there are
 | Fathomless Necromancer | Fathomless tribe spellcaster |
 | Fathomless Warrior | Fathomless tribe variant |
 | Fathomless Scout | Fathomless tribe variant |
-| Darkwater Tidecrusher | Named kobyss; Veneration Grounds |
+| Darkwater Clawsmasher | Darkwater tribe; seen with makrura |
+| Darkwater Tidecrusher | Darkwater tribe; Veneration Grounds |
+| Darkwater Ranger | Darkwater tribe ranger |
 | Bleak Beak-Carver | Bleak tribe variant |
 | Bleak Beastbreaker | Bleak tribe variant |
 | Bleak Claw-Eater | Bleak tribe variant |
@@ -315,7 +472,7 @@ All documented kobyss NPC names are **Common/English descriptors** — there are
 | Fallowbarb | Possibly a proper name; Shadowmire cavern |
 | Sloshmuck | Possibly a proper name; Shadowmire cavern |
 
-### Hallowfall Places in Kobyss Territory
+### 10.6 Hallowfall Places in Kobyss Territory
 
 All place names in kobyss-occupied areas are Common/English designations given by the Arathi, not kobyss toponyms:
 
@@ -327,24 +484,48 @@ All place names in kobyss-occupied areas are Common/English designations given b
 | The Fangs | Descriptive Common name |
 | Sunless Strand | Descriptive Common name |
 | The Undersea | Descriptive Common name for the underground sea |
+| Morgaen's Tears | Arathi personal name (*Morgaen*) + Common possessive |
+| Salien Gutters | Nerubian territory (City of Threads) |
 
-### Etymological Speculation
+### 10.7 Cross-Family Phonological Comparison
+
+Comparing the four stages of the murloc/jinyu/ankoan/kobyss family:
+
+| Feature | Murloc (Nerglish) | Jinyu | Ankoan | Kobyss |
+|---------|-------------------|-------|--------|--------|
+| Syllable structure | Syllabic consonants; mrgl- patterns | Full CV/CVC | Full CV/CVC | English compounds only |
+| Vowel inventory | Restricted (mostly /ɜ/, /ʌ/) | Full /a e i o u/ | Full /a e i o u/ | N/A (no native names) |
+| Consonant inventory | /m g r l b k/ | Full including /ʃ/ | Full (smaller sample) | N/A |
+| Name length | 1–4 "beats" (mrgl-glr) | 2–5 syllables | 2–4 syllables | English compounds |
+| Apostrophe usage | None | Sele'na (1 attestation) | None | None |
+| Attested native words | *gmmmlmrmrgmg*, *Mmmurlok* | *Onoho* ("Deep Shadow") | None | None |
+| Attested speech | *Aaaaaughibbrgubugbugrguburgle* | Full dialogue in Common | Full dialogue in Common | "Animate bones", "Devour", "Violence" |
+| Proper names | Gurgling compounds | Non-English proper names | Non-English proper names | English descriptors only |
+
+### 10.8 Etymological Speculation: "Kobyss"
 
 The name "kobyss" may reflect:
 
 1. **Real-world "abyss"**: *kobyss* ≈ "co-abyss" or "of the abyss" — a name given by the Arathi based on the creatures' emergence from deep waters. If *kob-* = "of" and *-yss* = "abyss" (a Common morphological parallel), then *kobyss* = "abyss-dweller."
 
-2. **Ankoan-language origin**: If kobyss descend from ankoan, the name "kobyss" could be an ankoan word adopted into Arathi/Common. No ankoan-language data is available to test this hypothesis.
+2. **Ankoan-language origin**: If kobyss descend from ankoan, the name "kobyss" could be an ankoan word adopted into Arathi/Common. The ankoan naming pattern (CV.CV.CV proper names like *Okani*, *Akana*) could hypothetically produce *Ko-byss* as a two-syllable ankoan word. However, the /ks/ cluster in *-byss* does not match typical ankoan phonotactics (which favor open syllables and simple codas).
 
-3. **Independent Arathi designation**: "Kobyss" may simply be an Arathi word for the creatures, unrelated to any known language family.
+3. **Nerglish substrate**: If "kobyss" derives from a Nerglish/murloc word, the *-yss* ending could reflect the gurgling phonology of Nerglish (cf. *Mmmrrrggglll*, which ends in a similar sibilant). However, the initial *ko-* syllable is not typical of Nerglish (which favors /m g r l/ onsets).
 
-### Assessment
+4. **Independent Arathi designation**: "Kobyss" may simply be an Arathi word for the creatures, unrelated to any known language family.
 
-No kobyss-language proper names, phrases, or words are attested. All documented kobyss NPC names are Common/English descriptors. The kobyss likely have a native language related to ankoan/jinyu/murloc, but no data from this language family has been recorded in Hallowfall content.
+### 10.9 Assessment
 
-The ankoan descent is the most significant finding: it places kobyss in the **jinyu/murloc language family** rather than the titan-forged or Aqir-descended families. This has implications for:
-- The Undersea ecosystem of Khaz Algar (ankoan-descended creatures coexisting with nerubians)
-- Potential future TWW content that may introduce kobyss-language dialogue or naming
-- The linguistic landscape of Hallowfall (Common/Arathi names overlay ankoan-descended territory)
+The murloc → jinyu → ankoan → kobyss language family shows a **rise and fall** of linguistic complexity:
 
-**Confidence: Very Low** for kobyss-language analysis (no data); **Moderate** for ankoan descent classification (wiki-confirmed lore).
+1. **Murloc → Jinyu**: Dramatic increase in phonological complexity, syllable structure, and vocabulary (triggered by magical evolution at the Vale of Eternal Blossoms)
+2. **Jinyu → Ankoan**: Moderate simplification (shorter names, loss of apostrophe usage), consistent with population isolation and cultural specialization
+3. **Ankoan → Kobyss**: Near-total language loss, with kobyss retaining only a minimal Common vocabulary of 3–5 words for violence and necromancy
+
+The kobyss represent the only known case in WoW of **linguistic regression** in a descended race. While the murloc → jinyu transition was driven by magical enhancement, the ankoan → kobyss transition appears driven by environmental and cultural factors (Undersea isolation, Void corruption, cultural degeneration from millennial warfare with naga).
+
+**Confidence:**
+- **Moderate** for ankoan descent classification (wiki-confirmed lore)
+- **Moderate** for linguistic regression analysis (attested kobyss speech data confirms near-total language loss)
+- **Low** for Nerglish/murloc phonological analysis (limited to proper names and one self-designation)
+- **Very Low** for kobyss etymology (no native kobyss words attested)
