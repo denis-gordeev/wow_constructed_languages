@@ -182,44 +182,50 @@ These are in-game readable objects that contain narrative descriptions of Drust 
 **Location**: Drustvar
 
 ### Drust Stele: The Ritual
-**Location**: Drustvar (Iceveil Glacier area)
-*(Full inscription text not yet recovered from wiki sources — web access to warcraft.wiki.gg and wowhead.com currently unavailable. Retry when access is restored.)*
+> \<The Drust carved onto this stone appears to carry a curved blade in one hand. The head of a man or animal is in his other hand. At his feet are the bodies of many slain animals. Their entrails are being observed by other Drust.\>
 
-### Drust Stele: The Three
-**Location**: Drustvar
-*(Full inscription text not yet recovered from wiki sources.)*
+**Location**: Drustvar (Iceveil Glacier area)
 
 ### Drust Stele: Breath Into Stone
-**Location**: Drustvar
-*(Full inscription text not yet recovered from wiki sources.)*
+> \<The carving looks like breath or wind is being drawn from a body and put into a stone.\>
+
+**Location**: Drustvar (Gol Koval area)
 
 ### Drust Stele: Sacrifice
+> \<The weathered stone has a worn groove across the middle, as if a blade has struck down the same line over centuries. Dark stains mark one side of the worn cut.\>
+
 **Location**: Drustvar
-*(Full inscription text not yet recovered from wiki sources.)*
 
 ### Drust Stele: The Cycle
+> \<This image shows a single tree in multiple states of life. On the right the leaves are small and low to the ground like a sapling. In the center of the tree the branches are tall and strong, the leaves large and open. On the left the branches are thin, broken and mostly bare. The last vestiges of dried red-black pigment cling to the ancient stone to mark fallen leaves. A stylized sun passes over the tree.\>
+
 **Location**: Drustvar
-*(Full inscription text not yet recovered from wiki sources.)*
 
 ### Drust Stele: The Flayed Man
+> \<The carving on this stone is of a life-sized Drust who has been flayed. The placement of important organs is surprisingly accurate despite the stylization and primitive materials. The eyes are white stones with the faint remains of paint on them. They seem to follow you around. At one point there were prayers, or instructions, carved around the body, but time has rendered the runes illegible. The carving was done with great care, but the purpose remains unknown.\>
+
 **Location**: Drustvar
-*(Full inscription text not yet recovered from wiki sources.)*
 
 ### Drust Stele: Protectors of the Forest
+> \<A great bramblebear, possibly a Drust druid, is posed with their head bowed to a massive stag and doe. The deer appear to be blessing the bear or accepting its supplication. The stag's coat was once whitewashed while the doe's was covered with blackened soot.\>
+
 **Location**: Drustvar (Ulfar's Den area)
-*(Full inscription text not yet recovered from wiki sources — web access to warcraft.wiki.gg and wowhead.com currently unavailable due to TLS connectivity issues. Retry when access is restored.)*
+
+**Note**: There is no stele titled "The Three." The achievement "Drust the Facts, Ma'am" lists exactly 10 steles: Conflict, The Tree, The Circle, The Ritual, Breath Into Stone, Sacrifice, Constructs, The Cycle, The Flayed Man, Protectors of the Forest. "The Three" was an error in earlier versions of this document.
 
 ### Summary: Drust Stele Inscriptions and Language
 
-The 10 Drust Steles collectively document Drust history through pictographic narrative rather than written language. This has important implications:
+All 10 Drust Stele inscription texts have been recovered from warcraft.wiki.gg sources. They collectively document Drust history through pictographic narrative rather than written language. Key observations:
 
-1. **The Drust may not have had a written language** — or at least not one used on these monuments. The steles use images rather than text to convey meaning, suggesting an oral or pictographic tradition.
+1. **The Drust may not have had a written language** — or at least not one used on these monuments. The steles use images rather than text to convey meaning, suggesting an oral or pictographic tradition. The Flayed Man stele notes that "at one point there were prayers, or instructions, carved around the body, but time has rendered the runes illegible" — this is the only reference to any written/runecarved text, and it is now lost.
 
 2. **The absence of Drust-language text on the steles** is consistent with the overall extremely low attestation of the Drust language. No Drust-language words or phrases appear on any of the 10 steles.
 
 3. **The stele titles are Common-language designations** ("Conflict," "The Tree," "Constructs," etc.) given by researchers or the game interface, not Drust-language titles.
 
-4. **The steles provide cultural context** for Drust society (conflict, tree worship, construct creation, ritual practices, sacrifice, cyclical beliefs, protector traditions), but no linguistic data.
+4. **The steles provide cultural context** for Drust society: conflict (wars with multiple enemies), tree worship (massive tree venerated by Drust), construct creation (killing over construct chest to animate it), ritual practices (animal sacrifice with entrail observation), breath/spirit transfer (breath drawn from body into stone), cyclical beliefs (tree shown in sapling/prime/decline stages with sun cycle), anatomical knowledge (flayed Drust with accurate organ placement and illegible runic prayers), and druidic protector traditions (bramblebear supplicating before stag and doe).
+
+5. **The Breath Into Stone stele** is particularly significant for Drust language reconstruction: it describes a Drust ritual of transferring "breath" (spirit/life force) into stone — this is exactly the process used to animate Drust constructs, suggesting that the Drust concept of "breath" and "life" may be linguistically linked to their construct-creation vocabulary.
 
 ## 4. Drust Magic and Ritual Terminology
 
