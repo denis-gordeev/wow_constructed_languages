@@ -171,17 +171,17 @@ Ethereals and brokers are closely related species from K'aresh. The brokers may 
 | The Consortium | Trade guild | TBC faction; ethereal-led trading organization based in Netherstorm. Common-language name. Led by Nexus-Prince Haramad. |
 | The Ethereum | Faction | TBC faction; ethereal separatist group. The name *Ethereum* may contain *Ethere-* (the self-designation root) + *-um* (a faction/collective suffix). |
 | The Protectorate | Faction | TBC faction; formed to stop the Ethereum. Led by Commander Ameer. Common-language name. |
-| The Shadowguard | Faction | TWW faction; void-corrupted ethereals serving the Old Gods/Void. Common-language name. |
-| The Wastelanders | Faction | TWW faction; ethereals who worship K'aresh's Worldsoul. Common-language name. Led by Soul-Scribe. |
-| K'aresh Trust | Coalition | TWW faction; coalition of ethereals and brokers. Founded by Ve'nari. Partially Common-language. |
-| The Ravel | Secret collective | TWW faction; ancient group that used Reshii Ribbons to survive K'aresh's destruction. Common-language name. Members included Locus-Walker and Xal'atath. The Ravel willingly destroyed K'aresh using the combined power of the Reshii Ribbons in an attempt to kill Dimensius. |
+| The Shadowguard | Faction | TWW faction; void-corrupted ethereals serving the Old Gods/Void. Common-language name. Led by Nexus-King Salhadaar. In the Ghosts of K'aresh campaign, Salhadaar demanded the Wastelanders uphold their "sacred oaths" to serve him, causing Soul-Scribe to briefly betray the coalition. |
+| The Wastelanders | Faction | TWW faction; ethereals who previously worshipped K'aresh's Worldsoul and now oppose the Ravel. Common-language name. Led by Soul-Scribe. The Wastelanders' oath of service to Salhadaar (their former ruler) briefly caused Soul-Scribe to betray the coalition when Salhadaar demanded they honor it. After Soul-Scribe's sacrifice, remaining Wastelanders assaulted one of Ve'nari's eco-domes to fulfill their oath but were defeated. |
+| K'aresh Trust | Coalition | TWW faction; coalition of ethereals and brokers. Founded by Ve'nari. Partially Common-language. Ve'nari's eco-domes on K'aresh are defended by the Trust against Shadowguard and Wastelander incursions. |
+| The Ravel | Secret collective | TWW faction; ancient group that used Reshii Ribbons to survive K'aresh's destruction. Common-language name. Members included Locus-Walker and Xal'atath (who served as Harbinger of Dimensius thousands of years prior before betraying him). The Ravel willingly destroyed K'aresh using the combined power of the Reshii Ribbons in an attempt to kill Dimensius. Xal'atath was a member of the Ravel at the time of K'aresh's destruction, implying she was once an ally of Locus-Walker and the ethereal people before turning against them. |
 | The Zaxxis | Rogue faction | TBC faction; broke from the Consortium. Led by Warp-Raider Nesaad. |
 | The Razaani | Faction | TBC faction; ethereal group in Blade's Edge Mountains. Led by Nexus-Prince Razaan. |
 | The Vir'aani | Faction | TBC faction; band led by Gava'xi. Apostrophe-marked: *Vir'* + *-aani*. |
 | The Bash'ir | Faction | TBC faction; Ethereum subgroup in Blade's Edge Mountains. Apostrophe-marked: *Bash'* + *-ir*. |
 | The Netherguard | Faction | BfA faction; void ethereal group led by Nether-Prince Durzaan. |
 | Cartel Om | Broker cartel | TWW faction; taken over by Ve'nari. Short name; broker organization. |
-| Devouring Host | Void army | TWW faction (The Warning patch); vast army of void creatures formed by Xal'atath using the Dark Heart. Not ethereal-language; Common-language name. Notable for being the first named void army with organizational structure, suggesting Xal'atath commands a structured military force rather than mindless void creatures. |
+| Devouring Host | Void army | TWW faction (The Warning patch); vast army of void creatures formed by Xal'atath using the Dark Heart. Not ethereal-language; Common-language name. Notable for being the first named void army with organizational structure, suggesting Xal'atath commands a structured military force rather than mindless void creatures. The Devouring Host followed Arator into the Shadowlands' Maw, confirming their ability to operate across dimensional boundaries. |
 
 ### The *Ethere-* Self-Designation
 
@@ -201,7 +201,7 @@ This parallels how *Nerub-* appears in *Nerubian* and *Azjol-Nerub* as a self-de
 | Dimensius | /dɪˈmɛnsiəs/ | Void Lord who destroyed K'aresh | Latin-style name; not ethereal-language. A Common-language rendering of a Void entity name. |
 | Black Blood | — | Corruptive substance from deceased Old Gods | Common-language designation. |
 | Worldsoul | — | The living essence of K'aresh (and Azeroth) | Common-language concept. K'aresh's Worldsoul was strengthened by Soul-Scribe's sacrifice. |
-| Dark Heart | — | Powerful artifact; absorbs arcane and void energy | Common-language name. Xal'atath used it to absorb Dalaran's arcane energy, then later to create the Voidstorm. Contained Khadgar temporarily. Now contains Xal'atath after she absorbed Dimensius's essence. |
+| Dark Heart | — | Powerful artifact; absorbs arcane and void energy | Common-language name. Xal'atath used it to absorb Dalaran's arcane energy, then later to create the Voidstorm. Contained Khadgar temporarily after Dalaran's destruction. Stolen from Gallywix by Phase-Thief Azir in Undermine, then brought to K'aresh where Salhadaar used it to attempt to revive Dimensius. After Dimensius's defeat, Xal'atath emerged from the Dark Heart having absorbed both Dimensius's essence and Locus-Walker's power, making her the artifact's current wielder. |
 | Voidstorm | — | Massive void phenomenon created by Xal'atath | Common-language compound. Created using the Dark Heart's energy. First attested in The Warning (TWW patch). |
 
 ### The *Reshii* Element

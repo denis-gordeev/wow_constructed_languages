@@ -10,7 +10,7 @@ The Haranir are a reclusive, ancient race introduced in *The War Within* (2024).
 
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
-| Orweyna | /ɔːrˈweɪnə/ | Central TWW Haranir character | The most prominent Haranir NPC; her story continues into the Undermine patch and Midnight expansion |
+| Orweyna | /ɔːrˈweɪnə/ | Central TWW Haranir character | The most prominent Haranir NPC; in the Undermine patch (Lingering Shadows), she investigates Black Blood in Hallowfall with fellow Haranir, who leave her over her rejection of isolationist tradition. She then receives a vision from Azeroth's Worldsoul leading her to the Ringing Deeps, where she joins Gazlowe and scouts the goblin operation at Opportunity Point. |
 | Hagar | /ˈhɑːɡɑːr/ | Elder; Orweyna's grandmother | No apostrophe; short name. Possible shared initial *H-* with *Hannan*, *Harandar*, *Hara'ni* |
 | Ter'kova | /tɛɾˈkoʊvə/ | Elder | Apostrophe-marked compound: *Ter'* + *-kova*. The *-kova* element is unexplained |
 | Gnarla | /ˈnɑːrlə/ | Elder | No apostrophe; *Gn-* initial cluster |
@@ -44,6 +44,18 @@ The Haranir are a reclusive, ancient race introduced in *The War Within* (2024).
 ## 4. Attested Phrases
 
 **No constructed-language Haranir phrases are attested.** All Haranir NPCs speak Common (English) in-game. No Hara'ni-language dialogue, battle cries, or incantations have been recorded.
+
+## 4a. Undermine Patch: Confirmed Additional Haranir (Unnamed)
+
+The Wikipedia article for *The War Within* confirms that in the Undermine patch (Lingering Shadows campaign), "Orweyna and her fellow haranir investigate the remaining Black Blood in Hallowfall." The other Haranir in Orweyna's group "become frustrated with her for ignoring their people's isolationist traditions before leaving her alone to return to their homeland."
+
+This confirms that additional named Haranir NPCs exist in the Undermine patch content, but their names are not provided by the Wikipedia source. Wiki access (warcraft.wiki.gg) was unavailable at time of writing; their names should be researched when access is restored.
+
+**Linguistic significance:** If additional Haranir NPC names are discovered, they could:
+- Provide more data points for the *Hara-* root analysis
+- Test whether the *-nir* / *-ni* / *-ti* suffix set is productive beyond the *Hara-* root
+- Add to the *-ia* feminine suffix sample
+- Reveal new morphemes or compound patterns
 
 ## 5. Potential Morphemes and Inferred Meanings
 
@@ -327,4 +339,5 @@ The Haranir language does not fit into any known WoW language family. It shares 
 
 - Warcraft Wiki: Haranir (warcraft.wiki.gg/wiki/Haranir)
 - Warcraft Wiki: Orweyna (warcraft.wiki.gg/wiki/Orweyna)
+- Wikipedia: *World of Warcraft: The War Within* (en.wikipedia.org) — Undermine(d) campaign: Lingering Shadows section confirming additional Haranir in Orweyna's group
 - *World of Warcraft: The War Within* (2024). Blizzard Entertainment.

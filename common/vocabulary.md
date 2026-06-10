@@ -95,8 +95,8 @@ Several Arathi personal names end in *-el* or *-elle*: *Dunelle*, *Sina*, *Velha
 | Genn Greymane | /ˈɡɛn/ | King of Gilneas | Common-language name. |
 | Taelia Fordragon | /ˈteɪliə/ | BfA character | "Taelia" may contain Vrykul *Tael-* element (cf. Titan *Tael*/*Taes* in weapon names *Taeshalach*, *Taeschalach*). Possible preservation of a Titan/Vrykul root in a Common personal name. |
 | Alonsus Faol | /əˈlɒnsəs/ | Founder of the priesthood | "Alonsus" etymology unknown; Latin-influenced structure; may be Common. |
-| Marran Trollbane | /ˈmærən/ | Stromgarde noble (TWW: Legacy of Arathor) | "Marran" has no clear Vrykul morpheme content; *-an* ending parallels *Varian*, *Danath*. "Trollbane" is a hereditary Common compound surname (cf. *Danath Trollbane*). |
-| Veronica Nials | /vəˈrɒnɪkə/ | Stromgarde military leader (TWW: Legacy of Arathor) | Latin/English name with no Vrykul morpheme content; *-ica* feminine suffix. Revealed as traitor working for Marran. |
+| Marran Trollbane | /ˈmærən/ | Stromgarde noble; leader of the Red Dawn (TWW: Legacy of Arathor) | "Marran" has no clear Vrykul morpheme content; *-an* ending parallels *Varian*, *Danath*. "Trollbane" is a hereditary Common compound surname (cf. *Danath Trollbane*). Leader of the Red Dawn, a human supremacist faction allied with the Defias Brotherhood and Scarlet Crusade; banished from Stromgarde by Danath after her failed coup. |
+| Veronica Nials | /vəˈrɒnɪkə/ | Stromgarde military leader (TWW: Legacy of Arathor) | Latin/English name with no Vrykul morpheme content; *-ica* feminine suffix. Revealed as traitor working for Marran and the Red Dawn. |
 | Danath Trollbane | /ˈdænəθ/ | Lord of Stromgarde (TWW: Legacy of Arathor) | Confirmed as current ruler of Stromgarde in TWW. |
 
 ### Arathi Personal Names (Hallowfall, TWW)
@@ -111,6 +111,15 @@ The Arathi of Hallowfall are a mixed human–high-elf population descended from 
 | Venrie Flitter | /ˈvɛnri/ | Arathi skiff operator (Dunelle's Kindness) | "Venrie" may be Arathi; "Flitter" is a Common descriptive surname. |
 | Alyza Bowblaze | /əˈlaɪzə/ | Arathi orphan quest NPC | "Alyza" is a Common name; "Bowblaze" is a Common compound surname. |
 | Kyrie | /ˈkɪriːeɪ/ | Arathi pet trainer (Lightspark) | Greek-derived name (κύριε = "lord"); Common-language. |
+
+### TWW Factions (Legacy of Arathor, Common-Language Names)
+
+| Name | Notes |
+|------|-------|
+| Red Dawn | Human supremacist faction led by Marran Trollbane; allied with the Defias Brotherhood and Scarlet Crusade; attempted coup in Stromgarde; defeated and banished by Danath Trollbane. Common-language name. |
+| Scarlet Crusade | Fanatical human cult; allied with Red Dawn; massacred non-combatants in Arathi Highlands. Pre-existing WoW faction; Common-language name. |
+| Syndicate | Criminal organization; allied with Red Dawn; planted false evidence to incite human-orc war. Pre-existing WoW faction; Common-language name. |
+| Defias Brotherhood | Bandit organization; recruited into the Red Dawn. Pre-existing WoW faction; Common-language name. |
 
 ## Human Kingdom Names
 

@@ -83,11 +83,11 @@ The following goblin names are from the *Undermine(d)* campaign in *The War With
 | Name | IPA | Context | Notes |
 |------|-----|---------|-------|
 | Pamsy | /ˈpæmzi/ | Goblin engineer; helped Gazlowe reach Undermine | Short name; *-sy* diminutive suffix is Common-language. *Pam-* element unclear. |
-| Grimla Fizzlecrank | /ˈɡrɪmlə ˈfɪzəlkræŋk/ | High-ranking Venture Co. member; opposed Gallywix | *Grimla* — the *-la* ending parallels other feminine goblin names; may reflect Gnomish/Goblin phonological pattern. *Fizzlecrank* is a Common-language compound surname (cf. *Brassbolts*, *Steelspark*). |
-| Nikki the Fixer | /ˈnɪki/ | Venture Co. chairwoman; sided with Gallywix | Short nickname; Common-language. "The Fixer" is an English epithet. |
-| Jastor Gallywix | /ˈɡæliwɪks/ | Former Trade Prince of the Bilgewater Cartel | *Gallywix* may contain *Galla-* + *-wix*. The *-wix* / *-ix* ending is notable — it appears in *Gallywix* and potentially in other goblin names. |
+| Grimla Fizzlecrank | /ˈɡrɪmlə ˈfɪzəlkræŋk/ | High-ranking Venture Co. member; opposed Gallywix; assumed control of Venture Co. after liberation | *Grimla* — the *-la* ending parallels other feminine goblin names; may reflect Gnomish/Goblin phonological pattern. *Fizzlecrank* is a Common-language compound surname (cf. *Brassbolts*, *Steelspark*). |
+| Nikki the Fixer | /ˈnɪki/ | Venture Co. chairwoman; sided with Gallywix; killed by Gazlowe | Short nickname; Common-language. "The Fixer" is an English epithet. Attempted to assassinate Gazlowe with a Black Blood-infused rifle but killed Renzik instead. |
+| Jastor Gallywix | /ˈɡæliwɪks/ | Former Trade Prince of the Bilgewater Cartel | *Gallywix* may contain *Galla-* + *-wix*. The *-wix* / *-ix* ending is notable — it appears in *Gallywix* and potentially in other goblin names. Killed during the Liberation of Undermine when his damaged mech crushed him. |
 | Monte Gazlowe | /ɡæzˈloʊ/ | Trade Prince of the Bilgewater Cartel | *Gazlowe* may contain *Gaz-* + *-lowe*. The *-lowe* ending is unique. |
-| Renzik "The Shiv" | /ˈrɛnzɪk/ | Goblin spy; killed by Nikki | *Renzik* — the *-zik* ending parallels *-wix* in *Gallywix* as a possible goblin name suffix. Short, punchy name consistent with goblin naming patterns. |
+| Renzik "The Shiv" | /ˈrɛnzɪk/ | Goblin spy; killed by Nikki's Black Blood-infused rifle | *Renzik* — the *-zik* ending parallels *-wix* in *Gallywix* as a possible goblin name suffix. Short, punchy name consistent with goblin naming patterns. His death made him a martyr for the Undermine revolution. |
 | Trade Prince Revilgaz | /ˈrɛvɪlɡæz/ | Leader of the Blackwater Cartel | *Revilgaz* may contain *Revil-* + *-gaz*. The *-gaz* element also appears in *Gazlowe* (*Gaz-*), possibly a shared goblin morpheme. |
 | Trade Prince Marin Noggenfogger | /ˈnɒɡənfɒɡər/ | Leader of the Steamweedle Cartel | *Noggenfogger* is a Common-language compound surname. *Marin* is a short given name. |
 
@@ -99,6 +99,7 @@ The following goblin names are from the *Undermine(d)* campaign in *The War With
 | Gallagio | /ˌɡæləˈdʒiːoʊ/ | Gallywix's personal casino | Potentially Gnomish/Goblin-influenced. May be a portmanteau of *Gally-* (from *Gallywix*) + Italian *-aggio* or a goblin place suffix *-gio*. The *-gio* / *-agio* ending is unique among attested goblin place names and may preserve a genuine morpheme. |
 | Opportunity Point | — | Goblin settlement in Khaz Algar | Common-language name. Not Gnomish/Goblin. |
 | Incontinental Hotel | — | Hotel in Undermine | English pun; not Gnomish/Goblin. |
+| Siren Isle | — | Island discovered during Lingering Shadows campaign | Common-language name. Contains a singing crystal that drew goblins, earthen, and Arathi expeditions. A titan-forged vault on the island revealed its history. Not Gnomish/Goblin. |
 
 ## Goblin Cartel Names
 

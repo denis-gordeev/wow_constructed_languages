@@ -13,14 +13,15 @@ Key historical events affecting the language:
 - **Pre-16,000 BDP**: The Haranir lived on Mount Hyjal on the surface of Azeroth. Their language from this period is entirely unattested.
 - **~16,000 BDP**: The Haranir heard "Aln'hara" — the call from deep within the world — and traveled to Harandar, a primordial jungle where World Tree roots converge. This migration may have isolated the language from surface languages for over 16,000 years.
 - **The *Hara'ti* schism**: A subgroup called the *Hara'ti* ("those who heard the call") formed among the Haranir. This faction designation preserves the *-ti* suffix in the language.
-- **The War Within (2024)**: The Haranir are encountered by Alliance and Horde forces in Khaz Algar. Orweyna is the central Haranir character; her story continues into the Undermine patch and Midnight expansion.
+- **The War Within (2024)**: The Haranir are encountered by Alliance and Horde forces in Khaz Algar. Orweyna is the central Haranir character.
+- **Undermine patch (Lingering Shadows, 2025)**: Orweyna and fellow Haranir investigate remaining Black Blood in Hallowfall. The other Haranir in Orweyna's group become frustrated with her for ignoring their people's isolationist traditions and return to their homeland, leaving Orweyna alone. Orweyna then receives a vision from Azeroth's Worldsoul that leads her to the Ringing Deeps, where she joins Gazlowe in investigating the goblin operation at Opportunity Point. She continues to scout and work alongside surface-world allies through the Liberation of Undermine campaign.
 - **Contact with Arathi**: The Haranir encountered Arathi humans in Hallowfall. *Ney'leia* spoke directly to the Arathi, suggesting some bilingualism or Common-language ability.
 
 ## Cultural Context
 
 - The Haranir are deeply connected to the World Tree roots that converge in Harandar. This connection may be reflected in their vocabulary (if *Aln'hara* = "the call from deep within," the language likely has terms for roots, depths, and world-songs).
 - The Haranir can shapeshift into bats, suggesting vocabulary related to flight, echolocation, and transformation.
-- The Haranir are isolationist — they were unknown to Freya (a Titan Keeper) and to surface civilizations for over 16,000 years. This isolation likely preserved archaic features of the language.
+- The Haranir are isolationist — they were unknown to Freya (a Titan Keeper) and to surface civilizations for over 16,000 years. This isolation likely preserved archaic features of the language. However, the Undermine patch reveals internal tension: some Haranir (like Orweyna) choose to break from isolationist tradition to engage with outsiders, while others strictly maintain the old ways and withdraw from contact.
 - The *Greenspeaker* title (held by Na'layro) parallels the *Thornspeaker* title among the Drust — both suggest a druidic or nature-communication tradition with a Common-language title that may translate a native term. However, the parallel is most likely due to independent development rather than contact borrowing, given the geographic and temporal separation between the two cultures (Drust in Kul Tiras vs. Haranir in Harandar; Drust active ~2,600 years ago vs. Haranir in Harandar since ~16,000 BDP). See vocabulary.md §6 for full analysis.
 - The Haranir mount is the *Grimlynx* — a Common-language name, not a Hara'ni word.
 
@@ -82,4 +83,5 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 
 - Warcraft Wiki: Haranir (warcraft.wiki.gg/wiki/Haranir)
 - Warcraft Wiki: Orweyna (warcraft.wiki.gg/wiki/Orweyna)
+- Wikipedia: *World of Warcraft: The War Within* (en.wikipedia.org) — Undermine(d) campaign: Lingering Shadows section
 - *World of Warcraft: The War Within* (2024). Blizzard Entertainment.
