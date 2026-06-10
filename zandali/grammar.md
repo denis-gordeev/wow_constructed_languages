@@ -72,6 +72,18 @@ The suffix -'ai marks a collective or plural, meaning "ones":
 
 This is attested only once, so its generality is uncertain.
 
+### Agentive Suffix: -ey (Midnight, 2026)
+
+The suffix *-ey* appears in the title *Hash'ey* ("unifier"), earned by Zul'jarra after uniting the Amani tribes. If *-ey* = agentive suffix ("one who does X"):
+
+| Formation | Components | Meaning |
+|-----------|------------|---------|
+| Hash'ey | Hash' + ey | Unifier / "one who unites" |
+
+This would be the **first attested Zandali agentive suffix with a confirmed semantic gloss**. However, the single attestation prevents firm conclusions. If *-ey* is genuine, *Hash'* = "unite/gather" as a verb root.
+
+**Confidence: Low** for *-ey* as a genuine Zandali agentive suffix (single attestation, but semantically coherent with the confirmed gloss).
+
 ### Title Suffix: Jin
 
 "Jin" functions as a title meaning "leader" or "chief," appended to names via apostrophe:

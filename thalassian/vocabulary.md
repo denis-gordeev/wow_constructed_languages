@@ -46,6 +46,7 @@ All entries are attested in World of Warcraft in-game dialogue, NPC speech, ques
 | Dath'Remar | (Proper name) | First of the Highborne / High Elves |
 | El'darath | (Place name) | Attested location |
 | Thalas'darah | Silvermoon? | Uncertain; possibly "Silvermoon" but not firmly attested |
+| Antenorian | Governor of Tranquillien (Midnight) | Allied with Twilight's Blade cultists. No clear Thalassian morpheme decomposition; possibly a personal name with *-orian* ending |
 
 ## Phrases and Greetings
 

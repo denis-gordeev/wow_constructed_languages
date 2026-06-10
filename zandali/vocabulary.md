@@ -165,6 +165,24 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 | vol | Possibly "desert" or "waste" | Vol'dun (uncertain) | Low |
 | dun | Possibly "land" or "place" | Vol'dun (uncertain) | Low |
 
+### Midnight Expansion (2026): Amani Names
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Zul'jan | Amani commander (Midnight) | Apostrophe-marked compound: *Zul-* ("great") + *-jan*. The *-jan* element is new; possibly a shortened form of a personal name |
+| Zul'jarra | Chieftain of the Amani tribe; Zul'jan's sister (Midnight) | Apostrophe-marked compound: *Zul-* ("great") + *-jarra*. The *-a* ending is consistent with feminine naming across WoW languages. Earned the title *Hash'ey* by uniting the Amani tribes and gaining blessings of four loa of Zul'Aman |
+| Hash'ey | Amani title meaning "unifier" (Midnight) | Apostrophe-marked compound: *Hash'* + *-ey*. **First attested Zandali title with a confirmed semantic gloss.** Earned by completing trials and gaining loa blessings; implies *Hash'* = "unite/gather" and *-ey* = agentive suffix ("one who does X"). **Confidence: Low–Moderate** for this decomposition |
+| Mor'duun | Leader of Twilight's Blade (Midnight) | Apostrophe-marked compound: *Mor'* + *-duun*. Language affiliation uncertain — could be Zandali, Shath'Yar-influenced, or Common. The *-duun* element is new |
+
+### Midnight Expansion: Additional Morphemes
+
+| Element | Inferred Meaning | Attested In | Confidence |
+|---------|-----------------|-------------|------------|
+| Hash' | Possibly "unite" or "gather" | Hash'ey ("unifier") | Low — single attestation with confirmed gloss |
+| -ey | Possibly agentive suffix ("one who does X") | Hash'ey ("unifier") | Low — single attestation; if genuine, would be a new Zandali agentive suffix |
+| -jan | Uncertain; possibly personal name element | Zul'jan | Very Low — single attestation |
+| -jarra | Uncertain; possibly feminine name element | Zul'jarra (female) | Very Low — single attestation; the *-a* ending consistent with WoW-wide feminine pattern |
+
 ### Phrases (BfA)
 
 No new glossed Zandali phrases are attested from BfA content. Zandalari trolls speak Common in-game. The BfA Zandalar storyline provides extensive cultural context but no new Zandali-language sentences with translations.

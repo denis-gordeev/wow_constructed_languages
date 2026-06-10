@@ -1,6 +1,6 @@
 # Hara'ni Grammar
 
-Grammar rules below are **inferred from attested examples only**. The Hara'ni language has no attested sentences — the entire corpus consists of proper names, place names, and cultural designations from *The War Within* (2024). Patterns are noted where multiple examples support a rule. Speculative extensions are marked [speculative].
+Grammar rules below are **inferred from attested examples only**. The Hara'ni language has no attested sentences — the entire corpus consists of proper names, place names, and cultural designations from *The War Within* (2024) and *Midnight* (2026). Patterns are noted where multiple examples support a rule. Speculative extensions are marked [speculative].
 
 ## Phonology
 
@@ -67,6 +67,21 @@ If both meanings derive from a single root, the semantic connection would be: "t
 [speculative]: The *Hara-* root may be related to the Haranir's ability to hear "Aln'hara" — the call from deep within the world. If *hara* originally meant "call" or "song," the ethnonym *Haranir* would mean "the called ones" or "those who hear the call," with *Hara'ni* = "language of the called" and *Harandar* = "land of the called." This analysis would unify all five attestations under a single semantic root.
 
 **Confidence: Moderate** for *Hara-* as a genuine Hara'ni morpheme.
+
+### The *Aln-* Root
+
+The *Aln-* root has two attestations, making it the second-most-securely-attested morpheme in Hara'ni after *Hara-*:
+
+| Name | *Aln-* Context | Proposed Function |
+|------|----------------|-------------------|
+| *Aln'hara* | *Aln'* + *-hara* | Concept: "sacred call" or "call from the deep" |
+| *Alndust* | *Aln-* + *-dust* | Material: "sacred dust" or "dust of the deep" (Midnight) |
+
+The *Aln-* root likely means "deep/sacred/blessed," consistent with both attestations. The absence of apostrophe in *Alndust* may reflect phonological conditioning: the following /d/ eliminates the need for a glottal stop boundary marker, whereas *Aln'hara* requires one before /h/.
+
+[speculative]: If *Aln-* = "deep/sacred," it may be connected to the Haranir's subterranean existence and their goddess (who blessed the Alndust). The root could originally have meant "depth" (physical depth of Harandar) and acquired a sacred connotation through association with the goddess and the World Tree roots.
+
+**Confidence: Low–Moderate** for *Aln-* as a genuine Hara'ni morpheme (two attestations with semantically coherent glosses).
 
 ### The *-nir* / *-ni* / *-ti* Suffix Set
 
@@ -185,8 +200,8 @@ The Hara'ni apostrophe pattern is structurally identical to nerubian and qiraji 
 ## Limitations
 
 - **No complete Hara'ni sentences are attested.** All Haranir NPCs speak Common in-game.
-- **Only ~15 proper names provide linguistic evidence.** The entire corpus consists of personal names, place names, and cultural designations.
+- **Only ~15 proper names provide linguistic evidence**, plus the Midnight-era terms *Ruutani* and *Alndust*. The entire corpus consists of personal names, place names, and cultural designations.
 - **Morpheme decompositions are inferred from patterns**, not confirmed by any canon source.
-- **The *Hara-* root** is the only moderately-attested morpheme (5 attestations); all other morphemes have 1–2 attestations.
+- **The *Hara-* root** is the most attested morpheme (5 attestations); the *Aln-* root now has 2 attestations; all other morphemes have 1–2 attestations.
 - **The Haranir's unique biological origin** ("not really elves, not really trolls") means there are no obvious cognate languages to compare with.
 - **The Haranir lived on Mount Hyjal before migrating to Harandar** after 16,000 BDP — this extreme antiquity means any related languages may have diverged beyond recognition.

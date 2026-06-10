@@ -15,6 +15,7 @@ Key historical events affecting the language:
 - **The *Hara'ti* schism**: A subgroup called the *Hara'ti* ("those who heard the call") formed among the Haranir. This faction designation preserves the *-ti* suffix in the language.
 - **The War Within (2024)**: The Haranir are encountered by Alliance and Horde forces in Khaz Algar. Orweyna is the central Haranir character.
 - **Undermine patch (Lingering Shadows, 2025)**: Orweyna and fellow Haranir investigate remaining Black Blood in Hallowfall. The other Haranir in Orweyna's group become frustrated with her for ignoring their people's isolationist traditions and return to their homeland, leaving Orweyna alone. Orweyna then receives a vision from Azeroth's Worldsoul that leads her to the Ringing Deeps, where she joins Gazlowe in investigating the goblin operation at Opportunity Point. She continues to scout and work alongside surface-world allies through the Liberation of Undermine campaign.
+- **Midnight (2026)**: Orweyna investigates the Lightbloom in Eversong Woods with Arator, then travels to Harandar with Halduron Brightwing. She is found guilty by Haranir elders for violating isolationist traditions. Hagar helps her atone; they discover **Alndust** (a rare material blessed by the Haranir's goddess) cures the **ruutani** (a Harandar-native race) of the Lightbloom. Ruia is revealed to have redirected the Lightbloom to Eversong as revenge after the Sunwell caused it to first appear in Harandar; Hagar stops her. The Haranir are eventually accepted as allies of Silvermoon by Lor'themar. Harandar becomes a playable zone.
 - **Contact with Arathi**: The Haranir encountered Arathi humans in Hallowfall. *Ney'leia* spoke directly to the Arathi, suggesting some bilingualism or Common-language ability.
 
 ## Cultural Context
@@ -24,6 +25,8 @@ Key historical events affecting the language:
 - The Haranir are isolationist — they were unknown to Freya (a Titan Keeper) and to surface civilizations for over 16,000 years. This isolation likely preserved archaic features of the language. However, the Undermine patch reveals internal tension: some Haranir (like Orweyna) choose to break from isolationist tradition to engage with outsiders, while others strictly maintain the old ways and withdraw from contact.
 - The *Greenspeaker* title (held by Na'layro) parallels the *Thornspeaker* title among the Drust — both suggest a druidic or nature-communication tradition with a Common-language title that may translate a native term. However, the parallel is most likely due to independent development rather than contact borrowing, given the geographic and temporal separation between the two cultures (Drust in Kul Tiras vs. Haranir in Harandar; Drust active ~2,600 years ago vs. Haranir in Harandar since ~16,000 BDP). See vocabulary.md §6 for full analysis.
 - The Haranir mount is the *Grimlynx* — a Common-language name, not a Hara'ni word.
+- **Haranir religion**: The Midnight expansion provides the first reference to Haranir religion — an unnamed goddess who blessed the Alndust. This goddess may be connected to the World Tree roots that converge in Harandar.
+- **The ruutani**: A race native to Harandar, introduced in Midnight. The name *Ruutani* may be a Hara'ni word, potentially the first non-Haranir proper name in the language. Both hostile and peaceful ruutani villages exist.
 
 ## Dialects and Variants
 
@@ -45,6 +48,7 @@ The Hara'ni language is **extremely poorly attested**. The known corpus consists
 - ~12 personal names (some with apostrophe-marked morpheme boundaries)
 - ~3 place names
 - ~5 cultural/faction names (including the ethnonym, language name, and faction name)
+- 2 Midnight-era terms (*Ruutani*, *Alndust*) that may be Hara'ni words
 
 No Hara'ni-language sentences, phrases, or texts are attested in canon.
 
@@ -52,6 +56,7 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 
 - The Haranir are a distinct species, not elves or trolls (confirmed by canon).
 - The *Hara-* root appears in five independent attestations with consistent structural position (initial in ethnonym, language name, capital, faction; final in *Aln'hara*).
+- The *Aln-* root now has two attestations (*Aln'hara*, *Alndust*), making it the second-most-secure morpheme.
 - The apostrophe marks genuine morpheme boundaries (consistent with nerubian and qiraji conventions).
 - The language name *Hara'ni* is explicitly confirmed in the wiki infobox.
 
@@ -84,4 +89,6 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 - Warcraft Wiki: Haranir (warcraft.wiki.gg/wiki/Haranir)
 - Warcraft Wiki: Orweyna (warcraft.wiki.gg/wiki/Orweyna)
 - Wikipedia: *World of Warcraft: The War Within* (en.wikipedia.org) — Undermine(d) campaign: Lingering Shadows section
+- Wikipedia: *World of Warcraft: Midnight* (en.wikipedia.org) — Midnight expansion plot details
 - *World of Warcraft: The War Within* (2024). Blizzard Entertainment.
+- *World of Warcraft: Midnight* (2026). Blizzard Entertainment.

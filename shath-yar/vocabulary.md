@@ -25,6 +25,17 @@
 | Qiraji | Insectoid race in Silithus | Descended from the Aqir |
 | Ssra'thik | Mantid-related creature name | (uncertain) exact referent |
 | K'thir | Servants of the Old Gods | Aquatic/cthonic humanoids |
+| Domanaar | Generals of the Devouring Host (Midnight) | Plural form; *-aar* ending parallels ethereal *-daar* in *Salhadaar*, possibly coincidental. *Doman-* element is unique. May be Void-language rather than Shath'Yar. The two named domanaar (*Decimus*, *Terminas*) have Latin-inspired names, possibly Common-language renderings |
+
+## Midnight Expansion (2026): Void Entities
+
+| Word | Translation | Notes |
+|------|-------------|-------|
+| Decimus | Domanaar general | Latin-inspired name ("tenth"); possibly Common-language rendering, not Shath'Yar. Captured by Alleria and Arator; seemingly betrayed then helped the party before being killed by Terminas |
+| Terminas | Most powerful domanaar | Latin-inspired name; possibly Common-language rendering. Possessed the Mantle of Predation. Killed by Decimus |
+| Voidspire | Xal'atath's base of operations | Common-language compound name for Xal'atath's seat in the Voidstorm |
+| Darkwell | Corrupted Sunwell | The Sunwell after corruption by L'ura's void beam. Common-language name |
+| Dawnwell | Purified Sunwell | The renamed Sunwell after purification by combined elven heritage. Common-language name |
 
 ## Attested Phrases
 
