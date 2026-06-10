@@ -234,7 +234,7 @@ All 10 Drust Stele inscription texts have been recovered from warcraft.wiki.gg s
 | Term | Context | Notes |
 |------|---------|-------|
 | Heartsbane Coven | Order of witches formed by Lady Waycrest | English compound; "bane of hearts"; not Drust-language |
-| Thornspeakers | Druidic order of the Drust | English compound; "those who speak to/with thorns"; possibly a translation of a Drust term |
+| Thornspeakers | Druidic order of the Drust | English compound; "those who speak to/with thorns"; possibly a translation of a Drust term | The *Thornspeaker* title parallels the Haranir *Greenspeaker* title — both are Common-language [Nature-element] + [speaker] compounds for druidic practitioners. However, geographic and temporal separation (Drust in Kul Tiras ~2,600 years ago vs. Haranir in Harandar since ~16,000 BDP) makes contact borrowing extremely unlikely. See haranir/vocabulary.md for full analysis. |
 | Order of Embers | Human order created to fight the Drust | English name; not Drust |
 | House Waycrest | Noble house of Drustvar | English name; not Drust |
 

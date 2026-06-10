@@ -103,6 +103,30 @@ If *-dar* = *-dor* (Titan "land/realm"), then *Harandar* = "Hara-land" — a top
 
 **Confidence: Low–Moderate** for *-dar* as a borrowed toponymic suffix in Hara'ni.
 
+### The *-ia* / *-a* Feminine Suffix (Speculative)
+
+Three confirmed female Haranir names end in *-ia* or phonologically conditioned variants: *Ruia* (-ia), *Ney'leia* (-eia), *On'hiea* (-iea). The surface variation may reflect a single underlying suffix *-ia* /jə/ with phonological conditioning by the preceding vowel:
+
+| Preceding Environment | Surface Form | Example |
+|-----------------------|--------------|---------|
+| After back vowel (/uː/) | *-ia* /i.ə/ | *Ruia* |
+| After mid front vowel (/eɪ/) | *-eia* /eɪ.ə/ | *Ney'leia* |
+| After high front vowel (/iː/) | *-iea* /iː.ə/ | *On'hiea* |
+
+Alternatively, the common element may be final *-a* (a feminine suffix), with the preceding *i/e* belonging to the stem: *Rui-* + *-a*, *Ney'lei-* + *-a*, *On'hie-* + *-a*.
+
+No male Haranir names end in *-a* (*Amarakk*, *Hannan*, *Hagar*), but other female names (*Orweyna*, *Gnarla*) also lack *-ia*. The *-a* feminine ending is a widespread Blizzard design pattern across multiple WoW languages (Draenei, Nazja), making it difficult to distinguish genuine morphology from naming aesthetics.
+
+**Confidence: Very Low–Low** for *-ia* / *-a* as a genuine Haranir feminine suffix.
+
+### The *-ar* Element in *Ul'ar*: Potential Nerubian Loanword
+
+The place name *Ul'ar* (*Ul'* + *-ar*) contains an *-ar* suffix that parallels the nerubian *-ar* faction suffix (Anub'ar, Nerub'ar, Hath'ar). Wildcamp Ul'ar is located near the City of Threads in Azj-Kahet, making cultural contact between Haranir and nerubians plausible. However, *-ar* is a common syllable across WoW languages, and no other Haranir-nerubian shared morphemes exist.
+
+If *-ar* were a nerubian loanword, the semantic shift from "brood/collective" (nerubian faction suffix) to "camp/settlement" (Hara'ni place-name element) would be natural. Na'layro's confirmed contact with outsiders provides a social mechanism for loanword transmission.
+
+**Confidence: Very Low** for *-ar* as a nerubian loanword. See vocabulary.md §6 for full analysis.
+
 ### Apostrophe-Marked Compounding
 
 The dominant morphological process in attested Hara'ni names is apostrophe-marked compounding:

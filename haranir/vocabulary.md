@@ -103,15 +103,53 @@ If *-dar* = *-dor* (a Titan-derived toponymic suffix meaning "land" or "realm"),
 
 Three Haranir personal names end in *-ia* or similar vowel sequences: *Ruia*, *Ney'leia*, *On'hiea*. If *-ia* = a feminine name suffix, this would be a significant morphological finding.
 
-| Name | Ending | Notes |
-|------|--------|-------|
-| *Ruia* | *-ia* | Female (Lightwarden) |
-| *Ney'leia* | *-eia* | Female (spoke to Arathi) |
-| *On'hiea* | *-iea* | Female (camp owner) |
+| Name | IPA | Ending | Notes |
+|------|-----|--------|-------|
+| *Ruia* | /ˈruːiə/ | *-ia* | Female (Lightwarden) |
+| *Ney'leia* | /neɪˈleɪə/ | *-eia* | Female (spoke to Arathi) |
+| *On'hiea* | /ɒnˈhiːə/ | *-iea* | Female (camp owner) |
 
 However, other female Haranir names (*Orweyna*, *Gnarla*) do not end in *-ia*, and male names (*Amarakk*, *Hannan*) provide no clear contrast. The sample size is too small for confidence.
 
 **Confidence: Very Low.** The *-ia* pattern could be coincidental or reflect Blizzard naming aesthetics rather than genuine Haranir morphology.
+
+#### Deepened Analysis: Phonological Conditioning of *-ia* Variants
+
+The three *-ia* variants show a pattern that may reflect phonological conditioning by the preceding vowel:
+
+| Name | Preceding Vowel | Surface Form | Underlying *-ia*? |
+|------|-----------------|--------------|-------------------|
+| *Ruia* | /uː/ | -ia /i.ə/ | *Ru* + *-ia* → /ruː.i.ə/ — no diphthongization |
+| *Ney'leia* | /eɪ/ | -eia /eɪ.ə/ | *Ney'le* + *-ia* → /leɪ.i.ə/ → /leɪ.ə/ — the /i/ assimilates to the preceding /eɪ/ |
+| *On'hiea* | /iː/ | -iea /iː.ə/ | *On'hi* + *-a* → /hiː.ə/ — the /iː/ is the stem vowel, *-a* is the suffix |
+
+If *-ia* is a single suffix /jə/ (yod + schwa), the surface variation is predictable:
+- After back vowels: /jə/ surfaces as *-ia* (Ruia)
+- After mid front vowels: /jə/ assimilates to *-eia* (Ney'leia)
+- After high front vowels: /jə/ merges with the stem vowel as *-iea* (On'hiea)
+
+This phonological conditioning analysis is more parsimonious than positing three separate suffixes (*-ia*, *-eia*, *-iea*). A single underlying suffix *-ia* /jə/ with phonologically conditioned surface forms would be typologically natural.
+
+Alternatively, the common element may simply be final *-a* (a feminine suffix), with the preceding *i/e* belonging to the stem:
+- *Rui-* + *-a* → Ruia
+- *Ney'lei-* + *-a* → Ney'leia
+- *On'hie-* + *-a* → On'hiea
+
+This analysis would make *-a* the feminine suffix (paralleling the widespread *-a* feminine ending in real-world languages from Romance to Slavic to Semitic), with the preceding vowel being part of the stem rather than part of the suffix.
+
+#### Cross-Language Comparison: *-ia* / *-a* Feminine Endings in WoW
+
+| Language | Female Names Ending in *-a* / *-ia* | Male Contrast | Assessment |
+|----------|--------------------------------------|---------------|------------|
+| **Hara'ni** | *Ruia*, *Ney'leia*, *On'hiea* (3 of ~5 known females) | *Amarakk*, *Hannan*, *Hagar* (0 of ~3–4 known males end in *-a*) | Possible feminine *-a* / *-ia* |
+| **Nazja** | *Azshara*, *Nar'jira* | *Ozumat*, *Tidelord* (no *-a* endings) | Possible *-a* / *-ira* feminine |
+| **Draenei** | Many female names end in *-a* (Ishi, K'ara) | Male names often end in *-l*, *-n*, *-s* (*Velen*, *Maraad*, *Nobundo*) | Probable *-a* feminine |
+| **Zandali** | *Primal Talanj* | *Zul*, *Rastakhan* | Unclear |
+| **Elven** | *Tyrande*, *Maiev*, *Shandris* — mixed endings | *Malfurion*, *Illidan*, *Kael'thas* — no *-a* | No clear *-a* pattern |
+
+The *-a* feminine ending is a common Blizzard design pattern across multiple WoW languages, making it difficult to distinguish genuine Haranir morphology from Blizzard naming aesthetics. The Haranir pattern is strengthened by the fact that all three *-ia* names are confirmed female and zero male names end in *-a*, but the sample remains very small.
+
+**Confidence: Very Low–Low** for *-ia* / *-a* as a genuine Haranir feminine suffix. The cross-language parallel suggests Blizzard aesthetic influence, but the phonological conditioning of the *-ia* / *-eia* / *-iea* variants (if real) would support a genuine morphological analysis.
 
 ### The Apostrophe Pattern
 
@@ -146,6 +184,48 @@ The Haranir live in proximity to nerubian territory (Wildcamp Ul'ar is near the 
 
 **Assessment: Geographic proximity but no confirmed linguistic connection.**
 
+### Haranir — Nerubian Geographic Proximity: Loanword Analysis
+
+Wildcamp Ul'ar is located near the City of Threads in Azj-Kahet, placing Haranir and nerubians in direct geographic proximity. This section analyzes whether any Haranir morphemes could be nerubian loanwords.
+
+#### The *-ar* Element in *Ul'ar*
+
+The place name *Ul'ar* (/ʊlˈɑːr/) decomposes as *Ul'* + *-ar*. The *-ar* suffix parallels the nerubian *-ar* faction suffix attested in five nerubian names:
+
+| Nerubian Name | Decomposition | *-ar* Function |
+|---------------|---------------|----------------|
+| *Anub'ar* | *Anub-* + *-ar* | Scourge faction (Dragonblight) |
+| *Hath'ar* | *Hath-* + *-ar* | Scourge faction (Zul'Drak) |
+| *Nerub'ar* | *Nerub-* + *-ar* | Scourge faction (Borean Tundra) |
+| *Ahn'kahar* | *Ahn-* + *-kahar* | Scourge faction (Ahn'kahet); *-kahar* may be *-kah-* + *-ar* |
+| *Nerub-ar Palace* | *Nerub-* + *-ar* | Ansurek's seat of power (TWW) |
+
+In nerubian, *-ar* is analyzed as a "brood/collective" suffix with Low–Moderate confidence.
+
+**Arguments for *-ar* as a nerubian loanword in Hara'ni:**
+
+1. **Geographic proximity**: Wildcamp Ul'ar is literally adjacent to Azj-Kahet's City of Threads. Cultural contact is not just plausible but expected.
+2. **Same morpheme shape and function**: Both *-ar* elements follow an apostrophe boundary and designate a collective entity (faction in nerubian, place/camp in Hara'ni).
+3. **Na'layro's outsider contact**: The Greenspeaker Na'layro "secretly worked with outsiders," confirming that some Haranir interact with non-Haranir. This provides a social mechanism for loanword transmission.
+4. **Semantic shift is plausible**: Nerubian *-ar* "brood/collective" → Hara'ni *-ar* "camp/settlement of a group" represents a natural semantic extension from social group to the place where that group resides.
+
+**Arguments against:**
+
+1. **Common syllable**: *-ar* is a frequent syllable across WoW languages. It appears in Vrykul (*-garde*), Earthen (*-dar*), and Common (*-garde*). The coincidence rate for *-ar* is high.
+2. **Single data point**: *Ul'ar* is the only Haranir word with *-ar*. One shared syllable cannot establish a loanword relationship.
+3. **Functional difference**: Nerubian *-ar* is a faction suffix (forming group names); Hara'ni *-ar* in *Ul'ar* appears in a place name. The semantic shift from "brood" to "camp" is plausible but requires more evidence.
+4. **No other shared morphemes**: Despite geographic proximity, no other Haranir-nerubian morpheme pairs exist. A genuine loanword relationship would be expected to show more than one shared element.
+
+**Assessment:**
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| *-ar* is a nerubian loanword | **Very Low** | Geographic proximity supports contact, but a single shared syllable is insufficient |
+| *-ar* is coincidental | **Moderate–High** | *-ar* is a common syllable; no other shared morphemes |
+| *-ar* reflects a deep Azerothian areal feature | **Very Low** | No mechanism for shared substrate between unrelated language families |
+
+**Confidence: Very Low** for *-ar* as a nerubian loanword in Hara'ni. The geographic proximity makes contact plausible, but the evidence is insufficient to confirm it. If future TWW or Midnight content reveals additional shared morphemes between Haranir and nerubian, the *-ar* connection should be reevaluated.
+
 ### Haranir — Ethereal Connection
 
 Both Haranir and ethereal names use apostrophe-marked morpheme boundaries, but:
@@ -154,6 +234,51 @@ Both Haranir and ethereal names use apostrophe-marked morpheme boundaries, but:
 - Different cultural contexts (subterranean vs. dimensional)
 
 **Assessment: No confirmed linguistic connection.**
+
+### The Greenspeaker / Thornspeaker Parallel
+
+The Haranir title **Greenspeaker** (held by Na'layro) parallels the Drust title **Thornspeaker** (held by Ulfar and others). Both follow the English compound pattern [Nature-element] + [speaker]:
+
+| Title | Culture | Nature Element | Semantic Association |
+|-------|---------|----------------|---------------------|
+| *Greenspeaker* | Haranir | "Green" (living, verdant) | Harandar's primordial jungle; World Tree roots |
+| *Thornspeaker* | Drust | "Thorn" (protective, sharp) | Drustvar's dark brambles; wicker constructs |
+
+#### Key Observations
+
+1. **Both are Common-language titles**, not native-language words. The Drust term for "Thornspeaker" is unknown; the Hara'ni term for "Greenspeaker" is unknown. Both titles are in-game English designations for what may be culturally untranslatable roles.
+
+2. **Semantic parallel**: Both imply a shamanic/druidic role where the practitioner communicates with nature. "Thorn" reflects the Drust's thorny, dark druidism (associated with wicker, brambles, and the death-adjacent side of nature). "Green" reflects the Haranir's connection to the living, verdant World Tree roots in Harandar.
+
+3. **Cultural context differences**:
+   - **Thornspeakers**: Drust druids who maintained a nature-communication tradition after splitting from Gorak Tul's death-magic faction. Ulfar is the last living Drust Thornspeaker. Human Kul Tirans can become Thornspeakers (Adalyn Forestwatcher, Amalie Oakseeker, etc.), suggesting the tradition is teachable to outsiders. Thornspeakers take bear form and are associated with the Emerald Dream.
+   - **Greenspeakers**: Haranir who communicate with the green/living aspects of nature in Harandar. Na'layro is the only named Greenspeaker. She "secretly worked with outsiders," suggesting the Greenspeaker role may have a diplomatic or intermediary function in addition to its druidic role.
+
+4. **Geographic and temporal separation**: The Drust are in Kul Tiras (Eastern Kingdoms, surface world); the Haranir are in Harandar (Khaz Algar, subterranean). There is no documented contact between Drust and Haranir civilizations. The Drust were active ~2,600 years ago (per lore); the Haranir have been in Harandar since ~16,000 BDP.
+
+5. **Other WoW "speaker" titles**: The [Nature-element] + [speaker] pattern appears elsewhere in WoW:
+   - *Spiritspeaker* — general shamanic term
+   - *Earthspeaker* — shamanic role
+   - *Lorewalker* — pandaren scholars (different suffix but similar compound pattern)
+   - The "speaker" element is a Common/English morpheme used by Blizzard to translate various cultural roles involving communication with natural or spiritual forces.
+
+6. **The "Green" vs. "Thorn" semantic distinction**:
+   - "Green" = living, growing, verdant — associated with the Haranir's connection to World Tree roots and the primordial jungle of Harandar
+   - "Thorn" = protective, defensive, sharp — associated with the Drust's wicker and thorn-based magic and the dark forests of Drustvar
+   - The semantic difference reflects the different ecological contexts of the two cultures
+
+#### Connection Scenarios
+
+| Scenario | Plausibility | Notes |
+|----------|-------------|-------|
+| **Independent parallel development** | **High** | Both cultures independently developed nature-communication traditions; Blizzard translated both using the [Nature] + [speaker] English pattern. Most parsimonious explanation. |
+| **Shared Azerothian druidic substrate** | **Very Low** | If an ancient druidic tradition influenced both, the "speaker" pattern could reflect shared conceptual framework. However, no evidence supports a prehistoric Drust-Haranir connection. |
+| **Blizzard design convergence** | **High** | From a meta-perspective, the same English naming pattern was used for two druidic cultures. This is equivalent to independent parallel development but acknowledges the designer's role. |
+| **Contact borrowing** | **Very Low** | Geographic and temporal separation makes direct contact extremely unlikely. No shared morphemes exist between Drust and Hara'ni. |
+
+**Assessment:** The Greenspeaker/Thornspeaker parallel is most likely due to independent parallel development. Both cultures have druidic/nature-communication traditions, and the [Nature-element] + [speaker] naming pattern is a natural English compound for such roles. No in-universe contact or borrowing is required to explain the parallel.
+
+**Confidence: Very Low** for a genuine in-universe linguistic connection between Greenspeaker and Thornspeaker; **High** for independent parallel development / Blizzard design convergence.
 
 ### Haranir Language Family: Unclassified
 

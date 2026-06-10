@@ -21,7 +21,7 @@ Key historical events affecting the language:
 - The Haranir are deeply connected to the World Tree roots that converge in Harandar. This connection may be reflected in their vocabulary (if *Aln'hara* = "the call from deep within," the language likely has terms for roots, depths, and world-songs).
 - The Haranir can shapeshift into bats, suggesting vocabulary related to flight, echolocation, and transformation.
 - The Haranir are isolationist — they were unknown to Freya (a Titan Keeper) and to surface civilizations for over 16,000 years. This isolation likely preserved archaic features of the language.
-- The *Greenspeaker* title (held by Na'layro) parallels the *Thornspeaker* title among the Drust — both suggest a druidic or nature-communication tradition with a Common-language title that may translate a native term.
+- The *Greenspeaker* title (held by Na'layro) parallels the *Thornspeaker* title among the Drust — both suggest a druidic or nature-communication tradition with a Common-language title that may translate a native term. However, the parallel is most likely due to independent development rather than contact borrowing, given the geographic and temporal separation between the two cultures (Drust in Kul Tiras vs. Haranir in Harandar; Drust active ~2,600 years ago vs. Haranir in Harandar since ~16,000 BDP). See vocabulary.md §6 for full analysis.
 - The Haranir mount is the *Grimlynx* — a Common-language name, not a Hara'ni word.
 
 ## Dialects and Variants
