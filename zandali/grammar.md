@@ -82,7 +82,30 @@ The suffix *-ey* appears in the title *Hash'ey* ("unifier"), earned by Zul'jarra
 
 This would be the **first attested Zandali agentive suffix with a confirmed semantic gloss**. However, the single attestation prevents firm conclusions. If *-ey* is genuine, *Hash'* = "unite/gather" as a verb root.
 
-**Confidence: Low** for *-ey* as a genuine Zandali agentive suffix (single attestation, but semantically coherent with the confirmed gloss).
+#### Cross-Linguistic Comparison: Agentive Suffixes in WoW
+
+| Language | Agentive Suffix | Example | Meaning | Notes |
+|----------|----------------|---------|---------|-------|
+| **Zandali** | *-ey* (?) | *Hash'ey* | "Unifier" | Single attestation with confirmed gloss |
+| **Darnassian** | *-dorei* | *Sin'dorei* | "Children of the Blood" | Not purely agentive; means "children/people of" |
+| **Dwarven** | *-dun* (?) | *Bael'dun* | Excavation/earth-related | Uncertain; not confirmed agentive |
+| **Shath'Yar** | *-aqi* (?) | *N'raqi* | "Faceless Ones" | Collective rather than agentive |
+
+No other WoW language has a confirmed agentive suffix with a single-morpheme verb root + agentive ending pattern. The closest parallel is Zandali's own *-jin* suffix ("leader/chief"), but *-jin* is a title suffix appended to names (proper nouns), not a productive agentive suffix appended to verb roots.
+
+#### Assessment: Genuine Morpheme vs. Blizzard Aesthetic
+
+Arguments for *-ey* as a genuine Zandali agentive suffix:
+1. **Confirmed gloss**: "Unifier" is explicitly a "one who [verb]" formation
+2. **Semantically coherent**: *Hash'* + *-ey* = "unite" + "one who" = "unifier"
+3. **Structural parallel**: Zandali already has suffixes that mark role/status (*-jin*, *-'ai*)
+
+Arguments against:
+1. **Single attestation**: No other Zandali words use *-ey*
+2. **Blizzard aesthetic**: The *-ey* ending could be an English-influenced rendering (cf. English *-y* / *-ey* diminutive, or *-er* → *-ey* adaptation), not a genuine Zandali morpheme
+3. **No other Zandali titles with confirmed glosses exist**: Without a second data point, *-ey* cannot be distinguished from a unique name element
+
+**Confidence: Low–Moderate** for *-ey* as a genuine Zandali agentive suffix (upgraded from Low based on the confirmed gloss, but still limited by single attestation). The confirmed semantic gloss "unifier" is the strongest evidence — it is not just a fan translation but an in-game canonical designation.
 
 ### Title Suffix: Jin
 

@@ -179,7 +179,7 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
 | Hash' | Possibly "unite" or "gather" | Hash'ey ("unifier") | Low — single attestation with confirmed gloss |
-| -ey | Possibly agentive suffix ("one who does X") | Hash'ey ("unifier") | Low — single attestation; if genuine, would be a new Zandali agentive suffix |
+| -ey | Possibly agentive suffix ("one who does X") | Hash'ey ("unifier") | Low–Moderate — single attestation; confirmed gloss "unifier" strongly supports agentive function; if genuine, would be a new Zandali agentive suffix |
 | -jan | Uncertain; possibly personal name element | Zul'jan | Very Low — single attestation |
 | -jarra | Uncertain; possibly feminine name element | Zul'jarra (female) | Very Low — single attestation; the *-a* ending consistent with WoW-wide feminine pattern |
 

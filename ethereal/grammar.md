@@ -69,7 +69,7 @@ The artifact name *Reshii* may provide the full root form: *Resh-* = "realm/worl
 
 [speculative]: The *-aresh* form in *K'aresh* could be an extended variant: *-a-resh* with a linking vowel, or *-ar-esh* with an additional consonant. If the base suffix is *-esh*, then *-aresh* = *-a-* + *-esh*, with the linking vowel possibly marking a specific semantic distinction (e.g., "homeworld" vs. "city/realm").
 
-**Confidence: Moderate** for *-esh* as a genuine locative suffix (upgraded from Low–Moderate based on *Reshii* analysis).
+**Confidence: Moderate–High** for *-esh* as a genuine locative suffix (upgraded from Moderate based on *Reshii* plural analysis; Wikipedia confirms multiple Reshii Ribbons existed, each held by a different Ravel member, strengthening *-ii* as a plural suffix and *Resh-* as the root form).
 
 ### The *-daar* Suffix
 
@@ -195,9 +195,9 @@ The artifact name *Reshii Ribbons* contains the element *Resh-*, which may be th
 - *-esh* in *Tazavesh* = reduced form of *resh-* with /r/ loss after consonant cluster
 - *-aresh* in *K'aresh* = *-a-* + *resh* = "realm" with linking vowel
 
-This analysis strengthens the *-esh* suffix hypothesis by providing the full root form. See vocabulary.md §14 for full analysis.
+This analysis strengthens the *-esh* suffix hypothesis by providing the full root form. Wikipedia confirms multiple Reshii Ribbons existed, each possessed by a different Ravel member — the party had to collect all of them, and the Ravel previously used the combined power of the Reshii Ribbons to destroy K'aresh. This confirms *-ii* is a plural suffix and *Resh-* is the root noun meaning "realm/world." See vocabulary.md §14 for full analysis.
 
-**Confidence: Low–Moderate** for *Resh-* as the full root form of *-esh*.
+**Confidence: Moderate** for *Resh-* as the full root form of *-esh*; **Low–Moderate** for *-ii* as a plural suffix (single attestation, but strong contextual evidence from the plural artifact set).
 
 ### The Broker–Ethereal Dialect Hypothesis
 
@@ -220,5 +220,6 @@ The ethereal corpus is extremely small:
 
 No verb forms, particles, or syntactic structures are known. The only confirmed morphological patterns are:
 1. Apostrophe-marked compounding (very low confidence — only 2 examples)
-2. *-esh* / *-aresh* suffix (moderate confidence — upgraded from Low–Moderate based on *Reshii* analysis; see §14 in vocabulary.md)
-3. Nexus-* title hierarchy (Common-language, not ethereal)
+2. *-esh* / *-aresh* suffix (moderate–high confidence — upgraded based on *Reshii* plural analysis; see §14 in vocabulary.md)
+3. *-ii* plural suffix (low–moderate confidence — single attestation in *Reshii*, but confirmed plural artifact set)
+4. Nexus-* title hierarchy (Common-language, not ethereal)

@@ -78,7 +78,7 @@ This parallels the nerubian and qiraji situations — species with no attested c
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
-| -esh / -aresh | Possibly "world" / "home" / "realm" | *K'aresh*, *Tazavesh* | **Low–Moderate** — both are place names; the shared *-esh* ending may reflect a locative suffix |
+| -esh / -aresh | Possibly "world" / "home" / "realm" | *K'aresh*, *Tazavesh* | **Moderate** — both are place names; the shared *-esh* ending likely reflects a locative suffix; strengthened by *Reshii* plural analysis |
 | -daar | Possibly "king" / "ruler" / "lord" | *Salhadaar* (Nexus-King) | **Low** — single attestation; the bearer holds the highest ethereal political title |
 | Ve'- | Uncertain; possibly a broker prefix | *Ve'nari* | **Very Low** — single attestation; the apostrophe marks a morpheme boundary |
 
@@ -86,6 +86,7 @@ This parallels the nerubian and qiraji situations — species with no attested c
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
+| -ii | Possibly plural suffix | *Reshii* | **Low–Moderate** — single attestation, but Wikipedia confirms *Reshii Ribbons* are a plural set (multiple artifacts, each held by a different Ravel member) |
 | -mad / -aad | Possibly a title or rank suffix | *Haramad*, *Salhadaar* | **Very Low** — phonological similarity in *-mad* (Haramad) and *-daar* (Salhadaar) may be coincidental |
 | -ff- gemination | Possibly morphologically significant | *Shaffar* | **Very Low** — single attestation; the doubled /f/ may reflect an ethereal phonological process |
 | Az- | Uncertain (coincidental with nerubian *Azj-*?) | *Azir* | **Very Low** — may reflect Blizzard's consistent aesthetic for "alien" names, not a genuine shared morpheme with nerubian |
@@ -105,7 +106,7 @@ If *-esh* = "world" or "realm" or "home":
 
 The *-aresh* form in *K'aresh* could be an extended variant of *-esh* with a linking vowel: *-a-resh* or *-ar-esh*. Alternatively, the root could be *-resh* with different prefixes.
 
-**Confidence: Low–Moderate.** Two data points with consistent semantics (both are realms/worlds), but the possibility of coincidence cannot be excluded.
+**Confidence: Moderate.** Two data points with consistent semantics (both are realms/worlds), strengthened by the *Reshii* plural analysis (see §10 and §14).
 
 ## 6. The *Nexus-* Title System
 
@@ -207,13 +208,22 @@ This parallels how *Nerub-* appears in *Nerubian* and *Azjol-Nerub* as a self-de
 
 ### The *Reshii* Element
 
-*Reshii* appears as the name of powerful artifacts. If *Reshii* contains the *-esh-* / *-resh-* element also found in *K'aresh*, this could support the locative/realm hypothesis:
+*Reshii* appears as the name of powerful artifacts — the **Reshii Ribbons**. The Wikipedia article for *The War Within* (Ghosts of K'aresh campaign) confirms that **multiple Reshii Ribbons existed**, each possessed by a different member of the Ravel:
+
+1. Locus-Walker's Reshii Ribbon
+2. Ve'nari's Reshii Ribbon
+3. A dead Ravel member's Reshii Ribbon (stolen by the Wastelanders, recovered)
+4. Phase-Thief Azir's Reshii Ribbon (the final one, obtained after killing him)
+
+The party had to "collect each of the Reshii Ribbons from the remaining members of the Ravel," and the Ravel previously "used the combined power of the Reshii Ribbons" to destroy K'aresh in an attempt to kill Dimensius. This confirms that *Reshii* is a **plural form** — there are multiple artifacts, all called "Reshii Ribbons."
+
+If *Reshii* = *Resh-* + *-ii* (plural), then *-ii* is a **plural suffix** and *Resh-* is the singular root meaning "realm/world." This strongly supports the locative/realm hypothesis:
 - *K'aresh* = "[K'ar]-realm" (the homeworld)
-- *Reshii* = "[Re]-realm-[ii]" or "*Resh-*" + "*-ii*" (artifacts of the realm?)
+- *Reshii* = "realms" or "[realm]-artifacts" (plural, with *-ii* = plural suffix)
 
 Alternatively, *Resh-* may be a separate root with no connection to *-esh*.
 
-**Confidence: Very Low.** The phonological similarity between *-resh* (in *K'aresh*) and *Resh-* (in *Reshii*) is suggestive but could be coincidental.
+**Confidence: Low–Moderate** (upgraded from Very Low). The plural confirmation from Wikipedia strengthens the case for *-ii* as a productive plural suffix and *Resh-* as the full root form of the *-esh* / *-aresh* element. The fact that each Ravel member possessed one Reshii Ribbon, and the combined set was used to channel power, is consistent with *Reshii* = "realms" (the Ribbons connect or channel power across realms).
 
 ## 11. Phonological Observations
 
@@ -358,10 +368,10 @@ The analysis hinges on how *K'aresh* is decomposed:
    - Extended form *-aresh* = "realm" (with linking vowel *-a-*, after the initial consonant *K'*)
 
 4. **The *-ii* suffix**: If *Reshii* = *Resh-* + *-ii*, the *-ii* ending could be:
-   - A plural suffix: *Reshii* = "realms" (the Ribbons connect multiple realms?)
+   - **A plural suffix**: *Reshii* = "realms" (the Ribbons connect multiple realms). **Strengthened by Wikipedia confirmation that multiple Ribbons existed**, each possessed by a different Ravel member. The party had to collect all of them, and the combined set was used to channel power — consistent with each Ribbon being "a realm" and the set being "realms" (*Reshii*).
    - An adjectival suffix: *Reshii* = "of the realm" or "realm-ly"
    - A diminutive or affectionate suffix: *Reshii* = "little realm" or "dear realm"
-   - No other ethereal name ends in *-ii*, so this remains speculative
+   - No other ethereal name ends in *-ii*, so this remains speculative, but the plural interpretation is now the most likely
 
 ### Arguments Against a Shared Root
 
@@ -377,11 +387,11 @@ The analysis hinges on how *K'aresh* is decomposed:
 
 | Analysis | Plausibility | Notes |
 |----------|-------------|-------|
-| *Resh-* = same root as *-esh* / *-aresh* (shared "realm" morpheme) | **Low–Moderate** | Phonologically and semantically coherent; the /r/ alternation is plausible but requires assuming conditioned sound change |
+| *Resh-* = same root as *-esh* / *-aresh* (shared "realm" morpheme) | **Moderate** | Phonologically and semantically coherent; the /r/ alternation is plausible but requires assuming conditioned sound change; plural confirmation strengthens the *-ii* suffix analysis |
 | *Resh-* is coincidentally similar to *-esh* | **Low–Moderate** | Three independent attestations of /ɛʃ/ or /rɛʃ/ in an extremely small corpus could be coincidence |
-| *Resh-* is a different morpheme from *-esh* | **Medium** | Simplest analysis that doesn't require sound changes; but leaves the phonological similarity unexplained |
+| *Resh-* is a different morpheme from *-esh* | **Low–Medium** | Simplest analysis that doesn't require sound changes; but leaves the phonological similarity unexplained |
 
-**Confidence: Low–Moderate.** The phonological and semantic coherence of the *resh* ~ *-esh* ~ *-aresh* alternation is suggestive. If *Resh-* is the root form meaning "realm/world," then:
+**Confidence: Moderate** (upgraded from Low–Moderate). The phonological and semantic coherence of the *resh* ~ *-esh* ~ *-aresh* alternation is suggestive, and the Wikipedia confirmation that *Reshii* Ribbons are a plural set (multiple artifacts, each held by a different Ravel member) strengthens the case for *-ii* as a plural suffix and *Resh-* as the root form meaning "realm/world."
 - *K'aresh* = *K'* + *-a-resh* = "[K']-realm" (with linking vowel)
 - *Tazavesh* = *Tazav-* + *-esh* = "[Tazav]-realm" (reduced form with /r/ loss after consonant cluster)
 - *Reshii* = *Resh-* + *-ii* = "realms" or "of the realm" (full root form)
@@ -394,10 +404,10 @@ If the *Reshii* connection is accepted (even provisionally), it affects the conf
 
 | *-esh* Suffix Without *Reshii* | *-esh* Suffix With *Reshii* |
 |-------------------------------|----------------------------|
-| 2 place-name data points (*K'aresh*, *Tazavesh*) | 2 place-name data points + 1 artifact name with full root form |
-| Confidence: Low–Moderate | Confidence: Moderate |
+| 2 place-name data points (*K'aresh*, *Tazavesh*) | 2 place-name data points + 1 artifact name with full root form + plural confirmation |
+| Confidence: Low–Moderate | Confidence: Moderate–High |
 
-The addition of *Reshii* provides the full root form (*resh-*) that the suffix analysis lacked, making the morphological decomposition more secure. However, the uncertainty about *Reshii*'s own etymology prevents upgrading confidence beyond Moderate.
+The addition of *Reshii* provides the full root form (*resh-*) that the suffix analysis lacked, making the morphological decomposition more secure. The Wikipedia confirmation that multiple Reshii Ribbons existed (each held by a different Ravel member, collected and combined to channel power) provides strong evidence for *-ii* as a plural suffix, which further supports *Resh-* as a genuine noun root meaning "realm/world." However, the uncertainty about *Reshii*'s own etymology prevents upgrading confidence beyond Moderate–High.
 
 ## 15. Cross-Reference: Apostrophe-Marked Compounds Across "Alien" WoW Languages
 
