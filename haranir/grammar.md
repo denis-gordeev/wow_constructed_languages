@@ -21,7 +21,7 @@ Grammar rules below are **inferred from attested examples only**. The Hara'ni la
 
 2. **Apostrophe as morpheme boundary**: The apostrophe in Hara'ni names consistently marks compound boundaries between two content morphemes (e.g., *Ter'* + *-kova*, *Nye'* + *-rangi*). This is identical to the medial apostrophe pattern in nerubian and qiraji, and distinct from the initial apostrophe pattern in Shath'Yar.
 
-3. **Geminate consonants**: *Hannan* (*-nn-*) and *Amarakk* (*-kk-*) contain geminate consonants. If these are phonologically significant (not merely orthographic), Hara'ni would share this feature with qiraji (*-naxx*).
+3. **Geminate consonants and long vowels**: *Hannan* (*-nn-*) and *Amarakk* (*-kk-*) contain geminate consonants. *Fuunid* (*-uu-*) and *Ruutani* (*-uu-*) contain long/geminate /uː/. If these are phonologically significant (not merely orthographic), Hara'ni would share geminate consonants with qiraji (*-naxx*) and long vowels would be a distinctive feature. The two *-uu-* attestations confirm that long /uː/ is a genuine phonological feature.
 
 4. **Syllable simplicity**: Hara'ni names tend toward simple CV or CVC syllables. The most complex name in the corpus is *Na'layro* (/nɑːˈleɪroʊ/), which still follows a straightforward CVC.CV.CV pattern after the apostrophe boundary.
 
@@ -99,6 +99,27 @@ This is the **most securely attested morpheme in Hara'ni** — four independent 
 If *Shul'ka* = "Hunters of Shadows" (confirmed translation), the decomposition *Shul'* + *-ka* yields *Shul'* = "shadow" and *-ka* = "hunter(s)" or agentive suffix. This is the most natural morpheme break, but the word could also be indivisible.
 
 **Confidence: Low–Moderate** for *Shul'* = "shadow" and *-ka* = "hunter(s)/agentive".
+
+### The *-ka* Suffix: Deepened Analysis
+
+The *-ka* suffix appears in two very different contexts:
+
+| Name | Context | Proposed Gloss |
+|------|---------|----------------|
+| *Shul'ka* | Order of warriors who sever connection to Aln'hara | "Hunters of Shadows" (confirmed) |
+| *Morta'ka* | Manifestation/abomination in the Rift of Aln | "[Morta-] entity" (no confirmed gloss) |
+
+Three interpretations:
+
+1. **-ka = "hunter(s)"**: Confirmed for *Shul'ka* but semantically inconsistent with *Morta'ka* (which is an adversary, not a hunter). **Plausibility: Low.**
+
+2. **-ka = "entity/personification of [X]"**: A broader agentive/personification suffix. *Shul'ka* = "those who personify shadow" → "Hunters of Shadows." *Morta'ka* = "the personification of [Morta-]" → "the Sundered Echo." Semantically consistent with both attestations. **Plausibility: Low–Moderate.**
+
+3. **-ka = "severed/ritually bonded one"**: Both *Shul'ka* and *Morta'ka* are connected to the severance ritual — the Shul'ka sever their connection to Aln'hara, while *Morta'ka the Sundered Echo* may personify the sundering itself. Under this interpretation, *-ka* specifically designates entities created or defined by severance. **Plausibility: Very Low–Low** (requires assuming a ritual-specific suffix).
+
+The most defensible interpretation is a broad agentive/personification suffix ("one who is [X]" or "entity of [X]"), with "hunter" being the specific contextual gloss for *Shul'ka*.
+
+**Confidence: Very Low–Low** for *-ka* as a genuine Haranir agentive/personification suffix (two attestations; semantic mismatch between contexts limits confidence).
 
 ### Village Suffix Vocabulary
 
@@ -180,6 +201,20 @@ Alternatively, the common element may be final *-a* (a feminine suffix), with th
 No male Haranir names end in *-a* (*Amarakk*, *Hannan*, *Hagar*), but other female names (*Orweyna*, *Gnarla*) also lack *-ia*. The *-a* feminine ending is a widespread Blizzard design pattern across multiple WoW languages (Draenei, Nazja), making it difficult to distinguish genuine morphology from naming aesthetics.
 
 **Confidence: Very Low–Low** for *-ia* / *-a* as a genuine Haranir feminine suffix.
+
+### The *-neia* / *-leia* / *-iea* Endings: Decomposition Analysis
+
+The Zur'ashar member **Shay'neia** adds a third *-ia*-variant ending to the corpus. The three variant endings are most parsimoniously analyzed as **name stems + final *-a* (feminine suffix)**, rather than as three distinct suffixes:
+
+| Name | Ending | Preferred Decomposition | Stem | Feminine *-a* |
+|------|--------|------------------------|------|---------------|
+| *Shay'neia* | *-neia* | *Shay'nei* + *-a* | *-nei* | *-a* |
+| *Ney'leia* | *-leia* | *Ney'lei* + *-a* | *-lei* | *-a* |
+| *On'hiea* | *-iea* | *On'hi* + *-a* | *-i* | *-a* |
+
+The variation is in the stem (*-nei*, *-lei*, *-i*), not in the suffix. The single suffix *-a* is the more parsimonious analysis because it requires only one morpheme rather than three phonologically conditioned variants of *-ia*. The stem-final /i/ or /ei/ coalesces with the suffix *-a* to produce the surface forms *-neia*, *-leia*, *-iea*.
+
+**Confidence: Very Low–Low** for final *-a* as a feminine suffix (the *-neia* data point is consistent with but does not strengthen the hypothesis).
 
 ### The *-ar* Element in *Ul'ar*: Potential Nerubian Loanword
 

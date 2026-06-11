@@ -33,7 +33,7 @@ Key historical events affecting the language:
 - The *Greenspeaker* title (held by Na'layro) parallels the *Thornspeaker* title among the Drust — both suggest a druidic or nature-communication tradition with a Common-language title that may translate a native term. However, the parallel is most likely due to independent development rather than contact borrowing, given the geographic and temporal separation between the two cultures (Drust in Kul Tiras vs. Haranir in Harandar; Drust active ~2,600 years ago vs. Haranir in Harandar since ~16,000 BDP). See vocabulary.md §6 for full analysis.
 - The Haranir mount is the *Grimlynx* — a Common-language name, not a Hara'ni word.
 - **Haranir religion**: The Haranir goddess is **Aln'hara** — the Worldsoul of Azeroth herself. The Haranir worship the nascent titan world-soul as their goddess, calling her *Aln'hara* and hearing her "song" from deep within the world. The **Shul'ka** are Haranir warriors who sever their connection to Aln'hara's song in order to safely enter the Rift of Aln without going mad from her anguish. The Shul'ka initiation ritual involves consuming poison and the "Healing Waters of Ahl'ua," fighting for survival while unconscious, and finally slaying *Morta'ka the Sundered Echo*.
-- **The ruutani**: A race native to Harandar, introduced in Midnight. The name *Ruutani* may be a Hara'ni word, potentially the first non-Haranir proper name in the language. Both hostile and peaceful ruutani villages exist.
+- **The ruutani**: A race native to Harandar, introduced in Midnight. The name *Ruutani* is likely a genuine Hara'ni word (Wikipedia consistently uses "ruutani" as a lowercase common noun, supporting native-language origin). The double-u spelling is confirmed by a second attestation of long /uː/ in *Fuunid*. Both hostile and peaceful ruutani villages exist.
 - **The Zur'ashar** are Haranir painter-storytellers who paint records of history on the walls of Harandar. Through Alndust, these paintings can bring visions of history to life.
 - **The Ka'dani** are an order of elite hunters based in Har'athir (Village of Memory).
 - **Haranir naming**: Four Harandar village names have confirmed translations — *Har'alnor* (Village of Twilight), *Har'athir* (Village of Memory), *Har'kuai* (Village of Rain), *Har'mara* (Village of Balance). The morpheme *Har'* = "village" is the most securely attested morpheme in Hara'ni.
@@ -59,10 +59,10 @@ Key historical events affecting the language:
 
 The Hara'ni language is **extremely poorly attested**. The known corpus consists of:
 
-- ~12 personal names (some with apostrophe-marked morpheme boundaries)
-- ~3 place names
-- ~5 cultural/faction names (including the ethnonym, language name, and faction name)
-- 2 Midnight-era terms (*Ruutani*, *Alndust*) that may be Hara'ni words
+- ~16 personal names (some with apostrophe-marked morpheme boundaries)
+- ~14 place names
+- ~11 cultural/faction names (including the ethnonym, language name, and faction name)
+- 3 Midnight-era terms (*Ruutani*, *Alndust*, *Shay'neia*) that may be Hara'ni words
 
 No Hara'ni-language sentences, phrases, or texts are attested in canon.
 

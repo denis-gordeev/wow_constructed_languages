@@ -29,7 +29,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
-| Ruutani | /ˈruːtɑːni/ | Race native to Harandar | Name of a Harandar-native race affected by the Lightbloom. Both hostile and peaceful ruutani villages exist. If *Ruutani* is a Hara'ni word: *Ruu-* + *-tani* or *Ruut-* + *-ani*. The double vowel *-uu-* is unprecedented in Hara'ni. The *-ani* ending does not match *-nir* / *-ni* / *-ti* but could be a variant of *-ni* with a linking vowel *-a-* (*-a-ni*). First non-Haranir proper name in the language. Alternatively, "ruutani" may be a Common-language designation. **Note:** The Midnight wiki page creature list shows "Rutaani" (with icon named IconSmall_Rutaani.gif), while the Harandar zone page shows "Ruutani" — a spelling discrepancy. **Confidence: Very Low–Low** for *Ruutani* as a genuine Hara'ni word |
+| Ruutani | /ˈruːtɑːni/ | Race native to Harandar | Name of a Harandar-native race affected by the Lightbloom. Both hostile and peaceful ruutani villages exist. If *Ruutani* is a Hara'ni word: *Ruu-* + *-tani* or *Ruut-* + *-ani*. The double vowel *-uu-* is paralleled by *Fuunid* (/ˈfuːnɪd/), confirming that long/geminate /uː/ is a genuine Hara'ni phonological feature (not a spelling error). The *-ani* ending does not match *-nir* / *-ni* / *-ti* but could be a variant of *-ni* with a linking vowel *-a-* (*-a-ni*). First non-Haranir proper name in the language. Alternatively, "ruutani" may be a Common-language designation. **Spelling discrepancy resolved:** Wikipedia consistently uses "ruutani" (lowercase) throughout its Midnight article, supporting the double-u spelling. The earlier "Rutaani" spelling on the Midnight wiki page (IconSmall_Rutaani.gif) likely represents an outdated or erroneous rendering. Wikipedia also uses "ruutani" as a common noun (lowercase), suggesting it is a species/race designation rather than a proper name — this supports the hypothesis that *ruutani* is a genuine Hara'ni word (common nouns for species would be native-language vocabulary). **Confidence: Low–Moderate** for *Ruutani* as a genuine Hara'ni word (upgraded from Very Low–Low based on Wikipedia consistency and lowercase usage) |
 
 ### Midnight Expansion: Haranir World Tree Communion (2026)
 
@@ -85,6 +85,12 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Alndust | — | *Aln-* + *-dust* | Rare material that cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess" (Midnight). The *Aln-* element matches *Aln'hara*, making this the **second attestation of the *Aln-* morpheme**. *Alndust* lacks the apostrophe found in *Aln'hara* — the /d/ after *Aln* may eliminate the need for a glottal stop marker (whereas *Aln'hara* needs one before the /h/). Alternatively, *Alndust* may be a Common-language compound (Aln + dust). If *Aln-* = "deep/sacred/blessed" (as in "call from deep within"), then *Alndust* = "sacred dust" or "dust of the deep." **Confidence: Low–Moderate** for *Aln-* as a genuine Hara'ni morpheme (now two attestations) |
 | Shul'ka | /ʃʊlˈkɑː/ | *Shul'* + *-ka* | **Hunters of Shadows** (confirmed translation) — group of Haranir warriors who sever their connection to the goddess (Aln'hara) to safely patrol the Rift of Aln. **First confirmed Hara'ni translation with official gloss.** *Shul'* = "shadow" and *-ka* = "hunter(s)" is the most natural decomposition. Amarakk is a Shul'ka member who was mutated by the initiation ritual |
 | Zur'ashar | /zʊrˈæʃɑːr/ | *Zur'* + *-ashar* | Order of painter-storytellers who paint records of history on the walls of Harandar. Their paintings can bring visions of history to life through Alndust. A named member is **Zur'ashar Shay'neia** (*Shay'* + *-neia*) |
+
+### Midnight Expansion: Zur'ashar Member (2026)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Shay'neia | /ʃeɪˈneɪə/ | Zur'ashar painter-storyteller | Apostrophe-marked compound: *Shay'* + *-neia*. The *-neia* ending parallels *Ney'leia* (*-leia*) and *On'hiea* (*-iea*). Under the final *-a* feminine suffix analysis: *Shay'ne* + *-ia* → *Shay'neia*, where *-ne* is part of the stem and *-ia/-a* is the feminine suffix. Alternatively, *Shay'* is the prefix and *-neia* is a single compound element. If *-neia* is decomposable as *-ne-* + *-ia*, then *-ne-* may be a separate morpheme (perhaps a participial or adjectival element). **See §5** for full *-ia* / *-neia* analysis |
 | Ka'dani | /kɑːˈdɑːni/ | *Ka'* + *-dani* | Order of elite hunters from Har'athir (Village of Memory). Apostrophe-marked compound. The *-dani* ending does not match *-nir*/*-ni*/*-ti* suffix set |
 | Alnscorned | — | *Aln-* + *-scorned* | Broken nightmares that dwell in the Rift of Aln. Mixed Hara'ni-English compound; *-scorned* is Common |
 | Saptor | /ˈsæptɔːr/ | — | Plant species in Harandar; Haranir wrap meals in saptor fronds before steaming |
@@ -265,6 +271,29 @@ The *-a* feminine ending is a common Blizzard design pattern across multiple WoW
 
 **Confidence: Very Low** for *-ia* / *-a* as a genuine Haranir feminine suffix. The cross-language parallel suggests Blizzard aesthetic influence, and the gender discrepancy for Ruia and On'hiea weakens the hypothesis further.
 
+#### Deepened Analysis: *-neia*, *-leia*, *-iea* — One Suffix or Three?
+
+The Zur'ashar member **Shay'neia** adds a third *-ia*-variant ending to the corpus, alongside *Ney'leia* (*-leia*) and *On'hiea* (*-iea*). This section compares all three:
+
+| Name | Ending | Decomposition A (stem + *-ia*) | Decomposition B (stem + *-a*) |
+|------|--------|--------------------------------|-------------------------------|
+| *Shay'neia* | *-neia* | *Shay'ne* + *-ia* | *Shay'nei* + *-a* |
+| *Ney'leia* | *-leia* | *Ney'le* + *-ia* | *Ney'lei* + *-a* |
+| *On'hiea* | *-iea* | *On'hie* + *-ia* | *On'hi* + *-a* |
+
+Under **Decomposition A** (*-ia* suffix): The stems end in /e/, /e/, /e/ respectively. The *-ia* suffix surfaces as *-eia* after /e/ due to vowel coalescence. This analysis is phonologically natural: /e.i.ə/ → /eɪ.ə/ (the /i/ assimilates to the preceding mid vowel).
+
+Under **Decomposition B** (final *-a* suffix): The stems end in /ei/, /ei/, /i/ respectively. The *-a* suffix is the feminine marker. This is the more parsimonious analysis because:
+1. It requires only one suffix (*-a*) rather than a complex *-ia* with phonological conditioning
+2. The *-a* feminine ending is cross-linguistically widespread and attested in other WoW languages
+3. The /ei/ → /e/ stem variation is predictable (the stem vowel surfaces differently depending on whether a suffix follows)
+
+**The *-neia* data point is significant**: If *-neia* = *-ne* + *-ia*, the *-ne-* element is a previously unattested stem morpheme. But if *-neia* = *-nei* + *-a*, then *-nei* is the stem. Both analyses introduce new stem material. However, *Shay'* as the compound prefix is consistent with Hara'ni naming conventions (CV' compound prefix).
+
+**Assessment**: Decomposition B (final *-a* feminine suffix) is preferred for parsimony. The three endings *-neia*, *-leia*, *-iea* do NOT represent three distinct suffixes but rather three name stems followed by a single *-a* feminine suffix. The variation is in the stem, not the suffix.
+
+**Confidence: Very Low–Low** for final *-a* as a feminine suffix (unchanged; the *-neia* data point does not strengthen or weaken the hypothesis since it is consistent with both analyses).
+
 ### The Apostrophe Pattern
 
 The apostrophe-marked names in the Hara'ni corpus are now:
@@ -316,6 +345,35 @@ If *Shul'ka* = "Hunters of Shadows", the most natural decomposition is *Shul'* +
 **-ka = "hunter(s)" / agentive suffix** (2 attestations: *Shul'ka*, *Morta'ka*)
 
 The *-ka* suffix appears in both *Shul'ka* ("Hunters of Shadows") and *Morta'ka the Sundered Echo*. If *-ka* = "hunter(s)", then *Morta'ka* = "hunter of [Morta-]" or "[Morta-] hunter." However, *Morta'ka* is described as a manifestation/abomination, not a hunter, so *-ka* may have a broader meaning like "one who [does]" or "entity of [X]." **Confidence: Very Low–Low** for *-ka* as an agentive suffix.
+
+#### Deepened Analysis: The *-ka* Suffix
+
+The *-ka* suffix appears in two very different contexts:
+
+| Name | Decomposition | Confirmed/Proposed Gloss | Context |
+|------|---------------|-------------------------|---------|
+| *Shul'ka* | *Shul'* + *-ka* | "Hunters of Shadows" (confirmed) | Order of warriors who patrol the Rift of Aln |
+| *Morta'ka* | *Morta'* + *-ka* | "[Morta-] + -ka" (no gloss) | Manifestation/abomination within the Rift of Aln; slain as final Shul'ka initiation rite |
+
+Three interpretations of *-ka*:
+
+1. **-ka = "hunter(s)"**: *Shul'ka* = "shadow-hunters", *Morta'ka* = "[Morta-] hunter." Problem: Morta'ka is not a hunter; it is an adversary that initiates must slay.
+
+2. **-ka = "entity/personification of [X]"**: A broader agentive/personification suffix. *Shul'ka* = "those who embody/personify shadow" → "Hunters of Shadows." *Morta'ka* = "the personification of [Morta-]" → "the Sundered Echo" (a manifested entity). This interpretation resolves the semantic mismatch: both Shul'ka and Morta'ka are entities defined by their relationship to a concept (shadow, sundering), not necessarily "hunters."
+
+3. **-ka = ritual/bonded suffix**: In both cases, *-ka* designates an entity that has been bonded to or defined by a severance ritual. The Shul'ka have severed their connection to Aln'hara; Morta'ka may be the personification of that severance. Under this interpretation, *-ka* = "severed one" or "one who is bound to [X] through severance."
+
+The title "the Sundered Echo" for Morta'ka is particularly suggestive: "sundered" parallels the Shul'ka's act of severing their connection to Aln'hara. If the Shul'ka initiation creates both the warrior (Shul'ka = "shadow-hunter") and the adversary (Morta'ka = "sundered echo"), then *-ka* may specifically designate entities created or defined by the severance ritual.
+
+**Assessment:**
+
+| Interpretation | Plausibility | Notes |
+|----------------|-------------|-------|
+| *-ka* = "hunter(s)" | **Low** | Confirmed for *Shul'ka* but semantically inconsistent with *Morta'ka* |
+| *-ka* = "entity/personification" | **Low–Moderate** | Semantically consistent with both attestations; broader than "hunter" |
+| *-ka* = "severed/ritually bonded one" | **Very Low–Low** | Creatively consistent but requires assuming a ritual-specific suffix; single semantic domain |
+
+**Confidence: Very Low–Low** for *-ka* as a genuine Haranir morpheme. The most defensible interpretation is a broad agentive/personification suffix ("one who is [X]" or "entity of [X]"), with "hunter" being the specific gloss when applied to the Shul'ka context.
 
 **Village suffix meanings** (4 attestations, confirmed glosses)
 
@@ -489,6 +547,8 @@ The Midnight expansion introduced the **ruutani**, a Harandar-native race. If *R
 ### Key Phonological Features
 
 1. **High /h/ frequency**: *Hagar*, *Hannan*, *Harandar*, *Hara'ni*, *On'hiea*, *Ran'hune* — /h/ appears in 6+ of ~30+ names. This is unusually high compared to other WoW languages and may reflect a genuine Hara'ni phonological tendency.
+
+2. **Long/geminate vowels**: *Fuunid* (*-uu-* = /uː/), *Ruutani* (*-uu-* = /uː/) — the double vowel spelling is now attested twice, confirming that long /uː/ is a genuine Hara'ni phonological feature rather than a spelling error. This supports the *Ruutani* double-u spelling over the *Rutaani* single-u variant.
 
 2. **Apostrophe as morpheme boundary**: Very consistent (~25 of ~30+ names). The apostrophe marks compound boundaries between two content morphemes, identical to nerubian and qiraji patterns.
 
