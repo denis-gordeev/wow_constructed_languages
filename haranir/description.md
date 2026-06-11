@@ -6,16 +6,23 @@ The Haranir are a reclusive, ancient race of humanoids introduced in *The War Wi
 
 The Haranir once lived on Mount Hyjal, unknown even to Freya, before following "Aln'hara" ("the call from deep within the world") to the subterranean realm of Harandar after 16,000 BDP. In the modern era, they are encountered in Khaz Algar during the events of *The War Within*.
 
+The Haranir are confirmed to be descended from **dark trolls / night elves**. *The Art of Midnight* (pg. 125) states: "Contrary to what was believed, the haranir are not natives of Harandar. Long ago, after the dark trolls settled the Well of Eternity and became the night elves, those who would eventually become the haranir split from them and journeyed deep below the ground. Guided by visions, they discovered a new and wondrous place to explore." This means the Haranir are not a truly independent species but a deeply divergent offshoot of the night elven lineage.
+
+The Haranir use the same Xhosa-accented English as the Zandalari trolls, suggesting a possible phonological connection to troll languages.
+
 ## History
 
 Key historical events affecting the language:
 
 - **Pre-16,000 BDP**: The Haranir lived on Mount Hyjal on the surface of Azeroth. Their language from this period is entirely unattested.
-- **~16,000 BDP**: The Haranir heard "Aln'hara" — the call from deep within the world — and traveled to Harandar, a primordial jungle where World Tree roots converge. This migration may have isolated the language from surface languages for over 16,000 years.
+- **~16,000 BDP**: The Haranir heard "Aln'hara" — the call from deep within the world — and traveled to Harandar, a primordial jungle where World Tree roots converge. This migration may have isolated the language from surface languages for over 16,000 years. The Haranir diverged from the dark troll/night elf lineage at this time, making Hara'ni potentially the oldest attested branch of the elven/troll language family.
 - **The *Hara'ti* schism**: A subgroup called the *Hara'ti* ("those who heard the call") formed among the Haranir. This faction designation preserves the *-ti* suffix in the language.
 - **The War Within (2024)**: The Haranir are encountered by Alliance and Horde forces in Khaz Algar. Orweyna is the central Haranir character.
 - **Undermine patch (Lingering Shadows, 2025)**: Orweyna and fellow Haranir investigate remaining Black Blood in Hallowfall. The other Haranir in Orweyna's group become frustrated with her for ignoring their people's isolationist traditions and return to their homeland, leaving Orweyna alone. Orweyna then receives a vision from Azeroth's Worldsoul that leads her to the Ringing Deeps, where she joins Gazlowe in investigating the goblin operation at Opportunity Point. She continues to scout and work alongside surface-world allies through the Liberation of Undermine campaign.
 - **Midnight (2026)**: Orweyna investigates the Lightbloom in Eversong Woods with Arator, then travels to Harandar with Halduron Brightwing. She is found guilty by Haranir elders for violating isolationist traditions. Hagar helps her atone; they discover **Alndust** (a rare material blessed by the Haranir's goddess) cures the **ruutani** (a Harandar-native race) of the Lightbloom. Ruia is revealed to have redirected the Lightbloom to Eversong as revenge after the Sunwell caused it to first appear in Harandar; Hagar stops her. The Haranir are eventually accepted as allies of Silvermoon by Lor'themar. Harandar becomes a playable zone.
+  - Amarakk is confirmed as a **Shul'ka** member — a group of Haranir warriors who sever their connection to Aln'hara (the goddess/Worldsoul) to safely patrol the **Rift of Aln**. Amarakk was mutated by the Shul'ka initiation ritual.
+  - Five Haranir went to the surface to commune with World Trees: **Chonon** (Nordrassil), **Fuunid** (Amirdrassil), **Kawayn** (Vordrassil), **Or'jan** (Teldrassil), **Zhakir** (Shaladrassil). Kawayn confirms Vordrassil's roots do NOT reach Harandar (they were severed due to corruption).
+- **The Rift of Aln**: When the Worldsoul (Aln'hara) was moved from her original location (the Cradle in Harandar), the violence of the act left a wound called the **Rift of Aln**. The Worldsoul's screams of anguish gave life to formless terrors (the **Alnscorned**). The Shul'ka protect Harandar from these horrors.
 - **Contact with Arathi**: The Haranir encountered Arathi humans in Hallowfall. *Ney'leia* spoke directly to the Arathi, suggesting some bilingualism or Common-language ability.
 
 ## Cultural Context
@@ -25,8 +32,14 @@ Key historical events affecting the language:
 - The Haranir are isolationist — they were unknown to Freya (a Titan Keeper) and to surface civilizations for over 16,000 years. This isolation likely preserved archaic features of the language. However, the Undermine patch reveals internal tension: some Haranir (like Orweyna) choose to break from isolationist tradition to engage with outsiders, while others strictly maintain the old ways and withdraw from contact.
 - The *Greenspeaker* title (held by Na'layro) parallels the *Thornspeaker* title among the Drust — both suggest a druidic or nature-communication tradition with a Common-language title that may translate a native term. However, the parallel is most likely due to independent development rather than contact borrowing, given the geographic and temporal separation between the two cultures (Drust in Kul Tiras vs. Haranir in Harandar; Drust active ~2,600 years ago vs. Haranir in Harandar since ~16,000 BDP). See vocabulary.md §6 for full analysis.
 - The Haranir mount is the *Grimlynx* — a Common-language name, not a Hara'ni word.
-- **Haranir religion**: The Midnight expansion provides the first reference to Haranir religion — an unnamed goddess who blessed the Alndust. This goddess may be connected to the World Tree roots that converge in Harandar.
+- **Haranir religion**: The Haranir goddess is **Aln'hara** — the Worldsoul of Azeroth herself. The Haranir worship the nascent titan world-soul as their goddess, calling her *Aln'hara* and hearing her "song" from deep within the world. The **Shul'ka** are Haranir warriors who sever their connection to Aln'hara's song in order to safely enter the Rift of Aln without going mad from her anguish. The Shul'ka initiation ritual involves consuming poison and the "Healing Waters of Ahl'ua," fighting for survival while unconscious, and finally slaying *Morta'ka the Sundered Echo*.
 - **The ruutani**: A race native to Harandar, introduced in Midnight. The name *Ruutani* may be a Hara'ni word, potentially the first non-Haranir proper name in the language. Both hostile and peaceful ruutani villages exist.
+- **The Zur'ashar** are Haranir painter-storytellers who paint records of history on the walls of Harandar. Through Alndust, these paintings can bring visions of history to life.
+- **The Ka'dani** are an order of elite hunters based in Har'athir (Village of Memory).
+- **Haranir naming**: Four Harandar village names have confirmed translations — *Har'alnor* (Village of Twilight), *Har'athir* (Village of Memory), *Har'kuai* (Village of Rain), *Har'mara* (Village of Balance). The morpheme *Har'* = "village" is the most securely attested morpheme in Hara'ni.
+- **The Saptor** plant: Haranir wrap their meals in saptor fronds before steaming them over boiling water.
+- **Haranir druids** use animal forms based on predators from Mount Hyjal (wolverine, quill-bear, razorquill bat, sable), not Harandar's native fauna.
+- In the alpha build of Midnight, a mural depicted the Haranir as the progenitors of all trollkind. At launch, this was changed to depict a "split" in Haranir society instead.
 
 ## Dialects and Variants
 
@@ -35,8 +48,9 @@ Key historical events affecting the language:
 
 ## Relationship to Other Languages
 
-- **Elven languages (Darnassian, Thalassian, Nazja)**: The Haranir physically resemble elves (bat-like ears) but are explicitly "not really elves." No linguistic connection is confirmed — the *Hara-* root, *-nir* suffix, and *-ni* suffix have no parallels in elven languages.
-- **Zandali (Troll)**: The Haranir have small tusks like trolls but are "not really trolls." No linguistic connection is confirmed.
+- **Elven languages (Darnassian, Thalassian, Nazja)**: The Haranir are now CONFIRMED to be descended from dark trolls/night elves, making Hara'ni a deeply divergent branch of the elven/troll language family. However, 16,000+ years of independent development have erased obvious cognate recognition — no shared morphemes are confirmed. The Haranir physically resemble elves (bat-like ears) and this is now explained by their shared ancestry.
+- **Zandali (Troll)**: The Haranir have small tusks like trolls, and the Haranir use Xhosa-accented English like the Zandalari, suggesting a possible phonological substrate connection. The dark troll/night elf origin confirms a genetic relationship through the proto-troll lineage.
+- **Language reclassification**: Hara'ni is no longer classified as an independent language family. It is a **deeply divergent branch of the proto-troll/elven language family**, separated by approximately 16,000 years of independent development.
 - **Titan-forged languages (Earthen, Vrykul, Dwarven, Common)**: The *-dar* suffix in *Harandar* may be a borrowed toponymic element from Earthen/Arathi, but this is an areal feature, not a genetic relationship.
 - **Nerubian**: Geographic proximity (Haranir live near Azj-Kahet), but no confirmed linguistic connection. The medial apostrophe pattern is shared but is a widespread WoW convention.
 - **Drust**: The *Greenspeaker* title parallels the *Thornspeaker* title, but this may reflect parallel druidic traditions rather than linguistic contact.
@@ -59,13 +73,20 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 - The *Aln-* root now has two attestations (*Aln'hara*, *Alndust*), making it the second-most-secure morpheme.
 - The apostrophe marks genuine morpheme boundaries (consistent with nerubian and qiraji conventions).
 - The language name *Hara'ni* is explicitly confirmed in the wiki infobox.
+- **Har' = "village"** is confirmed by four official translations (Har'alnor, Har'athir, Har'kuai, Har'mara).
+- **Shul'ka = "Hunters of Shadows"** is the first confirmed Hara'ni translation with an official gloss.
+- **Aln'hara = "The Worldsoul of Azeroth"** is confirmed by wiki and in-game quests.
+- **The Haranir goddess is Aln'hara** (the Azeroth Worldsoul) — confirmed.
+- **The Haranir descend from dark trolls/night elves** — confirmed by *The Art of Midnight*.
 
 ### What is uncertain
 
 - Whether *Hara-* means "people/we" or "call/song" or both.
 - Whether *-nir*, *-ni*, and *-ti* form a systematic suffix set.
 - Whether the *-dar* suffix is borrowed from Earthen/Arathi or independently developed.
-- Whether *-ia* is a feminine name suffix.
+- Whether *-ia* is a feminine name suffix — the wiki uses male icons for both Ruia and On'hiea, which would contradict the feminine hypothesis.
+- Whether *Har'* (village) and *Hara-* (ethnonym) are the same morpheme or homophonous.
+- Whether *Shul'* = "shadow" and *-ka* = "hunter(s)" (only one confirmed translation with decomposition ambiguous).
 - The full phonological, morphological, and syntactic structure of Hara'ni.
 
 ### What is unknown
@@ -75,7 +96,7 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 - Pronouns, prepositions, or functional elements.
 - Any vocabulary beyond proper names.
 - The pre-16,000 BDP form of the language (before the Haranir migrated to Harandar).
-- The Haranir writing system (if any).
+- The Zur'ashar paint records on walls, suggesting a pictographic tradition, but no alphabetic/syllabic writing system is attested.
 
 ## Pronunciation Notes
 
@@ -92,3 +113,8 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 - Wikipedia: *World of Warcraft: Midnight* (en.wikipedia.org) — Midnight expansion plot details
 - *World of Warcraft: The War Within* (2024). Blizzard Entertainment.
 - *World of Warcraft: Midnight* (2026). Blizzard Entertainment.
+- Warcraft Wiki: Hara'ni (warcraft.wiki.gg/wiki/Hara'ni) — official translation list
+- Warcraft Wiki: Shul'ka (warcraft.wiki.gg/wiki/Shul'ka)
+- Warcraft Wiki: Harandar (warcraft.wiki.gg/wiki/Harandar)
+- Warcraft Wiki: Azeroth (titan) (warcraft.wiki.gg/wiki/Azeroth_(titan)) — Aln'hara confirmation
+- *The Art of Midnight* (2026), pg. 125 — dark troll/night elf origin confirmation

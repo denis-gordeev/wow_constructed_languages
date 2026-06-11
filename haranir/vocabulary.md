@@ -2,7 +2,9 @@
 
 All entries are attested in World of Warcraft canon (NPC dialogue, quest text, in-game text, official Blizzard sources) unless marked. Inferences are marked with [inferred].
 
-The Haranir are a reclusive, ancient race introduced in *The War Within* (2024). Their language, **Hara'ni**, is named explicitly in the wiki infobox. The Haranir are described as "not really elves, not really trolls" — they have bat-like ears, small tusks, grayish-purple skin, dark fur, and quills. They can shapeshift into bats. They once lived on Mount Hyjal, unknown even to Freya, and traveled to the subterranean realm of Harandar following "Aln'hara" ("the call from deep within") after 16,000 BDP.
+The Haranir are a reclusive, ancient race introduced in *The War Within* (2024). Their language, **Hara'ni**, is named explicitly in the wiki infobox. The Haranir are described as "not really elves, not really trolls" — they have bat-like ears, small tusks, grayish-purple skin, dark fur, and quills. They can shapeshift into bats. They once lived on Mount Hyjal, unknown even to Freya, and traveled to the subterranean realm of Harandar following *Aln'hara* after 16,000 BDP. *Aln'hara* is the Haranir name for the **Worldsoul of Azeroth** (confirmed by warcraft.wiki.gg). The Haranir worship the Azeroth worldsoul as their goddess.
+
+The Haranir are confirmed linked to **dark trolls and night elves** — from *The Art of Midnight* (pg. 125): "those who would eventually become the haranir split from them [dark trolls/night elves] and journeyed deep below the ground." The Haranir use the same Xhosa-accented English as the Zandalari trolls. The early development name was "harronir" (erroneously used in *The Art of TWW*).
 
 ## 1. Proper Names (Beings)
 
@@ -16,18 +18,42 @@ The Haranir are a reclusive, ancient race introduced in *The War Within* (2024).
 | Gnarla | /ˈnɑːrlə/ | Elder | No apostrophe; *Gn-* initial cluster |
 | Ran'hune | /ɾænˈhuːneɪ/ | Elder | Apostrophe-marked compound: *Ran'* + *-hune*. The *-hune* element is unexplained |
 | Nye'rangi | /naɪˈrɑːnɡi/ | Elder | Apostrophe-marked compound: *Nye'* + *-rangi*. The *-rangi* element is unexplained |
-| Lightwarden Ruia | /ˈruːiə/ | Elder; former Haranir leader | Previously listed as KIA but confirmed alive in Midnight. Refuses to work with outsiders; revealed to have redirected the Lightbloom to Eversong Woods as revenge after the Sunwell caused Lightbloom to first appear in Harandar; stopped by Hagar. "Lightwarden" is a Common-language title; *Ruia* is a Haranir personal name. No apostrophe |
-| Amarakk | /əˈmɑːræk/ | Orweyna's brother; closest friend | Geminate *-kk* ending; no apostrophe. The *Am-* prefix parallels *Amarakk* → possibly *Ama-* + *-rakk* |
+| Lightwarden Ruia | /ˈruːiə/ | Elder; former Haranir leader | Previously listed as KIA but confirmed alive in Midnight. Refuses to work with outsiders; revealed to have redirected the Lightbloom to Eversong Woods as revenge after the Sunwell caused Lightbloom to first appear in Harandar; stopped by Hagar. "Lightwarden" is a Common-language title; *Ruia* is a Haranir personal name. No apostrophe. **Note:** The warcraft.wiki.gg uses a MALE icon for Ruia (IconSmall_Haranir_Male.gif). If Ruia is male, the *-ia* feminine suffix analysis is weakened — see §5 |
+| Amarakk | /əˈmɑːræk/ | Orweyna's brother; Shul'ka member | Geminate *-kk* ending; no apostrophe. The *Am-* prefix parallels *Amarakk* → possibly *Ama-* + *-rakk*. Confirmed Shul'ka member; was mutated by the Shul'ka initiation ritual |
 | Hannan | /ˈhænən/ | Haranir scout; companion of Orweyna | No apostrophe; *H-* initial. The *-nn-* may represent geminate /n/ or a spelling convention |
 | Ney'leia | /neɪˈleɪə/ | Owner of Wildcamp Or'lay; spoke to Arathi | Apostrophe-marked compound: *Ney'* + *-leia*. The *-leia* ending parallels *Ruia* (*-ia* feminine suffix?) |
-| On'hiea | /ɒnˈhiːə/ | Owner of Wildcamp Or'lay | Apostrophe-marked compound: *On'* + *-hiea*. The *-hiea* element parallels *Ney'leia* and *Ruia* in vowel pattern |
+| On'hiea | /ɒnˈhiːə/ | Owner of Wildcamp Or'lay | Apostrophe-marked compound: *On'* + *-hiea*. The *-hiea* element parallels *Ney'leia* and *Ruia* in vowel pattern. **Note:** The warcraft.wiki.gg uses a MALE icon for On'hiea (IconSmall_Haranir_Male.gif). If On'hiea is male, the *-ia* feminine suffix analysis is weakened — see §5 |
 | Greenspeaker Na'layro | /nɑːˈleɪroʊ/ | Greenspeaker; secretly worked with outsiders | Apostrophe-marked compound: *Na'* + *-layro*. "Greenspeaker" is a Common-language title (cf. Thornspeaker) |
 
 ### Midnight Expansion (2026)
 
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
-| Ruutani | /ˈruːtɑːni/ | Race native to Harandar | Name of a Harandar-native race affected by the Lightbloom. Both hostile and peaceful ruutani villages exist. If *Ruutani* is a Hara'ni word: *Ruu-* + *-tani* or *Ruut-* + *-ani*. The double vowel *-uu-* is unprecedented in Hara'ni. The *-ani* ending does not match *-nir* / *-ni* / *-ti* but could be a variant of *-ni* with a linking vowel *-a-* (*-a-ni*). First non-Haranir proper name in the language. Alternatively, "ruutani" may be a Common-language designation. **Confidence: Very Low–Low** for *Ruutani* as a genuine Hara'ni word |
+| Ruutani | /ˈruːtɑːni/ | Race native to Harandar | Name of a Harandar-native race affected by the Lightbloom. Both hostile and peaceful ruutani villages exist. If *Ruutani* is a Hara'ni word: *Ruu-* + *-tani* or *Ruut-* + *-ani*. The double vowel *-uu-* is unprecedented in Hara'ni. The *-ani* ending does not match *-nir* / *-ni* / *-ti* but could be a variant of *-ni* with a linking vowel *-a-* (*-a-ni*). First non-Haranir proper name in the language. Alternatively, "ruutani" may be a Common-language designation. **Note:** The Midnight wiki page creature list shows "Rutaani" (with icon named IconSmall_Rutaani.gif), while the Harandar zone page shows "Ruutani" — a spelling discrepancy. **Confidence: Very Low–Low** for *Ruutani* as a genuine Hara'ni word |
+
+### Midnight Expansion: Haranir World Tree Communion (2026)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Chonon | /ˈtʃoʊnɒn/ | Haranir who went to Nordrassil | No apostrophe; *Ch-* initial cluster. Communed with World Tree Nordrassil on the surface |
+| Fuunid | /ˈfuːnɪd/ | Haranir who went to Amirdrassil | No apostrophe; *-uu-* double vowel (parallels *Ruutani*). Communed with World Tree Amirdrassil |
+| Kawayn | /kəˈwaɪn/ | Haranir who went to Vordrassil | No apostrophe. Communed with World Tree Vordrassil; Kawayn confirms Vordrassil's roots do NOT reach Harandar (they were severed due to corruption) |
+| Or'jan | /ɔːrˈdʒæn/ | Haranir who went to Teldrassil | Apostrophe-marked compound: *Or'* + *-jan*. The *Or'* element parallels *Or'lay* (Wildcamp Or'lay). Communed with World Tree Teldrassil |
+| Zhakir | /ʒəˈkɪr/ | Haranir who went to Shaladrassil | No apostrophe; *Zh-* initial (new phoneme). Communed with World Tree Shaladrassil |
+
+### Midnight Expansion: Shul'ka NPCs (2026)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| En'liahn | /ɛnˈliːɑːn/ | Shul'ka mentor | Apostrophe-marked compound: *En'* + *-liahn*. Guides Shul'ka initiates through their ritual |
+| Chua | /ˈtʃuːə/ | Shul'ka member | No apostrophe; short name. Visits/visited by friends and family at the Rift of Aln |
+| Morta'ka the Sundered Echo | /mɔːrtəˈkɑː/ | Entity in the Rift of Aln | Apostrophe-marked compound: *Morta'* + *-ka*. The *-ka* suffix parallels *Shul'ka*. A manifestation that Shul'ka initiates must slay as their final rite |
+
+### Additional Named Entities
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Goehi | /ˈɡoʊɛhi/ | Ancient entity | Said that the Haranir are "worth more than you know" and that adventurers should "take care with them." Can read the history of an ancient by reading the rings of wood in their roots |
 
 ## 2. Proper Names (Places)
 
@@ -36,6 +62,16 @@ The Haranir are a reclusive, ancient race introduced in *The War Within* (2024).
 | Harandar | /ˈhærəndɑːr/ | *Haran-* + *-dar* | Capital/zone; primordial jungle where World Tree roots converge. Now a playable zone in Midnight. The *-dar* suffix parallels Earthen *Dornogal*, Arathi *Beledar*, *Mereldar* — possibly a shared Khaz Algar toponymic suffix from Titan *-dor* (land/realm) |
 | Wildcamp Ul'ar | /ʊlˈɑːr/ | *Ul'* + *-ar* | Camp near City of Threads, Azj-Kahet. Apostrophe-marked compound. The *-ar* suffix parallels nerubian *-ar* faction suffix (Anub'ar, Nerub'ar) — likely coincidental |
 | Wildcamp Or'lay | /ɔːrˈleɪ/ | *Or'* + *-lay* | Camp where Arathi took shelter. Apostrophe-marked compound |
+| Har'alnor | /hɑːrˈælnɔːr/ | *Har'* + *-alnor* | **Village of Twilight** — major settlement in Harandar. First Hara'ni place name with confirmed translation. *Har'* = "village" (confirmed by four attestations) |
+| Har'athir | /hɑːrˈæθɪr/ | *Har'* + *-athir* | **Village of Memory** — major settlement in Harandar. Home to the *Ka'dani* elite hunters |
+| Har'kuai | /hɑːrˈkwaɪ/ | *Har'* + *-kuai* | **Village of Rain** — major settlement in Harandar |
+| Har'mara | /hɑːrˈmɑːrə/ | *Har'* + *-mara* | **Village of Balance** — major settlement in Harandar. *-mara* = "balance" |
+| Ahl'ua | /ɑːlˈuːə/ | *Ahl'* + *-ua* | Water system/wetland in Harandar. Its waters are used in the Shul'ka initiation ritual ("Healing Waters of Ahl'ua") |
+| Dreth'amar | /drɛθˈæmɑːr/ | *Dreth'* + *-amar* | Cavern in Harandar. Apostrophe-marked compound |
+| Na'bala | /nɑːˈbɑːlə/ | *Na'* + *-bala* | Flower species in Harandar (*Na'bala Bloom*). Apostrophe-marked compound |
+| Nai'theren | /naɪˈθɛrɛn/ | *Nai'* + *-theren* | Grotto in Harandar. Apostrophe-marked compound |
+| Nihil | /ˈnaɪhɪl/ | — | The empty expanse surrounding Harandar |
+| Rift of Aln | /æln/ | *Aln* | A rift in Harandar and the Emerald Dream, formed when the Worldsoul was taken from the Cradle. Source of Alndust and the Alnscorned |
 
 ## 3. Cultural and Faction Names
 
@@ -43,10 +79,15 @@ The Haranir are a reclusive, ancient race introduced in *The War Within* (2024).
 |------|-----|----------|-------|
 | Haranir | /ˈhærənɪr/ | *Hara-* + *-nir* | The people/race name. The *-nir* ending is a collective/ethnonym suffix |
 | Hara'ni | /ˈhærəni/ | *Hara'* + *-ni* | The language name. Apostrophe-marked. The *-ni* suffix may be a language/people suffix (cf. *Hara'ni* vs. *Haranir*) |
-| Hara'ti | /ˈhærəti/ | *Hara'* + *-ti* | Faction/subgroup — "those who heard the call." Apostrophe-marked. The *-ti* suffix may be a group/collective suffix |
-| Aln'hara | /ælnˈhɑːrə/ | *Aln'* + *-hara* | "The call from deep within the world." Apostrophe-marked. The *-hara* element reverses the *Hara-* root found in *Haranir*, *Hara'ni*, *Harandar* |
+| Hara'ti | /ˈhærəti/ | *Hara'* + *-ti* | Faction/subgroup — confirmed by wiki as "the haranir tribe that inhabits Harandar." Apostrophe-marked. The *-ti* suffix may be a group/collective suffix. The earlier speculative gloss "those who heard the call" is superseded by the wiki's more precise definition |
+| Aln'hara | /ælnˈhɑːrə/ | *Aln'* + *-hara* | **The Worldsoul of Azeroth** (confirmed translation). The Haranir name for the nascent titan world-soul of Azeroth, whom they worship as their goddess. The Shul'ka sever their connection to Aln'hara's song to safely patrol the Rift of Aln. Previously described as "the call from deep within the world" — this is consistent: Aln'hara IS the call, the world-soul singing from deep within. The *-hara* element appears reversed from the *Hara-* root, but may instead reflect a distinct morpheme *-hara* = "song/voice" |
 | Grimlynx | — | Common compound | Haranir racial mount. English/Common name |
 | Alndust | — | *Aln-* + *-dust* | Rare material that cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess" (Midnight). The *Aln-* element matches *Aln'hara*, making this the **second attestation of the *Aln-* morpheme**. *Alndust* lacks the apostrophe found in *Aln'hara* — the /d/ after *Aln* may eliminate the need for a glottal stop marker (whereas *Aln'hara* needs one before the /h/). Alternatively, *Alndust* may be a Common-language compound (Aln + dust). If *Aln-* = "deep/sacred/blessed" (as in "call from deep within"), then *Alndust* = "sacred dust" or "dust of the deep." **Confidence: Low–Moderate** for *Aln-* as a genuine Hara'ni morpheme (now two attestations) |
+| Shul'ka | /ʃʊlˈkɑː/ | *Shul'* + *-ka* | **Hunters of Shadows** (confirmed translation) — group of Haranir warriors who sever their connection to the goddess (Aln'hara) to safely patrol the Rift of Aln. **First confirmed Hara'ni translation with official gloss.** *Shul'* = "shadow" and *-ka* = "hunter(s)" is the most natural decomposition. Amarakk is a Shul'ka member who was mutated by the initiation ritual |
+| Zur'ashar | /zʊrˈæʃɑːr/ | *Zur'* + *-ashar* | Order of painter-storytellers who paint records of history on the walls of Harandar. Their paintings can bring visions of history to life through Alndust. A named member is **Zur'ashar Shay'neia** (*Shay'* + *-neia*) |
+| Ka'dani | /kɑːˈdɑːni/ | *Ka'* + *-dani* | Order of elite hunters from Har'athir (Village of Memory). Apostrophe-marked compound. The *-dani* ending does not match *-nir*/*-ni*/*-ti* suffix set |
+| Alnscorned | — | *Aln-* + *-scorned* | Broken nightmares that dwell in the Rift of Aln. Mixed Hara'ni-English compound; *-scorned* is Common |
+| Saptor | /ˈsæptɔːr/ | — | Plant species in Harandar; Haranir wrap meals in saptor fronds before steaming |
 
 ## 4. Attested Phrases
 
@@ -74,11 +115,17 @@ The *World of Warcraft: Midnight* expansion (released March 2, 2026) provides si
 
 2. **Alndust** — A rare material that cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess." This is the **second attestation of the *Aln-* morpheme** (after *Aln'hara*), significantly strengthening the case for *Aln-* as a genuine Hara'ni root meaning "deep/sacred/blessed." See §3 above for full analysis.
 
-3. **Haranir goddess** — First reference to Haranir religion. The goddess is unnamed in the Wikipedia source. She blessed the Alndust (or the Haranir believe she did). This provides potential for divine names in Hara'ni vocabulary and may be connected to the World Tree roots that converge in Harandar.
+3. **Haranir goddess** — The Haranir goddess IS Aln'hara (the Azeroth Worldsoul), resolving the "unnamed goddess" question. The Haranir worship the Azeroth worldsoul as their goddess. The Shul'ka sever their connection to Aln'hara's song to safely patrol the Rift of Aln.
 
 4. **Harandar as playable zone** — Harandar is a playable zone in Midnight, which may yield significantly more Haranir NPC names, dialogue, and place names from in-game content.
 
 5. **Lightbloom** — Plant life infused with the Light; first appeared in Harandar because of the Sunwell's influence. Common-language designation, not Hara'ni.
+
+6. **Shul'ka initiation ritual** — Initiate collects poisonous glands and "Healing Waters of Ahl'ua", finds a ritual site, consumes poison and water, fights for their life while unconscious; if they survive, they must slay *Morta'ka the Sundered Echo* as their final rite. Amarakk was mutated by this ritual.
+
+7. **Vordrassil's roots** — Kawayn confirms that Vordrassil's roots do NOT reach Harandar (they were severed due to corruption).
+
+8. **Alpha build change** — Alpha build of Midnight had a mural depicting Haranir as progenitors of all trollkind; this was changed at launch to depict a "split" in Haranir society.
 
 ### Plot Events Affecting Haranir Lore
 
@@ -92,7 +139,7 @@ The *World of Warcraft: Midnight* expansion (released March 2, 2026) provides si
 
 ### The *Hara-* Root
 
-The most prominent morpheme in the Haranir corpus is *Hara-*, appearing in five names:
+The most prominent morpheme in the Haranir corpus is *Hara-*, appearing in five names (plus the confirmed *Har'* = "village" morpheme in four village names — see §5b):
 
 | Name | Decomposition | Proposed Gloss |
 |------|---------------|----------------|
@@ -100,28 +147,32 @@ The most prominent morpheme in the Haranir corpus is *Hara-*, appearing in five 
 | *Hara'ni* | *Hara'* + *-ni* | "Hara-language" or "tongue of the Hara" |
 | *Harandar* | *Haran-* + *-dar* | "Hara-realm" or "land of the Hara" |
 | *Hara'ti* | *Hara'* + *-ti* | "Hara-group" or "those of Hara" |
-| *Aln'hara* | *Aln'* + *-hara* | "[Aln]-call" or "call of the deep" |
+| *Aln'hara* | *Aln'* + *-hara* | "[Aln]-song" — the Worldsoul of Azeroth (confirmed); *-hara* may = "song/voice" |
 
-The *Hara-* root likely means either "people/we" (as an ethnonymic root) or "call/song" (if *Aln'hara* provides the semantic key). The reversal of *Hara-* → *-hara* in *Aln'hara* suggests that the root can appear as both prefix and suffix, or that *Aln'hara* is a compound where *-hara* = "call" while *Hara-* in *Haranir* = "people" — with the two being homophonous rather than identical morphemes.
+The *Hara-* root likely means either "people/we" (as an ethnonymic root) or "call/song" (if *Aln'hara* provides the semantic key). The reversal of *Hara-* → *-hara* in *Aln'hara* suggests that the root can appear as both prefix and suffix, or that *Aln'hara* is a compound where *-hara* = "song/voice" while *Hara-* in *Haranir* = "people" — with the two being homophonous rather than identical morphemes. The confirmed *Har'* = "village" morpheme (§5b) may be related to *Hara-* ("village" could derive from "place of the people") or may be homophonous.
 
 **Confidence: Moderate** for *Hara-* as a genuine Haranir morpheme (five attestations across ethnonym, language name, capital, faction, and concept name).
 
 ### The *Aln-* Root
 
-The *Aln-* root now has **two attestations**, significantly strengthening its status as a genuine Hara'ni morpheme:
+The *Aln-* root now has **multiple attestations**, and the wiki provides crucial new context: *Aln* is not just a root meaning "deep/sacred" — it is a **place**: the Rift of Aln in Harandar and the Emerald Dream, formed when the Worldsoul was taken from the Cradle. So *Aln* likely means "the deep place" or "the rift" or "the source/origin."
 
 | Name | Decomposition | Proposed Gloss |
 |------|---------------|----------------|
-| *Aln'hara* | *Aln'* + *-hara* | "[Aln]-call" or "call of the deep" — "the call from deep within the world" |
-| *Alndust* | *Aln-* + *-dust* | "[Aln]-dust" or "dust of the deep" — rare material blessed by the Haranir goddess |
+| *Aln'hara* | *Aln'* + *-hara* | "Worldsoul of Azeroth" (confirmed) — "the song/call from the deep (Aln)" |
+| *Alndust* | *Aln-* + *-dust* | "[Aln]-dust" or "dust of the deep" — rare material from the Rift of Aln |
+| *Alnscorned* | *Aln-* + *-scorned* | "scorned by the deep" — broken nightmares from the Rift of Aln |
+| *Rift of Aln* | *Aln* | The physical location — the rift in Harandar and the Emerald Dream |
 
-If *Aln-* = "deep/sacred/blessed" (consistent with both attestations):
-- *Aln'hara* = "sacred call" or "call from the deep" — the call that led the Haranir to Harandar
-- *Alndust* = "sacred dust" or "dust of the deep" — a rare material found deep within Harandar, blessed by the goddess
+If *Aln* = "deep/source/rift" (consistent with all attestations):
+- *Aln'hara* = "the Worldsoul (song/call) from the deep (Aln)"
+- *Alndust* = "dust from the deep (Aln)"
+- *Alnscorned* = "scorned (corrupted) by the deep (Aln)"
+- *Rift of Aln* = the physical location
 
-The semantic coherence of both glosses supports a single root meaning. The absence of apostrophe in *Alndust* (vs. *Aln'hara*) may reflect phonological conditioning: the /d/ after *Aln* eliminates the need for a glottal stop marker, whereas *Aln'hara* needs one before the /h/. Alternatively, *Alndust* may be a Common-language compound rather than a native Hara'ni word.
+The semantic coherence of all glosses supports a single root meaning. The absence of apostrophe in *Alndust* (vs. *Aln'hara*) may reflect phonological conditioning: the /d/ after *Aln* eliminates the need for a glottal stop marker, whereas *Aln'hara* needs one before the /h/. Alternatively, *Alndust* and *Alnscorned* may be Common-language compounds rather than native Hara'ni words.
 
-**Confidence: Low–Moderate** for *Aln-* as a genuine Hara'ni morpheme (two attestations with semantically coherent glosses; upgraded from Very Low).
+**Confidence: Moderate** for *Aln* = "deep/source/rift" (now supported by both morphological evidence and in-game geography).
 
 ### The *-ni* Suffix
 
@@ -144,12 +195,13 @@ The *-nir* suffix appears in *Haranir* (the people/race name). Possible interpre
 
 ### The *-ti* Suffix
 
-The *-ti* suffix appears in *Hara'ti* ("those who heard the call"). Possible interpretations:
+The *-ti* suffix appears in *Hara'ti* (confirmed by wiki as "the haranir tribe that inhabits Harandar"). Possible interpretations:
 
-1. **Group/collective suffix**: *-ti* = "group" or "faction." *Hara'ti* = "Hara-group." This is semantically consistent with *Hara'ti* being a faction name.
+1. **Group/collective suffix**: *-ti* = "group" or "faction." *Hara'ti* = "Hara-group." This is semantically consistent with *Hara'ti* being a faction/tribe name.
 2. **Participial/agent suffix**: *-ti* = "those who [verb]." *Hara'ti* = "those who [hear/answer]." This would require *Hara'* to be a verb root in this context, which conflicts with the noun analysis above.
+3. **Tribal designation**: The wiki gloss "tribe" may be the closest English equivalent for *-ti*, making *Hara'ti* = "Hara-tribe." This is consistent with both interpretations above.
 
-**Confidence: Low** for *-ti* as a genuine Haranir morpheme (single attestation).
+**Confidence: Low–Moderate** for *-ti* as a genuine Haranir morpheme (single attestation, but wiki-confirmed semantic context).
 
 ### The *-dar* Suffix
 
@@ -165,9 +217,11 @@ Three Haranir personal names end in *-ia* or similar vowel sequences: *Ruia*, *N
 
 | Name | IPA | Ending | Notes |
 |------|-----|--------|-------|
-| *Ruia* | /ˈruːiə/ | *-ia* | Female (Lightwarden) |
+| *Ruia* | /ˈruːiə/ | *-ia* | Gender uncertain: warcraft.wiki.gg uses MALE icon (IconSmall_Haranir_Male.gif) |
 | *Ney'leia* | /neɪˈleɪə/ | *-eia* | Female (spoke to Arathi) |
-| *On'hiea* | /ɒnˈhiːə/ | *-iea* | Female (camp owner) |
+| *On'hiea* | /ɒnˈhiːə/ | *-iea* | Gender uncertain: warcraft.wiki.gg uses MALE icon (IconSmall_Haranir_Male.gif) |
+
+**Note on gender discrepancy:** The warcraft.wiki.gg uses male icons for both *Ruia* and *On'hiea*, which would significantly weaken the *-ia* feminine suffix analysis if these characters are indeed male. However, wiki icon assignments may be erroneous or based on outdated data. If either name is male, the *-ia* pattern could be coincidental or reflect a different morphological function (e.g., a general nominal suffix rather than a specifically feminine one).
 
 However, other female Haranir names (*Orweyna*, *Gnarla*) do not end in *-ia*, and male names (*Amarakk*, *Hannan*) provide no clear contrast. The sample size is too small for confidence.
 
@@ -201,35 +255,89 @@ This analysis would make *-a* the feminine suffix (paralleling the widespread *-
 
 | Language | Female Names Ending in *-a* / *-ia* | Male Contrast | Assessment |
 |----------|--------------------------------------|---------------|------------|
-| **Hara'ni** | *Ruia*, *Ney'leia*, *On'hiea* (3 of ~5 known females) | *Amarakk*, *Hannan*, *Hagar* (0 of ~3–4 known males end in *-a*) | Possible feminine *-a* / *-ia* |
+| **Hara'ni** | *Ney'leia* (1 confirmed female); *Ruia*, *On'hiea* (gender uncertain — wiki uses male icons) | *Amarakk*, *Hannan*, *Hagar*, *Chonon*, *Kawayn*, *Zhakir* (0 of ~6+ known males end in *-a*) | Possible feminine *-a* / *-ia*, but weakened by gender discrepancy |
 | **Nazja** | *Azshara*, *Nar'jira* | *Ozumat*, *Tidelord* (no *-a* endings) | Possible *-a* / *-ira* feminine |
 | **Draenei** | Many female names end in *-a* (Ishi, K'ara) | Male names often end in *-l*, *-n*, *-s* (*Velen*, *Maraad*, *Nobundo*) | Probable *-a* feminine |
 | **Zandali** | *Primal Talanj* | *Zul*, *Rastakhan* | Unclear |
 | **Elven** | *Tyrande*, *Maiev*, *Shandris* — mixed endings | *Malfurion*, *Illidan*, *Kael'thas* — no *-a* | No clear *-a* pattern |
 
-The *-a* feminine ending is a common Blizzard design pattern across multiple WoW languages, making it difficult to distinguish genuine Haranir morphology from Blizzard naming aesthetics. The Haranir pattern is strengthened by the fact that all three *-ia* names are confirmed female and zero male names end in *-a*, but the sample remains very small.
+The *-a* feminine ending is a common Blizzard design pattern across multiple WoW languages, making it difficult to distinguish genuine Haranir morphology from Blizzard naming aesthetics. The Haranir pattern is further complicated by the male icons on the wiki for *Ruia* and *On'hiea*. If these characters are male, the *-ia* pattern may not be gendered at all.
 
-**Confidence: Very Low–Low** for *-ia* / *-a* as a genuine Haranir feminine suffix. The cross-language parallel suggests Blizzard aesthetic influence, but the phonological conditioning of the *-ia* / *-eia* / *-iea* variants (if real) would support a genuine morphological analysis.
+**Confidence: Very Low** for *-ia* / *-a* as a genuine Haranir feminine suffix. The cross-language parallel suggests Blizzard aesthetic influence, and the gender discrepancy for Ruia and On'hiea weakens the hypothesis further.
 
 ### The Apostrophe Pattern
 
-Seven Haranir names use apostrophe-marked morpheme boundaries: *Ter'kova*, *Ran'hune*, *Nye'rangi*, *Na'layro*, *Ney'leia*, *On'hiea*, *Hara'ni*, *Hara'ti*, *Aln'hara*, *Ul'ar*, *Or'lay*. This is a very high frequency (11 of ~15 names), comparable to nerubian apostrophe usage.
+The apostrophe-marked names in the Hara'ni corpus are now:
+
+**Original (TWW):** *Ter'kova*, *Ran'hune*, *Nye'rangi*, *Na'layro*, *Ney'leia*, *On'hiea*, *Hara'ni*, *Hara'ti*, *Aln'hara*, *Ul'ar*, *Or'lay* (11 names)
+
+**New (Midnight):** *Har'alnor*, *Har'athir*, *Har'kuai*, *Har'mara* (4 village names); *Ahl'ua*, *Dreth'amar*, *Na'bala*, *Nai'theren* (4 place names); *Shul'ka*, *Zur'ashar*, *Ka'dani* (3 cultural names); *Or'jan*, *En'liahn*, *Morta'ka* (3 personal names) (14 new names)
+
+Total: **~25 apostrophe-marked names** out of ~30+ names. This is an extremely high frequency, even higher than previously documented and comparable to nerubian apostrophe usage.
 
 The apostrophe consistently marks compound boundaries between two content morphemes (medial apostrophe), unlike Shath'Yar which primarily uses initial apostrophes for prefix boundaries. This pattern is structurally identical to nerubian and qiraji apostrophe usage.
 
 **Confidence: High** for apostrophe as a genuine morpheme boundary marker in Hara'ni.
 
+## 5b. Confirmed Translations
+
+### Confirmed Hara'ni Translations (Official)
+
+| Hara'ni Word | Confirmed Translation | Source |
+|--------------|----------------------|--------|
+| *Shul'ka* | "Hunters of Shadows" | warcraft.wiki.gg/wiki/Hara'ni; quest "The Hunter Awaits" |
+| *Aln'hara* | "The Worldsoul of Azeroth" | warcraft.wiki.gg/wiki/Hara'ni; quest "Down the Rootways" |
+| *Har'alnor* | "Village of Twilight" | warcraft.wiki.gg/wiki/Hara'ni; quest "Har'alnor, Village of Twilight" |
+| *Har'athir* | "Village of Memory" | warcraft.wiki.gg/wiki/Hara'ni; quest "Har'athir, Village of Memory" |
+| *Har'kuai* | "Village of Rain" | warcraft.wiki.gg/wiki/Hara'ni; quest "Har'kuai, Village of Rain" |
+| *Har'mara* | "Village of Balance" | warcraft.wiki.gg/wiki/Hara'ni; quest "Har'mara, Village of Balance" |
+
+### Morphological Analysis from Confirmed Translations
+
+**Har' = "village/settlement"** (4 attestations, all confirmed)
+
+The four Harandar village names provide the first securely translated morpheme in Hara'ni:
+
+| Name | Translation | *Har'* | Suffix | Suffix Meaning |
+|------|-------------|--------|--------|----------------|
+| *Har'alnor* | Village of Twilight | village | *-alnor* | "twilight" |
+| *Har'athir* | Village of Memory | village | *-athir* | "memory" |
+| *Har'kuai* | Village of Rain | village | *-kuai* | "rain" |
+| *Har'mara* | Village of Balance | village | *-mara* | "balance" |
+
+**Confidence: High** for *Har'* = "village/settlement" (four confirmed translations).
+
+**Relationship to *Hara-* root**: *Har'* (village) and *Hara-* (ethnonym in *Haranir*, *Hara'ni*, *Hara'ti*) may be related — "village" could derive from "place of the people" — or they may be homophonous morphemes. The apostrophe in *Har'* vs. its absence in *Hara-* suggests different morphological status (compound prefix vs. free root). **Confidence: Low–Moderate** for a genetic relationship between *Har'* and *Hara-*.
+
+**Shul' = "shadow"** (1 attestation, confirmed)
+
+If *Shul'ka* = "Hunters of Shadows", the most natural decomposition is *Shul'* + *-ka* where *Shul'* = "shadow" and *-ka* = "hunter(s)" or an agentive suffix. However, the decomposition could also be *Shul'k-* + *-a* or the word could be indivisible. **Confidence: Low–Moderate** for *Shul'* = "shadow".
+
+**-ka = "hunter(s)" / agentive suffix** (2 attestations: *Shul'ka*, *Morta'ka*)
+
+The *-ka* suffix appears in both *Shul'ka* ("Hunters of Shadows") and *Morta'ka the Sundered Echo*. If *-ka* = "hunter(s)", then *Morta'ka* = "hunter of [Morta-]" or "[Morta-] hunter." However, *Morta'ka* is described as a manifestation/abomination, not a hunter, so *-ka* may have a broader meaning like "one who [does]" or "entity of [X]." **Confidence: Very Low–Low** for *-ka* as an agentive suffix.
+
+**Village suffix meanings** (4 attestations, confirmed glosses)
+
+| Suffix | Meaning | Notes |
+|--------|---------|-------|
+| *-alnor* | "twilight" | Possible: *al-* + *-nor* or indivisible |
+| *-athir* | "memory" | Possible connection to *Hara'ti* if *-ti* = "group" and *-athir* shares the *-th-* consonant |
+| *-kuai* | "rain" | Single morpheme; /kw/ cluster |
+| *-mara* | "balance" | Possible: *mar-* + *-a* (feminine?) or indivisible |
+
 ## 6. Relationship to Other Languages
 
 ### Haranir — Elven Languages
 
-The Haranir are described as "not really elves, not really trolls." Despite their physical similarities to both (bat-like ears like night elves, small tusks like trolls), the Haranir are a distinct species. Linguistic evidence:
+The Haranir are confirmed by *The Art of Midnight* (pg. 125) to have split from the dark trolls/night elves, making Hara'ni a deeply divergent branch of the proto-troll/elven language family. Linguistic evidence:
 
-- **No shared morphemes with Darnassian/Thalassian/Nazja**: The *Hara-* root, *-ni* suffix, and *-nir* suffix have no parallels in elven languages.
+- **No shared morphemes with Darnassian/Thalassian/Nazja**: The *Hara-* root, *-ni* suffix, and *-nir* suffix have no parallels in elven languages. However, ~16,000 years of independent development may have erased cognate recognition.
 - **No shared morphemes with Zandali**: The Haranir *-nir* is not related to Zandali *-ali* (people), despite surface similarity.
 - **Phonological differences**: Hara'ni names use /h/ extensively (Hagar, Hannan, Harandar, Hara'ni, On'hiea) and lack the characteristic elven diphthongs and *-dorei* patterns.
+- **Xhosa-accented English**: The Haranir share this phonological feature with the Zandalari trolls, suggesting a possible substrate connection.
 
-**Assessment: No confirmed genetic relationship to elven or troll languages.**
+**Assessment: Confirmed genetic relationship to the proto-troll/elven language family, but no confirmed cognates with attested elven or troll languages due to extreme time depth.**
 
 ### Haranir — Titan-Forged Languages
 
@@ -340,27 +448,49 @@ The Haranir title **Greenspeaker** (held by Na'layro) parallels the Drust title 
 
 **Confidence: Very Low** for a genuine in-universe linguistic connection between Greenspeaker and Thornspeaker; **High** for independent parallel development / Blizzard design convergence.
 
-### Haranir Language Family: Unclassified
+### Haranir — Dark Troll / Night Elf Origin
 
-The Haranir language does not fit into any known WoW language family. It shares areal features with both the Khaz Algar toponymic sphere (*-dar* suffix) and the "alien" apostrophe-marking convention, but has no confirmed genetic relationships. The Haranir's unique biological origin (not elf, not troll, not titan-forged) supports the hypothesis that Hara'ni is an independent language family.
+*The Art of Midnight* (pg. 125) confirms: "Contrary to what was believed, the haranir are not natives of Harandar. Long ago, after the dark trolls settled the Well of Eternity and became the night elves, those who would eventually become the haranir split from them and journeyed deep below the ground. Guided by visions, they discovered a new and wondrous place to explore."
+
+This is a critical finding for Hara'ni linguistic classification:
+- Hara'ni is NOT an independent language family — it is a **descendant of the proto-troll/proto-elven language** spoken by dark trolls before they became night elves
+- Hara'ni diverged from the proto-elven lineage approximately 16,000 BDP, before Darnassian fully developed
+- This makes Hara'ni potentially the **oldest attested branch** of the elven/troll language family, preserving archaic features from before the night elven divergence
+- However, Hara'ni shows NO obvious shared morphemes with Darnassian, Thalassian, Nazja, or Zandali — 16,000+ years of independent development may have erased cognate recognition
+- The Haranir use Xhosa-accented English like the Zandalari trolls, suggesting a possible phonological substrate connection to troll languages
+
+**Implications for morpheme analysis:**
+- The *Hara-* root has no clear cognate in elven or troll languages, but the extreme time depth makes cognate detection very difficult
+- The *Har'* = "village" morpheme might connect to Zandali place-naming conventions (though no specific cognate exists)
+- The high /h/ frequency in Hara'ni names could reflect a sound change from the proto-troll/elven language, or could be an innovation
+
+**Assessment: Hara'ni is a deeply divergent branch of the proto-troll/elven language family, with 16,000+ years of independent development. No confirmed cognates with attested elven or troll languages, but genetic relationship is confirmed by lore.**
+
+**Confidence: High** that Hara'ni is genetically related to the elven/troll language family (confirmed by *The Art of Midnight*); **Very Low** for any specific cognate identification due to extreme time depth.
+
+### Haranir Language Family: Reclassified
+
+The Haranir language is now confirmed to be a **deeply divergent branch of the proto-troll/elven language family** (see above). It shares areal features with both the Khaz Algar toponymic sphere (*-dar* suffix) and the "alien" apostrophe-marking convention, but has no confirmed cognates with attested elven or troll languages despite the confirmed genetic relationship. The extreme time depth (~16,000 years) makes cognate detection very difficult.
 
 The Midnight expansion introduced the **ruutani**, a Harandar-native race. If *Ruutani* is a Hara'ni word (rather than a Common designation), it would be the first non-Haranir proper name in the language and could reveal whether Hara'ni morphological patterns (apostrophe compounding, *-ni* suffix) apply to non-ethnonymic vocabulary.
 
-**Confidence: High** that Hara'ni is not genetically related to elven, troll, titan-forged, or Aqir-descended language families.
+**Confidence: High** that Hara'ni is genetically related to the elven/troll language family (confirmed by lore); **Very Low** for any specific cognate identification.
 
 ## 7. Phonological Observations
 
 ### Sound Inventory (Observed from Attested Names)
 
-**Consonants**: h, k, l, m, n, ng (/ŋ/), r, t, v, y (/j/)
+**Consonants**: h, k, l, m, n, ng (/ŋ/), r, t, v, y (/j/), zh (/ʒ/), ch (/tʃ/), th (/θ/), j (/dʒ/), sh (/ʃ/)
+
+**Consonant clusters**: /kw/ (*Har'kuai*), /dr/ (*Dreth'amar*), /tʃ/ (*Chonon*, *Chua*), /ʒ/ (*Zhakir*), /dʒ/ (*Or'jan*)
 
 **Vowels**: a, e, i, o, u
 
 ### Key Phonological Features
 
-1. **High /h/ frequency**: *Hagar*, *Hannan*, *Harandar*, *Hara'ni*, *On'hiea*, *Ran'hune* — /h/ appears in 6 of ~15 names. This is unusually high compared to other WoW languages and may reflect a genuine Hara'ni phonological tendency.
+1. **High /h/ frequency**: *Hagar*, *Hannan*, *Harandar*, *Hara'ni*, *On'hiea*, *Ran'hune* — /h/ appears in 6+ of ~30+ names. This is unusually high compared to other WoW languages and may reflect a genuine Hara'ni phonological tendency.
 
-2. **Apostrophe as morpheme boundary**: Very consistent (11 of ~15 names). The apostrophe marks compound boundaries between two content morphemes, identical to nerubian and qiraji patterns.
+2. **Apostrophe as morpheme boundary**: Very consistent (~25 of ~30+ names). The apostrophe marks compound boundaries between two content morphemes, identical to nerubian and qiraji patterns.
 
 3. **Syllable structure**: Predominantly (C)V(C):
    - CV: *Hagar* (CV.CV), *Gnarla* (CCV.CV)
@@ -368,11 +498,13 @@ The Midnight expansion introduced the **ruutani**, a Harandar-native race. If *R
    - CV'.CV.CV: *Na'layro*, *Nye'rangi*
    - CV'.CV.CV: *Ter'kova*, *Ran'hune*
 
-4. **Geminate consonants**: *Hannan* (*-nn-*), *Amarakk* (*-kk-*). If geminates are phonologically significant, Hara'ni shares this feature with qiraji (*-naxx*) and some ethereal names (*-ff-* in *Shaffar*).
+4. **Geminate consonants**: *Hannan* (*-nn-*), *Amarakk* (*-kk-*), *Fuunid* (*-uu-* vocalic geminate). If geminates are phonologically significant, Hara'ni shares this feature with qiraji (*-naxx*) and some ethereal names (*-ff-* in *Shaffar*).
 
-5. **Initial clusters**: *Gnarla* (*Gn-* = /n/ or /ɡn/?). If /ɡn/, this would be a rare initial cluster in WoW constructed languages.
+5. **Initial clusters**: *Gnarla* (*Gn-* = /n/ or /ɡn/?), *Chonon* (*Ch-* = /tʃ/), *Zhakir* (*Zh-* = /ʒ/), *Dreth'amar* (*Dr-* = /dr/). If /ɡn/, /dr/ are genuine clusters, Hara'ni allows more initial clusters than previously documented.
 
 6. **Vowel patterns**: Predominantly /a/, /e/, /i/; /o/ and /u/ are less common. This pattern partially overlaps with elven and nerubian vowel distributions.
+
+7. **Expanded consonant inventory**: New data significantly expands the consonant inventory with /ʒ/ (*Zhakir*), /tʃ/ (*Chonon*, *Chua*), /θ/ (*Har'athir*, *Dreth'amar*), /kw/ (*Har'kuai*), and /dʒ/ (*Or'jan*). The phonological profile is richer than initially documented.
 
 ### Comparison with Other WoW Languages
 
@@ -382,14 +514,18 @@ The Midnight expansion introduced the **ruutani**, a Harandar-native race. If *R
 | Apostrophe position | Medial | Medial | Medial | N/A |
 | /h/ frequency | Very high | Low | Low | Low |
 | Geminate consonants | Present | Absent | Rare | Rare |
-| Initial clusters | Rare (*Gn-*) | Common | Absent | Moderate |
-| Syllable complexity | Simple | Complex | Simple | Moderate |
+| Initial clusters | Common (*Gn-*, *Ch-*, *Zh-*, *Dr-*) | Common | Absent | Moderate |
+| Syllable complexity | Simple–Moderate | Complex | Simple | Moderate |
+| /ʒ/, /tʃ/, /θ/ | Present | Absent | Rare | Absent |
 
 ## 8. Sources
 
 - Warcraft Wiki: Haranir (warcraft.wiki.gg/wiki/Haranir)
 - Warcraft Wiki: Orweyna (warcraft.wiki.gg/wiki/Orweyna)
+- Warcraft Wiki: Hara'ni (warcraft.wiki.gg/wiki/Hara'ni)
 - Wikipedia: *World of Warcraft: The War Within* (en.wikipedia.org) — Undermine(d) campaign: Lingering Shadows section confirming additional Haranir in Orweyna's group
 - Wikipedia: *World of Warcraft: Midnight* (en.wikipedia.org) — Midnight expansion plot details: Ruutani, Alndust, Haranir goddess, Ruia's actions, Harandar zone
 - *World of Warcraft: The War Within* (2024). Blizzard Entertainment.
 - *World of Warcraft: Midnight* (2026). Blizzard Entertainment.
+- *The Art of Midnight* (2026). Blizzard Entertainment. pg. 125 — Haranir origin: split from dark trolls/night elves.
+- *The Art of TWW* (2024). Blizzard Entertainment — contains erroneous early name "harronir."
