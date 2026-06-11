@@ -201,6 +201,6 @@
 - [x] Update haranir/vocabulary.md with new wiki data — **COMPLETED**: added new NPCs, places, cultural names, confirmed translations, morphological analysis
 - [x] Update haranir/grammar.md with new morphological data — **COMPLETED**: added Har' = "village" (confirmed), Shul' = "shadow", -ka agentive, expanded phonology, confirmed relationship to elven/troll family
 - [x] Update haranir/description.md — **COMPLETED**: added dark troll origin, Aln'hara goddess resolution, Shul'ka ritual, Zur'ashar, cultural updates
-- [ ] Update haranir/vocabulary.html with new data — in progress
-- [ ] Update alien-comparative.html with new Hara'ni data — pending
-- [ ] Update README.md with new Hara'ni data — pending
+- [x] Update haranir/vocabulary.html with new data — **COMPLETED**: fixed outdated "goddess is unnamed" reference, added Shul'ka initiation ritual details, added Zur'ashar Shay'neia, updated phonology, added Saptor/Ahl'ua Healing Waters detail, updated confirmed Hara'ni classification, added Shay'neia to *-ia* suffix analysis, updated dark troll origin note, fixed Hara'ti definition
+- [x] Update alien-comparative.html with new Hara'ni data — **COMPLETED**: fixed Shul'ka confirmed translation to "Hunters of Shadows", updated *Aln-* gloss to "deep/source/rift" with Moderate confidence, added *-ka* second attestation (Morta'ka), updated last-updated text
+- [x] Update README.md with new Hara'ni data — **COMPLETED**: updated attestation counts (20+ proper names, 14 place names, 11 cultural names), updated *Hara-* root attestations to 9, added confirmed morpheme list to alien-comparative link
