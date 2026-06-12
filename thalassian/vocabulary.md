@@ -47,6 +47,7 @@ All entries are attested in World of Warcraft in-game dialogue, NPC speech, ques
 | El'darath | (Place name) | Attested location |
 | Thalas'darah | Silvermoon? | Uncertain; possibly "Silvermoon" but not firmly attested |
 | Antenorian | Governor of Tranquillien (Midnight) | Allied with Twilight's Blade cultists. No clear Thalassian morpheme decomposition; possibly a personal name with *-orian* ending |
+| Silversun Compact | Faction (Midnight) | Alliance of Sunreavers and Silver Covenant formed by Aethas Sunreaver and Vereesa Windrunner after the Battle of the Darkwell. Portmanteau of "Silver" (Silver Covenant) + "Sun" (Sunreavers; cf. *belore* = "sun"). Common-language compound, not Thalassian, but culturally significant — the "sun" element echoes *belore*, the Thalassian word for "sun" |
 
 ## Phrases and Greetings
 

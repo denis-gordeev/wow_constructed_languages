@@ -12,7 +12,7 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 |------|-----|------|-------|
 | Locus-Walker | /ˈloʊkəs ˈwɔːkər/ | Ethereal; Alleria's mentor in Void magic | English compound title. "Locus-Walker" is almost certainly a Common-language translation of an ethereal title, not an ethereal-language name. Member of the Ravel; helped destroy K'aresh to prevent Dimensius from devouring the Worldsoul. Killed by Xal'atath during the Ghosts of K'aresh campaign. |
 | Ve'nari | /vɛˈnɑːri/ | Broker; leader of the K'aresh Trust | Apostrophe-marked compound: *Ve'* + *-nari*. Previously appeared in Shadowlands (9.0) as a broker in the Maw. |
-| Nexus-King Salhadaar | /ˌnɛksəsˈkɪŋ sɑːləˈdɑːr/ | Leader of the Shadowguard; former ruler of K'aresh | "Nexus-King" is a Common-language title. *Salhadaar* is an ethereal name: possibly *Sala-* + *-daar*. The *-daar* suffix may be an ethereal title or rank element. First attested in TBC (Netherstorm). Killed in TBC; resurrected by Dimensius in the Void for TWW. In Midnight, serves Xal'atath reluctantly after she tortured him for turning against her; corrupts a naaru at a Nexus-Point; killed in the Voidspire assault |
+| Nexus-King Salhadaar | /ˌnɛksəsˈkɪŋ sɑːləˈdɑːr/ | Leader of the Shadowguard; former ruler of K'aresh | "Nexus-King" is a Common-language title. *Salhadaar* is an ethereal name: possibly *Sala-* + *-daar*. The *-daar* suffix may be an ethereal title or rank element. First attested in TBC (Netherstorm). Killed in TBC; resurrected by Dimensius in the Void for TWW. In Midnight, serves Xal'atath reluctantly after she tortured him for turning against her; corrupts a naaru at a Nexus-Point; killed in the Voidspire assault. **Spelling note:** The Midnight wiki page uses "Salhaadar" (Sal-haa-dar) rather than "Salhadaar" (Sal-ha-daar) — the vowel positions differ. This may be a wiki typo, a variant spelling, or a different character. Most likely the same character. |
 | Nexus-Prince Azir | /ˈæzɪr/ | Nexus-Prince; Shadowguard leader | Previously known as "Phase-Thief Azir." The wiki confirms his title is Nexus-Prince. *Azir* is an ethereal name; may contain the *Az-* element also found in nerubian *Azj-*, but this is likely coincidental. |
 | Soul-Scribe | /ˈsoʊlskraɪb/ | Wastelander ethereal leader | English compound title. May translate an ethereal title. Sacrificed herself to heal K'aresh's Worldsoul during the Ghosts of K'aresh campaign. |
 | Nexus-Princess Ky'veza | /kaɪˈvɛzə/ | Raid boss (Nerub-ar Palace); ethereal infiltrator | Apostrophe-marked compound: *Ky-* + *-veza*. Confidant of Queen Ansurek, but working for an unknown master. Also ruled the city of *Ma'nussa* on K'aresh. Previously listed as a nerubian raid boss; reclassified here as ethereal. |
@@ -20,6 +20,13 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 | Zovex | /ˈzoʊvɛks/ | Ethereal prisoner (Violet Hold escapee) | Short name, no apostrophe. TWW era. |
 | Soulbinder Naazindhri | /ˌnɑːˈzɪndri/ | Ethereal (Ghosts of K'aresh) | *Naazindhri* contains geminate vowel *-aa-* and consonant cluster *-ndhr*. No apostrophe. Ghosts of K'aresh patch. |
 | Forgeweaver Araz | /əˈræz/ | Ethereal (Ghosts of K'aresh) | Short name *Araz*; no apostrophe. Gave his own essence to complete the resurrection ritual at Manaforge Omega. |
+
+### Midnight Expansion (2026)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Imperator Averzian | /ˌɪmpəˈrɑːtiər æˈvɛrziən/ | Raid boss (Voidspire, Midnight) | "Imperator" is a new ethereal title, distinct from the *Nexus-* hierarchy. *Averzian* is a personal name: possibly *Averz-* + *-ian* or *Aver-* + *-zian*. The *-zian* ending is new. The species of Averzian is uncertain — could be ethereal or void creature. Fought alongside Salhadaar in the Voidspire. |
+| Salhaadar | /sɑːləˈhɑːdɑːr/ | Raid boss (Voidspire, Midnight) | Variant spelling of Nexus-King *Salhadaar*. The Midnight wiki page uses "Salhaadar" (Sal-haa-dar) rather than "Salhadaar" (Sal-ha-daar). This may be a typo, a variant spelling, or reflect a different character. The vowel order differs: *-haa-* vs *-ha-*, and *-dar* vs *-daar*. If this is the same character (most likely), the spelling variation is minor. |
 
 ### The Burning Crusade (2007): Netherstorm Ethereals
 
@@ -117,6 +124,7 @@ The ethereals use a hierarchical title system rendered in Common:
 | Nexus-King | *Salhadaar* | Highest rank; ruler of K'aresh. Only one holder known. |
 | Nexus-Prince | *Shaffar*, *Haramad*, *Bilaal*, *Razaan*, *Azir* | High nobility; likely a rank below Nexus-King. Multiple holders across different factions. |
 | Nexus-Princess | *Ky'veza* | Female equivalent of Nexus-Prince; only one attestation. Ky'veza ruled the city of *Ma'nussa* on K'aresh. |
+| Imperator | *Averzian* | New title from Midnight Voidspire raid. Distinct from the *Nexus-* hierarchy — may be a military title rather than a noble one. Species of bearer uncertain (ethereal or void creature). |
 
 The *Nexus-* prefix is a Common-language compound meaning "connection point" or "center of power." It may translate an ethereal-language title element. If the ethereal language had a native title equivalent to "Nexus," it is not attested.
 

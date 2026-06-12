@@ -19,10 +19,11 @@ Key historical events affecting the language:
 - **The *Hara'ti* schism**: A subgroup called the *Hara'ti* ("those who heard the call") formed among the Haranir. This faction designation preserves the *-ti* suffix in the language.
 - **The War Within (2024)**: The Haranir are encountered by Alliance and Horde forces in Khaz Algar. Orweyna is the central Haranir character.
 - **Undermine patch (Lingering Shadows, 2025)**: Orweyna and fellow Haranir investigate remaining Black Blood in Hallowfall. The other Haranir in Orweyna's group become frustrated with her for ignoring their people's isolationist traditions and return to their homeland, leaving Orweyna alone. Orweyna then receives a vision from Azeroth's Worldsoul that leads her to the Ringing Deeps, where she joins Gazlowe in investigating the goblin operation at Opportunity Point. She continues to scout and work alongside surface-world allies through the Liberation of Undermine campaign.
-- **Midnight (2026)**: Orweyna investigates the Lightbloom in Eversong Woods with Arator, then travels to Harandar with Halduron Brightwing. She is found guilty by Haranir elders for violating isolationist traditions. Hagar helps her atone; they discover **Alndust** (a rare material blessed by the Haranir's goddess) cures the **ruutani** (a Harandar-native race) of the Lightbloom. Ruia is revealed to have redirected the Lightbloom to Eversong as revenge after the Sunwell caused it to first appear in Harandar; Hagar stops her. The Haranir are eventually accepted as allies of Silvermoon by Lor'themar. Harandar becomes a playable zone.
+- **Midnight (2026)**: Orweyna investigates the Lightbloom in Eversong Woods with Arator, then travels to Harandar with Halduron Brightwing. She is found guilty by Haranir elders for violating isolationist traditions. Hagar helps her atone; they discover **Alndust** (a rare material blessed by the Haranir's goddess) cures the **ruutani** (a Harandar-native race) of the Lightbloom. Ruia redirected the Lightbloom to Eversong as revenge after the Sunwell caused it to first appear in Harandar, but could not defeat it on his own. His wounded pride led him to draw power from the Lightbloom, becoming **Lightwarden Ruia** — a boss in the **Blinding Vale** dungeon, killed by players. Orweyna's reaction to his death: "His faith in the goddess has become hatred. Is this what Lightbloom does?" The Haranir are eventually accepted as allies of Silvermoon by Lor'themar. Harandar becomes a playable zone.
   - Amarakk is confirmed as a **Shul'ka** member — a group of Haranir warriors who sever their connection to Aln'hara (the goddess/Worldsoul) to safely patrol the **Rift of Aln**. Amarakk was mutated by the Shul'ka initiation ritual.
   - Five Haranir went to the surface to commune with World Trees: **Chonon** (Nordrassil), **Fuunid** (Amirdrassil), **Kawayn** (Vordrassil), **Or'jan** (Teldrassil), **Zhakir** (Shaladrassil). Kawayn confirms Vordrassil's roots do NOT reach Harandar (they were severed due to corruption).
 - **The Rift of Aln**: When the Worldsoul (Aln'hara) was moved from her original location (the Cradle in Harandar), the violence of the act left a wound called the **Rift of Aln**. The Worldsoul's screams of anguish gave life to formless terrors (the **Alnscorned**). The Shul'ka protect Harandar from these horrors.
+- **The Dreamrift** (Midnight raid): The Shul'ka also hunt threats beyond the Rift of Aln. In the Dreamrift — a permeable veil between primordial dreams and brutal reality — the Shul'ka pursue an "undreamt god that never should have been" and battle "half-birthed abominations that lash out against existence itself." This expands the Shul'ka's role from guardians of Harandar to hunters of cosmic threats across the dream/reality boundary.
 - **Contact with Arathi**: The Haranir encountered Arathi humans in Hallowfall. *Ney'leia* spoke directly to the Arathi, suggesting some bilingualism or Common-language ability.
 
 ## Cultural Context
@@ -39,7 +40,9 @@ Key historical events affecting the language:
 - **Haranir naming**: Four Harandar village names have confirmed translations — *Har'alnor* (Village of Twilight), *Har'athir* (Village of Memory), *Har'kuai* (Village of Rain), *Har'mara* (Village of Balance). The morpheme *Har'* = "village" is the most securely attested morpheme in Hara'ni.
 - **The Saptor** plant: Haranir wrap their meals in saptor fronds before steaming them over boiling water.
 - **Haranir druids** use animal forms based on predators from Mount Hyjal (wolverine, quill-bear, razorquill bat, sable), not Harandar's native fauna.
-- In the alpha build of Midnight, a mural depicted the Haranir as the progenitors of all trollkind. At launch, this was changed to depict a "split" in Haranir society instead.
+- In the alpha build of Midnight, a mural depicted the Haranir as the progenitors of all trollkind. At launch, this was changed to depict a "split" in Haranir society instead. The alpha mural text is no longer canon and did not contribute any Hara'ni vocabulary.
+- The Midnight Creatures section on the wiki lists "**Rutaani**" (single u) as a creature type, while other sources use "Ruutani" (double u). The spelling discrepancy remains unresolved, but the double-u spelling is preferred based on Wikipedia consistency and the *Fuunid* parallel attesting long /uː/.
+- **Fungara Village** and **Gnarldin** (giant creature) are potential Hara'ni-derived names in Harandar. *Gnarldin* may share the *Gnarl-* root with Elder *Gnarla*.
 
 ## Dialects and Variants
 
@@ -59,10 +62,11 @@ Key historical events affecting the language:
 
 The Hara'ni language is **extremely poorly attested**. The known corpus consists of:
 
-- ~16 personal names (some with apostrophe-marked morpheme boundaries)
-- ~14 place names
+- ~18+ personal names (some with apostrophe-marked morpheme boundaries)
+- ~16+ place names
 - ~11 cultural/faction names (including the ethnonym, language name, and faction name)
 - 3 Midnight-era terms (*Ruutani*, *Alndust*, *Shay'neia*) that may be Hara'ni words
+- 1 attested text (Derelict Mural — in Common, not Hara'ni)
 
 No Hara'ni-language sentences, phrases, or texts are attested in canon.
 
@@ -70,12 +74,14 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 
 - The Haranir are a distinct species, not elves or trolls (confirmed by canon).
 - The *Hara-* root appears in five independent attestations with consistent structural position (initial in ethnonym, language name, capital, faction; final in *Aln'hara*).
-- The *Aln-* root now has two attestations (*Aln'hara*, *Alndust*), making it the second-most-secure morpheme.
+- The *Aln-* root now has four attestations (*Aln'hara*, *Alndust*, *Alnscorned*, *Rift of Aln*), making it the second-most-secure morpheme.
 - The apostrophe marks genuine morpheme boundaries (consistent with nerubian and qiraji conventions).
 - The language name *Hara'ni* is explicitly confirmed in the wiki infobox.
 - **Har' = "village"** is confirmed by four official translations (Har'alnor, Har'athir, Har'kuai, Har'mara).
 - **Shul'ka = "Hunters of Shadows"** is the first confirmed Hara'ni translation with an official gloss.
 - **Aln'hara = "The Worldsoul of Azeroth"** is confirmed by wiki and in-game quests.
+- **Morta'ka** is an Elemental, "the shadow of the first Hara'ti to fall to the madness of the Rift" — named by the Haranir but not itself Haranir.
+- **Lightwarden Ruia** is confirmed male and was killed as a boss in the Blinding Vale — this disproves the *-ia* feminine suffix hypothesis.
 - **The Haranir goddess is Aln'hara** (the Azeroth Worldsoul) — confirmed.
 - **The Haranir descend from dark trolls/night elves** — confirmed by *The Art of Midnight*.
 
@@ -84,7 +90,8 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 - Whether *Hara-* means "people/we" or "call/song" or both.
 - Whether *-nir*, *-ni*, and *-ti* form a systematic suffix set.
 - Whether the *-dar* suffix is borrowed from Earthen/Arathi or independently developed.
-- Whether *-ia* is a feminine name suffix — the wiki uses male icons for both Ruia and On'hiea, which would contradict the feminine hypothesis.
+- Whether *-ia* is a feminine name suffix — **effectively disproven**: Ruia and On'hiea are confirmed male on the wiki, while only Ney'leia is female. The *-ia* ending is either gender-neutral or coincidental.
+- Whether *-ka* is specifically "hunter" or a broader agentive/personification suffix — the Morta'ka data (elemental, "shadow of the first Hara'ti") supports personification over "hunter."
 - Whether *Har'* (village) and *Hara-* (ethnonym) are the same morpheme or homophonous.
 - Whether *Shul'* = "shadow" and *-ka* = "hunter(s)" (only one confirmed translation with decomposition ambiguous).
 - The full phonological, morphological, and syntactic structure of Hara'ni.
@@ -115,6 +122,9 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 - *World of Warcraft: Midnight* (2026). Blizzard Entertainment.
 - Warcraft Wiki: Hara'ni (warcraft.wiki.gg/wiki/Hara'ni) — official translation list
 - Warcraft Wiki: Shul'ka (warcraft.wiki.gg/wiki/Shul'ka)
+- Warcraft Wiki: Morta'ka the Sundered Echo (warcraft.wiki.gg/wiki/Morta'ka_the_Sundered_Echo)
+- Warcraft Wiki: Lightwarden Ruia (warcraft.wiki.gg/wiki/Lightwarden_Ruia)
+- Warcraft Wiki: Derelict Mural (warcraft.wiki.gg/wiki/Derelict_Mural)
 - Warcraft Wiki: Harandar (warcraft.wiki.gg/wiki/Harandar)
 - Warcraft Wiki: Azeroth (titan) (warcraft.wiki.gg/wiki/Azeroth_(titan)) — Aln'hara confirmation
 - *The Art of Midnight* (2026), pg. 125 — dark troll/night elf origin confirmation

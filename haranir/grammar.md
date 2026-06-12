@@ -98,28 +98,32 @@ This is the **most securely attested morpheme in Hara'ni** — four independent 
 
 If *Shul'ka* = "Hunters of Shadows" (confirmed translation), the decomposition *Shul'* + *-ka* yields *Shul'* = "shadow" and *-ka* = "hunter(s)" or agentive suffix. This is the most natural morpheme break, but the word could also be indivisible.
 
+In Midnight, the Shul'ka's role extends beyond patrolling the Rift of Aln. The **Dreamrift** raid depicts the Shul'ka hunting an "undreamt god that never should have been" in the permeable veil between primordial dreams and reality, and battling "half-birthed abominations that lash out against existence itself." This expanded role is consistent with *Shul'ka* = "Hunters of Shadows" — the "shadows" they hunt encompass not only the Alnscorned in the Rift of Aln but also voidspawn and undreamt entities in the Dreamrift.
+
 **Confidence: Low–Moderate** for *Shul'* = "shadow" and *-ka* = "hunter(s)/agentive".
 
 ### The *-ka* Suffix: Deepened Analysis
 
-The *-ka* suffix appears in two very different contexts:
+The *-ka* suffix appears in two very different contexts, now enriched by the Morta'ka wiki data:
 
 | Name | Context | Proposed Gloss |
 |------|---------|----------------|
 | *Shul'ka* | Order of warriors who sever connection to Aln'hara | "Hunters of Shadows" (confirmed) |
-| *Morta'ka* | Manifestation/abomination in the Rift of Aln | "[Morta-] entity" (no confirmed gloss) |
+| *Morta'ka* | **Elemental** manifestation; "shadow of the first Hara'ti to fall to the madness of the Rift" | "[Morta-] entity" (no confirmed gloss) |
 
-Three interpretations:
+Morta'ka is confirmed as an **Elemental** (not Haranir) on the wiki, and is "said to be the shadow of the first Hara'ti to fall to the madness of the Rift." This new lore provides critical context:
 
-1. **-ka = "hunter(s)"**: Confirmed for *Shul'ka* but semantically inconsistent with *Morta'ka* (which is an adversary, not a hunter). **Plausibility: Low.**
+1. **-ka = "hunter(s)"**: Confirmed for *Shul'ka* but semantically inconsistent with *Morta'ka* (which is an elemental shadow/echo, not a hunter). **Plausibility: Low.**
 
-2. **-ka = "entity/personification of [X]"**: A broader agentive/personification suffix. *Shul'ka* = "those who personify shadow" → "Hunters of Shadows." *Morta'ka* = "the personification of [Morta-]" → "the Sundered Echo." Semantically consistent with both attestations. **Plausibility: Low–Moderate.**
+2. **-ka = "entity/personification of [X]"**: A broader agentive/personification suffix. *Shul'ka* = "those who personify shadow" → "Hunters of Shadows." *Morta'ka* = "the personification of [Morta-]" → "the Sundered Echo" (a manifested shadow of the first fallen Hara'ti). Semantically consistent with both attestations. **Plausibility: Low–Moderate.**
 
-3. **-ka = "severed/ritually bonded one"**: Both *Shul'ka* and *Morta'ka* are connected to the severance ritual — the Shul'ka sever their connection to Aln'hara, while *Morta'ka the Sundered Echo* may personify the sundering itself. Under this interpretation, *-ka* specifically designates entities created or defined by severance. **Plausibility: Very Low–Low** (requires assuming a ritual-specific suffix).
+3. **-ka = "shadow/echo"**: Matches Morta'ka's nature but conflicts with *Shul'ka* = "Hunters of Shadows" (not "shadow of shadow"). **Plausibility: Very Low.**
 
-The most defensible interpretation is a broad agentive/personification suffix ("one who is [X]" or "entity of [X]"), with "hunter" being the specific contextual gloss for *Shul'ka*.
+4. **-ka = "severed/ritually bonded one"**: Both *Shul'ka* and *Morta'ka* are connected to the severance ritual. **Plausibility: Very Low–Low.**
 
-**Confidence: Very Low–Low** for *-ka* as a genuine Haranir agentive/personification suffix (two attestations; semantic mismatch between contexts limits confidence).
+The most defensible interpretation is a broad agentive/personification suffix ("one who is [X]" or "entity of [X]"), with "hunter" being the specific contextual gloss for *Shul'ka*. The Morta'ka data strengthens the personification interpretation.
+
+**Confidence: Very Low–Low** for *-ka* as a genuine Haranir agentive/personification suffix (two attestations; Morta'ka being an elemental named by Haranir rather than a Haranir itself complicates the analysis).
 
 ### Village Suffix Vocabulary
 
@@ -186,35 +190,36 @@ If *-dar* = *-dor* (Titan "land/realm"), then *Harandar* = "Hara-land" — a top
 
 **Confidence: Low–Moderate** for *-dar* as a borrowed toponymic suffix in Hara'ni.
 
-### The *-ia* / *-a* Feminine Suffix (Speculative)
+### The *-ia* / *-a* Suffix — **EFFECTIVELY DISPROVEN as Feminine**
 
-Three confirmed female Haranir names end in *-ia* or phonologically conditioned variants: *Ruia* (-ia), *Ney'leia* (-eia), *On'hiea* (-iea). The surface variation may reflect a single underlying suffix *-ia* /jə/ with phonological conditioning by the preceding vowel:
+Wiki gender confirmation now shows that two of three *-ia*-ending Haranir names are male:
 
-| Preceding Environment | Surface Form | Example |
-|-----------------------|--------------|---------|
-| After back vowel (/uː/) | *-ia* /i.ə/ | *Ruia* |
-| After mid front vowel (/eɪ/) | *-eia* /eɪ.ə/ | *Ney'leia* |
-| After high front vowel (/iː/) | *-iea* /iː.ə/ | *On'hiea* |
+| Name | Ending | Gender | Source |
+|------|--------|--------|--------|
+| *Ruia* | *-ia* | **Male** (confirmed) | warcraft.wiki.gg/wiki/Lightwarden_Ruia: Gender = Male |
+| *On'hiea* | *-iea* | **Male** (confirmed) | warcraft.wiki.gg IconSmall_Haranir_Male.gif |
+| *Ney'leia* | *-eia* | Female (confirmed) | warcraft.wiki.gg IconSmall_Haranir_Female.gif |
 
-Alternatively, the common element may be final *-a* (a feminine suffix), with the preceding *i/e* belonging to the stem: *Rui-* + *-a*, *Ney'lei-* + *-a*, *On'hie-* + *-a*.
+With 2 of 3 *-ia*-ending names confirmed male, the *-ia* feminine suffix hypothesis is **effectively disproven**. The ending may be a gender-neutral nominal suffix, or may reflect Blizzard naming aesthetics with no morphological significance.
 
-No male Haranir names end in *-a* (*Amarakk*, *Hannan*, *Hagar*), but other female names (*Orweyna*, *Gnarla*) also lack *-ia*. The *-a* feminine ending is a widespread Blizzard design pattern across multiple WoW languages (Draenei, Nazja), making it difficult to distinguish genuine morphology from naming aesthetics.
+The surface variation (-ia, -eia, -iea, -neia in *Shay'neia*) is most parsimoniously analyzed as stem + final *-a* (a general name suffix, not specifically feminine), where the preceding *i/e* belongs to the stem. The variation is in the stem, not the suffix.
 
-**Confidence: Very Low–Low** for *-ia* / *-a* as a genuine Haranir feminine suffix.
+**Confidence: Very Low** for *-ia* / *-a* as a genuine Haranir suffix of any kind. The pattern most likely reflects Blizzard naming aesthetics with no morphological significance in Hara'ni.
 
 ### The *-neia* / *-leia* / *-iea* Endings: Decomposition Analysis
 
-The Zur'ashar member **Shay'neia** adds a third *-ia*-variant ending to the corpus. The three variant endings are most parsimoniously analyzed as **name stems + final *-a* (feminine suffix)**, rather than as three distinct suffixes:
+The Zur'ashar member **Shay'neia** adds a fourth *-ia*-variant ending to the corpus. Since the *-ia* feminine suffix hypothesis is now effectively disproven (2 of 3 names are male), the decomposition analysis is updated:
 
-| Name | Ending | Preferred Decomposition | Stem | Feminine *-a* |
-|------|--------|------------------------|------|---------------|
+| Name | Ending | Preferred Decomposition | Stem | Final *-a* |
+|------|--------|------------------------|------|------------|
 | *Shay'neia* | *-neia* | *Shay'nei* + *-a* | *-nei* | *-a* |
 | *Ney'leia* | *-leia* | *Ney'lei* + *-a* | *-lei* | *-a* |
 | *On'hiea* | *-iea* | *On'hi* + *-a* | *-i* | *-a* |
+| *Ruia* | *-ia* | *Rui* + *-a* | *-ui* | *-a* |
 
-The variation is in the stem (*-nei*, *-lei*, *-i*), not in the suffix. The single suffix *-a* is the more parsimonious analysis because it requires only one morpheme rather than three phonologically conditioned variants of *-ia*. The stem-final /i/ or /ei/ coalesces with the suffix *-a* to produce the surface forms *-neia*, *-leia*, *-iea*.
+The variation is in the stem (*-nei*, *-lei*, *-i*, *-ui*), not the suffix. The final *-a* is most likely a **gender-neutral name suffix** (or coincidental Blizzard naming aesthetic) rather than a feminine marker. The surface forms result from stem-final vowels coalescing with the suffix *-a*.
 
-**Confidence: Very Low–Low** for final *-a* as a feminine suffix (the *-neia* data point is consistent with but does not strengthen the hypothesis).
+**Confidence: Very Low** for final *-a* as a productive Hara'ni suffix; the pattern may simply reflect Blizzard naming aesthetics with no morphological significance.
 
 ### The *-ar* Element in *Ul'ar*: Potential Nerubian Loanword
 
@@ -315,5 +320,9 @@ The Hara'ni apostrophe pattern is structurally identical to nerubian and qiraji 
 - **The Haranir are confirmed to descend from dark trolls/night elves** (*The Art of Midnight*), meaning Hara'ni is not an independent language family but a deeply divergent branch of the elven/troll family.
 - **Morpheme decompositions are inferred from patterns**, not confirmed by any canon source (except where noted as confirmed above).
 - **The *Har'* root** is now the most attested morpheme (4 confirmed attestations); the *Hara-* root has 5 attestations; the *Aln-* root has 4 attestations; all other morphemes have 1–2 attestations.
+- **The *-ia* feminine suffix is effectively disproven.** Wiki gender data confirms Ruia and On'hiea are male, while only Ney'leia is female. The *-ia* ending cannot be a feminine marker.
+- **Morta'ka is an Elemental**, not a Haranir, but was likely named by the Haranir. This means *-ka* may apply to non-Haranir entities designated by Haranir naming conventions.
+- **The Derelict Mural** in Harandar (Nordrassil Roots) contains only Common/English text. The alpha version used "the Goddess" and "lesser trollkind" but no Hara'ni vocabulary. The live version was toned down.
 - **The Haranir's unique biological origin** ("not really elves, not really trolls") means there are no obvious cognate languages to compare with.
 - **The Haranir lived on Mount Hyjal before migrating to Harandar** after 16,000 BDP — this extreme antiquity means any related languages may have diverged beyond recognition.
+- **The alpha build mural text** (which depicted Haranir as progenitors of all trollkind) was **changed at launch** to depict a "split" in Haranir society. The alpha text is no longer canon and did not contribute any Hara'ni vocabulary. This resolves the open question about whether the mural contained additional Hara'ni words — it did not survive into the released game.
