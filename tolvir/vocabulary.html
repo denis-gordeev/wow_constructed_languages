@@ -5,131 +5,134 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Tol'vir Vocabulary — WoW Constructed Languages</title>
 <style>
-:root { --bg: #1a1a2e; --fg: #e0e0e0; --accent: #d4a853; --accent2: #c97d3c; --table-bg: #16213e; --table-border: #2a2a4a; --link: #7ec8e3; --note: #888; }
-body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--fg); max-width: 1100px; margin: 0 auto; padding: 20px; line-height: 1.6; }
-h1, h2, h3 { color: var(--accent); }
-h1 { border-bottom: 2px solid var(--accent); padding-bottom: 8px; }
-h2 { border-bottom: 1px solid var(--accent2); padding-bottom: 4px; margin-top: 2em; }
-a { color: var(--link); }
-table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.95em; }
-th, td { border: 1px solid var(--table-border); padding: 6px 10px; text-align: left; }
-th { background: var(--accent2); color: #fff; font-weight: 600; }
-tr:nth-child(even) { background: var(--table-bg); }
-tr:nth-child(odd) { background: #1d2847; }
-.ipa { font-family: 'Lucida Sans Unicode', 'DejaVu Sans', sans-serif; color: #b0d0f0; }
-.gloss { color: #90d090; }
-.note { color: var(--note); font-size: 0.9em; }
-.certainty-high { color: #5f5; font-weight: bold; }
-.certainty-low { color: #fa5; }
-.certainty-vlow { color: #f77; }
-.section-intro { color: #aaa; font-style: italic; margin-bottom: 1em; }
-.legend { background: #16213e; border: 1px solid var(--table-border); padding: 10px 15px; margin: 1em 0; border-radius: 4px; }
-.legend span { margin-right: 1.5em; }
+  body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+  h1 { border-bottom: 2px solid #c97d3c; padding-bottom: 0.3em; }
+  h2 { color: #c97d3c; margin-top: 2em; }
+  h3 { color: #d4a853; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+  th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+  th { background: #fff3e0; font-weight: bold; }
+  tr:nth-child(even) { background: #fafaf5; }
+  .ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+  .uncertain { color: #888; font-style: italic; }
+  .inferred { color: #c97d3c; }
+  .shared { background: #e8f5e8; }
+  .note { background: #fff3e0; border-left: 3px solid #c97d3c; padding: 0.5em 1em; margin: 1em 0; }
+  .certainty-high { color: #2e7d32; font-weight: bold; }
+  .certainty-low { color: #f57f17; }
+  .certainty-vlow { color: #c62828; }
+  nav { background: #fff3e0; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+  nav a { margin-right: 1em; }
+  a { color: #c97d3c; }
+  a:hover { color: #bf360c; }
 </style>
 </head>
 <body>
 
+<nav>
+  <a href="#attested">Attested Phrases</a>
+  <a href="#confirmed">Confirmed Vocabulary</a>
+  <a href="#tribes">Tribes</a>
+  <a href="#beings">Beings</a>
+  <a href="#places">Places</a>
+  <a href="#artifacts">Artifacts</a>
+  <a href="#morphemes">Morphemes</a>
+</nav>
+
 <h1>Tol'vir Vocabulary — Expanded with IPA</h1>
 
-<p class="section-intro">All entries are attested in World of Warcraft canon sources. No invented words are included. IPA transcriptions are approximate, based on the romanized spelling and the Egyptian-inspired phonological aesthetic.</p>
+<p class="note">All entries are attested in World of Warcraft canon sources. No invented words are included. IPA transcriptions are approximate, based on the romanized spelling and the Egyptian-inspired phonological aesthetic.</p>
 
-<div class="legend">
-<strong>Certainty:</strong>
-<span class="certainty-high">High</span> — confirmed by in-game source
-<span class="certainty-low">Low</span> — inferred from patterns
-<span class="certainty-vlow">Very Low</span> — speculative
-</div>
-
-<h2>Attested Phrases and Sentences</h2>
+<h2 id="attested">Attested Phrases and Sentences</h2>
 <table>
 <tr><th>Phrase</th><th>IPA</th><th>Gloss</th><th>Source / Notes</th></tr>
 <tr>
   <td><strong>Achusenmen osadi djahi kahun Ammunae</strong></td>
   <td class="ipa">/ɑxusɛnmɛn osɑdi dʒɑhi kɑhun ɑmunɑe/</td>
-  <td class="gloss">(untranslated)</td>
+  <td class="uncertain">(untranslated)</td>
   <td>Inscription on the Staff of Ammunae archaeology artifact. The longest attested Tol'vir text. <em>Ammunae</em> = a titan keeper of the Halls of Origination.</td>
 </tr>
 <tr>
   <td><strong>Kadesh! Osadi! Satekh!</strong></td>
   <td class="ipa">/kɑdɛʃ osɑdi sɑtɛk/</td>
-  <td class="gloss">"Swing! Swing! Block!"</td>
+  <td>"Swing! Swing! Block!"</td>
   <td>Engraved Scimitar Hilt. Ramkahen Sergeant drill. <em>Kadesh</em> = a swing, <em>Osadi</em> = another swing, <em>Satekh</em> = a block.</td>
 </tr>
 <tr>
   <td><strong>Murkash!</strong></td>
   <td class="ipa">/murkɑʃ/</td>
-  <td class="gloss">(battle cry; untranslated)</td>
+  <td>(battle cry; untranslated)</td>
   <td>Said by General Husam in combat.</td>
 </tr>
 </table>
 
-<h2>Confirmed Vocabulary</h2>
+<h2 id="confirmed">Confirmed Vocabulary</h2>
 <table>
 <tr><th>Word</th><th>IPA</th><th>Gloss</th><th>Source</th><th>Certainty</th></tr>
 <tr>
   <td><strong>khopesh</strong></td>
   <td class="ipa">/xoˈpɛʃ/</td>
-  <td class="gloss">"sickle sword" / curved sword</td>
+  <td>"sickle sword" / curved sword</td>
   <td>Scimitar of the Sirocco</td>
   <td class="certainty-high">High</td>
 </tr>
 <tr>
   <td><strong>Kadesh</strong></td>
   <td class="ipa">/kɑˈdɛʃ/</td>
-  <td class="gloss">combat command: a swing</td>
+  <td>combat command: a swing</td>
   <td>Engraved Scimitar Hilt</td>
   <td class="certainty-high">High</td>
 </tr>
 <tr>
   <td><strong>Osadi</strong></td>
   <td class="ipa">/oˈsɑdi/</td>
-  <td class="gloss">combat command: another swing</td>
+  <td>combat command: another swing</td>
   <td>Engraved Scimitar Hilt</td>
   <td class="certainty-high">High</td>
 </tr>
 <tr>
   <td><strong>Satekh</strong></td>
   <td class="ipa">/sɑˈtɛk/</td>
-  <td class="gloss">combat command: a block</td>
+  <td>combat command: a block</td>
   <td>Engraved Scimitar Hilt</td>
   <td class="certainty-high">High</td>
 </tr>
 </table>
 
-<h2>Proper Names — Tribes</h2>
+<h2 id="tribes">Proper Names — Tribes</h2>
 <table>
 <tr><th>Name</th><th>IPA</th><th>Decomposition</th><th>Proposed Gloss</th><th>Certainty</th></tr>
 <tr>
   <td><strong>Ramkahen</strong></td>
   <td class="ipa">/rɑmˈkɑhɛn/</td>
   <td><em>Ram</em> + <em>kahen</em> ?</td>
-  <td class="gloss">(unknown; possibly "place of Ram")</td>
+  <td class="uncertain">(unknown; possibly "place of Ram")</td>
   <td class="certainty-vlow">Very Low</td>
 </tr>
 <tr>
   <td><strong>Neferset</strong></td>
   <td class="ipa">/nɛˈfɜrsɛt/</td>
   <td><em>Nefer</em> + <em>set</em> ?</td>
-  <td class="gloss">"beautiful place" ? (cf. Egyptian <em>nfr</em>)</td>
+  <td>"beautiful place" ? (cf. Egyptian <em>nfr</em>)</td>
   <td class="certainty-vlow">Very Low</td>
 </tr>
 <tr>
   <td><strong>Orsis</strong></td>
   <td class="ipa">/ˈɔrsɪs/</td>
   <td>monomorphemic ?</td>
-  <td class="gloss">(unknown)</td>
+  <td class="uncertain">(unknown)</td>
   <td class="certainty-vlow">Very Low</td>
 </tr>
 <tr>
   <td><strong>Amathet</strong></td>
   <td class="ipa">/ɑˈmɑθɛt/</td>
   <td><em>Ama</em> + <em>thet</em> ?</td>
-  <td class="gloss">(unknown; possibly locative <em>-et</em>)</td>
+  <td class="uncertain">(unknown; possibly locative <em>-et</em>)</td>
   <td class="certainty-vlow">Very Low</td>
 </tr>
 </table>
 
-<h2>Proper Names — Beings</h2>
+<h2 id="beings">Proper Names — Beings</h2>
 <table>
 <tr><th>Name</th><th>IPA</th><th>Title</th><th>Tribe</th><th>Notes</th></tr>
 <tr><td><strong>Phaoris</strong></td><td class="ipa">/feɪˈɔrɪs/</td><td>King</td><td>Ramkahen</td><td>Ruler of the Ramkahen</td></tr>
@@ -150,7 +153,7 @@ tr:nth-child(odd) { background: #1d2847; }
 <tr><td><strong>Nubitt</strong></td><td class="ipa">/nuːˈbɪt/</td><td>Sun Priestess</td><td>Amathet</td><td></td></tr>
 </table>
 
-<h2>Proper Names — Places in Uldum</h2>
+<h2 id="places">Proper Names — Places in Uldum</h2>
 <table>
 <tr><th>Name</th><th>IPA</th><th>Description</th><th>Decomposition</th><th>Egyptian Parallel</th></tr>
 <tr><td><strong>Ahmtul</strong></td><td class="ipa">/ɑmˈtul/</td><td>Ruined city (NW)</td><td>—</td><td>—</td></tr>
@@ -172,24 +175,32 @@ tr:nth-child(odd) { background: #1d2847; }
 <tr><td><strong>Tomb of the Sun King</strong></td><td>—</td><td>Ancient tomb</td><td>English name</td><td>—</td></tr>
 </table>
 
-<h2>Proper Names — Artifacts</h2>
+<h2 id="artifacts">Proper Names — Artifacts</h2>
 <table>
 <tr><th>Name</th><th>IPA</th><th>Description</th><th>Decomposition</th><th>Arabic Parallel</th></tr>
 <tr><td><strong>Al'burq</strong></td><td class="ipa">/ɑlˈburk/</td><td>Fist of the Heavens</td><td><em>Al'</em> + <em>burq</em></td><td>cf. Arabic <em>al-barq</em> "lightning"</td></tr>
 <tr><td><strong>Alra'ed</strong></td><td class="ipa">/ɑlˈrɑːɛd/</td><td>Fist of the Heavens</td><td><em>Al</em> + <em>ra'ed</em> ?</td><td>cf. Arabic <em>al-ra'd</em> "thunder"</td></tr>
 </table>
 
-<h2>Morphemes</h2>
+<h2 id="morphemes">Morphemes</h2>
 <table>
 <tr><th>Morpheme</th><th>IPA</th><th>Proposed Gloss</th><th>Evidence</th><th>Certainty</th></tr>
-<tr><td><strong>Vir'-</strong></td><td class="ipa">/vɪr/</td><td class="gloss">water / river (?)</td><td>Shared in <em>Vir'naal</em>, <em>Vir'sar</em></td><td class="certainty-low">Low</td></tr>
-<tr><td><strong>Al'-</strong></td><td class="ipa">/ɑl/</td><td class="gloss">the (definite article) (?)</td><td><em>Al'burq</em>, <em>Alra'ed</em>; cf. Arabic <em>al-</em></td><td class="certainty-low">Low–Medium</td></tr>
-<tr><td><strong>-en</strong></td><td class="ipa">/ɛn/</td><td class="gloss">place / settlement (?)</td><td><em>Ramkahen</em>, possibly <em>Ankhaten</em></td><td class="certainty-vlow">Very Low</td></tr>
-<tr><td><strong>-et / -ep</strong></td><td class="ipa">/ɛt/ ~ /ɛp/</td><td class="gloss">locative suffix (?)</td><td><em>Amathet</em>, <em>Akhenet</em>, <em>Hamatep</em>, <em>Sahket</em></td><td class="certainty-vlow">Very Low</td></tr>
-<tr><td><strong>khopesh</strong></td><td class="ipa">/xoˈpɛʃ/</td><td class="gloss">sickle sword</td><td>Scimitar of the Sirocco</td><td class="certainty-high">High</td></tr>
+<tr><td><strong>Vir'-</strong></td><td class="ipa">/vɪr/</td><td>water / river (?)</td><td>Shared in <em>Vir'naal</em>, <em>Vir'sar</em></td><td class="certainty-low">Low</td></tr>
+<tr><td><strong>Al'-</strong></td><td class="ipa">/ɑl/</td><td>the (definite article) (?)</td><td><em>Al'burq</em>, <em>Alra'ed</em>; cf. Arabic <em>al-</em></td><td class="certainty-low">Low–Medium</td></tr>
+<tr><td><strong>-en</strong></td><td class="ipa">/ɛn/</td><td>place / settlement (?)</td><td><em>Ramkahen</em>, possibly <em>Ankhaten</em></td><td class="certainty-vlow">Very Low</td></tr>
+<tr><td><strong>-et / -ep</strong></td><td class="ipa">/ɛt/ ~ /ɛp/</td><td>locative suffix (?)</td><td><em>Amathet</em>, <em>Akhenet</em>, <em>Hamatep</em>, <em>Sahket</em></td><td class="certainty-vlow">Very Low</td></tr>
+<tr><td><strong>khopesh</strong></td><td class="ipa">/xoˈpɛʃ/</td><td>sickle sword</td><td>Scimitar of the Sirocco</td><td class="certainty-high">High</td></tr>
 </table>
 
-<p class="note">Last updated: 2026-06-03. Sources: Wowpedia, Warcraft Wiki, in-game archaeology items, Cataclysm and BfA patch 8.3 content.</p>
+<hr>
+<nav style="text-align:center;margin:1em 0;">
+  <a href="../titan-forged-comparative.html">Titan-Forged Comparative</a> &middot;
+  <a href="../elven-comparative.html">Elven Comparative</a> &middot;
+  <a href="../alien-comparative.html">Alien Comparative</a> &middot;
+  <a href="../example-sentences.html">Example Sentences</a>
+</nav>
+
+<p><em>Last updated: 2026-06-14. Sources: Wowpedia, Warcraft Wiki, in-game archaeology items, Cataclysm and BfA patch 8.3 content.</em></p>
 
 </body>
 </html>

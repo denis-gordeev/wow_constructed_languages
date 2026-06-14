@@ -297,3 +297,15 @@
 - [ ] Resolve the Rutaani/Ruutani spelling discrepancy — **DEEPENED**: The Harandar zone wiki infobox lists "Ruutani" as a race; the Midnight Creatures section lists "Rutaani" (IconSmall_Rutaani.gif, IconSmall_LightRutaani.gif); Amarakk's item icon (inv_12_jewelry_rutaani_ring_red) uses single-u. The discrepancy exists within Blizzard's own game data (zone data vs. creature data vs. item data). Wikipedia consistently uses "ruutani" (lowercase). The *-uu-* long vowel is confirmed by *Fuunid*. **Confidence: Low–Moderate** for *Ruutani* as a genuine Hara'ni word; the double-u spelling is preferred but the discrepancy is now confirmed as a genuine Blizzard inconsistency rather than a wiki error
 - [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
 - [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
+
+## Autowork Round 2026-06-14e
+
+- [x] Fix 8 broken grammar.html links across HTML files — **COMPLETED**: changed all `grammar.html` hrefs to `grammar.md` in example-sentences.html (6 links), alien-comparative.html (1 link), haranir/vocabulary.html (1 link)
+- [x] Fix 3 broken anchor links — **COMPLETED**: fixed `#wordlist` → `#cross-language` in titan-forged-comparative.html; removed `#places-gnome` and `#places-mecha` nav links in gnomish/vocabulary.html (sections don't exist; replaced with `#undermine-places`)
+- [x] Fix duplicate warning block in example-sentences.html — **COMPLETED**: removed verbatim duplicate reminder block at lines 1029–1036 (identical to lines 776–783)
+- [x] Add cross-navigation between comparative HTML pages — **COMPLETED**: added consistent navigation footer to all 5 HTML pages (elven-comparative.html, eredun-draenei-comparative.html, titan-forged-comparative.html, alien-comparative.html, example-sentences.html) linking to each other
+- [x] Add example sentences for Eredun and Gutterspeak — **COMPLETED**: added 6 Eredun sentences (Er1–Er6) and 6 Gutterspeak sentences (Gs1–Gs6) to example-sentences.html; updated nav bar with Eredun and Gutterspeak links; updated README.md
+- [x] Fix missing h3 CSS in vocabulary.html files — **COMPLETED**: added h3 style to earthen/vocabulary.html, shalassian/vocabulary.html, shath-yar/vocabulary.html
+- [x] Fix missing a:hover in titan-forged-comparative.html — **COMPLETED**: added `a:hover { color: #1a237e; }` consistent with other comparative pages
+- [x] Normalize tolvir/vocabulary.html CSS — **COMPLETED**: rewrote from dark theme with CSS custom properties and sans-serif font to standard light theme with serif font matching all other vocabulary.html files; added nav bar, section IDs, and cross-navigation footer
+- [x] Check warcraft.wiki.gg for new data — **BLOCKED**: warcraft.wiki.gg still inaccessible (transport errors); Wikipedia Midnight article reviewed — no new linguistic data beyond what was already documented
