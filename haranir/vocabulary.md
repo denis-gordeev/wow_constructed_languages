@@ -137,6 +137,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
 | Gnarldin | /ˈnɑːrldɪn/ | *Gnarl-* + *-din* | Giant creature type in Harandar. The *Gnarl-* element parallels Elder *Gnarla* (/ˈnɑːrlə/) — if related, *Gnarl-* could be a Hara'ni root meaning "ancient/stone/earth." The *-din* element is unexplained. Alternatively, "Gnarldin" may be a Common compound (gnarl + din). **Confidence: Very Low** for genuine Hara'ni morpheme content |
+| Light Rutaani | — | Common + *Ruutani* | A Lightbloom-affected variant of the ruutani, attested in game data as IconSmall_LightRutaani.gif. The "Light" prefix is a Common/English descriptor — no Hara'ni word for "light" is attested. All Lightbloom-related terms (Lightbloom, Lightwarden, Blinding Vale) are Common-language designations. The icon naming convention follows Blizzard's pattern of prepending English descriptors to distinguish variants (cf. IconSmall_Haranir_Male.gif, IconSmall_LightRutaani.gif). If the Haranir have a native word for the Lightbloom or for "light" as a concept, it is unattested. **Confidence: High** that "Light Rutaani" is purely Common with no Hara'ni compound equivalent attested |
 
 ## 3. Cultural and Faction Names
 

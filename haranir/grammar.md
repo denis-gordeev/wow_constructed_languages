@@ -26,6 +26,8 @@ Grammar rules below are **inferred from attested examples only**. The Hara'ni la
    
    The Xhosa accent may be a Blizzard design choice indicating phonological affinity between Hara'ni and Zandali (both derive from the proto-troll/elven language), or may simply be a production convenience (reusing the same voice direction). **Confidence: Moderate** that the shared accent reflects a genuine in-universe phonological connection rather than mere production convenience, given the confirmed genetic relationship between Haranir and dark trolls/night elves.
 
+8. **Xhosa phonological parallels: Hara'ni vs. Zandali** (detailed comparison below in §Xhosa Comparison): The shared Xhosa accent implies that both Hara'ni and Zandali inherited phonological features from proto-troll. The name corpora reveal several shared features consistent with a Xhosa-like substrate: identical five-vowel system /a e i o u/, (C)V(C) syllable preference, high /a/ and /i/ frequency, shared palato-alveolar series /ʃ/ /tʃ/, and apostrophe-marked morpheme boundaries (likely reflecting glottal stops or former click positions). Differences (/h/ frequency, geminates, /θ/ /ʒ/ in Hara'ni; /f/ /v/ /z/ pre-nasalized stops in Zandali) are likely post-divergence innovations after ~16,000 years of independent development.
+
 2. **Apostrophe as morpheme boundary**: The apostrophe in Hara'ni names consistently marks compound boundaries between two content morphemes (e.g., *Ter'* + *-kova*, *Nye'* + *-rangi*). This is identical to the medial apostrophe pattern in nerubian and qiraji, and distinct from the initial apostrophe pattern in Shath'Yar.
 
 3. **Geminate consonants and long vowels**: *Hannan* (*-nn-*) and *Amarakk* (*-kk-*) contain geminate consonants. *Fuunid* (*-uu-*) and *Ruutani* (*-uu-*) contain long/geminate /uː/. If these are phonologically significant (not merely orthographic), Hara'ni would share geminate consonants with qiraji (*-naxx*) and long vowels would be a distinctive feature. The two *-uu-* attestations confirm that long /uː/ is a genuine phonological feature.
@@ -326,6 +328,84 @@ Hara'ni shares three areal features with neighboring Khaz Algar languages:
 | /h/ frequency | Very high | Low | Low | Low | Low |
 
 The Hara'ni apostrophe pattern is structurally identical to nerubian and qiraji (medial compound boundary), but the languages share no confirmed morphemes. The most likely explanation is that the apostrophe convention is a widespread Blizzard design aesthetic for "alien" names, not evidence of in-universe linguistic contact.
+
+## Xhosa Phonological Comparison: Hara'ni and Zandali
+
+The confirmed shared Xhosa accent (warcraft.wiki.gg/wiki/Haranir; Amarakk voiced by Ike Amadi, who also voices Rokhan the Darkspear troll) implies that Hara'ni and Zandali share phonological features inherited from their common proto-troll ancestry. This section compares the two name corpora for shared features that could reflect the proto-troll phonological substrate implied by the accent.
+
+### Consonant Inventory Comparison
+
+| Feature | Hara'ni | Zandali | Xhosa Parallel? |
+|---------|---------|---------|-----------------|
+| Stops | p b t d k g | p b t d k g | Xhosa has p t k with ejective/implosive variants |
+| Fricatives | s θ ʃ ʒ h | s z ʃ h f v | Xhosa has limited fricatives |
+| Affricates | tʃ dʒ | tʃ | Xhosa has ts dz tʃ dʒ |
+| Nasals | m n ŋ | m n | Xhosa has m n ɲ ŋ |
+| Approximants | r j w | r j w | Xhosa has w j |
+| Laterals | l | l | Xhosa has l |
+| Ejectives | — | — | Xhosa: pʼ tʼ kʼ |
+| Clicks | — | — | Xhosa: ǀ ǃ ǁ |
+| Implosives | — | — | Xhosa: ɓ ɗ |
+
+### Shared Phonological Features (Potential Proto-Troll Substrate)
+
+1. **Five-vowel system /a e i o u/**: Both languages share this system identically — and it matches Xhosa's five-vowel system (/a ɛ i ɔ u/). This is a strong candidate for proto-troll inheritance.
+
+2. **(C)V(C) syllable preference**: Both favor simple syllable structures, consistent with Xhosa/Bantu preference for open syllables. Hara'ni has some initial clusters (Gn-, Dr-, Zh-) but these are rare; Zandali names also tend toward simple syllables (Zu-l'A-man, Ha-kkar, Pa-ku).
+
+3. **Apostrophe-marked morpheme boundaries**: Both use apostrophe compounding extensively (Hara'ni: ~25/30+ names; Zandali: ~20/40+ names). If the apostrophe represents a glottal stop /ʔ/ or a former click position, this is a shared phonological feature. In Xhosa, morpheme boundaries are often phonologically salient.
+
+4. **High /a/ and /i/ frequency**: Both show /a/ as the most frequent vowel, with /i/ second — consistent with Xhosa vowel distribution and many Bantu languages.
+
+5. **Palato-alveolar consonant series**: Both have /ʃ/ (Hara'ni: Shul'ka; Zandali: Shadra, Sethraliss) and /tʃ/ (Hara'ni: Chonon, Chua; Zandali: possibly in Jani /dʒ/). Xhosa also has this series.
+
+6. **Medial /r/**: Both frequently use /r/ in non-initial position (Hara'ni: Harandar, Ter'kova; Zandali: Zandalar, Krag'wa), consistent with Xhosa which allows /r/ medially but not initially.
+
+7. **Lack of complex consonant clusters in core vocabulary**: Both avoid clusters in most names, consistent with Xhosa syllable structure constraints.
+
+### Divergent Phonological Features (Likely Post-Divergence Innovations)
+
+| Feature | Hara'ni | Zandali | Analysis |
+|---------|---------|---------|----------|
+| /h/ frequency | Very high (6+/30 names) | Low–Moderate (Hir'eek, Hakkar, Hash'ey) | Likely Hara'ni innovation; /h/ may have been reanalyzed as a phonologically salient consonant during subterranean isolation |
+| Geminate consonants / long vowels | Present (-nn-, -kk-, -uu-) | Absent | Hara'ni innovation; may reflect phonological elaboration in isolation |
+| /θ/, /ʒ/ | Present (Har'athir, Zhakir) | Absent | Hara'ni innovation; /θ/ may derive from sound change /t/ → /θ/ before /i/ |
+| /f/, /v/, /z/ | Rare | Common (Farraki, Vol'jin, Zul) | Zandali retention or innovation; absent from Hara'ni suggests loss in subterranean development |
+| Pre-nasalized stops | Absent | Present (Bwonsamdi bw-) | Zandali retention of proto-troll feature? Xhosa has pre-nasalized stops; their absence in Hara'ni suggests simplification |
+| Average name length | 3–4 syllables | 2–3 syllables | Hara'ni names tend longer; may reflect different compounding preferences |
+| /ŋ/ (ng) | Present (Fungara) | Rare | Hara'ni retention? Xhosa has /ŋ/; Zandali may have lost it |
+
+### Xhosa-Specific Features Not Reflected in Orthography
+
+The following Xhosa phonological features are NOT directly observable in either name corpus but could be responsible for the perceived "accent":
+
+1. **Click consonants**: Xhosa has three click types (dental /ǀ/, alveolar /ǃ/, lateral /ǁ/). If proto-troll had clicks, they may have been:
+   - Retained in both Hara'ni and Zandali but not represented in the orthography (the apostrophe might partially reflect a former click position that evolved into a glottal stop)
+   - Lost in Zandali during creolization but preserved in Hara'ni
+   - Represented indirectly through the apostrophe (marking a position where a click formerly occurred)
+
+2. **Tonal patterns**: Xhosa is a tonal language with high and low tones. Both Hara'ni and Zandali could preserve tonal distinctions not reflected in the orthography. The "accent" perceived by players likely includes tonal patterns applied to English words. Tonal languages often have simpler syllable structures and more restricted consonant clusters — both consistent with Hara'ni and Zandali name patterns.
+
+3. **Implosive consonants**: Xhosa has /ɓ/ and /ɗ/. These might appear in either language as voiced stops with unusual articulation, contributing to the distinctive accent quality. The voiced stops /b/ and /d/ in both corpora could be implosive in pronunciation.
+
+4. **Ejective consonants**: Xhosa has /pʼ/, /tʼ/, /kʼ/. These might contribute to the perceived "sharpness" or "crispness" of stop consonants in the accent. The voiceless stops /p/, /t/, /k/ in both corpora could be ejective in pronunciation.
+
+5. **Syllable-timed rhythm**: Xhosa is syllable-timed rather than stress-timed. The shared accent likely includes this prosodic feature, giving both Hara'ni and Zandali speech a more regular, rhythmic quality compared to stress-timed English.
+
+### Assessment
+
+| Feature | Proto-Troll Inheritance? | Confidence |
+|---------|--------------------------|------------|
+| Five-vowel system /a e i o u/ | Probable — shared with Xhosa/Bantu | Moderate |
+| (C)V(C) syllable structure | Probable — shared with Xhosa | Moderate |
+| Apostrophe = glottal stop / former click | Possible — both languages retain this | Low–Moderate |
+| Syllable-timed prosody | Probable — reflected in the accent | Moderate |
+| Tonal patterns | Possible — not in orthography but consistent with accent | Low–Moderate |
+| Click consonants | Speculative — might have existed in proto-troll | Very Low–Low |
+| Pre-nasalized stops | Possible — retained in Zandali, lost in Hara'ni | Low |
+| Ejective/implosive consonants | Possible — could explain accent quality | Very Low |
+
+**Overall Confidence: Moderate** that the shared Xhosa accent reflects genuine proto-troll phonological features rather than mere production convenience, given: (1) the confirmed genetic relationship between Haranir and dark trolls/night elves, (2) the multiple shared phonological features consistent with a Xhosa-like substrate, (3) the same voice actor (Ike Amadi) voicing both a Haranir and a Darkspear troll, and (4) the systematic phonological differences that are explicable as post-divergence innovations.
 
 ## Limitations
 
