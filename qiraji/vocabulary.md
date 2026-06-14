@@ -19,6 +19,17 @@ The Qiraji are an insectoid race descended from the Aqir, created by the Old God
 | Ayamiss the Hunter | — | Qiraji boss | English epithet; no qiraji-language name known. |
 | Swarmguard | — | Qiraji rank designation | English compound. |
 
+### Gates of Ahn'qiraj Event NPCs (Classic)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Prince Sarsarun | /ˈsɑːrsərʊn/ | Qiraji leader (Cataclysm era) | Not *-naxx* pattern; new qiraji name structure. |
+| Qiraji Brigadier General Pax-lish | /pæksˈlɪʃ/ | Gates of Ahn'qiraj event NPC | *Pax-* + *-lish*. The *Pax-* element is notable — not *-naxx* but contains *-ax* in initial position. Apostrophe not used. |
+| Qiraji Major He'al-ie | /hiˈɑːliː/ | Gates of Ahn'qiraj event NPC | Apostrophe-marked compound: *He'* + *-al-* + *-ie*. Matches Aqir-descended apostrophe pattern. |
+| Qiraji Captain Ka'ark | /kɑːˈɑːrk/ | Gates of Ahn'qiraj event NPC | *Ka-* + *-ark*. Apostrophe marks morpheme boundary. |
+| Qiraji Lieutenant Jo-rel | /dʒoʊˈrɛl/ | Gates of Ahn'qiraj event NPC | *Jo-* + *-rel*. Short compound. |
+| Qiraji Officer Zod | /zɒd/ | Gates of Ahn'qiraj event NPC | Very short name; possibly a rank abbreviation or nickname. |
+
 ### Silithus Qiraji NPCs
 
 | Name | IPA | Role | Notes |
@@ -31,7 +42,7 @@ The Qiraji are an insectoid race descended from the Aqir, created by the Old God
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| Ahn'qiraj | /ˈɑːnkwɪrɑːʒ/ | *Ahn-* + *-qiraj* | The qiraji fortress-temple in Silithus. *Ahn-* also appears in nerubian *Ahn'kahet* — potentially a shared Aqir morpheme meaning "old/ancient/sacred." *-qiraj* may be the source of "qiraji" (the people's designation). |
+| Ahn'qiraj | /ˈɑːn.kiˌɹɑːʒ/ | *Ahn-* + *-qiraj* | The qiraji fortress-temple in Silithus. **Official IPA from warcraft.wiki.gg**: *Ahn-* = /ɑːn/; *-qiraj* = /kiˌɹɑːʒ/ (with /ʒ/!). The final /ʒ/ in *-qiraj* parallels *Azj-* = /ɑːʒ/ in nerubian, potentially connecting the qiraji self-designation to the Aqir *Azj-* morpheme family. *Ahn-* also appears in nerubian *Ahn'kahet* — potentially a shared Aqir morpheme meaning "old/ancient/sacred." |
 | Ruins of Ahn'qiraj | — | Same toponym | The outdoor 20-man raid; same *Ahn'qiraj* name. |
 | The Scarab Wall | — | Common/English name | The massive wall surrounding Ahn'qiraj. |
 | Gates of Ahn'qiraj | — | Common/English name | The entrance to the temple. |
@@ -59,7 +70,7 @@ This parallels the nerubian situation — both Aqir-descended species have zero 
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
-| -qiraj / -qiraji | Self-designation / "the people" | *Ahn'qiraj*, English "qiraji" | **Moderate** — the people are called "qiraji" in English; if *-qiraj* in the place name = the same root, then *Ahn'qiraj* = "[Ahn]-place of the qiraj" |
+| -qiraj / -qiraji | Self-designation / "the people" | *Ahn'qiraj*, English "qiraji" | **Moderate** — the people are called "qiraji" in English; if *-qiraj* in the place name = the same root, then *Ahn'qiraj* = "[Ahn]-place of the qiraj"; **official IPA reveals *-qiraj* = /kiˌɹɑːʒ/ with final /ʒ/**, potentially connecting to the Aqir *Azj-* morpheme (*Azj-* = /ɑːʒ/) |
 | -naxx / -axx | Warrior / hunter / elite (?) | *Kurinnaxx*, *General Rajaxx* | **Very Low** — two attestations; parallels nerubian *-nax* / *-ax* |
 
 ### Speculative Morphemes
@@ -194,9 +205,15 @@ The apostrophe in *Hive'Ashi* follows the same apostrophe-as-morpheme-boundary c
 
 ### Sound Inventory (Observed from Attested Names)
 
-**Consonants**: b, d, h, j, k, l, m, n, r, s, t, th (/θ/), x (/ks/), z, sh (/ʃ/)
+**Consonants**: b, d, h, j, k, l, m, n, r, s, t, th (/θ/), x (/ks/ or /x/), z, sh (/ʃ/), zh (/ʒ/)
 
 **Vowels**: a, e, i, o, u
+
+### Key Phonological Discovery (Official IPA)
+
+The official IPA for *Ahn'qiraj* (/ˈɑːn.kiˌɹɑːʒ/) reveals that *-qiraj* ends with /ʒ/ — the same phoneme confirmed in nerubian *Azj-* = /ɑːʒ/. This means /ʒ/ was likely a feature of the Aqir substrate language, inherited by both qiraji and nerubian descendants. The *Qiraji* self-designation = /kiˈɹɑːʒ.i/ also contains /ʒ/.
+
+This is a significant finding: the /ʒ/ phoneme connects the qiraji self-designation to the *Azj-* morpheme family, suggesting that *-qiraj* may be decomposed as *-qir-* + *-azj* ≈ "the qir-[deep] people" — though this remains speculative.
 
 ### Key Phonological Features
 
@@ -245,9 +262,11 @@ Aqir (unattested; Old God-created insectoid race)
 | Aqir Morpheme | Nerubian Form | Qiraji Form | Naga Form | Inferred Meaning |
 |--------------|--------------|-------------|-----------|-----------------|
 | *\*Azj-* | *Azj-Kahet*, *Azjol-Nerub* | — | *Nazj-* (with *N-* prefix) in *Nazjatar* | "deep/realm" |
+| *\*Azj-* (suffix) | *-azj* in *Takazj* | — | — | Same morpheme in suffix position |
 | *\*Ahn-* | *Ahn'kahet* | *Ahn'qiraj* | — | "old/ancient/sacred" |
 | *\*-naxx* (?) | *-nax* (*Ovi'nax*) | *-naxx* (*Kurinnaxx*) | — | "warrior/hunter" (?) |
 | *\*Anub-* (?) | *Anub'arak*, *Anub'azal* | *Anubisath* (if qiraji) | — | "lord/guardian" (?) |
+| *\*Rak-* (?) | *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz* | — | — | Unknown (Khaz Algar dialect only) |
 
 ## 11. Writing System
 

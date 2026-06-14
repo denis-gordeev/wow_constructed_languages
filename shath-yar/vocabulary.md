@@ -31,8 +31,8 @@
 
 | Word | Translation | Notes |
 |------|-------------|-------|
-| Decimus | Domanaar general | Latin-inspired name ("tenth"); possibly Common-language rendering, not Shath'Yar. Captured by Alleria and Arator; seemingly betrayed then helped the party before being killed by Terminas |
-| Terminas | Most powerful domanaar | Latin-inspired name; possibly Common-language rendering. Possessed the Mantle of Predation. Killed by Decimus |
+| Decimus | Domanaar general | Latin-inspired name ("tenth"); possibly Common-language rendering, not Shath'Yar. Captured by Alleria and Arator; informs them that disabling Nexus-Points will weaken the Voidstorm and that Salhadaar serves Xal'atath reluctantly. Seemingly betrays the party by allowing Terminas to capture them, but the distraction allows Decimus to steal the Mantle of Predation before killing Terminas. Killed by the party after the deception |
+| Terminas | Most powerful domanaar | Latin-inspired name; possibly Common-language rendering. Possessed the Mantle of Predation that can shut down all Nexus-Points simultaneously. Captured Alleria's party with Decimus's apparent help; killed by Decimus who stole the Mantle |
 | Voidspire | Xal'atath's base of operations | Common-language compound name for Xal'atath's seat in the Voidstorm |
 | Darkwell | Corrupted Sunwell | The Sunwell after corruption by L'ura's void beam. Common-language name |
 | Dawnwell | Purified Sunwell | The renamed Sunwell after purification by combined elven heritage. Common-language name |

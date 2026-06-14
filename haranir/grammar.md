@@ -19,6 +19,13 @@ Grammar rules below are **inferred from attested examples only**. The Hara'ni la
 
 1. **High /h/ frequency**: Six of ~15 attested Hara'ni names contain /h/ (*Hagar*, *Hannan*, *Harandar*, *Hara'ni*, *On'hiea*, *Ran'hune*). This is unusually high compared to other WoW languages. /h/ may be a phonologically salient consonant in Hara'ni, possibly reflecting a connection to breath/spirit vocabulary (the Haranir are associated with bat-like shapeshifting and the "call from deep within").
 
+7. **Xhosa-accented English**: The Haranir use the same Xhosa-accented English as the Zandalari trolls (confirmed by warcraft.wiki.gg/wiki/Haranir). This is a critical phonological connection — the voice actor for Amarakk (Ike Amadi) also voices Rokhan, a Darkspear troll. The shared accent implies that Hara'ni and Zandali share phonological features inherited from their common proto-troll ancestry, including:
+   - **Click consonants or click-like articulations** (Xhosa is famous for its click consonants; if the accent reflects genuine phonological features, Hara'ni may have had click consonants that were lost or modified in the name corpus)
+   - **Tonal or pitch-accent patterns** (Xhosa is a tonal language; Hara'ni may preserve tonal distinctions not reflected in the orthography)
+   - **Syllable timing and rhythm** (the "accent" perceived by players reflects prosodic patterns shared with Zandali)
+   
+   The Xhosa accent may be a Blizzard design choice indicating phonological affinity between Hara'ni and Zandali (both derive from the proto-troll/elven language), or may simply be a production convenience (reusing the same voice direction). **Confidence: Moderate** that the shared accent reflects a genuine in-universe phonological connection rather than mere production convenience, given the confirmed genetic relationship between Haranir and dark trolls/night elves.
+
 2. **Apostrophe as morpheme boundary**: The apostrophe in Hara'ni names consistently marks compound boundaries between two content morphemes (e.g., *Ter'* + *-kova*, *Nye'* + *-rangi*). This is identical to the medial apostrophe pattern in nerubian and qiraji, and distinct from the initial apostrophe pattern in Shath'Yar.
 
 3. **Geminate consonants and long vowels**: *Hannan* (*-nn-*) and *Amarakk* (*-kk-*) contain geminate consonants. *Fuunid* (*-uu-*) and *Ruutani* (*-uu-*) contain long/geminate /uː/. If these are phonologically significant (not merely orthographic), Hara'ni would share geminate consonants with qiraji (*-naxx*) and long vowels would be a distinctive feature. The two *-uu-* attestations confirm that long /uː/ is a genuine phonological feature.
@@ -98,20 +105,23 @@ This is the **most securely attested morpheme in Hara'ni** — four independent 
 
 If *Shul'ka* = "Hunters of Shadows" (confirmed translation), the decomposition *Shul'* + *-ka* yields *Shul'* = "shadow" and *-ka* = "hunter(s)" or agentive suffix. This is the most natural morpheme break, but the word could also be indivisible.
 
-In Midnight, the Shul'ka's role extends beyond patrolling the Rift of Aln. The **Dreamrift** raid depicts the Shul'ka hunting an "undreamt god that never should have been" in the permeable veil between primordial dreams and reality, and battling "half-birthed abominations that lash out against existence itself." This expanded role is consistent with *Shul'ka* = "Hunters of Shadows" — the "shadows" they hunt encompass not only the Alnscorned in the Rift of Aln but also voidspawn and undreamt entities in the Dreamrift.
+The wiki expands the Shul'ka's role: they are "hunters, healers, and guides" — not merely warriors. This is consistent with the agentive/personification interpretation of *-ka* (the Shul'ka are not only hunters but also those who embody the shadow in a protective/guiding capacity).
+
+In Midnight, the Shul'ka's role extends beyond patrolling the Rift of Aln. The **Dreamrift** raid depicts the Shul'ka hunting **Chimaerus the Undreamt God** — an entity that "feasted on the void of pain and madness left behind in the rift after Aln'hara was taken" — in the permeable veil between primordial dreams and reality, and battling "half-birthed abominations that lash out against existence itself." This expanded role is consistent with *Shul'ka* = "Hunters of Shadows" — the "shadows" they hunt encompass not only the Alnscorned in the Rift of Aln but also voidspawn and undreamt entities in the Dreamrift.
 
 **Confidence: Low–Moderate** for *Shul'* = "shadow" and *-ka* = "hunter(s)/agentive".
 
-### The *-ka* Suffix: Deepened Analysis
+### The *-ka* / *-kah* Suffix: Deepened Analysis
 
-The *-ka* suffix appears in two very different contexts, now enriched by the Morta'ka wiki data:
+The *-ka* suffix appears in three contexts, enriched by the Morta'ka and Lu'kah data:
 
 | Name | Context | Proposed Gloss |
 |------|---------|----------------|
 | *Shul'ka* | Order of warriors who sever connection to Aln'hara | "Hunters of Shadows" (confirmed) |
 | *Morta'ka* | **Elemental** manifestation; "shadow of the first Hara'ti to fall to the madness of the Rift" | "[Morta-] entity" (no confirmed gloss) |
+| *Lu'kah* | Zur'ashar painter-storyteller (confirmed Haranir) | "[Lu-] entity" (no confirmed gloss) |
 
-Morta'ka is confirmed as an **Elemental** (not Haranir) on the wiki, and is "said to be the shadow of the first Hara'ti to fall to the madness of the Rift." This new lore provides critical context:
+Morta'ka is confirmed as an **Elemental** (not Haranir) on the wiki, and is "said to be the shadow of the first Hara'ti to fall to the madness of the Rift." Lu'kah is a confirmed Haranir and Zur'ashar member (painter-storyteller). The *-kah* vs *-ka* variation may reflect phonological conditioning or an epenthetic /h/.
 
 1. **-ka = "hunter(s)"**: Confirmed for *Shul'ka* but semantically inconsistent with *Morta'ka* (which is an elemental shadow/echo, not a hunter). **Plausibility: Low.**
 
@@ -123,7 +133,7 @@ Morta'ka is confirmed as an **Elemental** (not Haranir) on the wiki, and is "sai
 
 The most defensible interpretation is a broad agentive/personification suffix ("one who is [X]" or "entity of [X]"), with "hunter" being the specific contextual gloss for *Shul'ka*. The Morta'ka data strengthens the personification interpretation.
 
-**Confidence: Very Low–Low** for *-ka* as a genuine Haranir agentive/personification suffix (two attestations; Morta'ka being an elemental named by Haranir rather than a Haranir itself complicates the analysis).
+**Confidence: Very Low–Low** for *-ka* as a genuine Haranir agentive/personification suffix (three attestations; Morta'ka being an elemental named by Haranir rather than a Haranir itself complicates the analysis; Lu'kah adds a third data point but with unknown gloss).
 
 ### Village Suffix Vocabulary
 
@@ -143,15 +153,21 @@ The *Aln-* root has four attestations, making it one of the more securely attest
 | Name | *Aln-* Context | Proposed Function |
 |------|----------------|-------------------|
 | *Aln'hara* | *Aln'* + *-hara* | The Worldsoul of Azeroth — "song from the deep" or "call from the source" |
-| *Alndust* | *Aln-* + *-dust* | Material: "dust from the deep/source" |
+| *Alndust* | *Aln-* + *-dust* | Material: "dust from the deep/source" — **confirmed to be Azerite in particle form** (warcraft.wiki.gg: "Alndust" redirects to "Azerite") |
 | *Alnscorned* | *Aln-* + *-scorned* | Mixed Hara'ni-English: "scorned/corrupted by the deep" |
 | *Rift of Aln* | *Aln* | The physical location — the source |
 
-The *Aln-* root likely means "deep/source/rift," consistent with all four attestations. The absence of apostrophe in *Alndust* and *Alnscorned* may reflect phonological conditioning: the following consonant eliminates the need for a glottal stop boundary marker, whereas *Aln'hara* requires one before /h/.
+**Alndust = Azerite**: The wiki confirms that Alndust is "a particulate used by the haranir for their magic and said to have been created when the worldsoul was taken from her cradle in Harandar," and that "it is implied to be Azerite in particle form. Many spells related to Alndust use Azerite icons, and the graphics effects for things affected by Alndust have the same blue and yellow color scheme as Azerite." This dramatically recontextualizes *Alndust*: the Haranir name for Azerite particles combines *Aln-* (the deep/source/Worldsoul) with *-dust* (the particulate form). Since Azerite is literally the crystallized blood of the Worldsoul, *Aln-* in *Alndust* most likely refers to the Worldsoul's essence itself, strengthening the gloss "source/essence" for *Aln*.
 
-[speculative]: If *Aln-* = "deep/source/rift," it may be connected to the Haranir's subterranean existence and their goddess Aln'hara (the Worldsoul). The root could originally have meant "depth" (physical depth of Harandar) and acquired a sacred connotation through association with the Worldsoul and the World Tree roots.
+**Aln as a verb**: The quest name "The Greater They Aln" (from Amarakk's quest list on warcraft.wiki.gg) uses *Aln* as a **verb** in a Common/Hara'ni code-switched title. "The Greater They Aln" appears to parallel "the greater they [are/move/grow]," where *Aln* substitutes for a verb meaning something like "to be affected by the deep," "to undergo the Aln transformation," or "to descend into the rift." This is the **first evidence of *Aln* functioning as a verb** rather than only as a nominal root. A second quest from the same NPC, "The Foundation of Aln," uses *Aln* as a noun (consistent with all previous attestations). [speculative]: If *Aln* can function as both noun ("the deep/source") and verb ("to go deep / to be consumed by the deep"), this would be typologically natural — many languages derive verbs from locative nouns.
 
-**Confidence: Moderate** for *Aln* = "deep/source/rift" (four attestations, confirmed in-game geography).
+The *Aln-* root likely means "deep/source/rift/essence," consistent with all attestations. The absence of apostrophe in *Alndust* and *Alnscorned* may reflect phonological conditioning: the following consonant eliminates the need for a glottal stop boundary marker, whereas *Aln'hara* requires one before /h/.
+
+[speculative]: If *Aln-* = "deep/source/rift/essence," it may be connected to the Haranir's subterranean existence and their goddess Aln'hara (the Worldsoul). The root could originally have meant "depth" (physical depth of Harandar) and acquired a sacred connotation through association with the Worldsoul and the World Tree roots. The Alndust = Azerite connection reinforces this: the Worldsoul's crystallized blood is "dust of the deep/source."
+
+**Confidence: Moderate–High** for *Aln* = "deep/source/rift/essence" (four attestations, confirmed in-game geography, Alndust = Azerite confirmation, and *Aln* used as a verb in quest title).
+
+[speculative]: The quest title **"The Greater They Aln"** (Amarakk's quest line) uses *Aln* as a verb in a Common-language sentence — the only known instance of *Aln* functioning verbally. If *Aln* = "to dream" or "to grow deep", the root would have both nominal ("deep/source/dream/essence") and verbal ("to dream" / "to grow deep") functions. The Dreamrift Adventure Guide confirms that "the dreams of Aln'hara took form" in the Rift, supporting the "dream" gloss. However, this is a single attestation in a mixed Hara'ni-English quest title, and the "verb" may be a Blizzard translation choice rather than a genuine Hara'ni grammatical function. **Confidence: Very Low–Low** for *Aln* as a verb.
 
 ### The *-nir* / *-ni* / *-ti* Suffix Set
 

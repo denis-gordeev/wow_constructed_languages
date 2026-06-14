@@ -48,6 +48,7 @@ All entries are attested in World of Warcraft in-game dialogue, NPC speech, ques
 | Thalas'darah | Silvermoon? | Uncertain; possibly "Silvermoon" but not firmly attested |
 | Antenorian | Governor of Tranquillien (Midnight) | Allied with Twilight's Blade cultists. No clear Thalassian morpheme decomposition; possibly a personal name with *-orian* ending |
 | Silversun Compact | Faction (Midnight) | Alliance of Sunreavers and Silver Covenant formed by Aethas Sunreaver and Vereesa Windrunner after the Battle of the Darkwell. Portmanteau of "Silver" (Silver Covenant) + "Sun" (Sunreavers; cf. *belore* = "sun"). Common-language compound, not Thalassian, but culturally significant — the "sun" element echoes *belore*, the Thalassian word for "sun" |
+| Dawnwell | Purified Sunwell (Midnight) | The renamed Sunwell after leaders from each elven faction offered a piece of their heritage to purify the Darkwell (Sunwell corrupted by L'ura). The name uses Common/English "Dawn" + "Well" but is culturally significant: "Dawn" symbolizes the new era of elven unity. No Thalassian form of "Dawnwell" is attested; if one existed, it might contain *belore* (sun) — e.g., *Belore'thalas* ("Sun-well" → "Dawn-well") — but this is speculative |
 
 ## Phrases and Greetings
 

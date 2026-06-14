@@ -28,6 +28,11 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Xanventh | /ˈzænvɛnθ/ | Dungeon boss (Speaker) | *Xan-* + *-venth*; no apostrophe; contains /θ/ (dental fricative). |
 | Ix'zek | /ɪksˈzɛk/ | Dungeon boss (the Gnarled) | Apostrophe-marked compound: *Ix-* + *-zek*. *-zek* parallels *-rek* / *-urek*. |
 | Vrrix | /ˈvrɪks/ | Possible nerubian name (Ascended) | Doubled consonant pattern; initial cluster /vr/. |
+| Scarab Captain Vul'akan | /vʊˈlɑːkæn/ | Nerub-ar Palace NPC | *Vul-* + *-akan*. The *-akan* element parallels *Anub'et'kan* (*-et'kan*). |
+| Foreseer Xix'amon | /zɪksˈɑːmɒn/ | Nerub-ar Palace NPC | *Xix-* + *-amon*. Initial sibilant + apostrophe matches *Ix'* pattern. *-amon* is a new suffix. |
+| Scarab Lord Anub'arash | /ɑˈnʊbəˈræʃ/ | Silken Court encounter | *Anub-* + *-arash*. The *-arash* suffix parallels *-arak* but with /ʃ/ ending. |
+| Skeinspinner Takazj | /ˈtɑːkɑːʒ/ | Silken Court encounter | *Tak-* + *-azj*. **Critical**: *-azj* as a suffix mirrors *Azj-* as a prefix — if *Azj-* = "deep/realm," *-azj* could mean "of the deep" or be an agentive suffix. The official pronunciation of *Azj-* is /ɑːʒ/, making *-azj* = /ɑːʒ/ a near-exact match. |
+| Kriz | /ˈkrɪz/ | Nerubian NPC ("the Loyal") | Very short name; possibly a nickname or abbreviated form. |
 
 ### Pre-TWW Nerubians (Wrath of the Lich King and earlier)
 
@@ -71,21 +76,26 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| Azj-Kahet | /æzˈkɑːhɛt/ | *Azj-* + *-Kahet* | Nerubian kingdom. *Azj-* prefix parallels *Nazj-* in *Nazjatar*. *-Kahet* may mean "realm" or "kingdom." |
+| Azj-Kahet | /ˈɑːʒ.kəˌhɛt/ | *Azj-* + *-Kahet* | Nerubian kingdom. **Official IPA from warcraft.wiki.gg**: *Azj-* = /ɑːʒ/ (with /ʒ/, not /z/). This strengthens the *Azj-*/**Nazj-* connection — *Nazj-* = /nɑːʒ/ is simply /n/ + /ɑːʒ/. *-Kahet* may mean "realm" or "kingdom." |
 | City of Threads | — | Common/English name | Nerubian capital; also a dungeon name |
-| Nerub-ar Palace | /ˈnɛrʊbɑːr/ | *Nerub-* + *-ar* | Ansurek's seat of power. The *-ar* suffix may parallel other nerubian suffixes. |
+| Nerub-ar Palace | /ˈnɛ.ruːbˌɑ:r/ | *Nerub-* + *-ar* | Ansurek's seat of power. **Official IPA from warcraft.wiki.gg**: *Nerub-* = /ˈnɛ.ruːb/ with full /uː/, *-ar* = /ɑ:r/. The *-ar* suffix may parallel other nerubian suffixes. |
 | The Transformatory | — | Common/English name | Ascended creation facility |
 | Rak-Zakaz | /rækˈzækæz/ | *Rak-* + *Zakaz* (?) | Subzone in Azj-Kahet; doubled *-za-* element; hyphen marks compound boundary |
 | Sureki Unyielding | — | *Sureki* + Common epithet | Subzone; *Sureki* is a nerubian house/faction |
 | Weaver's Lair | — | Common name for Arak'nai's base | |
+| Pillar-nest Xesh | /zɛʃ/ | *Pillar-nest* (Common) + *Xesh* | Subzone in Azj-Kahet. *Xesh* may be a nerubian word. |
+| Pillar-nest Noth | /nɒθ/ | *Pillar-nest* (Common) + *Noth* | Subzone in Azj-Kahet. *Noth* may be a nerubian word. |
+| Pillar-nest Vosh | /vɒʃ/ | *Pillar-nest* (Common) + *Vosh* | Subzone in Azj-Kahet. *Vosh* may be a nerubian word. |
+| Rak-Ahat | /rækˈɑːhæt/ | *Rak-* + *-Ahat* | Subzone in Azj-Kahet. *Rak-* prefix also in *Rak-Ush* and *Rak-Zakaz*. |
+| Rak-Ush | /rækˈʊʃ/ | *Rak-* + *-Ush* | Subzone in Azj-Kahet. *Rak-* prefix appears in three place names. |
+| Kili-zar Arena | /ˈkɪlizɑːr/ | *Kili-* + *-zar* | Arena inside Nerub-ar Palace. |
 
 ### Pre-TWW: Northrend and Aqir Empire
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| Azjol-Nerub | /ˈæzjoʊlˈnɛrʊb/ | *Azj-* + *-ol* + *Nerub* | Ancient nerubian kingdom in Northrend. *Azj-* prefix matches *Azj-Kahet*! |
-| Ahn'kahet | /ˈɑːnkɑːhɛt/ | *Ahn-* + *-kahet* | Old Kingdom dungeon. *-kahet* matches *Azj-Kahet* — this is a significant parallel. |
-| Azj'Aqir | /æzˈɑːkwɪr/ | *Azj-* + *Aqir* | The original Aqir empire (capital city). Critical third attestation of the *Azj-* toponymic prefix, directly connecting it to the Aqir self-designation. |
+| Azjol-Nerub | /ˈɑːʒoʊlˈnɛrʊb/ | *Azj-* + *-ol* + *Nerub* | Ancient nerubian kingdom in Northrend. *Azj-* prefix matches *Azj-Kahet*! IPA updated: *Azj-* = /ɑːʒ/ per official warcraft.wiki.gg pronunciation of *Azj-Kahet*. |
+| Ahn'kahet | /ˈɑːnkɑːhɛt/ | *Ahn-* + *-kahet* | Old Kingdom dungeon. *-kahet* matches *Azj-Kahet* — this is a significant parallel. || Azj'Aqir | /ˈɑːʒɑːkwɪr/ | *Azj-* + *Aqir* | The original Aqir empire (capital city). Critical third attestation of the *Azj-* toponymic prefix, directly connecting it to the Aqir self-designation. IPA updated: *Azj-* = /ɑːʒ/. |
 | Kil'jaeden's Terrace | — | Named after the demon; not nerubian | |
 | En'kilah | /ɛnˈkiːlɑː/ | *En-* + *-kilah* | Temple City in Borean Tundra; Scourge-occupied nerubian structure. The *En-* prefix differs from *Ahn-*. |
 
@@ -127,8 +137,8 @@ This parallels the attested Tol'vir phrases (*Kadesh* = "Swing", *Osadi* = "Stri
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
-| Anub- | Possibly "servant/warrior/lord" (cf. Egyptian *Anubis*) | *Anub'arak*, *Anub'rekhan*, *Anub'ess*, *Anub'azal*, *Anub'izek*, *Anub'esset*, *Anub'et'kan* | **High** — seven attestations spanning Black Empire to TWW; clearly a productive prefix; used for both male and female leaders |
-| Azj- | Possibly "realm/domain/deep" | *Azj-Kahet* (TWW), *Azjol-Nerub* (WotLK), *Azj'Aqir* (Aqir empire) | **High** — three place names across multiple expansions and lore sources; *Azj'Aqir* is the original Aqir empire, directly connecting *Azj-* to the Aqir self-designation; see §5 for full analysis |
+| Anub- | Possibly "servant/warrior/lord" (cf. Egyptian *Anubis*) | *Anub'arak*, *Anub'rekhan*, *Anub'ess*, *Anub'azal*, *Anub'izek*, *Anub'esset*, *Anub'et'kan*, *Anub'arash* | **High** — eight attestations spanning Black Empire to TWW; clearly a productive prefix; used for both male and female leaders |
+| Azj- | Possibly "realm/domain/deep" | *Azj-Kahet* (TWW), *Azjol-Nerub* (WotLK), *Azj'Aqir* (Aqir empire), *Takazj* (*-azj* suffix, TWW) | **High** — three place names across multiple expansions and lore sources; *Azj'Aqir* is the original Aqir empire, directly connecting *Azj-* to the Aqir self-designation; **official IPA confirms *Azj-* = /ɑːʒ/**; **-azj* as suffix in *Takazj* mirrors *Azj-* as prefix, further confirming the morpheme |
 | -kahet / -Kahet | Possibly "kingdom/realm/capital" | *Azj-Kahet* (TWW), *Ahn'kahet* (WotLK) | **High** — two place names with the same suffix; the *Ahn-* vs. *Azj-* alternation may reflect different morphemes or a sound change |
 
 ### Moderate-Confidence Morphemes
@@ -145,6 +155,10 @@ This parallels the attested Tol'vir phrases (*Kadesh* = "Swing", *Osadi* = "Stri
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
+| -azj | Agentive or locative suffix (mirrors *Azj-* prefix) | *Takazj* | **Moderate** — phonological identity with *Azj-* confirmed by official IPA; single attestation as suffix |
+| -arash | Possibly "lord/ruler" (parallels *-arak* with /ʃ/) | *Anub'arash* (Scarab Lord) | **Very Low** — single attestation; parallels *-arak* in *Anub'arak* |
+| -akan | Uncertain | *Vul'akan* | **Very Low** — single attestation; parallels *-et'kan* in *Anub'et'kan* |
+| -amon | Uncertain | *Xix'amon* | **Very Low** — single attestation |
 | -nax / -ax | Possibly "twister/brood" or a rank | *Ovi'nax*, *Ulgrax*, *Hadronox* | **Low** — three phonologically similar endings; may be coincidental |
 | -zek | Possibly a rank or role suffix | *Ix'zek*, parallels *-rek* in *Nizrek* | **Very Low** — phonological similarity to *-rek* may reflect a common suffix pattern |
 | -vizk | Uncertain | *Krix'vizk* | **Very Low** — single attestation |
@@ -179,7 +193,7 @@ The prefix *Azj-* in nerubian place names (*Azj-Kahet*, *Azjol-Nerub*) and *Nazj
 
 **Arguments for a connection:**
 
-1. **Phonological identity:** *Azj-* and *Nazj-* share the sequence /æz(dʒ)/, differing only by the initial /n/ in the naga form. If *Nazj-* = *N-* + *Azj-*, then *Nazjatar* = *N-azj-atar* and *Azj-Kahet* = *Azj-kahet*, with the same root *Azj-* meaning "deep" or "realm below."
+1. **Phonological identity:** *Azj-* = /ɑːʒ/ and *Nazj-* = /nɑːʒ/ (confirmed by official warcraft.wiki.gg IPA for *Azj-Kahet*), differing only by the initial /n/ in the naga form. If *Nazj-* = *N-* + *Azj-*, then *Nazjatar* = *N-azj-atar* and *Azj-Kahet* = *Azj-kahet*, with the same root *Azj-* meaning "deep" or "realm below." The official pronunciation makes the phonological match **nearly perfect** — the only difference is initial /n/.
 
 2. **Aqir ancestry:** Both nerubians and naga (via the qiraji/n'raqi) descend from the Aqir, the ancient insectoid race created by the Old Gods. If the *Azj-* element was an Aqir word meaning "deep" or "home," it could have been inherited by both descendant species.
 
@@ -234,8 +248,9 @@ The prefix *Anub-* appears in four nerubian names across multiple expansions:
 | *Anub'izek* | Lore (Black Empire) | First Queen of the True Nerub |
 | *Anub'esset* | Legion | Crypt lord (Violet Hold) |
 | *Anub'et'kan* | WotLK | Under-King, crypt lord |
+| *Anub'arash* | TWW (Silken Court) | Scarab Lord |
 
-The *Anub-* prefix clearly evokes Egyptian *Anubis* (the jackal-headed god of mummification and the afterlife). In WoW, all *Anub-* named nerubians are male and hold positions of military or leadership significance. This suggests:
+The *Anub-* prefix clearly evokes Egyptian *Anubis* (the jackal-headed god of mummification and the afterlife). In WoW, nearly all *Anub-* named nerubians hold positions of military or leadership significance. This suggests:
 
 - *Anub-* may mean "lord," "warrior," or "commander" in the nerubian language
 - *Anub-* may be a title prefix rather than a personal name element
@@ -243,11 +258,56 @@ The *Anub-* prefix clearly evokes Egyptian *Anubis* (the jackal-headed god of mu
 
 **Confidence: High** for the morpheme's existence; **Low** for the specific meaning.
 
+## 7a. The *-azj* Suffix: Mirror of the *Azj-* Prefix
+
+The name *Takazj* (Skeinspinner, Silken Court encounter) introduces *-azj* as a **suffix** for the first time, directly mirroring *Azj-* as a toponymic prefix:
+
+| Position | Form | Attested In | IPA |
+|----------|------|-------------|-----|
+| Prefix | *Azj-* | *Azj-Kahet*, *Azjol-Nerub*, *Azj'Aqir* | /ɑːʒ/ |
+| Suffix | *-azj* | *Takazj* | /ɑːʒ/ |
+
+### Analysis
+
+1. **Phonological identity**: Both *Azj-* and *-azj* contain the same sound /ɑːʒ/, confirmed by official IPA for *Azj-Kahet*. This is unlikely to be coincidental — the same morpheme appears in both prefix and suffix positions.
+
+2. **Functional difference**: As a prefix, *Azj-* marks toponyms (place names meaning "deep/realm/domain"). As a suffix, *-azj* may mark:
+   - Agentive function: *Takazj* = "one of the deep" or "deep-weaver"
+   - Locative origin: *Takazj* = "[from] the deep"
+   - A different morpheme that happens to be homophonous
+
+3. **Cross-linguistic parallel**: The Aqir morpheme *\*azj* could have been productive in both prefix and suffix positions, similar to how some real-world morphemes function in both positions (e.g., English *-man*/*man-* in *man-eater* vs. *horseman*).
+
+**Confidence: Moderate** for *-azj* being the same morpheme as *Azj-* in suffix position; **Low** for the specific suffix meaning.
+
+## 7b. The *Rak-* Prefix: A New Nerubian Toponymic Element
+
+Three subzones in Azj-Kahet share the initial element *Rak-*:
+
+| Name | Analysis | Notes |
+|------|----------|-------|
+| *Rak-Ahat* | *Rak-* + *-Ahat* | Subzone in Azj-Kahet |
+| *Rak-Ush* | *Rak-* + *-Ush* | Subzone in Azj-Kahet |
+| *Rak-Zakaz* | *Rak-* + *Zakaz* | Subzone in Azj-Kahet; *Zakaz* also appears in *Reclaimer A'zak* |
+
+Three attestations of the same prefix in toponymic context is significant. If *Rak-* is a nerubian morpheme, it would join *Azj-*, *Ahn-*, and (speculatively) *En-* as a nerubian toponymic prefix:
+
+| Prefix | Attestations | Inferred Meaning | Confidence |
+|--------|-------------|-----------------|------------|
+| *Azj-* | 3 (*Azj-Kahet*, *Azjol-Nerub*, *Azj'Aqir*) | "deep/realm/domain" | High |
+| *Ahn-* | 2 (*Ahn'kahet*, *Ahn'qiraj*) | "old/ancient/sacred" | Medium |
+| *Rak-* | 3 (*Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz*) | Unknown | Low–Moderate |
+| *En-* | 1 (*En'kilah*) | Unknown | Very Low |
+
+*Rak-* appears only in the Khaz Algar dialect (TWW). No *Rak-* toponyms are known from Northrend.
+
+**Confidence: Low–Moderate** for *Rak-* as a genuine nerubian toponymic prefix. Three independent attestations is suggestive, but the meaning is entirely unknown.
+
 ## 8. Phonological Observations
 
 ### Sound Inventory (Observed from Attested Names)
 
-**Consonants**: b, d, f, h, j, k, l, m, n, p, r, s, t, th (/θ/), v, x (/ks/), z, sh (/ʃ/), zh (/ʒ/)
+**Consonants**: b, d, f, h, j, k, l, m, n, p, r, s, t, th (/θ/), v, x (/ks/ or /x/), z, sh (/ʃ/), zh (/ʒ/)
 
 **Vowels**: a, e, i, o, u
 
@@ -261,6 +321,7 @@ The *Anub-* prefix clearly evokes Egyptian *Anubis* (the jackal-headed god of mu
    - The chitinous clicking sound of arachnid vocalization
    - A Blizzard aesthetic choice to make nerubian names sound "hard" and "alien"
    - An Old God substrate influence (cf. Shath'Yar's harsh phonology)
+   - **Note**: The official IPA for *Azj-Kahet* (/ˈɑːʒ.kəˌhɛt/) reveals that *Azj-* contains /ʒ/ rather than /z/ or /dʒ/. The *-azj* suffix in *Takazj* also contains /ʒ/. This means /ʒ/ is attested not just as a rare element but as part of one of the most important nerubian morphemes.
 
 4. **Initial clusters**: Nerubian tolerates complex initial clusters: /vr/ (*Vrrix*), /kr/ (*Krix'vizk*), /ks/ or /ɪks/ (*Ix'zek*). This is similar to Vrykul cluster tolerance.
 
@@ -273,7 +334,7 @@ The *Anub-* prefix clearly evokes Egyptian *Anubis* (the jackal-headed god of mu
 | Feature | Nerubian | Nazja | Analysis |
 |---------|----------|-------|----------|
 | Apostrophe usage | Extremely consistent (*Anub'azal*, *Ovi'nax*) | Consistent (*Sira'kess*, *Naz'jar*) | Both use apostrophe as morpheme boundary; nerubian usage is slightly more regular |
-| /ʒ/ (zh) frequency | Low (not clearly attested in names) | Very high (diagnostic of Nazja) | Nazja innovated /ʒ/; nerubians did not |
+| /ʒ/ (zh) frequency | Confirmed in key morphemes (*Azj-* = /ɑːʒ/, *-azj* = /ɑːʒ/) | Very high (diagnostic of Nazja) | Nazja innovated /ʒ/ broadly; nerubian /ʒ/ is restricted to the *Azj-*/*-azj* morpheme — potentially an Aqir substrate retention shared with naga |
 | /dʒ/ (j) frequency | Low | Very high | Nazja has many /dʒ/ names; nerubian does not |
 | /ks/ (x) frequency | High (*Ulgrax*, *Ovi'nax*) | Absent | Distinctive nerubian feature not shared with Nazja |
 | Sibilant density | Moderate (*Nizrek*, *Krix'vizk*) | Very high (*Sira'kess*, *Sassz'ine*) | Nazja has more extreme sibilant usage |
@@ -385,7 +446,7 @@ This raises the question: are *Ahn-* and *Azj-* different morphemes, or do they 
 - *Ahn-* = "old" or "ancient" (if *Ahn'kahet* = "Old Kingdom")
 - *Azj-* = "deep" or "realm/domain" (if *Azj-Kahet* = "Deep Kingdom")
 
-This is the simplest analysis. Each morpheme has a single attestation before *-kahet*, and no sound change needs to be posited. However, the phonological similarity (/ɑn/ vs. /æz(dʒ)/) is notable.
+This is the simplest analysis. Each morpheme has a single attestation before *-kahet*, and no sound change needs to be posited. However, the phonological similarity (/ɑn/ vs. /ɑːʒ/) is notable — especially now that official IPA confirms *Azj-* = /ɑːʒ/ with /ʒ/, making the alternation more complex than a simple vowel change.
 
 ### Hypothesis 2: Regular Sound Change
 
@@ -393,9 +454,9 @@ This is the simplest analysis. Each morpheme has a single attestation before *-k
 
 | Northrend (Ahn-) | Khaz Algar (Azj-) | Sound Change |
 |-------------------|--------------------|--------------|
-| /ɑn/ | /æz(dʒ)/ | Vowel fronting + consonant epenthesis |
+| /ɑn/ | /ɑːʒ/ | Vowel lengthening + consonant shift /n/ → /ʒ/ |
 
-The sound change /ɑn/ → /æz(dʒ)/ is phonologically unusual and lacks supporting evidence from other nerubian morphemes. No other morpheme shows a parallel alternation between Northrend and Khaz Algar forms.
+The sound change /ɑn/ → /ɑːʒ/ is phonologically unusual and lacks supporting evidence from other nerubian morphemes. No other morpheme shows a parallel alternation between Northrend and Khaz Algar forms.
 
 ### Hypothesis 3: Dialectal Variation with Shared Root
 
@@ -416,12 +477,12 @@ If *Ahn'kahet* were a qiraji or Aqir name rather than a nerubian one, then the *
 
 | Hypothesis | Plausibility | Notes |
 |------------|-------------|-------|
-| Different morphemes (*Ahn-* ≠ *Azj-*) | **Medium** | Simplest explanation; no sound change needed; phonological similarity may be coincidental |
-| Regular sound change between dialects | **Low** | Phonologically unusual; no supporting evidence from other morphemes |
-| Dialectal variation from shared root | **Low–Medium** | Possible but requires a reconstructed proto-form with no supporting evidence |
+| Different morphemes (*Ahn-* ≠ *Azj-*) | **Medium** | Simplest explanation; no sound change needed; official IPA confirms *Ahn-* = /ɑn/ vs. *Azj-* = /ɑːʒ/ — quite different phonologically |
+| Regular sound change between dialects | **Very Low** | Phonologically implausible: /n/ → /ʒ/ is not a natural sound change |
+| Dialectal variation from shared root | **Low** | Possible but requires a reconstructed proto-form with no supporting evidence; the /n/ → /ʒ/ correspondence is unattested elsewhere |
 | *Ahn-* is not nerubian (Aqir/qiraji origin) | **Low–Medium** | The *Ahn-* element in *Ahn'qiraj* is suggestive; however, *Ahn'kahet* is a nerubian dungeon in canon |
 
-**Confidence: Low.** The data is insufficient to distinguish between these hypotheses. The different-morphemes analysis is the most parsimonious, but the shared-root hypothesis cannot be ruled out.
+**Confidence: Low–Medium.** The data is insufficient to distinguish between these hypotheses. The different-morphemes analysis is the most parsimonious, especially now that official IPA confirms *Ahn-* = /ɑn/ vs. *Azj-* = /ɑːʒ/ are phonologically quite distinct. The shared-root hypothesis cannot be ruled out but requires an unmotivated sound change.
 
 ## 12. Additional TWW Names and Titles
 
@@ -484,7 +545,7 @@ The qiraji are the other major Aqir-descended civilization, inhabiting Silithus 
 
 | Name | IPA | Context | Analysis |
 |------|-----|---------|----------|
-| Ahn'qiraj | /ˈɑːnkwɪrɑːʒ/ | The qiraji fortress-temple in Silithus | *Ahn-* + *-qiraj*; the *-qiraj* element may be the source of the English "qiraji" (the people's name). |
+| Ahn'qiraj | /ˈɑːn.kiˌɹɑːʒ/ | Qiraji fortress-temple in Silithus | *Ahn-* + *-qiraj*; the *-qiraj* element may be the source of the English "qiraji" (the people's name). **Official IPA from warcraft.wiki.gg**: *Ahn-* = /ɑːn/; *-qiraj* = /kiˌɹɑːʒ/ (with /ʒ/!). |
 | C'Thun | /kəˈθuːn/ | Old God who created the qiraji | Shath'Yar-style name; not qiraji-language. |
 | Ruins of Ahn'qiraj | — | The outdoor portion of the temple | Same *Ahn'qiraj* toponym. |
 | Ossirian | /ˈɒsiːriən/ | Qiraji boss (the Unscarred) | Egyptian-inspired name; no apostrophe. |
@@ -497,6 +558,8 @@ The qiraji are the other major Aqir-descended civilization, inhabiting Silithus 
 ### The *-qiraj* / *-qiraji* Element
 
 If *-qiraj* in *Ahn'qiraj* is the same root as "qiraji" (the English name for the species), then *Ahn'qiraj* = "[Ahn]-[qiraji place]" or "[Ahn]-temple of the qiraji." This would make *-qiraj* a qiraji self-designation morpheme, parallel to how *-nerub* in *Azjol-Nerub* contains the nerubian self-designation.
+
+**Critical note**: The official IPA for *Ahn'qiraj* (/ˈɑːn.kiˌɹɑːʒ/) reveals that *-qiraj* = /kiˌɹɑːʒ/ with final /ʒ/ — the same phoneme confirmed in *Azj-* = /ɑːʒ/. This means *-qiraj* ends with the same /ʒ/ sound as *Azj-* and *-azj*, potentially connecting the qiraji self-designation to the Aqir *Azj-* morpheme family. If *-qiraj* = *ki* + *ɹɑːʒ*, the final /ɑːʒ/ could be a suffixed form of *Azj-*: *-qir-azj* ≈ "the qir-[deep] people." This is speculative but phonologically supported.
 
 ### The *Ahn-* Element as a Shared Aqir Morpheme
 
@@ -540,10 +603,12 @@ Combined with the *Azj-*/*Nazj-* pattern (§5) and the possible *-nax*/*-naxx* p
 |--------------|--------------|-------------|-----------|-----------------|
 | *\*Azj-* | *Azj-Kahet*, *Azjol-Nerub* | — | *Nazj-* (with *N-* prefix) in *Nazjatar* | "deep/realm" |
 | *\*Azj-* (original) | — | *Azj'Aqir* (the Aqir empire itself) | — | Confirmed Aqir-era usage; *Azj'Aqir* = *Azj-* + *Aqir* self-designation |
+| *\*Azj-* (suffix) | *-azj* in *Takazj* | — | — | Same morpheme in suffix position; agentive or locative function |
 | *\*Ahn-* | *Ahn'kahet* | *Ahn'qiraj* | — | "old/ancient/sacred" |
 | *\*-naxx* (?) | *-nax* (*Ovi'nax*) | *-naxx* (*Kurinnaxx*) | — | "warrior/hunter" (?) |
+| *\*Rak-* (?) | *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz* | — | — | Unknown (Khaz Algar dialect only) |
 
-**Confidence: Medium** for *Ahn-* as a shared Aqir morpheme; **Medium** for *Azj-* as a confirmed Aqir morpheme (strengthened by *Azj'Aqir*); **Very Low** for the *-nax*/*-naxx* connection. The Aqir substrate hypothesis is now well-supported for *Azj-*, with *Azj'Aqir* providing direct evidence of Aqir-era usage.
+**Confidence: Medium** for *Ahn-* as a shared Aqir morpheme; **High** for *Azj-* as a confirmed Aqir morpheme (strengthened by *Azj'Aqir* and official IPA confirming *Azj-* = /ɑːʒ/); **Moderate** for *-azj* as the same morpheme in suffix position (attested in *Takazj*); **Low–Moderate** for *Rak-* as a new toponymic prefix; **Very Low** for the *-nax*/*-naxx* connection. The Aqir substrate hypothesis is now well-supported for *Azj-*, with *Azj'Aqir* providing direct evidence of Aqir-era usage and official IPA confirming the phonological form.
 
 ## 14. Writing System
 

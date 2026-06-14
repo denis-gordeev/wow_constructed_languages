@@ -70,7 +70,9 @@ The suffix -'ai marks a collective or plural, meaning "ones":
 |-----------|------------|---------|
 | Atal'ai | Atal + 'ai | Devoted Ones / Chosen Ones |
 
-This is attested only once, so its generality is uncertain.
+Atal'Aman (Midnight) provides a second attestation of the *Atal-* root in a compound place name: *Atal* + *'Aman* = "Devoted to the Amani" or "Amani Devotees." This strengthens the case for *Atal* = "devoted/chosen" as a genuine Zandali morpheme with Moderate–High confidence.
+
+This is attested only once with *-'ai*, so the plural/collective suffix's generality is uncertain.
 
 ### Agentive Suffix: -ey (Midnight, 2026)
 

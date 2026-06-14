@@ -19,7 +19,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Ran'hune | /ɾænˈhuːneɪ/ | Elder | Apostrophe-marked compound: *Ran'* + *-hune*. The *-hune* element is unexplained |
 | Nye'rangi | /naɪˈrɑːnɡi/ | Elder | Apostrophe-marked compound: *Nye'* + *-rangi*. The *-rangi* element is unexplained |
 | Lightwarden Ruia | /ˈruːiə/ | Former Elder; boss in Blinding Vale | **CONFIRMED MALE** (warcraft.wiki.gg/wiki/Lightwarden_Ruia: Gender = Male). Formerly titled "Rootwarden" and "Elder" (*The Quiet at the End of Us*). Could not defeat the Lightbloom on his own; his wounded pride led him to draw power from the Lightbloom and use it to punish others. Became the boss "Lightwarden Ruia" in the Blinding Vale dungeon — **killed by players** (listed as "Formerly" with † on the Haranir wiki page). Death quote: "It was... for Harandar..." Orweyna's reaction: "His faith in the goddess has become hatred. Is this what Lightbloom does?" Class: Druid (shapeshifts Moonkin → Bear → Haranir form). *Ruia* ending in *-ia* despite being male **effectively disproves the *-ia* feminine suffix hypothesis** — see §5. No apostrophe in name |
-| Amarakk | /əˈmɑːræk/ | Orweyna's brother; Shul'ka member | Geminate *-kk* ending; no apostrophe. The *Am-* prefix parallels *Amarakk* → possibly *Ama-* + *-rakk*. Confirmed Shul'ka member; was mutated by the Shul'ka initiation ritual |
+| Amarakk | /əˈmɑːræk/ | Orweyna's brother; Shul'ka member | Geminate *-kk* ending; no apostrophe. The *Am-* prefix parallels *Amarakk* → possibly *Ama-* + *-rakk*. Confirmed Shul'ka member (warcraft.wiki.gg: Affiliation = Hara'ti, Shul'ka); was mutated by the Shul'ka initiation ritual. **Hagar is his grandmother; Orweyna is his sister** (confirmed by warcraft.wiki.gg/wiki/Amarakk). After the Battle of the Bridge, he aided the assault on the Darkwell. Voiced by Ike Amadi (who also voices Rokhan, a Darkspear troll — reinforcing the Xhosa accent connection between Haranir and Zandalari). Grandson of Elder Hagar. Gives the quest 'The Greater They Aln' — the only known use of *Aln* as a verb in a Common-language quest title (possibly meaning 'to dream' or 'to grow deep'). Also gives 'The Foundation of Aln', 'Descent into the Rift', 'The Hunter Awaits', and 'The Final Rite' |
 | Hannan | /ˈhænən/ | Haranir scout; companion of Orweyna | No apostrophe; *H-* initial. The *-nn-* may represent geminate /n/ or a spelling convention |
 | Ney'leia | /neɪˈleɪə/ | Owner of Wildcamp Or'lay; spoke to Arathi | Apostrophe-marked compound: *Ney'* + *-leia*. The *-leia* ending parallels *Ruia* (*-ia* feminine suffix?) |
 | On'hiea | /ɒnˈhiːə/ | Owner of Wildcamp Or'lay | Apostrophe-marked compound: *On'* + *-hiea*. The *-hiea* element parallels *Ney'leia* and *Ruia* in vowel pattern. **CONFIRMED MALE** (warcraft.wiki.gg uses IconSmall_Haranir_Male.gif). With both Ruia and On'hiea confirmed male, the *-ia* feminine suffix is effectively disproven — see §5 |
@@ -89,6 +89,13 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
 | Goehi | /ˈɡoʊɛhi/ | Ancient entity | Said that the Haranir are "worth more than you know" and that adventurers should "take care with them." Can read the history of an ancient by reading the rings of wood in their roots |
+| Chimaerus the Undreamt God | /kɪˈmɪərəs/ | Dreamrift raid boss | Entity that "feasted on the void of pain and madness left behind in the rift after Aln'hara was taken." Battled by the Shul'ka and adventurers in the Dreamrift — the permeable veil between primordial dreams and reality. The name *Chimaerus* is likely Common/Greek-derived (cf. "chimera"), not Hara'ni — it follows the Blizzard pattern of giving Old God-adjacent entities Greek-inspired names. **Confidence: Very Low** for Hara'ni morpheme content |
+
+### Midnight Expansion: Sporefall Dungeon (2026)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Sporefall | — | Dungeon in Harandar | Common/English compound name. No Hara'ni morpheme content |
 
 ## 2. Proper Names (Places)
 
@@ -120,6 +127,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 
 **Elun'Ahir** was the legendary first world tree on Azeroth, planted by Eonar from a branch of G'Hanir gifted by Elune. Aman'Thul tore its trunk from the earth, but the roots survived underground. The Haranir are speculated (warcraft.wiki.gg) to be the "mysterious guardians who dedicated their lives to protecting the roots" referenced in *The Legend of Elun'Ahir*. The name *Elun'Ahir* is elven (*Elun'* = Elune + *-Ahir*), not Hara'ni. However, the Haranir's protection of these roots in Azj-Kahet provides cultural context for their presence there. No Hara'ni vocabulary is found in the Elun'Ahir legend.
 | Gulf of Memory | — | Common | Subzone and delve in Harandar. The "Memory" element parallels *Har'athir* (Village of Memory). Common/English name |
+| Maisara Caverns | /maɪˈsɑːrə/ | *Maisara* | Midnight dungeon in Zul'Aman zone; Witherbark trolls abducted by Vilebranch for soul-consumption rituals. "Maisara" is a potential Hara'ni or Zandali place name (no apostrophe; *-ara* ending; /s/ medial). Alternatively, it may be a Common compound. **Confidence: Very Low** for genuine Hara'ni or Zandali morpheme content. See also zandali/vocabulary.md |
 | Shrine of Ages | — | Common | Subzone in Harandar. Common/English name |
 | Verdant Sepulcher | — | Common | Subzone in Harandar. Common/English name |
 | Glade of Walking Memories | — | Common | Subzone in Harandar. The "Memories" element parallels *Har'athir* (Village of Memory). Common/English name |
@@ -139,8 +147,8 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Hara'ti | /ˈhærəti/ | *Hara'* + *-ti* | Faction/subgroup — confirmed by wiki as "the haranir tribe that inhabits Harandar." Apostrophe-marked. The *-ti* suffix may be a group/collective suffix. The earlier speculative gloss "those who heard the call" is superseded by the wiki's more precise definition |
 | Aln'hara | /ælnˈhɑːrə/ | *Aln'* + *-hara* | **The Worldsoul of Azeroth** (confirmed translation). The Haranir name for the nascent titan world-soul of Azeroth, whom they worship as their goddess. The Shul'ka sever their connection to Aln'hara's song to safely patrol the Rift of Aln. Previously described as "the call from deep within the world" — this is consistent: Aln'hara IS the call, the world-soul singing from deep within. The *-hara* element appears reversed from the *Hara-* root, but may instead reflect a distinct morpheme *-hara* = "song/voice" |
 | Grimlynx | — | Common compound | Haranir racial mount. English/Common name |
-| Alndust | — | *Aln-* + *-dust* | Rare material that cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess" (Midnight). The *Aln-* element matches *Aln'hara*, making this the **second attestation of the *Aln-* morpheme**. *Alndust* lacks the apostrophe found in *Aln'hara* — the /d/ after *Aln* may eliminate the need for a glottal stop marker (whereas *Aln'hara* needs one before the /h/). Alternatively, *Alndust* may be a Common-language compound (Aln + dust). If *Aln-* = "deep/sacred/blessed" (as in "call from deep within"), then *Alndust* = "sacred dust" or "dust of the deep." **Confidence: Low–Moderate** for *Aln-* as a genuine Hara'ni morpheme (now two attestations) |
-| Shul'ka | /ʃʊlˈkɑː/ | *Shul'* + *-ka* | **Hunters of Shadows** (confirmed translation) — group of Haranir warriors who sever their connection to the goddess (Aln'hara) to safely patrol the Rift of Aln. **First confirmed Hara'ni translation with official gloss.** *Shul'* = "shadow" and *-ka* = "hunter(s)" is the most natural decomposition. Amarakk is a Shul'ka member who was mutated by the initiation ritual. In Midnight, the Shul'ka also hunt threats in the **Dreamrift** — a permeable veil between primordial dreams and reality — where they pursue an "undreamt god that never should have been" and battle "half-birthed abominations" |
+| Alndust | — | *Aln-* + *-dust* | **Alndust is Azerite in particle form** (confirmed by warcraft.wiki.gg — "Alndust" redirects to "Azerite"). The wiki states: "Alndust, a particulate used by the haranir for their magic and said to have been created when the worldsoul was taken from her cradle in Harandar, is implied to be Azerite in particle form. Many spells related to Alndust use Azerite icons, and the graphics effects for things affected by Alndust have the same blue and yellow color scheme as Azerite." This dramatically recontextualizes *Alndust*: the Haranir name for Azerite dust is *Aln-* + *-dust*, where *Aln-* = the deep/source/rift and *-dust* describes its particulate form. The *Aln-* element matches *Aln'hara*, making this the **second attestation of the *Aln-* morpheme**. *Alndust* lacks the apostrophe found in *Aln'hara* — the /d/ after *Aln* may eliminate the need for a glottal stop marker (whereas *Aln'hara* needs one before the /h/). Cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess." **Confidence: Moderate** for *Aln-* as a genuine Hara'ni morpheme (now two attestations, plus Alndust = Azerite confirms *Aln-* refers to the Worldsoul's essence) |
+| Shul'ka | /ʃʊlˈkɑː/ | *Shul'* + *-ka* | **Hunters of Shadows** (confirmed translation) — group of Haranir hunters, healers, and guides who sever their connection to the goddess (Aln'hara) to safely patrol the Rift of Aln. The wiki expands the Shul'ka's role beyond just "hunters" to include healing and guidance. **First confirmed Hara'ni translation with official gloss.** *Shul'* = "shadow" and *-ka* = "hunter(s)" is the most natural decomposition. Amarakk is a Shul'ka member who was mutated by the initiation ritual. In Midnight, the Shul'ka also hunt threats in the **Dreamrift** — a permeable veil between primordial dreams and reality — where they pursue **Chimaerus the Undreamt God** and battle "half-birthed abominations" |
 | Zur'ashar | /zʊrˈæʃɑːr/ | *Zur'* + *-ashar* | Order of painter-storytellers who paint records of history on the walls of Harandar. Their paintings can bring visions of history to life through Alndust. A named member is **Zur'ashar Shay'neia** (*Shay'* + *-neia*) |
 
 ### Midnight Expansion: Zur'ashar Member (2026)
@@ -148,7 +156,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
 | Shay'neia | /ʃeɪˈneɪə/ | Zur'ashar painter-storyteller | Apostrophe-marked compound: *Shay'* + *-neia*. The *-neia* ending parallels *Ney'leia* (*-leia*) and *On'hiea* (*-iea*). Under the final *-a* feminine suffix analysis: *Shay'ne* + *-ia* → *Shay'neia*, where *-ne* is part of the stem and *-ia/-a* is the feminine suffix. Alternatively, *Shay'* is the prefix and *-neia* is a single compound element. If *-neia* is decomposable as *-ne-* + *-ia*, then *-ne-* may be a separate morpheme (perhaps a participial or adjectival element). **See §5** for full *-ia* / *-neia* analysis |
-| Ka'dani | /kɑːˈdɑːni/ | *Ka'* + *-dani* | Order of elite hunters from Har'athir (Village of Memory). Apostrophe-marked compound. The *-dani* ending does not match *-nir*/*-ni*/*-ti* suffix set |
+| Ka'dani | /kɑːˈdɑːni/ | *Ka'* + *-dani* | Order of elite hunters from Har'athir (Village of Memory). Apostrophe-marked compound. The *-dani* ending does not match *-nir*/*-ni*/*-ti* suffix set. Confirmed by quest 'A Hunter's Plight' (warcraft.wiki.gg/wiki/Hara'ni) |
 | Alnscorned | — | *Aln-* + *-scorned* | Broken nightmares that dwell in the Rift of Aln. Mixed Hara'ni-English compound; *-scorned* is Common |
 | Saptor | /ˈsæptɔːr/ | — | Plant species in Harandar; Haranir wrap meals in saptor fronds before steaming |
 | Envoy | — | Common title | Diplomatic title held by three Haranir (Habissi, Ir'ayi, Manat). Common-language designation, not a Hara'ni word. The existence of three Envoys suggests a significant diplomatic/intermediary role within Haranir society |
@@ -207,7 +215,7 @@ The *World of Warcraft: Midnight* expansion (released March 2, 2026) provides si
 
 1. **Ruutani** — A race native to Harandar, affected by the Lightbloom. Both hostile and peaceful ruutani villages exist. The name *Ruutani* may be a Hara'ni word (see §1 above for analysis). If genuine, it is the first non-Haranir proper name in the language.
 
-2. **Alndust** — A rare material that cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess." This is the **second attestation of the *Aln-* morpheme** (after *Aln'hara*), significantly strengthening the case for *Aln-* as a genuine Hara'ni root meaning "deep/sacred/blessed." See §3 above for full analysis.
+2. **Alndust** — A rare material that cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess." **Confirmed to be Azerite in particle form** (warcraft.wiki.gg redirects "Alndust" to "Azerite"). This is the **second attestation of the *Aln-* morpheme** (after *Aln'hara*), significantly strengthening the case for *Aln-* as a genuine Hara'ni root meaning "deep/sacred/blessed/essence." Since Azerite is the crystallized blood of the Worldsoul, *Aln-* in *Alndust* most likely refers to the Worldsoul's essence. See §3 above for full analysis.
 
 3. **Haranir goddess** — The Haranir goddess IS Aln'hara (the Azeroth Worldsoul), resolving the "unnamed goddess" question. The Haranir worship the Azeroth worldsoul as their goddess. The Shul'ka sever their connection to Aln'hara's song to safely patrol the Rift of Aln.
 
@@ -215,17 +223,17 @@ The *World of Warcraft: Midnight* expansion (released March 2, 2026) provides si
 
 5. **Lightbloom** — Plant life infused with the Light; first appeared in Harandar because of the Sunwell's influence. Common-language designation, not Hara'ni.
 
-6. **Shul'ka initiation ritual** — Initiate collects poisonous glands and "Healing Waters of Ahl'ua", finds a ritual site, consumes poison and water, fights for their life while unconscious; if they survive, they must slay *Morta'ka the Sundered Echo* as their final rite. Amarakk was mutated by this ritual.
+6. **Shul'ka initiation ritual** — Full ritual sequence from warcraft.wiki.gg/wiki/Shul'ka: (a) Initiate is guided by a Shul'ka mentor; (b) collects poisonous glands and water of Ahl'ua (intended to counter the poison's impact); (c) seeks out a ritual site, which varies depending on each individual; (d) consumes poison and water, rendering the initiate unconscious; (e) fights for their life while unconscious — the ritual may attract manifestations of the rift that can be stopped by wards; (f) upon awakening, freed from Aln'hara's song; (g) faces the final rite, which takes years of preparation: slaying *Morta'ka the Sundered Echo*. The ritual scars their spirit and changes them; it is a lonely existence. Shul'ka "occasionally visit or are visited by friends and family." Amarakk was mutated by this ritual; Orweyna claims "Amarakk has been mutated since becoming Shul'ka."
 
 7. **Vordrassil's roots** — Kawayn confirms that Vordrassil's roots do NOT reach Harandar (they were severed due to corruption).
 
 8. **Alpha build change** — Alpha build of Midnight had a mural depicting Haranir as progenitors of all trollkind; this was changed at launch to depict a "split" in Haranir society. The alpha mural text did NOT survive into the released version of the game — it contained no additional Hara'ni vocabulary that is still canon. A second alpha mural depicted the evolution of some Haranir or other trolls into night elves; this was also changed at launch.
 
-9. **The Dreamrift raid** — The Midnight raid "The Dreamrift" depicts the Shul'ka hunting "an undreamt god that never should have been" in a permeable veil between primordial dreams and reality. This expands the Shul'ka's role beyond guarding Harandar to hunting cosmic threats across the dream/reality boundary. The Shul'ka's confirmed name "Hunters of Shadows" is consistent with this expanded role.
+9. **The Dreamrift raid** — The Midnight raid "The Dreamrift" (a single-encounter raid within the larger Voidspire raid sequence) depicts the Shul'ka hunting **Chimaerus the Undreamt God** — an entity that "feasted on the void of pain and madness left behind in the rift after Aln'hara was taken" — in a permeable veil between primordial dreams and reality. The Shul'ka battle "half-birthed abominations that lash out against existence itself." This expands the Shul'ka's role beyond guarding Harandar to hunting cosmic threats across the dream/reality boundary. The Shul'ka's confirmed name "Hunters of Shadows" is consistent with this expanded role. The Dreamrift Adventure Guide states: "The Dreamrift exists deep within the Rift of Aln, where the dreams of Aln'hara took form. Long ago Aln'hara was taken from her Cradle, and her dreams no longer shape the powers that form there." This confirms that the Cradle is the original resting place of Aln'hara before the Worldsoul was moved, and that her dreams have independent reality-shaping power.
 
 10. **Orweyna's Midnight encounter with a rutaani** — In Eversong Woods, Arator was "ensnared by a Lightbloom-infected rutaani" (Orweyna's wiki page, lowercase "rutaani"). Orweyna noted "the rutaani was unlike any she had known" and believed the Light had altered it. This is the first in-game interaction between a Haranir and a rutaani.
 
-11. **Rutaani spelling discrepancy deepened** — The Midnight wiki page's Creatures section lists "Rutaani" (single u), while the Haranir page and Wikipedia use "Ruutani" (double u). The wiki's IconSmall_Rutaani.gif filename also uses the single-u spelling. However, Wikipedia consistently uses "ruutani" (lowercase) throughout its Midnight article. The *-uu-* long vowel is confirmed by *Fuunid*. The Creatures section's "Rutaani" spelling may reflect an early/inconsistent wiki entry, while the article text and Wikipedia favor "Ruutani." **Confidence: Low–Moderate** for *Ruutani* as the preferred spelling.
+11. **Rutaani spelling discrepancy deepened** — The Midnight wiki page's Creatures section lists "Rutaani" (single u), while the Haranir page and Wikipedia use "Ruutani" (double u). The wiki's IconSmall_Rutaani.gif filename also uses the single-u spelling. However, Wikipedia consistently uses "ruutani" (lowercase) throughout its Midnight article. The *-uu-* long vowel is confirmed by *Fuunid*. The Creatures section's "Rutaani" spelling may reflect an early/inconsistent wiki entry, while the article text and Wikipedia favor "Ruutani." The Harandar wiki page infobox lists 'Ruutani' as a race, while the Midnight Creatures section lists 'Rutaani' (IconSmall_Rutaani.gif, IconSmall_LightRutaani.gif). Amarakk's item icon 'inv_12_jewelry_rutaani_ring_red' uses the single-u form. The discrepancy exists within Blizzard's own game data (zone data vs. creature data), not just between wiki pages. **Confidence: Low–Moderate** for *Ruutani* as the preferred spelling.
 
 ### Plot Events Affecting Haranir Lore
 
@@ -260,19 +268,25 @@ The *Aln-* root now has **multiple attestations**, and the wiki provides crucial
 | Name | Decomposition | Proposed Gloss |
 |------|---------------|----------------|
 | *Aln'hara* | *Aln'* + *-hara* | "Worldsoul of Azeroth" (confirmed) — "the song/call from the deep (Aln)" |
-| *Alndust* | *Aln-* + *-dust* | "[Aln]-dust" or "dust of the deep" — rare material from the Rift of Aln |
+| *Alndust* | *Aln-* + *-dust* | "[Aln]-dust" — **confirmed to be Azerite in particle form** (warcraft.wiki.gg redirects "Alndust" to "Azerite"); the Haranir name for the Worldsoul's crystallized blood |
 | *Alnscorned* | *Aln-* + *-scorned* | "scorned by the deep" — broken nightmares from the Rift of Aln |
 | *Rift of Aln* | *Aln* | The physical location — the rift in Harandar and the Emerald Dream |
 
-If *Aln* = "deep/source/rift" (consistent with all attestations):
+If *Aln* = "deep/source/rift/essence" (consistent with all attestations):
 - *Aln'hara* = "the Worldsoul (song/call) from the deep (Aln)"
-- *Alndust* = "dust from the deep (Aln)"
+- *Alndust* = "dust of the deep (Aln)" = Azerite particles (the Worldsoul's crystallized blood)
 - *Alnscorned* = "scorned (corrupted) by the deep (Aln)"
 - *Rift of Aln* = the physical location
 
+**Alndust = Azerite confirmation**: The wiki states: "Alndust, a particulate used by the haranir for their magic and said to have been created when the worldsoul was taken from her cradle in Harandar, is implied to be Azerite in particle form. Many spells related to Alndust use Azerite icons, and the graphics effects for things affected by Alndust have the same blue and yellow color scheme as Azerite." This dramatically recontextualizes *Alndust*: the *Aln-* root refers to the Worldsoul's essence, and *-dust* describes the particulate form. The Worldsoul's crystallized blood is literally "dust of the deep."
+
+**Aln as a verb**: The quest name "The Greater They Aln" (from Amarakk's quest list on warcraft.wiki.gg/wiki/Amarakk) uses *Aln* as a **verb** in a Common/Hara'ni code-switched title. "The Greater They Aln" appears to parallel "the greater they [are/move/grow]," where *Aln* substitutes for a verb meaning something like "to be affected by the deep," "to undergo the Aln transformation," or "to descend into the rift." This is the **first evidence of *Aln* functioning as a verb** rather than only as a nominal root. A second quest from the same NPC, "The Foundation of Aln," uses *Aln* as a noun (consistent with all previous attestations).
+
 The semantic coherence of all glosses supports a single root meaning. The absence of apostrophe in *Alndust* (vs. *Aln'hara*) may reflect phonological conditioning: the /d/ after *Aln* eliminates the need for a glottal stop marker, whereas *Aln'hara* needs one before the /h/. Alternatively, *Alndust* and *Alnscorned* may be Common-language compounds rather than native Hara'ni words.
 
-**Confidence: Moderate** for *Aln* = "deep/source/rift" (now supported by both morphological evidence and in-game geography).
+**Confidence: Moderate–High** for *Aln* = "deep/source/rift/essence" (supported by morphological evidence, in-game geography, Alndust = Azerite confirmation, and *Aln* used as a verb in quest title).
+
+**New evidence for verbal function**: The quest title 'The Greater They Aln' (Amarakk's quest line) uses *Aln* as a verb in a Common-language sentence. If *Aln* can function as a verb meaning 'to dream' or 'to grow deep', this would expand its grammatical role beyond a nominal root meaning 'deep/source/rift'. The quest is set in the Rift of Aln context, where Aln'hara's dreams take form — 'to Aln' could mean 'to dream' (i.e., to take form in the Rift). This is a single attestation in a mixed Hara'ni-English context, so confidence remains Low. However, if *Aln* = 'dream/deep' as both noun and verb, the semantic coherence of all *Aln-* words is strengthened: *Aln'hara* = 'the dream-song' (or 'the deep-song'), *Alndust* = 'dream-dust', *Rift of Aln* = 'the rift of dreams'. **Confidence: Very Low–Low** for *Aln* as a verb meaning 'to dream'; **Moderate** for *Aln* = 'deep/source/rift/dream' as a nominal root.
 
 ### The *-ni* Suffix
 
@@ -672,6 +686,7 @@ The Midnight expansion introduced the **ruutani**, a Harandar-native race. If *R
 
 ## 8. Sources
 
+- Warcraft Wiki: Shul'ka (warcraft.wiki.gg/wiki/Shul'ka)
 - Warcraft Wiki: Haranir (warcraft.wiki.gg/wiki/Haranir)
 - Warcraft Wiki: Orweyna (warcraft.wiki.gg/wiki/Orweyna)
 - Warcraft Wiki: Hara'ni (warcraft.wiki.gg/wiki/Hara'ni)
@@ -681,3 +696,7 @@ The Midnight expansion introduced the **ruutani**, a Harandar-native race. If *R
 - *World of Warcraft: Midnight* (2026). Blizzard Entertainment.
 - *The Art of Midnight* (2026). Blizzard Entertainment. pg. 125 — Haranir origin: split from dark trolls/night elves.
 - *The Art of TWW* (2024). Blizzard Entertainment — contains erroneous early name "harronir."
+- Warcraft Wiki: Shul'ka (warcraft.wiki.gg/wiki/Shul'ka) — Shul'ka initiation ritual details, Morta'ka the Sundered Echo
+- Warcraft Wiki: Amarakk (warcraft.wiki.gg/wiki/Amarakk) — voice actor, quests, family relations
+- Warcraft Wiki: Dreamrift (warcraft.wiki.gg/wiki/Dreamrift) — Adventure Guide text, Chimaerus
+- Warcraft Wiki: Harandar (warcraft.wiki.gg/wiki/Harandar) — zone data, subregions, Ruutani race listing

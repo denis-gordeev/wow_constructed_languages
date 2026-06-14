@@ -24,6 +24,7 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Zul'Aman | City of the Amani | Capital of the Amani empire |
 | Zul'Drak | City of the Drakkari | Capital of the Drakkari empire |
 | Zul'Farrak | City of the Farraki / Sands | City of the Sandfury trolls |
+| Atal'Aman | Devoted of the Amani / Chosen of Aman | Midnight dungeon/delve in Zul'Aman; *Atal* = "devoted/chosen" + *Aman* = Amani root. The site of the original Zul'Aman raid, fully rebuilt and modernized in Midnight. Second attestation of *Atal-* in a place name (after *Atal'Dazar*, *Atal'ai*), strengthening the case for *Atal* = "devoted/chosen" as a genuine Zandali morpheme |
 
 ## Nouns — Proper Names (Loa)
 
@@ -174,6 +175,14 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 | Hash'ey | Amani title meaning "unifier" (Midnight) | Apostrophe-marked compound: *Hash'* + *-ey*. **First attested Zandali title with a confirmed semantic gloss.** Earned by completing trials and gaining loa blessings; implies *Hash'* = "unite/gather" and *-ey* = agentive suffix ("one who does X"). **Confidence: Low–Moderate** for this decomposition |
 | Mor'duun | Leader of Twilight's Blade (Midnight) | Apostrophe-marked compound: *Mor'* + *-duun*. Language affiliation uncertain — could be Zandali, Shath'Yar-influenced, or Common. The *-duun* element is new |
 
+### Midnight Expansion: Additional Places
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Atal'Aman | Delve in Zul'Aman (Midnight) | Apostrophe-marked compound: *Atal* ("devoted") + *'Aman* (Amani). Parallels *Atal'ai* ("Devoted Ones") — *Atal* = "devoted" is confirmed by both forms. *'Aman* refers to the Amani tribe. *Atal'Aman* = "Devoted to the Amani" or "Amani Devotees." **Confidence: Moderate–High** for *Atal* = "devoted" (two attestations: Atal'ai, Atal'Aman) |
+| Maisara Caverns | Dungeon in Zul'Aman zone (Midnight) | *Maisara* is a potential Zandali place name (no apostrophe; *-ara* ending; /s/ medial). Witherbark trolls abducted by Vilebranch for soul-consumption rituals here. Alternatively, "Maisara" may be a Common compound. **Confidence: Very Low** for genuine Zandali morpheme content |
+| Den of Nalorakk | Dungeon in Zul'Aman zone (Midnight) | *Nalorakk* is the Loa of War; "Den" is Common. Nalorakk's trials are inspired by the turning of the seasons. **Confidence: High** for Nalorakk as a Zandali loa name (already attested in earlier content as a Zul'Aman boss) |
+
 ### Midnight Expansion: Additional Morphemes
 
 | Element | Inferred Meaning | Attested In | Confidence |
@@ -182,7 +191,8 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 | -ey | Possibly agentive suffix ("one who does X") | Hash'ey ("unifier") | Low–Moderate — single attestation; confirmed gloss "unifier" strongly supports agentive function; if genuine, would be a new Zandali agentive suffix |
 | -jan | Uncertain; possibly personal name element | Zul'jan | Very Low — single attestation |
 | -jarra | Uncertain; possibly feminine name element | Zul'jarra (female) | Very Low — single attestation; the *-a* ending consistent with WoW-wide feminine pattern |
+| Maisara | Place name element in Zul'Aman | Maisara Caverns (Midnight dungeon) | Very Low — *-ara* ending consistent with Zandali place-name patterns (*Atal'Dazar*, *Dazar'alor*); could also be Hara'ni; single attestation |
 
-### Phrases (BfA)
+### Midnight Expansion: Additional Place Names
 
 No new glossed Zandali phrases are attested from BfA content. Zandalari trolls speak Common in-game. The BfA Zandalar storyline provides extensive cultural context but no new Zandali-language sentences with translations.
