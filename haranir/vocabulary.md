@@ -108,11 +108,11 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Har'athir | /hɑːrˈæθɪr/ | *Har'* + *-athir* | **Village of Memory** — major settlement in Harandar. Home to the *Ka'dani* elite hunters |
 | Har'kuai | /hɑːrˈkwaɪ/ | *Har'* + *-kuai* | **Village of Rain** — major settlement in Harandar |
 | Har'mara | /hɑːrˈmɑːrə/ | *Har'* + *-mara* | **Village of Balance** — major settlement in Harandar. *-mara* = "balance" |
-| Ahl'ua | /ɑːlˈuːə/ | *Ahl'* + *-ua* | Water system/wetland in Harandar. Its waters are used in the Shul'ka initiation ritual ("Healing Waters of Ahl'ua") |
-| Dreth'amar | /drɛθˈæmɑːr/ | *Dreth'* + *-amar* | Cavern in Harandar. Apostrophe-marked compound |
-| Na'bala | /nɑːˈbɑːlə/ | *Na'* + *-bala* | Flower species in Harandar (*Na'bala Bloom*). Apostrophe-marked compound |
+| Ahl'ua | /ɑːlˈuːə/ | *Ahl'* + *-ua* | Water system/wetland in Harandar. Its waters are used in the Shul'ka initiation ritual to counteract the poison of the Rift glands ("Healing Waters of Ahl'ua"). Shul'ka initiates must collect poisonous glands and water of Ahl'ua, then consume both at a unique ritual site |
+| Dreth'amar | /drɛθˈæmɑːr/ | *Dreth'* + *-amar* | Cave/cavern in Harandar. Apostrophe-marked compound |
+| Na'bala | /nɑːˈbɑːlə/ | *Na'* + *-bala* | Flower species in Harandar (*Na'bala Bloom*). The Na'bala flower has medicinal properties in Hara'ni culture. Apostrophe-marked compound |
 | Nai'theren | /naɪˈθɛrɛn/ | *Nai'* + *-theren* | Grotto in Harandar. Apostrophe-marked compound |
-| Nihil | /ˈnaɪhɪl/ | — | The empty expanse surrounding Harandar |
+| Nihil | /ˈnaɪhɪl/ | — | The empty expanse surrounding Harandar. Haranir who enter the Rift of Aln without protection succumb and die within minutes |
 | Rift of Aln | /æln/ | *Aln* | A rift in Harandar and the Emerald Dream, formed when the Worldsoul was taken from the Cradle. Source of Alndust and the Alnscorned |
 | The Cradle | /ˈkreɪdəl/ | — | The place from which the Worldsoul (Aln'hara) was taken, forming the Rift of Aln. English name; no Hara'ni form is attested |
 | The Den | /ðə ˈdɛn/ | — | Capital of Harandar; English name. Yaila is a vendor here. No Hara'ni form is attested |
@@ -140,6 +140,16 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 
 ## 3. Cultural and Faction Names
 
+### Ruling Structure
+
+The Harandar ruling body is the **Elders** (confirmed by warcraft.wiki.gg): Hagar, Ter'kova, Gnarla, Ran'hune, and Nye'rangi. Formerly included Ruia (†). The Elders make decisions for the Hara'ti tribe.
+
+### Cultural Terms
+
+| Name | IPA | Analysis | Notes |
+|------|-----|----------|-------|
+| Saptor | /ˈsæptɔːr/ | — | A plant type used by Haranir to wrap meals before steaming (saptor fronds). No clear Hara'ni morpheme decomposition; may be a native word for this plant |
+
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
 | Haranir | /ˈhærənɪr/ | *Hara-* + *-nir* | The people/race name. The *-nir* ending is a collective/ethnonym suffix |
@@ -148,7 +158,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Aln'hara | /ælnˈhɑːrə/ | *Aln'* + *-hara* | **The Worldsoul of Azeroth** (confirmed translation). The Haranir name for the nascent titan world-soul of Azeroth, whom they worship as their goddess. The Shul'ka sever their connection to Aln'hara's song to safely patrol the Rift of Aln. Previously described as "the call from deep within the world" — this is consistent: Aln'hara IS the call, the world-soul singing from deep within. The *-hara* element appears reversed from the *Hara-* root, but may instead reflect a distinct morpheme *-hara* = "song/voice" |
 | Grimlynx | — | Common compound | Haranir racial mount. English/Common name |
 | Alndust | — | *Aln-* + *-dust* | **Alndust is Azerite in particle form** (confirmed by warcraft.wiki.gg — "Alndust" redirects to "Azerite"). The wiki states: "Alndust, a particulate used by the haranir for their magic and said to have been created when the worldsoul was taken from her cradle in Harandar, is implied to be Azerite in particle form. Many spells related to Alndust use Azerite icons, and the graphics effects for things affected by Alndust have the same blue and yellow color scheme as Azerite." This dramatically recontextualizes *Alndust*: the Haranir name for Azerite dust is *Aln-* + *-dust*, where *Aln-* = the deep/source/rift and *-dust* describes its particulate form. The *Aln-* element matches *Aln'hara*, making this the **second attestation of the *Aln-* morpheme**. *Alndust* lacks the apostrophe found in *Aln'hara* — the /d/ after *Aln* may eliminate the need for a glottal stop marker (whereas *Aln'hara* needs one before the /h/). Cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess." **Confidence: Moderate** for *Aln-* as a genuine Hara'ni morpheme (now two attestations, plus Alndust = Azerite confirms *Aln-* refers to the Worldsoul's essence) |
-| Shul'ka | /ʃʊlˈkɑː/ | *Shul'* + *-ka* | **Hunters of Shadows** (confirmed translation) — group of Haranir hunters, healers, and guides who sever their connection to the goddess (Aln'hara) to safely patrol the Rift of Aln. The wiki expands the Shul'ka's role beyond just "hunters" to include healing and guidance. **First confirmed Hara'ni translation with official gloss.** *Shul'* = "shadow" and *-ka* = "hunter(s)" is the most natural decomposition. Amarakk is a Shul'ka member who was mutated by the initiation ritual. In Midnight, the Shul'ka also hunt threats in the **Dreamrift** — a permeable veil between primordial dreams and reality — where they pursue **Chimaerus the Undreamt God** and battle "half-birthed abominations" |
+| Shul'ka | /ʃʊlˈkɑː/ | *Shul'* + *-ka* | **Hunters of Shadows** (confirmed translation) — group of Haranir hunters, healers, and guides who sever their connection to the goddess (Aln'hara) to safely patrol the Rift of Aln. The wiki expands the Shul'ka's role beyond just "hunters" to include healing and guidance. **First confirmed Hara'ni translation with official gloss.** *Shul'* = "shadow" and *-ka* = "hunter(s)" is the most natural decomposition. Amarakk is a Shul'ka member who was mutated by the initiation ritual. In Midnight, the Shul'ka also hunt threats in the **Dreamrift** — a permeable veil between primordial dreams and reality — where they pursue **Chimaerus the Undreamt God** and battle "half-birthed abominations." **Shul'ka initiation ritual** (from warcraft.wiki.gg): Initiates must (1) collect poisonous glands from the Rift and water of Ahl'ua (which counters the poison), (2) consume both at a ritual site unique to each initiate, rendering them unconscious, (3) fight for their life while unconscious (manifestations of the rift may appear, stopped by wards), (4) upon awakening, they are freed from the Goddess's song. The ritual scars their spirit and changes them — Amarakk has been mutated since becoming Shul'ka. Shul'ka live in self-exile in the Rift, occasionally visited by friends/family. **Final rite**: Slay **Morta'ka the Sundered Echo** (takes years of preparation). En'liahn and Chua are confirmed Shul'ka members who appear together in dialogue |
 | Zur'ashar | /zʊrˈæʃɑːr/ | *Zur'* + *-ashar* | Order of painter-storytellers who paint records of history on the walls of Harandar. Their paintings can bring visions of history to life through Alndust. A named member is **Zur'ashar Shay'neia** (*Shay'* + *-neia*) |
 
 ### Midnight Expansion: Zur'ashar Member (2026)

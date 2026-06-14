@@ -176,7 +176,7 @@
 - [ ] Add audio pronunciation guide links where available — **BLOCKED**: no official WoW pronunciation guide found; Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
 - [x] Investigate the *-ia* feminine suffix hypothesis — **EFFECTIVELY DISPROVEN**: wiki gender confirmation shows Ruia and On'hiea are both male; 2 of 3 *-ia*-ending names are male, effectively disproving the feminine suffix hypothesis. *Shay'neia* adds a fourth *-ia*-variant ending; analysis confirms stem + final *-a* decomposition (variation in stem, not suffix). Final *-a* is either a gender-neutral name suffix or coincidental Blizzard aesthetic. Confidence: Very Low for *-ia*/*-a* as a genuine Haranir morpheme
-- [ ] Resolve the Rutaani/Ruutani spelling discrepancy — **PARTIALLY RESOLVED**: Wikipedia consistently uses "ruutani" (lowercase common noun), supporting the double-u spelling and native-language origin. The *-uu-* long vowel is confirmed by a second attestation (*Fuunid*). Confidence upgraded from Very Low–Low to Low–Moderate for *Ruutani* as a genuine Hara'ni word.
+- [ ] Resolve the Rutaani/Ruutani spelling discrepancy — **DEEPENED**: The Harandar zone wiki infobox lists "Ruutani" as a race; the Midnight Creatures section lists "Rutaani" (IconSmall_Rutaani.gif, IconSmall_LightRutaani.gif); Amarakk's item icon (inv_12_jewelry_rutaani_ring_red) uses single-u. The discrepancy exists within Blizzard's own game data (zone data vs. creature data vs. item data). Wikipedia consistently uses "ruutani" (lowercase). The *-uu-* long vowel is confirmed by *Fuunid*. **Confidence: Low–Moderate** for *Ruutani* as a genuine Hara'ni word; the double-u spelling is preferred but the discrepancy is now confirmed as a genuine Blizzard inconsistency rather than a wiki error.
 - [x] Research additional Shul'ka and Zur'ashar member names from Midnight Harandar zone content — **COMPLETED**: warcraft.wiki.gg now accessible; Shul'ka wiki category contains only 2 pages (Amarakk and Shul'ka itself); Zur'ashar wiki page does not exist (404); no new member names beyond En'liahn, Chua, and Morta'ka; remaining in-game NPCs may not yet be on the wiki
 - [x] Investigate the *-ka* suffix in *Shul'ka* and *Morta'ka* — **DEEPENED**: three attestations now documented (Shul'ka, Morta'ka, Lu'kah); most defensible interpretation is a broad agentive/personification suffix ("one who is [X]"); "hunter" is the specific contextual gloss for *Shul'ka*; *Morta'ka* as "the Sundered Echo" supports personification over hunting; *Lu'kah* (Zur'ashar painter-storyteller) adds third data point with *-kah* variant. Confidence: Very Low–Low
 - [x] Research whether the Midnight alpha build mural text (Haranir as progenitors of trollkind) contains any additional Hara'ni vocabulary — **RESOLVED**: alpha mural text was changed at launch to depict a "split" in Haranir society; the alpha text did NOT survive into the released game and contained no additional Hara'ni vocabulary that is still canon
@@ -236,3 +236,48 @@
 - [x] Investigate *Aln* verb usage in quest titles — **COMPLETED**: quest "The Greater They Aln" from Amarakk's quest list (warcraft.wiki.gg/wiki/Amarakk) uses *Aln* as a verb — the first evidence of *Aln* functioning as a verb rather than only a nominal root. Also found "The Foundation of Aln" quest using *Aln* as a noun. Updated haranir/vocabulary.md §5, haranir/grammar.md (Aln- root section), alien-comparative.html
 - [x] Update Amarakk entry with family details — **COMPLETED**: warcraft.wiki.gg/wiki/Amarakk confirms Hagar is his grandmother, Orweyna is his sister; affiliation: Hara'ti, Shul'ka; voiced by Ike Amadi; aided assault on Darkwell after Battle of the Bridge. Updated haranir/vocabulary.md
 - [x] Research Shul'ka member names from wiki category — **COMPLETED**: Category:Shul'ka contains only 2 pages (Amarakk and Shul'ka itself); no additional named Shul'ka members on the wiki beyond Amarakk, En'liahn, and Chua
+
+## Autowork Round 2026-06-14b
+
+- [x] Re-verify Hara'ni data against warcraft.wiki.gg (now accessible after earlier transport errors) — **COMPLETED**: Hara'ni page, Haranir page, Shul'ka page, Harandar page, and Midnight page all reviewed; all existing data confirmed correct
+- [x] Add Atal'Aman to zandali/vocabulary.md — **COMPLETED**: *Atal* ("devoted") + *'Aman* (Amani); Midnight delve; second attestation of *Atal* in a compound place name (after Atal'ai, Atal'Dazar)
+- [x] Add Maisara Caverns and Den of Nalorakk to zandali/vocabulary.md — **COMPLETED**: Maisara as potential Zandali place name (Very Low confidence); Nalorakk as Loa of War (High confidence)
+- [x] Add Nexus-Point Xenas to ethereal vocabulary — **COMPLETED**: Midnight dungeon in Voidstorm; *Xenas* has X-initial consistent with Shath'Yar/ethereal naming; added to ethereal/vocabulary.md and ethereal/vocabulary.html
+- [x] Add Dawnwell to thalassian/vocabulary.md — **COMPLETED**: renamed Sunwell after purification by combined elven heritage; culturally significant but Common-language name; speculated Thalassian form *Belore'thalas* noted
+- [x] Update Shul'ka ritual details from warcraft.wiki.gg/wiki/Shul'ka — **COMPLETED**: added full ritual sequence (7 steps), ritual attracts manifestations stoppable by wards, "varies depending on each individual," "takes years of preparation," "lonely existence," Amarakk mutation quote
+- [x] Update Decimus/Terminas plot details from Wikipedia — **COMPLETED**: Decimus informed about Nexus-Points and Salhadaar; seemingly betrayed party but stole Mantle of Predation and killed Terminas; updated shath-yar/vocabulary.md and shath-yar/vocabulary.html
+- [x] Update Zandali HTML vocabulary with Midnight data — **COMPLETED**: added Midnight expansion section with Zul'jan, Zul'jarra, Hash'ey, Mor'duun, Atal'Aman, Maisara Caverns, Den of Nalorakk
+- [x] Update alien-comparative.html last-updated date — **COMPLETED**
+
+## Autowork Round 2026-06-14b
+
+- [x] Fix alien-comparative.html cross-reference inconsistencies — **COMPLETED**: (1) downgraded *-ka* confidence from "High (confirmed)" to "Low–Moderate" — the decomposition *Shul'* + *-ka* is inferred, not independently confirmed; added *Lu'kah* as third attestation; (2) separated *Hara-* (5 attestations, "people/call/song") from *Har'* (4 attestations, confirmed "village") into distinct morpheme entries; (3) marked *-ia*/*-a* feminine suffix as "effectively disproven" with Ruia and On'hiea confirmed male; (4) updated confirmed morphemes note to reflect two confirmed morphemes (Har', Shul') rather than three
+- [x] Fix README.md Hara'ni entry — **COMPLETED**: (1) updated *-ka* to 3 attestations (added *Lu'kah*); (2) separated *Hara-* (5 attestations) from *Har'* (4 attestations); (3) noted *-ia* feminine suffix effectively disproven; (4) updated alien-comparative link description to reflect 2 confirmed morphemes
+- [x] Fix haranir/vocabulary.html *-ia* section — **COMPLETED**: updated section heading to "Effectively Disproven"; added Gender column showing Ruia and On'hiea confirmed male; replaced conditional language ("if these characters are male") with definitive statement; updated confidence to "Very Low"
+- [x] Update haranir/grammar.md *-ka* suffix section — **COMPLETED**: added *Lu'kah* as third attestation; expanded table to three entries; noted *-kah* vs *-ka* variation; updated confidence statement to reflect three attestations
+- [x] Verify wiki sources for new data — **COMPLETED**: warcraft.wiki.gg inaccessible (transport errors); Wikipedia Midnight article reviewed — all data already documented; no new Hara'ni NPC names, translations, or linguistic data found
+
+## Autowork Round 2026-06-14c
+
+- [x] Re-verify Hara'ni data against warcraft.wiki.gg (now accessible) — **COMPLETED**: reviewed Haranir page, Hara'ni language page, Shul'ka page, Harandar page, Dreamrift page, Amarakk page, Midnight page; all existing data confirmed; significant new findings:
+  - **Amarakk** voiced by Ike Amadi (also voices Rokhan, Darkspear troll) — reinforces Xhosa accent connection
+  - **Amarakk** confirmed as grandson of Hagar, brother of Orweyna
+  - **"The Greater They Aln"** quest uses *Aln* as verb — first verbal use of *Aln*
+  - **Dreamrift Adventure Guide** text: "The Dreamrift exists deep within the Rift of Aln, where the dreams of Aln'hara took form. Long ago Aln'hara was taken from her Cradle, and her dreams no longer shape the powers that form there."
+  - **Ka'dani** confirmed by quest "A Hunter's Plight" on Hara'ni language page
+  - **Ruutani/Rutaani** discrepancy confirmed as Blizzard internal inconsistency (zone data "Ruutani" vs. creature data "Rutaani" vs. item data "rutaani")
+  - **Light Rutaani** variant confirmed (IconSmall_LightRutaani.gif)
+  - **Sporefall** dungeon in Harandar added
+- [x] Update haranir/vocabulary.md with new wiki data — **COMPLETED**: added Amarakk voice actor/family/quests, Ka'dani quest source, Dreamrift Adventure Guide text, Sporefall dungeon, Ruutani Blizzard data discrepancy, *Aln* verbal function analysis
+- [x] Update haranir/grammar.md with Xhosa accent and Aln verb analysis — **COMPLETED**: added Xhosa accent phonological feature (#7) with Ike Amadi connection and proto-troll phonological implications; added speculative *Aln* verbal function analysis
+- [x] Update haranir/description.md with Dreamrift and Ruutani data — **COMPLETED**: added Dreamrift Adventure Guide text; updated Ruutani spelling discrepancy with Blizzard game data evidence
+- [x] Update haranir/vocabulary.html with new data — **COMPLETED**: added Amarakk voice actor, Ka'dani quest source, Sporefall row, Ruutani Blizzard data discrepancy, *Aln* verbal analysis, Xhosa accent phonology
+- [x] Update alien-comparative.html with new data — **COMPLETED**: added Xhosa accent detail, *Aln* verbal analysis, Ruutani Blizzard data discrepancy
+- [x] Update TODO.md with completed items — **COMPLETED**
+
+### Next Actions
+
+- [ ] Investigate Xhosa phonological parallels between Hara'ni and Zandali — the shared Xhosa accent implies specific phonological features (click consonants, tonal patterns, prosody) that may be reflected in the name corpus; compare Hara'ni and Zandali consonant inventories and syllable structures for shared features beyond the accent
+- [ ] Investigate whether the Light Rutaani variant (IconSmall_LightRutaani.gif) implies a Hara'ni compound with "light" element — does "Light Rutaani" have a Hara'ni equivalent, or is it purely Common?
+- [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names within the dungeon
+- [ ] Research whether any Midnight patch content (12.0.5, 12.0.7 PTR) adds new Hara'ni names
