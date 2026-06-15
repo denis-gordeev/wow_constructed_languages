@@ -328,3 +328,22 @@
 - [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
 - [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
 - [x] Check warcraft.wiki.gg for new data — **BLOCKED**: warcraft.wiki.gg still inaccessible (transport errors); Wikipedia Midnight article reviewed — no new linguistic data beyond what was already documented
+
+## Autowork Round 2026-06-15b
+
+- [x] Expand qiraji/vocabulary.html to match vocabulary.md depth — **COMPLETED**: rewrote HTML from 154 lines to full version; added C'Thun, Buru/Ayamiss entries; added Section 6 (Anub- Prefix), Section 7 (-naxx/-nax pattern with /x/ vs /ks/ analysis), Section 8 (Ashi/Zora/Regal elements), Section 9 (Phonological observations with /ʒ/ discovery), Section 10 (Relationships), Section 11 (Writing System); added cross-navigation footer; added last-updated date
+- [x] Add hyphen vs apostrophe boundary analysis to qiraji grammar — **COMPLETED**: added §2 (Hyphen as alternative morpheme boundary) to grammar.md phonological patterns with three hypotheses (inconsistency, rank compounds, loan vs native); added new "Compounding with Hyphen Boundary" section to morphology; added to phonology comparison table; added to vocabulary.md §12
+- [x] Add *Ka'* prefix cross-reference (qiraji *Ka'ark* ↔ Hara'ni *Ka'dani*) — **COMPLETED**: added to qiraji/grammar.md (new section "The Ka' Prefix and Cross-Linguistic Note"), qiraji/vocabulary.md §13, alien-comparative.html (unique features table); assessed as coincidental (Very Low confidence) since languages belong to entirely different families
+- [x] Add *-ie* / *-ia* ending cross-reference (qiraji *He'al-ie* ↔ Hara'ni *-ia* names) — **COMPLETED**: added to qiraji/grammar.md, qiraji/vocabulary.md §13, alien-comparative.html; assessed as coincidental (Very Low confidence)
+- [x] Add potential reduplication analysis for *Sarsarun* — **COMPLETED**: added to qiraji/grammar.md (phonological pattern #8) and qiraji/vocabulary.html; Very Low confidence
+- [x] Add /ʒ/ phoneme to qiraji grammar — **COMPLETED**: added to sound inventory, phonological patterns (#7), and nerubian comparison table in grammar.md
+- [x] Remove vestigial vulpera/index.html — **COMPLETED**: deleted (not linked from any HTML file, same as previously removed pandaren/index.html and eredun/index.html)
+- [x] Update alien-comparative.html with qiraji data — **COMPLETED**: added hyphen boundary markers, potential reduplication, *Ka'* cross-reference, *-ie*/*-ia* coincidence to unique features table; updated last-updated date
+
+### Remaining Open Items
+
+- [ ] Add audio pronunciation guide links where available — **BLOCKED**: no official WoW pronunciation guide found; Blizzard has never published an official pronunciation guide for constructed languages
+- [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
+- [ ] Resolve the Rutaani/Ruutani spelling discrepancy — **DEEPENED**: The Harandar zone wiki infobox lists "Ruutani" as a race; the Midnight Creatures section lists "Rutaani" (IconSmall_Rutaani.gif, IconSmall_LightRutaani.gif); Amarakk's item icon (inv_12_jewelry_rutaani_ring_red) uses single-u. The discrepancy exists within Blizzard's own game data (zone data vs. creature data vs. item data). Wikipedia consistently uses "ruutani" (lowercase). The *-uu-* long vowel is confirmed by *Fuunid*. **Confidence: Low–Moderate** for *Ruutani* as a genuine Hara'ni word; the double-u spelling is preferred but the discrepancy is now confirmed as a genuine Blizzard inconsistency rather than a wiki error
+- [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
+- [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available

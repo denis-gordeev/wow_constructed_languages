@@ -24,10 +24,10 @@ The Qiraji are an insectoid race descended from the Aqir, created by the Old God
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
 | Prince Sarsarun | /ˈsɑːrsərʊn/ | Qiraji leader (Cataclysm era) | Not *-naxx* pattern; new qiraji name structure. |
-| Qiraji Brigadier General Pax-lish | /pæksˈlɪʃ/ | Gates of Ahn'qiraj event NPC | *Pax-* + *-lish*. The *Pax-* element is notable — not *-naxx* but contains *-ax* in initial position. Apostrophe not used. |
-| Qiraji Major He'al-ie | /hiˈɑːliː/ | Gates of Ahn'qiraj event NPC | Apostrophe-marked compound: *He'* + *-al-* + *-ie*. Matches Aqir-descended apostrophe pattern. |
-| Qiraji Captain Ka'ark | /kɑːˈɑːrk/ | Gates of Ahn'qiraj event NPC | *Ka-* + *-ark*. Apostrophe marks morpheme boundary. |
-| Qiraji Lieutenant Jo-rel | /dʒoʊˈrɛl/ | Gates of Ahn'qiraj event NPC | *Jo-* + *-rel*. Short compound. |
+| Qiraji Brigadier General Pax-lish | /pæksˈlɪʃ/ | Gates of Ahn'qiraj event NPC | *Pax-* + *-lish*. Compound via **hyphen** (not apostrophe). The *Pax-* element is notable — not *-naxx* but contains *-ax* in initial position. |
+| Qiraji Major He'al-ie | /hiˈɑːliː/ | Gates of Ahn'qiraj event NPC | Apostrophe-marked compound: *He'* + *-al-* + *-ie*. The *-ie* ending parallels Hara'ni *-ia* names (likely coincidental — different language families). |
+| Qiraji Captain Ka'ark | /kɑːˈɑːrk/ | Gates of Ahn'qiraj event NPC | *Ka'* + *-ark*. Apostrophe marks morpheme boundary. The *Ka'* prefix also appears in Hara'ni *Ka'dani* — most likely coincidental (different language families). |
+| Qiraji Lieutenant Jo-rel | /dʒoʊˈrɛl/ | Gates of Ahn'qiraj event NPC | *Jo-* + *-rel*. Short compound via **hyphen** (not apostrophe). |
 | Qiraji Officer Zod | /zɒd/ | Gates of Ahn'qiraj event NPC | Very short name; possibly a rank abbreviation or nickname. |
 
 ### Silithus Qiraji NPCs
@@ -273,3 +273,30 @@ Aqir (unattested; Old God-created insectoid race)
 The qiraji are known to use hieroglyphic writing, visible on the walls and obelisks of Ahn'qiraj. The script appears to be glyphic or hieroglyphic, consistent with the Egyptian aesthetic. Unlike Tol'vir hieroglyphs (which have three confirmed translations), no qiraji hieroglyphs have been translated in canon.
 
 The Silithid (the non-sentient insectoid base species from which the qiraji evolved) do not appear to have a writing system, suggesting that writing was a qiraji innovation after their divergence from the Silithid.
+
+## 12. Hyphen vs. Apostrophe Boundary Markers
+
+The Gates of Ahn'qiraj event NPCs use both hyphens and apostrophes as morpheme boundary markers:
+
+| Boundary Type | Names | Rank |
+|---------------|-------|------|
+| Apostrophe | *Ka'ark*, *He'al-ie* | Captain, Major |
+| Hyphen | *Pax-lish*, *Jo-rel* | Brigadier General, Lieutenant |
+
+Three hypotheses for the distinction:
+
+1. **Blizzard inconsistency**: No functional difference; both mark the same morpheme boundary
+2. **Rank compounds**: Hyphens mark military-rank compounds (all hyphen-bearing names hold officer ranks), while apostrophes mark ethnic/linguistic compounds
+3. **Loan vs. native**: Hyphens mark mixed-language or borrowed compounds, while apostrophes mark native qiraji compounds
+
+**Confidence: Very Low** for any functional distinction. Blizzard inconsistency is the most parsimonious explanation.
+
+## 13. Cross-Linguistic Coincidences with Hara'ni
+
+Two superficial phonological parallels exist between qiraji and Hara'ni names:
+
+1. ***Ka'* prefix**: Qiraji *Ka'ark* and Hara'ni *Ka'dani* both use *Ka'* as an apostrophe-marked prefix. The languages belong to entirely different families (Aqir-descended vs. deeply divergent elven/troll branch), making genetic relationship impossible. **Confidence: Very Low** for genuine connection; most likely coincidental.
+
+2. ***-ie* / *-ia* ending**: Qiraji *He'al-ie* ends in *-ie*, paralleling Hara'ni names ending in *-ia* (Ruia, Ney'leia, On'hiea, Shay'neia). Both are common phonological sequences cross-linguistically. **Confidence: Very Low** for genuine connection.
+
+These coincidences are noted for completeness but should not be cited as evidence of contact or relationship between the two language families.
