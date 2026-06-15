@@ -36,6 +36,7 @@
 | Voidspire | Xal'atath's base of operations | Common-language compound name for Xal'atath's seat in the Voidstorm |
 | Darkwell | Corrupted Sunwell | The Sunwell after corruption by L'ura's void beam. Common-language name |
 | Dawnwell | Purified Sunwell | The renamed Sunwell after purification by combined elven heritage. Common-language name |
+| Twilight's Blade | Void cult devoted to Xal'atath (Midnight) | Common-language name; cultists who infiltrated Quel'Thalas, including the town of Tranquillien. Led by Mor'duun. Not a Shath'Yar term, but culturally significant as the mortal arm of the Devouring Host in the Midnight campaign. The cult's name follows the English [element] + [weapon] naming pattern common in WoW faction design |
 | L'ura | Dark naaru | Shath'Yar-style initial-apostrophe name (*L'* + *-ura*). Originally a naaru aboard the Xenedar in Mac'Aree (Argus, Legion); corrupted by the Void into a dark naaru. Absorbed into Alleria Windrunner during the Argus campaign. Released by Xal'atath during the Midnight Voidspire confrontation; fired a void beam into the Sunwell, corrupting it into the Darkwell. Destroyed by combined elven forces at the Darkwell |
 
 ## Investigation: *domanaar* and the *-aar* Suffix

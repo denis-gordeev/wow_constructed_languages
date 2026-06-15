@@ -175,6 +175,12 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 | Hash'ey | Amani title meaning "unifier" (Midnight) | Apostrophe-marked compound: *Hash'* + *-ey*. **First attested Zandali title with a confirmed semantic gloss.** Earned by completing trials and gaining loa blessings; implies *Hash'* = "unite/gather" and *-ey* = agentive suffix ("one who does X"). **Confidence: Low–Moderate** for this decomposition |
 | Mor'duun | Leader of Twilight's Blade (Midnight) | Apostrophe-marked compound: *Mor'* + *-duun*. Language affiliation uncertain — could be Zandali, Shath'Yar-influenced, or Common. The *-duun* element is new |
 
+### Midnight Expansion: Cultural Terms
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Lightwood | Weapon material made from Lightbloom (Midnight) | Common-language compound; Amani harvest Lightbloom (Light-infused plant life) to create lightwood weaponry effective against the Twilight's Blade. Not a Zandali word, but culturally significant — the Amani are the only known group to weaponize Lightbloom. No Zandali term for "lightwood" is attested |
+
 ### Midnight Expansion: Additional Places
 
 | Word | Meaning | Notes |

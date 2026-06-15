@@ -1,349 +1,64 @@
 # TODO
 
 ## Completed
-- [x] Compile attested vocabulary for Darnassian
-- [x] Compile attested vocabulary for Thalassian
-- [x] Compile attested vocabulary for Draenei
-- [x] Compile attested vocabulary for Orcish
-- [x] Compile attested vocabulary for Zandali
-- [x] Compile attested vocabulary for Taur-ahe
-- [x] Compile attested vocabulary for Dwarven
-- [x] Compile attested vocabulary for Shath'Yar
-- [x] Compile attested vocabulary for Kalimag
-- [x] Compile attested vocabulary for Shalassian
-- [x] Compile attested vocabulary for Gutterspeak
+
+- [x] Compile attested vocabulary for all 11 original languages (Darnassian, Thalassian, Draenei, Orcish, Zandali, Taur-ahe, Dwarven, Shath'Yar, Kalimag, Shalassian, Gutterspeak)
 - [x] Infer grammar rules for all 11 languages
 - [x] Write language descriptions for all 11 languages
 - [x] Create README.md
-- [x] Expand Darnassian vocabulary with additional canon phrases from novels and RPG books
-- [x] Expand Thalassian vocabulary with additional canon phrases
-- [x] Expand Orcish vocabulary with additional canon phrases
-- [x] Cross-reference elven languages (Darnassian/Thalassian/Shalassian) for shared roots and sound correspondences
-- [x] Add etymological reconstruction section comparing Darnassian to Thalassian sound changes
-- [x] Research and add Pandaren language (added in Mists of Pandaria)
-- [x] Research and add Vulpera language (added in Battle for Azeroth)
-- [x] Research and add Eredun/Demonic language (Burning Legion)
-- [x] Add phonetic transcription (IPA) for all attested words (Darnassian, Thalassian, Orcish HTML vocabularies)
-- [x] Create a comparative wordlist across related languages (especially elven languages)
-- [x] Add example sentences constructed using inferred grammar (clearly marked as non-canon)
+- [x] Expand vocabulary with additional canon phrases for Darnassian, Thalassian, Orcish
+- [x] Cross-reference elven languages (Darnassian/Thalassian/Shalassian/Nazja) for shared roots and sound correspondences
+- [x] Add phonetic transcription (IPA) for all attested words
 - [x] Create hypertext (HTML) versions of vocabulary files with IPA
-- [x] Add IPA phonetic transcriptions for remaining languages (Draenei, Zandali, Taur-ahe, Dwarven, Shath'Yar, Kalimag, Gutterspeak)
-- [x] Create HTML vocabulary files for remaining languages (Draenei, Zandali, Taur-ahe, Dwarven, Shath'Yar, Kalimag, Gutterspeak)
-- [x] Expand Shalassian vocabulary with additional canon phrases from Legion content
-- [x] Expand Draenei vocabulary with additional canon phrases from Argus/Broken Isles content
-- [x] Expand Zandali vocabulary with additional canon phrases from Battle for Azeroth content
-- [x] Add etymological reconstruction for Draenei/Eredun sound changes
-- [x] Create comparative wordlist for Draenei/Eredun cognates
-- [x] Add constructed example sentences for Shalassian, Draenei, and Zandali
-- [x] Research and add Mogu language (Mogu empire in Pandaria)
-- [x] Research and add Sethrak language (Vol'dun serpent people)
-- [x] Cross-reference Pandaren and Mogu language elements
-- [x] Add Nexian/Nature language elements (Druidic communication)
-- [x] Create HTML vocabulary files for Shalassian, Mogu, Sethrak, and Nature
-- [x] Research and add Titan language (Titan facilities across Azeroth)
-- [x] Research and add Vrykul language (Northrend viking-like race)
-- [x] Research and add Naga language (Nazjatar naga)
-- [x] Expand Mogu vocabulary with additional canon phrases from Mists of Pandaria
-- [x] Cross-reference Dwarven with Titan language elements
-- [x] Cross-reference Sethrak and Zandali naming patterns
-- [x] Add constructed example sentences for Taur-ahe and Dwarven
-- [x] Update README with new languages (Titan, Vrykul, Nazja)
-- [x] Create HTML vocabulary files for Titan and Vrykul
-- [x] Add constructed example sentences for Titan, Vrykul, and Nazja
-- [x] Update elven-comparative.html to include Nazja as a fourth elven language
-- [x] Create Titan-forged language family comparison (Titan → Vrykul → Common/Drust; Titan → Dwarven; Titan → Mogu; Titan → Tol'vir)
-- [x] Cross-reference Vrykul with Titan and Dwarven language elements (titan-forged-comparative.html)
-- [x] Cross-reference Nazja with Darnassian/Thalassian/Shalassian for shared morphemes (elven-comparative.html updated)
-- [x] Research and add Tol'vir language (Uldum cat-people)
-- [x] Research and add Drust language (Kul Tiras witch-folk, Vrykul offshoot)
-- [x] Create HTML vocabulary file for Drust
-- [x] Cross-reference Drust with Vrykul language elements (shared morphemes, sound correspondences, Gol- prefix vs. Vrykul suffixes)
-- [x] Add Drust to titan-forged-comparative.html (Vrykul → Drust branch)
-- [x] Cross-reference Tol'vir with Titan and Mogu for shared morphemes
-- [x] Add Tol'vir to titan-forged-comparative.html (Titan → Tol'vir branch)
-- [x] Create a comprehensive cross-language comparison table (shared morphemes across all titan-forged languages)
-- [x] Add toponymic strategy comparison across all titan-forged languages
-- [x] Create HTML vocabulary file for Titan language (already existed as titan/vocabulary.html)
-- [x] Add constructed example sentences for Tol'vir, Drust, Mogu, and Sethrak
-- [x] Investigate potential Drust-Gol connection to Titan Golganneth (analysis added to titan-forged-comparative.html and drust/grammar.md; conclusion: speculative, low confidence)
-- [x] Research and add Gnomish language (Mechagnome descendants, titan-forged)
-- [x] Research and add Common/Human language (descended from Vrykul)
-- [x] Expand Tol'vir vocabulary with additional proper names from Uldum content (Amathet tribe, BfA 8.3 additions)
-- [x] Expand Drust vocabulary with Drustvar zone names and NPC dialogue (Thornspeaker names, Ardenweald Drust, potential Drust toponym elements)
-- [x] Deepen Tol'vir morpheme analysis with additional Uldum place name patterns (expanded -et/-ep alternation analysis, -en pattern, Vir'- prefix distribution)
-- [x] Create HTML vocabulary files for Tol'vir, Drust, Mogu, Sethrak, Gnomish, and Common (already existed)
-- [x] Expand Gnomish vocabulary with additional mechagnome and gnomish NPC names from Mechagon content (added Sicco Thermaplugg, Captain Krazz, Bondo, Rinling, Mekgineer title, Qip, Zapjack, Zapslaw; expanded morpheme analysis with -torque, -min, Mek- variant)
-- [x] Expand Common vocabulary with additional human kingdom and NPC names (added Nethergarde, Andorhal, Strom, Stratholme, Durnholde; added Terenas, Uther, Tirion, Taelia, Calia, Danath, Alonsus; expanded Vrykul morpheme table with Thor-, Tir-, Tael-)
-- [x] Add constructed example sentences for Gnomish and Common to example-sentences.html
-- [x] Add Gnomish and Common cross-references to titan-forged-comparative.html (new Titan↔Gnomish and Common↔Gnomish sections; updated cross-language comparison and wordlist tables; updated toponymic strategies table)
-- [x] Deepen Drust morpheme analysis: investigate whether *-kor* in *Lorkron* relates to Vrykul *-korn* (analysis added to drust/grammar.md and titan-forged-comparative.html; conclusion: plausible phonological match, Low–Medium confidence; single data point and functional difference prevent firm conclusion)
-- [x] Investigate potential Vrykul sound changes reflected in Common place names beyond Tirisfal (added Nethergarde as second -garde example; added analysis of Vrykul elements in personal names Thoradin, Uther, Tirion, Taelia; added hypothetical sound change table to common/grammar.md)
-- [x] Investigate Sethrak *Kor-* element and its potential relationship to Drust *-kor* and Vrykul *-korn* (analysis added to sethrak/grammar.md; conclusion: most likely coincidental; no genetic relationship between Sethrak and titan-forged family; different semantics and structural positions; Confidence: Very Low)
-- [x] Expand analysis of Common place names with fossilized Vrykul elements (added analysis of Andorhal *-hal* ↔ Vrykul *-halas*, Lordaeron *-aeron*/*-on* suffix, Alterac *-ac* suffix, Arathi *Arath-* root; all added to common/grammar.md; Confidence: Low–Very Low)
-- [x] Investigate whether *-din* in Thoradin reflects regular sound change from Vrykul *-inn* (analysis added to common/grammar.md; three analyses considered: *-inn* → *-din* via epenthesis/voicing, independent *-adin* suffix, direct loan from Vrykul *Mjordin*; Confidence: Low)
-- [x] Research The War Within content for new Vrykul, Earthen, and Nerubian language data (added TWW Earthen data to dwarven/vocabulary.md: Khaz Algar, Dornogal, Baelgrim, Merrix, Adelgonn, Brinthe, Eirich, Lufsela, Skardyn; added nerubian data to nazja/vocabulary.md: Azj-Kahet, Ansurek, Neferess, Arak'nai, Anub'azal, Nizrek; added *Azj-*/*Nazj-* analysis; updated titan-forged-comparative.html with TWW findings)
-- [x] Verify vocabulary against WoW wiki sources (warcraft.wiki.gg) — **COMPLETED**: all TWW raid/dungeon boss names confirmed; Ky'veza reclassified as ethereal (Nexus-Princess); attested nerubian scroll text discovered; Azj'Aqir confirmed as third *Azj-* attestation; all TBC ethereal names verified; Commander Ameer corrected as Protectorate leader; 15+ new ethereal names added; 6+ new pre-TWW nerubian names added; 6+ new Earthen names added; faction names added for nerubian and ethereal
-- [x] Verify TBC ethereal names against wiki sources — **COMPLETED**: Shaffar, Haramad, Ameer verified; Bilaal, Razaan, Morphalius, Nesaad, Khay'ji, Gava'xi, Mu'fah, Xevozz, Yazzai, Gezhe, Xiraxis, Kadavan added; Legion names (Nezhar) and BfA names (Durzaan, Shadreen, Xan-Sallish, Zarhaal, Nari) added
-- [x] Research additional Earthen NPC names from TWW and earlier content — **COMPLETED**: added Kothilde, Olbarig, Vokmar, Wireweaver Grelka, Leikaroc, Adland (TWW); Urel Stoneheart, Bouldercrag, Dungard Ironcutter, Stonefather Oremantle, Flint Oremantle, Goggeroc (pre-TWW); Thraegar variant; Dhar Oztan and Thor Modan toponyms; Freysworn, Stonebound, Stormrangers groups
-- [x] Research additional nerubian NPC names from all expansions — **COMPLETED**: added Ki'katal, Gut'usul (TWW); Kilix, Seer Ixit, Reclaimer A'zak, Nezar'Azret, Queen Anub'izek, Vorus'arak, Prophet Nox'tir (pre-TWW); Anub'esset, Anub'et'kan, Ix'lar, Nerub'enkan, Tuten'kash (Scourge); Azj'Aqir and En'kilah toponyms; faction names (Azjol-anak, Anub'ar, Hath'ar, Nerub'ar, Ahn'kahar, Nerubis, Sureki, Voru'kar); attested nerubian scroll text ("Unhhh-tikk-a-shisss. Kka shir...") — first ever attested nerubian-language phrase
-- [x] Expand ethereal vocabulary with additional names — **COMPLETED**: 15+ new ethereal names from TBC, Legion, BfA, and TWW; new places (Ma'nussa, Eco-Dome Al'dani, Hara'samid Sector, Heraazi, Sodaraami, Xarodi Sector); Cartel Om; Nexus-Princess title added; Arabic-inspired naming pattern identified
-- [x] Research The War Within content for new Vrykul, Earthen, and Nerubian language data (added TWW Earthen data to dwarven/vocabulary.md: Khaz Algar, Dornogal, Baelgrim, Merrix, Adelgonn, Brinthe, Eirich, Lufsela, Skardyn; added nerubian data to nazja/vocabulary.md: Azj-Kahet, Ansurek, Neferess, Arak'nai, Anub'azal, Nizrek; added *Azj-*/*Nazj-* analysis; updated titan-forged-comparative.html with TWW findings)
-- [x] Add constructed example sentences for Shath'Yar and Kalimag to example-sentences.html (6 sentences each; SY1–SY6 and Km1–Km6)
-- [x] Investigate potential Dwarven *Dun-* / *Durn-* connection to Common *Durnholde* (analysis added to dwarven/grammar.md and referenced in common/grammar.md and titan-forged-comparative.html; Dwarven *Dun* → Common *Durn* with epenthetic /r/ is plausible; alternative: independent Common root; Confidence: Low–Medium)
-- [x] Create dedicated Earthen language folder with grammar.md, vocabulary.md, description.md, and vocabulary.html based on The War Within data (Dornogal, Khaz Algar, Baelgrim, etc.)
-- [x] Create dedicated Nerubian language folder with grammar.md, vocabulary.md, description.md, and vocabulary.html based on The War Within data (Azj-Kahet, Ansurek, Anub'azal, etc.)
-- [x] Investigate *Azj-*/*Nazj-* connection between nerubian *Azj-Kahet* and naga *Nazjatar* — potential Aqir substrate (full analysis in nerubian/vocabulary.md §5 and nerubian/grammar.md; also discovered *Azjol-Nerub* and *Ahn'kahet* as earlier attestations; Confidence: Low–Medium)
-- [x] Investigate *Eir-* connection between Earthen *Eirich* and Vrykul *Eyir* — potential shared Titan morpheme (full analysis in earthen/vocabulary.md §7 and earthen/grammar.md; Norse design convergence equally likely; Confidence: Low–Medium)
-- [x] Expand Skardyn analysis: is *Skar-* related to Vrykul *Skarvald*/*Voldskar*? (analysis in earthen/vocabulary.md §3 and earthen/grammar.md; *Skar-* = "dark/corrupt/shadow" plausible across three languages; Confidence: Low)
-- [x] Add Earthen constructed example sentences to example-sentences.html (6 sentences; Ea1–Ea6)
-- [x] Add Nerubian constructed example sentences to example-sentences.html (6 sentences; Nr1–Nr6)
-- [x] Update README.md with Earthen and Nerubian languages
-- [x] Update titan-forged-comparative.html with Earthen (family tree restructured: Earthen → Dwarven lineage; new Titan↔Earthen cross-reference section; Earthen↔Dwarven simplification path table)
-- [x] Research The War Within content for additional Haranir language data (only Orweyna confirmed as a named Haranir; no other Haranir names or phrases attested; Haranir appear to be isolationist with no constructed-language dialogue)
-- [x] Investigate *Nefer-* connection between Nerubian *Neferess* and Tol'vir *Neferset* — analyzed: likely shared Blizzard design inspiration from Egyptian *nfr*, not genuine in-universe connection; no other shared morphemes between nerubian and Tol'vir; full analysis in nerubian/vocabulary.md §10, nerubian/grammar.md, nerubian/vocabulary.html
-- [x] Investigate *Ahn-* vs. *Azj-* alternation in nerubian place names — analyzed: data insufficient to resolve; three hypotheses evaluated (different morphemes, dialectal variation, Aqir origin); full analysis in nerubian/vocabulary.md §11, nerubian/vocabulary.html
-- [x] Cross-reference Earthen *-dar* suffix with Arathi language — analyzed: *-dar* most likely from Earthen substrate (borrowed by Arathi in Khaz Algar); restricted to Khaz Algar, not found elsewhere; full analysis in earthen/vocabulary.md §8, earthen/grammar.md, earthen/vocabulary.html
-- [x] Add Arathi personal names (Faerin Lothar, Vaelisia Steelstrike, Aelric Leid) with linguistic affiliation analysis to earthen/vocabulary.md and earthen/vocabulary.html
-- [x] Verify TWW nerubian boss names against Wikipedia TWW article (partial verification — all boss names confirmed correct; full wiki verification still needed when web access restored)
-- [x] Update titan-forged-comparative.html: add Earthen column to cross-language comparison tables; add Arathi to toponymic strategies table; update *-dar* note; update last-updated date
-- [x] Investigate whether Undermine (goblin capital from TWW patch) adds any new Gnomish/Goblin linguistic data — **ANALYZED**: added Undermine goblin names to gnomish/vocabulary.md (Pamsy, Grimla Fizzlecrank, Nikki the Fixer, Jastor Gallywix, Monte Gazlowe, Renzik, Trade Prince Revilgaz, Trade Prince Marin Noggenfogger, Gallagio, Darkfuse Enforcement, cartel names); analyzed potential *-gaz* / *Gaz-* morpheme, *-wix* / *-ik* name suffix, and *-gio* place-name ending; all Very Low confidence due to small sample size
-- [x] Investigate ethereal/K'aresh naming from TWW patch content — **COMPLETED**: created dedicated Ethereal language folder (ethereal/) with vocabulary.md, grammar.md, description.md, and vocabulary.html; analyzed names from TWW Ghosts of K'aresh campaign (Locus-Walker, Ve'nari, Nexus-King Salhadaar, Phase-Thief Azir, Soul-Scribe) and TBC (Shaffar, Haramad, Ameer); identified potential *-esh* / *-aresh* locative suffix in *K'aresh* and *Tazavesh* (Low–Moderate confidence); proposed broker–ethereal dialect hypothesis; added 6 constructed example sentences (Et1–Et6) to example-sentences.html; updated README.md
-- [x] Investigate *Reshii* connection to *K'aresh* *-esh* / *-resh* element — **COMPLETED**: full analysis in ethereal/vocabulary.md §14 and ethereal/vocabulary.html; *Reshii* = *Resh-* + *-ii* contains the full root form of the *-esh* locative suffix; Wikipedia confirms multiple Reshii Ribbons existed (plural form), confirming *-ii* as plural suffix; *-esh* confidence upgraded to Moderate–High; also updated ethereal/grammar.md
-- [x] Cross-reference ethereal language with the broader "alien" WoW naming convention (apostrophe-marked compounds across Shath'Yar, nerubian, qiraji, and ethereal) — **COMPLETED**: full analysis in ethereal/vocabulary.md §15 and ethereal/vocabulary.html; identified two distinct apostrophe patterns (Shath'Yar initial-prefix vs. medial-compound in others); proposed Old God → Aqir transmission chain; ethereal apostrophe usage most likely independent or Blizzard aesthetic; added full feature comparison table
-- [x] Investigate whether *Gallagio* casino name contains a genuine goblin/Gnomish place-name morpheme *-gio* / *-agio* — **COMPLETED**: full analysis in gnomish/vocabulary.md; four decompositions evaluated; conclusion: Italian aesthetic choice by Blizzard is most parsimonious explanation (High confidence for aesthetic; Very Low for genuine morpheme); *Galla-* may derive from *Gallywix* as personal possessive
-- [x] Investigate additional TWW patch content: Legacy of Arathor campaign names (Marran Trollbane, Veronica Nials, Stromgarde) for Common/Vrykul linguistic analysis — **COMPLETED**: analysis added to common/grammar.md and common/vocabulary.md; *Marran* has no clear Vrykul morpheme content; *Veronica* is Latin/English; *Trollbane* confirmed as hereditary Common compound surname; *Stromgarde* analysis unchanged; names added to vocabulary
-- [x] Investigate *-naxx* / *-nax* pattern across qiraji and nerubian names — **DEEPENED**: added analysis of *x* = /ks/ vs /x/ (velar fricative) ambiguity in qiraji/vocabulary.md §7 and nerubian/vocabulary.md §13; if *x* = /x/ in the *-naxx*/*-nax* suffix specifically, the geminate vs. single fricative distinction is phonologically natural and avoids /næksks/ difficulty; *-nox* / *-ox* variants analyzed as vowel alternations of same suffix with /x/; still Very Low confidence overall
-- [x] Investigate the *Hara-* root meaning — **PARTIALLY RESOLVED**: *Har'* = "village" confirmed by 4 official translations (Har'alnor, Har'athir, Har'kuai, Har'mara). *Hara-* (ethnonym) and *Har'* (village) may be related or homophonous. *Aln'hara* = "Worldsoul of Azeroth" confirmed, with *-hara* = "song/voice/call" likely. The *Hara-* root in *Haranir/Hara'ni/Hara'ti* most likely = "people/we" while *-hara* in *Aln'hara* = "song/call" — two related but distinct morphemes.
-- [x] Investigate the *Wastelanders'* oath to Salhadaar — **COMPLETED**: The Shul'ka wiki page reveals that the Haranir have a ritual tradition of "severing" and "oathing" (the Shul'ka sever their connection to Aln'hara). This confirms that oath-formulae exist in Hara'ni culture, supporting the possibility that the Wastelanders' oath to Salhadaar reflects a genuine K'aresh-language oath formula (social/political obligation expressed through a native oath tradition). However, no K'aresh-specific oath formula is attested. **Confidence: Low** for K'aresh-language oath formula.
-- [x] Research the unnamed Haranir goddess — **RESOLVED**: The Haranir goddess is **Aln'hara**, the Worldsoul of Azeroth herself. Confirmed by warcraft.wiki.gg/wiki/Hara'ni and warcraft.wiki.gg/wiki/Shul'ka. The Haranir worship the nascent titan world-soul as their goddess. The original announcement described "the goddess Shul'ka" but this was changed at launch — Shul'ka is a group of warriors, not the goddess.
-- [x] Research additional Haranir NPC names from Midnight's Harandar zone — **COMPLETED**: added 5 World Tree communion Haranir (Chonon, Fuunid, Kawayn, Or'jan, Zhakir), 3 Shul'ka NPCs (En'liahn, Chua, Morta'ka), and Goehi (ancient entity) from warcraft.wiki.gg. Also added 4 Harandar villages with confirmed translations (Har'alnor, Har'athir, Har'kuai, Har'mara), and many new place names (Ahl'ua, Dreth'amar, Na'bala, Nai'theren, Nihil, Rift of Aln).
-- [x] Research named Haranir NPCs from the Undermine Lingering Shadows campaign — **COMPLETED**: warcraft.wiki.gg does not list additional named Haranir NPCs from the Undermine/Lingering Shadows campaign beyond those already documented. The Undermine content primarily involves Orweyna working with Gazlowe.
-- [x] Investigate whether *Ruutani* is a genuine Hara'ni word or a Common-language designation — **PARTIALLY RESOLVED**: The Hara'ni language page on warcraft.wiki.gg does not list *Ruutani*/*Rutaani* among the untranslated Hara'ni words, suggesting it may NOT be a Hara'ni word. The Midnight page uses "Rutaani" while the Harandar page uses "Ruutani" — a spelling discrepancy. The wiki lists it under "Races" of Harandar but not under the Hara'ni language page. **Confidence: Low** for Ruutani as a genuine Hara'ni word; more likely a Common-language designation.
-- [x] Investigate whether the *-nir* / *-ni* / *-ti* suffix set is productive beyond the *Hara-* root — **PARTIALLY RESOLVED**: *Ka'dani* (*Ka'* + *-dani*) has the *-dani* ending which does not clearly match *-nir*/*-ni*/*-ti*. If *-dani* = *-da-* + *-ni*, then *-ni* appears beyond the *Hara-* root, but this decomposition is speculative. *Zur'ashar* and *Shul'ka* do not use any of these suffixes. **Confidence: Very Low** for *-nir*/*-ni*/*-ti* productivity beyond *Hara-*.
-- [x] Research additional Midnight zone content for new language data — **COMPLETED**: warcraft.wiki.gg accessed. Major new data found for Hara'ni (6 confirmed translations, 8+ new NPCs, 10+ new place names, 5+ new cultural names, dark troll/night elf origin confirmation, Aln'hara = Azeroth Worldsoul). No new earthen or nerubian language data found in Midnight content beyond what was already documented.
-
-## Next Actions
-
-- [x] Create missing standard files (vocabulary.md, grammar.md, description.md, vocabulary.html) for Eredun, Pandaren, and Vulpera languages (these directories previously had only index.html) — **COMPLETED**: all 12 files created; cross-references in eredun-draenei-comparative.html, README.md, and titan-forged-comparative.html updated
-- [x] Verify vocabulary against WoW wiki sources when web access is available (especially TWW raid/dungeon boss names: Ulgrax, Sikran, Rasha'nan, Ovi'nax, Ky'veza, Krix'vizk, Xanventh, Ix'zek) — **COMPLETED**: all boss names confirmed correct via warcraft.wiki.gg; Ky'veza reclassified as ethereal (Nexus-Princess), not nerubian; full wiki verification completed
-- [x] Verify TBC ethereal names (Shaffar, Haramad, Ameer) and additional ethereal/broker NPCs against wiki sources when web access is available — **COMPLETED**: all names verified; Ameer corrected as Protectorate leader (not Ethereum); added Bilaal, Razaan, Morphalius, Nesaad, Khay'ji, Gava'xi, Mu'fah, Xevozz, Yazzai, Gezhe, Xiraxis, Kadavan; added Legion names (Nezhar), BfA names (Durzaan, Shadreen, Xan-Sallish, Zarhaal, Nari)
-- [x] Research additional Drust Stele inscription content (blocked by web access issues) — **COMPLETED**: all 10 Drust Stele inscription texts recovered from warcraft.wiki.gg; confirmed there is no stele titled "The Three" (was confusion with "The Tree"); all steles are pictographic descriptions in Common; key finding: the Flayed Man stele references illegible runic prayers ("at one point there were prayers, or instructions, carved around the body, but time has rendered the runes illegible") — the only reference to any Drust written text; Breath Into Stone stele describes spirit-transfer ritual into stone, directly relating to Drust construct animation; full texts in drust/vocabulary.md and drust/vocabulary.html
-- [x] Research additional Earthen NPC names from TWW zones (especially vendors and questgivers in Dornogal who may have Earthen names) — **COMPLETED**: added Kothilde, Olbarig, Vokmar, Wireweaver Grelka, Leikaroc, Adland from wiki sources; added pre-TWW names (Urel Stoneheart, Bouldercrag, Dungard Ironcutter, Stonefather Oremantle, Flint Oremantle, Goggeroc); added Thraegar (Worldsoul-corrupted variant); added Dhar Oztan and Thor Modan toponyms; added Freysworn, Stonebound, Stormrangers groups
-- [x] Create dedicated Haranir language section if additional names are discovered in future TWW content updates — **COMPLETED**: created haranir/ directory with vocabulary.md, grammar.md, description.md, and vocabulary.html; documented 12+ NPC names (Orweyna, Hagar, Ter'kova, Gnarla, Ran'hune, Nye'rangi, Ruia, Amarakk, Hannan, Ney'leia, On'hiea, Na'layro), 3 place names (Harandar, Wildcamp Ul'ar, Wildcamp Or'lay), and 5 cultural names (Haranir, Hara'ni, Hara'ti, Aln'hara, Grimlynx); language name *Hara'ni* explicitly confirmed in wiki infobox; identified *Hara-* root with 5 attestations (Moderate confidence); proposed *-nir*/*-ni*/*-ti* systematic suffix set; noted *-dar* toponymic suffix shared with Earthen/Arathi (borrowed); very high apostrophe frequency (11 of ~15 names); no confirmed genetic relationship to elven, troll, titan-forged, or Aqir-descended families; updated README.md, alien-comparative.html, titan-forged-comparative.html, example-sentences.html
-- [x] Research TWW Arathi naming patterns further: verify Faerin Lothar, Vaelisia Steelstrike, Aelric Leid names against wiki sources; investigate whether Arathi names show consistent Elven phonological influence — **PARTIALLY COMPLETED**: Arathi names confirmed present in wiki; Elven phonological influence still Very Low confidence with only 3 data points
-- [x] Research additional nerubian NPC names from TWW quests and world content (beyond raid/dungeon bosses) — **COMPLETED**: added Ki'katal, Gut'usul (TWW quest NPCs); added pre-TWW names (Kilix, Seer Ixit, Reclaimer A'zak, Nezar'Azret, Queen Anub'izek, Vorus'arak, Prophet Nox'tir); added Scourge nerubians (Anub'esset, Anub'et'kan, Ix'lar, Nerub'enkan, Tuten'kash); added faction names (Azjol-anak, Anub'ar, Hath'ar, Nerub'ar, Ahn'kahar, Nerubis, Sureki, Voru'kar); added Azj'Aqir (critical third *Azj-* attestation); added attested nerubian scroll text
-- [x] Research individual kobyss NPC names from TWW Hallowfall content — **COMPLETED**: documented 25+ kobyss NPC names from Hallowfall world quests; all are Common/English descriptors (Murkfin, Ragefin, Hungering, Fathomless, Bleak tribes); no kobyss-language words exist; key lore finding: kobyss are descended from ankoan, making them distant relatives of jinyu and murlocs; full analysis added to earthen/vocabulary.md §10
-- [x] Expand ethereal vocabulary with additional TBC Netherstorm and Shadowlands Tazavesh broker names when web access is available — **COMPLETED**: see verification entry above; also added TWW Ghosts of K'aresh names (Abductor Arzda, Zovex, Soulbinder Naazindhri, Forgeweaver Araz); added new places (Ma'nussa, Eco-Dome Al'dani, Hara'samid Sector, Heraazi, Sodaraami, Xarodi Sector); added Cartel Om; updated Nexus- title hierarchy with Nexus-Princess
-- [x] Investigate whether *Reshii* / *-esh* / *-aresh* alternation reflects regular sound change or coincidence — **COMPLETED**: Wikipedia confirms multiple Reshii Ribbons existed (plural form), strengthening *-ii* as plural suffix; *-esh* confidence upgraded to Moderate–High; see Autowork Round 2026-06-11 for details
-- [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
-- [x] Update HTML vocabulary files (nerubian, ethereal, earthen) with new names and data from wiki verification — **COMPLETED**: added *-ar* faction suffix section and *En-* prefix section to nerubian/vocabulary.html; added Arabic-inspired naming investigation to ethereal/vocabulary.html; added *-oc*/*-roc* investigation to earthen/vocabulary.html
-- [x] Add nerubian scroll text analysis to nerubian/grammar.md
-- [x] Update alien-comparative.html with nerubian scroll text data and faction name analysis
-- [x] Update titan-forged-comparative.html with new Earthen names (pre-TWW names, Thraegar, Dhar Oztan, Thor Modan)
-- [x] Research the *-ar* suffix as a potential nerubian faction-designation morpheme (appears in Anub'ar, Hath'ar, Nerub'ar, Ahn'kahar, Nerub-ar Palace) — **COMPLETED**: full analysis added to nerubian/grammar.md, nerubian/vocabulary.html, and alien-comparative.html; *-ar* = "brood/collective" with Low–Moderate confidence; *Ahn'kahar* = "Old-kingdom-brood" with *-kah-* as truncated *-kahet*; *Nerub-ar Palace* confirms native (non-Scourge) usage
-- [x] Investigate whether *En'kilah* adds a new prefix *En-* to the nerubian toponymic system (parallel to *Ahn-* and *Azj-*) — **COMPLETED**: full analysis added to nerubian/grammar.md, nerubian/vocabulary.html, and alien-comparative.html; *En-* cannot be confidently assigned to the nerubian toponymic system (single attestation, uncertain building origin, possible Arabic design borrowing); Confidence: Very Low
-- [x] Investigate the *-oc* / *-roc* element in Earthen names (Goggeroc, Leikaroc) — potential Earthen morpheme — **COMPLETED**: full analysis added to earthen/grammar.md and earthen/vocabulary.html; two attestations across 20 years is suggestive but insufficient; no clear semantic pattern; most likely Blizzard aesthetic convention; Confidence: Very Low
-- [x] Investigate the Arabic-inspired naming pattern in ethereal names (Salhadaar, Haramad, Ameer, Bilaal, Razaan, Durzaan, Nezhar) — deliberate Blizzard design pattern or genuine ethereal-language phonological tendency? — **COMPLETED**: full analysis added to ethereal/grammar.md and ethereal/vocabulary.html; **High confidence** that Arabic-inspired naming is deliberate Blizzard design (desert merchant aesthetic); **Low confidence** for genuine in-universe phonological tendency; implications for morpheme analysis: *-aan*, *-daar*, *-meer* elements likely design artifacts; *-esh* / *-aresh* (no Arabic parallel) is more likely genuine
-- [x] Create dedicated comparative page for "alien" WoW languages (Shath'Yar, nerubian, qiraji, ethereal) with full apostrophe-pattern and morpheme cross-reference — **COMPLETED**: created alien-comparative.html with 10 sections (overview, family tree, apostrophe patterns, phonology, Aqir substrate morphemes, morpheme cross-reference, compound structures, transmission hypotheses, comparative wordlist, shared grammar); updated README.md with links
-- [x] Research Ghosts of K'aresh campaign content for additional ethereal/broker linguistic data — **COMPLETED**: all TWW Ghosts of K'aresh names already documented (Locus-Walker killed by Xal'atath; Soul-Scribe sacrificed herself; Nexus-King Salhadaar defeated; Dimensius destroyed); added Devouring Host faction, Dark Heart artifact, Voidstorm concept to ethereal/vocabulary.md
-- [x] Research Hallowfall Arathi naming patterns and place names — **COMPLETED**: added Arathi personal names (Venrie Flitter, Alyza Bowblaze, Kyrie, Danath Trollbane) and 20+ Hallowfall place names to common/vocabulary.md; identified Arathi possessive naming pattern (*Dunelle*'s Kindness, *Sina*'s Yearning, etc.); potential Elven phonological influence in Arathi given names noted but Very Low confidence
-- [x] Recover full text of remaining 6 Drust Stele inscriptions (The Three, Breath Into Stone, Sacrifice, The Cycle, The Flayed Man, The Ritual, Protectors of the Forest) — requires wiki access — **COMPLETED**: all texts recovered; "The Three" was an error (does not exist as a separate stele)
-- [x] Add audio pronunciation guide links where available — **BLOCKED**: no official WoW pronunciation guide found; wiki audio resources currently inaccessible; Blizzard has never published an official pronunciation guide for constructed languages
-- [x] Investigate the ankoan/jinyu/murloc language family for potential kobyss-language connections — **COMPLETED**: full evolutionary chain documented (Murloc → Jinyu → Ankoan → Kobyss) with wiki-verified data from warcraft.wiki.gg; 5 ankoan names (Okani, Inowari, Ori, Akana, Kotori Lightblade), 30+ jinyu names, and 9 murloc proper names analyzed; Nerglish phonotactic patterns documented; key finding: kobyss show **linguistic regression** from ankoan — they speak only 3–5 Common words ("Animate bones", "Devour", "Violence") and have no native proper names; this is the only known case of language loss in WoW; full analysis in earthen/vocabulary.md §10, earthen/vocabulary.html; README.md updated with language family
-- [x] Research Midnight expansion for new Haranir, Earthen, or other language data when content becomes available — **COMPLETED**: significant Midnight data added (see below)
-- [x] Investigate the *-ia* pattern in female Haranir names (Ruia, Ney'leia, On'hiea) — possible feminine suffix or Blizzard naming aesthetic — **COMPLETED**: deepened analysis in haranir/vocabulary.md §6, grammar.md, vocabulary.html; three phonologically conditioned variants (-ia, -eia, -iea) may reflect single underlying suffix /jə/ or final *-a* feminine suffix; cross-language comparison shows *-a* feminine ending is widespread Blizzard design pattern; Confidence upgraded from Very Low to Very Low–Low
-- [x] Investigate the *Greenspeaker* title and its potential relationship to Drust *Thornspeaker* — parallel druidic traditions or contact borrowing? — **COMPLETED**: full analysis in haranir/vocabulary.md §6, description.md, vocabulary.html; most likely independent parallel development (geographic/temporal separation makes contact extremely unlikely); both follow [Nature-element] + [speaker] English compound pattern; Confidence: Very Low for in-universe connection; High for independent development
-- [x] Analyze Haranir–nerubian geographic proximity for potential loanwords — Haranir live near Azj-Kahet but no shared morphemes confirmed yet — **COMPLETED**: full analysis in haranir/vocabulary.md §6, grammar.md, vocabulary.html; *-ar* in *Ul'ar* parallels nerubian *-ar* faction suffix but single shared syllable is insufficient; geographic proximity supports contact plausibility; Confidence: Very Low for confirmed loanword
-- [x] Update Haranir files with Wikipedia-confirmed Undermine patch data — **COMPLETED**: updated haranir/vocabulary.md with Orweyna's Undermine story (investigates Black Blood with fellow Haranir, receives Worldsoul vision, scouts goblin operation at Opportunity Point); added §4a documenting confirmed additional unnamed Haranir NPCs; updated haranir/description.md with Undermine/Lingering Shadows events and internal isolationist tension; updated haranir/vocabulary.html
-- [x] Update ethereal vocabulary with Wikipedia-confirmed Ghosts of K'aresh details — **COMPLETED**: expanded Shadowguard entry (Salhadaar demanded Wastelander oaths), Wastelanders entry (previously worshipped Worldsoul, oath to Salhadaar caused brief betrayal, assaulted eco-dome after Soul-Scribe's sacrifice), K'aresh Trust entry (eco-dome defense), Ravel entry (Xal'atath was a member who served as Harbinger of Dimensius), Dark Heart entry (stolen by Azir from Gallywix, used at Manaforge Omega, Xal'atath emerged with Dimensius's essence and Locus-Walker's power), Devouring Host entry (followed Arator into Shadowlands Maw)
-- [x] Update Common vocabulary with Legacy of Arathor faction names — **COMPLETED**: added Red Dawn (human supremacist faction led by Marran), Scarlet Crusade (allied with Red Dawn), Syndicate (allied with Red Dawn), Defias Brotherhood (recruited into Red Dawn) to common/vocabulary.md; updated Marran Trollbane entry (confirmed as Red Dawn leader, banished); updated Veronica Nials entry (confirmed as Red Dawn traitor)
-- [x] Update Gnomish vocabulary with Undermine campaign details — **COMPLETED**: updated Gallywix (killed by his own damaged mech), Nikki the Fixer (killed by Gazlowe after killing Renzik), Renzik (killed by Nikki's Black Blood rifle, became martyr), Grimla Fizzlecrank (assumed control of Venture Co.); added Siren Isle place name
-- [x] Fix example-sentences.html duplicate warning section — **COMPLETED**: removed duplicate Ethereal warning div that was missing Hara'ni from the language list; the earlier Hara'ni-section warning already covers all languages
-
-## Midnight Expansion (2026) Updates
-
-- [x] Research Midnight expansion for new language data — **COMPLETED**: significant new data from Wikipedia's Midnight article; warcraft.wiki.gg still inaccessible
-- [x] Update Haranir files with Midnight data — **COMPLETED**: updated haranir/vocabulary.md (Ruia corrected from KIA to alive, added Ruutani race, Alndust material, Haranir goddess, Midnight plot events in §4b, upgraded *Aln-* root confidence from Very Low to Low–Moderate with second attestation), haranir/grammar.md (added *Aln-* root section, updated limitations), haranir/description.md (added Midnight history, Haranir goddess, ruutani), haranir/vocabulary.html
-- [x] Update Zandali files with Midnight Amani data — **COMPLETED**: added Zul'jan, Zul'jarra, Hash'ey ("unifier" — first attested Zandali title with confirmed gloss), Mor'duun to zandali/vocabulary.md; added *-ey* agentive suffix analysis to zandali/grammar.md; added *Hash'* and *-ey* morpheme entries
-- [x] Update Shath'Yar vocabulary with Midnight Void data — **COMPLETED**: added *domanaar* (Devouring Host generals), Decimus, Terminas, Voidspire, Darkwell, Dawnwell to shath-yar/vocabulary.md; noted *-aar* parallel with ethereal *-daar*
-- [x] Update ethereal vocabulary with Midnight data — **COMPLETED**: updated Salhadaar entry (serves Xal'atath reluctantly, corrupts naaru, killed in Voidspire); added Nexus-Points concept; updated Devouring Host entry (besieges Sunwell, domanaar); updated ethereal/vocabulary.html
-- [x] Update Thalassian vocabulary with Midnight data — **COMPLETED**: added Antenorian (governor of Tranquillien, allied with Twilight's Blade)
-- [x] Update comparative HTML files with Midnight data — **COMPLETED**: updated alien-comparative.html (added *Aln-* morpheme, Ruutani, domanaar, Nexus-Points, Midnight notes); updated example-sentences.html (added Zandali sentences Za1–Za2 and Hara'ni sentences Hn7–Hn8)
-- [x] Update README.md with Midnight data — **COMPLETED**: updated Haranir entry with *Aln-* root second attestation, Ruutani, Haranir goddess, Midnight reference
+- [x] Add example sentences constructed using inferred grammar (clearly marked as non-canon) for 26 languages
+- [x] Create comparative wordlists: elven, Eredun/Draenei, titan-forged, alien
+- [x] Research and add 18 additional languages: Pandaren, Vulpera, Eredun, Mogu, Sethrak, Nature, Titan, Vrykul, Nazja, Tol'vir, Drust, Gnomish, Common, Earthen, Nerubian, Qiraji, Ethereal, Hara'ni
+- [x] Create standard files (vocabulary.md, grammar.md, description.md, vocabulary.html) for all 29 languages
+- [x] Add etymological reconstruction for Draenei/Eredun and elven sound changes
+- [x] Cross-reference all titan-forged languages (Titan → Vrykul → Dwarven/Drust/Common/Gnomish; Titan → Earthen → Dwarven; Titan → Mogu/Tol'vir)
+- [x] Cross-reference "alien" WoW languages (Shath'Yar, nerubian, qiraji, ethereal, Hara'ni) with apostrophe-pattern and Aqir substrate analysis
+- [x] Verify vocabulary against WoW wiki sources (warcraft.wiki.gg) — all TWW raid/dungeon boss names confirmed; Ky'veza reclassified as ethereal; attested nerubian scroll text discovered; Azj'Aqir confirmed
+- [x] Verify TBC ethereal names against wiki sources — all names verified; 15+ new ethereal names added
+- [x] Research The War Within content for new language data (Earthen, Nerubian, Vrykul, Haranir)
+- [x] Research Midnight expansion content for new language data (Hara'ni, Zandali, Shath'Yar, Ethereal, Thalassian)
+- [x] Investigate *Azj-*/*Nazj-* connection (nerubian *Azj-Kahet* ↔ naga *Nazjatar*) — Aqir substrate, Low–Medium confidence
+- [x] Investigate *Eir-* connection (Earthen *Eirich* ↔ Vrykul *Eyir*) — shared Titan morpheme or Norse convergence, Low–Medium confidence
+- [x] Investigate *-ar* suffix as nerubian faction-designation morpheme — "brood/collective", Low–Moderate confidence
+- [x] Investigate ethereal *-esh* locative suffix (*K'aresh*, *Tazavesh*) — Moderate–High confidence; *Reshii* confirms *-ii* plural
+- [x] Investigate Arabic-inspired naming in ethereal names — deliberate Blizzard design (High confidence for design; Low for genuine morphemes)
+- [x] Investigate *Hara-* root meaning — *Har'* = "village" confirmed (4 attestations); *Hara-* (ethnonym) and *Har'* (village) may be related or homophonous; *-hara* in *Aln'hara* = "song/voice/call"
+- [x] Investigate *Aln-* root — 4 attestations (*Aln'hara*, *Alndust*, *Alnscorned*, *Rift of Aln*); Alndust = Azerite confirmed; *Aln* used as verb in quest title "The Greater They Aln"; Moderate–High confidence
+- [x] Investigate Xhosa phonological parallels (Hara'ni vs Zandali) — shared features consistent with proto-troll Xhosa-like substrate; Moderate confidence
+- [x] Investigate *-ia* feminine suffix — effectively disproven (Ruia, On'hiea confirmed male)
+- [x] Investigate *-ka* suffix (*Shul'ka*, *Morta'ka*, *Lu'kah*) — agentive/personification suffix; Very Low–Low confidence
+- [x] Investigate *-naxx*/*-nax* suffix /x/ vs /ks/ — geminate fricative distinction phonologically natural if *x* = /x/; Very Low confidence overall
+- [x] Investigate Rutaani/Ruutani spelling discrepancy — genuine Blizzard internal inconsistency; Wikipedia consistently uses "ruutani"; Low–Moderate confidence for native Hara'ni word
+- [x] Investigate Light Rutaani variant — "Light" is purely Common, no Hara'ni compound; High confidence
+- [x] Investigate Naaru naming (A'dal, K'ure, K'ara, M'uru, O'ros, L'ura) — follow Shath'Yar initial-apostrophe pattern; Low–Medium confidence for genuine connection
+- [x] Investigate *domanaar*/*-aar* ↔ ethereal *-daar* — most likely coincidence; Very Low–Low confidence
+- [x] Investigate *Nefer-* connection (Nerubian *Neferess* ↔ Tol'vir *Neferset*) — likely shared Egyptian design inspiration, not in-universe connection
+- [x] Investigate Drust *-kor* ↔ Vrykul *-korn* — plausible phonological match; Low–Medium confidence
+- [x] Investigate *Gallagio* *-gio* ending — Italian aesthetic choice (High confidence for aesthetic; Very Low for genuine morpheme)
+- [x] Add qiraji grammar analysis: hyphen vs apostrophe boundary, *Ka'* cross-reference, *-ie*/*-ia* ending, reduplication, /ʒ/ phoneme
+- [x] Recover all 10 Drust Stele inscription texts from wiki; confirmed illegible runic prayers reference
+- [x] Research murloc/jinyu/ankoan/kobyss language family; document only known case of language loss in WoW (kobyss)
+- [x] Fix broken grammar.html links, anchor links, duplicate warning blocks across HTML files
+- [x] Add cross-navigation between all 5 comparative HTML pages
+- [x] Normalize tolvir/vocabulary.html CSS to match standard light theme
+- [x] Remove vestigial index.html files (pandaren, eredun, vulpera)
 
 ## Remaining Open Items
 
-- [ ] Add audio pronunciation guide links where available — **BLOCKED**: no official WoW pronunciation guide found; Blizzard has never published an official pronunciation guide for constructed languages
-- [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
-- [x] Investigate Xhosa phonological parallels between Hara'ni and Zandali — **COMPLETED** (see Autowork Round 2026-06-14d): shared features consistent with proto-troll Xhosa-like substrate identified; **Confidence: Moderate**
-- [x] Investigate whether the Light Rutaani variant implies a Hara'ni compound with "light" element — **COMPLETED**: "Light Rutaani" is purely Common; no Hara'ni word for "light" attested; **Confidence: High**
-- [x] Resolve the Rutaani/Ruutani spelling discrepancy — **DEEPENED**: The Harandar zone wiki infobox lists "Ruutani" as a race; the Midnight Creatures section lists "Rutaani" (IconSmall_Rutaani.gif, IconSmall_LightRutaani.gif); Amarakk's item icon (inv_12_jewelry_rutaani_ring_red) uses single-u. The discrepancy exists within Blizzard's own game data (zone data vs. creature data vs. item data). Wikipedia consistently uses "ruutani" (lowercase). The *-uu-* long vowel is confirmed by *Fuunid*. **Confidence: Low–Moderate** for *Ruutani* as a genuine Hara'ni word; the double-u spelling is preferred but the discrepancy is now confirmed as a genuine Blizzard inconsistency rather than a wiki error.
-- [x] Research additional Shul'ka and Zur'ashar member names from Midnight Harandar zone content — **COMPLETED**: warcraft.wiki.gg now accessible; Shul'ka wiki category contains only 2 pages (Amarakk and Shul'ka itself); Zur'ashar wiki page does not exist (404); no new member names beyond En'liahn, Chua, and Morta'ka; remaining in-game NPCs may not yet be on the wiki
-- [x] Investigate the *-ka* suffix in *Shul'ka* and *Morta'ka* — **DEEPENED**: three attestations now documented (Shul'ka, Morta'ka, Lu'kah); most defensible interpretation is a broad agentive/personification suffix ("one who is [X]"); "hunter" is the specific contextual gloss for *Shul'ka*; *Morta'ka* as "the Sundered Echo" supports personification over hunting; *Lu'kah* (Zur'ashar painter-storyteller) adds third data point with *-kah* variant. Confidence: Very Low–Low
-- [x] Research whether the Midnight alpha build mural text (Haranir as progenitors of trollkind) contains any additional Hara'ni vocabulary — **RESOLVED**: alpha mural text was changed at launch to depict a "split" in Haranir society; the alpha text did NOT survive into the released game and contained no additional Hara'ni vocabulary that is still canon
-- [x] Investigate the *Zur'ashar Shay'neia* name — *Shay'neia* contains the *-neia* ending that parallels *Ney'leia*; is *-neia* / *-leia* a variant of the *-ia* suffix or a different morpheme? — **COMPLETED**: Most parsimonious analysis is *Shay'nei* + *-a* (stem + feminine suffix), where variation is in the stem (*-nei*, *-lei*, *-i*), not in the suffix. The *-neia* ending does NOT represent a distinct suffix but a stem ending in /ei/ followed by *-a*. Confidence: Very Low–Low for final *-a* as feminine suffix
-
-## Autowork Round 2026-06-11
-
-- [x] Update *Reshii* analysis with Wikipedia confirmation that multiple Reshii Ribbons existed — **COMPLETED**: Wikipedia confirms each Ravel member possessed one Ribbon; party collected them from Locus-Walker, Ve'nari, dead Ravel member, and Azir; Ravel used "combined power of the Reshii Ribbons" to destroy K'aresh. This confirms *-ii* as a plural suffix and *Resh-* as the root noun meaning "realm/world." *-esh* confidence upgraded to Moderate–High
-- [x] Analyze *domanaar* / *-aar* connection to ethereal *-daar* — **COMPLETED**: full analysis added to shath-yar/vocabulary.md and shath-yar/vocabulary.html; three hypotheses evaluated (ethereal loanword, shared Void nomenclature, Blizzard design convergence); Confidence: Very Low–Low for genuine in-universe connection; most likely coincidence or independent Void/Shath'Yar element
-- [x] Deepen Zandali *-ey* agentive suffix analysis — **COMPLETED**: added cross-linguistic comparison table and expanded assessment to zandali/grammar.md; confirmed gloss "unifier" is strongest evidence for genuine agentive function; Confidence upgraded from Low to Low–Moderate
-- [x] Add *L'ura* (dark naaru) to Shath'Yar vocabulary — **COMPLETED**: added to shath-yar/vocabulary.md and shath-yar/vocabulary.html; Shath'Yar-style initial-apostrophe name (*L'* + *-ura*); corrupted naaru released by Xal'atath, created the Darkwell
-- [x] Update ethereal HTML vocabulary with Reshii plural confirmation — **COMPLETED**: updated ethereal/vocabulary.html with plural data, upgraded *-esh* confidence to Moderate–High
-- [x] Update alien-comparative.html with *-ii* suffix and upgraded confidence — **COMPLETED**: added *-ii* plural suffix to morpheme cross-reference table; upgraded *-esh* confidence to Moderate–High; updated last-updated date
-
-## Autowork Round 2026-06-11b
-
-- [x] Research Haranir NPC names from warcraft.wiki.gg — **COMPLETED**: discovered 8+ new NPC names (Chonon, Fuunid, Kawayn, Or'jan, Zhakir, En'liahn, Chua, Morta'ka, Goehi)
-- [x] Research Harandar zone place names from warcraft.wiki.gg — **COMPLETED**: discovered 10+ new place names including 4 villages with confirmed translations (Har'alnor, Har'athir, Har'kuai, Har'mara)
-- [x] Research Hara'ni language page on warcraft.wiki.gg — **COMPLETED**: found 6 confirmed Hara'ni translations (Shul'ka = "Hunters of Shadows", Aln'hara = "Worldsoul of Azeroth", 4 village names)
-- [x] Investigate Haranir goddess identity — **RESOLVED**: goddess is Aln'hara (the Azeroth Worldsoul)
-- [x] Research Haranir origin from wiki — **COMPLETED**: confirmed dark troll/night elf descent (*The Art of Midnight*, pg. 125)
-- [x] Update haranir/vocabulary.md with new wiki data — **COMPLETED**: added new NPCs, places, cultural names, confirmed translations, morphological analysis
-- [x] Update haranir/grammar.md with new morphological data — **COMPLETED**: added Har' = "village" (confirmed), Shul' = "shadow", -ka agentive, expanded phonology, confirmed relationship to elven/troll family
-- [x] Update haranir/description.md — **COMPLETED**: added dark troll origin, Aln'hara goddess resolution, Shul'ka ritual, Zur'ashar, cultural updates
-- [x] Update haranir/vocabulary.html with new data — **COMPLETED**: fixed outdated "goddess is unnamed" reference, added Shul'ka initiation ritual details, added Zur'ashar Shay'neia, updated phonology, added Saptor/Ahl'ua Healing Waters detail, updated confirmed Hara'ni classification, added Shay'neia to *-ia* suffix analysis, updated dark troll origin note, fixed Hara'ti definition
-- [x] Update alien-comparative.html with new Hara'ni data — **COMPLETED**: fixed Shul'ka confirmed translation to "Hunters of Shadows", updated *Aln-* gloss to "deep/source/rift" with Moderate confidence, added *-ka* second attestation (Morta'ka), updated last-updated text
-- [x] Update README.md with new Hara'ni data — **COMPLETED**: updated attestation counts (20+ proper names, 14 place names, 11 cultural names), updated *Hara-* root attestations to 9, added confirmed morpheme list to alien-comparative link
-
-## Autowork Round 2026-06-11c
-
-- [x] Resolve Rutaani/Ruutani spelling discrepancy — **PARTIALLY RESOLVED**: Wikipedia consistently uses "ruutani" (lowercase common noun), supporting the double-u spelling and native-language origin. The *-uu-* long vowel confirmed by second attestation *Fuunid*. Confidence upgraded from Very Low–Low to Low–Moderate for *Ruutani* as a genuine Hara'ni word. Updated haranir/vocabulary.md, haranir/vocabulary.html, alien-comparative.html
-- [x] Deepen *-ka* suffix analysis — **COMPLETED**: evaluated three interpretations (hunter, agentive/personification, severed/ritually-bonded); most defensible is broad agentive/personification suffix; "hunter" is the specific contextual gloss for *Shul'ka*; *Morta'ka* as "the Sundered Echo" supports personification. Updated haranir/vocabulary.md, haranir/grammar.md, alien-comparative.html
-- [x] Investigate *Shay'neia* / *-neia* ending — **COMPLETED**: most parsimonious analysis is *Shay'nei* + *-a* (stem + feminine suffix); variation is in the stem (*-nei*, *-lei*, *-i*), not in the suffix; the *-neia* ending does NOT represent a distinct suffix. Added Shay'neia as separate Haranir NPC entry. Updated haranir/vocabulary.md, haranir/grammar.md, haranir/vocabulary.html, alien-comparative.html
-- [x] Update haranir/description.md with updated attestation counts and ruutani analysis — **COMPLETED**: updated corpus size (16 personal names, 14 place names, 11 cultural names, 3 Midnight-era terms); updated ruutani description with Wikipedia evidence and native-language origin support
-- [x] Update phonology sections with long/geminate vowel feature — **COMPLETED**: *Fuunid* and *Ruutani* both attest long /uː/; updated haranir/vocabulary.md, haranir/grammar.md, haranir/vocabulary.html
-- [x] Update README.md with new Hara'ni features — **COMPLETED**: added long/geminate /uː/, *-ka* suffix attestations, *-ia*/*-a* ending names
-
-## Autowork Round 2026-06-12
-
-- [x] Re-examine *-ia* feminine suffix hypothesis — **EFFECTIVELY DISPROVEN**: wiki gender confirmation shows Ruia and On'hiea are both male; with 2 of 3 *-ia*-ending names male, the hypothesis cannot stand. Marked as resolved in Remaining Open Items
-- [x] Resolve Midnight alpha build mural text question — **RESOLVED**: alpha mural text was changed at launch and contains no additional canon Hara'ni vocabulary; marked as completed in Remaining Open Items
-- [x] Resolve *Zur'ashar Shay'neia* analysis — **COMPLETED**: analysis confirms *Shay'nei* + *-a* decomposition; variation is in the stem, not the suffix; marked as completed in Remaining Open Items
-- [x] Add Silversun Compact faction name to Thalassian vocabulary — **COMPLETED**: added to thalassian/vocabulary.md; Common-language compound (portmanteau of "Silver" from Silver Covenant + "Sun" from Sunreavers); the "sun" element echoes *belore*
-- [x] Research additional Shul'ka/Zur'ashar member names via web — **PARTIALLY COMPLETED**: warcraft.wiki.gg now accessible; Shul'ka page reviewed — no new member names beyond those already documented; Zur'ashar page does not exist (404). Wikipedia Midnight article contains no additional Hara'ni NPC names
-
-## Autowork Round 2026-06-14
-
-- [x] Re-verify all Hara'ni data against warcraft.wiki.gg (now accessible) — **COMPLETED**: wiki Hara'ni page, Haranir page, Shul'ka page, Harandar page, and Rift of Aln page all reviewed; all existing data confirmed correct; no new NPC names or confirmed translations beyond those already documented
-- [x] Add Chimaerus the Undreamt God to Hara'ni vocabulary — **COMPLETED**: added to haranir/vocabulary.md, haranir/vocabulary.html; entity that "feasted on the void of pain and madness left behind in the rift after Aln'hara was taken"; Dreamrift raid boss; name likely Common/Greek-derived, not Hara'ni; Very Low confidence
-- [x] Update Shul'ka description with wiki expansion — **COMPLETED**: updated from "group of Haranir warriors" to "group of Haranir hunters, healers, and guides" across haranir/vocabulary.md, haranir/description.md, haranir/grammar.md, haranir/vocabulary.html, alien-comparative.html
-- [x] Update Dreamrift raid description with Chimaerus details — **COMPLETED**: updated from vague "undreamt god" to specific Chimaerus the Undreamt God with void-of-pain lore; Dreamrift confirmed as single-encounter raid within the larger Voidspire raid sequence
-- [x] Add "wild elves" self-designation to Hara'ni description — **COMPLETED**: playable female Haranir refer to themselves as "wild elves" in a pick-up line; added to haranir/description.md and haranir/vocabulary.html; Common-language self-designation, not Hara'ni
-- [x] Add Maisara Caverns to Hara'ni place names — **COMPLETED**: added to haranir/vocabulary.md and haranir/vocabulary.html; "Maisara" is a potential Hara'ni or Zandali place name; Midnight dungeon in Zul'Aman zone; Very Low confidence
-- [x] Add Atal'Aman to Zandali vocabulary — **COMPLETED**: added to zandali/vocabulary.md; *Atal* = "devoted/chosen" + *Aman* = Amani root; Midnight dungeon/delve; second attestation of *Atal-* in a place name (after Atal'Dazar, Atal'ai)
-- [x] Add Maisara to Zandali morpheme analysis — **COMPLETED**: added *Maisara* as potential Zandali place name element to zandali/vocabulary.md; Very Low confidence
-- [x] Verify Alndust = Azerite — **COMPLETED**: warcraft.wiki.gg/wiki/Alndust redirects to wiki/Azerite; wiki confirms "Alndust, a particulate used by the haranir for their magic and said to have been created when the worldsoul was taken from her cradle in Harandar, is implied to be Azerite in particle form. Many spells related to Alndust use Azerite icons." Updated haranir/vocabulary.md (§3 and §5), haranir/grammar.md (Aln- root section), haranir/description.md, haranir/vocabulary.html, alien-comparative.html. *Aln-* confidence upgraded from Moderate to Moderate–High
-- [x] Investigate *Aln* verb usage in quest titles — **COMPLETED**: quest "The Greater They Aln" from Amarakk's quest list (warcraft.wiki.gg/wiki/Amarakk) uses *Aln* as a verb — the first evidence of *Aln* functioning as a verb rather than only a nominal root. Also found "The Foundation of Aln" quest using *Aln* as a noun. Updated haranir/vocabulary.md §5, haranir/grammar.md (Aln- root section), alien-comparative.html
-- [x] Update Amarakk entry with family details — **COMPLETED**: warcraft.wiki.gg/wiki/Amarakk confirms Hagar is his grandmother, Orweyna is his sister; affiliation: Hara'ti, Shul'ka; voiced by Ike Amadi; aided assault on Darkwell after Battle of the Bridge. Updated haranir/vocabulary.md
-- [x] Research Shul'ka member names from wiki category — **COMPLETED**: Category:Shul'ka contains only 2 pages (Amarakk and Shul'ka itself); no additional named Shul'ka members on the wiki beyond Amarakk, En'liahn, and Chua
-
-## Autowork Round 2026-06-14b
-
-- [x] Re-verify Hara'ni data against warcraft.wiki.gg (now accessible after earlier transport errors) — **COMPLETED**: Hara'ni page, Haranir page, Shul'ka page, Harandar page, and Midnight page all reviewed; all existing data confirmed correct
-- [x] Add Atal'Aman to zandali/vocabulary.md — **COMPLETED**: *Atal* ("devoted") + *'Aman* (Amani); Midnight delve; second attestation of *Atal* in a compound place name (after Atal'ai, Atal'Dazar)
-- [x] Add Maisara Caverns and Den of Nalorakk to zandali/vocabulary.md — **COMPLETED**: Maisara as potential Zandali place name (Very Low confidence); Nalorakk as Loa of War (High confidence)
-- [x] Add Nexus-Point Xenas to ethereal vocabulary — **COMPLETED**: Midnight dungeon in Voidstorm; *Xenas* has X-initial consistent with Shath'Yar/ethereal naming; added to ethereal/vocabulary.md and ethereal/vocabulary.html
-- [x] Add Dawnwell to thalassian/vocabulary.md — **COMPLETED**: renamed Sunwell after purification by combined elven heritage; culturally significant but Common-language name; speculated Thalassian form *Belore'thalas* noted
-- [x] Update Shul'ka ritual details from warcraft.wiki.gg/wiki/Shul'ka — **COMPLETED**: added full ritual sequence (7 steps), ritual attracts manifestations stoppable by wards, "varies depending on each individual," "takes years of preparation," "lonely existence," Amarakk mutation quote
-- [x] Update Decimus/Terminas plot details from Wikipedia — **COMPLETED**: Decimus informed about Nexus-Points and Salhadaar; seemingly betrayed party but stole Mantle of Predation and killed Terminas; updated shath-yar/vocabulary.md and shath-yar/vocabulary.html
-- [x] Update Zandali HTML vocabulary with Midnight data — **COMPLETED**: added Midnight expansion section with Zul'jan, Zul'jarra, Hash'ey, Mor'duun, Atal'Aman, Maisara Caverns, Den of Nalorakk
-- [x] Update alien-comparative.html last-updated date — **COMPLETED**
-
-## Autowork Round 2026-06-14b
-
-- [x] Fix alien-comparative.html cross-reference inconsistencies — **COMPLETED**: (1) downgraded *-ka* confidence from "High (confirmed)" to "Low–Moderate" — the decomposition *Shul'* + *-ka* is inferred, not independently confirmed; added *Lu'kah* as third attestation; (2) separated *Hara-* (5 attestations, "people/call/song") from *Har'* (4 attestations, confirmed "village") into distinct morpheme entries; (3) marked *-ia*/*-a* feminine suffix as "effectively disproven" with Ruia and On'hiea confirmed male; (4) updated confirmed morphemes note to reflect two confirmed morphemes (Har', Shul') rather than three
-- [x] Fix README.md Hara'ni entry — **COMPLETED**: (1) updated *-ka* to 3 attestations (added *Lu'kah*); (2) separated *Hara-* (5 attestations) from *Har'* (4 attestations); (3) noted *-ia* feminine suffix effectively disproven; (4) updated alien-comparative link description to reflect 2 confirmed morphemes
-- [x] Fix haranir/vocabulary.html *-ia* section — **COMPLETED**: updated section heading to "Effectively Disproven"; added Gender column showing Ruia and On'hiea confirmed male; replaced conditional language ("if these characters are male") with definitive statement; updated confidence to "Very Low"
-- [x] Update haranir/grammar.md *-ka* suffix section — **COMPLETED**: added *Lu'kah* as third attestation; expanded table to three entries; noted *-kah* vs *-ka* variation; updated confidence statement to reflect three attestations
-- [x] Verify wiki sources for new data — **COMPLETED**: warcraft.wiki.gg inaccessible (transport errors); Wikipedia Midnight article reviewed — all data already documented; no new Hara'ni NPC names, translations, or linguistic data found
-
-## Autowork Round 2026-06-14c
-
-- [x] Re-verify Hara'ni data against warcraft.wiki.gg (now accessible) — **COMPLETED**: reviewed Haranir page, Hara'ni language page, Shul'ka page, Harandar page, Dreamrift page, Amarakk page, Midnight page; all existing data confirmed; significant new findings:
-  - **Amarakk** voiced by Ike Amadi (also voices Rokhan, Darkspear troll) — reinforces Xhosa accent connection
-  - **Amarakk** confirmed as grandson of Hagar, brother of Orweyna
-  - **"The Greater They Aln"** quest uses *Aln* as verb — first verbal use of *Aln*
-  - **Dreamrift Adventure Guide** text: "The Dreamrift exists deep within the Rift of Aln, where the dreams of Aln'hara took form. Long ago Aln'hara was taken from her Cradle, and her dreams no longer shape the powers that form there."
-  - **Ka'dani** confirmed by quest "A Hunter's Plight" on Hara'ni language page
-  - **Ruutani/Rutaani** discrepancy confirmed as Blizzard internal inconsistency (zone data "Ruutani" vs. creature data "Rutaani" vs. item data "rutaani")
-  - **Light Rutaani** variant confirmed (IconSmall_LightRutaani.gif)
-  - **Sporefall** dungeon in Harandar added
-- [x] Update haranir/vocabulary.md with new wiki data — **COMPLETED**: added Amarakk voice actor/family/quests, Ka'dani quest source, Dreamrift Adventure Guide text, Sporefall dungeon, Ruutani Blizzard data discrepancy, *Aln* verbal function analysis
-- [x] Update haranir/grammar.md with Xhosa accent and Aln verb analysis — **COMPLETED**: added Xhosa accent phonological feature (#7) with Ike Amadi connection and proto-troll phonological implications; added speculative *Aln* verbal function analysis
-- [x] Update haranir/description.md with Dreamrift and Ruutani data — **COMPLETED**: added Dreamrift Adventure Guide text; updated Ruutani spelling discrepancy with Blizzard game data evidence
-- [x] Update haranir/vocabulary.html with new data — **COMPLETED**: added Amarakk voice actor, Ka'dani quest source, Sporefall row, Ruutani Blizzard data discrepancy, *Aln* verbal analysis, Xhosa accent phonology
-- [x] Update alien-comparative.html with new data — **COMPLETED**: added Xhosa accent detail, *Aln* verbal analysis, Ruutani Blizzard data discrepancy
-- [x] Update TODO.md with completed items — **COMPLETED**
-
-### Next Actions
-
-- [x] Investigate Xhosa phonological parallels between Hara'ni and Zandali — **COMPLETED**: full comparison added to haranir/grammar.md (§Xhosa Comparison), haranir/vocabulary.html, alien-comparative.html. Shared features consistent with proto-troll Xhosa-like substrate: identical five-vowel system, (C)V(C) syllable preference, high /a/ and /i/ frequency, shared palato-alveolar series, apostrophe-marked morpheme boundaries. Divergent features: Hara'ni has very high /h/, geminates, /θ/ /ʒ/ (innovations); Zandali has /f/ /v/ /z/, pre-nasalized stops (retentions/innovations). Xhosa-specific features not in orthography (clicks, tone, ejectives, implosives, syllable-timed rhythm) could explain the accent. **Confidence: Moderate** that shared accent reflects genuine proto-troll features
-- [x] Investigate whether the Light Rutaani variant (IconSmall_LightRutaani.gif) implies a Hara'ni compound with "light" element — **COMPLETED**: analysis added to haranir/vocabulary.md, haranir/vocabulary.html, alien-comparative.html. "Light" prefix is Common/English — no Hara'ni word for "light" is attested. All Lightbloom-related terms are Common. The icon naming follows Blizzard's pattern of English descriptors. **Confidence: High** that "Light Rutaani" is purely Common with no Hara'ni compound equivalent
-- [x] Research Sporefall dungeon for Hara'ni-named NPCs or place names within the dungeon — **BLOCKED**: warcraft.wiki.gg inaccessible (transport errors); Sporefall already documented as a Common/English name with no Hara'ni morpheme content; no Hara'ni-named NPCs confirmed within the dungeon from available sources
-- [x] Research whether any Midnight patch content (12.0.5, 12.0.7 PTR) adds new Hara'ni names — **PARTIALLY COMPLETED**: Wikipedia Midnight article reviewed (no patch-level detail available); no new Hara'ni names found beyond those already documented; patch content may not yet be documented on Wikipedia; warcraft.wiki.gg inaccessible
-
-## Autowork Round 2026-06-14d
-
-- [x] Investigate Xhosa phonological parallels between Hara'ni and Zandali — **COMPLETED**: added full comparison section to haranir/grammar.md with consonant inventory comparison table, shared features analysis, divergent features table, Xhosa-specific features not in orthography (clicks, tone, ejectives, implosives, syllable-timed rhythm), and assessment table. Updated haranir/vocabulary.html with comparison section and nav link. Updated alien-comparative.html with Xhosa parallels and Light Rutaani entries
-- [x] Investigate Light Rutaani variant — **COMPLETED**: "Light Rutaani" (IconSmall_LightRutaani.gif) is a Lightbloom-affected ruutani variant. The "Light" prefix is purely Common — no Hara'ni word for "light" is attested. All Lightbloom-related terms (Lightbloom, Lightwarden, Blinding Vale) are Common. Confidence: High. Added to haranir/vocabulary.md, haranir/vocabulary.html, alien-comparative.html
-- [x] Research Sporefall dungeon for Hara'ni-named NPCs — **BLOCKED**: warcraft.wiki.gg inaccessible; no new data available
-- [x] Research Midnight patch content for new Hara'ni names — **PARTIALLY COMPLETED**: Wikipedia reviewed; no new Hara'ni names beyond those already documented; patch content not yet detailed on Wikipedia
-
-### Remaining Open Items
-
-- [ ] Add audio pronunciation guide links where available — **BLOCKED**: no official WoW pronunciation guide found; Blizzard has never published an official pronunciation guide for constructed languages
-- [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
-- [ ] Resolve the Rutaani/Ruutani spelling discrepancy — **DEEPENED**: The Harandar zone wiki infobox lists "Ruutani" as a race; the Midnight Creatures section lists "Rutaani" (IconSmall_Rutaani.gif, IconSmall_LightRutaani.gif); Amarakk's item icon (inv_12_jewelry_rutaani_ring_red) uses single-u. The discrepancy exists within Blizzard's own game data (zone data vs. creature data vs. item data). Wikipedia consistently uses "ruutani" (lowercase). The *-uu-* long vowel is confirmed by *Fuunid*. **Confidence: Low–Moderate** for *Ruutani* as a genuine Hara'ni word; the double-u spelling is preferred but the discrepancy is now confirmed as a genuine Blizzard inconsistency rather than a wiki error
+- [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
+- [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
 - [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
 
-## Autowork Round 2026-06-14e
+## Autowork Round 2026-06-15c
 
-- [x] Fix 8 broken grammar.html links across HTML files — **COMPLETED**: changed all `grammar.html` hrefs to `grammar.md` in example-sentences.html (6 links), alien-comparative.html (1 link), haranir/vocabulary.html (1 link)
-- [x] Fix 3 broken anchor links — **COMPLETED**: fixed `#wordlist` → `#cross-language` in titan-forged-comparative.html; removed `#places-gnome` and `#places-mecha` nav links in gnomish/vocabulary.html (sections don't exist; replaced with `#undermine-places`)
-- [x] Fix duplicate warning block in example-sentences.html — **COMPLETED**: removed verbatim duplicate reminder block at lines 1029–1036 (identical to lines 776–783)
-- [x] Add cross-navigation between comparative HTML pages — **COMPLETED**: added consistent navigation footer to all 5 HTML pages (elven-comparative.html, eredun-draenei-comparative.html, titan-forged-comparative.html, alien-comparative.html, example-sentences.html) linking to each other
-- [x] Add example sentences for Eredun and Gutterspeak — **COMPLETED**: added 6 Eredun sentences (Er1–Er6) and 6 Gutterspeak sentences (Gs1–Gs6) to example-sentences.html; updated nav bar with Eredun and Gutterspeak links; updated README.md
-- [x] Fix missing h3 CSS in vocabulary.html files — **COMPLETED**: added h3 style to earthen/vocabulary.html, shalassian/vocabulary.html, shath-yar/vocabulary.html
-- [x] Fix missing a:hover in titan-forged-comparative.html — **COMPLETED**: added `a:hover { color: #1a237e; }` consistent with other comparative pages
-- [x] Normalize tolvir/vocabulary.html CSS — **COMPLETED**: rewrote from dark theme with CSS custom properties and sans-serif font to standard light theme with serif font matching all other vocabulary.html files; added nav bar, section IDs, and cross-navigation footer
-
-## Autowork Round 2026-06-15
-
-- [x] Add Naaru names (A'dal, K'ure, K'ara, M'uru, O'ros, L'ura) cross-reference section to shath-yar/vocabulary.md and shath-yar/vocabulary.html — **COMPLETED**: all six Naaru names documented with Shath'Yar apostrophe-pattern analysis; three interpretations evaluated (genuine Shath'Yar, universal cosmic naming, Blizzard design convergence); Lothraxion noted as Naaru-adjacent name without apostrophe convention; **Confidence: Low–Medium** for genuine in-universe connection
-- [x] Add M'uru and O'ros to draenei/vocabulary.md and draenei/vocabulary.html — **COMPLETED**: both Naaru names added with IPA and context (M'uru = dark naaru, Sunwell Plateau; O'ros = Exodar naaru); K'ara already in HTML but now also added to markdown vocabulary
-- [x] Fix example-sentences.html warning/reminder blocks — **COMPLETED**: all four warning blocks now consistently list all 26 languages with example sentences (Darnassian, Thalassian, Orcish, Shalassian, Draenei, Eredun, Zandali, Taur-ahe, Dwarven, Titan, Vrykul, Nazja, Tol'vir, Drust, Mogu, Sethrak, Gnomish, Common, Gutterspeak, Shath'Yar, Kalimag, Earthen, Nerubian, Qiraji, Ethereal, Hara'ni)
-- [x] Add introductory paragraph for Ethereal section in example-sentences.html — **COMPLETED**: added standard intro with link to ethereal/grammar.md and key patterns summary (*-esh* locative, *-ii* plural, apostrophe boundaries, Arabic-inspired patterns, *Nexus-* prefix)
-- [x] Fix README.md example-sentences description — **COMPLETED**: added Hara'ni to the list of languages with example sentences
-- [x] Add Naaru naming note to alien-comparative.html — **COMPLETED**: added paragraph noting that all six Naaru names follow the Shath'Yar initial-apostrophe C'V(C) pattern, with link to full analysis in shath-yar/vocabulary.html
-- [x] Remove vestigial index.html files — **COMPLETED**: deleted pandaren/index.html and eredun/index.html (pre-restructuring monolithic files duplicating content now in standard files; not linked from any navigation)
-- [x] Check warcraft.wiki.gg for new data — **BLOCKED**: warcraft.wiki.gg still inaccessible (transport errors); Wikipedia Midnight article reviewed — all linguistically relevant content already documented; no new Hara'ni, Earthen, or Nerubian names found
-
-### Remaining Open Items
-
-- [ ] Add audio pronunciation guide links where available — **BLOCKED**: no official WoW pronunciation guide found; Blizzard has never published an official pronunciation guide for constructed languages
-- [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
-- [ ] Resolve the Rutaani/Ruutani spelling discrepancy — **DEEPENED**: The Harandar zone wiki infobox lists "Ruutani" as a race; the Midnight Creatures section lists "Rutaani" (IconSmall_Rutaani.gif, IconSmall_LightRutaani.gif); Amarakk's item icon (inv_12_jewelry_rutaani_ring_red) uses single-u. The discrepancy exists within Blizzard's own game data (zone data vs. creature data vs. item data). Wikipedia consistently uses "ruutani" (lowercase). The *-uu-* long vowel is confirmed by *Fuunid*. **Confidence: Low–Moderate** for *Ruutani* as a genuine Hara'ni word; the double-u spelling is preferred but the discrepancy is now confirmed as a genuine Blizzard inconsistency rather than a wiki error
-- [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
-- [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
-- [x] Check warcraft.wiki.gg for new data — **BLOCKED**: warcraft.wiki.gg still inaccessible (transport errors); Wikipedia Midnight article reviewed — no new linguistic data beyond what was already documented
-
-## Autowork Round 2026-06-15b
-
-- [x] Expand qiraji/vocabulary.html to match vocabulary.md depth — **COMPLETED**: rewrote HTML from 154 lines to full version; added C'Thun, Buru/Ayamiss entries; added Section 6 (Anub- Prefix), Section 7 (-naxx/-nax pattern with /x/ vs /ks/ analysis), Section 8 (Ashi/Zora/Regal elements), Section 9 (Phonological observations with /ʒ/ discovery), Section 10 (Relationships), Section 11 (Writing System); added cross-navigation footer; added last-updated date
-- [x] Add hyphen vs apostrophe boundary analysis to qiraji grammar — **COMPLETED**: added §2 (Hyphen as alternative morpheme boundary) to grammar.md phonological patterns with three hypotheses (inconsistency, rank compounds, loan vs native); added new "Compounding with Hyphen Boundary" section to morphology; added to phonology comparison table; added to vocabulary.md §12
-- [x] Add *Ka'* prefix cross-reference (qiraji *Ka'ark* ↔ Hara'ni *Ka'dani*) — **COMPLETED**: added to qiraji/grammar.md (new section "The Ka' Prefix and Cross-Linguistic Note"), qiraji/vocabulary.md §13, alien-comparative.html (unique features table); assessed as coincidental (Very Low confidence) since languages belong to entirely different families
-- [x] Add *-ie* / *-ia* ending cross-reference (qiraji *He'al-ie* ↔ Hara'ni *-ia* names) — **COMPLETED**: added to qiraji/grammar.md, qiraji/vocabulary.md §13, alien-comparative.html; assessed as coincidental (Very Low confidence)
-- [x] Add potential reduplication analysis for *Sarsarun* — **COMPLETED**: added to qiraji/grammar.md (phonological pattern #8) and qiraji/vocabulary.html; Very Low confidence
-- [x] Add /ʒ/ phoneme to qiraji grammar — **COMPLETED**: added to sound inventory, phonological patterns (#7), and nerubian comparison table in grammar.md
-- [x] Remove vestigial vulpera/index.html — **COMPLETED**: deleted (not linked from any HTML file, same as previously removed pandaren/index.html and eredun/index.html)
-- [x] Update alien-comparative.html with qiraji data — **COMPLETED**: added hyphen boundary markers, potential reduplication, *Ka'* cross-reference, *-ie*/*-ia* coincidence to unique features table; updated last-updated date
-
-### Remaining Open Items
-
-- [ ] Add audio pronunciation guide links where available — **BLOCKED**: no official WoW pronunciation guide found; Blizzard has never published an official pronunciation guide for constructed languages
-- [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
-- [ ] Resolve the Rutaani/Ruutani spelling discrepancy — **DEEPENED**: The Harandar zone wiki infobox lists "Ruutani" as a race; the Midnight Creatures section lists "Rutaani" (IconSmall_Rutaani.gif, IconSmall_LightRutaani.gif); Amarakk's item icon (inv_12_jewelry_rutaani_ring_red) uses single-u. The discrepancy exists within Blizzard's own game data (zone data vs. creature data vs. item data). Wikipedia consistently uses "ruutani" (lowercase). The *-uu-* long vowel is confirmed by *Fuunid*. **Confidence: Low–Moderate** for *Ruutani* as a genuine Hara'ni word; the double-u spelling is preferred but the discrepancy is now confirmed as a genuine Blizzard inconsistency rather than a wiki error
-- [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
-- [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
+- [x] Add missing vocabulary entries from Midnight content (lightwood, Twilight's Blade, Darkwell cross-reference)
+- [x] Fix HTML navigation issues (titan-forged duplicate nav, zandali missing nav, missing cross-references)
+- [x] Add Midnight entries to Thalassian and Shath'Yar HTML vocabularies
+- [x] Add cross-navigation footer to Zandali, Haranir, Thalassian HTML vocabularies
+- [x] Add missing eredun-draenei-comparative.html link to Tol'vir HTML vocabulary
+- [x] Clean up TODO.md (deduplicate and condense from 349 to ~60 lines)
