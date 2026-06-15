@@ -25,6 +25,9 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 |------|-------|----------------|
 | A'dal | (name of a Naaru) | May carry meaning in Draenei; uncertain. |
 | K'ure | (name of a Naaru) | May carry meaning in Draenei; uncertain. |
+| K'ara | (name of a Naaru) | Naaru aboard the Exodar (Legion content). |
+| M'uru | (name of a Naaru) | Dark Naaru; captured by Blood Knights in TBC, drained of Light, sacrificed to reignite the Sunwell. Most narratively significant dark Naaru. |
+| O'ros | (name of a Naaru) | Naaru aboard the Exodar (TBC). |
 | Naaru | (the beings of Light) | May not be a Draenei word per se; possibly self-designation. |
 
 ## People / Groups

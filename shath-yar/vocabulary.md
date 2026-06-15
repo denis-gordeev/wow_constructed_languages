@@ -82,6 +82,41 @@ If *-daar* is an Arabic design artifact (as argued in ethereal/grammar.md), then
 
 **Confidence: Very Low–Low** for a genuine in-universe connection between *-aar* and *-daar*. The transmission mechanism through the Shadowguard is plausible, but the analysis is undermined by the possibility that *-daar* itself is an Arabic design artifact rather than a genuine ethereal morpheme. If *-daar* is not a genuine morpheme, then *-aar* in *domanaar* is most likely coincidental or an independent Void/Shath'Yar element.
 
+## Naaru Names: Cross-Reference with Shath'Yar Naming
+
+The Naaru — beings of Holy Light — consistently use names that follow the **Shath'Yar initial-apostrophe convention** (consonant-apostrophe-vowel sequence). This is notable because Naaru are the antithesis of Old Gods and the Void, yet their names are morphologically indistinguishable from Shath'Yar names. Three interpretations are possible:
+
+1. **Naaru names are genuinely Shath'Yar**: Naaru may have originated from or been named by entities that spoke a precursor to Shath'Yar, and the Light-Void dichotomy postdates the naming tradition.
+2. **Naaru names predate Shath'Yar**: The apostrophe-marked convention may be a cosmic/universal naming pattern that both Naaru and Old Gods inherited independently.
+3. **Blizzard design convergence**: The apostrophe convention is simply Blizzard's aesthetic for "cosmic/otherworldly" names, applied to both Light and Void entities without in-universe significance.
+
+### Attested Naaru Names
+
+| Name | IPA | Context | Notes |
+|------|-----|---------|-------|
+| A'dal | /ˈɑːdɑːl/ | Sha'tar leader in Shattrath (TBC) | The most iconic Naaru; *A'* initial + *-dal* |
+| K'ure | /ˈkuːreɪ/ | Naaru aboard Oshu'gun (WoD/Lore) | Ancient Naaru; *K'* initial + *-ure* |
+| K'ara | /ˈkɑːrɑː/ | Naaru aboard the Exodar (Legion) | *K'* initial + *-ara*; parallels *K'ure* with same initial consonant |
+| M'uru | /ˈmuːruː/ | Dark Naaru, Sunwell Plateau (TBC) | The most narratively significant dark Naaru; captured by the Blood Knights, drained of Light, eventually restored and sacrificed to reignite the Sunwell. *M'* initial + *-uru* |
+| O'ros | /ˈoʊrɒs/ | Naaru aboard the Exodar (TBC) | *O'* initial + *-ros* |
+| L'ura | /ˈluːrɑː/ | Dark Naaru (Legion, Midnight) | See Midnight section above. *L'* initial + *-ura*; corrupted and released by Xal'atath |
+
+### Lothraxion
+
+**Lothraxion** is a unique case: a member of the Army of the Light who has been infused with Light energy, serving as "high commander of the Vanguard" in Midnight. His name lacks the apostrophe convention entirely and follows a Latinate morphological pattern (*Loth-* + *-raxion*), more similar to Eredun/Draenei naming (*Loth* as in *Lothar*) than to Naaru or Shath'Yar. He may not be a Naaru at all but a Light-infused being of another race.
+
+### Analysis
+
+| Feature | Naaru Names | Old God Names | Assessment |
+|---------|------------|---------------|------------|
+| Initial apostrophe | All 6 names | N'Zoth, C'Thun, Y'Shaarj | Shared pattern |
+| C'V(C) structure | All 6 names | Most Old God names | Shared pattern |
+| Apostrophe as morpheme boundary | Likely | Likely | Shared pattern |
+| Semantic content of initial element | Unknown | Unknown (possibly entity-designator) | Cannot assess |
+| Relationship to Void | Opposed | Aligned | Paradoxical if names are Shath'Yar |
+
+**Confidence: Low–Medium** that Naaru names reflect genuine Shath'Yar naming conventions rather than Blizzard design convergence. The systematic parallel (all Naaru use the convention) is stronger than a coincidence would predict, but the Light-Void opposition makes in-universe transmission unlikely unless the naming convention predates the Light-Void split or is a universal cosmic naming pattern.
+
 ## Attested Phrases
 
 | Phrase | Translation | Notes |

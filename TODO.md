@@ -308,4 +308,23 @@
 - [x] Fix missing h3 CSS in vocabulary.html files — **COMPLETED**: added h3 style to earthen/vocabulary.html, shalassian/vocabulary.html, shath-yar/vocabulary.html
 - [x] Fix missing a:hover in titan-forged-comparative.html — **COMPLETED**: added `a:hover { color: #1a237e; }` consistent with other comparative pages
 - [x] Normalize tolvir/vocabulary.html CSS — **COMPLETED**: rewrote from dark theme with CSS custom properties and sans-serif font to standard light theme with serif font matching all other vocabulary.html files; added nav bar, section IDs, and cross-navigation footer
+
+## Autowork Round 2026-06-15
+
+- [x] Add Naaru names (A'dal, K'ure, K'ara, M'uru, O'ros, L'ura) cross-reference section to shath-yar/vocabulary.md and shath-yar/vocabulary.html — **COMPLETED**: all six Naaru names documented with Shath'Yar apostrophe-pattern analysis; three interpretations evaluated (genuine Shath'Yar, universal cosmic naming, Blizzard design convergence); Lothraxion noted as Naaru-adjacent name without apostrophe convention; **Confidence: Low–Medium** for genuine in-universe connection
+- [x] Add M'uru and O'ros to draenei/vocabulary.md and draenei/vocabulary.html — **COMPLETED**: both Naaru names added with IPA and context (M'uru = dark naaru, Sunwell Plateau; O'ros = Exodar naaru); K'ara already in HTML but now also added to markdown vocabulary
+- [x] Fix example-sentences.html warning/reminder blocks — **COMPLETED**: all four warning blocks now consistently list all 26 languages with example sentences (Darnassian, Thalassian, Orcish, Shalassian, Draenei, Eredun, Zandali, Taur-ahe, Dwarven, Titan, Vrykul, Nazja, Tol'vir, Drust, Mogu, Sethrak, Gnomish, Common, Gutterspeak, Shath'Yar, Kalimag, Earthen, Nerubian, Qiraji, Ethereal, Hara'ni)
+- [x] Add introductory paragraph for Ethereal section in example-sentences.html — **COMPLETED**: added standard intro with link to ethereal/grammar.md and key patterns summary (*-esh* locative, *-ii* plural, apostrophe boundaries, Arabic-inspired patterns, *Nexus-* prefix)
+- [x] Fix README.md example-sentences description — **COMPLETED**: added Hara'ni to the list of languages with example sentences
+- [x] Add Naaru naming note to alien-comparative.html — **COMPLETED**: added paragraph noting that all six Naaru names follow the Shath'Yar initial-apostrophe C'V(C) pattern, with link to full analysis in shath-yar/vocabulary.html
+- [x] Remove vestigial index.html files — **COMPLETED**: deleted pandaren/index.html and eredun/index.html (pre-restructuring monolithic files duplicating content now in standard files; not linked from any navigation)
+- [x] Check warcraft.wiki.gg for new data — **BLOCKED**: warcraft.wiki.gg still inaccessible (transport errors); Wikipedia Midnight article reviewed — all linguistically relevant content already documented; no new Hara'ni, Earthen, or Nerubian names found
+
+### Remaining Open Items
+
+- [ ] Add audio pronunciation guide links where available — **BLOCKED**: no official WoW pronunciation guide found; Blizzard has never published an official pronunciation guide for constructed languages
+- [ ] Investigate whether the *-naxx* / *-nax* suffix uses *x* = /x/ (velar fricative) or /ks/ — requires phonological guidance from Blizzard or additional data points
+- [ ] Resolve the Rutaani/Ruutani spelling discrepancy — **DEEPENED**: The Harandar zone wiki infobox lists "Ruutani" as a race; the Midnight Creatures section lists "Rutaani" (IconSmall_Rutaani.gif, IconSmall_LightRutaani.gif); Amarakk's item icon (inv_12_jewelry_rutaani_ring_red) uses single-u. The discrepancy exists within Blizzard's own game data (zone data vs. creature data vs. item data). Wikipedia consistently uses "ruutani" (lowercase). The *-uu-* long vowel is confirmed by *Fuunid*. **Confidence: Low–Moderate** for *Ruutani* as a genuine Hara'ni word; the double-u spelling is preferred but the discrepancy is now confirmed as a genuine Blizzard inconsistency rather than a wiki error
+- [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
+- [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
 - [x] Check warcraft.wiki.gg for new data — **BLOCKED**: warcraft.wiki.gg still inaccessible (transport errors); Wikipedia Midnight article reviewed — no new linguistic data beyond what was already documented
