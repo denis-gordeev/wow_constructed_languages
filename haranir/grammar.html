@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hara'ni Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="description.html">Description</a>
+<a href="grammar.html">Grammar</a>
+<a href="vocabulary.html">Vocabulary</a>
+</nav>
+
+<h1>Hara'ni Grammar</h1>
+
+<p>Grammar rules below are <strong>inferred from attested examples only</strong>. The Hara'ni language has no attested sentences — the entire corpus consists of proper names, place names, and cultural designations from <em>The War Within</em> (2024) and <em>Midnight</em> (2026). Patterns are noted where multiple examples support a rule. Speculative extensions are marked <span class="uncertain">[speculative]</span>.</p>
+
+<!-- ═══ Phonology ═══ -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory (Observed)</h3>
+
+<table>
+<thead>
+<tr><th></th><th>Labial</th><th>Alveolar</th><th>Palato-alv.</th><th>Palatal</th><th>Velar</th><th>Glottal</th></tr>
+</thead>
+<tbody>
+<tr><td>Stops</td><td></td><td>t d</td><td></td><td></td><td>k g</td><td></td></tr>
+<tr><td>Fricatives</td><td></td><td>s <span class="ipa">θ</span></td><td><span class="ipa">ʃ ʒ</span></td><td></td><td></td><td>h</td></tr>
+<tr><td>Affricates</td><td></td><td></td><td><span class="ipa">tʃ dʒ</span></td><td></td><td></td><td></td></tr>
+<tr><td>Nasals</td><td>m</td><td>n</td><td></td><td></td><td>ng (<span class="ipa">/ŋ/</span>)</td><td></td></tr>
+<tr><td>Approximants</td><td></td><td>r</td><td></td><td>y (<span class="ipa">/j/</span>)</td><td></td><td></td></tr>
+<tr><td>Laterals</td><td></td><td>l</td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+<h3 id="notable-phonological-features">Notable Phonological Features</h3>
+
+<ol>
+<li><strong>High <span class="ipa">/h/</span> frequency</strong>: Six of ~15 attested Hara'ni names contain <span class="ipa">/h/</span> (<em>Hagar</em>, <em>Hannan</em>, <em>Harandar</em>, <em>Hara'ni</em>, <em>On'hiea</em>, <em>Ran'hune</em>). This is unusually high compared to other WoW languages. <span class="ipa">/h/</span> may be a phonologically salient consonant in Hara'ni, possibly reflecting a connection to breath/spirit vocabulary (the Haranir are associated with bat-like shapeshifting and the "call from deep within").</li>
+
+<li><strong>Xhosa-accented English</strong>: The Haranir use the same Xhosa-accented English as the Zandalari trolls (confirmed by warcraft.wiki.gg/wiki/Haranir). This is a critical phonological connection — the voice actor for Amarakk (Ike Amadi) also voices Rokhan, a Darkspear troll. The shared accent implies that Hara'ni and Zandali share phonological features inherited from their common proto-troll ancestry, including:
+  <ul>
+    <li><strong>Click consonants or click-like articulations</strong> (Xhosa is famous for its click consonants; if the accent reflects genuine phonological features, Hara'ni may have had click consonants that were lost or modified in the name corpus)</li>
+    <li><strong>Tonal or pitch-accent patterns</strong> (Xhosa is a tonal language; Hara'ni may preserve tonal distinctions not reflected in the orthography)</li>
+    <li><strong>Syllable timing and rhythm</strong> (the "accent" perceived by players reflects prosodic patterns shared with Zandali)</li>
+  </ul>
+  The Xhosa accent may be a Blizzard design choice indicating phonological affinity between Hara'ni and Zandali (both derive from the proto-troll/elven language), or may simply be a production convenience (reusing the same voice direction). <strong>Confidence: Moderate</strong> that the shared accent reflects a genuine in-universe phonological connection rather than mere production convenience, given the confirmed genetic relationship between Haranir and dark trolls/night elves.
+</li>
+
+<li><strong>Apostrophe as morpheme boundary</strong>: The apostrophe in Hara'ni names consistently marks compound boundaries between two content morphemes (e.g., <em>Ter'</em> + <em>-kova</em>, <em>Nye'</em> + <em>-rangi</em>). This is identical to the medial apostrophe pattern in nerubian and qiraji, and distinct from the initial apostrophe pattern in Shath'Yar.</li>
+
+<li><strong>Geminate consonants and long vowels</strong>: <em>Hannan</em> (<em>-nn-</em>) and <em>Amarakk</em> (<em>-kk-</em>) contain geminate consonants. <em>Fuunid</em> (<em>-uu-</em>) and <em>Ruutani</em> (<em>-uu-</em>) contain long/geminate <span class="ipa">/uː/</span>. If these are phonologically significant (not merely orthographic), Hara'ni would share geminate consonants with qiraji (<em>-naxx</em>) and long vowels would be a distinctive feature. The two <em>-uu-</em> attestations confirm that long <span class="ipa">/uː/</span> is a genuine phonological feature.</li>
+
+<li><strong>Syllable simplicity</strong>: Hara'ni names tend toward simple CV or CVC syllables. The most complex name in the corpus is <em>Na'layro</em> (<span class="ipa">/nɑːˈleɪroʊ/</span>), which still follows a straightforward CVC.CV.CV pattern after the apostrophe boundary.</li>
+
+<li><strong>Palato-alveolar consonants</strong>: <em>Shul'ka</em> (<span class="ipa">/ʃ/</span>), <em>Chonon</em> (<span class="ipa">/tʃ/</span>), <em>Or'jan</em> (<span class="ipa">/dʒ/</span>), <em>Zhakir</em> (<span class="ipa">/ʒ/</span>) introduce a new series of palato-alveolar consonants not previously attested. These may reflect a phonological subsystem used primarily in compound-forming elements or religious vocabulary.</li>
+
+<li><strong>Dental fricative <span class="ipa">/θ/</span></strong>: <em>Har'athir</em> and <em>Dreth'amar</em> introduce <span class="ipa">/θ/</span> (th-sound), a relatively rare phoneme in WoW constructed languages. In Hara'ni, <span class="ipa">/θ/</span> appears in compound suffixes.</li>
+</ol>
+
+<h3 id="vowel-system">Vowel System</h3>
+
+<table>
+<thead>
+<tr><th></th><th>Front</th><th>Central</th><th>Back</th></tr>
+</thead>
+<tbody>
+<tr><td>High</td><td>i</td><td></td><td>u</td></tr>
+<tr><td>Mid</td><td>e</td><td></td><td>o</td></tr>
+<tr><td>Low</td><td></td><td>a</td><td></td></tr>
+</tbody>
+</table>
+
+<p>Vowel distribution skews heavily toward <span class="ipa">/a/</span> and <span class="ipa">/i/</span>, with <span class="ipa">/e/</span> moderate and <span class="ipa">/o/</span>, <span class="ipa">/u/</span> less common.</p>
+
+<p>The sequence <span class="ipa">/kw/</span> in <em>Har'kuai</em> suggests that <span class="ipa">/w/</span> may function as a semivowel in consonant clusters, or that <em>kuai</em> represents a diphthong <span class="ipa">/kwaɪ/</span>.</p>
+
+<h3 id="stress-pattern">Stress Pattern</h3>
+
+<p>No canon pronunciation guide exists for Hara'ni names. Stress is inferred from the morphological structure:</p>
+
+<ul>
+<li><em>Harandar</em> — likely stress on second syllable: ha-RAN-dar (paralleling Earthen <em>Dornogal</em> = dor-NO-gal)</li>
+<li><em>Hara'ni</em> — likely stress on first syllable: HA-ra-ni (language name typically stresses the root)</li>
+<li>Compound names with apostrophe — stress likely falls on the second element: ter-KO-va, ran-HU-ne</li>
+</ul>
+
+<p class="note">These stress patterns are entirely speculative.</p>
+
+<!-- ═══ Morphology ═══ -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="hara-root">The <em>Hara-</em> Root</h3>
+
+<p>The <em>Hara-</em> root is the most securely attested morpheme in Hara'ni, appearing in five independent attestations:</p>
+
+<table>
+<thead>
+<tr><th>Name</th><th><em>Hara-</em> Context</th><th>Proposed Function</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Haranir</em></td><td><em>Hara-</em> + <em>-nir</em></td><td><span class="inferred">Ethnonym: "Hara-people"</span></td></tr>
+<tr><td><em>Hara'ni</em></td><td><em>Hara'</em> + <em>-ni</em></td><td><span class="inferred">Language name: "Hara-tongue"</span></td></tr>
+<tr><td><em>Harandar</em></td><td><em>Haran-</em> + <em>-dar</em></td><td><span class="inferred">Toponym: "Hara-land"</span></td></tr>
+<tr><td><em>Hara'ti</em></td><td><em>Hara'</em> + <em>-ti</em></td><td><span class="inferred">Faction: "Hara-group"</span></td></tr>
+<tr><td><em>Aln'hara</em></td><td><em>Aln'</em> + <em>-hara</em></td><td><span class="inferred">Concept: "[Aln]-call"</span></td></tr>
+</tbody>
+</table>
+
+<p>The <em>Hara-</em> root may have two related meanings:</p>
+<ol>
+<li><strong>"People/we"</strong> — as the ethnonymic root in <em>Haranir</em>, <em>Hara'ni</em>, <em>Harandar</em>, <em>Hara'ti</em></li>
+<li><strong>"Call/song"</strong> — as the reversed form <em>-hara</em> in <em>Aln'hara</em> ("the call from deep within")</li>
+</ol>
+
+<p>If both meanings derive from a single root, the semantic connection would be: "those who hear the call" → "the called people" → "we, the people." This is semantically coherent but entirely speculative.</p>
+
+<p class="note"><span class="uncertain">[speculative]</span> The <em>Hara-</em> root may be related to the Haranir's ability to hear "Aln'hara" — the call from deep within the world. If <em>hara</em> originally meant "call" or "song," the ethnonym <em>Haranir</em> would mean "the called ones" or "those who hear the call," with <em>Hara'ni</em> = "language of the called" and <em>Harandar</em> = "land of the called." This analysis would unify all five attestations under a single semantic root.</p>
+
+<p><strong>Confidence: Moderate</strong> for <em>Hara-</em> as a genuine Hara'ni morpheme.</p>
+
+<p>Note: <em>Har'</em> = "village" (confirmed) may be related to <em>Hara-</em> or may be a separate morpheme. The semantic ambiguity remains: if <em>Har'</em> derives from <em>Hara-</em>, then <em>Har'alnor</em> = "village-of-the-people twilight" rather than just "village of twilight." Most parsimonious analysis: <em>Har'</em> and <em>Hara-</em> are related but distinct forms, with <em>Har'</em> being a reduced compound prefix meaning "village" and <em>Hara-</em> being a full root meaning "people/we/call."</p>
+
+<h3 id="har-root">The <em>Har'</em> Root: "Village/Settlement" (CONFIRMED)</h3>
+
+<p>The most significant morphological discovery from the warcraft.wiki.gg Hara'ni language page is the <strong>confirmed translation</strong> of <em>Har'</em> = "village/settlement" in four village names:</p>
+
+<table>
+<thead>
+<tr><th>Name</th><th>Decomposition</th><th>Confirmed Translation</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Har'alnor</em></td><td><em>Har'</em> + <em>-alnor</em></td><td>Village of Twilight</td></tr>
+<tr><td><em>Har'athir</em></td><td><em>Har'</em> + <em>-thir</em></td><td>Village of Memory</td></tr>
+<tr><td><em>Har'kuai</em></td><td><em>Har'</em> + <em>-kuai</em></td><td>Village of Rain</td></tr>
+<tr><td><em>Har'mara</em></td><td><em>Har'</em> + <em>-mara</em></td><td>Village of Balance</td></tr>
+</tbody>
+</table>
+
+<p>This is the <strong>most securely attested morpheme in Hara'ni</strong> — four independent attestations, all with confirmed official translations.</p>
+
+<p><strong>Relationship to <em>Hara-</em> root</strong>: <em>Har'</em> (village) may be related to <em>Hara-</em> (the ethnonymic root in <em>Haranir</em>, <em>Hara'ni</em>, <em>Hara'ti</em>). If <em>Hara-</em> = "people/we" and <em>Har'</em> = "village", the semantic connection would be: "village" = "place of the people." However, the apostrophe in <em>Har'</em> (marking it as a compound prefix) vs. its absence in <em>Hara-</em> (a free root) suggests different morphological status. They may instead be homophonous morphemes with unrelated meanings.</p>
+
+<p><strong>Confidence: High</strong> for <em>Har'</em> = "village/settlement" (four confirmed translations).</p>
+
+<h3 id="shul-root">The <em>Shul'</em> Root: "Shadow" (Speculative)</h3>
+
+<p>If <em>Shul'ka</em> = "Hunters of Shadows" (confirmed translation), the decomposition <em>Shul'</em> + <em>-ka</em> yields <em>Shul'</em> = <span class="inferred">"shadow"</span> and <em>-ka</em> = <span class="inferred">"hunter(s)"</span> or agentive suffix. This is the most natural morpheme break, but the word could also be indivisible.</p>
+
+<p>The wiki expands the Shul'ka's role: they are "hunters, healers, and guides" — not merely warriors. This is consistent with the agentive/personification interpretation of <em>-ka</em> (the Shul'ka are not only hunters but also those who embody the shadow in a protective/guiding capacity).</p>
+
+<p>In Midnight, the Shul'ka's role extends beyond patrolling the Rift of Aln. The <strong>Dreamrift</strong> raid depicts the Shul'ka hunting <strong>Chimaerus the Undreamt God</strong> — an entity that "feasted on the void of pain and madness left behind in the rift after Aln'hara was taken" — in the permeable veil between primordial dreams and reality, and battling "half-birthed abominations that lash out against existence itself." This expanded role is consistent with <em>Shul'ka</em> = "Hunters of Shadows" — the "shadows" they hunt encompass not only the Alnscorned in the Rift of Aln but also voidspawn and undreamt entities in the Dreamrift.</p>
+
+<p><strong class="uncertain">Confidence: Low–Moderate</strong> for <em>Shul'</em> = "shadow" and <em>-ka</em> = "hunter(s)/agentive".</p>
+
+<h3 id="ka-suffix">The <em>-ka</em> / <em>-kah</em> Suffix: Deepened Analysis</h3>
+
+<p>The <em>-ka</em> suffix appears in three contexts, enriched by the Morta'ka and Lu'kah data:</p>
+
+<table>
+<thead>
+<tr><th>Name</th><th>Context</th><th>Proposed Gloss</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Shul'ka</em></td><td>Order of warriors who sever connection to Aln'hara</td><td>"Hunters of Shadows" (confirmed)</td></tr>
+<tr><td><em>Morta'ka</em></td><td><strong>Elemental</strong> manifestation; "shadow of the first Hara'ti to fall to the madness of the Rift"</td><td><span class="inferred">"[Morta-] entity"</span> (no confirmed gloss)</td></tr>
+<tr><td><em>Lu'kah</em></td><td>Zur'ashar painter-storyteller (confirmed Haranir)</td><td><span class="inferred">"[Lu-] entity"</span> (no confirmed gloss)</td></tr>
+</tbody>
+</table>
+
+<p>Morta'ka is confirmed as an <strong>Elemental</strong> (not Haranir) on the wiki, and is "said to be the shadow of the first Hara'ti to fall to the madness of the Rift." Lu'kah is a confirmed Haranir and Zur'ashar member (painter-storyteller). The <em>-kah</em> vs <em>-ka</em> variation may reflect phonological conditioning or an epenthetic <span class="ipa">/h/</span>.</p>
+
+<ol>
+<li><strong>-ka = "hunter(s)"</strong>: Confirmed for <em>Shul'ka</em> but semantically inconsistent with <em>Morta'ka</em> (which is an elemental shadow/echo, not a hunter). <strong class="uncertain">Plausibility: Low.</strong></li>
+<li><strong>-ka = "entity/personification of [X]"</strong>: A broader agentive/personification suffix. <em>Shul'ka</em> = "those who personify shadow" → "Hunters of Shadows." <em>Morta'ka</em> = "the personification of [Morta-]" → "the Sundered Echo" (a manifested shadow of the first fallen Hara'ti). Semantically consistent with both attestations. <strong>Plausibility: Low–Moderate.</strong></li>
+<li><strong>-ka = "shadow/echo"</strong>: Matches Morta'ka's nature but conflicts with <em>Shul'ka</em> = "Hunters of Shadows" (not "shadow of shadow"). <strong class="uncertain">Plausibility: Very Low.</strong></li>
+<li><strong>-ka = "severed/ritually bonded one"</strong>: Both <em>Shul'ka</em> and <em>Morta'ka</em> are connected to the severance ritual. <strong class="uncertain">Plausibility: Very Low–Low.</strong></li>
+</ol>
+
+<p>The most defensible interpretation is a broad agentive/personification suffix ("one who is [X]" or "entity of [X]"), with "hunter" being the specific contextual gloss for <em>Shul'ka</em>. The Morta'ka data strengthens the personification interpretation.</p>
+
+<p><strong class="uncertain">Confidence: Very Low–Low</strong> for <em>-ka</em> as a genuine Haranir agentive/personification suffix (three attestations; Morta'ka being an elemental named by Haranir rather than a Haranir itself complicates the analysis; Lu'kah adds a third data point but with unknown gloss).</p>
+
+<h3 id="village-suffixes">Village Suffix Vocabulary</h3>
+
+<p>The four confirmed village translations provide the first Hara'ni vocabulary items with confirmed meanings:</p>
+
+<table>
+<thead>
+<tr><th>Suffix</th><th>Confirmed Meaning</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td><em>-alnor</em></td><td>"twilight"</td><td>May decompose further (<em>al-</em> + <em>-nor</em>) or be indivisible</td></tr>
+<tr><td><em>-athir</em></td><td>"memory"</td><td>Possible connection to <em>Hara'ti</em> via shared <em>-th-</em> / <em>-t-</em> consonant</td></tr>
+<tr><td><em>-kuai</em></td><td>"rain"</td><td>Contains <span class="ipa">/kw/</span> cluster; likely single morpheme</td></tr>
+<tr><td><em>-mara</em></td><td>"balance"</td><td>Possible: <em>mar-</em> + <em>-a</em> or indivisible. Note: <em>-mara</em> parallels <em>Har'mara</em> = "Village of Balance"</td></tr>
+</tbody>
+</table>
+
+<h3 id="aln-root">The <em>Aln-</em> Root</h3>
+
+<p>The <em>Aln-</em> root has four attestations, making it one of the more securely attested morphemes in Hara'ni. <em>Aln</em> is a place — the Rift of Aln in Harandar and the Emerald Dream, formed when the Worldsoul was taken from the Cradle. This means <em>Aln</em> likely means <span class="inferred">"the deep/source/rift"</span> rather than just "deep/sacred." The attestations:</p>
+
+<table>
+<thead>
+<tr><th>Name</th><th><em>Aln-</em> Context</th><th>Proposed Function</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Aln'hara</em></td><td><em>Aln'</em> + <em>-hara</em></td><td>The Worldsoul of Azeroth — <span class="inferred">"song from the deep"</span> or <span class="inferred">"call from the source"</span></td></tr>
+<tr><td><em>Alndust</em></td><td><em>Aln-</em> + <em>-dust</em></td><td>Material: <span class="inferred">"dust from the deep/source"</span> — <strong>confirmed to be Azerite in particle form</strong> (warcraft.wiki.gg: "Alndust" redirects to "Azerite")</td></tr>
+<tr><td><em>Alnscorned</em></td><td><em>Aln-</em> + <em>-scorned</em></td><td>Mixed Hara'ni-English: <span class="inferred">"scorned/corrupted by the deep"</span></td></tr>
+<tr><td><em>Rift of Aln</em></td><td><em>Aln</em></td><td>The physical location — the source</td></tr>
+</tbody>
+</table>
+
+<p><strong>Alndust = Azerite</strong>: The wiki confirms that Alndust is "a particulate used by the haranir for their magic and said to have been created when the worldsoul was taken from her cradle in Harandar," and that "it is implied to be Azerite in particle form. Many spells related to Alndust use Azerite icons, and the graphics effects for things affected by Alndust have the same blue and yellow color scheme as Azerite." This dramatically recontextualizes <em>Alndust</em>: the Haranir name for Azerite particles combines <em>Aln-</em> (the deep/source/Worldsoul) with <em>-dust</em> (the particulate form). Since Azerite is literally the crystallized blood of the Worldsoul, <em>Aln-</em> in <em>Alndust</em> most likely refers to the Worldsoul's essence itself, strengthening the gloss <span class="inferred">"source/essence"</span> for <em>Aln</em>.</p>
+
+<p><strong>Aln as a verb</strong>: The quest name "The Greater They Aln" (from Amarakk's quest list on warcraft.wiki.gg) uses <em>Aln</em> as a <strong>verb</strong> in a Common/Hara'ni code-switched title. "The Greater They Aln" appears to parallel "the greater they [are/move/grow]," where <em>Aln</em> substitutes for a verb meaning something like "to be affected by the deep," "to undergo the Aln transformation," or "to descend into the rift." This is the <strong>first evidence of <em>Aln</em> functioning as a verb</strong> rather than only as a nominal root. A second quest from the same NPC, "The Foundation of Aln," uses <em>Aln</em> as a noun (consistent with all previous attestations). <span class="uncertain">[speculative]</span> If <em>Aln</em> can function as both noun ("the deep/source") and verb ("to go deep / to be consumed by the deep"), this would be typologically natural — many languages derive verbs from locative nouns.</p>
+
+<p>The <em>Aln-</em> root likely means <span class="inferred">"deep/source/rift/essence,"</span> consistent with all attestations. The absence of apostrophe in <em>Alndust</em> and <em>Alnscorned</em> may reflect phonological conditioning: the following consonant eliminates the need for a glottal stop boundary marker, whereas <em>Aln'hara</em> requires one before <span class="ipa">/h/</span>.</p>
+
+<p class="note"><span class="uncertain">[speculative]</span> If <em>Aln-</em> = "deep/source/rift/essence," it may be connected to the Haranir's subterranean existence and their goddess Aln'hara (the Worldsoul). The root could originally have meant "depth" (physical depth of Harandar) and acquired a sacred connotation through association with the Worldsoul and the World Tree roots. The Alndust = Azerite connection reinforces this: the Worldsoul's crystallized blood is "dust of the deep/source."</p>
+
+<p><strong>Confidence: Moderate–High</strong> for <em>Aln</em> = "deep/source/rift/essence" (four attestations, confirmed in-game geography, Alndust = Azerite confirmation, and <em>Aln</em> used as a verb in quest title).</p>
+
+<p class="note"><span class="uncertain">[speculative]</span> The quest title <strong>"The Greater They Aln"</strong> (Amarakk's quest line) uses <em>Aln</em> as a verb in a Common-language sentence — the only known instance of <em>Aln</em> functioning verbally. If <em>Aln</em> = "to dream" or "to grow deep", the root would have both nominal ("deep/source/dream/essence") and verbal ("to dream" / "to grow deep") functions. The Dreamrift Adventure Guide confirms that "the dreams of Aln'hara took form" in the Rift, supporting the "dream" gloss. However, this is a single attestation in a mixed Hara'ni-English quest title, and the "verb" may be a Blizzard translation choice rather than a genuine Hara'ni grammatical function. <strong class="uncertain">Confidence: Very Low–Low</strong> for <em>Aln</em> as a verb.</p>
+
+<h3 id="suffix-set">The <em>-nir</em> / <em>-ni</em> / <em>-ti</em> Suffix Set</h3>
+
+<p>Three suffixes appear to form related nominal categories:</p>
+
+<table>
+<thead>
+<tr><th>Suffix</th><th>Attestation</th><th>Proposed Meaning</th></tr>
+</thead>
+<tbody>
+<tr><td><em>-nir</em></td><td><em>Haranir</em></td><td><span class="inferred">"people" / collective ethnonym</span></td></tr>
+<tr><td><em>-ni</em></td><td><em>Hara'ni</em></td><td><span class="inferred">"language" / "tongue"</span></td></tr>
+<tr><td><em>-ti</em></td><td><em>Hara'ti</em></td><td><span class="inferred">"group" / "faction" / "those who [do]"</span></td></tr>
+</tbody>
+</table>
+
+<p>These three suffixes may reflect a systematic nominal derivation pattern:</p>
+
+<table>
+<thead>
+<tr><th>Base</th><th>+ <em>-nir</em></th><th>+ <em>-ni</em></th><th>+ <em>-ti</em></th></tr>
+</thead>
+<tbody>
+<tr><td><em>Hara-</em></td><td><em>Haranir</em> (the people)</td><td><em>Hara'ni</em> (the language)</td><td><em>Hara'ti</em> (the faction)</td></tr>
+</tbody>
+</table>
+
+<p>If this pattern is productive, it would imply:</p>
+<ul>
+<li><em>-nir</em> = collective noun ("people of X")</li>
+<li><em>-ni</em> = language noun ("language/tongue of X")</li>
+<li><em>-ti</em> = agentive/collective ("those who X" or "X-group")</li>
+</ul>
+
+<p>The phonological similarity of <em>-nir</em>, <em>-ni</em>, and <em>-ti</em> (all contain alveolar nasal or stop + high vowel + possibly alveolar consonant) may reflect a common origin or a systematic suffix set.</p>
+
+<p><strong class="uncertain">Confidence: Low–Moderate</strong> for this suffix set as a systematic nominal derivation pattern.</p>
+
+<p>Note: <em>Ka'dani</em> (order of elite hunters from Har'athir) has the <em>-dani</em> ending which does not match <em>-nir</em>/<em>-ni</em>/<em>-ti</em>. However, if <em>-dani</em> = <em>-da-</em> + <em>-ni</em>, the <em>-ni</em> suffix would appear in a non-Hara-root context, supporting its productivity. Alternatively, <em>-dani</em> may be an unrelated suffix. <strong class="uncertain">Confidence: Very Low</strong> for <em>-ni</em> in <em>Ka'dani</em>.</p>
+
+<h3 id="dar-suffix">The <em>-dar</em> Toponymic Suffix</h3>
+
+<p><em>Harandar</em> contains the suffix <em>-dar</em>, which also appears in Earthen (<em>Dornogal</em>) and Arathi (<em>Beledar</em>, <em>Mereldar</em>) toponyms within Khaz Algar. See <a href="vocabulary.html">vocabulary.html</a> §8 for full cross-reference analysis.</p>
+
+<p>If <em>-dar</em> = <em>-dor</em> (Titan "land/realm"), then <em>Harandar</em> = <span class="inferred">"Hara-land"</span> — a toponym formed using a borrowed Titan-derived suffix. This would place Hara'ni toponymic conventions within the Khaz Algar areal sphere.</p>
+
+<p class="note"><span class="uncertain">[speculative]</span> The <em>-dar</em> suffix may have been borrowed from Earthen into Hara'ni during the Haranir's long residence in Khaz Algar, similar to how English borrowed Norman French toponymic elements.</p>
+
+<p><strong class="uncertain">Confidence: Low–Moderate</strong> for <em>-dar</em> as a borrowed toponymic suffix in Hara'ni.</p>
+
+<h3 id="ia-suffix">The <em>-ia</em> / <em>-a</em> Suffix — EFFECTIVELY DISPROVEN as Feminine</h3>
+
+<p>Wiki gender confirmation now shows that two of three <em>-ia</em>-ending Haranir names are male:</p>
+
+<table>
+<thead>
+<tr><th>Name</th><th>Ending</th><th>Gender</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Ruia</em></td><td><em>-ia</em></td><td><strong>Male</strong> (confirmed)</td><td>warcraft.wiki.gg/wiki/Lightwarden_Ruia: Gender = Male</td></tr>
+<tr><td><em>On'hiea</em></td><td><em>-iea</em></td><td><strong>Male</strong> (confirmed)</td><td>warcraft.wiki.gg IconSmall_Haranir_Male.gif</td></tr>
+<tr><td><em>Ney'leia</em></td><td><em>-eia</em></td><td>Female (confirmed)</td><td>warcraft.wiki.gg IconSmall_Haranir_Female.gif</td></tr>
+</tbody>
+</table>
+
+<p>With 2 of 3 <em>-ia</em>-ending names confirmed male, the <em>-ia</em> feminine suffix hypothesis is <strong>effectively disproven</strong>. The ending may be a gender-neutral nominal suffix, or may reflect Blizzard naming aesthetics with no morphological significance.</p>
+
+<p>The surface variation (-ia, -eia, -iea, -neia in <em>Shay'neia</em>) is most parsimoniously analyzed as stem + final <em>-a</em> (a general name suffix, not specifically feminine), where the preceding <em>i/e</em> belongs to the stem. The variation is in the stem, not the suffix.</p>
+
+<p><strong class="uncertain">Confidence: Very Low</strong> for <em>-ia</em> / <em>-a</em> as a genuine Haranir suffix of any kind. The pattern most likely reflects Blizzard naming aesthetics with no morphological significance in Hara'ni.</p>
+
+<h3 id="neia-endings">The <em>-neia</em> / <em>-leia</em> / <em>-iea</em> Endings: Decomposition Analysis</h3>
+
+<p>The Zur'ashar member <strong>Shay'neia</strong> adds a fourth <em>-ia</em>-variant ending to the corpus. Since the <em>-ia</em> feminine suffix hypothesis is now effectively disproven (2 of 3 names are male), the decomposition analysis is updated:</p>
+
+<table>
+<thead>
+<tr><th>Name</th><th>Ending</th><th>Preferred Decomposition</th><th>Stem</th><th>Final <em>-a</em></th></tr>
+</thead>
+<tbody>
+<tr><td><em>Shay'neia</em></td><td><em>-neia</em></td><td><em>Shay'nei</em> + <em>-a</em></td><td><em>-nei</em></td><td><em>-a</em></td></tr>
+<tr><td><em>Ney'leia</em></td><td><em>-leia</em></td><td><em>Ney'lei</em> + <em>-a</em></td><td><em>-lei</em></td><td><em>-a</em></td></tr>
+<tr><td><em>On'hiea</em></td><td><em>-iea</em></td><td><em>On'hi</em> + <em>-a</em></td><td><em>-i</em></td><td><em>-a</em></td></tr>
+<tr><td><em>Ruia</em></td><td><em>-ia</em></td><td><em>Rui</em> + <em>-a</em></td><td><em>-ui</em></td><td><em>-a</em></td></tr>
+</tbody>
+</table>
+
+<p>The variation is in the stem (<em>-nei</em>, <em>-lei</em>, <em>-i</em>, <em>-ui</em>), not the suffix. The final <em>-a</em> is most likely a <strong>gender-neutral name suffix</strong> (or coincidental Blizzard naming aesthetic) rather than a feminine marker. The surface forms result from stem-final vowels coalescing with the suffix <em>-a</em>.</p>
+
+<p><strong class="uncertain">Confidence: Very Low</strong> for final <em>-a</em> as a productive Hara'ni suffix; the pattern may simply reflect Blizzard naming aesthetics with no morphological significance.</p>
+
+<h3 id="ular-element">The <em>-ar</em> Element in <em>Ul'ar</em>: Potential Nerubian Loanword</h3>
+
+<p>The place name <em>Ul'ar</em> (<em>Ul'</em> + <em>-ar</em>) contains an <em>-ar</em> suffix that parallels the nerubian <em>-ar</em> faction suffix (Anub'ar, Nerub'ar, Hath'ar). Wildcamp Ul'ar is located near the City of Threads in Azj-Kahet, making cultural contact between Haranir and nerubians plausible. However, <em>-ar</em> is a common syllable across WoW languages, and no other Haranir-nerubian shared morphemes exist.</p>
+
+<p>If <em>-ar</em> were a nerubian loanword, the semantic shift from "brood/collective" (nerubian faction suffix) to "camp/settlement" (Hara'ni place-name element) would be natural. Na'layro's confirmed contact with outsiders provides a social mechanism for loanword transmission.</p>
+
+<p><strong class="uncertain">Confidence: Very Low</strong> for <em>-ar</em> as a nerubian loanword. See <a href="vocabulary.html">vocabulary.html</a> §6 for full analysis.</p>
+
+<h3 id="apostrophe-compounding">Apostrophe-Marked Compounding</h3>
+
+<p>The dominant morphological process in attested Hara'ni names is apostrophe-marked compounding:</p>
+
+<table>
+<thead>
+<tr><th>Pattern</th><th>Examples</th></tr>
+</thead>
+<tbody>
+<tr><td>CV'CV.CV</td><td><em>Ter'kova</em>, <em>Nye'rangi</em></td></tr>
+<tr><td>CVC'CV.CV</td><td><em>Ran'hune</em></td></tr>
+<tr><td>CV.CV'CVC</td><td><em>Na'layro</em></td></tr>
+<tr><td>CV.CV'CV.CV</td><td><em>Ney'leia</em>, <em>On'hiea</em></td></tr>
+<tr><td>CVC'CV</td><td><em>Ul'ar</em>, <em>Or'lay</em></td></tr>
+<tr><td>CV.CV'CVC</td><td><em>Aln'hara</em></td></tr>
+<tr><td>CV.CV'CV</td><td><em>Hara'ni</em>, <em>Hara'ti</em></td></tr>
+<tr><td>CV'CVC</td><td><em>Shul'ka</em>, <em>Or'jan</em></td></tr>
+<tr><td>CVC'VCVC</td><td><em>Dreth'amar</em></td></tr>
+<tr><td>CVC'VCC</td><td><em>Zur'ashar</em></td></tr>
+<tr><td>CV'CVCCV</td><td><em>Ka'dani</em></td></tr>
+<tr><td>CVC'VC</td><td><em>En'liahn</em></td></tr>
+<tr><td>CV.CV'VCV</td><td><em>Na'bala</em></td></tr>
+<tr><td>CVC'VVCV</td><td><em>Nai'theren</em></td></tr>
+<tr><td>CVC'VCV</td><td><em>Ahl'ua</em></td></tr>
+</tbody>
+</table>
+
+<p>All apostrophe positions are medial (between two content morphemes), consistent with nerubian and qiraji patterns. No initial apostrophes (Shath'Yar pattern) are attested.</p>
+
+<p>The compounding pattern appears to be [modifier/prefix] + [head/suffix], consistent with right-headed compounding in other WoW language families. However, the semantic content of most compound elements is unknown, so the headedness cannot be confirmed.</p>
+
+<!-- ═══ Confirmed Translations ═══ -->
+
+<h2 id="confirmed-translations">Confirmed Translations</h2>
+
+<h3 id="official-translations">Official Translation Evidence</h3>
+
+<p>The warcraft.wiki.gg Hara'ni language page provides the first confirmed Hara'ni translations:</p>
+
+<table>
+<thead>
+<tr><th>Hara'ni Word</th><th>Official Translation</th><th>Quest Source</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Shul'ka</em></td><td>"Hunters of Shadows"</td><td>The Hunter Awaits</td></tr>
+<tr><td><em>Aln'hara</em></td><td>"The Worldsoul of Azeroth"</td><td>Down the Rootways</td></tr>
+<tr><td><em>Har'alnor</em></td><td>"Village of Twilight"</td><td>Har'alnor, Village of Twilight</td></tr>
+<tr><td><em>Har'athir</em></td><td>"Village of Memory"</td><td>Har'athir, Village of Memory</td></tr>
+<tr><td><em>Har'kuai</em></td><td>"Village of Rain"</td><td>Har'kuai, Village of Rain</td></tr>
+<tr><td><em>Har'mara</em></td><td>"Village of Balance"</td><td>Har'mara, Village of Balance</td></tr>
+</tbody>
+</table>
+
+<p>These translations represent a paradigm shift in Hara'ni linguistics — from pure speculation to confirmed morphological analysis.</p>
+
+<!-- ═══ Syntax ═══ -->
+
+<h2 id="syntax">Syntax</h2>
+
+<ul>
+<li>No sentence-level attestation exists</li>
+<li>Word order cannot be determined</li>
+<li>The compounding pattern (modifier + head, with apostrophe boundary) is the only confirmed syntactic observation</li>
+<li>The language may follow a modifier-head structure in compounds, consistent with right-headed compounding in other WoW language families</li>
+</ul>
+
+<!-- ═══ Relationships ═══ -->
+
+<h2 id="relationships">Relationship to Other WoW Languages</h2>
+
+<h3 id="genetic-relationship">Confirmed Genetic Relationship to Elven/Troll Family</h3>
+
+<p><em>The Art of Midnight</em> (pg. 125) confirms: the Haranir split from dark trolls/night elves approximately 16,000 BDP and journeyed underground. This means Hara'ni is a <strong>deeply divergent branch of the proto-troll/elven language family</strong>.</p>
+
+<ul>
+<li>Hara'ni diverged from proto-elven before Darnassian, making it potentially the oldest attested branch</li>
+<li>16,000+ years of independent development have erased obvious cognate recognition</li>
+<li>No shared morphemes are confirmed with Darnassian, Thalassian, Nazja, or Zandali</li>
+<li>The Haranir use Xhosa-accented English like Zandalari trolls, suggesting possible phonological substrate</li>
+</ul>
+
+<p><strong>Confidence: High</strong> for genetic relationship (confirmed by lore); <strong class="uncertain">Very Low</strong> for specific cognate identification.</p>
+
+<h3 id="areal-features">Areal Features</h3>
+
+<p>Hara'ni shares three areal features with neighboring Khaz Algar languages:</p>
+
+<ol>
+<li><strong>The <em>-dar</em> toponymic suffix</strong> — shared with Earthen and Arathi, likely borrowed</li>
+<li><strong>Medial apostrophe compounding</strong> — shared with nerubian, but this is a widespread WoW convention</li>
+<li><strong>The <em>Har'</em> village-naming convention</strong> — <em>Har'</em> = "village" (confirmed) followed by an attribute suffix (<em>Har'alnor</em>, <em>Har'athir</em>, <em>Har'kuai</em>, <em>Har'mara</em>) has no parallel in other WoW language families, making it a distinctive Hara'ni feature</li>
+</ol>
+
+<h3 id="apostrophe-comparison">The Apostrophe Convention: Comparison</h3>
+
+<table>
+<thead>
+<tr><th>Feature</th><th>Hara'ni</th><th>Nerubian</th><th>Qiraji</th><th>Ethereal</th><th>Shath'Yar</th></tr>
+</thead>
+<tbody>
+<tr><td>Apostrophe position</td><td>Medial</td><td>Medial</td><td>Medial</td><td>Both</td><td>Initial</td></tr>
+<tr><td>Apostrophe frequency</td><td>Very high</td><td>Very high</td><td>High</td><td>Low</td><td>Very high</td></tr>
+<tr><td>Apostrophe function</td><td>Compound boundary</td><td>Compound boundary</td><td>Compound boundary</td><td>Compound boundary</td><td>Prefix boundary</td></tr>
+<tr><td><span class="ipa">/h/</span> frequency</td><td>Very high</td><td>Low</td><td>Low</td><td>Low</td><td>Low</td></tr>
+</tbody>
+</table>
+
+<p>The Hara'ni apostrophe pattern is structurally identical to nerubian and qiraji (medial compound boundary), but the languages share no confirmed morphemes. The most likely explanation is that the apostrophe convention is a widespread Blizzard design aesthetic for "alien" names, not evidence of in-universe linguistic contact.</p>
+
+<!-- ═══ Xhosa Comparison ═══ -->
+
+<h2 id="xhosa-comparison">Xhosa Phonological Comparison: Hara'ni and Zandali</h2>
+
+<p>The confirmed shared Xhosa accent (warcraft.wiki.gg/wiki/Haranir; Amarakk voiced by Ike Amadi, who also voices Rokhan the Darkspear troll) implies that Hara'ni and Zandali share phonological features inherited from their common proto-troll ancestry. This section compares the two name corpora for shared features that could reflect the proto-troll phonological substrate implied by the accent.</p>
+
+<h3 id="consonant-comparison">Consonant Inventory Comparison</h3>
+
+<table>
+<thead>
+<tr><th>Feature</th><th>Hara'ni</th><th>Zandali</th><th>Xhosa Parallel?</th></tr>
+</thead>
+<tbody>
+<tr><td>Stops</td><td>p b t d k g</td><td>p b t d k g</td><td>Xhosa has p t k with ejective/implosive variants</td></tr>
+<tr><td>Fricatives</td><td>s <span class="ipa">θ ʃ ʒ</span> h</td><td>s z <span class="ipa">ʃ</span> h f v</td><td>Xhosa has limited fricatives</td></tr>
+<tr><td>Affricates</td><td><span class="ipa">tʃ dʒ</span></td><td><span class="ipa">tʃ</span></td><td>Xhosa has ts dz <span class="ipa">tʃ dʒ</span></td></tr>
+<tr><td>Nasals</td><td>m n <span class="ipa">ŋ</span></td><td>m n</td><td>Xhosa has m n <span class="ipa">ɲ ŋ</span></td></tr>
+<tr><td>Approximants</td><td>r j w</td><td>r j w</td><td>Xhosa has w j</td></tr>
+<tr><td>Laterals</td><td>l</td><td>l</td><td>Xhosa has l</td></tr>
+<tr><td>Ejectives</td><td>—</td><td>—</td><td>Xhosa: <span class="ipa">pʼ tʼ kʼ</span></td></tr>
+<tr><td>Clicks</td><td>—</td><td>—</td><td>Xhosa: <span class="ipa">ǀ ǃ ǁ</span></td></tr>
+<tr><td>Implosives</td><td>—</td><td>—</td><td>Xhosa: <span class="ipa">ɓ ɗ</span></td></tr>
+</tbody>
+</table>
+
+<h3 id="shared-features">Shared Phonological Features (Potential Proto-Troll Substrate)</h3>
+
+<ol>
+<li><strong>Five-vowel system <span class="ipa">/a e i o u/</span></strong>: Both languages share this system identically — and it matches Xhosa's five-vowel system (<span class="ipa">/a ɛ i ɔ u/</span>). This is a strong candidate for proto-troll inheritance.</li>
+
+<li><strong>(C)V(C) syllable preference</strong>: Both favor simple syllable structures, consistent with Xhosa/Bantu preference for open syllables. Hara'ni has some initial clusters (Gn-, Dr-, Zh-) but these are rare; Zandali names also tend toward simple syllables (Zu-l'A-man, Ha-kkar, Pa-ku).</li>
+
+<li><strong>Apostrophe-marked morpheme boundaries</strong>: Both use apostrophe compounding extensively (Hara'ni: ~25/30+ names; Zandali: ~20/40+ names). If the apostrophe represents a glottal stop <span class="ipa">/ʔ/</span> or a former click position, this is a shared phonological feature. In Xhosa, morpheme boundaries are often phonologically salient.</li>
+
+<li><strong>High <span class="ipa">/a/</span> and <span class="ipa">/i/</span> frequency</strong>: Both show <span class="ipa">/a/</span> as the most frequent vowel, with <span class="ipa">/i/</span> second — consistent with Xhosa vowel distribution and many Bantu languages.</li>
+
+<li><strong>Palato-alveolar consonant series</strong>: Both have <span class="ipa">/ʃ/</span> (Hara'ni: Shul'ka; Zandali: Shadra, Sethraliss) and <span class="ipa">/tʃ/</span> (Hara'ni: Chonon, Chua; Zandali: possibly in Jani <span class="ipa">/dʒ/</span>). Xhosa also has this series.</li>
+
+<li><strong>Medial <span class="ipa">/r/</span></strong>: Both frequently use <span class="ipa">/r/</span> in non-initial position (Hara'ni: Harandar, Ter'kova; Zandali: Zandalar, Krag'wa), consistent with Xhosa which allows <span class="ipa">/r/</span> medially but not initially.</li>
+
+<li><strong>Lack of complex consonant clusters in core vocabulary</strong>: Both avoid clusters in most names, consistent with Xhosa syllable structure constraints.</li>
+</ol>
+
+<h3 id="divergent-features">Divergent Phonological Features (Likely Post-Divergence Innovations)</h3>
+
+<table>
+<thead>
+<tr><th>Feature</th><th>Hara'ni</th><th>Zandali</th><th>Analysis</th></tr>
+</thead>
+<tbody>
+<tr><td><span class="ipa">/h/</span> frequency</td><td>Very high (6+/30 names)</td><td>Low–Moderate (Hir'eek, Hakkar, Hash'ey)</td><td>Likely Hara'ni innovation; <span class="ipa">/h/</span> may have been reanalyzed as a phonologically salient consonant during subterranean isolation</td></tr>
+<tr><td>Geminate consonants / long vowels</td><td>Present (-nn-, -kk-, -uu-)</td><td>Absent</td><td>Hara'ni innovation; may reflect phonological elaboration in isolation</td></tr>
+<tr><td><span class="ipa">/θ/</span>, <span class="ipa">/ʒ/</span></td><td>Present (Har'athir, Zhakir)</td><td>Absent</td><td>Hara'ni innovation; <span class="ipa">/θ/</span> may derive from sound change <span class="ipa">/t/</span> → <span class="ipa">/θ/</span> before <span class="ipa">/i/</span></td></tr>
+<tr><td><span class="ipa">/f/</span>, <span class="ipa">/v/</span>, <span class="ipa">/z/</span></td><td>Rare</td><td>Common (Farraki, Vol'jin, Zul)</td><td>Zandali retention or innovation; absent from Hara'ni suggests loss in subterranean development</td></tr>
+<tr><td>Pre-nasalized stops</td><td>Absent</td><td>Present (Bwonsamdi bw-)</td><td>Zandali retention of proto-troll feature? Xhosa has pre-nasalized stops; their absence in Hara'ni suggests simplification</td></tr>
+<tr><td>Average name length</td><td>3–4 syllables</td><td>2–3 syllables</td><td>Hara'ni names tend longer; may reflect different compounding preferences</td></tr>
+<tr><td><span class="ipa">/ŋ/</span> (ng)</td><td>Present (Fungara)</td><td>Rare</td><td>Hara'ni retention? Xhosa has <span class="ipa">/ŋ/</span>; Zandali may have lost it</td></tr>
+</tbody>
+</table>
+
+<h3 id="xhosa-unobservable">Xhosa-Specific Features Not Reflected in Orthography</h3>
+
+<p>The following Xhosa phonological features are NOT directly observable in either name corpus but could be responsible for the perceived "accent":</p>
+
+<ol>
+<li><strong>Click consonants</strong>: Xhosa has three click types (dental <span class="ipa">/ǀ/</span>, alveolar <span class="ipa">/ǃ/</span>, lateral <span class="ipa">/ǁ/</span>). If proto-troll had clicks, they may have been:
+  <ul>
+    <li>Retained in both Hara'ni and Zandali but not represented in the orthography (the apostrophe might partially reflect a former click position that evolved into a glottal stop)</li>
+    <li>Lost in Zandali during creolization but preserved in Hara'ni</li>
+    <li>Represented indirectly through the apostrophe (marking a position where a click formerly occurred)</li>
+  </ul>
+</li>
+
+<li><strong>Tonal patterns</strong>: Xhosa is a tonal language with high and low tones. Both Hara'ni and Zandali could preserve tonal distinctions not reflected in the orthography. The "accent" perceived by players likely includes tonal patterns applied to English words. Tonal languages often have simpler syllable structures and more restricted consonant clusters — both consistent with Hara'ni and Zandali name patterns.</li>
+
+<li><strong>Implosive consonants</strong>: Xhosa has <span class="ipa">/ɓ/</span> and <span class="ipa">/ɗ/</span>. These might appear in either language as voiced stops with unusual articulation, contributing to the distinctive accent quality. The voiced stops <span class="ipa">/b/</span> and <span class="ipa">/d/</span> in both corpora could be implosive in pronunciation.</li>
+
+<li><strong>Ejective consonants</strong>: Xhosa has <span class="ipa">/pʼ/</span>, <span class="ipa">/tʼ/</span>, <span class="ipa">/kʼ/</span>. These might contribute to the perceived "sharpness" or "crispness" of stop consonants in the accent. The voiceless stops <span class="ipa">/p/</span>, <span class="ipa">/t/</span>, <span class="ipa">/k/</span> in both corpora could be ejective in pronunciation.</li>
+
+<li><strong>Syllable-timed rhythm</strong>: Xhosa is syllable-timed rather than stress-timed. The shared accent likely includes this prosodic feature, giving both Hara'ni and Zandali speech a more regular, rhythmic quality compared to stress-timed English.</li>
+</ol>
+
+<h3 id="xhosa-assessment">Assessment</h3>
+
+<table>
+<thead>
+<tr><th>Feature</th><th>Proto-Troll Inheritance?</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td>Five-vowel system <span class="ipa">/a e i o u/</span></td><td>Probable — shared with Xhosa/Bantu</td><td>Moderate</td></tr>
+<tr><td>(C)V(C) syllable structure</td><td>Probable — shared with Xhosa</td><td>Moderate</td></tr>
+<tr><td>Apostrophe = glottal stop / former click</td><td>Possible — both languages retain this</td><td><span class="uncertain">Low–Moderate</span></td></tr>
+<tr><td>Syllable-timed prosody</td><td>Probable — reflected in the accent</td><td>Moderate</td></tr>
+<tr><td>Tonal patterns</td><td>Possible — not in orthography but consistent with accent</td><td><span class="uncertain">Low–Moderate</span></td></tr>
+<tr><td>Click consonants</td><td>Speculative — might have existed in proto-troll</td><td><span class="uncertain">Very Low–Low</span></td></tr>
+<tr><td>Pre-nasalized stops</td><td>Possible — retained in Zandali, lost in Hara'ni</td><td><span class="uncertain">Low</span></td></tr>
+<tr><td>Ejective/implosive consonants</td><td>Possible — could explain accent quality</td><td><span class="uncertain">Very Low</span></td></tr>
+</tbody>
+</table>
+
+<p><strong>Overall Confidence: Moderate</strong> that the shared Xhosa accent reflects genuine proto-troll phonological features rather than mere production convenience, given: (1) the confirmed genetic relationship between Haranir and dark trolls/night elves, (2) the multiple shared phonological features consistent with a Xhosa-like substrate, (3) the same voice actor (Ike Amadi) voicing both a Haranir and a Darkspear troll, and (4) the systematic phonological differences that are explicable as post-divergence innovations.</p>
+
+<!-- ═══ Limitations ═══ -->
+
+<h2 id="limitations">Limitations</h2>
+
+<ul>
+<li><strong>No complete Hara'ni sentences are attested.</strong> All Haranir NPCs speak Common in-game.</li>
+<li><strong>Only ~15 proper names provide linguistic evidence</strong>, plus the Midnight-era terms <em>Ruutani</em> and <em>Alndust</em>. The entire corpus consists of personal names, place names, and cultural designations.</li>
+<li><strong>The confirmed translations from warcraft.wiki.gg significantly expand the reliable corpus</strong>, but the total number of confirmed glosses remains small (6 words).</li>
+<li><strong>The Haranir goddess is confirmed to be Aln'hara</strong> (the Azeroth Worldsoul), resolving a major open question.</li>
+<li><strong>The Haranir are confirmed to descend from dark trolls/night elves</strong> (<em>The Art of Midnight</em>), meaning Hara'ni is not an independent language family but a deeply divergent branch of the elven/troll family.</li>
+<li><strong>Morpheme decompositions are inferred from patterns</strong>, not confirmed by any canon source (except where noted as confirmed above).</li>
+<li><strong>The <em>Har'</em> root</strong> is now the most attested morpheme (4 confirmed attestations); the <em>Hara-</em> root has 5 attestations; the <em>Aln-</em> root has 4 attestations; all other morphemes have 1–2 attestations.</li>
+<li><strong>The <em>-ia</em> feminine suffix is effectively disproven.</strong> Wiki gender data confirms Ruia and On'hiea are male, while only Ney'leia is female. The <em>-ia</em> ending cannot be a feminine marker.</li>
+<li><strong>Morta'ka is an Elemental</strong>, not a Haranir, but was likely named by the Haranir. This means <em>-ka</em> may apply to non-Haranir entities designated by Haranir naming conventions.</li>
+<li><strong>The Derelict Mural</strong> in Harandar (Nordrassil Roots) contains only Common/English text. The alpha version used "the Goddess" and "lesser trollkind" but no Hara'ni vocabulary. The live version was toned down.</li>
+<li><strong>The Haranir's unique biological origin</strong> ("not really elves, not really trolls") means there are no obvious cognate languages to compare with.</li>
+<li><strong>The Haranir lived on Mount Hyjal before migrating to Harandar</strong> after 16,000 BDP — this extreme antiquity means any related languages may have diverged beyond recognition.</li>
+<li><strong>The alpha build mural text</strong> (which depicted Haranir as progenitors of all trollkind) was <strong>changed at launch</strong> to depict a "split" in Haranir society. The alpha text is no longer canon and did not contribute any Hara'ni vocabulary. This resolves the open question about whether the mural contained additional Hara'ni words — it did not survive into the released game.</li>
+</ul>
+
+</body>
+</html>

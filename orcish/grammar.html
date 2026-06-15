@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Orcish Grammar</title>
+<style>
+  body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+  h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+  h2 { color: #2e7d32; margin-top: 2em; }
+  h3 { color: #2e7d32; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+  th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+  th { background: #e8f5e9; font-weight: bold; }
+  tr:nth-child(even) { background: #f9fdf9; }
+  .ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+  .uncertain { color: #888; font-style: italic; }
+  .inferred { color: #a0522d; }
+  .note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+  nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+  nav a { margin-right: 1em; }
+  a { color: #2e7d32; }
+  ol, ul { margin: 0.5em 0; padding-left: 1.5em; }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="vocabulary.html">Vocabulary</a>
+  <a href="description.html">Description</a>
+  <a href="#morphology">Morphology</a>
+  <a href="#syntax">Syntax</a>
+  <a href="#phonology">Phonology</a>
+  <a href="#limitations">Limitations</a>
+</nav>
+
+<h1>Orcish Grammar</h1>
+
+<p>The grammatical rules below are inferred solely from attested canon phrases. Orcish is an under-documented constructed language with very few surviving examples, so all grammatical claims are tentative.</p>
+
+<!-- ==================== MORPHOLOGY ==================== -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding">Compounding</h3>
+
+<p>Orcish relies heavily on compounding. Every multi-morpheme attested word is a compound of two shorter elements:</p>
+
+<table>
+<tr><th>Compound</th><th>Element 1</th><th>Element 2</th><th>Inferred Meaning</th></tr>
+<tr><td>Lok'tar</td><td>Lok (<span class="inferred">victory</span>)</td><td>tar (<span class="uncertain">uncertain</span>)</td><td>&ldquo;Victory&rdquo;</td></tr>
+<tr><td>Lok'tar ogar</td><td>Lok'tar (<span class="inferred">victory</span>)</td><td>ogar (<span class="inferred">death</span>)</td><td>&ldquo;Victory or death&rdquo;</td></tr>
+<tr><td>Mak'gora</td><td>Mak (<span class="inferred">duel/combat</span>)</td><td>gora (<span class="inferred">honor</span>)</td><td>&ldquo;Duel of honor&rdquo;</td></tr>
+<tr><td>Aka'Magosh</td><td>Aka (<span class="inferred">blessing</span>)</td><td>Magosh (<span class="inferred">upon you/ancestors</span>)</td><td>&ldquo;Blessing upon you&rdquo;</td></tr>
+<tr><td>Kosh'harg</td><td>Kosh (<span class="inferred">gathering</span>)</td><td>Harg (<span class="inferred">festival</span>)</td><td>&ldquo;Gathering-festival&rdquo;</td></tr>
+<tr><td>Zug zug</td><td>Zug (<span class="inferred">work</span>)</td><td>Zug (<span class="inferred">work</span>)</td><td>&ldquo;Work work&rdquo; &rarr; agreement</td></tr>
+</table>
+
+<p>The compounding pattern is consistently <strong>head-initial</strong>: the primary semantic element precedes the modifying or extending element.</p>
+
+<h3 id="reduplication">Reduplication</h3>
+
+<p><em>Zug zug</em> demonstrates full reduplication. The duplicated form shifts meaning from the literal (&ldquo;work work&rdquo;) to a pragmatic function (&ldquo;agreement / yes / okay&rdquo;). It is unclear whether reduplication is a productive grammatical process or limited to this single attested example.</p>
+
+<h3 id="morpheme-boundaries">Morpheme Boundary Marking</h3>
+
+<p>Two orthographic markers separate morphemes:</p>
+
+<ol>
+<li><strong>Apostrophe (&rsquo;)</strong> &mdash; the most common boundary marker: <em>Lok'tar</em>, <em>Mak'gora</em>, <em>Aka'Magosh</em>, <em>Kosh'harg</em>, <em>Gul'dan</em>, <em>Lok'osh</em></li>
+<li><strong>Hyphen (-)</strong> &mdash; appears in <em>Throm-ka</em> and <em>Nok-Karosh</em></li>
+</ol>
+
+<p>The functional difference between apostrophe and hyphen boundaries, if any, cannot be determined from available data. It may be purely orthographic.</p>
+
+<h3 id="loktar-ogar-problem">The <em>Lok'tar ogar</em> Problem</h3>
+
+<p>The phrase <em>Lok'tar ogar</em> (&ldquo;Victory or death&rdquo;) presents an analytical difficulty:</p>
+
+<ul>
+<li><strong>Analysis A:</strong> <em>Lok'</em> = victory, <em>-tar</em> = or, <em>ogar</em> = death &rarr; &ldquo;Victory-or death&rdquo;</li>
+<li><strong>Analysis B:</strong> <em>Lok'tar</em> = victory (unanalyzable), <em>ogar</em> = &ldquo;or death&rdquo; &rarr; &ldquo;Victory or-death&rdquo;</li>
+<li><strong>Analysis C:</strong> <em>Lok'tar</em> = victory, <em>ogar</em> = death, with an unexpressed conjunction &rarr; &ldquo;Victory [or] death&rdquo;</li>
+</ul>
+
+<div class="note">
+Analysis A is the most common fan analysis but requires <em>-tar</em> to function as a conjunction, which finds no other attestation. Analysis B requires <em>ogar</em> to be a compound of an unknown conjunction + &ldquo;death.&rdquo; Analysis C assumes zero-marking for disjunction. None is confirmable with available data.
+</div>
+
+<!-- ==================== SYNTAX ==================== -->
+
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="word-order">Word Order</h3>
+
+<p>No full sentences are attested, making syntactic analysis impossible. All surviving examples are:</p>
+
+<ul>
+<li><strong>Interjections / formulae:</strong> <em>Zug zug</em>, <em>Lok'tar ogar</em>, <em>Throm-ka</em></li>
+<li><strong>Compound nouns:</strong> <em>Mak'gora</em>, <em>Kosh'harg</em></li>
+</ul>
+
+<p>If <em>Lok'tar ogar</em> reflects underlying syntax, the order is <strong>V V</strong> (victory death), but this is more likely a formulaic pair than evidence of verb-final or verb-initial order.</p>
+
+<h3 id="pragmatics">Pragmatics</h3>
+
+<p>Orcish expressions serve specific pragmatic functions tied to orcish warrior culture:</p>
+
+<table>
+<tr><th>Function</th><th>Expression</th><th>Context</th></tr>
+<tr><td>Agreement / affirmation</td><td><em>Zug zug</em>, <em>Kek</em></td><td>Casual speech</td></tr>
+<tr><td>Greeting</td><td><em>Throm-ka</em></td><td>Meeting</td></tr>
+<tr><td>Battle cry</td><td><em>Lok'tar</em>, <em>Lok'tar ogar</em></td><td>Combat</td></tr>
+<tr><td>Blessing</td><td><em>Aka'Magosh</em></td><td>Formal / ritual</td></tr>
+<tr><td>Challenge</td><td><em>Mak'gora</em></td><td>Duel declaration</td></tr>
+</table>
+
+<p>The language appears to favor <strong>fixed formulae</strong> over generative syntax for common social functions, consistent with a tradition-oriented warrior culture.</p>
+
+<!-- ==================== PHONOLOGY ==================== -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory</h3>
+
+<p>Based on attested forms, Orcish uses the following consonants:</p>
+
+<table>
+<tr><th>Type</th><th>Consonants</th></tr>
+<tr><td>Stops</td><td class="ipa">/g/, /k/, /b/, /p/, /t/, /d/</td></tr>
+<tr><td>Fricatives</td><td class="ipa">/s/, /h/, /θ/ <span class="uncertain">(spelled &ldquo;th&rdquo;)</span></td></tr>
+<tr><td>Nasals</td><td class="ipa">/m/, /n/</td></tr>
+<tr><td>Liquids</td><td class="ipa">/l/, /r/</td></tr>
+<tr><td>Affricates</td><td class="ipa"><span class="uncertain">Possibly /ʃ/ (spelled &ldquo;sh&rdquo;)</span></td></tr>
+</table>
+
+<h3 id="consonant-clusters">Consonant Clusters</h3>
+
+<p>Orcish permits heavy onset and coda clusters:</p>
+
+<ul>
+<li>Onset: <span class="ipa">/gr/</span> (<em>Grom</em>), <span class="ipa">/θr/</span> (<em>Throm</em>, <em>Thrall</em>), <span class="ipa">/sk/</span> <span class="uncertain">(none attested but likely)</span></li>
+<li>Coda: <span class="ipa">/ʃ/</span> (<em>Grommash</em>), <span class="ipa">/rg/</span> (<em>harg</em>)</li>
+</ul>
+
+<h3 id="vowel-inventory">Vowel Inventory</h3>
+
+<p>Vowels are typically short and open:</p>
+
+<ul>
+<li><span class="ipa">/a/</span> &mdash; the most frequent vowel</li>
+<li><span class="ipa">/o/</span> &mdash; common in stressed syllables</li>
+<li><span class="ipa">/u/</span> &mdash; appears in <em>zug</em>, <em>bur</em></li>
+<li><span class="ipa">/i/</span> &mdash; rare; appears in <em>Orgrim</em></li>
+</ul>
+
+<p>Diphthongs are not clearly attested.</p>
+
+<h3 id="phonotactic-patterns">Phonotactic Patterns</h3>
+
+<ol>
+<li><strong>Guttural preference:</strong> A preponderance of velar and glottal consonants (<span class="ipa">/g/, /k/, /h/</span>) gives Orcish its characteristic harsh, guttural quality.</li>
+<li><strong>Consonant-heavy syllables:</strong> Most attested words are CVC or CVC.CVC structures. Open syllables (CV) are less common.</li>
+<li><strong>Prominent /r/:</strong> The alveolar trill <span class="ipa">/r/</span> appears frequently, often in clusters (<em>Grom</em>, <em>Throm</em>, <em>Garrosh</em>, <em>Saurfang</em>).</li>
+<li><strong>Stress pattern:</strong> <span class="uncertain">Cannot be determined from written attestations alone.</span></li>
+</ol>
+
+<h3 id="sound-symbolism">Sound Symbolism</h3>
+
+<p>The harsh, percussive phonology aligns with orcish cultural values &mdash; strength, directness, combat readiness. The prevalence of stops and gutturals over fricatives and approximants reflects this aesthetic.</p>
+
+<!-- ==================== LIMITATIONS ==================== -->
+
+<h2 id="limitations">Summary of Limitations</h2>
+
+<div class="note">
+<ul>
+<li>No full sentences are attested; syntax is entirely unknown.</li>
+<li>Morphemic analysis of compounds rests on very few data points and is circular.</li>
+<li>The cross-faction language filter generates many &ldquo;Orcish&rdquo; strings that are <strong>not</strong> genuine vocabulary.</li>
+<li>Blizzard has not published any official grammar or lexicon.</li>
+<li>All rules above are <strong>hypotheses</strong>, not confirmed features of the language.</li>
+</ul>
+</div>
+
+</body>
+</html>

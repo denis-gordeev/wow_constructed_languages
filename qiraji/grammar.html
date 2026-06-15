@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Qiraji Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="description.html">Description</a>
+<a href="grammar.html">Grammar</a>
+<a href="vocabulary.html">Vocabulary</a>
+&#8226;
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#aqir-substrate">Aqir Substrate</a>
+<a href="#limitations">Limitations</a>
+</nav>
+
+<h1>Qiraji Grammar</h1>
+
+<p>Grammar rules below are <strong>inferred from attested examples only</strong>. The Qiraji language has no attested sentences — the entire corpus consists of proper names, place names, and construct designations from <em>Classic</em> (2006) and <em>Wrath of the Lich King</em> (2008) content. Patterns are noted where multiple examples support a rule. Speculative extensions are marked <span class="uncertain">[speculative]</span>.</p>
+
+<!-- ========== PHONOLOGY ========== -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="sound-inventory">Sound Inventory (Observed from Attested Names)</h3>
+
+<p><strong>Consonants</strong>: b, d, h, j, k, l, m, n, r, s, t, th (<span class="ipa">/θ/</span>), x (<span class="ipa">/ks/</span> or <span class="ipa">/x/</span>), z, sh (<span class="ipa">/ʃ/</span>), zh (<span class="ipa">/ʒ/</span>)</p>
+
+<p><strong>Vowels</strong>: a, e, i, o, u</p>
+
+<h3 id="phonological-patterns">Phonological Patterns</h3>
+
+<ol>
+<li><strong>Apostrophe as morpheme boundary</strong>: The <em>Ahn'qiraj</em> and <em>Hive'Ashi</em> / <em>Hive'Zora</em> names use apostrophes to mark morpheme boundaries, consistent with nerubian and Shath'Yar conventions.</li>
+
+<li><strong>Hyphen as alternative morpheme boundary</strong>: The Gates of Ahn'qiraj event NPCs use both hyphens (<em>Pax-lish</em>, <em>Jo-rel</em>) and apostrophes (<em>Ka'ark</em>, <em>He'al-ie</em>). The functional distinction (if any) is unclear. Three hypotheses:
+  <ul>
+    <li><strong>Blizzard inconsistency</strong>: No functional difference; both mark the same morpheme boundary</li>
+    <li><strong>Rank compounds</strong>: Hyphens mark military-rank compounds (all hyphen-bearing names hold officer ranks: Brigadier General, Lieutenant), while apostrophes mark ethnic/linguistic compounds</li>
+    <li><strong>Loan vs. native</strong>: Hyphens mark mixed-language or borrowed compounds, while apostrophes mark native qiraji compounds</li>
+  </ul>
+  <strong>Confidence: Very Low</strong> for any functional distinction. Blizzard inconsistency is the most parsimonious explanation.
+</li>
+
+<li><strong>Egyptian-inspired phonology</strong>: Names like <em>Ossirian</em>, <em>Anubisath</em>, and <em>Ahn'qiraj</em> evoke Egyptian phonological patterns — heavy use of <span class="ipa">/ɑ/</span>, <span class="ipa">/æ/</span>, <span class="ipa">/ʃ/</span>, <span class="ipa">/θ/</span>, and sibilant-rich sequences.</li>
+
+<li><strong>Geminate consonants</strong>: The <em>-naxx</em> / <em>-axx</em> endings in <em>Kurinnaxx</em> and <em>General Rajaxx</em> show doubled consonants. If Aqir had geminates, qiraji retained them while nerubian simplified (<em>-nax</em>, <em>-ax</em>). This is one of the few phonological differences that can be posited between the two Aqir-descended languages.</li>
+
+<li><strong>No complex initial clusters</strong>: Unlike nerubian (<em>Krik'thir</em>, <em>Vrrix</em>, <em>Krix'vizk</em>), qiraji names do not feature complex initial consonant clusters. This may reflect:
+  <ul>
+    <li>A qiraji sound change that simplified Aqir initial clusters</li>
+    <li>A nerubian innovation that created new clusters</li>
+    <li>Insufficient data (the qiraji corpus is very small)</li>
+  </ul>
+</li>
+
+<li><strong>Sibilant frequency</strong>: High, consistent with nerubian and the Egyptian aesthetic. <em>Ossirian</em>, <em>Kurinnaxx</em>, <em>Anubisath</em> all feature prominent sibilants.</li>
+
+<li><strong><span class="ipa">/ʒ/</span> phoneme</strong>: Official IPA for <em>Ahn'qiraj</em> (<span class="ipa">/ˈɑːn.kiˌɹɑːʒ/</span>) confirms <span class="ipa">/ʒ/</span> in <em>-qiraj</em>, matching nerubian <em>Azj-</em> = <span class="ipa">/ɑːʒ/</span>. This was likely an Aqir substrate phoneme inherited by both descendant languages.</li>
+
+<li><strong>Potential reduplication</strong>: <em>Sarsarun</em> may contain a reduplicated first syllable (<em>Sarsa-</em> + <em>-run</em>). Reduplication is common in natural languages for diminutive, intensive, or plural functions. Single attestation; <strong>Very Low</strong> confidence.</li>
+
+<li><strong>Syllable structure</strong>: Tends toward (C)V(C), simpler than nerubian:
+  <ul>
+    <li>CV: <em>Moam</em></li>
+    <li>CVC: <em>Ashi</em></li>
+    <li>CVC.CVC: <em>Ossirian</em></li>
+    <li>CVC.CVC.CVC: <em>Kurinnaxx</em></li>
+  </ul>
+</li>
+</ol>
+
+<h3 id="comparison-nerubian-phonology">Comparison with Nerubian Phonology</h3>
+
+<table>
+<thead><tr><th>Feature</th><th>Qiraji</th><th>Nerubian</th><th>Inference</th></tr></thead>
+<tbody>
+<tr><td>Initial clusters</td><td>Absent</td><td>Present (<em>Krik'thir</em>, <em>Vrrix</em>)</td><td>Different development from Aqir</td></tr>
+<tr><td>Geminate consonants</td><td>Present (<em>-naxx</em>)</td><td>Absent (<em>-nax</em>)</td><td>Qiraji retained Aqir geminates; nerubian simplified</td></tr>
+<tr><td><span class="ipa">/ks/</span> (x) frequency</td><td>Moderate</td><td>High</td><td>Both use <span class="ipa">/ks/</span>, possibly from Aqir</td></tr>
+<tr><td>Apostrophe convention</td><td>Consistent</td><td>Extremely consistent</td><td>Both inherited from Aqir orthographic tradition</td></tr>
+<tr><td>Hyphen boundary</td><td>Present (<em>Pax-lish</em>, <em>Jo-rel</em>)</td><td>Absent</td><td>Qiraji-specific; may reflect rank compounds or Blizzard inconsistency</td></tr>
+<tr><td><span class="ipa">/ʒ/</span> phoneme</td><td>Present (<em>-qiraj</em> = <span class="ipa">/kiˌɹɑːʒ/</span>)</td><td>Present (<em>Azj-</em> = <span class="ipa">/ɑːʒ/</span>)</td><td>Likely inherited from Aqir substrate</td></tr>
+<tr><td>Reduplication</td><td>Potential (<em>Sarsarun</em>)</td><td>Absent</td><td>If genuine, qiraji-specific morphological process</td></tr>
+</tbody>
+</table>
+
+<!-- ========== MORPHOLOGY ========== -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding-apostrophe">Compounding with Apostrophe Boundary</h3>
+
+<p>The primary morphological pattern in qiraji is the apostrophe-marked compound:</p>
+
+<table>
+<thead><tr><th>Pattern</th><th>Examples</th></tr></thead>
+<tbody>
+<tr><td><em>Ahn-</em> + suffix</td><td><em>Ahn'qiraj</em></td></tr>
+<tr><td>English + qiraji element</td><td><em>Hive'Ashi</em>, <em>Hive'Zora</em></td></tr>
+<tr><td><em>Ka'</em> + suffix</td><td><em>Ka'ark</em></td></tr>
+<tr><td><em>He'</em> + suffix</td><td><em>He'al-ie</em></td></tr>
+</tbody>
+</table>
+
+<p>The <em>Ahn'qiraj</em> compound is the only fully qiraji compound attested. The <em>Hive'</em> compounds use an English word as the first element, suggesting the apostrophe boundary convention was productive enough to be applied to mixed-language compounds.</p>
+
+<p><span class="uncertain">[speculative]</span> If the compounding pattern is [modifier/prefix] + [head/suffix], then <em>Ahn'qiraj</em> = "sacred [place of the] Qiraj" — a modifier-head order, consistent with the right-headed compounding pattern found in nerubian and the titan-forged language family.</p>
+
+<h3 id="compounding-hyphen">Compounding with Hyphen Boundary</h3>
+
+<p>A secondary pattern uses hyphens instead of apostrophes:</p>
+
+<table>
+<thead><tr><th>Pattern</th><th>Examples</th></tr></thead>
+<tbody>
+<tr><td><em>Pax-</em> + suffix</td><td><em>Pax-lish</em></td></tr>
+<tr><td><em>Jo-</em> + suffix</td><td><em>Jo-rel</em></td></tr>
+</tbody>
+</table>
+
+<p>Both hyphen-bearing names belong to Gates of Ahn'qiraj event NPCs with military ranks (Brigadier General, Lieutenant). The functional distinction between hyphen and apostrophe boundaries is unclear; Blizzard inconsistency is the most parsimonious explanation.</p>
+
+<h3 id="ka-prefix">The <em>Ka'</em> Prefix and Cross-Linguistic Note</h3>
+
+<p>The <em>Ka'</em> prefix appears in qiraji <em>Ka'ark</em> ("Captain" rank in Gates of Ahn'qiraj event). The same <em>Ka'</em> prefix appears in Hara'ni <em>Ka'dani</em> (an order of elite hunters). Two interpretations:</p>
+
+<ol>
+<li><strong>Coincidence</strong>: <em>Ka'</em> is a phonologically simple CV' syllable that could arise independently in unrelated languages. The qiraji and Hara'ni languages belong to entirely different families (Aqir-descended vs. deeply divergent elven/troll branch), making genetic relationship impossible.</li>
+<li><strong>Areal/contact borrowing</strong>: Extremely unlikely given geographic and temporal separation.</li>
+</ol>
+
+<p><strong>Confidence: Very Low</strong> for any genuine connection. The <em>Ka'</em> similarity is almost certainly coincidental.</p>
+
+<h3 id="ie-ia-ending">The <em>-ie</em> / <em>-ia</em> Ending</h3>
+
+<p>The name <em>He'al-ie</em> ends in <em>-ie</em>. This ending parallels the <em>-ia</em> ending found in several Hara'ni names (Ruia, Ney'leia, On'hiea, Shay'neia). As with <em>Ka'</em>, the languages are unrelated and the similarity is most likely coincidental — both are common phonological sequences cross-linguistically. <strong>Confidence: Very Low</strong> for any genuine connection.</p>
+
+<h3 id="ahn-prefix">The <em>Ahn-</em> Prefix</h3>
+
+<p>The prefix <em>Ahn-</em> appears in both qiraji and nerubian toponyms:</p>
+
+<table>
+<thead><tr><th>Name</th><th>Species</th><th>Meaning</th></tr></thead>
+<tbody>
+<tr><td><em>Ahn'qiraj</em></td><td>Qiraji</td><td>"Sacred [place of the] Qiraj" or "Ancient Temple"</td></tr>
+<tr><td><em>Ahn'kahet</em></td><td>Nerubian</td><td>"Old Kingdom" (matches in-game designation)</td></tr>
+</tbody>
+</table>
+
+<p>If <em>Ahn-</em> is a shared Aqir morpheme meaning "old/ancient/sacred," it was inherited by both descendant species. This would be the second confirmed Aqir substrate morpheme (after <em>Azj-</em> / <em>Nazj-</em>).</p>
+
+<p><strong>Confidence: Low–Medium</strong> for <em>Ahn-</em> as a shared Aqir morpheme.</p>
+
+<h3 id="qiraj-element">The <em>-qiraj</em> / <em>-qiraji</em> Element</h3>
+
+<p>The <em>-qiraj</em> element in <em>Ahn'qiraj</em> may be the source of the English "qiraji" (the species designation). If so:</p>
+<ul>
+<li><em>-qiraj</em> = "the people" or "the servants" in qiraji</li>
+<li><em>Ahn'qiraj</em> = "Sacred Place of the People" or "Ancient Temple of the Servants"</li>
+<li>English "qiraji" (with <em>-i</em> plural suffix) = "the qiraj-people"</li>
+</ul>
+
+<p>This parallels nerubian <em>-nerub</em> in <em>Azjol-Nerub</em>, where the self-designation appears in a place name.</p>
+
+<p><strong>Confidence: Low.</strong> The connection between <em>-qiraj</em> and "qiraji" is plausible but unconfirmed.</p>
+
+<h3 id="naxx-axx-suffix">The <em>-naxx</em> / <em>-axx</em> Suffix</h3>
+
+<table>
+<thead><tr><th>Name</th><th>Suffix</th></tr></thead>
+<tbody>
+<tr><td><em>Kurinnaxx</em></td><td><em>-naxx</em></td></tr>
+<tr><td><em>General Rajaxx</em></td><td><em>-axx</em></td></tr>
+</tbody>
+</table>
+
+<p>Two qiraji names end in the <em>-naxx</em> / <em>-axx</em> pattern. If this is a suffix (meaning "warrior," "hunter," or "elite"), it parallels the nerubian <em>-nax</em> / <em>-ax</em> pattern:</p>
+
+<ul>
+<li>Qiraji <em>-naxx</em> → nerubian <em>-nax</em> (geminate simplification)</li>
+<li>Qiraji <em>-axx</em> → nerubian <em>-ax</em> (same)</li>
+</ul>
+
+<p><strong>Confidence: Very Low.</strong> Only two qiraji attestations and three nerubian attestations; the similarity could be coincidental.</p>
+
+<!-- ========== SYNTAX ========== -->
+
+<h2 id="syntax">Syntax</h2>
+
+<ul>
+<li>No sentence-level attestation exists</li>
+<li>Word order cannot be determined</li>
+<li>The compounding pattern (prefix + head, with apostrophe boundary) is the only confirmed syntactic observation</li>
+<li>The language appears to follow a modifier-head structure in compounds (inferred from <em>Ahn-</em> + <em>-qiraj</em>), consistent with right-headed compounding in both nerubian and titan-forged languages</li>
+</ul>
+
+<!-- ========== AQIR SUBSTRATE ========== -->
+
+<h2 id="aqir-substrate">Relationship to the Aqir Substrate Hypothesis</h2>
+
+<p>The qiraji language, along with nerubian, is one of two attested Aqir-descended languages. The emerging Aqir substrate morphemes are:</p>
+
+<table>
+<thead><tr><th>Aqir Morpheme</th><th>Qiraji Form</th><th>Nerubian Form</th><th>Naga Form</th><th>Meaning</th></tr></thead>
+<tbody>
+<tr><td>*<em>Azj-</em></td><td>—</td><td><em>Azj-Kahet</em></td><td><em>Nazj-</em></td><td>"deep/realm"</td></tr>
+<tr><td>*<em>Ahn-</em></td><td><em>Ahn'qiraj</em></td><td><em>Ahn'kahet</em></td><td>—</td><td>"old/ancient/sacred"</td></tr>
+<tr><td>*<em>-naxx</em> (?)</td><td><em>-naxx</em></td><td><em>-nax</em></td><td>—</td><td>"warrior/hunter" (?)</td></tr>
+<tr><td>*<em>Anub-</em> (?)</td><td><em>Anubisath</em></td><td><em>Anub'arak</em></td><td>—</td><td>"lord/guardian" (?)</td></tr>
+</tbody>
+</table>
+
+<p>The qiraji-nerubian comparison reveals one potential regular sound correspondence: Aqir *<em>-xx</em> (geminate) → qiraji <em>-xx</em> (retained) vs. nerubian <em>-x</em> (simplified). If confirmed by additional data, this would be the first regular sound correspondence established between two Aqir-descended languages.</p>
+
+<!-- ========== LIMITATIONS ========== -->
+
+<h2 id="limitations">Limitations</h2>
+
+<p>The qiraji corpus is extremely small:</p>
+<ul>
+<li>~8 personal names</li>
+<li>~6 place names with potential qiraji etymologies</li>
+<li><strong>0 attested phrases or sentences</strong></li>
+</ul>
+
+<p>No verb forms, particles, or syntactic structures are known. The confirmed morphological patterns are:</p>
+<ol>
+<li>Apostrophe-marked compounding (high confidence)</li>
+<li>Hyphen-marked compounding (moderate confidence; functional distinction from apostrophe unclear)</li>
+<li><em>Ahn-</em> prefix (moderate confidence, shared with nerubian)</li>
+<li><em>-naxx</em> / <em>-axx</em> suffix (very low confidence)</li>
+<li>Potential reduplication in <em>Sarsarun</em> (very low confidence, single attestation)</li>
+</ol>
+
+</body>
+</html>

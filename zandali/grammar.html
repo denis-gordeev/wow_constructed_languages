@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zandali Grammar</title>
+<style>
+  body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+  h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+  h2 { color: #2e7d32; margin-top: 2em; }
+  h3 { color: #2e7d32; margin-top: 1.5em; }
+  h4 { color: #2e7d32; margin-top: 1.2em; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+  th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+  th { background: #e8f5e9; font-weight: bold; }
+  tr:nth-child(even) { background: #f9fdf9; }
+  .ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+  .uncertain { color: #888; font-style: italic; }
+  .inferred { color: #a0522d; }
+  .note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+  nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+  nav a { margin-right: 1em; }
+  a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="vocabulary.html">Vocabulary</a>
+  <a href="description.html">Description</a>
+  <a href="#creole">Creole Features</a>
+  <a href="#pronouns">Pronouns</a>
+  <a href="#copula">Copula</a>
+  <a href="#morphology">Morphology</a>
+  <a href="#apostrophe">Apostrophe</a>
+  <a href="#places">Place Names</a>
+  <a href="#word-order">Word Order</a>
+  <a href="#gaps">Gaps</a>
+</nav>
+
+<h1>Zandali Grammar</h1>
+
+<div class="note">
+Grammar rules are inferred from attested examples in World of Warcraft. Zandali as encountered in-game is a creole/pidgin form mixing Zandali vocabulary with Common-like (English-like) syntax. "Pure" Zandali grammar is largely unattested. All rules below are provisional and based on limited data.
+</div>
+
+<h2 id="creole">Creole Features</h2>
+
+<p>The Zandali spoken by in-game trolls exhibits features typical of a pidgin or creole:</p>
+
+<ul>
+<li><strong>Simplified syntax</strong>: Sentences follow a subject-verb-object order consistent with Common (English).</li>
+<li><strong>Reduced inflection</strong>: Verbs and pronouns do not inflect for case, gender, or number in the observed forms.</li>
+<li><strong>Lexical mixing</strong>: Zandali content words (<em>mon</em>, <em>ya</em>, <em>dey</em>, <em>loa</em>, <em>zul</em>, <em>jin</em>) are embedded in an English-like syntactic frame.</li>
+<li><strong>Invariant copula</strong>: "Be" serves as the sole copular verb across all persons and tenses, a hallmark of creole grammars (cf. Caribbean creoles).</li>
+</ul>
+
+<p>This creole likely represents how trolls speak Common with Zandali substrate influence, rather than "pure" Zandali itself. The underlying grammar of classical Zandali is not directly attested.</p>
+
+<h2 id="pronouns">Pronoun System</h2>
+
+<table>
+<tr><th>Pronoun</th><th>Function</th><th>Notes</th></tr>
+<tr><td>Mon</td><td>First person (I/me)</td><td>Also serves as a generic honorific/address term</td></tr>
+<tr><td>Ya</td><td>Second person (you)</td><td>&mdash;</td></tr>
+<tr><td>Dey</td><td>Third person plural (they)</td><td class="uncertain">Unclear if a distinct third-person singular exists</td></tr>
+<tr><td>We</td><td>First person plural (we)</td><td class="uncertain">Possibly a Common borrowing rather than native Zandali</td></tr>
+</table>
+
+<p>The pronoun system is extremely limited in attestation. No possessive, reflexive, or oblique forms are distinguishable from the base forms.</p>
+
+<h2 id="copula">The Copula "Be"</h2>
+
+<p>"Be" functions as an invariant copula used across all persons and without tense marking:</p>
+
+<ul>
+<li><em>Mon be strong</em> = I am strong</li>
+<li><em>Ya be dead</em> = You are dead</li>
+<li><em>Dey be</em> = They are</li>
+</ul>
+
+<p>This is consistent with creole typology where the copula is typically invariant. Whether Zandali has distinct tense markers or aspect particles is unattested.</p>
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="prefix-zul">Prefix: Zul-</h3>
+
+<p>"Zul" functions as a prefix meaning "great" or "city of," attached to tribal/ethnic names to form place names:</p>
+
+<table>
+<tr><th>Formation</th><th>Components</th><th>Meaning</th></tr>
+<tr><td>Zul'Gurub</td><td>Zul + Gurub(ashi)</td><td>City of the Gurubashi</td></tr>
+<tr><td>Zul'Aman</td><td>Zul + Aman(i)</td><td>City of the Amani</td></tr>
+<tr><td>Zul'Drak</td><td>Zul + Drak(kari)</td><td>City of the Drakkari</td></tr>
+<tr><td>Zul'Farrak</td><td>Zul + Farrak(i)</td><td>City of the Farraki</td></tr>
+<tr><td>Zul'jin</td><td>Zul + jin</td><td>Great Chief</td></tr>
+</table>
+
+<p>The prefix undergoes truncation of the tribal suffix when forming place names (e.g., Gurubashi &rarr; Gurub, Drakkari &rarr; Drak). This is a productive compounding pattern.</p>
+
+<h3 id="tribal-suffixes">Tribal Suffixes: -ari, -ashi, -aki</h3>
+
+<p>These suffixes designate tribal/ethnic affiliation, roughly meaning "people of":</p>
+
+<table>
+<tr><th>Suffix</th><th>Example</th><th>Notes</th></tr>
+<tr><td>-ari</td><td>Zandalari (People of Zandalar)</td><td>Possibly the most common or "default" suffix</td></tr>
+<tr><td>-ashi</td><td>Gurubashi (People of the Jungle)</td><td>May carry a locative meaning ("of the jungle")</td></tr>
+<tr><td>-aki</td><td>Farraki</td><td>Variant form</td></tr>
+</table>
+
+<p class="uncertain">The distribution of these suffixes is not fully explained by the available data. Whether -ari, -ashi, and -aki are allomorphs conditioned by phonological environment or carry distinct semantic values is uncertain.</p>
+
+<h3 id="plural-suffix">Plural/Collective Suffix: -'ai</h3>
+
+<p>The suffix <span class="inferred">-'ai</span> marks a collective or plural, meaning "ones":</p>
+
+<table>
+<tr><th>Formation</th><th>Components</th><th>Meaning</th></tr>
+<tr><td>Atal'ai</td><td class="inferred">Atal + 'ai</td><td>Devoted Ones / Chosen Ones</td></tr>
+</table>
+
+<p>Atal'Aman (Midnight) provides a second attestation of the <span class="inferred">Atal-</span> root in a compound place name: <span class="inferred">Atal</span> + <span class="inferred">'Aman</span> = "Devoted to the Amani" or "Amani Devotees." This strengthens the case for <span class="inferred">Atal</span> = "devoted/chosen" as a genuine Zandali morpheme with Moderate&ndash;High confidence.</p>
+
+<p class="uncertain">This is attested only once with -'ai, so the plural/collective suffix's generality is uncertain.</p>
+
+<h3 id="agentive-suffix">Agentive Suffix: -ey <span class="uncertain">(Midnight, 2026)</span></h3>
+
+<p>The suffix <span class="inferred">-ey</span> appears in the title <em>Hash'ey</em> ("unifier"), earned by Zul'jarra after uniting the Amani tribes. If <span class="inferred">-ey</span> = agentive suffix ("one who does X"):</p>
+
+<table>
+<tr><th>Formation</th><th>Components</th><th>Meaning</th></tr>
+<tr><td>Hash'ey</td><td class="inferred">Hash' + ey</td><td>Unifier / "one who unites"</td></tr>
+</table>
+
+<p>This would be the <strong>first attested Zandali agentive suffix with a confirmed semantic gloss</strong>. However, the single attestation prevents firm conclusions. If <span class="inferred">-ey</span> is genuine, <span class="inferred">Hash'</span> = "unite/gather" as a verb root.</p>
+
+<h4>Cross-Linguistic Comparison: Agentive Suffixes in WoW</h4>
+
+<table>
+<tr><th>Language</th><th>Agentive Suffix</th><th>Example</th><th>Meaning</th><th>Notes</th></tr>
+<tr><td><strong>Zandali</strong></td><td class="inferred">-ey</td><td class="inferred">Hash'ey</td><td>"Unifier"</td><td>Single attestation with confirmed gloss</td></tr>
+<tr><td>Darnassian</td><td>-dorei</td><td>Sin'dorei</td><td>"Children of the Blood"</td><td>Not purely agentive; means "children/people of"</td></tr>
+<tr><td>Dwarven</td><td class="uncertain">-dun</td><td class="uncertain">Bael'dun</td><td class="uncertain">Excavation/earth-related</td><td class="uncertain">Uncertain; not confirmed agentive</td></tr>
+<tr><td>Shath'Yar</td><td class="uncertain">-aqi</td><td class="uncertain">N'raqi</td><td class="uncertain">"Faceless Ones"</td><td class="uncertain">Collective rather than agentive</td></tr>
+</table>
+
+<p>No other WoW language has a confirmed agentive suffix with a single-morpheme verb root + agentive ending pattern. The closest parallel is Zandali's own <em>-jin</em> suffix ("leader/chief"), but <em>-jin</em> is a title suffix appended to names (proper nouns), not a productive agentive suffix appended to verb roots.</p>
+
+<h4>Assessment: Genuine Morpheme vs. Blizzard Aesthetic</h4>
+
+<p>Arguments for <span class="inferred">-ey</span> as a genuine Zandali agentive suffix:</p>
+<ol>
+<li><strong>Confirmed gloss</strong>: "Unifier" is explicitly a "one who [verb]" formation</li>
+<li><strong>Semantically coherent</strong>: <span class="inferred">Hash'</span> + <span class="inferred">-ey</span> = "unite" + "one who" = "unifier"</li>
+<li><strong>Structural parallel</strong>: Zandali already has suffixes that mark role/status (<em>-jin</em>, <span class="inferred">-'ai</span>)</li>
+</ol>
+
+<p>Arguments against:</p>
+<ol>
+<li><strong>Single attestation</strong>: No other Zandali words use <span class="inferred">-ey</span></li>
+<li><strong>Blizzard aesthetic</strong>: The <span class="inferred">-ey</span> ending could be an English-influenced rendering (cf. English <em>-y</em> / <em>-ey</em> diminutive, or <em>-er</em> &rarr; <em>-ey</em> adaptation), not a genuine Zandali morpheme</li>
+<li><strong>No other Zandali titles with confirmed glosses exist</strong>: Without a second data point, <span class="inferred">-ey</span> cannot be distinguished from a unique name element</li>
+</ol>
+
+<div class="note">
+<strong>Confidence: Low&ndash;Moderate</strong> for <span class="inferred">-ey</span> as a genuine Zandali agentive suffix (upgraded from Low based on the confirmed gloss, but still limited by single attestation). The confirmed semantic gloss "unifier" is the strongest evidence &mdash; it is not just a fan translation but an in-game canonical designation.
+</div>
+
+<h3 id="title-suffix">Title Suffix: Jin</h3>
+
+<p>"Jin" functions as a title meaning "leader" or "chief," appended to names via apostrophe:</p>
+
+<table>
+<tr><th>Formation</th><th>Components</th><th>Meaning</th></tr>
+<tr><td>Zul'jin</td><td>Zul + jin</td><td>Great Chief</td></tr>
+<tr><td>Sen'jin</td><td>Sen + jin</td><td>(Proper name with chief title)</td></tr>
+<tr><td>Vol'jin</td><td>Vol + jin</td><td>(Proper name with chief title)</td></tr>
+</table>
+
+<h2 id="apostrophe">Apostrophe Usage</h2>
+
+<p>The apostrophe consistently marks morpheme boundaries in Zandali orthography:</p>
+
+<ul>
+<li><strong>Place names</strong>: Zul'Gurub, Zul'Aman, Zul'Drak, Zul'Farrak (prefix boundary)</li>
+<li><strong>Titles</strong>: Zul'jin, Sen'jin, Vol'jin (name-title boundary)</li>
+<li><strong>Collectives</strong>: Atal'ai (root-suffix boundary)</li>
+<li><strong>Loa names</strong>: Mueh'zala, Hir'eek, Krag'wa, Pa'ku (component boundaries)</li>
+</ul>
+
+<p>This suggests that Zandali is an agglutinative language where morpheme boundaries are phonologically salient and orthographically marked. The apostrophe likely corresponds to a glottal stop or similar segmental boundary in the spoken language.</p>
+
+<h2 id="places">Place Naming Convention</h2>
+
+<p>A productive pattern exists for naming capital cities:</p>
+
+<p><strong>Zul + [Truncated tribal name]</strong></p>
+
+<table>
+<tr><th>Tribe</th><th>Truncation</th><th>City Name</th></tr>
+<tr><td>Gurubashi</td><td>Gurub</td><td>Zul'Gurub</td></tr>
+<tr><td>Amani</td><td>Aman</td><td>Zul'Aman</td></tr>
+<tr><td>Drakkari</td><td>Drak</td><td>Zul'Drak</td></tr>
+<tr><td>Farraki</td><td>Farrak</td><td>Zul'Farrak</td></tr>
+<tr><td>Zandalar</td><td>(no truncation)</td><td>Zandalar <span class="uncertain">(no "Zul" prefix; the homeland itself)</span></td></tr>
+</table>
+
+<p>The homeland Zandalar does not follow this pattern, possibly because it is the origin place rather than a derived settlement.</p>
+
+<h2 id="word-order">Word Order</h2>
+
+<p>Based on the limited attested phrases, Zandali creole follows SVO word order:</p>
+
+<ul>
+<li><em>Mon be strong</em> (S-V-Adj)</li>
+<li><em>Ya be dead</em> (S-V-Adj)</li>
+<li><em>Dey be [predicate]</em> (S-V-Pred)</li>
+</ul>
+
+<p>This is consistent with Common (English) influence and typical of pidgin/creole formation.</p>
+
+<h2 id="gaps">Gaps and Uncertainties</h2>
+
+<p>The following aspects of Zandali grammar are entirely unattested and should not be assumed:</p>
+
+<ul>
+<li>Tense and aspect marking</li>
+<li>Negation</li>
+<li>Question formation</li>
+<li>Possessive constructions</li>
+<li>Case marking on nouns</li>
+<li>Verb conjugation beyond the invariant "be"</li>
+<li>Adjective-noun order</li>
+<li>Relative clauses</li>
+<li>Numerals and quantifiers</li>
+<li>Any formal register distinct from the creole</li>
+</ul>
+
+<hr>
+<nav style="text-align:center;margin:1em 0;">
+  <a href="vocabulary.html">Vocabulary</a> &middot;
+  <a href="description.html">Description</a> &middot;
+  <a href="../elven-comparative.html">Elven Comparative</a> &middot;
+  <a href="../eredun-draenei-comparative.html">Eredun-Draenei Comparative</a> &middot;
+  <a href="../titan-forged-comparative.html">Titan-Forged Comparative</a> &middot;
+  <a href="../alien-comparative.html">Alien Comparative</a> &middot;
+  <a href="../example-sentences.html">Example Sentences</a>
+</nav>
+
+</body>
+</html>

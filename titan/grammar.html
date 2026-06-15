@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Titan Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="description.html">Description</a>
+<a href="grammar.html">Grammar</a>
+<a href="vocabulary.html">Vocabulary</a>
+<span>|</span>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#phonology">Phonology</a>
+<a href="#summary-of-confidence">Summary</a>
+</nav>
+
+<h1>Titan Grammar</h1>
+
+<p>This document presents grammatical inferences drawn from attested Titan words and names in World of Warcraft. Titan is a <span class="uncertain">poorly attested</span> language; all rules below are speculative and based on limited data. No native grammar has been published by Blizzard.</p>
+
+<!-- ═══════════════════ MORPHOLOGY ═══════════════════ -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding">Compounding</h3>
+
+<p>Titan extensively forms words through compounding. Proper names, weapon names, and facility names are transparently compound:</p>
+
+<ul>
+<li><em>Aesir</em> = <em>Aes</em> ("storm") + <em>-ir</em> ("giant") = "Storm Giants"</li>
+<li><em>Vanir</em> = <em>Van</em> ("earth") + <em>-ir</em> ("giant") = "Earth Giants"</li>
+<li><em>Taeshalach</em> = <em>Tael/Taes</em> ("flame") + <em>shalach</em> ("rend") = "Flame Rend" (RPG)</li>
+<li><em>Gorshalach</em> = <em>Gor</em> ("dark") + <em>shalach</em> ("render") = "Dark Render" (RPG)</li>
+<li><em>Gorribal</em> = <em>Gor</em> ("dark") + <em>ribal</em> ("seether") = "Dark Seether" (RPG)</li>
+<li><em>Kalimdor</em> = <em>Kalim</em> (<span class="uncertain">"starlight"?</span>) + <em>-dor</em> (<span class="uncertain">"land"?</span>) = "Land of Eternal Starlight"</li>
+</ul>
+
+<p>The compound structure is <span class="inferred">right-headed</span>: the final element appears to carry the core semantic category, while the initial element modifies it. This pattern is clearest in:</p>
+
+<ul>
+<li><em>Aesir</em>: "storm-GIANT" (not "giant-STORM")</li>
+<li><em>Gorshalach</em>: "dark-RENDER" (not "render-DARK")</li>
+</ul>
+
+<h3 id="the-suffix--ir">The Suffix <em>-ir</em></h3>
+
+<p>The suffix <em>-ir</em> appears on multiple words designating types of animate beings:</p>
+
+<ul>
+<li><em>Aesir</em> = "Storm Giants"</li>
+<li><em>Vanir</em> = "Earth Giants"</li>
+<li><em>Tol'vir</em> = the stone cat-people (titan-forged)</li>
+</ul>
+
+<p>The consistent appearance of <em>-ir</em> on names for types of animate titan-forged beings suggests it is a productive suffix meaning <span class="inferred">"giant," "being," or "one of [type]."</span> If this analysis is correct, <em>Tol'vir</em> decomposes as <em>Tol</em> + <em>-vir</em> (a phonologically conditioned variant of <em>-ir</em>), though the meaning of <em>Tol</em> is unknown.</p>
+
+<p>The variant <em>-nir</em> appears in <em>Midnir</em> = "Vessel." Whether <em>-nir</em> is related to <em>-ir</em> or a separate morpheme is unclear. If <em>Midnir</em> = <em>Mid</em> + <em>-nir</em>, <em>-nir</em> could be an agentive or instrumental suffix meaning "that which [functions as]." Alternatively, <em>Midnir</em> may be monomorphemic.</p>
+
+<h3 id="the-prefix-uld-">The Prefix <em>Uld-</em></h3>
+
+<p>The prefix <em>Uld-</em> appears in every known titan facility name:</p>
+
+<ul>
+<li><em>Ulduar</em> &mdash; largest titan complex (fortress/prison)</li>
+<li><em>Uldum</em> &mdash; superweapon zone</li>
+<li><em>Uldaman</em> &mdash; vault for Earthen and Discs of Norgannon</li>
+<li><em>Uldir</em> &mdash; research/quarantine facility</li>
+<li><em>Uldis</em> &mdash; facility beneath the Temple of Storms</li>
+<li><em>Uldorus</em> &mdash; facility (Tyrhold) in Thaldraszus</li>
+<li><em>Uldaz</em> &mdash; location mentioned by the Maiden of Vitality</li>
+<li><em>Ulderoth</em> &mdash; alternate timeline version of Azeroth</li>
+</ul>
+
+<p>Brann Bronzebeard proposed <em>Uld</em> = "city" (<em>Lands of Mystery</em>, RPG). The sheer number of <em>Uld-</em> facilities supports the <span class="inferred">inference that this is a productive morpheme meaning "city," "facility," "construction," or "place of titan work."</span></p>
+
+<p>The suffixal elements following <em>Uld-</em> may encode the facility's function:</p>
+
+<ul>
+<li><em>-uar</em> in <em>Ulduar</em> (fortress; the largest complex)</li>
+<li><em>-um</em> in <em>Uldum</em> (superweapon; origination device)</li>
+<li><em>-aman</em> in <em>Uldaman</em> (vault; storage)</li>
+<li><em>-ir</em> in <em>Uldir</em> (research facility)</li>
+<li><em>-is</em> in <em>Uldis</em> (<span class="uncertain">unknown function</span>)</li>
+<li><em>-orus</em> in <em>Uldorus</em> (Tyrhold; keeper facility)</li>
+<li><em>-az</em> in <em>Uldaz</em> (<span class="uncertain">unknown function</span>)</li>
+</ul>
+
+<p><span class="uncertain">Whether these suffixes are meaningful morphemes or simply phonologically distinct endings is unknown.</span></p>
+
+<h3 id="the-root-khaz-">The Root <em>Khaz-</em></h3>
+
+<p>The root <em>Khaz-</em> appears in multiple contexts related to shaping and forging:</p>
+
+<ul>
+<li><em>Khaz'goroth</em> &mdash; the titan "Shaper and Forger of Worlds"</li>
+<li><em>Khaz'mul</em> &mdash; a chamber in Uldaman containing its secrets</li>
+<li><em>Khaz Algar</em> &mdash; a region of Earthen on the Dragon Isles</li>
+</ul>
+
+<p>This distribution suggests <span class="inferred"><em>Khaz-</em> may mean "forge," "craft," "shape," or "creation."</span> The apostrophe in <em>Khaz'goroth</em> and <em>Khaz'mul</em> marks a morpheme boundary between <em>Khaz</em> and the following element.</p>
+
+<h3 id="the-root-val-">The Root <em>Val-</em></h3>
+
+<p>The root <em>Val-</em> appears in several terms associated with Odyn and the Halls of Valor:</p>
+
+<ul>
+<li><em>Val'anyr</em> &mdash; "Hammer of Ancient Kings"</li>
+<li><em>Val'kyr</em> &mdash; "choosers of the slain" (shieldmaidens of Odyn)</li>
+<li><em>Valarjar</em> &mdash; Odyn's elite army of stormforged vrykul warriors</li>
+</ul>
+
+<p>The semantic thread connecting these terms is <span class="inferred">"chosen," "valor," or "elevated/exalted."</span> <em>Val'kyr</em> is a clear Norse calque on <em>Valkyrie</em> ("chooser of the slain"), and <em>Valarjar</em> echoes Norse <em>Einherjar</em> (the chosen slain of Valhalla). <span class="uncertain">Whether <em>Val-</em> is a genuine Titan morpheme or a Common-language rendering of an Odyn-specific tradition is unclear.</span></p>
+
+<h3 id="the-root-gor--dark">The Root <em>Gor-</em> "Dark"</h3>
+
+<p>The root <em>Gor-</em> appears consistently in weapon names associated with Sargeras and destruction:</p>
+
+<ul>
+<li><em>Gorshalach</em> = "Dark Render" (RPG)</li>
+<li><em>Gorribal</em> = "Dark Seether" (RPG)</li>
+<li><em>Gorridar</em> = "Darkblade of the Sunderer"</li>
+</ul>
+
+<p>The consistent glossing of <em>Gor-</em> as "dark" across three independent weapon names (all from the RPG, but internally consistent) supports this analysis at <span class="inferred">medium confidence</span>.</p>
+
+<h3 id="the-roots-taeltaes--flame-and--shalach--rendrender">The Roots <em>Tael/Taes-</em> "Flame" and <em>-shalach</em> "Rend/Render"</h3>
+
+<ul>
+<li><em>Taeshalach</em> = "Flame Rend" (RPG) &mdash; Aggramar's sword</li>
+<li><em>Gorshalach</em> = "Dark Render" (RPG) &mdash; Sargeras's original sword</li>
+</ul>
+
+<p>The shared element <em>shalach</em> means "rend" or "render." The initial elements <em>Tael/Taes</em> ("flame") and <em>Gor</em> ("dark") distinguish the two fragments of the original sword Gorshalach. The alternation between <em>Tael</em> and <em>Taes</em> may reflect:</p>
+
+<ul>
+<li>Phonetic variation (assimilation to following <em>sh</em>)</li>
+<li>Morphological conditioning (different allomorphs in different compound contexts)</li>
+<li>Simple orthographic variation in the source</li>
+</ul>
+
+<h3 id="reduplication-or-echo-words">Reduplication or Echo Words</h3>
+
+<p>The name <em>Echomok</em> (a cavern in Uldaman) may contain a reduplicative element <em>echo-</em>, though this is <span class="uncertain">highly speculative</span>. No other examples of reduplication are attested.</p>
+
+<h3 id="the-particle-kol--in-kol-tharish">The Particle <em>Kol-</em> in <em>Kol-tharish</em></h3>
+
+<p>The exclamation <em>Kol-tharish</em>, yelled by Kologarn when killing a player, may decompose as <em>Kol</em> + <em>tharish</em>, but no glosses are available for either element. It may be a battle cry, a curse, or a ritual phrase. The hyphen suggests a compound.</p>
+
+<!-- ═══════════════════ SYNTAX ═══════════════════ -->
+
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="word-order">Word Order</h3>
+
+<p>Insufficient data. Only one multi-word phrase is attested:</p>
+
+<ul>
+<li><em>Revola ruk maez amir</em> &mdash; spoken by Magni Bronzebeard to open the Primordial Observatory door. Meaning unknown.</li>
+</ul>
+
+<p>Without a translation, no syntactic analysis is possible. If we hypothesize that the phrase is a command or formulaic utterance (a "password" to open a door), possible structures include:</p>
+
+<ul>
+<li><strong>VSO</strong>: <em>Revola</em> (verb) + <em>ruk</em> (subject) + <em>maez amir</em> (object) &mdash; "Open the door of the observatory"</li>
+<li><strong>SOV</strong>: <em>Revola</em> (noun) + <em>ruk</em> (modifier) + <em>maez</em> (verb) + <em>amir</em> (object) &mdash; "The vessel opens the way"</li>
+<li><strong>Formulaic</strong>: The phrase may be a fixed ritual formula that does not reflect productive syntax.</li>
+</ul>
+
+<div class="note">This is pure speculation. No conclusions about Titan word order are justified.</div>
+
+<h3 id="definiteness-case-and-agreement">Definiteness, Case, and Agreement</h3>
+
+<p><span class="uncertain">No data available.</span></p>
+
+<h3 id="the-conflation-of-created-and-ordered">The Conflation of "Created" and "Ordered"</h3>
+
+<p>The <em>Grimoire of the Shadowlands and Beyond</em> (pg. 154) confirms that Titan uses the same word for "created" as it does for "Ordered." This is a grammatical/lexical fact about the language, not a syntactic rule, but it has implications:</p>
+
+<ul>
+<li>The language does not lexically distinguish between the act of bringing something into existence and the act of imposing Order upon it. This suggests that in the Titan worldview (and in the grammar encoding it), creation <em>is</em> ordering &mdash; there is no concept of "creation" that is not also "ordering."</li>
+<li>This conflation may extend to related concepts: "build," "forge," "shape," and "organize" could all fall under the same lexical umbrella.</li>
+</ul>
+
+<!-- ═══════════════════ PHONOLOGY ═══════════════════ -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory</h3>
+
+<p>Based on attested forms, Titan consonants include:</p>
+
+<ul>
+<li><strong>Stops</strong>: <span class="ipa">/p/, /b/, /t/, /d/, /k/, /g/</span></li>
+<li><strong>Fricatives</strong>: <span class="ipa">/f/, /v/, /θ/, /ð/, /s/, /z/, /ʃ/, /h/</span></li>
+<li><strong>Affricates</strong>: <span class="ipa">/tʃ/</span> (possible in some names)</li>
+<li><strong>Nasals</strong>: <span class="ipa">/m/, /n/</span></li>
+<li><strong>Liquids</strong>: <span class="ipa">/r/, /l/</span></li>
+<li><strong>Glottal</strong>: <span class="ipa">/ʔ/</span> (possible, suggested by apostrophe in many names)</li>
+</ul>
+
+<h3 id="consonant-clusters">Consonant Clusters</h3>
+
+<p>Titan permits complex consonant clusters, more so than most mortal languages on Azeroth:</p>
+
+<ul>
+<li><em>Khaz'goroth</em>: <span class="ipa">/zɡ/</span> cluster across morpheme boundary</li>
+<li><em>Golganneth</em>: <span class="ipa">/lɡ/</span> cluster</li>
+<li><em>Taeshalach</em>: <span class="ipa">/ʃ/</span> cluster boundary</li>
+<li><em>M'thorus</em>: syllabic consonant or initial cluster</li>
+</ul>
+
+<p>The complexity of these clusters is consistent with a language designed for beings whose vocal apparatus is not humanoid &mdash; the titans are planet-sized entities, and the language may reflect articulatory possibilities that mortal speakers cannot fully replicate.</p>
+
+<h3 id="vowel-inventory">Vowel Inventory</h3>
+
+<p>Full cardinal vowel set is attested: <span class="ipa">/a/, /e/, /i/, /o/, /u/</span>. Possible additional vowels:</p>
+
+<ul>
+<li><span class="ipa">/æ/</span> (in names like <em>Aggramar</em>, <em>Kalimdor</em>)</li>
+<li><span class="ipa">/ʌ/</span> (in <em>Uldaman</em>, <em>Uldum</em>)</li>
+</ul>
+
+<h3 id="syllable-structure">Syllable Structure</h3>
+
+<p>Observed syllable structures range from simple to complex:</p>
+
+<ul>
+<li>Simple: (C)V &mdash; <em>Ra</em> (in <em>Ra-den</em>)</li>
+<li>Moderate: (C)V(C) &mdash; <em>Khaz</em>, <em>Gor</em>, <em>Tsol</em></li>
+<li>Complex: CCV(C) &mdash; <em>M'thorus</em> (if initial cluster)</li>
+</ul>
+
+<p>The predominant pattern in attested names is disyllabic or trisyllabic compounds of (C)V(C) roots.</p>
+
+<h3 id="stress">Stress</h3>
+
+<p><span class="uncertain">No data available.</span> The apostrophe may mark a stress boundary in some names:</p>
+
+<ul>
+<li><em>Aman'Thul</em>: stress likely on <em>Thul</em></li>
+<li><em>Khaz'goroth</em>: stress likely on <em>goroth</em></li>
+<li><em>Ra-den</em>: stress likely on <em>den</em></li>
+</ul>
+
+<p>If the apostrophe marks morpheme boundaries, stress may fall on the head (final) element of compounds, consistent with right-headed compound structure.</p>
+
+<h3 id="phonotactic-notes">Phonotactic Notes</h3>
+
+<ul>
+<li>The language has a monumental, resonant quality &mdash; long sonorant sequences (<em>Golganneth</em>, <em>Norgannon</em>), back vowels, and heavy clusters give Titan names their characteristic weight.</li>
+<li><strong>Norse-inspired names</strong> (<em>Odyn</em>, <em>Thorim</em>, <em>Hodir</em>, <em>Freya</em>, <em>Loken</em>) are <span class="uncertain">likely Common-language approximations of Titan names</span>. The original Titan forms may have been phonologically quite different. These Keeper names are drawn from Norse mythology and may not reflect Titan phonology at all.</li>
+<li><strong>Apostrophe usage</strong> is widespread and appears to consistently mark morpheme boundaries (<em>Aman'Thul</em>, <em>Khaz'goroth</em>, <em>Ra-den</em>, <em>Val'anyr</em>, <em>Gni'kiv</em>, <em>M'thorus</em>, <em>Tol'vir</em>, <em>Val'kyr</em>, <em>Akma'hat</em>). In some cases (<em>M'thorus</em>), the apostrophe may also indicate a syllable break or reduced vowel.</li>
+<li>The distinction between <em>-ir</em> and <em>-vir</em> in <em>Aesir/Vanir</em> vs. <em>Tol'vir</em> suggests that vowel insertion before the suffix may occur under certain phonological conditions (e.g., after certain consonants or in certain stress patterns).</li>
+</ul>
+
+<!-- ═══════════════════ SUMMARY ═══════════════════ -->
+
+<h2 id="summary-of-confidence">Summary of Confidence</h2>
+
+<table>
+<thead>
+<tr><th>Feature</th><th>Confidence</th><th>Reason</th></tr>
+</thead>
+<tbody>
+<tr><td>Compounding as primary word-formation</td><td>High</td><td>Transparent in <em>Aesir</em>, <em>Vanir</em>, weapon names</td></tr>
+<tr><td><span class="inferred"><em>-ir</em> = "giant/being" suffix</span></td><td>Medium</td><td>Consistent across <em>Aesir</em>, <em>Vanir</em>, <em>Tol'vir</em></td></tr>
+<tr><td><span class="inferred"><em>Aes</em> = "storm"</span></td><td>Medium</td><td>Supported by Tribunal of Ages gloss of <em>Aesir</em></td></tr>
+<tr><td><span class="inferred"><em>Van</em> = "earth"</span></td><td>Medium</td><td>Supported by Tribunal of Ages gloss of <em>Vanir</em></td></tr>
+<tr><td><span class="inferred"><em>Gor</em> = "dark"</span></td><td>Medium</td><td>Consistent across three RPG weapon names</td></tr>
+<tr><td><span class="inferred"><em>Tael/Taes</em> = "flame"</span></td><td>Medium</td><td>Supported by RPG gloss of <em>Taeshalach</em></td></tr>
+<tr><td><span class="inferred"><em>-shalach</em> = "rend/render"</span></td><td>Medium</td><td>Supported by two RPG weapon glosses</td></tr>
+<tr><td><span class="inferred"><em>Uld</em> = "city/facility"</span></td><td>Medium</td><td>Proposed by Brann Bronzebeard; supported by 8+ attested <em>Uld-</em> names</td></tr>
+<tr><td><span class="inferred"><em>Kalim</em> = "starlight"</span></td><td>Medium</td><td>Supported by confirmed gloss of <em>Kalimdor</em></td></tr>
+<tr><td><span class="inferred"><em>-dor</em> = "land"</span></td><td>Medium</td><td>Supported by confirmed gloss of <em>Kalimdor</em></td></tr>
+<tr><td><span class="uncertain"><em>Khaz</em> = "forge/shape"</span></td><td>Low</td><td>Appears in 3+ names related to crafting, but no gloss confirmed</td></tr>
+<tr><td><span class="uncertain"><em>Val</em> = "chosen/valor"</span></td><td>Low</td><td>Pattern in Odyn-related terms, but may be Common-language convention</td></tr>
+<tr><td><span class="uncertain">Word order</span></td><td>None</td><td>Only one untranslated phrase available</td></tr>
+<tr><td><span class="uncertain">Phonological analysis</span></td><td>Low</td><td>Based on orthography only; no phonetic data</td></tr>
+</tbody>
+</table>
+
+</body>
+</html>

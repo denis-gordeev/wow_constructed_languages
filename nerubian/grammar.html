@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nerubian Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="description.html">Description</a>
+<a href="grammar.html">Grammar</a>
+<a href="vocabulary.html">Vocabulary</a>
+&#8226;
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#attested-text">Attested Text</a>
+<a href="#ar-suffix">The -ar Suffix</a>
+<a href="#en-prefix">The En- Prefix</a>
+<a href="#syntax">Syntax</a>
+<a href="#relationships">Relationships</a>
+<a href="#limitations">Limitations</a>
+</nav>
+
+<h1>Nerubian Grammar</h1>
+
+<p>Grammar rules below are <strong>inferred from attested examples only</strong>. The Nerubian language has one attested text (a nerubian scroll: "Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k.") plus a corpus of proper names and place names spanning <em>Wrath of the Lich King</em> (2008), <em>Battle for Azeroth</em> (2018), and <em>The War Within</em> (2024). Patterns are noted where multiple examples support a rule. Speculative extensions are marked <span class="uncertain">[speculative]</span>.</p>
+
+<!-- ========== PHONOLOGY ========== -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="sound-inventory">Sound Inventory (Observed from Attested Names)</h3>
+
+<p><strong>Consonants</strong>: b, d, f, h, j, k, l, m, n, p, r, s, t, th (<span class="ipa">/θ/</span>), v, x (<span class="ipa">/ks/</span> or <span class="ipa">/x/</span>), z, sh (<span class="ipa">/ʃ/</span>), zh (<span class="ipa">/ʒ/</span>)</p>
+
+<p><strong>Vowels</strong>: a, e, i, o, u</p>
+
+<h3 id="key-phonological-discoveries">Key Phonological Discoveries (Official IPA)</h3>
+
+<p>The warcraft.wiki.gg provides official IPA pronunciations for several key nerubian names, confirming critical phonological features:</p>
+
+<table>
+<thead><tr><th>Name</th><th>Official IPA</th><th>Key Finding</th></tr></thead>
+<tbody>
+<tr><td><em>Azj-Kahet</em></td><td><span class="ipa">/ˈɑːʒ.kəˌhɛt/</span></td><td><em>Azj-</em> = <span class="ipa">/ɑːʒ/</span> (with <span class="ipa">/ʒ/</span>, not <span class="ipa">/z/</span> or <span class="ipa">/dʒ/</span>)</td></tr>
+<tr><td><em>Ahn'qiraj</em></td><td><span class="ipa">/ˈɑːn.kiˌɹɑːʒ/</span></td><td><em>-qiraj</em> = <span class="ipa">/kiˌɹɑːʒ/</span> (with <span class="ipa">/ʒ/</span>!)</td></tr>
+<tr><td><em>Qiraji</em></td><td><span class="ipa">/kiˈɹɑːʒ.i/</span></td><td>Self-designation contains <span class="ipa">/ʒ/</span></td></tr>
+<tr><td><em>Nerub-ar</em></td><td><span class="ipa">/ˈnɛ.ruːbˌɑ:r/</span></td><td><em>Nerub-</em> = <span class="ipa">/ˈnɛ.ruːb/</span> (long <span class="ipa">/uː/</span>), <em>-ar</em> = <span class="ipa">/ɑ:r/</span></td></tr>
+</tbody>
+</table>
+
+<p>The <span class="ipa">/ʒ/</span> phoneme, previously thought rare in nerubian, is now confirmed in the most important morpheme (<em>Azj-</em>) and in the qiraji self-designation (<em>-qiraj</em>). This significantly strengthens the <em>Azj-</em>/<em>Nazj-*</em> connection (naga <em>Nazj-</em> = <span class="ipa">/nɑːʒ/</span> is simply <span class="ipa">/n/</span> + <span class="ipa">/ɑːʒ/</span>) and suggests <span class="ipa">/ʒ/</span> was a feature of the Aqir substrate language.</p>
+
+<h3 id="phonological-patterns">Phonological Patterns</h3>
+
+<ol>
+<li><strong>Apostrophe as consistent morpheme boundary</strong>: The most distinctive structural feature of nerubian naming. Nearly all multi-morpheme names use apostrophes to mark morpheme boundaries:
+  <ul>
+    <li><em>Anub'azal</em>, <em>Anub'arak</em>, <em>Anub'rekhan</em>, <em>Anub'ess</em>, <em>Anub'izek</em>, <em>Anub'esset</em>, <em>Anub'et'kan</em> (seven attestations of <em>Anub-</em> + suffix)</li>
+    <li><em>Arak'nai</em>, <em>Ky'veza</em>, <em>Krix'vizk</em>, <em>Ix'zek</em>, <em>Rasha'nan</em>, <em>Ki'katal</em>, <em>Gut'usul</em> (TWW compounds)</li>
+    <li><em>Krik'thir</em>, <em>Anok'ra</em>, <em>Nezar'Azret</em> (pre-TWW compounds)</li>
+    <li><em>Vorus'arak</em>, <em>Nox'tir</em> (BfA compounds)</li>
+  </ul>
+  However, the attested nerubian scroll text uses <strong>hyphens</strong> (not apostrophes) to mark grammatical morpheme boundaries (<em>tikk-a-shisss</em>, <em>Na-l</em>, <em>Sohk-a</em>, <em>a-k-k-k</em>). This suggests that nerubian orthography distinguishes between compound name boundaries (apostrophe) and grammatical morpheme boundaries (hyphen).
+  <br><br>
+  This is more consistent than Darnassian/Nazja, where some compounds lack apostrophes (<em>Kaldorei</em>, <em>Teldrassil</em>). The nerubian apostrophe convention may reflect a more regular orthographic tradition.
+</li>
+
+<li><strong>The <span class="ipa">/ks/</span> (x) phoneme</strong>: Unusually frequent in nerubian names compared to other WoW languages:
+  <ul>
+    <li><em>Ulgrax</em>, <em>Ovi'nax</em>, <em>Hadronox</em> (word-final <span class="ipa">/ks/</span>)</li>
+    <li><em>Krix'vizk</em>, <em>Ix'zek</em> (medial <span class="ipa">/ks/</span> in first element)</li>
+    <li><em>Vrrix</em> (doubled consonant + <span class="ipa">/ks/</span>)</li>
+  </ul>
+  The <span class="ipa">/ks/</span> cluster may reflect the chitinous clicking sounds of arachnid vocalization, or it may be a Blizzard aesthetic choice for "hard" alien names.
+
+  <div class="note"><strong>Note on <em>x</em> = <span class="ipa">/x/</span> (velar fricative)</strong>: In the <em>-naxx</em> / <em>-nax</em> suffix specifically, <em>x</em> may represent <span class="ipa">/x/</span> rather than <span class="ipa">/ks/</span>. If <em>-naxx</em> = <span class="ipa">/næxː/</span> and <em>-nax</em> = <span class="ipa">/næx/</span>, the geminate vs. single fricative distinction is phonologically natural and avoids the difficulty of <span class="ipa">/næksks/</span>. The <em>-nox</em> / <em>-ox</em> variants would then be vowel alternations of the same suffix with <span class="ipa">/x/</span>. See qiraji/vocabulary.html §7 for full discussion.</div>
+</li>
+
+<li><strong>The <span class="ipa">/ʒ/</span> phoneme</strong>: Official IPA confirms <span class="ipa">/ʒ/</span> in key morphemes: <em>Azj-</em> = <span class="ipa">/ɑːʒ/</span>, <em>-azj</em> in <em>Takazj</em>, and <em>-qiraj</em> = <span class="ipa">/-ɹɑːʒ/</span>. This phoneme was likely inherited from the Aqir substrate and is shared with naga <em>Nazj-</em> = <span class="ipa">/nɑːʒ/</span>.</li>
+
+<li><strong>Sibilant frequency</strong>: Moderate. Names like <em>Nizrek</em>, <em>Krix'vizk</em>, <em>Rasha'nan</em> feature sibilants but less densely than Nazja (<em>Sira'kess</em>, <em>Sassz'ine</em>).</li>
+
+<li><strong>Consonant cluster tolerance</strong>: High, especially in initial position: <span class="ipa">/vr/</span> (<em>Vrrix</em>), <span class="ipa">/kr/</span> (<em>Krix'vizk</em>), <span class="ipa">/ɪks/</span> (<em>Ix'zek</em>). This approaches Vrykul cluster complexity.</li>
+
+<li><strong>Dental fricative <span class="ipa">/θ/</span></strong>: Appears in <em>Xanventh</em> and <em>Krik'thir</em>. Also found in Titan-forged languages (Vrykul, Earthen) and Darnassian. May be an areal feature of Azerothian languages rather than genetic inheritance.</li>
+
+<li><strong>Vowel distribution</strong>: Names favor <span class="ipa">/a/</span> and <span class="ipa">/e/</span> heavily, with <span class="ipa">/i/</span> common in unstressed syllables. <span class="ipa">/o/</span> and <span class="ipa">/u/</span> are relatively rare, similar to Nazja.</li>
+
+<li><strong>Syllable structure</strong>: Tends toward (C)(C)V(C)(C), allowing complex onsets and codas:
+  <ul>
+    <li>CV: <em>Izo</em></li>
+    <li>CVC: <em>Nizrek</em></li>
+    <li>CCVCC: <em>Vrrix</em></li>
+    <li>CVC'CVC: <em>Krix'vizk</em></li>
+  </ul>
+</li>
+</ol>
+
+<!-- ========== MORPHOLOGY ========== -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding">Compounding with Apostrophe Boundary</h3>
+
+<p>The most productive morphological pattern in nerubian is the apostrophe-marked compound:</p>
+
+<table>
+<thead><tr><th>Pattern</th><th>Examples</th></tr></thead>
+<tbody>
+<tr><td><em>Anub-</em> + suffix</td><td><em>Anub'azal</em>, <em>Anub'arak</em>, <em>Anub'rekhan</em>, <em>Anub'ess</em></td></tr>
+<tr><td>Initial + suffix</td><td><em>Arak'nai</em>, <em>Ovi'nax</em>, <em>Ky'veza</em>, <em>Rasha'nan</em></td></tr>
+<tr><td>Initial + suffix</td><td><em>Krik'thir</em>, <em>Anok'ra</em></td></tr>
+<tr><td>Initial consonant cluster + suffix</td><td><em>Krix'vizk</em>, <em>Ix'zek</em></td></tr>
+<tr><td>Initial vowel + suffix</td><td><em>Y'tekhi</em></td></tr>
+</tbody>
+</table>
+
+<p>The pattern is consistently: [modifier/prefix] + [head/suffix], with the apostrophe marking the boundary. This right-headed compounding pattern is shared with the Titan-forged language family, though whether through inheritance or convergence is unknown.</p>
+
+<h3 id="anub-prefix">The <em>Anub-</em> Prefix</h3>
+
+<p>The <em>Anub-</em> prefix is the most securely attested nerubian morpheme, appearing in eight names across multiple expansions:</p>
+
+<table>
+<thead><tr><th>Name</th><th>Expansion</th><th>Role</th></tr></thead>
+<tbody>
+<tr><td><em>Anub'arak</em></td><td>WotLK</td><td>King of Azjol-Nerub</td></tr>
+<tr><td><em>Anub'rekhan</em></td><td>WotLK</td><td>Crypt lord</td></tr>
+<tr><td><em>Anub'ess</em></td><td>Classic</td><td>Nerubian in Silithus</td></tr>
+<tr><td><em>Anub'azal</em></td><td>TWW</td><td>Military commander</td></tr>
+<tr><td><em>Anub'izek</em></td><td>Lore</td><td>First Queen of the True Nerub</td></tr>
+<tr><td><em>Anub'esset</em></td><td>Legion</td><td>Crypt lord</td></tr>
+<tr><td><em>Anub'et'kan</em></td><td>WotLK</td><td>Under-King</td></tr>
+<tr><td><em>Anub'arash</em></td><td>TWW (Silken Court)</td><td>Scarab Lord</td></tr>
+</tbody>
+</table>
+
+<p>All <em>Anub-</em> named nerubians hold positions of military or leadership significance. <em>Anub-</em> may therefore mean:</p>
+<ul>
+<li>"lord" or "warrior" (a title prefix)</li>
+<li>"servant of [the Old Gods]" (a religious designation)</li>
+<li>A proper name element with no independent meaning</li>
+</ul>
+
+<p><span class="uncertain">[speculative]</span> If <em>Anub-</em> is a title prefix (like Vrykul <em>Drottinn</em> or Drust <em>Gorak</em>), then <em>Anub'arak</em> would mean "Lord Arak" or "Warrior-Arak," and <em>Anub'azal</em> would mean "Lord Azal" or "Warrior-Azal." This interpretation is consistent with the fact that all <em>Anub-</em> bearers are military leaders.</p>
+
+<h3 id="kahet-suffix">The <em>-kahet</em> Suffix</h3>
+
+<p>The suffix <em>-kahet</em> appears in two nerubian place names:</p>
+
+<table>
+<thead><tr><th>Name</th><th>Expansion</th><th>Context</th></tr></thead>
+<tbody>
+<tr><td><em>Ahn'kahet</em></td><td>WotLK</td><td>"The Old Kingdom" — dungeon in Dragonblight</td></tr>
+<tr><td><em>Azj-Kahet</em></td><td>TWW</td><td>The nerubian kingdom in Khaz Algar</td></tr>
+</tbody>
+</table>
+
+<p>If <em>-kahet</em> = "kingdom" or "realm":</p>
+<ul>
+<li><em>Ahn'kahet</em> = "[Ahn]-kingdom" → "The Old Kingdom" (matches in-game designation)</li>
+<li><em>Azj-Kahet</em> = "[Azj]-kingdom" → "The Deep Kingdom" or "The Domain-Kingdom"</li>
+</ul>
+
+<p>This is one of the strongest nerubian morpheme inferences, supported by two independent attestations with consistent semantics.</p>
+
+<h3 id="rek-urek-suffix">The <em>-rek</em> / <em>-urek</em> Suffix</h3>
+
+<table>
+<thead><tr><th>Name</th><th>Analysis</th></tr></thead>
+<tbody>
+<tr><td><em>Nizrek</em></td><td><em>Niz-</em> + <em>-rek</em></td></tr>
+<tr><td><em>Ansurek</em></td><td><em>Ansur-</em> + <em>-ek</em> (or <em>Ans-</em> + <em>-urek</em>)</td></tr>
+</tbody>
+</table>
+
+<p>The <em>-rek</em> / <em>-urek</em> element may be a title or rank suffix. If <em>-rek</em> is related to <em>-rekhan</em> in <em>Anub'rekhan</em>, then the suffix has three attestations:</p>
+<ul>
+<li><em>Nizrek</em> (<em>-rek</em>)</li>
+<li><em>Ansurek</em> (<em>-urek</em> variant)</li>
+<li><em>Anub'rekhan</em> (<em>-rekhan</em> extended form)</li>
+</ul>
+
+<p><span class="uncertain">[speculative]</span> If <em>-rek</em> = "advisor/vizier" and <em>-urek</em> = "ruler/queen," then <em>Nizrek</em> = "Advisor Niz" and <em>Ansurek</em> = "Queen Ansur." The semantic difference between <em>-rek</em> and <em>-urek</em> could reflect a gender distinction or rank distinction.</p>
+
+<h3 id="nax-ax-suffix">The <em>-nax</em> / <em>-ax</em> Suffix</h3>
+
+<table>
+<thead><tr><th>Name</th><th>Analysis</th></tr></thead>
+<tbody>
+<tr><td><em>Ovi'nax</em></td><td><em>Ovi-</em> + <em>-nax</em></td></tr>
+<tr><td><em>Ulgrax</em></td><td><em>Ulgr-</em> + <em>-ax</em></td></tr>
+<tr><td><em>Hadronox</em></td><td><em>Hadron-</em> + <em>-ox</em></td></tr>
+<tr><td><em>Elder Nadox</em></td><td><em>Nad-</em> + <em>-ox</em></td></tr>
+</tbody>
+</table>
+
+<p>Four names end in the <span class="ipa">/æks/</span> or <span class="ipa">/ɒks/</span> sound. This may be:</p>
+<ul>
+<li>A rank or role suffix (e.g., "broodtwister" or "devourer")</li>
+<li>A coincidence (the sound is common in harsh-sounding names)</li>
+<li>Related to the <em>-nai</em> suffix in <em>Arak'nai</em> through a phonological alternation</li>
+</ul>
+
+<p><strong>Confidence: Very Low.</strong></p>
+
+<p>Notably, qiraji names also feature the <em>-naxx</em> / <em>-axx</em> ending (<em>Kurinnaxx</em>, <em>General Rajaxx</em>), suggesting this may be a shared Aqir substrate suffix. The qiraji forms consistently double the final consonant (<em>-naxx</em>, <em>-axx</em>) while the nerubian forms do not (<em>-nax</em>, <em>-ax</em>), potentially reflecting a regular sound change: Aqir *<em>-naxx</em> → nerubian <em>-nax</em> (simplification of geminate). See <a href="../qiraji/vocabulary.html">vocabulary.html</a> §13 for full analysis.</p>
+
+<h3 id="azj-suffix">The <em>-azj</em> Suffix</h3>
+
+<table>
+<thead><tr><th>Name</th><th>Analysis</th></tr></thead>
+<tbody>
+<tr><td><em>Takazj</em></td><td><em>Tak-</em> + <em>-azj</em></td></tr>
+</tbody>
+</table>
+
+<p>The <em>-azj</em> suffix in <em>Takazj</em> (Skeinspinner, Silken Court encounter) is the first attested suffix form of the <em>Azj-</em> morpheme. Official IPA confirms both <em>Azj-</em> = <span class="ipa">/ɑːʒ/</span> and <em>-azj</em> = <span class="ipa">/ɑːʒ/</span>, making this the same morpheme in different positional distribution:</p>
+
+<ul>
+<li><strong>As prefix (<em>Azj-</em>)</strong>: Marks toponyms — <em>Azj-Kahet</em>, <em>Azjol-Nerub</em>, <em>Azj'Aqir</em></li>
+<li><strong>As suffix (<em>-azj</em>)</strong>: May mark agentive or locative function — <em>Takazj</em> = "one of the deep" or "[from] the deep"</li>
+</ul>
+
+<p>This dual distribution (prefix and suffix) is typologically plausible — real-world morphemes often appear in both positions.</p>
+
+<p><strong>Confidence: Moderate</strong> for <em>-azj</em> being the same morpheme as <em>Azj-</em> in suffix position.</p>
+
+<h3 id="arash-suffix">The <em>-arash</em> Suffix</h3>
+
+<table>
+<thead><tr><th>Name</th><th>Analysis</th></tr></thead>
+<tbody>
+<tr><td><em>Anub'arash</em></td><td><em>Anub-</em> + <em>-arash</em></td></tr>
+</tbody>
+</table>
+
+<p>The <em>-arash</em> suffix in <em>Anub'arash</em> (Scarab Lord, Silken Court encounter) parallels <em>-arak</em> in <em>Anub'arak</em> but with <span class="ipa">/ʃ/</span> instead of <span class="ipa">/k/</span>:</p>
+
+<ul>
+<li><em>Anub'arak</em> = <em>Anub-</em> + <em>-arak</em> (King of Azjol-Nerub)</li>
+<li><em>Anub'arash</em> = <em>Anub-</em> + <em>-arash</em> (Scarab Lord)</li>
+</ul>
+
+<p>If <em>-arak</em> = "king/ruler" and <em>-arash</em> = "lord/scarab-lord," the <span class="ipa">/k/</span> → <span class="ipa">/ʃ/</span> alternation could reflect a rank distinction or phonologically conditioned variant. However, with only one attestation of <em>-arash</em>, this is speculative.</p>
+
+<p><strong>Confidence: Very Low.</strong></p>
+
+<h3 id="rak-prefix">The <em>Rak-</em> Toponymic Prefix</h3>
+
+<p>Three subzones in Azj-Kahet share the initial element <em>Rak-</em>:</p>
+
+<table>
+<thead><tr><th>Name</th><th>Analysis</th></tr></thead>
+<tbody>
+<tr><td><em>Rak-Ahat</em></td><td><em>Rak-</em> + <em>-Ahat</em></td></tr>
+<tr><td><em>Rak-Ush</em></td><td><em>Rak-</em> + <em>-Ush</em></td></tr>
+<tr><td><em>Rak-Zakaz</em></td><td><em>Rak-</em> + <em>Zakaz</em></td></tr>
+</tbody>
+</table>
+
+<p>Three attestations make <em>Rak-</em> the second-most-attested nerubian toponymic prefix after <em>Azj-</em>. Unlike <em>Azj-</em> and <em>Ahn-</em>, <em>Rak-</em> is restricted to the Khaz Algar dialect. Its meaning is unknown.</p>
+
+<p>The <em>Rak-</em> prefix uses a <strong>hyphen</strong> (not apostrophe) as a boundary marker, unlike the apostrophe convention in <em>Azj-Kahet</em> and <em>Ahn'kahet</em>. This may reflect a dialectal orthographic difference, or it may indicate that <em>Rak-</em> compounds are structurally different from <em>Azj-</em>/<em>Ahn-</em> compounds.</p>
+
+<p><strong>Confidence: Low–Moderate</strong> for <em>Rak-</em> as a genuine nerubian toponymic prefix.</p>
+
+<h3 id="zek-rek-parallel">The <em>-zek</em> / <em>-rek</em> Parallel</h3>
+
+<table>
+<thead><tr><th>Name</th><th>Suffix</th></tr></thead>
+<tbody>
+<tr><td><em>Ix'zek</em></td><td><em>-zek</em></td></tr>
+<tr><td><em>Nizrek</em></td><td><em>-rek</em></td></tr>
+</tbody>
+</table>
+
+<p>The phonological similarity between <em>-zek</em> and <em>-rek</em> (voiceless vs. voiced final consonant) may reflect:</p>
+<ul>
+<li>A common suffix with phonologically conditioned voicing</li>
+<li>Two different suffixes that happen to sound similar</li>
+<li>Coincidence</li>
+</ul>
+
+<p><span class="uncertain">[speculative]</span> If <em>-zek</em> and <em>-rek</em> are the same suffix with voicing alternation, the distribution could reflect a grammatical distinction (e.g., nominative <em>-rek</em> vs. genitive <em>-zek</em>, or singular <em>-rek</em> vs. plural <em>-zek</em>).</p>
+
+<!-- ========== ATTESTED TEXT ========== -->
+
+<h2 id="attested-text">Attested Text Analysis: The Nerubian Scroll</h2>
+
+<p>The only attested nerubian-language text is writing on a nerubian scroll:</p>
+
+<blockquote><strong>"Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k."</strong></blockquote>
+
+<h3 id="orthographic-conventions">Orthographic Conventions</h3>
+
+<p>The scroll text uses <strong>hyphens</strong> (not apostrophes) to mark word-internal morpheme boundaries, unlike proper names which use apostrophes. This orthographic distinction suggests:</p>
+
+<table>
+<thead><tr><th>Context</th><th>Boundary Marker</th><th>Examples</th></tr></thead>
+<tbody>
+<tr><td>Compound names</td><td>Apostrophe (')</td><td><em>Anub'azal</em>, <em>Ovi'nax</em>, <em>Krix'vizk</em></td></tr>
+<tr><td>Grammatical morpheme boundaries</td><td>Hyphen (-)</td><td><em>tikk-a-shisss</em>, <em>Na-l</em>, <em>Sohk-a</em>, <em>a-k-k-k</em></td></tr>
+</tbody>
+</table>
+
+<p>This dual system parallels real-world writing systems that distinguish between lexical compounding and inflectional morphology in their orthography.</p>
+
+<h3 id="phonological-evidence-scroll">Phonological Evidence from the Scroll</h3>
+
+<ol>
+<li><strong>Sibilant dominance confirmed</strong>: The text is dominated by sibilants: <em>shisss</em>, <em>Kreesh</em>, <em>hiss</em>, <em>shir</em>, <em>a-shisss</em>. This confirms that the sibilant-heavy phonology observed in nerubian proper names is a genuine feature of the language, not merely a Blizzard naming convention.</li>
+
+<li><strong>Repeated <em>-shisss</em> / <em>a-shisss</em> element</strong>: The element <em>-shisss</em> appears twice — once as <em>tikk-a-shisss</em> and once as <em>bkah a-shisss</em>. If <em>-shisss</em> is a suffix or particle, the repetition suggests grammatical agreement, parallel structure, or a refrain pattern.</li>
+
+<li><strong>Geminate/trilled consonants</strong>: The sequence <em>a-k-k-k</em> may represent a trilled or emphatic <span class="ipa">/k/</span> sound, suggesting that nerubian phonology includes consonant gemination or articulatory emphasis not captured in the romanization of proper names.</li>
+
+<li><strong>Linking vowel <em>-a-</em></strong>: The sequences <em>tikk-a-shisss</em> and <em>Sohk-a</em> suggest a linking vowel <span class="ipa">/a/</span> that connects morphemes within words. This is a morphological feature not visible in proper names (which use apostrophes instead).</li>
+
+<li><strong>Short utterance structure</strong>: The text consists of five short phrases separated by periods. This may reflect:
+  <ul>
+    <li>An incantation or ritual text (formal register)</li>
+    <li>A list format (itemized information)</li>
+    <li>Natural nerubian sentence length (if short phrases are the norm)</li>
+  </ul>
+</li>
+</ol>
+
+<h3 id="morphological-decomposition">Potential Morphological Decomposition</h3>
+
+<table>
+<thead><tr><th>Phrase</th><th>Possible Decomposition</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><em>Unhhh-tikk-a-shisss</em></td><td><em>Unhhh-</em> (interjection) + <em>tikk-</em> (verb?) + <em>-a-</em> (linking) + <em>-shisss</em> (suffix/particle)</td><td><em>Unhhh-</em> may be an exclamation; the triple <em>h</em> may mark aspiration or breathiness</td></tr>
+<tr><td><em>Kka shir</em></td><td><em>Kka</em> (pronoun/adverb?) + <em>shir</em> (verb?)</td><td>Two-word phrase; no hyphens</td></tr>
+<tr><td><em>Na-l bkah a-shisss</em></td><td><em>Na-</em> + <em>-l</em> (suffix) + <em>bkah</em> + <em>a-</em> + <em>-shisss</em></td><td><em>Na-l</em> shows hyphenated element; <em>a-shisss</em> repeats the suffix</td></tr>
+<tr><td><em>Kreesh kik ik ta</em></td><td><em>Kreesh</em> + <em>kik</em> + <em>ik</em> + <em>ta</em></td><td>Four short words; no hyphens</td></tr>
+<tr><td><em>Sohk-a tik hiss a-k-k-k</em></td><td><em>Sohk-</em> + <em>-a-</em> (linking) + <em>tik</em> + <em>hiss</em> + <em>a-k-k-k</em></td><td>Final <em>a-k-k-k</em> may be emphatic</td></tr>
+</tbody>
+</table>
+
+<p><strong>Confidence: Very Low</strong> for any specific gloss; <strong>High</strong> that this is genuine nerubian-language text with regular morphological structure.</p>
+
+<h3 id="comparison-other-texts">Comparison with Other Attested Texts</h3>
+
+<p>This parallels the attested Tol'vir phrases (<em>Kadesh</em> = "Swing", <em>Osadi</em> = "Strike", <em>Satekh</em> = "Block") — brief, formulaic utterances in a titan-forged/Aqir-descended language. However, unlike Tol'vir (which has confirmed translations), no nerubian scroll text has been translated in canon. The nerubian text is longer and more syntactically complex than the Tol'vir examples, which are single-word battle commands.</p>
+
+<!-- ========== -ar SUFFIX ========== -->
+
+<h2 id="ar-suffix">The <em>-ar</em> Suffix: A Nerubian Faction-Designation Morpheme</h2>
+
+<p>The suffix <em>-ar</em> appears in five nerubian faction/group names and one major place name, plus the <em>-arash</em> extension in <em>Anub'arash</em>:</p>
+
+<table>
+<thead><tr><th>Name</th><th>Decomposition</th><th>Context</th><th>Expansion</th></tr></thead>
+<tbody>
+<tr><td><em>Anub'ar</em></td><td><em>Anub-</em> + <em>-ar</em></td><td>Scourge faction (Dragonblight)</td><td>WotLK</td></tr>
+<tr><td><em>Hath'ar</em></td><td><em>Hath-</em> + <em>-ar</em></td><td>Scourge faction (Zul'Drak)</td><td>WotLK</td></tr>
+<tr><td><em>Nerub'ar</em></td><td><em>Nerub-</em> + <em>-ar</em></td><td>Scourge faction (Borean Tundra)</td><td>WotLK</td></tr>
+<tr><td><em>Ahn'kahar</em></td><td><em>Ahn-</em> + <em>-kahar</em></td><td>Scourge faction (Ahn'kahet)</td><td>WotLK</td></tr>
+<tr><td><em>Nerub-ar Palace</em></td><td><em>Nerub-</em> + <em>-ar</em></td><td>Ansurek's seat of power</td><td>TWW</td></tr>
+<tr><td><em>Voru'kar</em></td><td><em>Voru'</em> + <em>-kar</em></td><td>Hostile brood (Skittering Hollow)</td><td>BfA</td></tr>
+<tr><td><em>Anub'arash</em></td><td><em>Anub-</em> + <em>-arash</em></td><td>Scarab Lord (Silken Court)</td><td>TWW</td></tr>
+</tbody>
+</table>
+
+<p>The <em>-arash</em> in <em>Anub'arash</em> may contain the <em>-ar</em> element followed by <em>-ash</em>, potentially meaning "brood-lord" or "supreme commander." If <em>-ar</em> = "brood/collective" and <em>-ash</em> is an additional suffix, <em>-arash</em> would be an extended form. However, this decomposition is speculative.</p>
+
+<h3 id="ar-arguments-for">Arguments for <em>-ar</em> as a Genuine Morpheme</h3>
+
+<ol>
+<li><strong>Five attestations</strong>: The <em>-ar</em> suffix appears in five distinct faction names (<em>Anub'ar</em>, <em>Hath'ar</em>, <em>Nerub'ar</em>, <em>Ahn'kahar</em>, <em>Nerub-ar Palace</em>), spanning WotLK and TWW. This is too many independent occurrences to be purely coincidental.</li>
+
+<li><strong>Consistent semantic field</strong>: All five <em>-ar</em>-bearing names designate groups, factions, or collective entities:
+  <ul>
+    <li><em>Anub'ar</em>, <em>Hath'ar</em>, <em>Nerub'ar</em> = Scourge nerubian factions</li>
+    <li><em>Ahn'kahar</em> = faction associated with Ahn'kahet</li>
+    <li><em>Nerub-ar Palace</em> = the seat of the nerubian queen (the "Nerub-collective" seat)</li>
+  </ul>
+</li>
+
+<li><strong>Structural parallel with <em>-kahet</em></strong>: The <em>-kahar</em> in <em>Ahn'kahar</em> closely parallels <em>-kahet</em> in <em>Ahn'kahet</em>. If <em>-kahet</em> = "kingdom" and <em>-kahar</em> = "kingdom-faction" or "kingdom-brood," then <em>-ar</em> may be a suffix that converts a place-name element into a collective/faction designation.</li>
+
+<li><strong>Precedent in other WoW languages</strong>: The pattern of a collective suffix appended to a root is well-attested:
+  <ul>
+    <li>Darnassian <em>-dorei</em> = "people of" (<em>Kaldorei</em> = "Children of the Stars")</li>
+    <li>Nazja <em>-ess</em> / <em>-esssi</em> = collective/tribal suffix (<em>Sira'kess</em>)</li>
+    <li>The <em>-ar</em> suffix could be the nerubian equivalent: a morpheme meaning "brood," "swarm," or "collective"</li>
+  </ul>
+</li>
+
+<li><strong>Voru'kar variant</strong>: The BfA faction <em>Voru'kar</em> contains <em>-kar</em> rather than <em>-ar</em>. If <em>-kar</em> = <em>k-</em> + <em>-ar</em>, the initial <span class="ipa">/k/</span> could be a linking consonant or a different morphological form. Alternatively, <em>-kar</em> could be an independent suffix with a different meaning. The relationship between <em>-ar</em> and <em>-kar</em> is unclear.</li>
+</ol>
+
+<h3 id="ar-arguments-against">Arguments Against</h3>
+
+<ol>
+<li><strong>Small sample size</strong>: Only five clear attestations (six with <em>Voru'kar</em>). The pattern could be coincidental.</li>
+
+<li><strong>Scourge influence</strong>: Three of the five <em>-ar</em> names are Scourge factions (<em>Anub'ar</em>, <em>Hath'ar</em>, <em>Nerub'ar</em>). The <em>-ar</em> suffix could be a Scourge-era innovation rather than a native nerubian morpheme — a designation imposed by the Lich King's forces on organized nerubian groups. However, <em>Nerub-ar Palace</em> (TWW) is clearly native nerubian, not Scourge, which argues against this.</li>
+
+<li><strong>Homophony with Common/English <em>-ar</em></strong>: The <em>-ar</em> suffix could be a Blizzard rendering convention rather than a genuine nerubian morpheme. However, the same argument applies to all inferred morphemes in the corpus.</li>
+</ol>
+
+<h3 id="ar-assessment">Assessment</h3>
+
+<table>
+<thead><tr><th>Analysis</th><th>Plausibility</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><em>-ar</em> = genuine nerubian collective/faction suffix meaning "brood" or "swarm"</td><td><strong>Medium</strong></td><td>Five attestations with consistent semantics; <em>Nerub-ar Palace</em> confirms it is native nerubian, not just Scourge designation</td></tr>
+<tr><td><em>-ar</em> = Scourge-era innovation applied to organized nerubian groups</td><td><strong>Low</strong></td><td><em>Nerub-ar Palace</em> (TWW) is pre-Scourge, undermining this hypothesis</td></tr>
+<tr><td><em>-ar</em> = coincidental homophony</td><td><strong>Low</strong></td><td>Five independent occurrences of the same suffix in the same semantic domain is unlikely to be coincidence</td></tr>
+</tbody>
+</table>
+
+<p><strong>Confidence: Low–Moderate.</strong> The <em>-ar</em> suffix has a plausible semantic interpretation as a collective/faction-designation morpheme, supported by five attestations spanning two expansions. The strongest evidence is the consistent pairing of known nerubian roots (<em>Anub-</em>, <em>Nerub-</em>, <em>Hath-</em>) with the same suffix, combined with the TWW <em>Nerub-ar Palace</em> confirming native (non-Scourge) usage.</p>
+
+<h3 id="ahn-kahar-implications">Implications for <em>Ahn'kahar</em></h3>
+
+<p>If <em>-ar</em> = "brood/collective" and <em>-kahet</em> = "kingdom," then <em>Ahn'kahar</em> = <em>Ahn-</em> + <em>-kah-</em> + <em>-ar</em>, where <em>-kah-</em> may be a truncated form of <em>-kahet</em>. This would mean:</p>
+<ul>
+<li><em>Ahn'kahet</em> = "Old-kingdom"</li>
+<li><em>Ahn'kahar</em> = "Old-kingdom-brood" = "the brood of the Old Kingdom"</li>
+</ul>
+
+<p>This is semantically coherent — the Ahn'kahar are the faction of nerubians associated with the Ahn'kahet dungeon. The <em>-kah-</em> truncation (<em>-kahet</em> → <em>-kah-</em>) before the <em>-ar</em> suffix would be a regular morphological process: dropping the final syllable of the place-name root before adding the collective suffix.</p>
+
+<!-- ========== EN- PREFIX ========== -->
+
+<h2 id="en-prefix">Investigation: <em>En'kilah</em> and the <em>En-</em> Prefix</h2>
+
+<p>The WotLK place name <em>En'kilah</em> (<span class="ipa">/ɛnˈkiːlɑː/</span>) is a Temple City in Borean Tundra, occupied by the Scourge during the Wrath of the Lich King expansion. If this is a native nerubian toponym, the decomposition <em>En-</em> + <em>-kilah</em> would add a new prefix to the nerubian toponymic system alongside the established <em>Ahn-</em> and <em>Azj-</em>.</p>
+
+<h3 id="toponymic-prefix-system">The Nerubian Toponymic Prefix System (Attested)</h3>
+
+<table>
+<thead><tr><th>Prefix</th><th>Attested In</th><th>Inferred Meaning</th><th>Confidence</th></tr></thead>
+<tbody>
+<tr><td><em>Azj-</em></td><td><em>Azjol-Nerub</em>, <em>Azj-Kahet</em>, <em>Azj'Aqir</em></td><td>"deep/realm/domain"</td><td>High</td></tr>
+<tr><td><em>Ahn-</em></td><td><em>Ahn'kahet</em>, <em>Ahn'qiraj</em></td><td>"old/ancient/sacred"</td><td>Low–Medium</td></tr>
+<tr><td><em>Rak-</em></td><td><em>Rak-Ahat</em>, <em>Rak-Ush</em>, <em>Rak-Zakaz</em></td><td>Unknown</td><td>Low–Moderate</td></tr>
+<tr><td><em>En-</em></td><td><em>En'kilah</em> (?)</td><td>Unknown</td><td>Very Low</td></tr>
+</tbody>
+</table>
+
+<h3 id="en-arguments-for">Arguments for <em>En-</em> as a Nerubian Toponymic Prefix</h3>
+
+<ol>
+<li><strong>Structural parallel</strong>: <em>En'kilah</em> follows the same pattern as <em>Ahn'kahet</em> and <em>Ahn'qiraj</em> — a short initial element followed by an apostrophe and a second morpheme. This is the established nerubian/Aqir toponymic pattern.</li>
+
+<li><strong>Three-prefix system</strong>: Many real-world languages have multiple toponymic prefixes (e.g., Arabic <em>Al-</em>, <em>Dar-</em>, <em>Bir-</em>). A three-prefix system (<em>Azj-</em>, <em>Ahn-</em>, <em>En-</em>) is typologically plausible.</li>
+
+<li><strong>Semantic possibility</strong>: If <em>Azj-</em> = "deep/realm" and <em>Ahn-</em> = "old/ancient," then <em>En-</em> could mean "sacred," "high," "new," or "inner" — any semantic field that distinguishes a temple city from a kingdom or an old fortress.</li>
+</ol>
+
+<h3 id="en-arguments-against">Arguments Against</h3>
+
+<ol>
+<li><strong>Single attestation</strong>: <em>En'kilah</em> is the only known place name with the <em>En-</em> element. No other <em>En-</em> toponyms exist in the corpus.</li>
+
+<li><strong>Possible non-nerubian origin</strong>: <em>En'kilah</em> is located in Borean Tundra, not in a confirmed nerubian zone. While it is described as a Scourge-occupied structure, its original builders are not definitively identified as nerubian. It could be:
+  <ul>
+    <li>A Vrykul structure (Borean Tundra had significant Vrykul presence)</li>
+    <li>A Titan-forged structure (Borean Tundra contains Coldarra and other Titan-related sites)</li>
+    <li>A Scourge-era construction with no pre-Scourge significance</li>
+  </ul>
+</li>
+
+<li><strong>Possible qiraji origin</strong>: If <em>En'kilah</em> were a qiraji or Aqir name rather than nerubian, the <em>En-</em> prefix would belong to a different language's toponymic system. However, qiraji toponyms use <em>Ahn-</em> (<em>Ahn'qiraj</em>), not <em>En-</em>.</li>
+
+<li><strong>Etymology of <em>-kilah</em></strong>: The element <em>-kilah</em> resembles Arabic <em>qila</em> ("fortress") or <em>kil'a</em> ("citadel"), consistent with the Egyptian/Middle Eastern aesthetic of both nerubian and qiraji naming. If <em>-kilah</em> is an Arabic loan by Blizzard rather than a genuine nerubian morpheme, the <em>En-</em> + <em>-kilah</em> decomposition may not reflect nerubian morphology at all.</li>
+</ol>
+
+<h3 id="en-assessment">Assessment</h3>
+
+<table>
+<thead><tr><th>Analysis</th><th>Plausibility</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><em>En-</em> is a nerubian toponymic prefix (parallel to <em>Ahn-</em> and <em>Azj-</em>)</td><td><strong>Low–Medium</strong></td><td>Structural parallel is strong; but single attestation and uncertain building origin weaken the case</td></tr>
+<tr><td><em>En-</em> is a qiraji/Aqir prefix (not nerubian)</td><td><strong>Low</strong></td><td>No other qiraji names use <em>En-</em>; qiraji uses <em>Ahn-</em></td></tr>
+<tr><td><em>En'kilah</em> is not a nerubian/Aqir name at all</td><td><strong>Low–Medium</strong></td><td>Borean Tundra is not a confirmed nerubian zone; the structure could be Vrykul, Titan-forged, or Scourge-built</td></tr>
+<tr><td><em>En'kilah</em> is a Blizzard design borrowing from Arabic <em>kil'a</em> ("citadel") with no in-universe morphological significance</td><td><strong>Medium</strong></td><td>The <em>-kilah</em> element strongly resembles Arabic; Blizzard may have simply chosen a "temple city" name without regard for nerubian morphological consistency</td></tr>
+</tbody>
+</table>
+
+<p><strong>Confidence: Very Low.</strong> The <em>En-</em> element in <em>En'kilah</em> cannot be confidently assigned to the nerubian toponymic system. While the structural parallel with <em>Ahn'kahet</em> and <em>Ahn'qiraj</em> is suggestive, the single attestation, uncertain building origin, and possible Arabic design borrowing prevent any firm conclusion. The item is flagged for future investigation if additional <em>En-</em> toponyms are discovered.</p>
+
+<!-- ========== SYNTAX ========== -->
+
+<h2 id="syntax">Syntax</h2>
+
+<ul>
+<li>No sentence-level attestation exists (the nerubian scroll text is untranslated)</li>
+<li>Word order cannot be determined with confidence</li>
+<li>The compounding pattern (prefix + head, with apostrophe boundary) is the only confirmed syntactic observation from proper names</li>
+<li>The language may follow a modifier-head structure in compounds (inferred from <em>Anub-</em> + suffix pattern), consistent with the right-headed compounding tradition found in both Titan-forged and Aqir-descended languages</li>
+<li>The scroll text shows short phrases (2–5 words) separated by periods, but without translations, the syntactic structure of these phrases cannot be determined</li>
+</ul>
+
+<!-- ========== RELATIONSHIPS ========== -->
+
+<h2 id="relationships">Relationship to Other WoW Languages</h2>
+
+<h3 id="aqir-substrate">The Aqir Substrate Hypothesis</h3>
+
+<p>The nerubians descend from the Aqir, an ancient insectoid race created by the Old Gods. The Qiraji (of Silithus) and the Nerubians are the two known Aqir-descended civilizations. If the Aqir had a language, both Nerubian and Qiraji would be expected to preserve elements of it.</p>
+
+<p>The <em>Azj-</em> element is the primary evidence for an Aqir substrate:</p>
+<ul>
+<li><em>Azjol-Nerub</em> (nerubian, WotLK) — <em>Azj-</em> + <em>-ol-</em> + <em>Nerub</em></li>
+<li><em>Azj-Kahet</em> (nerubian, TWW) — <em>Azj-</em> + <em>-Kahet</em></li>
+<li><em>Nazjatar</em> (naga, BfA) — <em>Nazj-</em> + <em>-atar</em> (if <em>Nazj-</em> = <em>N-</em> + <em>Azj-</em>)</li>
+</ul>
+
+<p>If <em>Azj-</em> is an Aqir word, it would be a "fossil morpheme" — preserved in both descendant languages but with different phonological development (<em>Azj-</em> in nerubian, <em>Nazj-</em> in naga with initial <em>N-</em> prefix).</p>
+
+<h3 id="ahn-azj-alternation">The <em>Ahn-</em> vs. <em>Azj-</em> Alternation</h3>
+
+<p>The place names <em>Ahn'kahet</em> and <em>Azj-Kahet</em> share <em>-kahet</em> but differ in the initial element. Possible explanations:</p>
+
+<ol>
+<li><strong>Different morphemes</strong>: <em>Ahn-</em> = "old" (if <em>Ahn'kahet</em> = "Old Kingdom") and <em>Azj-</em> = "deep/domain" (if <em>Azj-Kahet</em> = "Deep Kingdom"). Simplest analysis; no sound change needed.</li>
+
+<li><strong>Dialectal variation from shared root</strong>: A proto-nerubian form like *<em>Anzj-</em> could have simplified to <em>Ahn-</em> in Northrend and fronted to <em>Azj-</em> in Khaz Algar. Speculative but possible.</li>
+
+<li><strong>Ahn- is not nerubian</strong>: <em>Ahn'kahet</em> may be an Aqir or qiraji name rather than native nerubian, since the similar element <em>Ahn-</em> appears in <em>Ahn'qiraj</em> (a qiraji place name). The <em>Ahn-</em> element appears in both nerubian (<em>Ahn'kahet</em>) and qiraji (<em>Ahn'qiraj</em>) toponyms, both with the same structural pattern (<em>Ahn-</em> + apostrophe + second morpheme). If <em>Ahn-</em> is a shared Aqir substrate morpheme meaning "old/ancient/sacred," it was inherited by both species from their common Aqir ancestry. This would make <em>Ahn-</em> the second confirmed Aqir substrate morpheme (after <em>Azj-</em>). See <a href="../qiraji/vocabulary.html">qiraji/vocabulary.html</a> §13 for full analysis.</li>
+</ol>
+
+<p><strong>Confidence: Low–Medium</strong> for <em>Ahn-</em> as a shared Aqir morpheme; <strong>Low</strong> for the data being insufficient to resolve the <em>Ahn-</em> vs. <em>Azj-</em> alternation.</p>
+
+<h3 id="nefer-element">The <em>Nefer-</em> Element: Nerubian–Tol'vir Connection</h3>
+
+<p>The element <em>Nefer-</em> appears in both nerubian (<em>Neferess</em>) and Tol'vir (<em>Neferset</em>). Both are phonologically identical (<span class="ipa">/nɛfɛr/</span>) and both reflect Blizzard's Egyptian-inspired naming aesthetic (cf. Egyptian <em>nfr</em> = "beautiful/good").</p>
+
+<p>However, this is almost certainly a shared <strong>design inspiration</strong> rather than a genuine in-universe linguistic connection:</p>
+<ul>
+<li>Nerubian has no confirmed relationship to the titan-forged language family (which includes Tol'vir)</li>
+<li>No other shared morphemes exist between nerubian and Tol'vir (<em>Anub-</em> is nerubian-only; <em>-kahet</em> is nerubian-only; <em>Vir'-</em>, <em>-et</em> are Tol'vir-only)</li>
+<li>Both species have Egyptian aesthetics, and <em>Nefer-</em> is the most recognizable Egyptian morpheme</li>
+</ul>
+
+<p><strong>Confidence: Very Low</strong> for a genuine linguistic connection; <strong>High</strong> for shared Blizzard design inspiration.</p>
+
+<h3 id="titan-forged-comparison">Comparison with Titan-Forged Compounding</h3>
+
+<p>Both nerubian and titan-forged languages use right-headed compounding with apostrophe boundaries:</p>
+
+<table>
+<thead><tr><th>Language</th><th>Example</th><th>Pattern</th></tr></thead>
+<tbody>
+<tr><td>Nerubian</td><td><em>Anub'azal</em></td><td>Prefix + suffix</td></tr>
+<tr><td>Titan</td><td><em>Khaz'goroth</em></td><td>Prefix + suffix</td></tr>
+<tr><td>Vrykul</td><td><em>Val'kyr</em></td><td>Prefix + suffix</td></tr>
+<tr><td>Darnassian</td><td><em>Kaldorei</em></td><td>Modifier + head</td></tr>
+</tbody>
+</table>
+
+<p>This shared pattern may reflect:</p>
+<ol>
+<li>Independent development (apostrophe-marked compounding is a common fantasy convention)</li>
+<li>A deep Azerothian areal feature (shared through contact, not inheritance)</li>
+<li>Blizzard's consistent design language across WoW naming</li>
+</ol>
+
+<p>The similarity is suggestive but cannot establish a genetic relationship.</p>
+
+<!-- ========== LIMITATIONS ========== -->
+
+<h2 id="limitations">Limitations</h2>
+
+<p>The nerubian corpus is extremely small:</p>
+<ul>
+<li>~22 personal names (from WotLK, BfA, and TWW combined)</li>
+<li>~14 place names with nerubian etymologies</li>
+<li><strong>1 attested text</strong> (nerubian scroll, untranslated)</li>
+</ul>
+
+<p>No verb forms, particles, or syntactic structures are known. The only confirmed morphological patterns are:</p>
+<ol>
+<li>Apostrophe-marked compounding (high confidence)</li>
+<li><em>Anub-</em> prefix (high confidence, 8 attestations)</li>
+<li><em>-kahet</em> suffix (moderate confidence)</li>
+<li><em>Azj-</em>/<em>-azj</em> morpheme (high confidence, 4 attestations as prefix + 1 as suffix)</li>
+<li><em>-ar</em> faction suffix (low–moderate confidence, 6 attestations)</li>
+<li><em>-rek</em> / <em>-urek</em> suffix (low confidence)</li>
+<li><em>Rak-</em> toponymic prefix (low–moderate confidence, 3 attestations)</li>
+</ol>
+
+<p>All other morpheme identifications are speculative.</p>
+
+</body>
+</html>

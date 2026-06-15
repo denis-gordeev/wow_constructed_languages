@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ethereal Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="description.html">Description</a>
+<a href="grammar.html">Grammar</a>
+<a href="vocabulary.html">Vocabulary</a>
+</nav>
+
+<h1>Ethereal Grammar</h1>
+
+<p>Grammar rules below are <strong>inferred from attested examples only</strong>. The Ethereal language has no attested sentences — the entire corpus consists of proper names, place names, and faction designations spanning <em>The Burning Crusade</em> (2007), <em>Shadowlands</em> (2020), and <em>The War Within</em> (2024–2026). Patterns are noted where multiple examples support a rule. Speculative extensions are marked <span class="uncertain">[speculative]</span>.</p>
+
+<!-- ═══ Phonology ═══ -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="sound-inventory">Sound Inventory (Observed from Attested Names)</h3>
+
+<p><strong>Consonants</strong>: b, d, f, h, j, k, l, m, n, r, s, sh (<span class="ipa">/ʃ/</span>), t, v, z, zh (<span class="ipa">/ʒ/</span>)</p>
+
+<p><strong>Vowels</strong>: a, e, i, o, u</p>
+
+<h3 id="phonological-patterns">Phonological Patterns</h3>
+
+<ol>
+<li><strong>Apostrophe as morpheme boundary</strong>: The names <em>K'aresh</em> and <em>Ve'nari</em> use apostrophes to mark morpheme boundaries, consistent with nerubian, qiraji, and Shath'Yar conventions. However, not all ethereal names use apostrophes (<em>Salhadaar</em>, <em>Shaffar</em>, <em>Haramad</em>, <em>Azir</em>, <em>Ameer</em>), suggesting the convention is less consistent than in nerubian.</li>
+
+<li><strong>Sibilant preference</strong>: High frequency of <span class="ipa">/ʃ/</span> (sh) and <span class="ipa">/s/</span> in ethereal names: <em>K'aresh</em>, <em>Tazavesh</em>, <em>Shaffar</em>. This may reflect:
+  <ul>
+    <li>The ethereals' "whispery" nature as energy beings</li>
+    <li>A Blizzard aesthetic choice to make ethereal names sound "shimmering" or "insubstantial"</li>
+    <li>A genuine phonological tendency of the language</li>
+  </ul>
+</li>
+
+<li><strong>Syllable simplicity</strong>: Ethereal names tend toward simple CV or CVC syllables, without the complex consonant clusters found in nerubian (<em>Krix'vizk</em>, <em>Vrrix</em>) or Vrykul. This is a notable phonological difference from other "alien" WoW languages.</li>
+
+<li><strong>Long vowels</strong>: <em>Salhadaar</em> contains the sequence <em>-aa-</em> (<span class="ipa">/ɑː/</span>), which may represent a long vowel or geminate vowel. If this is a phonologically significant feature, it could mark stress, morpheme boundaries, or semantic distinctions.</li>
+
+<li><strong>Geminate consonants</strong>: <em>Shaffar</em> contains <em>-ff-</em>, which may represent a geminate <span class="ipa">/f/</span>. If the ethereal language has geminate consonants (like qiraji <em>-naxx</em>), this would be a feature shared with qiraji but not nerubian.</li>
+
+<li><strong>Vowel distribution</strong>: Names favor <span class="ipa">/a/</span> and <span class="ipa">/e/</span> heavily, with <span class="ipa">/i/</span> and <span class="ipa">/u/</span> less common. <span class="ipa">/o/</span> is rare. This pattern partially overlaps with nerubian and Nazja vowel distributions.</li>
+</ol>
+
+<h3 id="comparison-alien-languages">Comparison with Other "Alien" WoW Languages</h3>
+
+<table>
+<thead>
+<tr><th>Feature</th><th>Ethereal</th><th>Nerubian</th><th>Qiraji</th><th>Shath'Yar</th></tr>
+</thead>
+<tbody>
+<tr><td>Apostrophe usage</td><td>Moderate (<em>K'aresh</em>, <em>Ve'nari</em>, <em>Ma'nussa</em>, <em>Al'dani</em>, <em>Mu'fah</em>, <em>Khay'ji</em>, <em>Gava'xi</em>)</td><td>Very consistent</td><td>Consistent</td><td>Very consistent</td></tr>
+<tr><td>Initial clusters</td><td>Absent</td><td>Present</td><td>Absent</td><td>Present</td></tr>
+<tr><td>Geminate consonants</td><td>Possible (<em>-ff-</em>, <em>-aa-</em>, <em>-zz-</em>)</td><td>Absent</td><td>Present</td><td>Not clearly attested</td></tr>
+<tr><td>Sibilant density</td><td>High</td><td>Moderate</td><td>Moderate</td><td>High</td></tr>
+<tr><td>Syllable complexity</td><td>Simple</td><td>Complex</td><td>Moderate</td><td>Complex</td></tr>
+<tr><td><span class="ipa">/ks/</span> (x) frequency</td><td>Absent from names</td><td>High</td><td>Moderate</td><td>Absent</td></tr>
+<tr><td>Arabic-inspired names</td><td>High (<em>Salhadaar</em>, <em>Haramad</em>, <em>Ameer</em>, <em>Bilaal</em>, <em>Razaan</em>, <em>Durzaan</em>, <em>Nezhar</em>)</td><td>Low</td><td>Moderate</td><td>Absent</td></tr>
+</tbody>
+</table>
+
+<!-- ═══ Morphology ═══ -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding">Compounding with Apostrophe Boundary</h3>
+
+<p>The primary morphological pattern observable in ethereal names is the apostrophe-marked compound:</p>
+
+<table>
+<thead>
+<tr><th>Pattern</th><th>Examples</th></tr>
+</thead>
+<tbody>
+<tr><td><em>K'</em> + suffix</td><td><em>K'aresh</em></td></tr>
+<tr><td><em>Ve'</em> + suffix</td><td><em>Ve'nari</em></td></tr>
+</tbody>
+</table>
+
+<p>Unlike nerubian (which has dozens of apostrophe-marked compounds), ethereal has only two clear examples. This makes it difficult to determine whether apostrophe-marking is a productive morphological process or a feature of only certain name types.</p>
+
+<p class="note"><span class="uncertain">[speculative]</span> If the compounding pattern is [modifier/prefix] + [head/suffix], then <em>K'aresh</em> = "[K']-realm" and <em>Ve'nari</em> = "[Ve']-[nari]" — a modifier-head order consistent with right-headed compounding in the titan-forged and Aqir-descended language families. However, with only two data points, this inference is extremely weak.</p>
+
+<h3 id="esh-suffix">The <em>-esh</em> / <em>-aresh</em> Suffix</h3>
+
+<p>The element <em>-esh</em> appears in two place names:</p>
+
+<table>
+<thead>
+<tr><th>Name</th><th>Decomposition</th><th>Proposed Gloss</th></tr>
+</thead>
+<tbody>
+<tr><td><em>K'aresh</em></td><td><em>K'ar-</em> + <em>-esh</em> (or <em>K'</em> + <em>-aresh</em>)</td><td><span class="inferred">"[K'ar]-realm"</span></td></tr>
+<tr><td><em>Tazavesh</em></td><td><em>Tazav-</em> + <em>-esh</em></td><td><span class="inferred">"[Tazav]-realm"</span></td></tr>
+</tbody>
+</table>
+
+<p>If <em>-esh</em> = "world" / "realm" / "home," this would be one of the most securely attested ethereal morphemes, with two independent attestations and consistent semantics.</p>
+
+<p>The artifact name <em>Reshii</em> may provide the full root form: <em>Resh-</em> = "realm/world," with <em>-esh</em> being a reduced form (loss of initial <span class="ipa">/r/</span> after consonant-final stems) and <em>-aresh</em> being an extended form with linking vowel. See <a href="vocabulary.html">vocabulary.html</a> §14 for full analysis.</p>
+
+<p class="note"><span class="uncertain">[speculative]</span> The <em>-aresh</em> form in <em>K'aresh</em> could be an extended variant: <em>-a-resh</em> with a linking vowel, or <em>-ar-esh</em> with an additional consonant. If the base suffix is <em>-esh</em>, then <em>-aresh</em> = <em>-a-</em> + <em>-esh</em>, with the linking vowel possibly marking a specific semantic distinction (e.g., "homeworld" vs. "city/realm").</p>
+
+<p><strong>Confidence: Moderate–High</strong> for <em>-esh</em> as a genuine locative suffix (upgraded from Moderate based on <em>Reshii</em> plural analysis; Wikipedia confirms multiple Reshii Ribbons existed, each held by a different Ravel member, strengthening <em>-ii</em> as a plural suffix and <em>Resh-</em> as the root form).</p>
+
+<h3 id="daar-suffix">The <em>-daar</em> Suffix</h3>
+
+<p>The element <em>-daar</em> appears in <em>Salhadaar</em>, the name of the Nexus-King (former ruler of K'aresh). If <em>-daar</em> = "king" or "ruler," this would parallel other WoW language systems where name suffixes encode social rank (cf. nerubian <em>-arak</em> "king/ruler").</p>
+
+<p>However, with only one attestation, this remains highly speculative.</p>
+
+<p><strong class="uncertain">Confidence: Very Low.</strong></p>
+
+<h3 id="nexus-titles">The Nexus- Title Hierarchy</h3>
+
+<p>The ethereal political system uses a hierarchy of Common-language titles:</p>
+
+<table>
+<thead>
+<tr><th>Title</th><th>Rank</th><th>Attested Holders</th></tr>
+</thead>
+<tbody>
+<tr><td>Nexus-King</td><td>Highest (sovereign)</td><td><em>Salhadaar</em></td></tr>
+<tr><td>Nexus-Prince</td><td>High nobility / city rulers</td><td><em>Shaffar</em>, <em>Haramad</em>, <em>Bilaal</em>, <em>Razaan</em>, <em>Azir</em></td></tr>
+<tr><td>Nexus-Princess</td><td>High nobility / city rulers</td><td><em>Ky'veza</em></td></tr>
+</tbody>
+</table>
+
+<p class="note"><span class="uncertain">[speculative]</span> If the ethereal language has native equivalents for these titles, they may use different suffixes:</p>
+<ul>
+<li>Nexus-King ≈ <span class="inferred">[name]-daar</span> (if <em>-daar</em> = "king")</li>
+<li>Nexus-Prince ≈ <span class="inferred">[name]-[different suffix]</span> (not attested)</li>
+</ul>
+<p>This is entirely speculative but provides a framework for future investigation.</p>
+
+<!-- ═══ Arabic Investigation ═══ -->
+
+<h2 id="arabic-investigation">Investigation: The Arabic-Inspired Naming Pattern</h2>
+
+<p>A striking number of ethereal names evoke Arabic phonology and morphology:</p>
+
+<table>
+<thead>
+<tr><th>Ethereal Name</th><th>Arabic Parallel</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Salhadaar</em></td><td><em>Salah al-Din</em> (Saladin), <em>salah</em> ("righteousness")</td><td>Two-part structure with long vowel</td></tr>
+<tr><td><em>Haramad</em></td><td><em>Haram</em> ("sanctuary"), <em>Ahmad</em></td><td>Similar consonant pattern <span class="ipa">/h...m...d/</span></td></tr>
+<tr><td><em>Ameer</em></td><td><em>amīr</em> ("commander/prince")</td><td>Near-phonological identity; semantic match (Commander Ameer)</td></tr>
+<tr><td><em>Bilaal</em></td><td><em>Bilal</em> (Arabic name, companion of Muhammad)</td><td>Near-identity; geminate <span class="ipa">/l/</span> in both</td></tr>
+<tr><td><em>Razaan</em></td><td><em>Razan</em> (Arabic name)</td><td>Same consonant skeleton <span class="ipa">/r...z...n/</span></td></tr>
+<tr><td><em>Durzaan</em></td><td><em>Dhu'l-Qa'dah</em> pattern? or Persian <em>-zaan</em> suffix</td><td><em>-zaan</em> ending parallels <em>Razaan</em></td></tr>
+<tr><td><em>Nezhar</em></td><td><em>Nizar</em> (Arabic name)</td><td>Similar consonant pattern <span class="ipa">/n...zh...r/</span> ~ <span class="ipa">/n...z...r/</span></td></tr>
+<tr><td><em>Mu'fah</em></td><td><em>Mu'awiyah</em>, <em>Muhammad</em></td><td>The <em>Mu-</em> prefix is common in Arabic names</td></tr>
+<tr><td><em>Khay'ji</em></td><td><em>Khayri</em> (Arabic name from <em>khayr</em> "good")</td><td>Initial <span class="ipa">/xeɪ/</span> ~ <span class="ipa">/xaɪ/</span></td></tr>
+</tbody>
+</table>
+
+<h3 id="arabic-pattern">The Pattern</h3>
+
+<p>Nine of approximately 25 documented ethereal names show clear Arabic phonological or morphological parallels. This is a significantly higher concentration than in any other WoW language. The pattern includes:</p>
+
+<ol>
+<li><strong>Consonant skeletons</strong>: Arabic uses triconsonantal roots (e.g., <em>k-t-b</em> for "writing"). Ethereal names like <em>Haramad</em> (<span class="ipa">/h-r-m-d/</span>), <em>Razaan</em> (<span class="ipa">/r-z-n/</span>), and <em>Nezhar</em> (<span class="ipa">/n-zh-r/</span>) follow similar root patterns.</li>
+
+<li><strong>Long vowels</strong>: Arabic distinguishes long and short vowels. Ethereal names with <em>-aa-</em> (<em>Salhadaar</em>, <em>Razaan</em>, <em>Durzaan</em>) mirror this feature.</li>
+
+<li><strong>The <em>-aan</em> ending</strong>: Three ethereal names end in <em>-aan</em> / <em>-zaan</em> (<em>Razaan</em>, <em>Durzaan</em>). Arabic uses <em>-ān</em> as a noun-forming suffix (e.g., <em>sultān</em>).</li>
+
+<li><strong>Semantic calques</strong>: <em>Ameer</em> ≈ Arabic <em>amīr</em> ("commander") — and the character holds the rank of Commander. This is the strongest evidence for deliberate design rather than coincidence.</li>
+</ol>
+
+<h3 id="arabic-two-explanations">Two Explanations</h3>
+
+<p><strong>Hypothesis 1: Deliberate Blizzard Design Pattern</strong></p>
+
+<p>Blizzard deliberately chose Arabic-inspired names for ethereals to evoke:</p>
+<ul>
+<li>Desert-dwelling merchant culture (paralleling real-world Arabic-speaking merchant traditions)</li>
+<li>The mystique of an exotic, ancient civilization</li>
+<li>A "foreign/otherworldly" aesthetic distinct from the Norse-inspired titan-forged family</li>
+</ul>
+
+<p>This is the more parsimonious explanation. Blizzard's art team explicitly designed ethereals with a Middle Eastern aesthetic (flowing bandages = robes, Netherstorm = desert, merchant culture = bazaar), and the naming convention follows this design intent.</p>
+
+<p><strong>Hypothesis 2: Genuine Ethereal-Language Phonological Tendency</strong></p>
+
+<p>If we treat the ethereal language as a genuine in-universe linguistic system, the Arabic-like features could reflect:</p>
+<ul>
+<li>Genuine ethereal phonological preferences (triconsonantal roots, long vowels)</li>
+<li>A cultural-linguistic link between desert environments and certain phonological features</li>
+<li>An independent development that converges on Arabic-like patterns due to similar cultural pressures (merchant culture, desert environment, hierarchical political structure)</li>
+</ul>
+
+<p>This hypothesis would require the Arabic-like features to be internally consistent within the ethereal-language system, not just superficially similar to Arabic.</p>
+
+<h3 id="arabic-assessment">Assessment</h3>
+
+<table>
+<thead>
+<tr><th>Analysis</th><th>Plausibility</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td>Deliberate Blizzard design pattern (Arabic aesthetic for desert merchant species)</td><td><strong>High</strong></td><td>The design intent is transparent: desert setting, merchant culture, bandage-wrappings evoking robes. <em>Ameer</em> ≈ <em>amīr</em> is a near-semantic calque.</td></tr>
+<tr><td>Genuine ethereal-language phonological tendency (independent convergence on Arabic-like patterns)</td><td><span class="uncertain">Low</span></td><td>Possible in principle but unnecessary as an explanation; Occam's razor favors the design hypothesis</td></tr>
+<tr><td>Some names are genuine ethereal-language words that happen to sound Arabic</td><td><span class="uncertain">Low–Medium</span></td><td>Not all ethereal names sound Arabic (<em>Ve'nari</em>, <em>Xevozz</em>, <em>Zovex</em>, <em>Gava'xi</em>); the Arabic pattern may apply to only certain dialects or factions</td></tr>
+</tbody>
+</table>
+
+<p><strong>Confidence: High</strong> that the Arabic-inspired naming is a deliberate Blizzard design pattern; <strong class="uncertain">Low</strong> that it reflects genuine in-universe phonological tendencies. The primary significance for linguistic analysis is that the Arabic-like names should be treated with extra caution when identifying genuine ethereal morphemes — the <em>-aan</em> ending, for example, could be a Blizzard rendering of Arabic <em>-ān</em> rather than a genuine ethereal suffix.</p>
+
+<h3 id="arabic-implications">Implications for Morpheme Analysis</h3>
+
+<p>The Arabic design pattern affects the reliability of certain inferred morphemes:</p>
+
+<table>
+<thead>
+<tr><th>Inferred Morpheme</th><th>Attestation</th><th>Risk of Design Artifact</th></tr>
+</thead>
+<tbody>
+<tr><td><em>-aan</em> / <em>-zaan</em></td><td><em>Razaan</em>, <em>Durzaan</em></td><td><strong>High</strong> — Arabic <em>-ān</em> suffix; may be design borrowing, not genuine morpheme</td></tr>
+<tr><td><em>-daar</em></td><td><em>Salhadaar</em></td><td><strong>High</strong> — Arabic <em>-dar</em> / <em>-dār</em> ("abode/house"); cf. <em>Salah al-Din</em> → <em>Salhadaar</em> could be "Salah's abode"</td></tr>
+<tr><td><em>-mad</em></td><td><em>Haramad</em></td><td><strong>Medium</strong> — Arabic <em>Ahmad</em> / <em>Muhammad</em> pattern; could be design borrowing</td></tr>
+<tr><td><em>-eer</em> / <em>-meer</em></td><td><em>Ameer</em></td><td><strong>Very High</strong> — Near-identical to Arabic <em>amīr</em>; almost certainly a design calque</td></tr>
+</tbody>
+</table>
+
+<p>The safest approach is to require non-Arabic-parallel evidence before accepting these elements as genuine ethereal morphemes. The <em>-esh</em> / <em>-aresh</em> suffix (attested in <em>K'aresh</em> and <em>Tazavesh</em>) does not have a clear Arabic parallel and is therefore more likely to be a genuine ethereal morpheme.</p>
+
+<!-- ═══ Syntax ═══ -->
+
+<h2 id="syntax">Syntax</h2>
+
+<ul>
+<li>No sentence-level attestation exists</li>
+<li>Word order cannot be determined</li>
+<li>The compounding pattern (prefix + head, with optional apostrophe boundary) is the only confirmed syntactic observation</li>
+<li>The language may follow a modifier-head structure in compounds (inferred from <em>K'</em> + <em>-aresh</em>), consistent with right-headed compounding in other WoW language families</li>
+</ul>
+
+<!-- ═══ Relationships ═══ -->
+
+<h2 id="relationships">Relationship to Other WoW Languages</h2>
+
+<h3 id="no-genetic-relationships">No Confirmed Genetic Relationships</h3>
+
+<p>The ethereal language shows no confirmed genetic relationship to any other WoW language family:</p>
+
+<ul>
+<li><strong>Not titan-forged</strong>: Ethereals are not titan-forged beings; they are native to K'aresh, a separate world</li>
+<li><strong>Not elven</strong>: No shared morphemes with Darnassian/Thalassian/Nazja</li>
+<li><strong>Not Aqir-descended</strong>: No confirmed shared morphemes with nerubian/qiraji (the <em>Az-</em> in <em>Azir</em> and <em>Azj-</em> is likely coincidental)</li>
+<li><strong>Not Shath'Yar</strong>: Despite some ethereals having Void connections, the language is phonologically distinct from Shath'Yar</li>
+</ul>
+
+<h3 id="areal-features">Possible Areal Features</h3>
+
+<p>The shared apostrophe convention across ethereal, nerubian, qiraji, and Shath'Yar may reflect an areal feature of "alien" WoW naming conventions rather than genuine linguistic contact. However, the structural differences between Shath'Yar (initial apostrophe marking prefix boundaries) and the other three (medial apostrophe marking compound boundaries) suggest independent development or different transmission chains. See <a href="vocabulary.html">vocabulary.html</a> §15 for full cross-reference analysis.</p>
+
+<h3 id="reshii-connection">The <em>Reshii</em> Connection</h3>
+
+<p>The artifact name <em>Reshii Ribbons</em> contains the element <em>Resh-</em>, which may be the full root form of the <em>-esh</em> locative suffix. If <em>resh</em> = "realm/world," then:</p>
+<ul>
+<li><em>Reshii</em> = <em>Resh-</em> + <em>-ii</em> = <span class="inferred">"realms"</span> or <span class="inferred">"of the realm"</span> (full root form)</li>
+<li><em>-esh</em> in <em>Tazavesh</em> = <span class="inferred">reduced form of <em>resh-</em></span> with <span class="ipa">/r/</span> loss after consonant cluster</li>
+<li><em>-aresh</em> in <em>K'aresh</em> = <span class="inferred"><em>-a-</em> + <em>resh</em></span> = <span class="inferred">"realm"</span> with linking vowel</li>
+</ul>
+
+<p>This analysis strengthens the <em>-esh</em> suffix hypothesis by providing the full root form. Wikipedia confirms multiple Reshii Ribbons existed, each possessed by a different Ravel member — the party had to collect all of them, and the Ravel previously used the combined power of the Reshii Ribbons to destroy K'aresh. This confirms <em>-ii</em> is a plural suffix and <em>Resh-</em> is the root noun meaning "realm/world." See <a href="vocabulary.html">vocabulary.html</a> §14 for full analysis.</p>
+
+<p><strong>Confidence: Moderate</strong> for <em>Resh-</em> as the full root form of <em>-esh</em>; <strong class="uncertain">Low–Moderate</strong> for <em>-ii</em> as a plural suffix (single attestation, but strong contextual evidence from the plural artifact set).</p>
+
+<h3 id="broker-dialect">The Broker–Ethereal Dialect Hypothesis</h3>
+
+<p>Brokers and ethereals are closely related species from K'aresh. The shared <em>-esh</em> element in <em>K'aresh</em> and <em>Tazavesh</em> suggests they speak dialects of the same language. Key differences:</p>
+
+<table>
+<thead>
+<tr><th>Feature</th><th>Ethereal Dialect</th><th>Broker Dialect</th></tr>
+</thead>
+<tbody>
+<tr><td>Name length</td><td>Longer (<em>Salhadaar</em>, <em>Haramad</em>)</td><td>Shorter (<em>Ve'nari</em>)</td></tr>
+<tr><td>Apostrophe usage</td><td>Less consistent</td><td>More consistent (<em>Ve'nari</em>)</td></tr>
+<tr><td>Cultural focus</td><td>Political/military</td><td>Mercantile</td></tr>
+</tbody>
+</table>
+
+<p><strong class="uncertain">Confidence: Low–Moderate</strong> for a shared language with dialectal variation.</p>
+
+<!-- ═══ Limitations ═══ -->
+
+<h2 id="limitations">Limitations</h2>
+
+<p>The ethereal corpus is extremely small:</p>
+<ul>
+<li>~20+ personal names (expanded from TBC, WotLK, Legion, BfA, and TWW verification)</li>
+<li>~9 place names with potential ethereal etymologies</li>
+<li><strong>0 attested phrases or sentences</strong></li>
+</ul>
+
+<p>No verb forms, particles, or syntactic structures are known. The only confirmed morphological patterns are:</p>
+<ol>
+<li>Apostrophe-marked compounding (very low confidence — only 2 examples)</li>
+<li><em>-esh</em> / <em>-aresh</em> suffix (moderate–high confidence — upgraded based on <em>Reshii</em> plural analysis)</li>
+<li><em>-ii</em> plural suffix (low–moderate confidence — single attestation in <em>Reshii</em>, but confirmed plural artifact set)</li>
+<li>Nexus-* title hierarchy (Common-language, not ethereal)</li>
+</ol>
+
+</body>
+</html>

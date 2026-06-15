@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pandaren Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+<nav>
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#limitations">Limitations</a>
+<a href="description.html">Description</a>
+<a href="vocabulary.html">Vocabulary</a>
+</nav>
+
+<h1>Pandaren Grammar</h1>
+
+<div class="note">
+<p><strong>No grammatical analysis is possible.</strong> The Pandaren corpus consists entirely of proper names and two philosophical faction names. No sentences, verb forms, or grammatical particles are attested. The following notes are observational only.</p>
+</div>
+
+<!-- SECTION: Phonology -->
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory</h3>
+<p>Based on attested Pandaren proper names:</p>
+<table>
+<tr><th></th><th>Bilabial</th><th>Alveolar</th><th>Postalveolar</th><th>Velar</th><th>Glottal</th></tr>
+<tr><td>Stops</td><td><span class="ipa">p</span></td><td><span class="ipa">t d</span></td><td></td><td><span class="ipa">k ɡ</span></td><td></td></tr>
+<tr><td>Affricates</td><td></td><td></td><td><span class="ipa">tʃ dʒ</span></td><td></td><td></td></tr>
+<tr><td>Fricatives</td><td></td><td><span class="ipa">s</span></td><td><span class="ipa">ʃ</span></td><td></td><td></td></tr>
+<tr><td>Nasals</td><td><span class="ipa">m</span></td><td><span class="ipa">n</span></td><td></td><td></td><td></td></tr>
+<tr><td>Approximants</td><td></td><td><span class="ipa">ɾ</span></td><td><span class="ipa">j</span></td><td></td><td></td></tr>
+<tr><td>Laterals</td><td></td><td><span class="ipa">l</span></td><td></td><td></td><td></td></tr>
+</table>
+
+<h3 id="notable-phonological-features">Notable Phonological Features</h3>
+<ul>
+<li><strong>Tone:</strong> The romanized Pandaren names suggest a tonal language, consistent with the Chinese cultural inspiration. However, tone cannot be confirmed from romanized text alone <span class="uncertain">(uncertain)</span>.</li>
+<li><strong>Observed consonants:</strong> <span class="ipa">/tʃ/</span> (Chen, Chi-Ji), <span class="ipa">/ʃ/</span> (Shen, Sha), <span class="ipa">/dʒ/</span> (Ji, Jin), <span class="ipa">/z/</span> (Niuzao, Shen-zin), <span class="ipa">/j/</span> (Yu'lon, Ji).</li>
+<li><strong>Syllable structure:</strong> Predominantly (C)V(N) — simple open or lightly closed syllables (Shen, Jin, Xuen, Su). This is consistent with the Chinese-inspired phonological aesthetic.</li>
+<li><strong>Apostrophe usage:</strong> Yu'lon contains an apostrophe, possibly marking a morpheme boundary (Yu + lon) or a glottal stop <span class="uncertain">(uncertain)</span>.</li>
+<li><strong>Hyphen usage:</strong> Shen-zin Su uses hyphens, possibly marking phrase boundaries similar to the elven language convention <span class="uncertain">(uncertain)</span>.</li>
+<li><strong>Name reduplication:</strong> <em>Li Li</em> demonstrates reduplication, a common feature in East Asian languages (and consistent with the Chinese cultural inspiration).</li>
+</ul>
+
+<h3 id="vowel-system">Vowel System</h3>
+<p>Full five-vowel system observed: <span class="ipa">/a/, /e/, /i/, /o/, /u/</span>. Diphthongs are present in some names (e.g., <span class="ipa">/aɪ/</span> in <em>Kun-Lai</em>, <span class="ipa">/aʊ/</span> in <em>Niuzao</em>).</p>
+
+<!-- SECTION: Morphology -->
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="speculative-morphemes">Speculative Morphemes</h3>
+<p>No morphemes can be confirmed from the attested corpus. The following are speculative:</p>
+<table>
+<tr><th>Element</th><th>Inferred Meaning</th><th>Evidence</th><th>Confidence</th></tr>
+<tr><td>-jin</td><td><span class="inferred">Possibly "way" or "people"</span></td><td><em>Huojin</em>; also in Zandali <em>-jin</em> (chief)</td><td class="uncertain">Low — may be Zandali borrowing</td></tr>
+<tr><td>-shui</td><td><span class="inferred">Possibly "water" or "flow"</span></td><td><em>Tushui</em></td><td class="uncertain">Low</td></tr>
+<tr><td>-shan</td><td><span class="inferred">Possibly "mountain" or "palace"</span></td><td><em>Mogu'shan</em></td><td class="uncertain">Low — may be Mogu</td></tr>
+<tr><td>-lao</td><td><span class="inferred">Possibly "venerable" or "old"</span></td><td>Common in Pandaren personal names</td><td class="uncertain">Low</td></tr>
+<tr><td>Sha</td><td>Negative emotion / darkness</td><td>The Sha; possibly related to Shath'Yar</td><td class="uncertain">Low</td></tr>
+</table>
+
+<h3 id="compounding">Compounding</h3>
+<p>If <em>Huojin</em> = <em>Huo</em> + <em>jin</em> and <em>Tushui</em> = <em>Tu</em> + <em>shui</em>, then Pandaren may form words through two-element compounding. However, with only two examples, this is entirely speculative <span class="uncertain">(uncertain)</span>.</p>
+
+<!-- SECTION: Syntax -->
+<h2 id="syntax">Syntax</h2>
+<p>No data available. No Pandaren-language sentences are attested.</p>
+
+<!-- SECTION: Limitations -->
+<h2 id="limitations">Limitations</h2>
+<ul>
+<li><strong>No sentences or verb forms are attested.</strong></li>
+<li><strong>No grammatical particles or affixes</strong> (beyond the speculative morphemes above) are attested.</li>
+<li>The Chinese-inspired cultural aesthetic of Pandaria strongly suggests Blizzard designed Pandaren names to <em>sound</em> Chinese-influenced, but no systematic phonology or grammar was created for the language.</li>
+<li>Many place names in Pandaria may be in Mogu, Titan, or Zandali rather than Pandaren.</li>
+<li>The element <em>-jin</em> may be a Zandali borrowing, not native Pandaren.</li>
+</ul>
+
+</body>
+</html>

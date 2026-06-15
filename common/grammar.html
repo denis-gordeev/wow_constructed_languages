@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Common (Human) Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="description.html">Description</a>
+<a href="grammar.html">Grammar</a>
+<a href="vocabulary.html">Vocabulary</a>
+<span>|</span>
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#writing-system">Writing</a>
+<a href="#language-family-position">Family</a>
+<a href="#tww-patch-legacy-of-arathor-names">Legacy of Arathor</a>
+<a href="#limitations">Limitations</a>
+</nav>
+
+<h1>Common (Human) Grammar</h1>
+
+<p>This document presents grammatical inferences about Common, the Human language of Azeroth. Common descends from Vrykul, which descends from Titan. As the "runt" offspring of vrykul affected by the Curse of Flesh, humans and their language underwent significant simplification from the Vrykul parent. However, Common's attestation as a distinct linguistic system is virtually nonexistent &mdash; in-game, Common is rendered as English, and no Blizzard publication has treated it as a separate constructed language.</p>
+
+<!-- ═══════════════════ PHONOLOGY ═══════════════════ -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory</h3>
+
+<p>Common likely has a consonant inventory similar to English (which serves as its in-game proxy), with some differences from Vrykul:</p>
+
+<table>
+<thead>
+<tr><th></th><th>Bilabial</th><th>Labiodental</th><th>Dental</th><th>Alveolar</th><th>Postalveolar</th><th>Velar</th><th>Glottal</th></tr>
+</thead>
+<tbody>
+<tr><td>Stops</td><td><span class="ipa">p b</span></td><td></td><td><span class="ipa">t d</span></td><td></td><td></td><td><span class="ipa">k g</span></td><td></td></tr>
+<tr><td>Fricatives</td><td></td><td><span class="ipa">f v</span></td><td><span class="ipa">θ ð</span></td><td><span class="ipa">s z</span></td><td><span class="ipa">ʃ ʒ</span></td><td></td><td><span class="ipa">h</span></td></tr>
+<tr><td>Affricates</td><td></td><td></td><td></td><td></td><td><span class="ipa">tʃ dʒ</span></td><td></td><td></td></tr>
+<tr><td>Nasals</td><td><span class="ipa">m</span></td><td></td><td></td><td><span class="ipa">n</span></td><td></td><td></td><td></td></tr>
+<tr><td>Liquids</td><td></td><td></td><td></td><td><span class="ipa">l r</span></td><td></td><td></td><td></td></tr>
+<tr><td>Approximants</td><td></td><td></td><td></td><td></td><td><span class="ipa">j</span></td><td><span class="ipa">w</span></td><td></td></tr>
+</tbody>
+</table>
+
+<h3 id="sound-changes-from-vrykul-hypothetical">Sound Changes from Vrykul (Hypothetical)</h3>
+
+<p>Based on the relationship between Common and Vrykul, and the pattern of language simplification observed in contact and creolization scenarios:</p>
+
+<table>
+<thead>
+<tr><th>Vrykul Feature</th><th>Common Reflex</th><th>Example</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td>Initial <span class="ipa">Vr-</span></td><td>Simplified (<span class="ipa">V-</span> or <span class="ipa">r-</span>)</td><td><em>Vrykul</em> &rarr; (humans don't call themselves "Vrykul")</td><td>Complex onsets simplified</td></tr>
+<tr><td>Initial <span class="ipa">Sk-</span></td><td>Retained or simplified</td><td><em>Skovald</em> &rarr; possibly <em>Sko-</em> names in Common</td><td>Some clusters retained</td></tr>
+<tr><td><span class="ipa">Gj-</span> &rarr; <span class="ipa">/ʃ/</span></td><td>Possibly <span class="ipa">/ʃ/</span> or <span class="ipa">/dʒ/</span></td><td><em>Gjalerbron</em> &rarr; no Common reflex</td><td><span class="uncertain">Uncertain</span></td></tr>
+<tr><td><span class="ipa">/y/</span> (front rounded)</td><td><span class="ipa">/i/</span> or <span class="ipa">/ɪ/</span></td><td><em>Ymiron</em> &rarr; possibly <em>Imer-*</em> in Common</td><td>Front rounded vowel unrounded</td></tr>
+<tr><td>Initial <span class="ipa">Hr-</span></td><td><span class="ipa">H-</span> or <span class="ipa">r-</span></td><td><em>Hrothgar</em> &rarr; possibly <em>Ro-*</em> in Common</td><td>Cluster simplification</td></tr>
+<tr><td>Consonant gemination</td><td>Lost</td><td><em>Geirrivif</em> &rarr; no Common reflex</td><td>Simplification of geminates</td></tr>
+</tbody>
+</table>
+
+<h3 id="vowel-system">Vowel System</h3>
+
+<p>Common likely has a vowel system close to English, which differs from Vrykul by:</p>
+
+<ul>
+<li>Loss of front rounded <span class="ipa">/y/</span> &rarr; unrounded to <span class="ipa">/i/</span> or <span class="ipa">/ɪ/</span></li>
+<li>Development of vowel length distinction or diphthongs not present in Vrykul</li>
+<li>Possible reduction of unstressed vowels (schwa <span class="ipa">/ə/</span>), consistent with English-like stress patterns</li>
+</ul>
+
+<h3 id="stress-pattern">Stress Pattern</h3>
+
+<p>Common likely has English-style stress with variable placement, in contrast to Vrykul's consistent initial-syllable stress. This is inferred from:</p>
+
+<ul>
+<li>The rendering of Common as English in-game</li>
+<li>Language simplification typically leads to less predictable stress patterns</li>
+<li>Contact with other languages (Dwarven, Elven) may have influenced stress</li>
+</ul>
+
+<!-- ═══════════════════ MORPHOLOGY ═══════════════════ -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="simplification-from-vrykul">Simplification from Vrykul</h3>
+
+<p>Common has undergone significant morphological simplification from Vrykul:</p>
+
+<table>
+<thead>
+<tr><th>Feature</th><th>Vrykul</th><th>Common (Hypothetical)</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td>Compounding</td><td>Productive (Storm+heim, Geirr+vif)</td><td>Reduced; more analytic</td><td>Common uses separate words or simpler compounds</td></tr>
+<tr><td>Case marking</td><td>Possible traces (*-inn*, *-fal*)</td><td>Lost</td><td>Common uses word order for grammatical relations</td></tr>
+<tr><td>Title + name</td><td>Productive (*Drottinn* Hrothgar)</td><td>Retained in some forms (King Varian, Lordaeron)</td><td>Pattern preserved but with Common titles</td></tr>
+<tr><td>Place-name suffixes</td><td>*-heim*, *-garde*, *-bron*, *-korn*</td><td>Mostly replaced; *-garde* survives in *Stromgarde*</td><td>Common developed new naming conventions</td></tr>
+</tbody>
+</table>
+
+<h3 id="retained-vrykul-morphemes">Retained Vrykul Morphemes</h3>
+
+<p>A small number of Vrykul morphemes survive in Common as fossilized elements in place names:</p>
+
+<ol>
+<li><strong>-garde</strong> (enclosure/keep): Survives in <em>Stromgarde</em> and <em>Nethergarde</em>. Common speakers likely no longer parse this as a separate morpheme. The two examples confirm that <em>-garde</em> was productively combined with Common roots (<em>Strom</em> + <em>-garde</em>, <em>Nether</em> + <em>-garde</em>), not merely fossilized in a single borrowed word.</li>
+<li><strong>Tiris-</strong> (Tyr): Survives in <em>Tirisfal</em>. No longer recognized as referring to the Keeper Tyr.</li>
+<li><strong>-fal</strong> (fall): Survives in <em>Tirisfal</em>. No longer recognized as meaning "fall."</li>
+<li><strong>Thor-</strong> (thunder/Thorim): Possibly survives in the personal name <em>Thoradin</em>, the first human king. If <em>Thoradin</em> = <em>Thor-</em> + <em>-din</em> (cf. Vrykul <em>-inn</em>), this would represent a Vrykul personal name adopted into Common.</li>
+<li><strong>Tir- / Tiris-</strong> (Tyr): Possibly survives in the personal name <em>Tirion</em>. If <em>Tirion</em> is related to <em>Tiris-</em> (Tyr), this would show the Tyr element preserved in a Common personal name, parallel to its preservation in the place name <em>Tirisfal</em>.</li>
+<li><strong>Tael-</strong> (cf. Titan <em>Tael</em>/<em>Taes</em>): <span class="uncertain">Possibly survives in the personal name <em>Taelia</em>.</span> The Titan weapon names <em>Taeshalach</em> and <em>Taeschalach</em> contain a <em>Tael</em>/<em>Taes</em> element meaning "flame" or "blade." If <em>Taelia</em> preserves this element, it would demonstrate a Titan morpheme reaching Common through the Vrykul intermediary, surviving in a personal name.</li>
+</ol>
+
+<h3 id="vrykul-sound-changes-in-common-place-names-beyond-tirisfal">Vrykul Sound Changes in Common Place Names Beyond Tirisfal</h3>
+
+<p>The confirmed Vrykul&rarr;Common sound changes are limited, as <em>Tirisfal</em> is the only place name with a confirmed Vrykul etymology. However, several additional place names and personal names show patterns consistent with Vrykul-origin elements:</p>
+
+<p><strong>Place names with probable Vrykul morphemes:</strong></p>
+
+<table>
+<thead>
+<tr><th>Place Name</th><th>Vrykul Element</th><th>Analysis</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td>Stromgarde</td><td><em>-garde</em> (enclosure)</td><td>Vrykul suffix combined with Common <em>Strom</em> <span class="uncertain">(possibly Vrykul <em>straumr</em> = "stream")</span></td><td>High</td></tr>
+<tr><td>Nethergarde</td><td><em>-garde</em> (enclosure)</td><td>Vrykul suffix combined with Common <em>Nether</em> ("lower")</td><td>High</td></tr>
+<tr><td>Andorhal</td><td><em>-hal</em> (?)</td><td><span class="uncertain">May parallel Vrykul <em>-halas</em> (hall); if so, shows Vrykul <em>-halas</em> &rarr; Common <em>-hal</em> with loss of final syllable</span></td><td>Low</td></tr>
+<tr><td>Strom</td><td><em>Straumr</em> (?)</td><td><span class="uncertain">If <em>Strom</em> = Vrykul for "stream/current" (cf. Old Norse <em>straumr</em>), this is a Vrykul word adopted into Common</span></td><td>Low</td></tr>
+<tr><td>Arathi</td><td><em>Arath-*</em> (?)</td><td><span class="uncertain">The Arathi Highlands may preserve a pre-Common or Vrykul element; <em>Arath-*</em> appears in both <em>Arathi</em> and <em>Arathor</em></span></td><td>Low</td></tr>
+</tbody>
+</table>
+
+<p><strong>Personal names with probable Vrykul elements:</strong></p>
+
+<table>
+<thead>
+<tr><th>Name</th><th>Vrykul Element</th><th>Analysis</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td>Thoradin</td><td><em>Thor-*</em> + <em>-din</em></td><td><span class="inferred">Vrykul <em>Thor-*</em> (thunder) + <em>-din</em> ~ Vrykul <em>-inn</em> (definite article); if correct, the sound change is Vrykul <em>-inn</em> &rarr; Common <em>-din</em> with voicing of initial vowel</span></td><td>Low&ndash;Medium</td></tr>
+<tr><td>Uther</td><td><span class="ipa">Þórr</span> / <span class="ipa">Óttarr</span> (?)</td><td><span class="uncertain">The <span class="ipa">/θ/</span> phoneme in <em>Uther</em> is rare in Common names but attested in Vrykul; may reflect direct Vrykul personal name inheritance</span></td><td>Low</td></tr>
+<tr><td>Tirion</td><td><em>Tir-*</em> / <em>Tiris-*</em> (Tyr)</td><td><span class="inferred">If related to <em>Tiris-*</em> (Tyr), shows Vrykul divine name element surviving in a Common personal name; the form <em>Tirion</em> shows loss of the <em>-is-</em> syllable from <em>Tiris-*</em></span></td><td>Low</td></tr>
+<tr><td>Taelia</td><td><em>Tael-*</em> (cf. Titan <em>Tael</em>)</td><td><span class="uncertain">If related to Titan <em>Tael</em> (flame/blade) through Vrykul, demonstrates a Titan morpheme surviving in Common via Vrykul transmission</span></td><td>Very Low</td></tr>
+<tr><td>Arthas</td><td><em>Arth-*</em> (bear?)</td><td><span class="uncertain">If related to Old Norse <em>Arth-*</em> / <em>Arthur</em> (bear-king), may reflect a Vrykul name element</span></td><td>Low</td></tr>
+</tbody>
+</table>
+
+<p><strong>Hypothetical sound changes observed:</strong></p>
+
+<table>
+<thead>
+<tr><th>Vrykul Feature</th><th>Common Reflex</th><th>Example</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td><em>-korn</em> (clan suffix)</td><td>Not retained</td><td>&mdash;</td><td>Common lost the Vrykul clan-naming system entirely</td></tr>
+<tr><td><em>-heim</em> (home/realm)</td><td>Not retained</td><td>&mdash;</td><td>Replaced by Common compounds (<em>Stormwind</em>, <em>Southshore</em>)</td></tr>
+<tr><td><em>-garde</em> (enclosure)</td><td>Retained as <em>-garde</em></td><td>Stromgarde, Nethergarde</td><td>Fossilized suffix; still productive enough to combine with Common roots</td></tr>
+<tr><td><em>-inn</em> (definite article/title)</td><td><span class="uncertain">Possibly <em>-din</em></span></td><td>Thoradin</td><td>If correct, shows voicing of initial vowel in the suffix</td></tr>
+<tr><td>Initial <span class="ipa">Vr-, Sk-, Hr-</span></td><td>Simplified</td><td>&mdash;</td><td>No Common words begin with these clusters; they were simplified or lost</td></tr>
+<tr><td>Vrykul <span class="ipa">/θ/</span></td><td>Retained in some names</td><td>Uther, Arthas</td><td>Rare in Common but preserved in a few personal names</td></tr>
+<tr><td>Vrykul compound structure</td><td>Simplified</td><td>Tirisfal &rarr; unanalyzed</td><td>Vrykul compounds adopted as single unanalyzed words</td></tr>
+</tbody>
+</table>
+
+<p>These are <strong>lexicalized fossils</strong> &mdash; Vrykul compound elements that have been adopted into Common as unanalyzed place names. This is a common pattern when one language replaces another: place names survive long after the language that created them is gone.</p>
+
+<h3 id="expanded-analysis-of-common-place-names-with-fossilized-vrykul-elements">Expanded Analysis of Common Place Names with Fossilized Vrykul Elements</h3>
+
+<p>Beyond the confirmed <em>Tirisfal</em> and the well-attested <em>-garde</em> suffix, several other Common place names show patterns consistent with fossilized Vrykul elements. This section provides a deeper analysis of <em>Andorhal</em>, <em>Lordaeron</em>, <em>Alterac</em>, and <em>Arathi</em>.</p>
+
+<h4 id="andorhal-and-the--hal-element">Andorhal and the <em>-hal</em> Element</h4>
+
+<p><em>Andorhal</em> <span class="ipa">/ˈændɔːrhɑːl/</span> is a city in the Western Plaguelands. The name can be decomposed as <em>Andor</em> + <em>-hal</em>.</p>
+
+<p><strong>Hypothesis: <em>-hal</em> relates to Vrykul <em>-halas</em> (hall).</strong></p>
+
+<ul>
+<li>Vrykul <em>-halas</em> / <em>-hallas</em> appears in <em>Valhalas</em> = "Halls of Valor" (confirmed translation: Halls of Valor). The element means "hall" and is cognate with Old Norse <em>hǫll</em>.</li>
+<li>If Vrykul <em>-halas</em> &rarr; Common <em>-hal</em>, the sound change would involve loss of the final syllable: <em>-halas</em> &rarr; <em>-hals</em> &rarr; <em>-hal</em>. This is consistent with the general Common pattern of simplifying Vrykul consonant clusters and reducing final syllables.</li>
+<li>The compound structure would be <em>Andor</em> + <em>-hal</em> = "[Andor]-hall", parallel to Vrykul <em>Val</em> + <em>-halas</em> = "Slain-hall".</li>
+<li>The <em>Andor-*</em> element is unknown; it could be a personal name, a descriptor, or a pre-Common root.</li>
+</ul>
+
+<p><strong>Alternative: <em>-hal</em> is a Common innovation.</strong> The English word "hall" is a plausible independent origin; <em>Andorhal</em> could be a Common compound meaning "Andor's Hall" or similar, with no Vrykul connection. However, the phonological shape <em>-hal</em> (rather than <em>-hall</em> or <em>-holme</em>) is more consistent with a Vrykul loan than a native Common development.</p>
+
+<p><span class="uncertain">Confidence: Low.</span> The <em>-hal</em> / <em>-halas</em> correspondence is phonologically plausible and semantically consistent, but a single data point cannot confirm a sound correspondence.</p>
+
+<h4 id="lordaeron-and-the--aeron---on-element">Lordaeron and the <em>-aeron</em> / <em>-on</em> Element</h4>
+
+<p><em>Lordaeron</em> <span class="ipa">/ˈlɔːrdərɒn/</span> is the name of the northern human kingdom and its capital. Several decompositions are possible:</p>
+
+<ol>
+<li><strong><em>Lord</em> + <em>-aeron</em></strong>: The "Lord" element is English/Common. <em>-aeron</em> is then an unanalyzed suffix of unknown origin.</li>
+<li><strong><em>Lor</em> + <em>-daeron</em></strong>: <em>Lor-*</em> is an unknown root; <em>-daeron</em> is the suffix.</li>
+<li><strong><em>Lordaer</em> + <em>-on</em></strong>: The root is <em>Lordaer-*</em>; <em>-on</em> is a Common place-name suffix.</li>
+</ol>
+
+<p><strong>Hypothesis: <em>-on</em> is a Common place-name suffix derived from Vrykul <em>-inn</em>.</strong></p>
+
+<ul>
+<li>If <em>-on</em> in <em>Lordaer-on</em> is a regular Common suffix, it may appear in other names: <em>Dalar-an</em> (cf. <em>-an</em>), <em>Gilne-as</em> (different suffix), <em>Arath-or</em> (cf. <em>-or</em>).</li>
+<li>The <em>-on</em> / <em>-an</em> / <em>-or</em> set could represent <span class="inferred">reflexes of Vrykul <em>-inn</em> (definite article) that was reanalyzed as a place-name suffix in Common.</span> The sound change would be: Vrykul <em>-inn</em> &rarr; Common <em>-in</em> &rarr; Common <em>-on</em> (vowel raising/backing in unstressed position) or Common <em>-or</em> (rhotacism of <span class="ipa">/n/</span> &rarr; <span class="ipa">/r/</span> in certain environments).</li>
+<li>Alternative: <em>-on</em> / <em>-an</em> could be an independent Common development with no Vrykul origin, similar to the English <em>-ton</em> (town) or <em>-don</em> (hill) suffixes.</li>
+</ul>
+
+<p><strong>Hypothesis: <em>-aeron</em> is a fossilized element from a pre-Common substrate.</strong></p>
+
+<ul>
+<li>If <em>Lordaeron</em> predates the arrival of vrykul-descended humans in the region, <em>-aeron</em> could preserve an older linguistic stratum. However, <span class="uncertain">there is no evidence for a pre-Vrykul substrate in the Lordaeron region.</span></li>
+</ul>
+
+<p><span class="uncertain">Confidence: Very Low.</span> No clear Vrykul cognate for <em>-aeron</em> exists, and the etymology remains uncertain. The <em>-on</em> suffix analysis is the most parsimonious but unconfirmed.</p>
+
+<h4 id="alterac-and-the--ac-element">Alterac and the <em>-ac</em> Element</h4>
+
+<p><em>Alterac</em> <span class="ipa">/ˈɔːltəræk/</span> is a fallen human kingdom in the Alterac Mountains. The name decomposes as <em>Alter</em> + <em>-ac</em>.</p>
+
+<p><strong>Hypothesis: <em>-ac</em> is a Common place-name suffix.</strong></p>
+
+<ul>
+<li>The <em>-ac</em> suffix has no clear Vrykul cognate. Vrykul uses <em>-heim</em>, <em>-garde</em>, <em>-bron</em>, and <em>-korn</em> for place names, none of which resemble <em>-ac</em>.</li>
+<li><em>-ac</em> may be related to the real-world Celtic/Gaulish place-name suffix <em>-acum</em> (found in French <em>-ac</em>, <em>-y</em>, as in <em>Cognac</em>, <em>Orl&eacute;ans</em> &larr; <em>Aurelianum</em>). If Blizzard's naming followed this pattern, <em>Alterac</em> would mean "Alter's place" or "place of Alter."</li>
+<li>In-universe, <em>-ac</em> could be a Common innovation, <span class="uncertain">a fossilized Dwarven element</span> (cf. Dwarven <em>-dun</em>, but no <em>-ac</em> is attested in Dwarven), or simply an unanalyzed name.</li>
+</ul>
+
+<p><span class="uncertain">Confidence: Very Low.</span> A single attestation of <em>-ac</em> cannot establish it as a productive suffix.</p>
+
+<h4 id="arathi-and-the-arath--root">Arathi and the <em>Arath-</em> Root</h4>
+
+<p><em>Arathi</em> <span class="ipa">/əˈrɑːθi/</span> (the Arathi Highlands) and <em>Arathor</em> <span class="ipa">/ˈærɑθɔːr/</span> (the first human empire) share the root <em>Arath-*</em>.</p>
+
+<p><strong>Hypothesis: <em>Arath-*</em> is a pre-Common or Vrykul root.</strong></p>
+
+<ul>
+<li>The <em>Arath-*</em> element appears in two distinct Common names: <em>Arathi</em> (a people/region) and <em>Arathor</em> (a kingdom). This dual occurrence suggests <em>Arath-*</em> was a meaningful root in the formative period of Common.</li>
+<li>If <em>Arathi</em> = <em>Arath-*</em> + <em>-i</em> (ethnic/collective suffix) and <em>Arathor</em> = <em>Arath-*</em> + <em>-or</em> (kingdom suffix), the pattern parallels Vrykul name formation: root + suffix.</li>
+<li>No Vrykul cognate for <em>Arath-*</em> is attested, but the Vrykul corpus is limited. The phonological shape <span class="ipa">/ærɑθ/</span> is consistent with Vrykul phonotactics (cf. <em>Arthas</em> with the same <span class="ipa">/ɑrθ/</span> cluster).</li>
+<li>The <em>-i</em> suffix in <em>Arathi</em> could be related to the Draenei collective suffix <em>-ei</em> (as in <em>Draenei</em> = "exiled ones"), but <span class="uncertain">this would require cross-family borrowing which is not supported by lore.</span> More likely, <em>-i</em> is an independent Common ethnic suffix.</li>
+<li>The <em>-or</em> suffix in <em>Arathor</em> could be the same suffix as in <em>Draenor</em> (Draenei <em>-or</em> = "land/refuge"), but again, <span class="uncertain">cross-family borrowing is unsupported.</span> More likely, <em>-or</em> is a Common kingdom/empire suffix that developed independently.</li>
+</ul>
+
+<p><strong>Alternative: <em>Arath-*</em> is a Common root with no Vrykul origin.</strong></p>
+
+<ul>
+<li>If <em>Arath-*</em> is native to Common (rather than borrowed from Vrykul), it could mean "united" or "first" (fitting the historical role of the Arathi as the first united human tribe). However, this requires assuming a Common root that has no other attestation.</li>
+</ul>
+
+<p><span class="uncertain">Confidence: Low for the root <em>Arath-*</em></span> (the dual occurrence suggests it is meaningful, but its origin and meaning are unknown). <span class="uncertain">Very Low for <em>-or</em></span> as a kingdom suffix.</p>
+
+<h4 id="investigation--din-in-thoradin-and-vrykul--inn">Investigation: <em>-din</em> in <em>Thoradin</em> and Vrykul <em>-inn</em></h4>
+
+<p>The name <em>Thoradin</em> <span class="ipa">/ˈθɔːrədɪn/</span>, the first human king who unified the Arathi tribes, contains the element <em>-din</em>. This section investigates whether <em>-din</em> reflects a regular sound change from Vrykul <em>-inn</em> (the definite article suffix attested in <em>Drottinn</em> = "the Lord").</p>
+
+<p><strong>If <em>Thoradin</em> = <em>Thor-*</em> + <em>-inn</em>:</strong></p>
+
+<ul>
+<li><em>Thor-*</em> is the Vrykul thunder element (cf. Thorim, Thaurissan), which is well-attested and likely preserved in Common.</li>
+<li><em>-inn</em> is the Vrykul definite article suffix (cf. <em>Drottinn</em> = drott + inn = "the Lord").</li>
+<li><em>Thor-inn</em> would mean "the Thunderer" or "the Thunder-Lord" &mdash; a fitting name for a warrior king.</li>
+</ul>
+
+<p><strong>Proposed sound change: Vrykul <em>-inn</em> &rarr; Common <em>-din</em> via:</strong></p>
+
+<ol>
+<li><span class="ipa">Þórr-inn</span> &rarr; <span class="ipa">Thor-in</span> (loss of gemination, unrounding of <span class="ipa">/y/</span> in preceding syllable)</li>
+<li><span class="ipa">Thor-in</span> &rarr; <span class="ipa">Thora-in</span> (epenthesis of linking vowel <span class="ipa">/a/</span> between <span class="ipa">/r/</span> and <span class="ipa">/i/</span>)</li>
+<li><span class="ipa">Thora-in</span> &rarr; <span class="ipa">Thoradin</span> (voicing of the hiatus boundary; <span class="ipa">/i/</span> &rarr; <span class="ipa">/di/</span> through stop epenthesis after the linking vowel)</li>
+</ol>
+
+<p>The key step is (3): the development of <span class="ipa">/d/</span> at the boundary between the linking vowel <span class="ipa">/a/</span> and the following <span class="ipa">/i/</span>. Stop epenthesis at vowel boundaries is cross-linguistically common. The specific change <span class="ipa">/a.i/</span> &rarr; <span class="ipa">/a.di/</span> could reflect a glottal stop realization <span class="ipa">/a.ʔi/</span> &rarr; <span class="ipa">/a.di/</span>, where the glottal stop was reinterpreted as a dental stop due to the following high front vowel <span class="ipa">/i/</span>.</p>
+
+<p><strong>Alternative analysis 1: <em>-din</em> is not from <em>-inn</em>.</strong></p>
+
+<ul>
+<li><em>Thoradin</em> = <em>Thor-*</em> + <em>-adin</em>, where <em>-adin</em> is a Common personal name suffix unrelated to Vrykul <em>-inn</em>.</li>
+<li>This requires no sound changes but leaves <em>-adin</em> unexplained.</li>
+</ul>
+
+<p><strong>Alternative analysis 2: <em>-din</em> reflects a different Vrykul morpheme.</strong></p>
+
+<ul>
+<li>Vrykul has <em>Mjordin</em> <span class="ipa">/ˈmjɔɾðɪn/</span> (elite vrykul warriors) and <em>Hyldnir</em> <span class="ipa">/ˈhʏldnɪɾ/</span> (matriarchal vrykul). The <em>-in</em> / <em>-nir</em> suffix in these names may be a different morpheme from the definite article <em>-inn</em>.</li>
+<li>If <em>Mjordin</em> contains a <em>-din</em> suffix, it could be a warrior/honorific suffix that was borrowed into Common: Vrykul <em>-din</em> &rarr; Common <em>-din</em> (direct loan, no sound change needed).</li>
+<li><span class="uncertain">However, <em>Mjordin</em> is typically analyzed as <em>Mjor</em> + <em>-din</em> or <em>Mjor</em> + <em>-in</em>, and the <em>-din</em> / <em>-in</em> element is not independently glossed.</span></li>
+</ul>
+
+<p><strong>Assessment:</strong></p>
+
+<table>
+<thead>
+<tr><th>Analysis</th><th>Plausibility</th><th>Issues</th></tr>
+</thead>
+<tbody>
+<tr><td><span class="inferred">Vrykul <em>-inn</em> &rarr; Common <em>-din</em> (sound change)</span></td><td>Low&ndash;Medium</td><td>Requires multiple unattested sound changes (epenthesis, stop insertion); internally consistent but not confirmed</td></tr>
+<tr><td><em>-adin</em> is an independent Common suffix</td><td>Medium</td><td>Simpler; no sound changes needed; but <em>-adin</em> is unexplained</td></tr>
+<tr><td><span class="inferred"><em>-din</em> is a direct Vrykul loan (cf. <em>Mjordin</em>)</span></td><td>Medium</td><td>Requires <em>-din</em> to be a distinct Vrykul morpheme; no independent gloss for <em>-din</em> exists</td></tr>
+</tbody>
+</table>
+
+<p><span class="uncertain">Confidence: Low.</span> The <em>-inn</em> &rarr; <em>-din</em> sound change is phonologically possible but requires multiple steps without confirming evidence. The simplest explanation is that <em>-adin</em> or <em>-din</em> is a Common suffix of uncertain origin, possibly but not certainly related to Vrykul <em>-inn</em>.</p>
+
+<h3 id="common-place-naming-conventions">Common Place-Naming Conventions</h3>
+
+<p>Common has developed its own place-naming conventions, largely replacing the Vrykul suffix system:</p>
+
+<table>
+<thead>
+<tr><th>Common Pattern</th><th>Example</th><th>Structure</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td>English compound</td><td>Stormwind</td><td>Storm + wind</td><td>Transparent English compound</td></tr>
+<tr><td>Personal name + suffix</td><td>Lordaeron</td><td>Lord + <span class="uncertain">-aeron (?)</span></td><td>"-aeron" may be a fossilized element</td></tr>
+<tr><td>Topographic description</td><td>Hillsbrad</td><td>Hills + brad</td><td>English topographic compound</td></tr>
+<tr><td>Title + place</td><td>Stormgarde</td><td>Storm + <span class="inferred">-garde</span></td><td>Hybrid: Common root + Vrykul suffix</td></tr>
+</tbody>
+</table>
+
+<!-- ═══════════════════ SYNTAX ═══════════════════ -->
+
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="word-order">Word Order</h3>
+
+<p>Common is most likely <strong>SVO</strong> (Subject-Verb-Object), consistent with:</p>
+
+<ol>
+<li>Its rendering as English in-game (English is SVO)</li>
+<li>The tendency for contact languages and simplified languages to develop SVO order</li>
+<li>Vrykul battle-cry patterns showing imperative-initial constructions (<em>Rualg nja gaborr!</em> = "Stand and die!"), which are consistent with VSO in Vrykul but would naturally shift to SVO in Common through simplification</li>
+</ol>
+
+<h3 id="definiteness-and-articles">Definiteness and Articles</h3>
+
+<p>Common likely developed a definite article (like English "the"), which Vrykul may not have had. The development of articles is a common feature of language simplification and grammaticalization.</p>
+
+<h3 id="case-and-agreement">Case and Agreement</h3>
+
+<p>Common likely lost whatever case system Vrykul may have had, replacing it with:</p>
+
+<ul>
+<li>Prepositional phrases (rather than case suffixes)</li>
+<li>Fixed word order (rather than free word order with case marking)</li>
+<li>Analytic possessive constructions (possessive <em>'s</em> or "of" phrases)</li>
+</ul>
+
+<p>The Common-language possessive <em>'s</em> (attested in <em>Iwen's Sanctum</em>, <em>Hrothgar's Landing</em>) <span class="uncertain">may be inherited from a Vrykul genitive suffix or may be an independent Common innovation.</span></p>
+
+<!-- ═══════════════════ WRITING ═══════════════════ -->
+
+<h2 id="writing-system">Writing System</h2>
+
+<p>Common uses a <strong>Latin-alphabet</strong> writing system, consistent with the in-game rendering of Common text. This writing system is shared with most Alliance races and serves as the primary written language of Azeroth.</p>
+
+<!-- ═══════════════════ FAMILY ═══════════════════ -->
+
+<h2 id="language-family-position">Language Family Position</h2>
+
+<pre>
+Titan (Primordial)
+└── Vrykul (Iron vrykul → Curse of Flesh)
+    ├── Northrend/Stormheim dialects
+    ├── Drust (Kul Tiras offshoot)
+    └── Common / Human (simplified descendant)
+        └── "Runt" vrykul who left Northrend
+</pre>
+
+<p>Common represents the endpoint of the simplification chain: Titan &rarr; Vrykul &rarr; Common. Each step involves loss of morphological complexity, reduction of consonant clusters, and development of more analytic syntax.</p>
+
+<!-- ═══════════════════ LEGACY OF ARATHOR ═══════════════════ -->
+
+<h2 id="tww-patch-legacy-of-arathor-names">TWW Patch: Legacy of Arathor Names</h2>
+
+<p>The <em>Legacy of Arathor</em> campaign in <em>The War Within</em> (2025&ndash;2026) introduces several named human characters associated with Stromgarde and the Arathi Highlands. These names provide additional data points for Common/Vrykul linguistic analysis.</p>
+
+<h3 id="new-personal-names">New Personal Names</h3>
+
+<table>
+<thead>
+<tr><th>Name</th><th>IPA</th><th>Context</th><th>Linguistic Analysis</th></tr>
+</thead>
+<tbody>
+<tr><td>Marran Trollbane</td><td><span class="ipa">/ˈmærən/</span></td><td>Stromgarde noble; member of the Trollbane dynasty</td><td><em>Marran</em> has no clear Vrykul morpheme content. The <em>-an</em> ending parallels other Common personal names (<em>Varian</em>, <em>Danath</em>). The <em>Marr-*</em> root is unexplained &mdash; <span class="uncertain">it could be native Common with no Vrykul origin, or a heavily modified Vrykul element no longer recognizable.</span> The surname <em>Trollbane</em> is a hereditary Common compound title (cf. <em>Danath Trollbane</em>), meaning "one who breaks/banes trolls."</td></tr>
+<tr><td>Veronica Nials</td><td><span class="ipa">/vəˈrɒnɪkə/</span></td><td>Stromgarde military leader</td><td><em>Veronica</em> is a Latin/English name with no Vrykul morpheme content. It follows Common naming conventions for female names derived from real-world Latin (<em>-ica</em> feminine suffix). <em>Nials</em> parallels the Arathi surname pattern seen in other Stromgarde characters.</td></tr>
+</tbody>
+</table>
+
+<h3 id="analysis-the-trollbane-dynasty">Analysis: The <em>Trollbane</em> Dynasty</h3>
+
+<p>The <em>Trollbane</em> surname is now confirmed as hereditary across at least two generations (<em>Danath Trollbane</em>, <em>Marran Trollbane</em>). This confirms that Common hereditary surnames exist in the Arathi/Stromgarde tradition, using the pattern [Enemy] + [Defeat] compound:</p>
+
+<table>
+<thead>
+<tr><th>Surname</th><th>Decomposition</th><th>Pattern</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Trollbane</em></td><td>Troll + bane</td><td>[Enemy] + [defeat/killer]</td></tr>
+</tbody>
+</table>
+
+<p>This is a Common-language compound with no Vrykul morpheme content. It parallels real-world English compound surnames (<em>Braveheart</em>, <em>Strongbow</em>) and reflects the martial culture of the Arathi/Stromgarde humans.</p>
+
+<h3 id="stromgarde-revisited">Stromgarde Revisited</h3>
+
+<p>The city of <em>Stromgarde</em> features prominently in the Legacy of Arathor campaign. The existing analysis (Common <em>Strom</em> + Vrykul <em>-garde</em>) is unchanged. However, the campaign's focus on Stromgarde reinforces the interpretation of <em>-garde</em> as a productive Vrykul suffix that was combined with Common roots:</p>
+
+<ul>
+<li><em>Stromgarde</em> = <em>Strom</em> <span class="uncertain">(stream/storm)</span> + <em>-garde</em> (enclosure/keep) = "Storm Keep" or "Stream Fortress"</li>
+<li>The continued use of <em>Stromgarde</em> as a dynastic seat name (rather than replacing it with a Common compound like "Stormhold" or "Stormcastle") suggests the <em>-garde</em> element was perceived as a productive suffix, not merely a fossilized borrowing</li>
+</ul>
+
+<h3 id="assessment">Assessment</h3>
+
+<p>The Legacy of Arathor names do not add significant new Vrykul morpheme evidence. <em>Marran</em> and <em>Veronica</em> are Common-language names with no identifiable Vrykul elements, consistent with the expected pattern that most Common personal names are native developments rather than Vrykul retentions. The <em>Trollbane</em> surname confirms the hereditary compound-surname tradition in Arathi culture.</p>
+
+<p><span class="uncertain">Confidence: Low</span> for any Vrykul morpheme content in <em>Marran</em>; <span class="uncertain">Very Low</span> for <em>Veronica</em> (clearly Latin/Common origin).</p>
+
+<!-- ═══════════════════ LIMITATIONS ═══════════════════ -->
+
+<h2 id="limitations">Limitations</h2>
+
+<ul>
+<li><strong>Common is not a constructed language in the traditional sense.</strong> Blizzard has not published a distinct Common grammar, vocabulary, or phonology. In-game, Common IS English.</li>
+<li><strong>No Common-language phrases with translations exist</strong> (because Common is the translation language).</li>
+<li><strong>The Vrykul&rarr;Common connection</strong> is based on the confirmed lore that humans descend from vrykul, but no direct linguistic comparison (shared vocabulary with translations) has been provided by Blizzard.</li>
+<li><strong>All Common names</strong> <span class="uncertain">may simply be English names chosen for aesthetic reasons, not linguistically motivated forms.</span></li>
+<li><strong>Sound change hypotheses</strong> are based on typological expectations for language simplification, not on observed data.</li>
+<li><strong>The relationship between Common and English</strong> is an unresolved meta-linguistic question: is Common "English" within the Warcraft universe, or is English used as a translation of a Common language that would look different if we could hear it?</li>
+</ul>
+
+</body>
+</html>

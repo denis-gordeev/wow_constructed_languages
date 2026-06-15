@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tol'vir Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#writing-system">Writing System</a>
+<a href="#egyptian-comparison">Egyptian Comparison</a>
+<a href="vocabulary.html">Vocabulary</a>
+<a href="grammar.html">Grammar</a>
+<a href="description.html">Description</a>
+</nav>
+
+<h1>Tol'vir Grammar</h1>
+
+<p>All grammatical inferences are based on the attested corpus in <code>vocabulary.md</code>. The corpus is extremely small (three phrases, one confirmed noun, three partially glossed drill commands, and approximately 25 untranslated proper names). <strong>All grammatical claims below are highly speculative and should be treated as hypotheses, not established facts.</strong></p>
+
+<!-- ===== PHONOLOGY ===== -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory</h3>
+
+<p>Based on attested words, the following consonants are observed:</p>
+
+<table>
+<tr><th></th><th>Bilabial</th><th>Alveolar</th><th>Palatal</th><th>Velar</th><th>Uvular/Glottal</th></tr>
+<tr><th>Stops</th><td>p, b</td><td>t, d</td><td></td><td>k, g</td><td></td></tr>
+<tr><th>Fricatives</th><td></td><td>s, z</td><td><span class="ipa">ʃ</span> (sh)</td><td></td><td>h</td></tr>
+<tr><th>Affricates</th><td></td><td></td><td><span class="ipa">tʃ</span> (ch), <span class="ipa">dʒ</span> (j)</td><td></td><td></td></tr>
+<tr><th>Nasals</th><td>m</td><td>n</td><td></td><td></td><td></td></tr>
+<tr><th>Liquids</th><td></td><td>l, r</td><td></td><td></td><td></td></tr>
+</table>
+
+<h3 id="vowel-inventory">Vowel Inventory</h3>
+
+<p>The five cardinal vowels are all attested: <span class="ipa">/a e i o u/</span>. The vowel <span class="ipa">/a/</span> is by far the most frequent, consistent with Egyptian-inspired phonology.</p>
+
+<h3 id="syllable-structure">Syllable Structure</h3>
+
+<p>Observed words tend toward (C)V(C) syllable patterns. Most roots are two or three syllables:</p>
+
+<ul>
+<li>CV.CVC: <em>Kam-ses</em>, <em>Kha-lesh</em></li>
+<li>CVC.CV: <em>Mur-kash</em></li>
+<li>V.CV.CVC: <em>A-khe-net</em></li>
+<li>CV.CV: <em>Or-sis</em>, <em>Sa-hket</em></li>
+<li>CV'.V(C): <em>Vir'naal</em>, <em>Mar'at</em> (apostrophe marks morpheme boundary)</li>
+</ul>
+
+<h3 id="stress">Stress</h3>
+
+<p>Stress patterns are unclear from the romanized orthography. Based on the Egyptian-inspired aesthetic, final or penultimate stress is likely, but this is <span class="uncertain">unconfirmed</span>.</p>
+
+<h3 id="apostrophe-usage">Apostrophe Usage</h3>
+
+<p>The apostrophe (') appears in:</p>
+<ul>
+<li><em>Vir'naal</em>, <em>Vir'sar</em>, <em>Mar'at</em> — likely marks morpheme boundaries within place names</li>
+<li><em>Al'burq</em>, <em>Alra'ed</em> — likely marks morpheme boundaries within weapon names</li>
+</ul>
+
+<p>The apostrophe may represent:</p>
+<ol>
+<li>A morpheme boundary (most likely)</li>
+<li>A glottal stop</li>
+<li>Both simultaneously</li>
+</ol>
+
+<p>The <em>Vir'</em> element shared by <em>Vir'naal</em> and <em>Vir'sar</em> (both water features) supports the morpheme boundary interpretation.</p>
+
+<!-- ===== MORPHOLOGY ===== -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="nominal-morphology">Nominal Morphology</h3>
+
+<p><strong>No inflectional morphology is attested.</strong> There are no observed case markers, number markers, or gender markers on nouns.</p>
+
+<h3 id="potential-suffixes">Potential Suffixes</h3>
+
+<p>Several recurring word-final elements suggest possible suffixes, but the corpus is too small to confirm any:</p>
+
+<table>
+<tr><th>Ending</th><th>Examples</th><th>Proposed Function</th><th>Certainty</th></tr>
+<tr><td>-en</td><td>Ramkahen, Ankhaten, (Akhenet?)</td><td><span class="inferred">Place/settlement</span></td><td><span class="uncertain">Very Low</span></td></tr>
+<tr><td>-et</td><td>Amathet, Akhenet, Sahket, Khintaset, Tahret</td><td><span class="inferred">Locative suffix</span></td><td><span class="uncertain">Very Low</span></td></tr>
+<tr><td>-ep</td><td>Hamatep, Nahkotep, Tebhotep</td><td><span class="inferred">Possibly related to Egyptian <em>-hotep</em> ("pleased") or independent suffix</span></td><td><span class="uncertain">Very Low</span></td></tr>
+<tr><td>-set</td><td>Neferset</td><td><span class="inferred">Unknown; possibly <em>-et</em> with <em>s</em> from root</span></td><td><span class="uncertain">Very Low</span></td></tr>
+</table>
+
+<div class="note"><strong>The alternation between -et and -ep</strong> is notable. If these represent the same suffix, the alternation may be phonologically conditioned (e.g., <em>-ep</em> after certain consonants). If they are different suffixes, <em>-ep</em> may be a title element (cf. <em>-hotep</em>) while <em>-et</em> may be locative. The data is insufficient to distinguish these possibilities.</div>
+
+<h3 id="potential-prefixes">Potential Prefixes</h3>
+
+<table>
+<tr><th>Prefix</th><th>Examples</th><th>Proposed Function</th><th>Certainty</th></tr>
+<tr><td>Vir'-</td><td>Vir'naal, Vir'sar</td><td><span class="inferred">Water/river-related</span></td><td><span class="uncertain">Low</span></td></tr>
+<tr><td>Al'-</td><td>Al'burq</td><td><span class="inferred">Definite article "the" (cf. Arabic)</span></td><td><span class="uncertain">Low–Medium</span></td></tr>
+</table>
+
+<h3 id="verbal-morphology">Verbal Morphology</h3>
+
+<p><strong>No verbal morphology is attested.</strong> The three drill commands (<em>Kadesh</em>, <em>Osadi</em>, <em>Satekh</em>) are likely verb imperatives based on their combat context, but no paradigm (conjugation, aspect marking, etc.) can be inferred from three forms.</p>
+
+<ul>
+<li><em>Kadesh</em> — <span class="inferred">imperative "swing/strike" (?)</span></li>
+<li><em>Osadi</em> — <span class="inferred">imperative "swing/strike again" (?)</span> or a different type of strike</li>
+<li><em>Satekh</em> — <span class="inferred">imperative "block/parry" (?)</span></li>
+</ul>
+
+<p>The difference in syllable count and structure between <em>Kadesh</em> (2 syllables), <em>Osadi</em> (3 syllables), and <em>Satekh</em> (2 syllables) may reflect:</p>
+<ol>
+<li>Different verb roots with no morphological relationship</li>
+<li>The same root with different affixes <span class="uncertain">(unlikely given the phonological diversity)</span></li>
+<li>Completely unrelated words for different combat actions</li>
+</ol>
+
+<h3 id="compounding">Compounding</h3>
+
+<p>Several proper names appear to be compounds:</p>
+
+<ul>
+<li><em>Vir'naal</em> = <em>Vir</em> + <em>naal</em> (water features)</li>
+<li><em>Vir'sar</em> = <em>Vir</em> + <em>sar</em> (water features)</li>
+<li><em>Ankhaten</em> = <em>Ankh</em> + <em>aten</em> (if following Egyptian pattern: "life" + "sun disk")</li>
+</ul>
+
+<p>The apostrophe consistently marks compound boundaries in attested forms.</p>
+
+<!-- ===== SYNTAX ===== -->
+
+<h2 id="syntax">Syntax</h2>
+
+<p><strong>No syntactic information is attested.</strong> The single sentence <em>Achusenmen osadi djahi kahun Ammunae</em> is untranslated and cannot be parsed.</p>
+
+<p>If the sentence follows the same word order as the drill phrase (<em>Kadesh Osadi Satekh</em> = verb-verb-verb), this might suggest verb-initial order, but three combat commands in sequence do not constitute evidence for general word order.</p>
+
+<p>Possible word orders for <em>Achusenmen osadi djahi kahun Ammunae</em>:</p>
+<ul>
+<li>VSO (verb-subject-object) — common in Egyptian and Semitic languages, which inspired Tol'vir naming</li>
+<li>SOV — common cross-linguistically</li>
+<li>Any other order</li>
+</ul>
+
+<p>The name <em>Ammunae</em> at the end of the sentence may be a proper noun (the Halls of Origination keeper), possibly serving as subject, object, or vocative.</p>
+
+<!-- ===== WRITING SYSTEM ===== -->
+
+<h2 id="writing-system">Writing System</h2>
+
+<p>The Tol'vir language is written using <strong>hieroglyphs</strong>. This is confirmed by multiple sources:</p>
+
+<ul>
+<li>Wowpedia: "The written language apparently consists of hieroglyphs."</li>
+<li>Warcraft Wiki: "It is written using hieroglyphs."</li>
+<li>The Tol'vir Hieroglyphic archaeology item confirms the existence of a hieroglyphic script.</li>
+<li>Hieroglyphs decorate obelisks and temples throughout Uldum.</li>
+</ul>
+
+<p>The hieroglyphs combine <strong>logographic and pictographic elements</strong> (per the "Languages of World of Warcraft" overview article), meaning some symbols represent whole words while others represent concepts pictorially. No complete transcription or decipherment of the hieroglyphs has been published.</p>
+
+<!-- ===== EGYPTIAN COMPARISON ===== -->
+
+<h2 id="egyptian-comparison">Egyptian Comparison</h2>
+
+<p>The Tol'vir naming system is clearly inspired by ancient Egyptian, but the relationship is <strong>design inspiration</strong>, not in-universe borrowing. Key parallels:</p>
+
+<ol>
+<li><strong>Khopesh</strong>: A direct reference to the Egyptian <span class="ipa">ḫpš</span> (sickle sword). This is the one confirmed Tol'vir word that has a confirmed real-world Egyptian cognate.</li>
+<li><strong>Pharaonic titles</strong>: "Pharaoh," "Sun King" echo Egyptian rulership.</li>
+<li><strong>-hotep names</strong>: <em>Tebhotep</em>, <em>Nahkotep</em> echo Egyptian <em>-hotep</em> names (Amenhotep, Imhotep).</li>
+<li><strong>Place naming</strong>: <em>Ankhaten</em> closely resembles <em>Akhenaten</em>.</li>
+<li><strong>Amun/Ammon</strong>: Both <em>Ammunae</em> and <em>Ammon</em> reference the Egyptian god Amun.</li>
+</ol>
+
+<p>However, these are aesthetic choices by Blizzard's writers, not evidence that Tol'vir <strong>is</strong> Egyptian. The drill words (<em>Kadesh</em>, <em>Osadi</em>, <em>Satekh</em>) do not carry their Egyptian meanings in the Tol'vir context.</p>
+
+</body>
+</html>

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vrykul Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="description.html">Description</a>
+<a href="grammar.html">Grammar</a>
+<a href="vocabulary.html">Vocabulary</a>
+&#x2502;
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#limitations">Limitations</a>
+</nav>
+
+<h1>Vrykul Grammar</h1>
+
+<!-- Phonology -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory</h3>
+
+<p>The Vrykul phonological system closely parallels Old Norse/Icelandic:</p>
+
+<table>
+<thead>
+<tr><th></th><th>Bilabial</th><th>Labiodental</th><th>Dental</th><th>Alveolar</th><th>Palatal</th><th>Velar</th><th>Glottal</th></tr>
+</thead>
+<tbody>
+<tr><td>Stops</td><td>p b</td><td></td><td>t d</td><td></td><td></td><td>k g</td><td></td></tr>
+<tr><td>Fricatives</td><td></td><td>f v</td><td><span class="ipa">θ ð</span></td><td>s</td><td></td><td></td><td>h</td></tr>
+<tr><td>Nasals</td><td>m</td><td></td><td></td><td>n</td><td></td><td></td><td></td></tr>
+<tr><td>Approximants</td><td></td><td></td><td></td><td><span class="ipa">ɾ</span></td><td>j</td><td></td><td></td></tr>
+<tr><td>Laterals</td><td></td><td></td><td></td><td>l</td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+<h3 id="notable-phonological-features">Notable Phonological Features</h3>
+
+<ul>
+<li><strong>Gj → <span class="ipa">/ʃ/</span></strong>: The digraph &ldquo;Gj&rdquo; is pronounced as <span class="ipa">/ʃ/</span> (sh). Canon: Captain Adams notes &ldquo;Gj&rdquo; in &ldquo;Gjalerbron&rdquo; is pronounced &ldquo;Sh&rdquo; (quest: Dealing With Gjalerbron). This parallels the Norwegian/Gj sound shift.</li>
+<li><strong>Double consonants</strong>: Attested in names like Skarvald, Sjonnir, suggesting gemination or pre-aspiration as in Old Norse.</li>
+<li><strong>R sounds</strong>: The language likely uses an alveolar tap or trill <span class="ipa">[ɾ/r]</span> as in Old Norse, given the frequency of rhotic-heavy names (Ymiron, Hrothgar, Valhalas).</li>
+<li><strong>Vowel length</strong>: Possibly phonemic, as in Old Norse. Attested in double vowels: &ldquo;oo&rdquo; in &ldquo;Ugglin oo bjorr&rdquo;, &ldquo;uul&rdquo; in &ldquo;Mjor na uul kval!&rdquo;</li>
+<li><strong>Consonant clusters</strong>: Heavy initial clusters are common: Vr- (Vrykul), Sk- (Skovald, Skadi, Skarvald), Hl- (Helya), Gj- (Gjalerbron), Mj- (Mjordin), Ym- (Ymiron, Ymirheim).</li>
+</ul>
+
+<h3 id="vowel-system">Vowel System</h3>
+
+<p>Based on attested forms, likely similar to Old Norse:</p>
+
+<table>
+<thead>
+<tr><th></th><th>Front</th><th>Back</th></tr>
+</thead>
+<tbody>
+<tr><td>High</td><td>i, y</td><td>u</td></tr>
+<tr><td>Mid</td><td>e</td><td>o</td></tr>
+<tr><td>Low</td><td><span class="ipa">æ</span></td><td><span class="ipa">ɑ</span></td></tr>
+</tbody>
+</table>
+
+<ul>
+<li><strong>Diphthongs</strong>: Attested in &ldquo;au&rdquo; (Haustvald), &ldquo;ou&rdquo; (possible in &ldquo;oo&rdquo;), &ldquo;ei&rdquo; (Geirrivif), &ldquo;ja&rdquo; (Jotunheim, Mjordin).</li>
+</ul>
+
+<h3 id="stress-pattern">Stress Pattern</h3>
+
+<ul>
+<li>Primary stress appears to fall on the first syllable in most words, consistent with Old Norse/Germanic patterns: <strong>Y</strong>miron, <strong>Ut</strong>garde, <strong>Val</strong>halas, <strong>Sko</strong>vald.</li>
+</ul>
+
+<!-- Morphology -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="nouns">Nouns</h3>
+
+<h4 id="the-heim-suffix">The -heim Suffix</h4>
+<ul>
+<li><strong>Meaning</strong>: &ldquo;home&rdquo; or &ldquo;realm&rdquo; (cognate with Old Norse <em>heimr</em>)</li>
+<li><strong>Attested in</strong>: Jotunheim, Ymirheim, Stormheim, Helheim</li>
+<li><strong>Function</strong>: Forms place names indicating a homeland or realm</li>
+</ul>
+
+<h4 id="the-jar-suffix">The -jar Suffix</h4>
+<ul>
+<li><strong>Meaning</strong>: &ldquo;army&rdquo; or &ldquo;host&rdquo; (cognate with Old Norse <em>-jar/jarlar</em>)</li>
+<li><strong>Attested in</strong>: Ymirjar, Valarjar, Helarjar, Drekirjar</li>
+<li><strong>Function</strong>: Denotes a collective group or army associated with the root</li>
+</ul>
+
+<h4 id="the-bron-suffix">The -bron Suffix</h4>
+<ul>
+<li><strong>Meaning</strong>: <span class="uncertain">Possibly &ldquo;hold&rdquo; or &ldquo;fortress&rdquo; (uncertain)</span></li>
+<li><strong>Attested in</strong>: Gjalerbron</li>
+<li><strong>Function</strong>: Forms fortress/structure names</li>
+</ul>
+
+<h4 id="the-garde-suffix">The -garde Suffix</h4>
+<ul>
+<li><strong>Meaning</strong>: &ldquo;enclosure&rdquo; or &ldquo;keep&rdquo; (cognate with Old Norse <em>garðr</em>)</li>
+<li><strong>Attested in</strong>: Utgarde</li>
+</ul>
+
+<h4 id="the-korn-element">The -korn Element</h4>
+<ul>
+<li><strong>Meaning</strong>: <span class="uncertain">Possibly &ldquo;chosen&rdquo; or &ldquo;kin&rdquo; (uncertain; cognate with Old Norse <em>-korn</em> as &ldquo;grain/seed&rdquo;)</span></li>
+<li><strong>Attested in</strong>: Winterskorn, Tideskorn, Felskorn</li>
+</ul>
+
+<h4 id="compound-personal-names">Compound Personal Names</h4>
+<ul>
+<li><strong>Bjarngrim</strong>: <em>bjarn</em> (bear) + <em>grímur</em> (mask/helmet) &rarr; &ldquo;Bear-helm&rdquo; (Icelandic: Bjarngrímur)</li>
+<li><strong>Geirrivif</strong>: <em>geirr</em> (spear) + <em>vif</em> (wife) &rarr; &ldquo;Spear-wife&rdquo; (canon confirmed)</li>
+<li><strong>Bjornharta</strong>: <em>bjorn</em> (bear) + <em>harta</em> (heart) &rarr; &ldquo;Bear-heart&rdquo; (canon confirmed: &ldquo;bear heart&rdquo;)</li>
+<li><strong>Mordvigbjorn</strong>: <em>mord</em> (murder/death) + <em>vig</em> (battle) + <em>bjorn</em> (bear) &rarr; compound proper name</li>
+</ul>
+
+<h3 id="titles">Titles</h3>
+
+<ul>
+<li><strong>Drottinn</strong>: &ldquo;Lord&rdquo; or &ldquo;leader of a band&rdquo; (cognate with Old Norse <em>dróttinn</em>)
+<ul><li>Attested in: Drottinn Hrothgar</li></ul>
+</li>
+<li><strong>Thane</strong>: A title of nobility (cognate with Old Norse <em>þegn</em>)
+<ul><li>Attested in: Thane Banahogg, Thane Ufrang the Mighty</li></ul>
+</li>
+<li><strong>Overthane</strong>: Superior thane title
+<ul><li>Attested in: Overthane Balargarde</li></ul>
+</li>
+</ul>
+
+<h3 id="verbsmorphology">Verbs/Morphology</h3>
+
+<ul>
+<li>Too few verb forms are attested to determine conjugation patterns.</li>
+<li>Imperative forms may be present in battle cries: &ldquo;Rualg nja gaborr!&rdquo; (Stand and die!), &ldquo;Var-jogg gramalch!&rdquo; (Kill them all!)</li>
+</ul>
+
+<h3 id="the-val--val-prefix">The Val- / Val&rsquo;- Prefix</h3>
+
+<ul>
+<li><strong>Val-</strong> appears in multiple terms related to chosen/fallen warriors:
+<ul>
+<li><strong>Val&rsquo;kyr</strong>: &ldquo;chosen of the spear&rdquo; or &ldquo;slaughter-chooser&rdquo; (cognate with Old Norse <em>valkyrja</em>, from <em>valr</em> &ldquo;slaughter&rdquo; + <em>kjósa</em> &ldquo;to choose&rdquo;)</li>
+<li><strong>Valarjar</strong>: &ldquo;army of the chosen/slain&rdquo; (<em>valr</em> + <em>ar</em> + <em>jar</em>)</li>
+<li><strong>Valhalas</strong>: &ldquo;hall of the slain&rdquo; (cognate with <em>Valhǫll</em>/Valhalla)</li>
+<li><strong>Valgarde</strong>: &ldquo;enclosure of the slain/chosen&rdquo;</li>
+<li><strong>Valkyrion</strong>: Place associated with the Val&rsquo;kyr</li>
+<li><strong>Valkyra</strong>: The order of shieldmaidens who aspire to become Val&rsquo;kyr</li>
+</ul>
+</li>
+</ul>
+
+<h3 id="the-ym--ymir-root">The Ym- / Ymir- Root</h3>
+
+<ul>
+<li>Associated with King Ymiron and the primordial:
+<ul>
+<li><strong>Ymiron</strong>: King&rsquo;s name (cognate with Ymir, the primordial giant in Norse myth)</li>
+<li><strong>Ymirheim</strong>: &ldquo;Home of Ymir&rdquo; &mdash; the Ymirjar city in Icecrown</li>
+<li><strong>Ymirjar</strong>: &ldquo;Ymir&rsquo;s army/host&rdquo;</li>
+<li><span class="inferred">The root likely carries connotations of primordial origin or kingship</span></li>
+</ul>
+</li>
+</ul>
+
+<h3 id="possessivegenitive-patterns">Possessive/Genitive Patterns</h3>
+
+<ul>
+<li>&ldquo;Bjorns mottar&rdquo; = &ldquo;Bjorn&rsquo;s mother&rdquo; <span class="uncertain">(speculative; parallels Icelandic genitive)</span></li>
+<li>The -s possessive suffix parallels Old Norse and modern Scandinavian patterns</li>
+</ul>
+
+<!-- Syntax -->
+
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="word-order">Word Order</h3>
+
+<p>Very limited evidence. The attested phrases suggest possible VSO or imperative-first patterns:</p>
+
+<ul>
+<li>&ldquo;Rualg nja gaborr!&rdquo; = &ldquo;Stand and die!&rdquo; &mdash; possibly [verb] [conjunction] [verb]</li>
+<li>&ldquo;Ugglin oo bjorr!&rdquo; = &ldquo;Speak or perish!&rdquo; &mdash; possibly [verb] [conjunction] [verb]</li>
+<li>&ldquo;Var-jogg gramalch!&rdquo; = &ldquo;Kill them all!&rdquo; &mdash; possibly [verb-imperative] [object/pronoun]</li>
+</ul>
+
+<h3 id="conjunctions">Conjunctions</h3>
+
+<ul>
+<li><strong>nja</strong>: &ldquo;and&rdquo; (in &ldquo;Rualg nja gaborr!&rdquo; = &ldquo;Stand and die!&rdquo;)</li>
+<li><strong>oo</strong>: &ldquo;or&rdquo; (in &ldquo;Ugglin oo bjorr!&rdquo; = &ldquo;Speak or perish!&rdquo;)</li>
+</ul>
+
+<p>These are consistent with Old Norse <em>en/ok</em> (and) and <em>eða</em> (or), though the forms differ.</p>
+
+<h3 id="imperative-constructions">Imperative Constructions</h3>
+
+<p>Battle cries follow a pattern of imperative + conjunction + imperative:</p>
+<ul>
+<li>&ldquo;Rualg nja gaborr!&rdquo; &rarr; Stand and die!</li>
+<li>&ldquo;Ugglin oo bjorr!&rdquo; &rarr; Speak or perish!</li>
+</ul>
+
+<p>Or imperative + object:</p>
+<ul>
+<li>&ldquo;Var-jogg gramalch!&rdquo; &rarr; Kill them all!</li>
+<li>&ldquo;Wyrgn ak!&rdquo; &rarr; Sniveling pig! (insult rather than imperative)</li>
+</ul>
+
+<!-- Limitations -->
+
+<h2 id="limitations">Limitations</h2>
+
+<div class="note">
+<ul>
+<li>No prose texts exist; only battle cries, proper names, and isolated phrases are attested.</li>
+<li>Verb conjugation, noun declension, and grammatical gender cannot be determined from available evidence.</li>
+<li>The Old Norse parallels provide strong analogical evidence but should not be treated as canon.</li>
+<li>The &ldquo;slightly different dialect&rdquo; of Stormheim vrykul is noted in canon but no specific dialectal features are attested.</li>
+<li>Several untranslated phrases (Bolvin umyol marnjar, Folvynn buul hrom onn, etc.) lack any translation or morphological analysis.</li>
+</ul>
+</div>
+
+</body>
+</html>

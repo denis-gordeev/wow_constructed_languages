@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Earthen Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="description.html">Description</a>
+<a href="grammar.html">Grammar</a>
+<a href="vocabulary.html">Vocabulary</a>
+&#8226;
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#investigation-oc-roc">Investigation: -oc / -roc</a>
+<a href="#syntax">Syntax</a>
+<a href="#titan-earthen-connection">Titan–Earthen Connection</a>
+<a href="#limitations">Limitations</a>
+</nav>
+
+<h1>Earthen Grammar</h1>
+
+<p>Grammar rules below are <strong>inferred from attested examples only</strong>. The Earthen language has no attested sentences — the entire corpus consists of proper names, place names, and cultural group designations. Patterns are noted where multiple examples support a rule. Speculative extensions are marked <span class="uncertain">[speculative]</span>.</p>
+
+<!-- ========== PHONOLOGY ========== -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="sound-inventory">Sound Inventory (Observed from Attested Names)</h3>
+
+<p><strong>Consonants</strong>: b, d, f, g, h, k, l, m, n, r, s, t, th (<span class="ipa">/θ/</span>), v, z</p>
+
+<p><strong>Vowels</strong>: a, e, i, o, u</p>
+
+<h3 id="phonological-patterns">Phonological Patterns</h3>
+
+<ol>
+<li><strong>Guttural consonant preference</strong>: The Earthen names show a strong preference for velar and glottal consonants: <span class="ipa">/ɡ/</span> (<em>Gundargaz</em>, <em>Adelgonn</em>), <span class="ipa">/k/</span> (<em>Khaz</em>), <span class="ipa">/ɡr/</span> (<em>Baelgrim</em>). This is consistent with the Dwarven description of a "guttural" language influenced by Titan.</li>
+
+<li><strong>Heavy consonant clusters</strong>: Earthen names tolerate complex clusters, especially in medial and final position: <span class="ipa">/ɡr/</span> (<em>Baelgrim</em>), <span class="ipa">/ndɑːr/</span> (<em>Gundargaz</em>), <span class="ipa">/lf/</span> (if <em>Algar</em> = <em>Al-gar</em>), <span class="ipa">/rɡ/</span> (<em>Gundargaz</em>). This exceeds Dwarven cluster complexity and approaches Titan levels.</li>
+
+<li><strong>Dental fricative <span class="ipa">/θ/</span></strong>: The phoneme <span class="ipa">/θ/</span> appears in <em>Brinthe</em> <span class="ipa">/ˈbrɪnθə/</span>, reflecting a phonological feature shared with Vrykul (<em>Thros</em>, <em>Thorim</em>) and Titan (<em>Khaz'goroth</em>). This sound is absent from attested Dwarven names (<em>Magni</em>, <em>Muradin</em>, <em>Brann</em>), suggesting that Dwarves lost this phoneme after the Curse of Flesh while Earthen retained it.</li>
+
+<li><strong>Vowel distribution</strong>: Earthen names favor <span class="ipa">/ɛ/</span>, <span class="ipa">/ɪ/</span>, <span class="ipa">/ɑ/</span> in stressed syllables, with <span class="ipa">/ə/</span> common in unstressed positions. This is broadly consistent with the Titan/Dwarven vowel pattern.</li>
+
+<li><strong>Syllable structure</strong>: Names tend toward (C)(C)V(C)(C), allowing complex onsets and codas: <em>Baelgrim</em> <span class="ipa">/beɪl.ɡrɪm/</span> (CVC.CCVC), <em>Gundargaz</em> <span class="ipa">/ɡʊn.dɑːr.ɡæz/</span> (CVC.CVCCVC), <em>Adelgonn</em> <span class="ipa">/ə.dɛl.ɡɒn/</span> (V.CVCCVC).</li>
+</ol>
+
+<h3 id="comparison-dwarven-phonology">Comparison with Dwarven Phonology</h3>
+
+<table>
+<thead><tr><th>Feature</th><th>Earthen</th><th>Dwarven</th><th>Analysis</th></tr></thead>
+<tbody>
+<tr><td>Consonant cluster complexity</td><td>High (<em>Baelgrim</em>, <em>Gundargaz</em>)</td><td>Moderate (<em>Khaz Modan</em>, <em>Grim Batol</em>)</td><td>Earthen preserve Titan-level complexity; Dwarves simplified</td></tr>
+<tr><td><span class="ipa">/θ/</span> phoneme</td><td>Present (<em>Brinthe</em>)</td><td>Absent from attested names</td><td>Earthen retain; Dwarves lost</td></tr>
+<tr><td>Name length</td><td>Longer (<em>Adelgonn</em>, <em>Lufsela</em>)</td><td>Shorter (<em>Magni</em>, <em>Brann</em>)</td><td>Consistent with language simplification</td></tr>
+<tr><td>Guttural stops</td><td>Prominent (<em>Gundargaz</em>, <em>Khaz</em>)</td><td>Present but less prominent</td><td>Earthen closer to Titan guttural quality</td></tr>
+</tbody>
+</table>
+
+<!-- ========== MORPHOLOGY ========== -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding">Compounding</h3>
+
+<p>Place and personal names suggest a right-headed compounding pattern, inherited from Titan:</p>
+
+<ul>
+<li><strong>Khaz Algar</strong> = <em>Khaz-</em> (forge/craft) + <em>Algar</em> (uncertain) → "Forge of [Algar]"</li>
+<li><strong>Dornogal</strong> = <em>Dorn-</em> (land/realm) + <em>-ogal</em> (uncertain) → "Land of [ogal]"</li>
+<li><strong>Baelgrim</strong> = <em>Bael-</em> (stone/earth) + <em>-grim</em> (fierce/helmet) → "Stone-fierce" <span class="uncertain">[speculative]</span></li>
+<li><strong>Gundargaz</strong> = <em>Gundar-</em> + <em>-gaz</em> → uncertain compound</li>
+</ul>
+
+<p>Unlike Dwarven, where compounding rarely uses apostrophes (<em>Bael'dun</em> is an exception), Earthen names show no apostrophe usage at all. This may reflect:</p>
+<ul>
+<li>A different orthographic convention (spaces or hyphens instead)</li>
+<li>A phonological difference (Earthen compounds may be more tightly integrated)</li>
+<li>Insufficient data (only 6 personal names are attested)</li>
+</ul>
+
+<h3 id="khaz-prefix">The <em>Khaz-</em> Prefix</h3>
+
+<p>The <em>Khaz-</em> prefix appears in three attested place names:</p>
+
+<table>
+<thead><tr><th>Place</th><th>Language</th><th>Meaning</th></tr></thead>
+<tbody>
+<tr><td><em>Khaz'goroth</em></td><td>Titan</td><td>Shaper of Worlds</td></tr>
+<tr><td><em>Khaz Modan</em></td><td>Dwarven</td><td>Mountain of Khaz</td></tr>
+<tr><td><em>Khaz Algar</em></td><td>Earthen</td><td>Forge of [Algar]</td></tr>
+</tbody>
+</table>
+
+<p>This distribution confirms <em>Khaz-</em> as a Titan morpheme that was inherited by both Earthen and Dwarven. In Earthen, <em>Khaz-</em> may retain more of its original Titan meaning ("forge/craft/shape") than in Dwarven, where it has been fossilized as a proper-name element.</p>
+
+<h3 id="dor-dar-dorn-pattern">The <em>-dor</em> / <em>-dar</em> / <em>Dorn-</em> Pattern</h3>
+
+<p>A potential sound correspondence:</p>
+
+<table>
+<thead><tr><th>Form</th><th>Language</th><th>Context</th></tr></thead>
+<tbody>
+<tr><td><em>-dor</em></td><td>Titan</td><td><em>Kalimdor</em> = "Land of Eternal Starlight"</td></tr>
+<tr><td><em>-dar</em></td><td>Earthen/Hallowfall</td><td><em>Beledar</em>, <em>Mereldar</em> (if <em>-dar</em> = <em>-dor</em>)</td></tr>
+<tr><td><em>Dorn-</em></td><td>Earthen</td><td><em>Dorn</em> (Isle of Dorn), <em>Dornogal</em> (capital)</td></tr>
+<tr><td><em>-modan</em></td><td>Dwarven</td><td><em>Khaz Modan</em> (if <em>-modan</em> = <em>-dor</em> + <em>-an</em>)</td></tr>
+</tbody>
+</table>
+
+<p>If <em>-dor</em> → <em>-dar</em> → <em>Dorn-</em> represents a regular sound change chain from Titan to Earthen, then:</p>
+<ul>
+<li>Titan <em>-dor</em> → Earthen <em>-dar</em> (vowel raising: <span class="ipa">/ɔ/</span> → <span class="ipa">/ɑ/</span>)</li>
+<li>Earthen <em>-dar</em> → Earthen <em>Dorn-</em> (addition of final <span class="ipa">/n/</span>; possibly a case suffix or definiteness marker)</li>
+</ul>
+
+<div class="note"><span class="uncertain">[speculative]</span> This correspondence is supported by three independent data points but remains unconfirmed. The Hallowfall places (<em>Beledar</em>, <em>Mereldar</em>) are Arathi settlements, not Earthen ones, so the <em>-dar</em> suffix may be an Arathi borrowing from Earthen rather than native Earthen.</div>
+
+<h3 id="dar-suffix">The <em>-dar</em> Suffix: Earthen or Arathi?</h3>
+
+<p>The <em>-dar</em> suffix appears only in Khaz Algar place names (<em>Beledar</em>, <em>Mereldar</em>), both of which are Arathi settlements in Hallowfall. Three possible origins:</p>
+
+<ol>
+<li><strong>Earthen substrate</strong>: Hallowfall was part of Khaz Algar before the Arathi arrived. The Arathi may have adopted pre-existing Earthen toponyms. This is the most likely explanation, since <em>-dar</em> does not appear in any other Arathi or Common place names outside Khaz Algar.</li>
+
+<li><strong>Contact borrowing</strong>: The Arathi, living in proximity to Earthen, borrowed the <em>-dar</em> suffix for new place names.</li>
+
+<li><strong>Independent Arathi innovation from Vrykul/Common heritage</strong>: The Arathi descend from humans (Vrykul descendants) who could have preserved <em>-dor</em> through their Titan heritage. However, no other human/Common place names show <em>-dar</em> (cf. <em>Stormwind</em>, <em>Lordaeron</em>, <em>Arathi</em> — none use <em>-dar</em>).</li>
+</ol>
+
+<p>The geographic restriction of <em>-dar</em> to Khaz Algar strongly supports an Earthen source. If <em>-dar</em> = <em>-dor</em> (Titan "land/realm"), the sound change <span class="ipa">/ɔ/</span> → <span class="ipa">/ɑ/</span> is plausible and parallels other Titan-to-Earthen vowel shifts.</p>
+
+<p><strong>Confidence: Low–Medium</strong> for <em>-dar</em> as an Earthen variant of Titan <em>-dor</em>.</p>
+
+<h3 id="ward-title-suffix">The <em>-ward</em> Title Suffix</h3>
+
+<p>Three of four Earthen leadership titles use the English suffix <em>-ward</em>:</p>
+
+<ul>
+<li>Stormward (Stormriders leader)</li>
+<li>Councilward (Oathsworn leader)</li>
+<li>Stoneward (Unbound leader)</li>
+<li>High Speaker (Machine Speakers leader — no <em>-ward</em>)</li>
+</ul>
+
+<p>These are almost certainly Common-language translations of Earthen titles. The original Earthen suffix (if any) is unknown.</p>
+
+<h3 id="grim-element">The <em>-grim</em> Element</h3>
+
+<p>The element <em>-grim</em> in <em>Baelgrim</em> parallels Vrykul <em>-grim</em> in <em>Bjarngrim</em> (boss in Halls of Lightning). If both derive from a shared Titan morpheme meaning "mask/helmet/fierce," this would be another shared morpheme across the titan-forged family.</p>
+
+<table>
+<thead><tr><th>Language</th><th>Form</th><th>Context</th></tr></thead>
+<tbody>
+<tr><td>Vrykul</td><td><em>Bjarngrim</em></td><td>"Bear-fierce/masked" (if <em>Bjarn</em> = bear, <em>-grim</em> = fierce)</td></tr>
+<tr><td>Earthen</td><td><em>Baelgrim</em></td><td>"Stone-fierce/masked" (if <em>Bael</em> = stone, <em>-grim</em> = fierce)</td></tr>
+<tr><td>Old Norse</td><td><em>gríma</em></td><td>"mask, helmet"</td></tr>
+</tbody>
+</table>
+
+<p>The parallel structure — [animal/element] + <em>-grim</em> — in both Vrykul and Earthen is striking. This could reflect:</p>
+<ol>
+<li>A shared Titan compound pattern preserved in both languages</li>
+<li>Independent borrowing from the same Norse-inspired aesthetic</li>
+<li>Contact borrowing between Vrykul and Earthen (less likely given geographic separation)</li>
+</ol>
+
+<p><strong>Confidence: Low.</strong> The parallel is suggestive but cannot distinguish in-universe inheritance from design convergence.</p>
+
+<!-- ========== INVESTIGATION: -oc / -roc ========== -->
+
+<h2 id="investigation-oc-roc">Investigation: The <em>-oc</em> / <em>-roc</em> Element in Earthen Names</h2>
+
+<p>Two Earthen names share the element <em>-oc</em> / <em>-roc</em>:</p>
+
+<table>
+<thead><tr><th>Name</th><th>IPA</th><th>Context</th><th>Expansion</th></tr></thead>
+<tbody>
+<tr><td><em>Goggeroc</em></td><td><span class="ipa">/ˈɡɒɡərɒk/</span></td><td>Earthen (Kalimdor)</td><td>Classic</td></tr>
+<tr><td><em>Leikaroc</em></td><td><span class="ipa">/ˈleɪkærɒk/</span></td><td>Earthen NPC (Khaz Algar)</td><td>TWW</td></tr>
+</tbody>
+</table>
+
+<h3 id="oc-roc-decompositions">Possible Decompositions</h3>
+
+<p><strong>Goggeroc</strong>:</p>
+<ul>
+<li><em>Gogger-</em> + <em>-oc</em> (if <em>-oc</em> is a suffix)</li>
+<li><em>Gog-</em> + <em>-ger-</em> + <em>-oc</em> (three morphemes)</li>
+<li><em>Gogge-</em> + <em>-roc</em> (if <em>-roc</em> is a suffix)</li>
+<li>Undecomposable single morpheme</li>
+</ul>
+
+<p><strong>Leikaroc</strong>:</p>
+<ul>
+<li><em>Leikar-</em> + <em>-oc</em> (if <em>-oc</em> is a suffix)</li>
+<li><em>Leika-</em> + <em>-roc</em> (if <em>-roc</em> is a suffix)</li>
+<li>Undecomposable single morpheme</li>
+</ul>
+
+<h3 id="oc-roc-arguments-for">Arguments for a Genuine Earthen Morpheme</h3>
+
+<ol>
+<li><strong>Two independent attestations</strong>: <em>Goggeroc</em> (Classic, 2004) and <em>Leikaroc</em> (TWW, 2024) share the <em>-oc</em> / <em>-roc</em> ending across 20 years of game development. This temporal span reduces the likelihood of coincidence.</li>
+
+<li><strong>Phonological consistency</strong>: Both names end in the sequence <span class="ipa">/ɒk/</span>, with the <em>-roc</em> variant showing the <span class="ipa">/r/</span> before the <span class="ipa">/k/</span>. The alternation <em>-oc</em> / <em>-roc</em> could reflect:
+  <ul>
+    <li>A single suffix <em>-oc</em> with optional epenthetic <span class="ipa">/r/</span> before it</li>
+    <li>A single suffix <em>-roc</em> that loses <span class="ipa">/r/</span> after certain consonant patterns</li>
+    <li>Two different suffixes that happen to sound similar</li>
+  </ul>
+</li>
+
+<li><strong>Semantic possibility</strong>: If <em>-oc</em> / <em>-roc</em> is a genuine Earthen morpheme, it could mean:
+  <ul>
+    <li>"stone" or "rock" (fitting for Earthen beings)</li>
+    <li>A personal name suffix (like Old English <em>-oc</em> in names like <em>Eadoc</em>)</li>
+    <li>A territorial or regional designation</li>
+    <li>A diminutive or pejorative suffix</li>
+  </ul>
+</li>
+
+<li><strong>Cross-language parallels</strong>: The <em>-oc</em> ending does not appear in Dwarven names (<em>Magni</em>, <em>Muradin</em>, <em>Brann</em>), suggesting it may be an Earthen-specific morpheme that was lost during the Earthen → Dwarven simplification process. This would parallel the loss of <span class="ipa">/θ/</span> in Dwarven names.</li>
+</ol>
+
+<h3 id="oc-roc-arguments-against">Arguments Against</h3>
+
+<ol>
+<li><strong>Only two attestations</strong>: With only two names, the <em>-oc</em> / <em>-roc</em> ending could be coincidental homophony. Two data points are insufficient to establish a morpheme.</li>
+
+<li><strong>No clear semantic pattern</strong>: Unlike <em>Anub-</em> (always borne by military leaders) or <em>-kahet</em> (always a place-name suffix), the two <em>-oc</em> bearers do not share an obvious semantic role — <em>Goggeroc</em> is a hostile earthen in Kalimdor, while <em>Leikaroc</em> is a TWW NPC with no specified leadership role.</li>
+
+<li><strong>Possible Blizzard design convergence</strong>: Both names could independently reflect Blizzard's tendency to give Earthen/Dwarven names harsh final consonants (<em>-oc</em>, <em>-ax</em>, <em>-uk</em>). The <em>-oc</em> ending may be an aesthetic choice rather than a genuine morpheme.</li>
+
+<li><strong>Real-world parallel</strong>: Old English and other Germanic languages use <em>-oc</em> as a name-forming element (cf. <em>Eadoc</em>, <em>Sigenoc</em>). Blizzard may have drawn on this convention independently for both names.</li>
+</ol>
+
+<h3 id="oc-roc-assessment">Assessment</h3>
+
+<table>
+<thead><tr><th>Analysis</th><th>Plausibility</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><em>-oc</em> / <em>-roc</em> = genuine Earthen morpheme (suffix meaning "stone" or "one of [place]")</td><td><strong>Low</strong></td><td>Two attestations across 20 years is suggestive but insufficient for firm conclusion</td></tr>
+<tr><td><em>-oc</em> / <em>-roc</em> = coincidental homophony</td><td><strong>Medium</strong></td><td>Two data points could easily be coincidence</td></tr>
+<tr><td><em>-oc</em> / <em>-roc</em> = Blizzard aesthetic convention for harsh Earthen names</td><td><strong>Medium–High</strong></td><td>Consistent with Blizzard's design approach for Earthen/Dwarven naming; no clear semantic pattern to support genuine morpheme</td></tr>
+</tbody>
+</table>
+
+<p><strong>Confidence: Very Low.</strong> The <em>-oc</em> / <em>-roc</em> element is flagged as a potential Earthen morpheme but cannot be confirmed with only two attestations and no clear semantic pattern. If future Earthen names appear with the same ending (e.g., <em>[name]-roc</em> or <em>[name]-oc</em> in TWW patch content), the case would strengthen significantly.</p>
+
+<!-- ========== SYNTAX ========== -->
+
+<h2 id="syntax">Syntax</h2>
+
+<ul>
+<li>No sentence-level attestation exists</li>
+<li>Word order cannot be determined</li>
+<li>The language appears to follow a modifier-head structure in compounds (inferred from place names), consistent with the Titan compounding tradition</li>
+</ul>
+
+<!-- ========== TITAN-EARTHEN CONNECTION ========== -->
+
+<h2 id="titan-earthen-connection">Titan–Earthen Linguistic Connection</h2>
+
+<p>Earthen are the direct creations of the Titan Khaz'goroth. Their language should be the closest living descendant of Titan, closer even than Vrykul (which innovated heavily with Norse-style morphology).</p>
+
+<h3 id="confirmed-titan-retentions">Confirmed Titan Retentions</h3>
+
+<ul>
+<li><strong>Khaz-</strong> — "Forge/craft/shape" appears in both Titan (<em>Khaz'goroth</em>) and Earthen (<em>Khaz Algar</em>)</li>
+<li><strong>Uld-</strong> — "City/facility" is known to Earthen through the Uldaman connection</li>
+<li><strong>Right-headed compounding</strong> — The modifier-head compound order is inherited from Titan</li>
+</ul>
+
+<h3 id="possible-innovations">Possible Innovations</h3>
+
+<ul>
+<li><strong>Dorn- / -dar</strong> — The <em>-dor</em> → <em>-dar</em> / <em>Dorn-</em> sound change (if confirmed) would be an Earthen innovation</li>
+<li><strong>Lack of apostrophe</strong> — Earthen names do not use apostrophes, unlike Titan (<em>Khaz'goroth</em>, <em>Aman'Thul</em>). This may reflect a simpler orthographic convention or a phonological change (loss of glottal stops?)</li>
+<li><strong>-grim</strong> — The <em>-grim</em> element (if native Earthen rather than borrowed from Vrykul) may be an Earthen retention of a Titan morpheme that Vrykul also preserved</li>
+</ul>
+
+<!-- ========== LIMITATIONS ========== -->
+
+<h2 id="limitations">Limitations</h2>
+
+<p>Earthen grammar is almost entirely unattested beyond place name decomposition and personal name analysis. The corpus consists of:</p>
+<ul>
+<li>~6 personal names</li>
+<li>~5 place names with potential Earthen etymologies</li>
+<li>4 leadership titles (in Common)</li>
+<li>5 cultural group names (in Common)</li>
+</ul>
+
+<p>No verb forms, particles, or syntactic structures are known. All grammatical observations are inferred from onomastic patterns.</p>
+
+</body>
+</html>

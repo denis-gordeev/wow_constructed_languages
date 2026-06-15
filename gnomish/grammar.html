@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gnomish Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#writing-system">Writing System</a>
+<a href="#titan-relationship">Titan Relationship</a>
+<a href="#limitations">Limitations</a>
+<a href="vocabulary.html">Vocabulary</a>
+<a href="grammar.html">Grammar</a>
+<a href="description.html">Description</a>
+</nav>
+
+<h1>Gnomish Grammar</h1>
+
+<p>This document presents grammatical inferences drawn from attested Gnomish words and names in World of Warcraft. Gnomish is an extremely poorly attested language; all rules below are highly speculative. No native grammar has been published by Blizzard. Most gnomish NPCs speak Common in-game, and the Gnomish language is referenced but rarely demonstrated.</p>
+
+<!-- ===== PHONOLOGY ===== -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory</h3>
+
+<p>Based on attested Gnomish proper names, the consonant system includes:</p>
+
+<table>
+<tr><th></th><th>Bilabial</th><th>Labiodental</th><th>Alveolar</th><th>Postalveolar</th><th>Velar</th><th>Glottal</th></tr>
+<tr><th>Stops</th><td>p b</td><td></td><td>t d</td><td></td><td>k g</td><td></td></tr>
+<tr><th>Fricatives</th><td></td><td>f v</td><td>s z</td><td><span class="ipa">ʃ</span> (sh)</td><td></td><td>h</td></tr>
+<tr><th>Affricates</th><td></td><td></td><td></td><td><span class="ipa">tʃ</span> (ch), <span class="ipa">dʒ</span> (j)</td><td></td><td></td></tr>
+<tr><th>Nasals</th><td>m</td><td></td><td>n</td><td></td><td></td><td></td></tr>
+<tr><th>Liquids</th><td></td><td></td><td>l, r</td><td></td><td></td><td></td></tr>
+<tr><th>Approximants</th><td></td><td></td><td></td><td>j (y)</td><td>w</td><td></td></tr>
+</table>
+
+<h3 id="notable-phonological-features">Notable Phonological Features</h3>
+
+<ul>
+<li><strong>Initial clusters</strong>: Gnomish names show a preference for initial clusters: <em>Mekk-</em>, <em>Gnom-</em>, <em>Spr-</em> (Sprysprocket), <em>Br-</em> (Brassbolts). However, many of these are Common-language surnames, not Gnomish-language words.</li>
+<li><strong>Preference for <span class="ipa">/k/</span> and <span class="ipa">/g/</span></strong>: The sounds <span class="ipa">/k/</span> and <span class="ipa">/g/</span> are overrepresented in gnomish names, consistent with the cultural association of gnomes with mechanical devices (clicking, clanking, gear-work).</li>
+<li><strong>Reduplication</strong>: The name <em>Mimiron</em> (Titan Keeper who created mechagnomes) shows a reduplicative pattern <em>Mi-mi-ron</em>. Whether this reflects a Titan morphological process or is simply an aesthetic name choice is <span class="uncertain">unknown</span>.</li>
+</ul>
+
+<h3 id="vowel-system">Vowel System</h3>
+
+<p>Based on attested names:</p>
+
+<table>
+<tr><th></th><th>Front</th><th>Back</th></tr>
+<tr><th>High</th><td>i</td><td>u</td></tr>
+<tr><th>Mid</th><td>e</td><td>o</td></tr>
+<tr><th>Low</th><td><span class="ipa">æ</span></td><td><span class="ipa">ɑ</span></td></tr>
+</table>
+
+<p>The full cardinal vowel set <span class="ipa">/a e i o u/</span> is attested, consistent with Titan-forged language descendants.</p>
+
+<h3 id="stress-pattern">Stress Pattern</h3>
+
+<ul>
+<li><em>Gnomeregan</em>: stress likely on the first or second syllable (<span class="ipa">/ˈnoʊmərɛɡæn/</span> or <span class="ipa">/noʊˈmɛrɪɡæn/</span>). No canon pronunciation confirmed.</li>
+<li><em>Mechagon</em>: stress likely on the first syllable (<span class="ipa">/ˈmɛkəɡɒn/</span>).</li>
+<li>If the stress follows the Vrykul/Titan pattern of initial stress, this would be consistent with the Titan-forged language family.</li>
+</ul>
+
+<!-- ===== MORPHOLOGY ===== -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding">Compounding</h3>
+
+<p>Gnomish appears to form words through compounding, consistent with other Titan-forged languages:</p>
+
+<ul>
+<li><em>Gnomeregan</em> = <em>Gnom-</em> + <em>-eregan</em> (?) — <span class="inferred">"Gnome-[home/city]"</span> <span class="uncertain">(speculative)</span></li>
+<li><em>Mechagnome</em> = <em>Mecha-</em> + <em>gnome</em> — "Machine-gnome" (transparent in Common)</li>
+<li><em>Mechagon</em> = <em>Mech-</em> + <em>-agon</em> (?) — <span class="inferred">"Machine-[place]"</span> <span class="uncertain">(speculative)</span></li>
+</ul>
+
+<p>The compounding direction is likely right-headed (inherited from Titan), though the corpus is too small to confirm.</p>
+
+<h3 id="mech-root">The *Mech-* / *Mekka-* Root</h3>
+
+<p>The root <em>Mech-</em> / <em>Mekka-</em> appears in multiple terms associated with gnomish and mechagnome culture:</p>
+
+<ul>
+<li><em>Mekkatorque</em> — surname of the High Tinker</li>
+<li><em>Mechagnome</em> — the titan-forged progenitors</li>
+<li><em>Mechagon</em> — the mechagnome kingdom/island</li>
+<li><em>Mimiron</em> — Titan Keeper who created the mechagnomes (shares initial <em>Mi-</em>)</li>
+</ul>
+
+<p>The consistent appearance of <em>Mech-</em> / <em>Mekka-</em> in terms related to mechanical creation suggests this may be a genuine Gnomish (or Titan-derived) morpheme meaning <span class="inferred">"machine," "mechanism," or "crafted thing."</span> The phonological similarity to <em>Mimiron</em> raises the possibility that <em>Mim-</em> and <em>Mech-</em> are phonologically related Titan roots for "creator" and "creation" respectively, but this is <span class="uncertain">highly speculative</span>.</p>
+
+<h3 id="gnom-root">The *Gnom-* Root</h3>
+
+<p>The root <em>Gnom-</em> appears in:</p>
+
+<ul>
+<li><em>Gnome</em> — the race name (self-designation)</li>
+<li><em>Gnomeregan</em> — the capital city</li>
+<li><em>Gnomercy</em> — a pun name (not linguistic evidence)</li>
+<li><em>Mechagnome</em> — the titan-forged progenitors</li>
+</ul>
+
+<p>The etymology of <em>Gnom-</em> is uncertain. In real-world linguistics, "gnome" derives from Latin <em>gnoma</em> / Greek <em>gnōmē</em> ("thought/intelligence") via Paracelsus's 16th-century coinage. Whether Blizzard's "gnome" has an in-universe etymology is <span class="uncertain">unknown</span>. The presence of <em>Gnom-</em> in <em>Gnomeregan</em> suggests it functions as a morpheme in the Gnomish language, but no translation is confirmed.</p>
+
+<h3 id="regan-agon-suffix">Potential Suffix *-regan* / *-agon*</h3>
+
+<p>If <em>Gnomeregan</em> = <em>Gnom-</em> + <em>-eregan</em> and <em>Mechagon</em> = <em>Mech-</em> + <em>-agon</em>, the suffixal elements might be related:</p>
+
+<ul>
+<li><em>-eregan</em> and <em>-agon</em> share a velar consonant <span class="ipa">/ɡ/</span> followed by a vowel and nasal (<span class="ipa">/æn/</span> and <span class="ipa">/ɒn/</span> respectively)</li>
+<li>Both names designate places/cities</li>
+<li>The phonological difference (<em>-eregan</em> vs. <em>-agon</em>) could reflect: (a) different suffixes, (b) the same suffix with phonological variation, or (c) coincidental similarity</li>
+</ul>
+
+<div class="note">This remains <strong>highly speculative</strong>. Only two data points exist.</div>
+
+<h3 id="titan-forged-inheritance">Titan-Forged Structural Inheritance</h3>
+
+<p>As a Titan-forged descendant language, Gnomish likely inherited:</p>
+
+<ol>
+<li><strong>Right-headed compounding</strong>: modifier + head noun (consistent with Titan, Vrykul, Dwarven)</li>
+<li><strong>Apostrophe morpheme boundaries</strong>: not clearly attested in Gnomish, but the small corpus may simply not include compound names with boundaries</li>
+<li><strong>Place-naming conventions</strong>: if <em>Gnomeregan</em> and <em>Mechagon</em> are Gnomish-language place names, they may use a suffix pattern (root + place suffix) rather than the Titan <em>Uld-</em> prefix pattern</li>
+</ol>
+
+<!-- ===== SYNTAX ===== -->
+
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="word-order">Word Order</h3>
+
+<p>No data available. No Gnomish-language sentences are attested. All in-game gnomish dialogue is in Common.</p>
+
+<h3 id="definiteness-case-agreement">Definiteness, Case, and Agreement</h3>
+
+<p>No data available.</p>
+
+<!-- ===== WRITING SYSTEM ===== -->
+
+<h2 id="writing-system">Writing System</h2>
+
+<p>Gnomes use a <strong>runic/technological</strong> writing system. In-game, gnomish writing appears on signage in Gnomeregan and Mechagon, typically rendered as stylized runic characters combined with mechanical diagrams. No complete transcription or decipherment of the Gnomish script has been published.</p>
+
+<p>The mechagnomes, as titan-forged beings, likely originally used Titan script. Over time, the gnomes may have developed their own orthographic system, though this is <span class="uncertain">not confirmed</span>.</p>
+
+<!-- ===== TITAN RELATIONSHIP ===== -->
+
+<h2 id="titan-relationship">Relationship to Titan Language Family</h2>
+
+<p>Gnomish is a daughter language of Titan, via the Mechagnome lineage:</p>
+
+<pre>
+Titan
+└── Mechagnome (titan-forged by Mimiron)
+    └── Gnomish (after Curse of Flesh)
+</pre>
+
+<p>Key structural features shared with other Titan-forged descendants:</p>
+<ul>
+<li>Right-headed compounding</li>
+<li>Initial stress (probable)</li>
+<li>Preference for complex onsets in names</li>
+<li>Potential shared morphemes (<em>-ir</em> animate suffix is not clearly attested in Gnomish)</li>
+</ul>
+
+<p>Key divergences from other Titan-forged languages:</p>
+<ul>
+<li>Gnomish names show less compound complexity than Vrykul or Titan</li>
+<li>The <em>Mech-</em> root is unique to Gnomish/Mechagnome vocabulary</li>
+<li>Gnomish has been heavily influenced by Common through centuries of bilingualism</li>
+</ul>
+
+<!-- ===== LIMITATIONS ===== -->
+
+<h2 id="limitations">Limitations</h2>
+
+<ul>
+<li><strong>No Gnomish-language sentences are attested.</strong> All in-game gnomish dialogue is in Common.</li>
+<li><strong>The Gnomish language is mentioned in lore</strong> (e.g., the language filter for gnomish players) <strong>but no examples of the language are provided.</strong></li>
+<li><strong>Gnomish proper names</strong> may preserve Gnomish-language morphemes, but the vast majority of gnomish NPC names are Common-language compounds or puns.</li>
+<li><strong>The Mechagnome connection</strong> is the strongest link to the Titan language family, but mechagnome names in-game are also mostly Common-language.</li>
+<li><strong>Morpheme decompositions are entirely speculative.</strong> The <em>Gnom-</em> and <em>Mech-</em> roots are inferred from patterns, not confirmed by any canon source.</li>
+<li><strong>The relationship between Gnomish and other Titan-forged languages</strong> is based on the canon statement that gnomes descend from mechagnomes (titan-forged), but no direct linguistic comparison (e.g., shared vocabulary with translations) has been provided by Blizzard.</li>
+</ul>
+
+</body>
+</html>

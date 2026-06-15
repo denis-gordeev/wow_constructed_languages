@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Draenei Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="vocabulary.html">Vocabulary</a>
+<a href="grammar.html">Grammar</a>
+<a href="description.html">Description</a>
+&ensp;|&ensp;
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#phonology">Phonology</a>
+<a href="#summary-of-confidence">Summary</a>
+</nav>
+
+<h1>Draenei Grammar</h1>
+
+<div class="note">
+This document presents grammatical inferences drawn from attested Draenei words and phrases in World of Warcraft. Draenei is a poorly attested language; all rules below are speculative and based on limited data. No native grammar has been published by Blizzard.
+</div>
+
+<!-- ==================== MORPHOLOGY ==================== -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding">Compounding</h3>
+
+<p>Draenei appears to form words primarily through compounding. Place names and group designations are transparently compound:</p>
+
+<ul>
+<li><em>Draen-ei</em>: <em>draen</em> (&ldquo;exile/refuge&rdquo;) + <em>ei</em> (&ldquo;ones/people&rdquo;) = &ldquo;Exiled Ones&rdquo;</li>
+<li><em>Draen-or</em>: <em>draen</em> (&ldquo;exile/refuge&rdquo;) + <em>or</em> (&ldquo;world/land&rdquo;) = &ldquo;Exiles' Refuge&rdquo;</li>
+<li><em>Sha'tar</em>: <em>sha</em> (&ldquo;light&rdquo;) + <em>tar</em> (&ldquo;born&rdquo;) = &ldquo;Born of Light&rdquo;</li>
+<li><em>Shattrath</em>: <em>shat</em> (&ldquo;dwelling&rdquo;) + <em>trath</em> (&ldquo;light&rdquo;<span class="uncertain">?</span>) = &ldquo;Dwelling of Light&rdquo;</li>
+</ul>
+
+<p>Compounding is right-headed: the final element typically carries the core semantic category (<em>ei</em> &rarr; people, <em>or</em> &rarr; place, <em>tar</em> &rarr; adjective/participle).</p>
+
+<h3 id="suffixation">Suffixation</h3>
+
+<p><strong>-ei</strong> (&ldquo;ones&rdquo; / &ldquo;people&rdquo;): A collective or nominalizing suffix indicating a group of people.</p>
+
+<ul>
+<li><em>Draenei</em> = &ldquo;Exiled Ones&rdquo; (<em>draen</em> + <em>ei</em>)</li>
+<li>Possibly productive for ethnonym formation.</li>
+</ul>
+
+<p><strong>-or</strong> (&ldquo;world&rdquo; / &ldquo;land&rdquo; / &ldquo;place&rdquo;): A toponymic suffix indicating a geographic or spatial entity.</p>
+
+<ul>
+<li><em>Draenor</em> = &ldquo;Exiles' Refuge&rdquo; (<em>draen</em> + <em>or</em>)</li>
+<li>Possibly present in <em>Telredor</em> (<em>tel</em> + <em>red</em> + <em>or</em>), but this is <span class="uncertain">uncertain</span>.</li>
+</ul>
+
+<h3 id="apostrophe-usage">Apostrophe Usage</h3>
+
+<p>The apostrophe in Draenei orthography appears to mark a morpheme boundary:</p>
+
+<ul>
+<li><em>Man'ari</em>: <em>man</em> + <em>ari</em> &mdash; the apostrophe separates the root from a derivational suffix.</li>
+<li><em>Sha'tar</em>: <em>sha</em> + <em>tar</em> &mdash; the apostrophe separates two compounding roots.</li>
+<li><em>Oshu'gun</em>: <em>oshu</em> + <em>gun</em> &mdash; the apostrophe separates two morphemes of unknown meaning.</li>
+<li><em>A'dal</em>, <em>K'ure</em>: Naaru names; the apostrophe may reflect a phonological feature (glottal stop<span class="uncertain">?</span>) rather than a morpheme boundary. Naaru names may not follow Draenei morphological rules.</li>
+</ul>
+
+<p>The apostrophe may also indicate a phonological process such as vowel elision or a glottal stop at morpheme junctures. Without audio or phonological description from Blizzard, this remains <span class="uncertain">uncertain</span>.</p>
+
+<h3 id="derivational-patterns">Derivational Patterns</h3>
+
+<p>If <em>Man'ari</em> = <em>man</em> + <em>ari</em>, then <strong>-ari</strong> may be an adjectival or participial suffix meaning something like &ldquo;those who are [root]&rdquo; or &ldquo;characterized by [root].&rdquo; This would make <em>Man'ari</em> = &ldquo;those who are wrong/corrupt.&rdquo;</p>
+
+<p>Alternatively, <em>-ari</em> could be related to the <em>-ei</em> suffix through vowel gradation, but this is <span class="uncertain">highly speculative</span>.</p>
+
+<!-- ==================== SYNTAX ==================== -->
+
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="word-order">Word Order</h3>
+
+<p><span class="uncertain">Insufficient data.</span> The three attested phrases are too short and poorly glossed to determine word order:</p>
+
+<ul>
+<li><em>Kehla men'or</em>: two words; <span class="uncertain">no reliable gloss</span>.</li>
+<li><em>Pheta thones gamera</em>: three words; <span class="uncertain">no reliable gloss</span>.</li>
+<li><em>Dioniss aca</em>: two words; <span class="uncertain">no reliable gloss</span>.</li>
+</ul>
+
+<p>Without translations, no syntactic analysis is possible.</p>
+
+<h3 id="definiteness-case-and-agreement">Definiteness, Case, and Agreement</h3>
+
+<div class="note">No data available.</div>
+
+<!-- ==================== PHONOLOGY ==================== -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory</h3>
+
+<p>Based on attested forms, Draenei consonants include:</p>
+
+<ul>
+<li><strong>Stops</strong>: <span class="ipa">/d/, /k/, /g/, /t/, /b/, /p/</span></li>
+<li><strong>Fricatives</strong>: <span class="ipa">/s/, /ʃ/</span> (sh), <span class="ipa">/θ/</span> or <span class="ipa">/ð/</span> <span class="uncertain">(uncertain which)</span> (th), <span class="ipa">/f/, /x/</span><span class="uncertain">?</span> (kh)</li>
+<li><strong>Nasals</strong>: <span class="ipa">/m/, /n/</span></li>
+<li><strong>Liquids</strong>: <span class="ipa">/r/, /l/</span></li>
+<li><strong>Glottal</strong>: <span class="ipa">/ʔ/</span> <span class="inferred">(suggested by apostrophe usage)</span></li>
+</ul>
+
+<h3 id="consonant-clusters">Consonant Clusters</h3>
+
+<p>Draenei permits complex consonant clusters, particularly in medial and final positions:</p>
+
+<ul>
+<li><em>Shattrath</em>: <span class="ipa">/ʃtr/, /θr/</span></li>
+<li><em>Auchindoun</em>: <span class="ipa">/xtʃ/, /nd/</span></li>
+<li><em>Krokul</em>: <span class="ipa">/kr/</span></li>
+</ul>
+
+<p>This suggests a syllable structure permitting onsets of up to three consonants.</p>
+
+<h3 id="vowel-inventory">Vowel Inventory</h3>
+
+<p>Observed vowels include <span class="ipa">/a/, /e/, /i/, /o/, /u/</span>. Diphthongs may be present (e.g., the <em>ai</em> in <em>Man'ari</em>, the <em>ou</em> in <em>Auchindoun</em>).</p>
+
+<h3 id="stress">Stress</h3>
+
+<div class="note">No data available.</div>
+
+<p>Place names with heavy final syllables (e.g., <em>Auchindoun</em>, <em>Karabor</em>) may carry stress on the penult or final syllable, but this is <span class="uncertain">pure speculation</span>.</p>
+
+<h3 id="phonotactic-notes">Phonotactic Notes</h3>
+
+<ul>
+<li>Guttural or back-of-the-mouth consonants are frequent: <span class="ipa">/k/, /g/, /kh/, /x/</span>. This gives Draenei a perceived harsh or resonant quality.</li>
+<li>The sequence <span class="ipa">/ʃa/</span> appears in multiple words related to light (<em>Sha'tar</em>, <em>Shattrath</em>), suggesting it may be a phonologically stable root.</li>
+<li>The apostrophe may represent a glottal stop <span class="ipa">/ʔ/</span>, which would create a phonotactic boundary between vowels or vowel-initial and consonant-final morphemes.</li>
+</ul>
+
+<!-- ==================== SUMMARY ==================== -->
+
+<h2 id="summary-of-confidence">Summary of Confidence</h2>
+
+<table>
+<thead>
+<tr><th>Feature</th><th>Confidence</th><th>Reason</th></tr>
+</thead>
+<tbody>
+<tr><td>Compounding</td><td>High</td><td>Transparent in <em>Draenei</em>, <em>Draenor</em>, <em>Sha'tar</em></td></tr>
+<tr><td><em>-ei</em> suffix</td><td>High</td><td>Clear semantic contribution in <em>Draenei</em></td></tr>
+<tr><td><em>-or</em> suffix</td><td>High</td><td>Clear semantic contribution in <em>Draenor</em></td></tr>
+<tr><td>Apostrophe = morpheme boundary</td><td>Medium</td><td>Consistent in <em>Man'ari</em>, <em>Sha'tar</em>; less clear in Naaru names</td></tr>
+<tr><td><em>-ari</em> suffix</td><td><span class="uncertain">Low</span></td><td>Only one attestation (<em>Man'ari</em>)</td></tr>
+<tr><td>Word order</td><td><span class="uncertain">None</span></td><td>No glossed sentences available</td></tr>
+<tr><td>Phonological analysis</td><td><span class="uncertain">Low</span></td><td>Based solely on orthography; no phonetic data</td></tr>
+</tbody>
+</table>
+
+</body>
+</html>

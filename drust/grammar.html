@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Drust Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#sound-correspondences">Sound Correspondences</a>
+<a href="#limitations">Limitations</a>
+<a href="vocabulary.html">Vocabulary</a>
+<a href="grammar.html">Grammar</a>
+<a href="description.html">Description</a>
+</nav>
+
+<h1>Drust Grammar</h1>
+
+<!-- ===== PHONOLOGY ===== -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="consonant-inventory">Consonant Inventory</h3>
+
+<p>Based on attested Drust proper names, the consonant system appears to be similar to Vrykul with some innovations:</p>
+
+<table>
+<tr><th></th><th>Bilabial</th><th>Labiodental</th><th>Dental</th><th>Alveolar</th><th>Postalveolar</th><th>Velar</th><th>Glottal</th></tr>
+<tr><th>Stops</th><td>p b</td><td></td><td>t d</td><td></td><td></td><td>k g</td><td></td></tr>
+<tr><th>Fricatives</th><td></td><td>f v</td><td><span class="ipa">θ ð</span></td><td>s</td><td><span class="ipa">ʒ</span></td><td></td><td>h</td></tr>
+<tr><th>Nasals</th><td>m</td><td></td><td></td><td>n</td><td></td><td></td><td></td></tr>
+<tr><th>Approximants</th><td></td><td></td><td></td><td><span class="ipa">ɾ</span></td><td>j</td><td></td><td></td></tr>
+<tr><th>Laterals</th><td></td><td></td><td></td><td>l</td><td></td><td></td><td></td></tr>
+</table>
+
+<h3 id="notable-phonological-features">Notable Phonological Features</h3>
+
+<ul>
+<li><strong><span class="ipa">/ʒ/</span> in "Zhar"</strong>: The voiced postalveolar fricative <span class="ipa">/ʒ/</span> (as in "Zhar") is not attested in mainland Vrykul. This may be a Drust innovation, possibly developing from an earlier <span class="ipa">/j/</span> or <span class="ipa">/ʃ/</span> sound. In Vrykul, the closest parallel is <span class="ipa">/ʃ/</span> (attested in the "Gj" → <span class="ipa">/ʃ/</span> sound change in Gjalerbron). The Drust <span class="ipa">/ʒ/</span> may represent a further development: <span class="ipa">/j/</span> → <span class="ipa">/ʃ/</span> → <span class="ipa">/ʒ/</span>.</li>
+<li><strong><span class="ipa">/θ/</span> in "Thros"</strong>: The voiceless dental fricative <span class="ipa">/θ/</span> is rare in Vrykul. Its presence in "Thros" (the name of the Drust spirit realm) may reflect a Drust sound change from earlier <span class="ipa">/t/</span> or <span class="ipa">/s/</span> before <span class="ipa">/ɾ/</span>.</li>
+<li><strong>Initial Th- cluster</strong>: "Thros" <span class="ipa">/θɾɔs/</span> shows a <span class="ipa">/θɾ-/</span> onset not found in mainland Vrykul. This is unusual; Vrykul prefers simpler onsets before <span class="ipa">/ɾ/</span>.</li>
+<li><strong>Gol- prefix</strong>: The <span class="ipa">/ɡɔl-/</span> prefix is unique to Drust toponyms. The vowel <span class="ipa">/ɔ/</span> followed by <span class="ipa">/l/</span> is consistent with Vrykul phonotactics.</li>
+</ul>
+
+<h3 id="vowel-system">Vowel System</h3>
+
+<p>Based on attested names:</p>
+
+<table>
+<tr><th></th><th>Front</th><th>Back</th></tr>
+<tr><th>High</th><td>i</td><td>u</td></tr>
+<tr><th>Mid</th><td>e</td><td>o</td></tr>
+<tr><th>Low</th><td><span class="ipa">æ</span></td><td><span class="ipa">ɑ</span></td></tr>
+</table>
+
+<p>This is consistent with the Vrykul vowel system. The diphthongs <span class="ipa">/aɪ/</span> and <span class="ipa">/ɔɪ/</span> attested in Vrykul are not clearly present in Drust names.</p>
+
+<h3 id="stress-pattern">Stress Pattern</h3>
+
+<ul>
+<li><strong>"Drustvar"</strong> is pronounced with stress on the second syllable: "druhst-VAHR" (canon attestation from the Warcraft Wiki). This diverges from Vrykul's typical first-syllable stress pattern (e.g., <strong>Y</strong>miron, <strong>Ut</strong>garde, <strong>Val</strong>halas).</li>
+<li>This second-syllable stress may reflect:
+  <ol>
+    <li>A genuine Drust sound change shifting stress rightward</li>
+    <li>Common-language reanalysis of a Drust word (speakers of Common applied their own stress pattern)</li>
+    <li>The morphological structure: if "Drust-var" is "Drust" + "-var" (land), the head noun "-var" may attract stress</li>
+  </ol>
+</li>
+<li>Other Drust names (Gorak Tul, Gol Osigr) do not have confirmed pronunciation, so it is <span class="uncertain">unclear whether second-syllable stress is a general Drust feature or specific to "Drustvar."</span></li>
+</ul>
+
+<!-- ===== MORPHOLOGY ===== -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="gol-prefix">The Gol- Prefix</h3>
+
+<ul>
+<li><strong>Meaning</strong>: <span class="inferred">"settlement" / "place" / "fortress" / "stone-place"</span> <span class="uncertain">(uncertain)</span></li>
+<li><strong>Attested in</strong>: Gol Osigr, Gol Inath, Gol Koval, Gol Var</li>
+<li><strong>Function</strong>: Forms Drust place names, likely designating a Drust settlement or structure</li>
+<li><strong>Parallel</strong>: No direct parallel in mainland Vrykul. The Vrykul use -heim (home/realm), -garde (enclosure), and -bron (hold/fortress) as place-name suffixes. Drust uses Gol- as a <strong>prefix</strong>, which is a structural innovation.</li>
+<li><strong>Etymology</strong>: May be related to "gol" meaning "stone" in some Celtic languages (cf. Irish "gall" = "stone/rock"), though this real-world parallel should not be treated as canon evidence.</li>
+</ul>
+
+<div class="note"><strong>Potential Titan connection</strong>: The <em>Gol-</em> element in the Titan Pantheon name <em>Golganneth</em> (Lord of the Skies and Roaring Oceans) shares an identical phonological shape with Drust <em>Gol-</em>. If <em>Gol-</em> is a genuine Titan morpheme, it may have had a broader meaning ("great/mighty/primary") in Titan that narrowed to "stronghold/fortress" in Drust. The structural parallel with Titan <em>Uld-</em> (both being prefix-based place-naming) supports the hypothesis that Drust <em>Gol-</em> is a retention from an earlier stage of the titan-forged language family, preserved by the Thornspeaker druidic tradition. However, the semantic gap between "settlement" and a Pantheon name element makes this connection speculative. <span class="uncertain">Confidence: Low.</span></div>
+
+<table>
+<tr><th>Place Name</th><th>Decomposition</th><th>Inferred Meaning</th></tr>
+<tr><td>Gol Osigr</td><td>Gol + Osigr</td><td><span class="inferred">"Settlement of [Osigr]"</span> — site of the Drust's final defeat</td></tr>
+<tr><td>Gol Inath</td><td>Gol + Inath</td><td><span class="inferred">"Settlement of [Inath]"</span> — associated with a massive tree</td></tr>
+<tr><td>Gol Koval</td><td>Gol + Koval</td><td><span class="inferred">"Settlement of [Koval]"</span></td></tr>
+<tr><td>Gol Var</td><td>Gol + Var</td><td><span class="inferred">"Settlement of [Var]"</span> — note: "Var" here is a root, not the suffix "-var"</td></tr>
+</table>
+
+<h3 id="var-suffix">The -var Suffix</h3>
+
+<ul>
+<li><strong>Meaning</strong>: <span class="inferred">"land" / "home" / "region"</span> <span class="uncertain">(uncertain)</span></li>
+<li><strong>Attested in</strong>: Drustvar</li>
+<li><strong>Function</strong>: Forms regional names, possibly parallel to Vrykul -heim</li>
+<li><strong>Comparison with Vrykul -heim</strong>:
+  <ul>
+    <li>Vrykul: Stormheim = "Storm-home"</li>
+    <li>Drust: Drustvar = possibly "Drust-land"</li>
+  </ul>
+</li>
+<li><strong>Note</strong>: The -var in "Gol Var" appears to be a different morpheme (a root rather than a suffix), as it follows the Gol- prefix pattern.</li>
+</ul>
+
+<h3 id="gorak-element">The Gorak- Element</h3>
+
+<ul>
+<li><strong>Meaning</strong>: <span class="inferred">Possibly "king" / "lord" / "ruler" / "great one"</span> <span class="uncertain">(uncertain)</span></li>
+<li><strong>Attested in</strong>: Gorak Tul, Gorak Zhar</li>
+<li><strong>Function</strong>: May be a title rather than a personal name element, similar to Vrykul "Drottinn" (lord)</li>
+<li><strong>Analysis</strong>: Both known Drust leaders are called "Gorak-": Gorak Tul (the sorcerer king) and Gorak Zhar (the nightscreamer). This pattern suggests "Gorak" is a title meaning <span class="inferred">"king" or "ruler,"</span> with "Tul" and "Zhar" being either personal names or epithets.</li>
+<li><strong>Alternative</strong>: "Gorak" could be a dynastic name (like a house name), with Tul and Zhar being given names.</li>
+</ul>
+
+<table>
+<tr><th>Name</th><th>Decomposition</th><th>Inferred Meaning</th></tr>
+<tr><td>Gorak Tul</td><td>Gorak + Tul</td><td><span class="inferred">"Lord/King Tul" or "Ruler [named] Tul"</span></td></tr>
+<tr><td>Gorak Zhar</td><td>Gorak + Zhar</td><td><span class="inferred">"Lord/King Zhar" or "Ruler [named] Zhar"</span></td></tr>
+</table>
+
+<h3 id="personal-name-patterns">Personal Name Patterns</h3>
+
+<p>Drust personal names show two patterns:</p>
+
+<p><strong>1. Two-element compounds</strong> (Drust style):</p>
+<ul>
+<li>Gorak Tul, Gorak Zhar — title + name or name + epithet</li>
+<li>Sef Iwen — two personal name elements</li>
+<li>Lorkron — compound name (cf. Vrykul compound names like Bjarngrim)</li>
+</ul>
+
+<p><strong>2. Single names</strong> (possibly older Drust or Vrykul-retained):</p>
+<ul>
+<li>Ulfar — single element; cognate with Old Norse Úlfr (wolf)</li>
+<li>Kivarr — single element</li>
+<li>Thros — single element (place name used as a proper name)</li>
+<li>Vadekius — single element; Latin-sounding, may not be Drust</li>
+</ul>
+
+<h3 id="lorkron-investigation">Investigation: *-kor* in *Lorkron* and Vrykul *-korn*</h3>
+
+<p>The Drust name <em>Lorkron</em> the Hunter (a Drust in Ardenweald, Shadowlands) contains the element <em>-kron</em> which may be decomposed as <em>-kor</em> + <em>-on</em> or as a single <em>-kron</em> suffix. This analysis investigates whether the <em>-kor</em>/<em>-kron</em> element in <em>Lorkron</em> is related to the Vrykul clan suffix <em>-korn</em> (as in <em>Winterskorn</em>, <em>Tideskorn</em>, <em>Felskorn</em>).</p>
+
+<p><strong>Arguments for a connection:</strong></p>
+
+<ol>
+<li><strong>Phonological similarity:</strong> Drust <em>-kor</em> <span class="ipa">/kɔɾ/</span> (if <em>Lorkron</em> = <em>Lor</em> + <em>kor</em> + <em>on</em>) or <em>-kron</em> <span class="ipa">/kɾɔn/</span> is phonologically very close to Vrykul <em>-korn</em> <span class="ipa">/kɔɾn/</span>. The only difference is the presence or absence of the final nasal <span class="ipa">/n/</span>. Final nasal loss is a common sound change in language divergence.</li>
+<li><strong>Genetic relationship:</strong> Drust is a confirmed daughter language of Vrykul. A Vrykul suffix <em>-korn</em> being inherited in Drust as <em>-kor(n)</em> is entirely plausible given the confirmed genetic relationship.</li>
+<li><strong>Semantic plausibility:</strong> Vrykul <em>-korn</em> means "kin/chosen/seed" (as in <em>Winterskorn</em> = "winter-kin", <em>Tideskorn</em> = "tide-kin"). If <em>Lorkron</em> = <em>Lor</em> + <em>-korn</em> (with loss of final <span class="ipa">/n/</span>), the name would mean <span class="inferred">"Lor-kin" or "kin of Lor,"</span> which is consistent with Vrykul/Drust compound personal naming patterns.</li>
+<li><strong>Structural parallel:</strong> Both <em>-korn</em> in Vrykul and <em>-kor</em>/<em>-kron</em> in Drust appear as the second element in compound names, consistent with the right-headed compounding pattern inherited from Titan.</li>
+</ol>
+
+<p><strong>Arguments against a connection:</strong></p>
+
+<ol>
+<li><strong>Sample size:</strong> <em>-kor</em>/<em>-kron</em> appears in only one Drust name (<em>Lorkron</em>), while <em>-korn</em> appears in three Vrykul clan names. A single data point cannot establish a sound correspondence.</li>
+<li><strong>Functional difference:</strong> Vrykul <em>-korn</em> is a <strong>clan suffix</strong> (forming group names: <em>Winterskorn</em>, <em>Tideskorn</em>, <em>Felskorn</em>), while <em>-kor</em>/<em>-kron</em> in <em>Lorkron</em> appears in a <strong>personal name</strong>. If <em>-korn</em> specifically means "kin/group," using it in a personal name would represent a semantic shift from "kin" to a general compound-forming suffix.</li>
+<li><strong>Alternative decomposition:</strong> <em>Lorkron</em> could be decomposed as <em>Lork</em> + <em>-ron</em> (cf. Titan <em>-ron</em> honorific in <em>Mimiron</em>, <em>Khaz'goroth</em> → <em>-roth</em>), or as <em>Lor</em> + <em>-kron</em> (a single unanalyzed element). The segmentation <em>Lor</em> + <em>kor</em> + <em>on</em> assumes three morphemes, which may be over-analysis of a single proper name.</li>
+<li><strong>Sethrak <em>Kor-</em></strong>: The Sethrak language has a <em>Kor-</em> element (in <em>Korthek</em>, <em>Korgok</em>) that is inferred to mean "iron" or "great." If <em>Lorkron</em> contains a <em>Kor-</em> element, it could reflect contact between Drust and Sethrak rather than inheritance from Vrykul. However, Drust-Sethrak contact is not supported by any lore evidence.</li>
+</ol>
+
+<p><strong>Assessment:</strong></p>
+
+<p>The most likely analysis is that <em>Lorkron</em> = <em>Lor</em> + <em>-kron</em>, where <em>-kron</em> is either:</p>
+<ul>
+<li>(a) A Drust reflex of Vrykul <em>-korn</em> with regular loss of final <span class="ipa">/n/</span> — <span class="uncertain">plausible but unconfirmed</span></li>
+<li>(b) An unrelated Drust personal name suffix — <span class="uncertain">also plausible</span></li>
+<li>(c) A single unanalyzed name element — <strong>most conservative interpretation</strong></li>
+</ul>
+
+<p>If analysis (a) is correct, the sound change Vrykul <em>-korn</em> → Drust <em>-kron</em> (with loss of final <span class="ipa">/n/</span> or metathesis of <span class="ipa">/ɾ/</span> and <span class="ipa">/n/</span>) would be consistent with the general pattern of Drust phonological simplification from Vrykul (reduced consonant clusters, fewer complex onsets). The semantic shift from clan suffix to personal name element is also plausible — as Drust society fragmented and individual identity became more important than clan affiliation, the clan suffix could have been reanalyzed as a personal name element.</p>
+
+<div class="note"><strong>Confidence: Low–Medium.</strong> The phonological match is good and the genetic relationship supports inheritance, but the single data point and functional difference (clan suffix vs. personal name element) prevent a confident conclusion.</div>
+
+<h3 id="compound-place-names">Compound Place Names</h3>
+
+<table>
+<tr><th>Name</th><th>Structure</th><th>Notes</th></tr>
+<tr><td>Drustvar</td><td>Drust + var</td><td><span class="inferred">"Drust-land"</span> (inferred); consistent with Vrykul modifier-head compounding</td></tr>
+<tr><td>Gol Osigr</td><td>Gol + Osigr</td><td><span class="inferred">"Place of [Osigr]"</span> (inferred)</td></tr>
+<tr><td>Gol Inath</td><td>Gol + Inath</td><td><span class="inferred">"Place of [Inath]"</span> (inferred)</td></tr>
+<tr><td>Gol Koval</td><td>Gol + Koval</td><td><span class="inferred">"Place of [Koval]"</span> (inferred)</td></tr>
+<tr><td>Gol Var</td><td>Gol + Var</td><td><span class="inferred">"Place of [Var]"</span> (inferred)</td></tr>
+</table>
+
+<!-- ===== SYNTAX ===== -->
+
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="word-order">Word Order</h3>
+
+<p>No Drust-language sentences are attested. All in-game Drust dialogue is rendered in Common for gameplay purposes. Syntax cannot be determined.</p>
+
+<h3 id="possessive-constructions">Possessive Constructions</h3>
+
+<p>The toponym "Iwen's Sanctum" uses the Common-language possessive -'s, not a Drust construction. No Drust possessive forms are attested.</p>
+
+<!-- ===== SOUND CORRESPONDENCES ===== -->
+
+<h2 id="sound-correspondences">Sound Correspondences with Vrykul</h2>
+
+<p>Based on the limited Drust corpus, tentative sound correspondences with mainland Vrykul:</p>
+
+<table>
+<tr><th>Vrykul</th><th>Drust</th><th>Example</th><th>Notes</th></tr>
+<tr><td>-heim</td><td>-var</td><td>Stormheim : Drustvar</td><td>Different suffix for "home/land"; may be cognate or independent</td></tr>
+<tr><td>Initial Sk-, Vr-</td><td>Less common</td><td>—</td><td>Drust names show fewer complex initial clusters than Vrykul</td></tr>
+<tr><td><span class="ipa">/ʃ/</span> (Gj-)</td><td>Possibly <span class="ipa">/ʒ/</span></td><td>Gjalerbron : Zhar</td><td>Both are postalveolar fricatives; Drust may have voiced the Vrykul voiceless fricative</td></tr>
+<tr><td>-korn (clan suffix)</td><td>Not attested</td><td>Winterskorn : —</td><td>Drust does not use the -korn clan suffix</td></tr>
+<tr><td>-jar (army suffix)</td><td>Not attested</td><td>Ymirjar : —</td><td>Drust does not use the -jar army suffix</td></tr>
+<tr><td>-garde (enclosure)</td><td>Gol- (place prefix)</td><td>Utgarde : Gol Osigr</td><td>Different structural strategy: Vrykul uses suffixes, Drust uses prefixes for place names</td></tr>
+</table>
+
+<h3 id="prefix-vs-suffix">Key Structural Divergence: Prefix vs. Suffix</h3>
+
+<p>The most significant structural difference between Drust and mainland Vrykul is the use of the <strong>Gol- prefix</strong> for place names, whereas Vrykul uses <strong>suffixes</strong> (-heim, -garde, -bron, -korn). This is a major typological divergence:</p>
+
+<ul>
+<li><strong>Vrykul pattern</strong>: [Root] + [Suffix] → Valgarde, Stormheim, Jotunheim</li>
+<li><strong>Drust pattern</strong>: [Prefix] + [Root] → Gol Osigr, Gol Inath, Gol Koval</li>
+</ul>
+
+<p>This prefix-based naming is more reminiscent of Titan facility naming (Uld- prefix: Ulduar, Uldum, Uldaman) than of mainland Vrykul. If the Gol- prefix is a Drust innovation that parallels Titan naming conventions, this could suggest that the Drust language preserved or reinvented a more Titan-like naming structure, possibly because the Drust maintained a closer connection to their titan-forged origins through druidism.</p>
+
+<!-- ===== LIMITATIONS ===== -->
+
+<h2 id="limitations">Limitations</h2>
+
+<ul>
+<li><strong>No complete Drust-language sentences are attested.</strong> All in-game Drust dialogue is in Common. No official Drust-language phrases with translations exist.</li>
+<li><strong>Only proper names provide linguistic evidence.</strong> The entire Drust corpus consists of approximately 5–6 Drust-language proper names (Gorak Tul, Gorak Zhar, Gol Osigr, Gol Inath, Gol Koval, Gol Var, Thros) plus names that may be Vrykul-retained rather than specifically Drust (Ulfar, Sef Iwen, Kivarr).</li>
+<li><strong>No Drust-language inscriptions exist.</strong> The Drust Steles contain narrative descriptions in Common, not Drust-language text. The Drust writing system (carved pictographic symbols) is not decipherable as a language.</li>
+<li><strong>The Heartsbane Coven uses Common, not Drust.</strong> All Coven terminology (Heartsbane, hexthralled, etc.) is English/Common.</li>
+<li><strong>Morpheme decompositions are entirely speculative.</strong> The Gol- prefix, Gorak- element, and -var suffix are inferred from patterns, not confirmed by any canon source.</li>
+<li><strong>The relationship between Drust and Vrykul naming patterns</strong> is based on the explicit canon statement that the Drust are vrykul, but no direct linguistic comparison (e.g., shared vocabulary with translations) has been provided by Blizzard.</li>
+<li><strong>Ulfar, Kivarr, and Sef Iwen</strong> may represent an older stratum of Drust naming (the druidic Thornspeaker tradition), while Gorak Tul and Gorak Zhar represent the corrupted death-magic tradition. These two strata may have different linguistic characteristics, but the corpus is too small to confirm this.</li>
+</ul>
+
+</body>
+</html>

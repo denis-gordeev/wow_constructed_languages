@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Darnassian Grammar</title>
+<style>
+  body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+  h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+  h2 { color: #2e7d32; margin-top: 2em; }
+  h3 { color: #388e3c; margin-top: 1.5em; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+  th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+  th { background: #e8f5e9; font-weight: bold; }
+  tr:nth-child(even) { background: #f9fdf9; }
+  .ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+  .uncertain { color: #888; font-style: italic; }
+  .inferred { color: #a0522d; }
+  .new { background: #fffde7; }
+  .note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+  nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+  nav a { margin-right: 1em; }
+  a { color: #2e7d32; }
+  ul { margin: 0.5em 0; }
+  li { margin-bottom: 0.3em; }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="#morphology">Morphology</a>
+  <a href="#syntax">Syntax</a>
+  <a href="#phonology">Phonology</a>
+  <a href="#limitations">Limitations</a>
+  &mdash;
+  <a href="vocabulary.html">Vocabulary</a>
+  <a href="description.md">Description</a>
+</nav>
+
+<h1>Darnassian Grammar</h1>
+
+<p>Grammar rules below are <strong>inferred from attested examples only</strong>. Darnassian is not a fully constructed language; Blizzard provided limited phrases. Patterns are noted where multiple examples support a rule. Speculative extensions are marked <span class="uncertain">[speculative]</span>.</p>
+
+<!-- ============================================================ -->
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding">Compounding</h3>
+
+<p>Darnassian makes heavy use of compounding. Morphemes are concatenated to form complex words, particularly in names and titles.</p>
+
+<h4>Pattern: Modifier + Head</h4>
+
+<table>
+<tr><th>Compound</th><th>Components</th><th>Gloss</th><th>Translation</th></tr>
+<tr><td>Kaldorei</td><td>Kal + dorei</td><td>&ldquo;Star&rdquo; + &ldquo;Children of&rdquo;</td><td>Children of the Stars</td></tr>
+<tr><td>Quel&rsquo;dorei</td><td>Quel + dorei</td><td>&ldquo;Noble&rdquo; + &ldquo;Children of&rdquo;</td><td>Children of Noble Birth</td></tr>
+</table>
+
+<p>The <code>-dorei</code> suffix is a productive morpheme meaning &ldquo;children of&rdquo; or &ldquo;people of,&rdquo; comparable to an ethnonym-forming suffix.</p>
+
+<h4>Pattern: Element + Drassil (World Tree Names)</h4>
+
+<table>
+<tr><th>Compound</th><th>Components</th><th>Gloss</th><th>Translation</th></tr>
+<tr><td>Teldrassil</td><td>Tel + drassil</td><td>&ldquo;Earth&rdquo; + &ldquo;Crown&rdquo;</td><td>Crown of the Earth</td></tr>
+<tr><td>Nordrassil</td><td>Nor + drassil</td><td>&ldquo;Heavens&rdquo; + &ldquo;Crown&rdquo;</td><td>Crown of the Heavens</td></tr>
+</table>
+
+<p>The element <code>dor</code>/<code>drassil</code> means &ldquo;crown.&rdquo; The variant forms may reflect phonological conditioning or an older root pattern.</p>
+
+<h4>Pattern: Honorific Compounds (Title Formation)</h4>
+
+<table>
+<tr><th>Compound</th><th>Components</th><th>Gloss</th><th>Translation</th></tr>
+<tr><td>Shan&rsquo;do</td><td>Shan + do</td><td>&ldquo;Honored&rdquo; + &ldquo;Teacher/Elder&rdquo;</td><td>Honored Teacher</td></tr>
+<tr><td>Thero&rsquo;shan</td><td>Thero + shan</td><td>&ldquo;Beloved&rdquo; + &ldquo;Student/Learner&rdquo;</td><td>Beloved Student</td></tr>
+</table>
+
+<div class="note">
+<strong>Note:</strong> The morpheme <code>shan</code> appears in both titles with apparently different meanings. This is analyzed as two distinct morphemes that happen to share a form (homophony), or as a relational term whose specific gloss depends on its position in the compound.
+</div>
+
+<!-- ============================================================ -->
+<h3 id="apostrophe-usage">Apostrophe Usage</h3>
+
+<p>Apostrophes mark morpheme boundaries within compound words:</p>
+
+<table>
+<tr><th>Word</th><th>Morpheme Breakdown</th></tr>
+<tr><td>Quel&rsquo;dorei</td><td>Quel + dorei</td></tr>
+<tr><td>Shan&rsquo;do</td><td>Shan + do</td></tr>
+<tr><td>Thero&rsquo;shan</td><td>Thero + shan</td></tr>
+<tr><td>Ru&rsquo;shem</td><td>Ru + shem</td></tr>
+<tr><td>Tor ilisar&rsquo;thera&rsquo;nal</td><td>ilisar + thera + nal (internal boundaries in a multi-morpheme word)</td></tr>
+</table>
+
+<p>Apostrophes appear primarily in:</p>
+<ol>
+<li>Two-morpheme compounds (Quel&rsquo;dorei, Shan&rsquo;do)</li>
+<li>Multi-morpheme verbal/nominal complexes (ilisar&rsquo;thera&rsquo;nal)</li>
+</ol>
+
+<p>They do <strong>not</strong> appear in all compounds &mdash; <code>Kaldorei</code>, <code>Teldrassil</code>, <code>Nordrassil</code> lack apostrophes. The distribution may reflect:</p>
+<ul>
+<li>Phonological criteria (apostrophe after certain vowel-consonant patterns)</li>
+<li>Historical spelling conventions</li>
+<li>Etymological transparency (apostrophe used where morpheme boundaries are less obvious in pronunciation)</li>
+</ul>
+
+<!-- ============================================================ -->
+<h3 id="hyphen-usage">Hyphen Usage</h3>
+
+<p>Hyphens connect elements in phrasal constructions:</p>
+
+<table>
+<tr><th>Phrase</th><th>Components</th><th>Analysis</th></tr>
+<tr><td>Elune-adore</td><td>&ldquo;Elune&rdquo; + &ldquo;be with you&rdquo;</td><td>Deity name + blessing verb</td></tr>
+<tr><td>Andu-falah-dor</td><td>&ldquo;Let&rdquo; + &ldquo;balance&rdquo; + &ldquo;be restored&rdquo;</td><td>Three-element phrase</td></tr>
+<tr><td>Fandu-dath-belore</td><td>&ldquo;Who&rdquo; + &ldquo;goes&rdquo; + &ldquo;there&rdquo;</td><td>Three-element question</td></tr>
+</table>
+
+<p>Hyphens appear to mark <strong>syntactic phrase boundaries</strong>, while apostrophes mark <strong>morphological word-internal boundaries</strong>. This is a consistent distinction.</p>
+
+<!-- ============================================================ -->
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="imperative-constructions">Imperative Constructions</h3>
+
+<p>Two imperative formulas are attested:</p>
+
+<ol>
+<li><strong>Andu + [complement]</strong>: Andu-falah-dor (&ldquo;Let balance be restored&rdquo;)</li>
+<li><strong>Tor + [complement]</strong>: Tor ilisar&rsquo;thera&rsquo;nal (&ldquo;Let our enemies beware&rdquo;)</li>
+</ol>
+
+<p>Both <code>Andu</code> and <code>Tor</code> function as jussive/imperative particles meaning &ldquo;let.&rdquo; This suggests Darnassian may differentiate types of imperative (hortative vs. directive, or formal vs. informal), but the sample is too small to confirm.</p>
+
+<p><strong>Direct command form</strong>: <code>Ash karath</code> (&ldquo;Do it / Make it so&rdquo;) &mdash; a separate imperative construction without a jussive particle, possibly a direct second-person command.</p>
+
+<!-- ============================================================ -->
+<h3 id="interrogative-formation">Interrogative Formation</h3>
+
+<p><code>Fandu-dath-belore?</code> (&ldquo;Who goes there?&rdquo;) is the only attested question. <code>Fandu</code> may be an interrogative pronoun (&ldquo;who&rdquo;), but this is <span class="uncertain">[speculative]</span> given only one example.</p>
+
+<!-- ============================================================ -->
+<h3 id="word-order">Word Order</h3>
+
+<p>The extremely limited sample prevents firm conclusions about word order. Observed patterns:</p>
+
+<ul>
+<li><strong>Imperative + Object/Complement</strong>: Andu-falah-dor (Let + balance + be-restored), Tor ilisar&rsquo;thera&rsquo;nal (Let + enemies + beware)</li>
+<li><strong>Modifier + Head in compounds</strong>: Kal-dorei, Quel-dorei, Tel-drassil, Nor-drassil</li>
+<li><strong>Deity name precedes blessing</strong>: Elune-adore</li>
+</ul>
+
+<p>The modifier-head pattern in compounds might suggest a head-final tendency, but this cannot be confirmed for full sentences.</p>
+
+<!-- ============================================================ -->
+<h3 id="possession-genitive">Possession / Genitive</h3>
+
+<p><code>Zin-Azshari</code> = &ldquo;The Glory of Azshara.&rdquo; The name &ldquo;Azshara&rdquo; is appended directly after &ldquo;Zin&rdquo; (glory) with a hyphen, suggesting a postposed genitive or appositional construction: &ldquo;Glory-[of]-Azshara.&rdquo; This is <span class="uncertain">[speculative]</span> &mdash; the hyphen may simply join the two proper nouns.</p>
+
+<!-- ============================================================ -->
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="sound-inventory">Sound Inventory (Observed)</h3>
+
+<p><strong>Consonants</strong>:</p>
+
+<table>
+<tr><th>Grapheme</th><th>IPA</th><th>Notes</th></tr>
+<tr><td>d</td><td class="ipa">/d/</td><td></td></tr>
+<tr><td>f</td><td class="ipa">/f/</td><td></td></tr>
+<tr><td>h</td><td class="ipa">/h/</td><td></td></tr>
+<tr><td>k</td><td class="ipa">/k/</td><td></td></tr>
+<tr><td>l</td><td class="ipa">/l/</td><td></td></tr>
+<tr><td>m</td><td class="ipa">/m/</td><td></td></tr>
+<tr><td>n</td><td class="ipa">/n/</td><td></td></tr>
+<tr><td>r</td><td class="ipa">/r/</td><td></td></tr>
+<tr><td>s</td><td class="ipa">/s/</td><td></td></tr>
+<tr><td>t</td><td class="ipa">/t/</td><td></td></tr>
+<tr><td>th</td><td class="ipa">/θ/</td><td>Voiceless dental fricative</td></tr>
+<tr><td>v</td><td class="ipa">/v/</td><td></td></tr>
+<tr><td>x</td><td class="ipa">/x/</td><td></td></tr>
+<tr><td>z</td><td class="ipa">/z/</td><td></td></tr>
+<tr><td>sh</td><td class="ipa">/ʃ/</td><td>Voiceless postalveolar fricative</td></tr>
+</table>
+
+<p><strong>Vowels</strong>: a <span class="ipa">/a/</span>, e <span class="ipa">/e/</span>, i <span class="ipa">/i/</span>, o <span class="ipa">/o/</span>, u <span class="ipa">/u/</span></p>
+
+<!-- ============================================================ -->
+<h3 id="phonological-patterns">Phonological Patterns</h3>
+
+<ul>
+<li>Syllable structure tends toward (C)V(C) &mdash; e.g., Kal, dor, Tel, Nor, Shan, do</li>
+<li><span class="ipa">/ʃ/</span> is common (Shan, shem, Asha)</li>
+<li><span class="ipa">/θ/</span> appears in <code>Thero</code>, <code>thera&rsquo;nal</code> &mdash; possibly an aspirated or dental fricative</li>
+<li>Liquids <span class="ipa">/l/</span> and <span class="ipa">/r/</span> are frequent, especially in names (drassil, ilisar, falah)</li>
+<li>Vowel sequences are relatively rare; most syllables have a single vowel nucleus</li>
+<li>The consonant cluster <span class="ipa">/dr/</span> in <code>drassil</code> and <span class="ipa">/nd/</span> in <code>Andu</code> are the most complex onset clusters observed</li>
+</ul>
+
+<!-- ============================================================ -->
+<h3 id="name-phonology">Name Phonology</h3>
+
+<p>Place and personal names in Darnassian show a distinct melodic quality:</p>
+<ul>
+<li>Frequent liquid + sibilant combinations (drassil, Azshari, Nazjatar)</li>
+<li>Alternating open and closed syllables (Da-rnas-sus, Tel-dras-sil)</li>
+<li>A preference for sonorant-heavy word endings (-il, -ei, -or, -an)</li>
+</ul>
+
+<!-- ============================================================ -->
+<h2 id="limitations">Limitations</h2>
+
+<div class="note">
+<strong>Corpus size:</strong> The corpus is extremely small (~25&ndash;30 items). Many &ldquo;words&rdquo; are isolated from single contexts, making it impossible to determine:
+</div>
+
+<ul>
+<li>Whether word order is free or fixed</li>
+<li>How case, number, or tense are marked (if at all)</li>
+<li>The full range of pronominal forms</li>
+<li>Whether <code>Andu</code> and <code>Tor</code> are truly synonymous or carry different nuances</li>
+<li>The relationship between <code>thera</code> (in ilisar&rsquo;thera&rsquo;nal = &ldquo;enemies beware&rdquo;) and <code>Thero</code> (in Thero&rsquo;shan = &ldquo;beloved student&rdquo;) &mdash; whether these are homophones or a single morpheme with context-dependent meaning</li>
+</ul>
+
+</body>
+</html>

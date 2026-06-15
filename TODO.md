@@ -62,3 +62,18 @@
 - [x] Add cross-navigation footer to Zandali, Haranir, Thalassian HTML vocabularies
 - [x] Add missing eredun-draenei-comparative.html link to Tol'vir HTML vocabulary
 - [x] Clean up TODO.md (deduplicate and condense from 349 to ~60 lines)
+
+## Autowork Round 2026-06-15d
+
+- [x] Create grammar.html for all 29 languages (Darnassian, Thalassian, Orcish, Zandali, Draenei, Shalassian, Nazja, Vrykul, Eredun, Taur-ahe, Dwarven, Shath'Yar, Kalimag, Gutterspeak, Pandaren, Vulpera, Mogu, Sethrak, Titan, Nature, Common, Tol'vir, Drust, Gnomish, Earthen, Nerubian, Qiraji, Ethereal, Haranir)
+- [x] Create description.html for all 29 languages
+- [x] Update README.md structure section to include grammar.html and description.html
+
+## Next Actions
+
+- [ ] Add cross-navigation links between vocabulary.html, grammar.html, and description.html for all 29 languages (some vocabulary.html nav bars may not yet link to grammar.html/description.html)
+- [ ] Verify HTML validity and consistency across all 58 new files
+- [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
+- [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
+- [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
+- [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available

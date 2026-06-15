@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Darnassian — Language Description</title>
+<style>
+  body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+  h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+  h2 { color: #2e7d32; margin-top: 2em; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+  th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+  th { background: #e8f5e9; font-weight: bold; }
+  tr:nth-child(even) { background: #f9fdf9; }
+  .uncertain { color: #888; font-style: italic; }
+  .inferred { color: #a0522d; }
+  .note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+  nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+  nav a { margin-right: 1em; }
+  a { color: #2e7d32; }
+  ol, ul { margin: 0.5em 0; padding-left: 1.5em; }
+  li { margin-bottom: 0.3em; }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="#overview">Overview</a>
+  <a href="#speakers">Speakers</a>
+  <a href="#relationships">Relationships</a>
+  <a href="#cultural-context">Cultural Context</a>
+  <a href="#writing-system">Writing System</a>
+  <a href="#phonology">Phonology</a>
+  <a href="#reliability">Reliability</a>
+  <a href="#references">References</a>
+  &mdash;
+  <a href="vocabulary.html">Vocabulary</a>
+  <a href="grammar.html">Grammar</a>
+</nav>
+
+<h1>Darnassian &mdash; Language Description</h1>
+
+<!-- ============================================================ -->
+<h2 id="overview">Overview</h2>
+
+<p>Darnassian is the language of the Night Elves (<em>Kaldorei</em>), one of the oldest and most storied races in Azeroth. It is an elven language spoken primarily by the Night Elf people of Teldrassil, Darnassus, and their settlements across Kalimdor. The language serves as a vehicle for druidic tradition, religious devotion to Elune, and the cultural identity of a people who trace their lineage back over ten thousand years.</p>
+
+<!-- ============================================================ -->
+<h2 id="speakers">Speakers</h2>
+
+<p>Darnassian is spoken by:</p>
+<ul>
+  <li><strong>The Kaldorei</strong> (Night Elves) &mdash; the primary speakers</li>
+  <li><strong>The Highborne</strong> (<em>Quel'dorei</em>) &mdash; the surviving arcane practitioners who retain the older, more formal register</li>
+  <li><strong>Druids of the Cenarion Circle</strong> &mdash; who use Darnassian in their rites and teachings, alongside the titles <em>Shan'do</em> and <em>Thero'shan</em></li>
+  <li><strong>Priestesses of Elune</strong> &mdash; for whom Darnassian is the liturgical language</li>
+</ul>
+<p>After the destruction of Teldrassil, the displaced Kaldorei continued using Darnassian in their new settlements.</p>
+
+<!-- ============================================================ -->
+<h2 id="relationships">Relationship to Other Elven Languages</h2>
+
+<p>Darnassian is the <strong>ancestor language</strong> of the elven language family. The chronological development is:</p>
+<ol>
+  <li><strong>Darnassian</strong> &mdash; the original elven language, spoken since the time of the Well of Eternity</li>
+  <li><strong>Thalassian</strong> &mdash; the language of the High Elves and Blood Elves, descended from Darnassian after the Highborne exile from Kalimdor. Thalassian shares vocabulary (e.g., <em>Quel'dorei</em>, <em>belore</em>) and morphological patterns with Darnassian but has diverged significantly.</li>
+  <li><strong>Shalassian</strong> &mdash; the language of the Nightborne, descended from the Darnassian spoken in Suramar before the city was sealed under the dome. Ten thousand years of isolation produced a distinct but related tongue.</li>
+</ol>
+<p>Shared features across the family include:</p>
+<ul>
+  <li>The <em>-dorei</em> ethnonym suffix (Darnassian/Thalassian) vs. Shalassian <em>-dorei</em> (retained)</li>
+  <li>Apostrophe-marked morpheme boundaries</li>
+  <li>The morpheme <em>Quel</em> meaning &ldquo;noble/high&rdquo;</li>
+  <li>Reverence-derived vocabulary (Elune, Belore)</li>
+</ul>
+
+<!-- ============================================================ -->
+<h2 id="cultural-context">Cultural Context</h2>
+
+<p>Darnassian is inseparable from Night Elf culture:</p>
+<ul>
+  <li><strong>Druidic tradition</strong>: The master-apprentice relationship is encoded in <em>Shan'do</em> and <em>Thero'shan</em>, titles used by druid trainers and their students. These terms reflect the deep cultural importance of oral transmission and mentorship.</li>
+  <li><strong>Worship of Elune</strong>: The goddess Elune is central to the language. Her name appears in greetings (<em>Elune-adore</em>), personal names (<em>Elunara</em>), and permeates the lexicon. Lunar vocabulary (<em>Isha</em>, <em>Kal</em>) reflects this devotion.</li>
+  <li><strong>Military tradition</strong>: Battle cries like <em>Tor ilisar'thera'nal</em> (&ldquo;Let our enemies beware&rdquo;) and commands like <em>Ash karath</em> show a martial register.</li>
+  <li><strong>World Trees</strong>: The naming convention for World Trees (<em>-drassil</em> = &ldquo;crown&rdquo;) reflects the Kaldorei&rsquo;s deep connection to nature and the Emerald Dream.</li>
+</ul>
+
+<!-- ============================================================ -->
+<h2 id="writing-system">Writing System</h2>
+
+<p>Darnassian is written in an <strong>elven script</strong>, a flowing, curved writing system visible on in-game signs, banners, and structures throughout Night Elf settlements. The script appears to be an abugida or alphasyllabary based on its visual structure, but Blizzard has not published a formal orthography or glyph-to-phoneme mapping.</p>
+
+<p>The in-game script on Darnassian signage does not consistently map to romanized Darnassian words; much of it is decorative.</p>
+
+<!-- ============================================================ -->
+<h2 id="phonology">Key Phonological Features</h2>
+
+<ul>
+  <li><strong>Liquid-rich phonotactics</strong>: Names and words favor /l/ and /r/ (<em>drassil</em>, <em>ilisar</em>, <em>falah</em>, <em>kal</em>), giving the language a flowing quality consistent with its in-game portrayal as melodic and ancient.</li>
+  <li><strong>Apostrophe as morpheme boundary</strong>: In the romanization, apostrophes consistently mark compound-internal morpheme divisions, not glottal stops or elisions (unlike some conlang romanizations).</li>
+  <li><strong>Hyphen as phrase boundary</strong>: Hyphens separate syntactic elements within phrases (<em>Elune-adore</em>, <em>Andu-falah-dor</em>), a consistent orthographic convention.</li>
+  <li><strong>Sibilant frequency</strong>: /&#x0283;/ (sh) and /s/ are common, contributing to the perceived softness of the language (<em>Shan</em>, <em>shem</em>, <em>Asha</em>, <em>Suramar</em>).</li>
+</ul>
+
+<!-- ============================================================ -->
+<h2 id="reliability">Reliability of the Corpus</h2>
+
+<p><strong>Attested with high confidence</strong> (directly from NPC dialogue / quest text):</p>
+<ul>
+  <li><em>Elune-adore</em>, <em>Andu-falah-dor</em>, <em>Ash karath</em>, <em>Tor ilisar'thera'nal</em>, <em>Fandu-dath-belore?</em></li>
+  <li><em>Kaldorei</em>, <em>Quel'dorei</em>, <em>Shan'do</em>, <em>Thero'shan</em></li>
+  <li>Place names: <em>Teldrassil</em>, <em>Nordrassil</em>, <em>Zin-Azshari</em>, <em>Darnassus</em>, <em>Suramar</em>, <em>Nazjatar</em></li>
+</ul>
+
+<p><strong>Inferred with moderate confidence</strong> (derived from attested compounds by morphological analysis):</p>
+<ul>
+  <li class="inferred">Morpheme glosses: <em>Kal</em> = &ldquo;star,&rdquo; <em>dor/drassil</em> = &ldquo;crown,&rdquo; <em>Tel</em> = &ldquo;earth,&rdquo; <em>Nor</em> = &ldquo;heavens,&rdquo; <em>Zin</em> = &ldquo;glory,&rdquo; <em>dorei</em> = &ldquo;children of,&rdquo; <em>Quel</em> = &ldquo;noble&rdquo;</li>
+  <li class="inferred"><em>Andu</em> / <em>Tor</em> as imperative particles</li>
+  <li class="inferred"><em>Endu</em> as a negative particle (by contrast with <em>Andu</em>)</li>
+</ul>
+
+<p><strong>Uncertain or speculative</strong>:</p>
+<ul>
+  <li class="uncertain"><em>Isha</em> = &ldquo;moon/moonlight&rdquo; &mdash; attested but meaning not confirmed by Blizzard</li>
+  <li class="uncertain"><em>Sindu-fallah-nor</em> = &ldquo;the sleep of the fallen&rdquo; &mdash; attested but translation uncertain</li>
+  <li class="uncertain"><em>Xil'varu</em>, <em>Ma'thor</em>, <em>Asha'man</em> &mdash; attested with no reliable translation</li>
+  <li class="uncertain"><em>Alah</em> = &ldquo;light/blessed&rdquo; &mdash; may be Thalassian rather than Darnassian</li>
+  <li class="uncertain">The relationship between <em>thera</em> (in <em>ilisar'thera'nal</em>) and <em>Thero</em> (in <em>Thero'shan</em>) &mdash; whether homophony or polysemy</li>
+  <li class="uncertain"><em>Vordrassil</em>, <em>Andrassil</em>, <em>Shaladrassil</em> &mdash; World Tree names whose non-<em>drassil</em> elements lack confirmed translations</li>
+</ul>
+
+<div class="note">
+<strong>Note:</strong> The Darnassian corpus is small and heavily skewed toward proper names, titles, and formulaic phrases. Full grammatical analysis is necessarily incomplete. See <a href="vocabulary.html">vocabulary.html</a> for the full word list and <a href="grammar.html">grammar.html</a> for morphological analysis.
+</div>
+
+<!-- ============================================================ -->
+<h2 id="references">References</h2>
+
+<ul>
+  <li>World of Warcraft (2004&ndash;present), Blizzard Entertainment &mdash; NPC dialogue, quest text, in-game books</li>
+  <li>Warcraft III: Reign of Chaos (2002) &mdash; introduction of Night Elf units with Darnassian voice lines</li>
+  <li>Official Blizzard lore publications and cinematics</li>
+</ul>
+
+</body>
+</html>

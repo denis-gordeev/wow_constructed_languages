@@ -44,7 +44,9 @@ Each language folder contains:
 - **vocabulary.md** — Known words and phrases with translations and source notes
 - **vocabulary.html** — Expanded vocabulary with IPA phonetic transcriptions (hypertext)
 - **grammar.md** — Inferred grammatical rules (morphology, syntax, phonology)
+- **grammar.html** — Grammar with cross-references, IPA, and section navigation (hypertext)
 - **description.md** — Overview of speakers, history, cultural context, and reliability
+- **description.html** — Language description with cross-references and section navigation (hypertext)
 
 ## Comparative Resources
 

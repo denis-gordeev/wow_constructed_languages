@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nazja Grammar</title>
+<style>
+body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
+h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
+h2 { color: #2e7d32; margin-top: 2em; }
+h3 { color: #388e3c; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
+th { background: #e8f5e9; font-weight: bold; }
+tr:nth-child(even) { background: #f9fdf9; }
+.ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
+.uncertain { color: #888; font-style: italic; }
+.inferred { color: #a0522d; }
+.new { background: #fffde7; }
+.note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav a { margin-right: 1em; }
+a { color: #2e7d32; }
+</style>
+</head>
+<body>
+
+<nav>
+<a href="description.html">Description</a>
+<a href="grammar.html">Grammar</a>
+<a href="vocabulary.html">Vocabulary</a>
+<span style="margin-left:1em; color:#666;">|</span>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#phonology">Phonology</a>
+<a href="#limitations">Limitations</a>
+</nav>
+
+<h1>Nazja Grammar</h1>
+
+<p class="note">Grammar rules below are <strong>inferred from attested examples only</strong>. Nazja is not a fully constructed language; Blizzard provided limited phrases and names. Patterns are noted where multiple examples support a rule. Speculative extensions are marked <span class="uncertain">[speculative]</span>. RPG content is marked <span class="uncertain">[RPG, non-canon]</span>.</p>
+
+<!-- ============ MORPHOLOGY ============ -->
+
+<h2 id="morphology">Morphology</h2>
+
+<h3 id="compounding">Compounding</h3>
+
+<p>Like Darnassian and Thalassian, Nazja makes heavy use of compounding. Morphemes are concatenated to form complex words, particularly in names and titles.</p>
+
+<p><strong>Pattern: Tribe/Clan Names with Apostrophe Boundary</strong></p>
+<ul>
+<li>Sira + 'kess = Sira'kess</li>
+<li>Idra + 'kess = Idra'kess</li>
+<li>Naz + 'jar = Naz'jar</li>
+<li>Skar + 'this = Skar'this</li>
+<li>Sriss + 'tiz = Sriss'tiz</li>
+<li>Vashj + 'ir = Vashj'ir</li>
+<li>Zanj + 'ir = Zanj'ir</li>
+</ul>
+
+<p>The apostrophe consistently marks morpheme boundaries, inherited from the Darnassian/Elven compounding tradition.</p>
+
+<p><strong>Pattern: Place Names with Hyphen Boundary</strong></p>
+<ul>
+<li>Zin-Azshari = Zin (&ldquo;glory&rdquo;) + Azshari (&ldquo;of Azshara&rdquo;) &mdash; this is Darnassian, but the pattern may persist in Nazja</li>
+</ul>
+
+<p><strong>Pattern: The <em>-tar</em> Suffix in Place/Domain Names</strong></p>
+<ul>
+<li>Nazjatar = Nazj- + -atar</li>
+<li>Zin'jatar = Zin'- + -atar</li>
+<li>Kaz'jatar = Kaz'- + -atar</li>
+</ul>
+
+<p>The element <em>-tar</em> (or <em>-atar</em>) appears in three attested names. If <em>Zin-Azshari</em> means &ldquo;Glory of Azshara&rdquo; and <em>Zin'jatar</em> is a separate name containing <em>Zin</em>, then <em>-jatar</em> may be a distinct morpheme from <em>-Azshari</em>. The suffix <em>-tar</em> could mean &ldquo;city,&rdquo; &ldquo;domain,&rdquo; &ldquo;throne,&rdquo; or &ldquo;capital.&rdquo;</p>
+
+<p class="uncertain">[speculative]: Nazjatar may decompose as <em>Nazj-</em> (root meaning &ldquo;deep&rdquo; or &ldquo;naga&rdquo;) + <em>-atar</em> (suffix meaning &ldquo;city/domain&rdquo;), yielding &ldquo;City of the Deep&rdquo; or &ldquo;Domain of the Naga.&rdquo; This would align with the speculation that &ldquo;Nazjatar&rdquo; derives from &ldquo;Nazja&rdquo; (the language name).</p>
+
+<h3 id="the-kess-suffix">The -kess Suffix</h3>
+
+<p>Three tribe names share the element <em>-kess</em>:</p>
+<ul>
+<li>Sira'kess</li>
+<li>Idra'kess</li>
+<li>Shirakess (possibly Shira + kess with assimilation)</li>
+</ul>
+
+<p>This could be a tribal/clan suffix, possibly indicating a female-led group (all three are associated with female leaders: Lady Sira'kess, Overseer Idra'kess). Alternatively, it may relate to the sea or tides.</p>
+
+<h3 id="the-ir-jir-suffix">The -'ir / -'jir Suffix</h3>
+
+<p>Three tribe names share the element <em>-'ir</em>:</p>
+<ul>
+<li>Azsh'ir</li>
+<li>Vashj'ir</li>
+<li>Zanj'ir</li>
+</ul>
+
+<p>This may mean &ldquo;people of&rdquo; or &ldquo;tribe of&rdquo; or &ldquo;domain of.&rdquo; Compare with Darnassian <em>-dorei</em> (&ldquo;children of&rdquo;), which serves a similar ethnonym-forming function.</p>
+
+<h3 id="apostrophe-usage">Apostrophe Usage</h3>
+
+<p>Apostrophes mark morpheme boundaries within compound words, consistent with the elven language family:</p>
+<ul>
+<li>Vashj'ir = Vashj + ir</li>
+<li>Naz'jar = Naz + jar</li>
+<li>Sira'kess = Sira + kess</li>
+<li>Zanj'ir = Zanj + ir</li>
+</ul>
+
+<p>Unlike Darnassian, where some compounds lack apostrophes (<em>Kaldorei</em>, <em>Teldrassil</em>), nearly all multi-morpheme Naga names use apostrophes. This may reflect:</p>
+<ul>
+<li>A more consistent orthographic convention in Nazja</li>
+<li>The greater phonological complexity of Nazja morpheme boundaries</li>
+<li>A deliberate visual distinction from Darnassian naming conventions</li>
+</ul>
+
+<!-- ============ SYNTAX ============ -->
+
+<h2 id="syntax">Syntax</h2>
+
+<h3 id="imperative-battle-cry-constructions">Imperative / Battle Cry Constructions</h3>
+
+<p>Several attested phrases appear to be imperative constructions:</p>
+<ul>
+<li><strong>Be'lemer an-delei!</strong> &mdash; Lady Vashj's battle cry. Possibly: <em>Be'</em> (imperative marker?) + <em>lemer</em> + <em>an</em> (particle?) + <em>delei</em>.</li>
+<li><strong>Bal, lamer zhita!</strong> &mdash; High Warlord Naj'entus. Possibly: <em>Bal</em> (command?) + <em>lamer</em> + <em>zhita</em>.</li>
+<li><strong>Fara dena'lay!</strong> &mdash; Zhahara Darksquall. Possibly: <em>Fara</em> (command/verb?) + <em>dena'lay</em> (target/effect).</li>
+</ul>
+
+<p class="uncertain">[speculative]: The pattern of short initial element + longer complement resembles the Darnassian imperative pattern (<em>Andu-falah-dor</em>, <em>Tor ilisar'thera'nal</em>), suggesting a shared syntactic structure for jussive/imperative constructions.</p>
+
+<h3 id="vocative-invocation-pattern">Vocative / Invocation Pattern</h3>
+<ul>
+<li><strong>Zin-Azshari adore.</strong> &mdash; Illidari naga NPCs. This appears to invoke <em>Zin-Azshari</em> (the city/queen's glory) + <em>adore</em> (&ldquo;be with you&rdquo; / &ldquo;bless&rdquo;), structurally parallel to Darnassian <em>Elune-adore</em>.</li>
+<li><strong>Therazjasha!</strong> &mdash; Sea Witch cry. Possibly an invocation of Azshara: <em>Thera</em> + <em>Azshara</em> &rarr; <em>Therazjasha</em> (compressed invocation).</li>
+<li><strong>For Nazjatar!</strong> &mdash; Simple dedicatory battle cry (likely a Common-language exclamation, not Nazja).</li>
+</ul>
+
+<h3 id="phrase-internal-boundaries">Phrase-Internal Boundaries</h3>
+<ul>
+<li><strong>Ash-thero-sauguine!</strong> &mdash; Hyphens separate three elements: <em>Ash</em> + <em>thero</em> + <em>sauguine</em>. This parallels the Darnassian multi-morpheme phrase pattern (<em>Tor ilisar'thera'nal</em>).</li>
+<li><strong>Osh'bala-tharei</strong> &mdash; Apostrophe separates <em>Osh</em> from <em>bala</em>, hyphen separates <em>bala</em> from <em>tharei</em>.</li>
+</ul>
+
+<p>The use of both hyphens and apostrophes as boundary markers mirrors Darnassian convention:</p>
+<ul>
+<li><strong>Apostrophe</strong> = word-internal morpheme boundary</li>
+<li><strong>Hyphen</strong> = phrase-level syntactic boundary</li>
+</ul>
+
+<h3 id="word-order">Word Order</h3>
+
+<p>The extremely limited sample prevents firm conclusions. Observed patterns:</p>
+<ul>
+<li><strong>Initial imperative particle + complement</strong>: Be'lemer an-delei!, Fara dena'lay!</li>
+<li><strong>Initial vocative + blessing</strong>: Zin-Azshari adore</li>
+<li><strong>Modifier + Head in compounds</strong>: Nazj-atar (root + suffix)</li>
+</ul>
+
+<!-- ============ PHONOLOGY ============ -->
+
+<h2 id="phonology">Phonology</h2>
+
+<h3 id="sound-inventory-observed">Sound Inventory (Observed)</h3>
+
+<p><strong>Consonants</strong>: b, d, f, h, j (<span class="ipa">/dʒ/</span>), k, l, m, n, p, r, s, t, th (<span class="ipa">/θ/</span>), v, z, sh (<span class="ipa">/ʃ/</span>), zh (<span class="ipa">/ʒ/</span>)</p>
+
+<p><strong>Vowels</strong>: a, e, i, o, u</p>
+
+<h3 id="phonological-patterns">Phonological Patterns</h3>
+
+<ol>
+<li><strong>Sibilant density</strong>: <span class="ipa">/s/</span>, <span class="ipa">/z/</span>, <span class="ipa">/ʃ/</span>, <span class="ipa">/ʒ/</span> are the most distinctive feature. Names and phrases average 2&ndash;3 sibilants per word, far exceeding Darnassian or Thalassian.</li>
+
+<li><strong><span class="ipa">/ʒ/</span> (zh) as marker of Nazja identity</strong>: This sound, rare in other elven languages, is extremely common in Nazja. It may have developed from:
+  <ul>
+    <li>A Darnassian <span class="ipa">/j/</span> that shifted under water-distorted articulation</li>
+    <li>A Darnassian <span class="ipa">/ʃ/</span> that lenited in the naga vocal tract</li>
+    <li>An entirely new phoneme enabled by the transformed vocal apparatus</li>
+  </ul>
+</li>
+
+<li><strong><span class="ipa">/dʒ/</span> (j) frequency</strong>: The affricate <span class="ipa">/dʒ/</span> is uncommon in Darnassian but very frequent in Nazja names. It appears in medial and final positions: <em>Naz'jar</em>, <em>Zin'jatar</em>, <em>Vashj</em>, <em>Sashj'tar</em>.</li>
+
+<li><strong>Consonant cluster tolerance</strong>: Nazja tolerates clusters that would be unusual in Darnassian:
+  <ul>
+    <li>Word-initial: <span class="ipa">/sr/</span> (<em>Sriss'tiz</em>), <span class="ipa">/sk/</span> (<em>Skar'this</em>)</li>
+    <li>Word-medial: <span class="ipa">/ssz/</span> (<em>Sassz'ine</em>), <span class="ipa">/lθ/</span> (<em>Kalithresh</em>)</li>
+    <li>Word-final: <span class="ipa">/ʃ/</span> (<em>Vashj</em>, <em>Nazesh</em>)</li>
+  </ul>
+</li>
+
+<li><strong>Vowel reduction</strong>: Compared to Darnassian's balanced vowel distribution, Nazja strongly favors <span class="ipa">/a/</span> and <span class="ipa">/e/</span> in stressed syllables, with <span class="ipa">/i/</span> common in unstressed positions. <span class="ipa">/o/</span> and <span class="ipa">/u/</span> are rare.</li>
+
+<li><strong>Syllable structure</strong>: Tends toward (C)V(C) but allows more complex onsets and codas than Darnassian. Common patterns:
+  <ul>
+    <li>CV: <em>Na, ze, shi</em></li>
+    <li>CVC: <em>Vashj, Nazj, kess</em></li>
+    <li>CCV: <em>Sras, shj'tar</em> (in rapid speech)</li>
+  </ul>
+</li>
+</ol>
+
+<h3 id="phonological-evolution-from-darnassian-speculative">Phonological Evolution from Darnassian (Speculative)</h3>
+
+<p class="uncertain">The following shifts from Darnassian to Nazja are hypothesized based on the comparative evidence:</p>
+
+<table>
+<thead>
+<tr>
+<th>Darnassian</th>
+<th>Nazja</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="ipa">/j/</span></td>
+<td><span class="ipa">/dʒ/</span> or <span class="ipa">/ʒ/</span></td>
+<td><em>Azshari</em> &rarr; <em>Azsh'ari</em>; possible <span class="ipa">/j/</span> &rarr; <span class="ipa">/dʒ/</span> shift in <em>Vashj</em>, <em>Naz'jar</em></td>
+</tr>
+<tr>
+<td><span class="ipa">/ʃ/</span></td>
+<td><span class="ipa">/ʒ/</span></td>
+<td>Possible lenition in underwater environment</td>
+</tr>
+<tr>
+<td><span class="ipa">/l/</span> + <span class="ipa">/r/</span></td>
+<td>Retained but less frequent</td>
+<td>Reduced liquid frequency compared to Darnassian</td>
+</tr>
+<tr>
+<td>Vowel <span class="ipa">/o/</span>, <span class="ipa">/u/</span></td>
+<td>Shifted toward <span class="ipa">/a/</span>, <span class="ipa">/e/</span></td>
+<td>Possible underwater acoustic adaptation</td>
+</tr>
+<tr>
+<td>Simple onsets</td>
+<td>Complex clusters</td>
+<td><span class="ipa">/sr/</span>, <span class="ipa">/sk/</span> onset clusters may reflect naga vocal tract capabilities</td>
+</tr>
+</tbody>
+</table>
+
+<!-- ============ LIMITATIONS ============ -->
+
+<h2 id="limitations">Limitations</h2>
+
+<p>The corpus is extremely small (~15&ndash;20 attested phrases, ~50+ proper names). Many &ldquo;words&rdquo; are isolated from single contexts, making it impossible to determine:</p>
+<ul>
+<li>Whether word order is free or fixed</li>
+<li>How case, number, or tense are marked (if at all)</li>
+<li>The full range of pronominal forms</li>
+<li>Whether <em>Be'</em> and <em>Fara</em> are truly imperative markers or carry different nuances</li>
+<li>The relationship between <em>thero</em> (in <em>Ash-thero-sauguine</em>) and Darnassian <em>thera</em> (in <em>Tor ilisar'thera'nal</em>) &mdash; whether cognate or coincidental</li>
+<li>The meaning of most attested phrases beyond &ldquo;battle cry&rdquo; or &ldquo;invocation&rdquo;</li>
+<li>Whether the tribal suffixes <em>-kess</em>, <em>-'ir</em>, <em>-tar</em> are productive morphemes or fossilized name elements</li>
+</ul>
+
+</body>
+</html>
