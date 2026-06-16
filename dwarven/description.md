@@ -2,13 +2,30 @@
 
 ## Speakers
 
-Dwarven is spoken by the dwarves of Khaz Modan, including the Ironforge dwarves (Bronzebeard clan), the Wildhammer dwarves, and the Dark Iron dwarves. It is also the ancestral language of the Earthen, the Titan-created beings from which dwarves descend. Most dwarves also speak Common fluently.
+Dwarven is spoken by the dwarves of Khaz Modan, including the Ironforge dwarves (Bronzebeard clan), the Wildhammer dwarves, and the Dark Iron dwarves. It is also the ancestral language of the Earthen, the Titan-created beings from which dwarves descend. Most dwarves also speak Common fluently. The Earthen of Khaz Algar (The War Within, 2024) speak a related but distinct variety with longer, more complex personal names.
 
 ## History
 
 Dwarven descends from the language of the Earthen, who were shaped by the Titan Khaz'goroth. When the Earthen were affected by the Curse of Flesh, they became the dwarves and their language evolved accordingly. The Titan influence is still visible in place names (the "Uld-" prefix) and possibly in structural elements of the language.
 
 The three dwarven clans — Bronzebeard, Wildhammer, and Dark Iron — were unified under the Council of Three Hammers after the events of the Cataclysm. Regional dialectal differences likely exist but are not attested in canon.
+
+The War Within (2024) revealed the Earthen of Khaz Algar as a distinct population separated from Eastern Kingdoms dwarves for millennia. Their naming patterns differ significantly (Baelgrim, Merrix, Adelgonn vs. Magni, Muradin, Brann), suggesting either retention of older titan-forged naming conventions or independent development under isolation.
+
+## Phonology
+
+Dwarven is described as guttural, influenced by the Titan language (inferred from lore descriptions). Consonant clusters are common, particularly initial clusters (inferred) from *Khaz*, *Grim*, *Brann*. The phonology suggests a preference for stops and fricatives. Proper names show both Germanic-style roots (Magni, Muradin, Brann) and more exotic forms (Thaurissan). The dental fricative /θ/ appears in Earthen names (*Brinthe*), consistent with a Titan substrate. The Earthen of Khaz Algar retain /θ/ and show longer consonant clusters than their Dwarven descendants.
+
+## Morphology
+
+Dwarven place names suggest a compounding pattern where two elements are joined to form a descriptive name (inferred):
+
+- **Dun Morogh** = *Dun* + *Morogh* → "Frost Fortress" (uncertain)
+- **Grim Batol** = *Grim* + *Batol* → "Dark Hold" (uncertain)
+- **Khaz Modan** = *Khaz* + *Modan* → "Mountain of Khaz" (inferred)
+- **Bael'dun** = *Bael* + *dun* → "Stone Fortress" (uncertain)
+
+Unlike Taur-ahe, compounding does not appear to use apostrophes as regular markers. *Bael'dun* is an exception that may reflect a Titan influence (inferred).
 
 ## Cultural Context
 
@@ -17,12 +34,37 @@ The three dwarven clans — Bronzebeard, Wildhammer, and Dark Iron — were unif
 - Dark Iron dwarves may have developed distinct vocabulary under their long isolation and servitude to Ragnaros.
 - Wildhammer dwarves, living in the highlands, may have terms related to gryphons and storm magic.
 - Toasting and oral tradition are important in Dwarven culture, as suggested by "Barakka'kor."
+- The Skardyn of Khaz Algar — Earthen corrupted by void magic — represent a divergent dialect or register; the *Skar-* element may relate to Vrykul *Skar-* (cf. *Skarvald*).
+
+## Titan-Dwarven Linguistic Connection
+
+Dwarves descend from the Earthen, titan-forged stone beings created by Khaz'goroth. The Dwarven language preserves several morphemes of Titan origin:
+
+- **Uld-** — Direct Titan loanword meaning "city" or "facility" (*Ulduar*, *Uldum*, *Uldaman*)
+- **Khaz** — Root meaning "forge" or "shape" preserved in both the Titan creator's name (*Khaz'goroth*) and the Dwarven kingdom (*Khaz Modan*); three attestations including *Khaz Algar*
+- **-dun / -den** — Possible cognate with Titan *-den* (as in *Ra-den*); both appear in fortification/authority contexts
+- **-modan / -dor** — Possible sound correspondence: Titan *-dor* (as in *Kalimdor* = "Land of Eternal Starlight") → Dwarven *-modan* ("mountain/kingdom")
+
+See [titan-forged-comparative.html](titan-forged-comparative.html) for full comparative analysis of the titan-forged language family.
 
 ## Relationship to Other Languages
 
 - Dwarven is related to the Titan language, sharing the "Uld-" prefix and possibly other structural elements.
-- The Earthen language is a direct ancestor or close relative.
+- The Earthen language is a direct ancestor or close relative; Earthen naming retains more Titan morphemes and longer compound names.
 - Dwarven may share vocabulary with Gnomish due to the long cohabitation in Ironforge and shared Titan origins, but no canon evidence confirms this.
+- Vrykul is a sister language within the titan-forged family; both share the *-grim* element (*Baelgrim* in Earthen, *Bjarngrim* in Vrykul) and possibly the *Eir-* element (*Eirich* in Earthen, *Eyir* in Vrykul).
+- The Dwarven element *Dun* may be related to Common *Durn-* in *Durnholde* via borrowing (Low–Medium confidence; see grammar.md for full analysis).
+
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested place names | 10+ | Khaz Modan, Dun Morogh, Grim Batol, Bael'dun, Khaz Algar, Dornogal, Gundargaz |
+| Attested personal names | 5+ (Dwarven), 6 (Earthen) | Magni, Muradin, Brann; Baelgrim, Merrix, Adelgonn, Brinthe, Eirich, Lufsela |
+| Confirmed morphemes | 2 | *Khaz* (forge), *Uld-* (city) |
+| Inferred morphemes | 5 | *Dun* (fortress), *-modan* (mountain), *-batol* (hold), *Bael* (stone), *-grim* (fierce) |
+| Attested sentences | 0 | No native Dwarven sentences are recorded |
+| Non-toponymic phrases | 1 | *Barakka'kor* (uncertain meaning and usage) |
 
 ## Reliability Notes
 
@@ -32,3 +74,4 @@ The three dwarven clans — Bronzebeard, Wildhammer, and Dark Iron — were unif
 - "Barakka'kor" is the only potentially non-toponymic Dwarven phrase, and its meaning is entirely uncertain.
 - Many place names may be Common-language renderings rather than accurate transliterations of Dwarven.
 - The Titan influence on Dwarven is established in lore but the degree of linguistic borrowing is unknown.
+- The War Within Earthen names provide new comparative data but may represent a divergent dialect rather than direct Dwarven ancestors.

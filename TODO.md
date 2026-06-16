@@ -71,7 +71,15 @@
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
 - [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
-- [ ] Add Nerglish (murloc/jinyu/ankoan/kobyss) to example-sentences.html
-- [ ] Add Nerglish reference to alien-comparative.html cross-navigation
-- [ ] Expand thinner language descriptions (Shalassian, Dwarven, Shath'Yar descriptions under 40 lines)
-- [ ] Verify nerglish/ HTML files render correctly
+- [ ] Sync expanded Shalassian/Dwarven/Shath'Yar description.html files with any future .md changes
+- [ ] Verify all HTML files across the repository render without structural errors (spot-check after large edits)
+
+## Completed This Round
+
+- [x] Add Nerglish (murloc/jinyu/ankoan/kobyss) to example-sentences.html
+- [x] Add Nerglish reference to alien-comparative.html cross-navigation (intro paragraph + bottom nav)
+- [x] Expand Shalassian description (36 → 75+ lines): added phonology, attested morphemes table, attestation summary, Nazja relationship, Legion/Midnight history
+- [x] Expand Dwarven description (34 → 85+ lines): added phonology, morphology, titan-dwarven connection section, attestation summary, TWW Earthen history, Vrykul/Gnomish relationships
+- [x] Expand Shath'Yar description (34 → 85+ lines): added phonology, morphology table, cultural context (Naaru, domanaar), attestation summary, Aqir transmission, alien-comparative cross-reference
+- [x] Verify nerglish/ HTML files render correctly (vocabulary.html, grammar.html, description.html all validated)
+- [x] Update README.md example-sentences description to include Nerglish
