@@ -13,7 +13,7 @@
 - [x] Add example sentences constructed using inferred grammar (clearly marked as non-canon) for 26 languages
 - [x] Create comparative wordlists: elven, Eredun/Draenei, titan-forged, alien
 - [x] Research and add 18 additional languages: Pandaren, Vulpera, Eredun, Mogu, Sethrak, Nature, Titan, Vrykul, Nazja, Tol'vir, Drust, Gnomish, Common, Earthen, Nerubian, Qiraji, Ethereal, Hara'ni
-- [x] Create standard files (vocabulary.md, grammar.md, description.md, vocabulary.html) for all 29 languages
+- [x] Create standard files (vocabulary.md, grammar.md, description.md, vocabulary.html) for all 29 languages (+ Nerglish as 30th, extracted from earthen/)
 - [x] Add etymological reconstruction for Draenei/Eredun and elven sound changes
 - [x] Cross-reference all titan-forged languages (Titan → Vrykul → Dwarven/Drust/Common/Gnomish; Titan → Earthen → Dwarven; Titan → Mogu/Tol'vir)
 - [x] Cross-reference "alien" WoW languages (Shath'Yar, nerubian, qiraji, ethereal, Hara'ni) with apostrophe-pattern and Aqir substrate analysis
@@ -57,6 +57,13 @@
 - [x] Add cross-navigation links (Grammar/Description) to all 29 vocabulary.html nav bars
 - [x] Fix .md → .html links in all HTML files (vocabulary, grammar, description, comparative, example-sentences)
 - [x] Verify HTML structural validity and link consistency across all 87+ HTML files
+- [x] Expand Gutterspeak: add pre-Forsaken origins, Dwarven/Thalassian influence, language barrier lore, Dan Golthas quote, cross-faction communication
+- [x] Expand Kalimag: add confirmed dialects (Ignan/Aquan/Terran/Auran), attested phrases, Frostmourne inscription, Molten Core runes, Draenor variant, writing system
+- [x] Expand Taur-ahe: add IPA, confirmed translations (Lo'Gosh, Echeyakee, etc.), attested phrases, Spirit Walker incantations, Amerindian influence, writing system, dialectal variation
+- [x] Sync gutterspeak and kalimag HTML files with updated .md counterparts
+- [x] Create nerglish/ directory with vocabulary.md, grammar.md, description.md and HTML files — extracted from earthen/vocabulary.md Section 10
+- [x] Update earthen/vocabulary.md and earthen/vocabulary.html to reference nerglish/ directory instead of inline content
+- [x] Update README.md to reference nerglish/ directory
 
 ## Remaining Open Items
 
@@ -64,3 +71,7 @@
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
 - [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
+- [ ] Add Nerglish (murloc/jinyu/ankoan/kobyss) to example-sentences.html
+- [ ] Add Nerglish reference to alien-comparative.html cross-navigation
+- [ ] Expand thinner language descriptions (Shalassian, Dwarven, Shath'Yar descriptions under 40 lines)
+- [ ] Verify nerglish/ HTML files render correctly

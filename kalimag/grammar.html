@@ -6,69 +6,114 @@
 <title>Kalimag Grammar</title>
 <style>
 body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
-h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
-h2 { color: #2e7d32; margin-top: 2em; }
-h3 { color: #388e3c; margin-top: 1.5em; }
+h1 { border-bottom: 2px solid #e65100; padding-bottom: 0.3em; }
+h2 { color: #e65100; margin-top: 2em; }
+h3 { color: #bf360c; margin-top: 1.5em; }
 table { border-collapse: collapse; width: 100%; margin: 1em 0; }
 th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
-th { background: #e8f5e9; font-weight: bold; }
-tr:nth-child(even) { background: #f9fdf9; }
+th { background: #fff3e0; font-weight: bold; }
+tr:nth-child(even) { background: #fffbf5; }
 .ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
 .uncertain { color: #888; font-style: italic; }
-.inferred { color: #a0522d; }
+.inferred { color: #bf360c; }
 .new { background: #fffde7; }
 .note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
-nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
+nav { background: #fff3e0; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
 nav a { margin-right: 1em; }
-a { color: #2e7d32; }
+a { color: #e65100; }
 </style>
 </head>
 <body>
 
 <nav>
 <a href="description.html">Description</a>
-<a href="grammar.html">Grammar</a>
-<a href="vocabulary.html">Vocabulary</a>
+<a href="vocabulary.html">Vocabulary</a> &mdash;
+<a href="#phonology">Phonology</a>
+<a href="#morphology">Morphology</a>
+<a href="#syntax">Syntax</a>
+<a href="#dialectal-variation">Dialectal Variation</a>
+<a href="#writing-system">Writing System</a>
+<a href="#limitations">Limitations</a>
 </nav>
 
 <h1>Kalimag Grammar</h1>
 
-<!-- ═══ Phonology ═══ -->
-
 <h2 id="phonology">Phonology</h2>
+
+<h3 id="general">General Characteristics</h3>
 <ul>
 <li>Described as a primal, forceful language</li>
 <li>The language likely varies by elemental plane &mdash; fire, water, earth, and air elementals may have distinct phonological registers <span class="inferred">(inferred from lore)</span></li>
-<li>Apostrophes appear in some names (Al'Akir) but not others (Ragnaros, Neptulon, Therazane), suggesting they mark specific morpheme boundaries rather than being a universal feature <span class="inferred">(inferred)</span></li>
-<li>Proper names show varied phonological patterns:</li>
+<li>Apostrophes appear in some names (Al'Akir, Ko'gun, Sho'ravon) but not others (Ragnaros, Neptulon, Therazane), suggesting they mark specific morpheme boundaries rather than being a universal feature <span class="inferred">(inferred)</span></li>
 </ul>
 
+<h3 id="consonants">Consonant Inventory (Inferred)</h3>
+
 <table>
-<tr><th>Pattern</th><th>Examples</th></tr>
-<tr><td>Heavy consonant clusters</td><td>Ragnaros, Therazane</td></tr>
-<tr><td>Apostrophe-marked compounds</td><td>Al'Akir</td></tr>
-<tr><td>Flowing syllables</td><td>Neptulon, Thunderaan</td></tr>
+<tr><th></th><th>Bilabial</th><th>Alveolar</th><th>Post-Alveolar</th><th>Velar</th><th>Glottal</th></tr>
+<tr><td>Stop</td><td></td><td>t, d</td><td></td><td>k, g</td><td></td></tr>
+<tr><td>Fricative</td><td>f</td><td>s, z</td><td>sh /ʃ/</td><td></td><td>h</td></tr>
+<tr><td>Nasal</td><td>m</td><td>n</td><td></td><td></td><td></td></tr>
+<tr><td>Rhotic</td><td></td><td>r</td><td></td><td></td><td></td></tr>
+<tr><td>Lateral</td><td></td><td>l</td><td></td><td></td><td></td></tr>
 </table>
 
-<!-- ═══ Morphology ═══ -->
+<h3 id="vowels">Vowel Inventory (Inferred)</h3>
+
+<table>
+<tr><th></th><th>Front</th><th>Central</th><th>Back</th></tr>
+<tr><td>Close</td><td>i</td><td></td><td>u</td></tr>
+<tr><td>Mid</td><td>e</td><td></td><td>o</td></tr>
+<tr><td>Open</td><td></td><td>a</td><td></td></tr>
+</table>
+
+<h3 id="syllable-structure">Syllable Structure</h3>
+<ul>
+<li>Proper names show varied phonological patterns:</li>
+<li>Heavy consonant clusters: Ragnaros, Therazane</li>
+<li>Apostrophe-marked compounds: Al'Akir, Ko'gun, Sho'ravon</li>
+<li>Flowing syllables: Neptulon, Thunderaan</li>
+<li>Short ritual words: Reth, Tas, Ko, Ma</li>
+</ul>
 
 <h2 id="morphology">Morphology</h2>
 
 <h3 id="apostrophe-compounding">Apostrophe Compounding</h3>
 <ul>
 <li><strong>Al'Akir</strong> = Al + Akir &rarr; possibly "lord" + "wind" or similar <span class="uncertain">(uncertain)</span></li>
-<li>This parallels the compounding seen in Shath'Yar and Taur-ahe <span class="inferred">(inferred)</span></li>
+<li><strong>Ko'gun</strong> = Ko + gun &rarr; possibly "hammer" + "fire" or "firelord" <span class="uncertain">(uncertain)</span></li>
+<li><strong>Sho'ravon</strong> = Sho + ravon &rarr; possibly "great" + "annihilation" <span class="uncertain">(uncertain)</span></li>
+<li><strong>Suz'ahn</strong> = Suz + ahn &rarr; <span class="uncertain">(uncertain decomposition)</span></li>
+<li><strong>Shodru'ga</strong> = Shodru + ga &rarr; <span class="uncertain">(uncertain decomposition; -ga may be a suffix)</span></li>
+<li>This parallels the compounding seen in Shath'Yar, Taur-ahe, and other WoW languages <span class="inferred">(inferred)</span></li>
 </ul>
 
 <h3 id="possible-name-forming-suffixes">Possible Name-Forming Suffixes</h3>
+<ul>
+<li><strong>-os</strong> appears in Ragnaros; (Neptulon has -on which may be related) &mdash; possibly a divine or lordly suffix <span class="uncertain">(uncertain)</span></li>
+<li><strong>-an</strong> appears in Thunderaan, Therazane &mdash; possibly an elemental name suffix <span class="uncertain">(uncertain)</span></li>
+<li>These could also reflect different elemental phonological preferences rather than morphological markers <span class="uncertain">(uncertain)</span></li>
+</ul>
 
-<table>
-<tr><th>Suffix</th><th>Examples</th><th>Possible Function</th></tr>
-<tr><td>-os</td><td>Ragnaros (Neptulon has -on which may be related)</td><td>possibly a divine or lordly suffix <span class="uncertain">(uncertain)</span></td></tr>
-<tr><td>-an</td><td>Thunderaan, Therazane</td><td>possibly an elemental name suffix <span class="uncertain">(uncertain)</span></td></tr>
-</table>
+<h3 id="possible-pronoun-ma">Possible Pronoun "Ma"</h3>
+<ul>
+<li>"Ma" appears in two attested phrases: "Ma reth bromo zoln kilagrin..." and "Ma krin drinor zoln drinor"</li>
+<li>If the Curse of Tongues translation "I am from the elemental plane!" is accurate, "ma" may be a first-person pronoun "I" <span class="uncertain">(Low&ndash;Medium confidence)</span></li>
+<li>This would make Kalimag one of the few WoW constructed languages with an attested pronoun</li>
+</ul>
 
-<p>These could also reflect different elemental phonological preferences rather than morphological markers <span class="uncertain">(uncertain)</span>.</p>
+<h3 id="possible-verb-krin">Possible Verb "Krin"</h3>
+<ul>
+<li>"Krin" appears in multiple attested phrases: "Tas krin ko. Tas krin tu roath ko krin?" and "Ma krin drinor zoln drinor" and "Ma krin kan aasrugel korsul"</li>
+<li>May be a verb form (copula or auxiliary) <span class="uncertain">(Low confidence)</span></li>
+</ul>
+
+<h3 id="possible-lexical-item-reth">Possible Lexical Item "Reth"</h3>
+<ul>
+<li>"Reth" appears in "Reth Reth Reth" (confirmed = "Burn burn burn") and "Rethfuras" (a fiery weapon from Ahune)</li>
+<li>"Reth" likely means "burn" or "fire" in the Ignan dialect <span class="inferred">(Medium confidence)</span></li>
+<li>This is one of the strongest morpheme identifications in Kalimag</li>
+</ul>
 
 <h3 id="possible-elemental-lexical-fields">Possible Elemental Lexical Fields</h3>
 
@@ -84,30 +129,58 @@ a { color: #2e7d32; }
 
 <p>These are highly speculative etymologies and may simply be proper names without internal morphology.</p>
 
-<!-- ═══ Syntax ═══ -->
-
 <h2 id="syntax">Syntax</h2>
-<ul>
-<li>No sentence-level attestation exists</li>
-<li>Word order cannot be determined</li>
-<li>Elementals in-game speak in Common or their patron's language; no Kalimag sentences are recorded</li>
-</ul>
 
-<!-- ═══ Dialectal Variation ═══ -->
+<h3 id="attested-sentences">Attested Sentences</h3>
+
+<ol>
+<li><strong>Reth Reth Reth</strong> = "Burn burn burn" (imperative plural)
+<ul><li>Simple repetition suggests emphatic or imperative construction</li>
+<li>Triple repetition may be a ritual or invocational pattern</li></ul></li>
+
+<li><strong>A gi kras tor shodru'ga bromo</strong> = "I am from the elemental plane!"
+<ul><li>If "ma" &asymp; "I" and this Curse of Tongues translation maps word-for-word: "a" may = "I", "gi" may = "am", "kras" may = "from", "tor" may = "the", "shodru'ga" may = "elemental", "bromo" may = "plane"</li>
+<li>However, Curse of Tongues transforms language into Demonic before translation, so word boundaries may not map directly</li>
+<li>Low confidence in word-by-word analysis</li></ul></li>
+
+<li><strong>Tas krin ko. Tas krin tu roath ko krin?</strong> = (Asking about hearthstone binding)
+<ul><li>The repetition of "Tas krin" suggests a question pattern</li>
+<li>"ko" may be a question particle or locative marker <span class="uncertain">(uncertain)</span></li></ul></li>
+
+<li><strong>Ma reth bromo zoln kilagrin dra ma zoern tu ko fraht ko tadrom Ma krin drinor zoln drinor Ma krin kan aasrugel korsul</strong> = (Water elemental speech, untranslated)
+<ul><li>"Ma" appears twice, possibly as first-person pronoun</li>
+<li>"krin" appears twice, possibly as verb</li>
+<li>"zoln" appears twice, possibly as a conjunction or adverb</li>
+<li>"ko" appears twice, possibly as a particle</li></ul></li>
+</ol>
+
+<h3 id="word-order">Word Order</h3>
+<ul>
+<li>Insufficient data to determine basic word order</li>
+<li>The phrases above suggest a possible SOV or SVO pattern but this is highly speculative</li>
+</ul>
 
 <h2 id="dialectal-variation">Dialectal Variation</h2>
 <ul>
-<li>Lore states that elementals speak "the language of their respective plane" <span class="inferred">(inferred)</span></li>
-<li>This may mean Kalimag has four major dialects corresponding to the four elemental planes <span class="inferred">(inferred)</span></li>
-<li>Alternatively, each plane may have a distinct language, with "Kalimag" as a collective term <span class="uncertain">(uncertain)</span></li>
+<li>Lore confirms four dialects of Kalimag: Ignan (fire), Aquan (water), Terran (earth), Auran (air)</li>
+<li>Each dialect corresponds to an elemental plane (confirmed &mdash; RPG sources, <em>Shadows &amp; Light</em> pg. 143)</li>
+<li>Elemental conglomerates speak two or more dialects (confirmed)</li>
+<li>Draenor has its own variant of Kalimag, with the Burning Blade clan using a runic language similar to Ignan (confirmed &mdash; Flamebender's Tome quest)</li>
+<li>The dialects may differ significantly enough to be considered separate languages, with "Kalimag" as a collective term <span class="uncertain">(uncertain)</span></li>
 </ul>
 
-<!-- ═══ Limitations ═══ -->
+<h2 id="writing-system">Writing System</h2>
+<ul>
+<li>Kalimag can be written in runic form (confirmed &mdash; Frostmourne's pedestal runes)</li>
+<li>The runes on Frostmourne's dais translate to a full sentence: "Whosoever takes up this blade shall wield power eternal. Just as the blade rends flesh, so must power scar the spirit."</li>
+<li>Ice Stones (associated with Ahune) also bear runes that may be Kalimag</li>
+<li>The Tempest Caller crown has Kalimag runes of binding etched into it</li>
+</ul>
 
 <h2 id="limitations">Limitations</h2>
 
 <div class="note">
-Kalimag grammar is entirely unattested. No sentences, verb forms, or grammatical particles are known. The language exists only as a name and a set of proper nouns. All morphological analysis is speculative.
+Kalimag grammar is largely unreconstructed. While the expanded corpus provides several attested phrases (some with confirmed translations), the word-by-word analysis of most phrases remains speculative. The identification of "reth" = "burn" is the strongest morpheme-level finding. The four-dialect structure is confirmed by lore but the differences between dialects are unattested. The Frostmourne inscription proves Kalimag has a full writing system capable of expressing complex sentences, but the original Kalimag text of the inscription is not recorded &mdash; only the Common translation survives.
 </div>
 
 </body>

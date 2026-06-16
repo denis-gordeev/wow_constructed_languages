@@ -34,12 +34,22 @@ a { color: #2e7d32; }
 <nav>
 Sections:
 <a href="#phonology">Phonology</a>
+<a href="#consonants">Consonants</a>
+<a href="#vowels">Vowels</a>
+<a href="#syllable-structure">Syllable Structure</a>
+<a href="#amerindian-influence">Amerindian Influence</a>
 <a href="#morphology">Morphology</a>
 <a href="#compounding-via-apostrophe">Compounding via Apostrophe</a>
+<a href="#multi-apostrophe-compounding">Multi-Apostrophe Compounding</a>
 <a href="#prefix-an-">Prefix "An-"</a>
 <a href="#suffix--ahe">Suffix "-ahe"</a>
 <a href="#suffix--a">Suffix "-a"</a>
+<a href="#potential-morpheme-ish-">Potential Morpheme "Ish-"</a>
+<a href="#potential-morpheme--mani">Potential Morpheme "-mani"</a>
 <a href="#syntax">Syntax</a>
+<a href="#attested-sentences">Attested Sentences</a>
+<a href="#writing-system">Writing System</a>
+<a href="#dialectal-variation">Dialectal Variation</a>
 <a href="#limitations">Limitations</a>
 </nav>
 
@@ -47,37 +57,92 @@ Sections:
 
 <h2 id="phonology">Phonology</h2>
 
+<h3 id="consonants">Consonant Inventory</h3>
+
+<p>Based on attested words, Taur-ahe appears to use the following consonants <span class="inferred">(inferred)</span>:</p>
+
+<table>
+<tr><th></th><th>Bilabial</th><th>Alveolar</th><th>Palatal</th><th>Velar</th><th>Glottal</th></tr>
+<tr><td>Stop</td><td>p</td><td>t</td><td></td><td>k</td><td></td></tr>
+<tr><td>Fricative</td><td></td><td>s, sh /ʃ/</td><td></td><td></td><td>h</td></tr>
+<tr><td>Nasal</td><td>m</td><td>n</td><td></td><td></td><td></td></tr>
+<tr><td>Rhotic</td><td></td><td>r</td><td></td><td></td><td></td></tr>
+<tr><td>Lateral</td><td></td><td>l</td><td></td><td></td><td></td></tr>
+</table>
+
+<h3 id="vowels">Vowel Inventory</h3>
+
+<table>
+<tr><th></th><th>Front</th><th>Central</th><th>Back</th></tr>
+<tr><td>Close</td><td>i</td><td></td><td>u</td></tr>
+<tr><td>Mid</td><td>e</td><td></td><td>o</td></tr>
+<tr><td>Open</td><td></td><td>a</td><td></td></tr>
+</table>
+
+<p>Long vowels likely exist, e.g., /uː/ in Mu'sha <span class="inferred">(inferred)</span>.</p>
+
+<h3 id="syllable-structure">Syllable Structure</h3>
+
 <ul>
-<li>The language uses apostrophes to mark morpheme boundaries <span class="inferred">(inferred)</span> from An'she, Mu'sha, Apa'ro</li>
-<li>Common syllable pattern: CV'CV or CVC'V <span class="inferred">(inferred)</span></li>
-<li>Vowel-heavy with long vowel sounds likely <span class="inferred">(inferred from the lilting quality described in lore)</span></li>
+<li>Common patterns: CV'CV, CVC'V, CV.CV <span class="inferred">(inferred)</span></li>
+<li>Apostrophe-joined compounds create polysyllabic words: Lakota'mani (6 syllables), Ish-ne-alo (4 syllables)</li>
+<li>Some words show complex cluster patterns: Mazzranache, Chouk'taga'loush</li>
+</ul>
+
+<h3 id="amerindian-influence">Amerindian Influence</h3>
+
+<ul>
+<li>Certain Taur-ahe words follow conventions from Amerindian languages, per Blizzard's design</li>
+<li>Camp Taurajo is pronounced /tɔːrəhoʊ/ (as in Navajo), not /tɔːrədʒoʊ/</li>
+<li>This suggests the orthographic "j" represents /h/ in at least some contexts</li>
 </ul>
 
 <h2 id="morphology">Morphology</h2>
 
 <h3 id="compounding-via-apostrophe">Compounding via Apostrophe</h3>
 
-<p>Apostrophes appear to join two meaningful elements into a single concept <span class="inferred">(inferred)</span>:</p>
+<p>Apostrophes appear to join two or more meaningful elements into a single concept <span class="inferred">(inferred from 10+ attestations)</span>:</p>
 
 <table>
 <thead>
-<tr><th>Word</th><th>Breakdown</th><th>Translation</th></tr>
+<tr><th>Word</th><th>Breakdown</th><th>Translation</th><th>Confidence</th></tr>
 </thead>
 <tbody>
-<tr><td>An'she</td><td>An + she &rarr; celestial + sun</td><td>"the Sun" <span class="inferred">(inferred)</span></td></tr>
-<tr><td>Mu'sha</td><td>Mu + sha &rarr; mother/light + moon</td><td>"the Moon" <span class="inferred">(inferred)</span></td></tr>
-<tr><td>Apa'ro</td><td>Apa + ro &rarr; white + stag</td><td>"the White Stag" <span class="uncertain">(uncertain decomposition)</span></td></tr>
-<tr><td>Taur-ahe</td><td>Taur + ahe &rarr; people/earth + speech/language</td><td>"the Language of the People" <span class="inferred">(inferred)</span></td></tr>
+<tr><td>An'she</td><td>An + she &rarr; celestial + sun</td><td>"the Sun"</td><td>Medium</td></tr>
+<tr><td>Mu'sha</td><td>Mu + sha &rarr; mother/light + moon</td><td>"the Moon"</td><td>Medium</td></tr>
+<tr><td>Apa'ro</td><td>Apa + ro &rarr; white + stag</td><td>"Malorne"</td><td>Low <span class="uncertain">(uncertain)</span></td></tr>
+<tr><td>Taur-ahe</td><td>Taur + ahe &rarr; people/earth + speech/language</td><td>"the Language"</td><td>Medium</td></tr>
+<tr class="new"><td>Lo'Gosh</td><td>Lo + Gosh &rarr; ? + ghost/wolf</td><td>"Ghost Wolf"</td><td>Low&ndash;Medium</td></tr>
+<tr class="new"><td>Lakota'mani</td><td>Lakota + mani &rarr; ? + shaker/force</td><td>"Earthshaker"</td><td>Low <span class="uncertain">(uncertain)</span></td></tr>
+<tr class="new"><td>Lar'korwi</td><td>Lar + korwi &rarr; ? + claw</td><td>"Sharp Claw"</td><td>Low&ndash;Medium</td></tr>
+<tr class="new"><td>Mashan'she</td><td>Mashan + she &rarr; loom + sun</td><td>"Loom of the Earth Mother"</td><td>Low&ndash;Medium</td></tr>
+<tr class="new"><td>Una'fe</td><td>Una + fe &rarr; ? + refuge</td><td>"Refuge"</td><td>Low <span class="uncertain">(uncertain)</span></td></tr>
+<tr class="new"><td>Mawat'aki</td><td>Mawat + aki &rarr; winter + soul</td><td>"Wintersoul"</td><td>Low <span class="uncertain">(uncertain)</span></td></tr>
+<tr class="new"><td>Ish-ne-alo</td><td>Ish + ne + alo &rarr; deep + ? + ?</td><td>Part of greeting</td><td>Low <span class="uncertain">(uncertain)</span></td></tr>
 </tbody>
 </table>
 
-<p>This suggests a productive compounding pattern where an apostrophe links two morphemes <span class="inferred">(inferred)</span>.</p>
+<p>This confirms a productive compounding pattern where an apostrophe links morphemes <span class="inferred">(confirmed by 10+ attestations)</span>.</p>
+
+<h3 id="multi-apostrophe-compounding">Multi-Apostrophe Compounding</h3>
+
+<p>Some words use multiple apostrophes, suggesting recursive or tripartite compounding:</p>
+
+<ul>
+<li><strong>Chouk'taga'loush</strong> &mdash; Spirit Walker incantation (untranslated)</li>
+<li><strong>Nag'grada'baash</strong> &mdash; Spirit Walker incantation (untranslated)</li>
+<li><strong>Ish-ne-alo por-ah</strong> &mdash; full greeting phrase (two compounds joined by space)</li>
+</ul>
+
+<p>This suggests that apostrophe-compounding is productive at multiple levels, and that phrases can consist of multiple compounded words.</p>
 
 <h3 id="prefix-an-">Prefix "An-"</h3>
 
 <ul>
 <li>"An" may function as a definite article or celestial honorific prefix <span class="inferred">(inferred)</span></li>
-<li>Appears only in An'she; too few examples to confirm <span class="uncertain">(uncertain)</span></li>
+<li>Appears in An'she ("the Sun") and Mashan'she ("the Loom of the Earth Mother") &mdash; note: in Mashan'she, "she" recurs but "An" does not appear as a separate prefix</li>
+<li>An alternative analysis: "she" may mean "celestial body" or "eye of the Earth Mother" <span class="inferred">(inferred)</span></li>
+<li>Too few examples to confirm <span class="uncertain">(uncertain)</span></li>
 </ul>
 
 <h3 id="suffix--ahe">Suffix "-ahe"</h3>
@@ -90,21 +155,59 @@ Sections:
 <h3 id="suffix--a">Suffix "-a"</h3>
 
 <ul>
-<li>May denote a plural or collective noun <span class="inferred">(inferred)</span> from "Taura" (people)</li>
+<li>May denote a plural or collective noun <span class="inferred">(inferred)</span> from "Shu'halo" (the Tauren) vs "Taur-ahe" (the language)</li>
 <li>Alternatively a stem form without suffix <span class="uncertain">(uncertain)</span></li>
+</ul>
+
+<h3 id="potential-morpheme-ish-">Potential Morpheme "Ish-"</h3>
+
+<ul>
+<li>Appears in multiple words: Isha Awak ("Deep Doom"), Ishamuhale ("Speartooth"), Ish-ne-alo (greeting phrase)</li>
+<li>May relate to "deep," "dark," or "shadow" <span class="inferred">(inferred from Isha Awak = "Deep Doom")</span></li>
+<li>Low&ndash;Medium confidence</li>
+</ul>
+
+<h3 id="potential-morpheme--mani">Potential Morpheme "-mani"</h3>
+
+<ul>
+<li>Appears in Lakota'mani ("Earthshaker") and Awak'mani (untranslated)</li>
+<li>May mean "hand," "force," or "shaker" <span class="inferred">(inferred)</span></li>
+<li>Low confidence</li>
 </ul>
 
 <h2 id="syntax">Syntax</h2>
 
+<h3 id="attested-sentences">Attested Sentences</h3>
+
+<p>With the discovery of full attested phrases, some syntactic analysis is now possible <span class="uncertain">(Low confidence &mdash; only 3 attested phrases)</span>:</p>
+
+<table>
+<tr><th>Phrase</th><th>Translation</th><th>Analysis</th></tr>
+<tr class="new"><td>Ish-ne-alo por-ah</td><td>May the days ahead be guided by the elders of long ago</td><td>Benediction/greeting; "por-ah" may = "elders" or "of long ago"; "Ish-ne-alo" may = "days ahead guided" <span class="uncertain">(uncertain)</span></td></tr>
+<tr class="new"><td>Nechi owachi</td><td>Hello and thank you</td><td>Two-word greeting combining greeting and gratitude; "Nechi" may = "hello"; "Owachi" may = "thank you" <span class="uncertain">(uncertain)</span></td></tr>
+<tr class="new"><td>Theia-shoush ahmen</td><td>So it will be</td><td>Affirmation/commitment; "Theia-shoush" may = "so it"; "ahmen" may = "will be" <span class="uncertain">(uncertain)</span></td></tr>
+</table>
+
+<h2 id="writing-system">Writing System</h2>
+
 <ul>
-<li>No attested sentence structure; word order cannot be determined</li>
-<li>The spiritual and nature-connected quality of the language is described in lore but has no grammatical attestation</li>
+<li>Taur-ahe is at least partially written using pictograms <span class="inferred">(confirmed &mdash; The Writ of History)</span></li>
+<li>The "Writ of History" is a tauren artifact with pictographic writing</li>
+<li>No alphabetic or syllabic writing system is attested</li>
+</ul>
+
+<h2 id="dialectal-variation">Dialectal Variation</h2>
+
+<ul>
+<li>"There are many different forms and dialects of Taur-ahe, all differing based on tribe and location" <span class="inferred">(confirmed &mdash; Traveler, pg. 54)</span></li>
+<li>The specific differences between dialects are not attested</li>
+<li>The Grimtotem tribe may have distinct vocabulary or pronunciation <span class="inferred">(inferred from cultural separation)</span></li>
 </ul>
 
 <h2 id="limitations">Limitations</h2>
 
 <div class="note">
-The grammar of Taur-ahe is almost entirely unreconstructed. Only a handful of noun phrases are attested, and no full sentences survive in canon. All rules above are speculative.
+Taur-ahe grammar remains largely unreconstructed. While the expanded corpus provides 18+ confirmed translations and 3 attested phrases, no verb paradigm, case system, or detailed syntax can be established. The compounding pattern via apostrophe is the best-attested grammatical feature. All morpheme decompositions beyond confirmed translations are speculative.
 </div>
 
 </body>
