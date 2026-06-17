@@ -71,12 +71,7 @@
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
 - [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
-- [ ] Sync updated Darnassian grammar.md with grammar.html
-- [ ] Sync updated Orcish grammar.md and description.md with HTML counterparts
-- [ ] Sync updated Nazja description.md with description.html
-- [ ] Add phonology sections to remaining languages that lack formal IPA charts (Dwarven, Gutterspeak, Kalimag, Taur-ahe, Draenei, Eredun, etc.)
-- [ ] Add attestation summary tables to remaining language descriptions that lack them
-- [ ] Add dialectal variation sections to remaining language descriptions that lack them
+- [ ] Add phonology IPA charts to remaining languages with prose-only phonology (Gutterspeak has no distinct phonology; Nature is not a distinct language)
 
 ## Completed This Round
 
@@ -106,3 +101,12 @@
 - [x] Fix haranir/vocabulary.html inconsistent .md link (removed vestigial README.md link)
 - [x] Sync Dwarven description.md with description.html (added missing "General caution" note)
 - [x] Verify all updated HTML files pass structural integrity checks
+- [x] Sync Darnassian grammar.html with grammar.md (added Andu/Endu negation analysis, expanded phonology with IPA charts, comparison with daughter languages)
+- [x] Sync Orcish grammar.html with grammar.md (added *-osh* suffix analysis, expanded phonology with IPA charts, comparison with Darnassian)
+- [x] Sync Orcish description.html with description.md (added relationships to other languages, naming conventions table, dialectal variation, attestation summary)
+- [x] Sync Nazja description.html with description.md (added dialectal variation, physiological phonological changes)
+- [x] Add phonology IPA charts to 11 languages: Dwarven, Draenei, Shath'Yar, Nerubian, Qiraji, Ethereal, Earthen, Titan, Sethrak, Mogu, Nerglish
+- [x] Add attestation summary tables to 6 languages: Gutterspeak, Nerubian, Qiraji, Drust, Earthen, Vrykul
+- [x] Add dialectal variation sections to 17 languages: Dwarven, Draenei, Eredun, Kalimag, Taur-ahe, Pandaren, Vulpera, Shath'Yar, Nerubian, Qiraji, Earthen, Tol'vir, Sethrak, Mogu, Nerglish, Gutterspeak, Nature
+- [x] Sync all updated grammar.md files with grammar.html counterparts (11 languages)
+- [x] Sync all updated description.md files with description.html counterparts (17+ languages for dialectal variation, 6 for attestation)

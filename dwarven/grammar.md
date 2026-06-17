@@ -2,10 +2,65 @@
 
 ## Phonology
 
-- The language is described as guttural, influenced by the Titan language (inferred from lore descriptions)
-- Consonant clusters are common, particularly initial clusters (inferred) from Khaz, Grim, Brann
-- The phonology suggests a preference for stops and fricatives over fricatives alone (inferred)
-- Proper names show both Germanic-style roots (Magni, Muradin, Brann) and more exotic forms (Thaurissan)
+### Consonant Inventory
+
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | (p) b | | | t d | | k ɡ | (ʔ) |
+| Fricatives | | (v) f | θ | s z | (ʃ) | (x) | (h) |
+| Nasals | m | | | n | | (ŋ) | |
+| Liquids | | | | l r | | | |
+| Approximants | (w) | | | | | | |
+
+Parentheses indicate marginal or uncertain phonemes; see notes below.
+
+### Vowel Inventory
+
+| | Front | Central | Back |
+|---|---|---|---|
+| High | ɪ | | ʊ |
+| Mid | ɛ | ə | ɔ |
+| Low | æ | | ɑ |
+
+Diphthongs: /aɪ/, /eɪ/ (attested in *Eirich* /ˈaɪrɪk/, *Baelgrim* /ˈbeɪlɡrɪm/)
+
+Vowel length is contrastive for back vowels: long /ɑː/ (*Algar* /-ɡɑːr/, *Gundargaz* /-dɑːr-/), long /ɔː/ (*Dorn* /dɔːrn/) vs. short /ɑ/, /ɔ/.
+
+### Phonological Patterns
+
+1. **Initial consonant clusters are frequent**, particularly stop+liquid sequences: /ɡr/ (*Grim*, *Baelgrim*), /br/ (*Brann*, *Brinthe*), /sk/ (*Skardyn*). Three-consonant onsets are implied by /skɑːr/ in *Skardyn* /ˈskɑːrdɪn/.
+
+2. **Coda positions permit obstruent clusters in limited attestation**: /-ks/ (*Merrix* /-rɪks/). Single-consonant codas are far more common: /-n/ (*Dun*), /-z/ (*Khaz*), /-m/ (*Baelgrim*), /-l/ (*Dornogal*), /-r/ (*Algar*), /-θ/ (*Brinthe*), /-s/ (*Merrix*).
+
+3. **/r/ is the most frequent consonant**, appearing in onset, coda, and intervocalic position. Nearly every multi-syllable word in the attested corpus contains /r/.
+
+4. **Heavy syllables predominate in stressed positions**: Most primary-stressed syllables are closed (CVC) or contain a long vowel, e.g., /ˈɡʊn/ (*Gundargaz*), /ˈskɑːr/ (*Skardyn*), /ˈdɔːrn/ (*Dorn*).
+
+5. **The dental fricative /θ/ is stable**, occurring in both onset (*Thaurissan*) and coda (*Brinthe* /ˈbrɪnθə/) positions, consistent with Germanic phonological typology.
+
+6. **Schwa /ə/ occurs exclusively in unstressed syllables**: /əˈdɛlɡɒn/ (*Adelgonn*), /ˈbrɪnθə/ (*Brinthe*), /ˈdɔːrnəɡɑːl/ (*Dornogal*).
+
+7. **Apostrophes in orthography** (e.g., *Khaz'goroth*, *Bael'dun*, *Barakka'kor*) may represent glottal stops /ʔ/, morpheme boundaries, or both. The phonological status of /ʔ/ remains uncertain.
+
+8. **Diphthongs /aɪ/ and /eɪ/ occur in stressed syllables**: *Eirich* /ˈaɪrɪk/, *Baelgrim* /ˈbeɪlɡrɪm/. These may alternatively be analyzed as vowel+glide sequences /aj/, /ej/.
+
+### Notes on Marginal and Uncertain Phonemes
+
+- **/p/**: Not attested in any Dwarven or Earthen word. Its absence may be an accident of the small corpus rather than a true inventory gap; most Germanic languages possess /p/.
+
+- **/v/**: Not clearly attested. Given the presence of /f/ and the Germanic pattern of voiced–voiceless fricative pairs, /v/ likely exists but happens not to appear in the attested proper names.
+
+- **/x/**: The digraph "kh" in *Khaz*, *Khardros*, *Khaz'goroth* is transcribed as /k/ in official sources, but a velar fricative /x/ is consistent with the "guttural" description and would align with Germanic phonology (cf. German *Buch* [buːx]). An in-universe pronunciation /xæz/ is plausible.
+
+- **/ʔ/**: Apostrophes in *Khaz'goroth*, *Bael'dun*, and *Barakka'kor* may mark glottal stops. However, apostrophes in Warcraft orthography often serve as morpheme boundary markers rather than phonemic indicators.
+
+- **/ʃ/, /ʒ/**: Not attested in the corpus but plausible given the language's Germanic typological profile. /ʃ/ in particular would be expected in a language with /s/ and postalveolar articulations.
+
+- **/ŋ/**: Not independently attested as a phoneme. May occur allophonically as [ŋ] before velar stops in forms not yet attested.
+
+- **/h/**: Not attested in onset position. Its absence is notable for a "guttural" language and may reflect the limited corpus or a genuine gap filled by /x/.
+
+- **/w/, /j/**: Not clearly attested as consonantal phonemes. /j/ may underlie the diphthongs /aɪ/ and /eɪ/ (analyzable as /aj/, /ej/). /w/ is absent from the corpus but likely exists given cross-linguistic universals.
 
 ## Morphology
 

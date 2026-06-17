@@ -16,6 +16,22 @@ Muradin Bronzebeard can read Kalimag, as demonstrated when he read the warning o
 
 The Draenor variant of Kalimag is used by the Furies and by the Burning Blade clan, who employ a runic language similar to the Ignan dialect to bend elemental power to their will (confirmed — Flamebender's Tome quest).
 
+## Dialectal Variation
+
+Kalimag's four canonical dialects — Ignan, Aquan, Terran, and Auran — are confirmed in the RPG sourcebooks (*Shadows & Light*, pg. 143). These likely represent substantial variation, potentially approaching mutual unintelligibility, given the radically different physical and acoustic environments of the four elemental planes.
+
+- **Ignan (Fire):** Spoken in the Firelands. Characterized by sharp, explosive consonants and rapid articulation, mirroring the volatile nature of fire. The morpheme *reth* ("burn") and names like *Ragnaros* and *Sulfuras* suggest a preference for trilled /r/, sibilant fricatives, and open vowels. Igneous elementals may produce sounds analogous to crackling and hissing. The Molten Core runes (Kress, Mohn, Blaz, Zeth) suggest a monosyllabic tendency in written Ignan.
+
+- **Aquan (Water):** Spoken in the Abyssal Maw. Likely features smoother phonotactics with prolonged sonorants and flowing vowel sequences, reflecting the liquid medium. Names like *Neptulon* suggest longer word forms with nasal consonants and labial stops. Aquan may use tonal or pitch-based distinctions incommunicable to air-breathing listeners, since sound propagates differently in water.
+
+- **Terran (Earth):** Spoken in Deepholm. Probably the most guttural dialect, with heavy use of low-frequency sounds, deep stops, and minimal vowel contrast — analogous to the grinding and rumbling of stone. *Therazane* and the *-ther-* element in Molten Core runes suggest dental/alveolar consonants prominent in Terran. Slow articulation may reflect the patient, geological tempo of earth elementals.
+
+- **Auran (Air):** Spoken in the Skywall. Likely features aspirated consonants, breathy voicing, and extended fricatives — phonological features mimicking wind and storms. *Al'Akir* suggests a lighter syllable structure with the apostrophe marking glottal stops that may serve a phonemic role in Auran. Rapid tempo and whistling overtones may be present.
+
+- **Draenor Kalimag:** A variant used by the Furies and the Burning Blade clan. Confirmed to be similar to the Ignan dialect, but distinct enough to be recognized as a separate tradition. Draenor's different elemental composition — the Furies are unified elemental spirits rather than separate lords — may have produced a more synthetic dialect where elemental distinctions are grammatically marked rather than lexically separate.
+
+Elemental conglomerates speak two or more dialects, potentially code-switching depending on which elemental faculty is dominant.
+
 ## Writing System
 
 Kalimag can be written in runic form (confirmed). Key examples:

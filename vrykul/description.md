@@ -49,6 +49,17 @@ Key historical events affecting the language:
 - The language heavily resembles Old Norse and Icelandic. Many Vrykul names are actual Scandinavian/Icelandic names. Icelandic players can partly understand the language.
 - The phrase "Bjorns mottar haelgond sygar" closely resembles the Icelandic "Bjorns móðir, Haelgond, sýgur!" ("Bjorn's mother, Haelgond, sucks!"), confirming the Icelandic phonological parallel.
 
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested phrases (with translations) | ~10+ | *Bjorns mottar haelgond sygar*, *Ymirjar*, *Valarjar*, *Drottinn*, *Skold*, *Hild* |
+| Attested proper names | 15+ | *Ymiron*, *Sylvie*, *Bjorn*, *Eyir*, *Helya*, *Odyn*, *Thorim*, etc. |
+| Confirmed morphemes | 0 | No Vrykul morpheme has independent canon confirmation |
+| Inferred morphemes | 5+ | *bjarn* (bear), *mottar* (mother), *-heim* (home/realm suffix), *-jar* (person/warrior suffix), *Drottinn* (lord/title) |
+| Attested sentences with full glosses | 1 | *Bjorns mottar haelgond sygar* (via Icelandic parallel) |
+| Untranslated phrases | 5+ | Various NPC combat utterances |
+
 ## Reliability Notes
 
 - **Moderately attested for a WoW language.** Several complete phrases with official translations exist, confirmed by Blizzard's Loreology on Twitter (2014-07-08).

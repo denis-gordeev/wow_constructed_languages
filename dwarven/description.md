@@ -12,6 +12,20 @@ The three dwarven clans — Bronzebeard, Wildhammer, and Dark Iron — were unif
 
 The War Within (2024) revealed the Earthen of Khaz Algar as a distinct population separated from Eastern Kingdoms dwarves for millennia. Their naming patterns differ significantly (Baelgrim, Merrix, Adelgonn vs. Magni, Muradin, Brann), suggesting either retention of older titan-forged naming conventions or independent development under isolation.
 
+## Dialectal Variation
+
+Although no dialects are directly attested in canon, the three major dwarven clans — Bronzebeard, Wildhammer, and Dark Iron — have been separated by geography and culture for millennia, making dialectal divergence highly plausible.
+
+- **Bronzebeard (Ironforge):** The prestige dialect and likely basis for "Standard Dwarven" as encountered by outsiders. Ironforge's role as the political and economic center of Khaz Modan would have standardized this variety. Close contact with Gnomes may have introduced loanwords related to technology and engineering. The naming pattern favors Germanic-style roots (Magni, Muradin, Brann).
+
+- **Wildhammer (Aerie Peak / Hinterlands):** Prolonged isolation in the highlands and daily interaction with gryphons may have produced vocabulary for falconry, storm-weather, and high-altitude terrain absent from Ironforge Dwarven. The Wildhammer shamanistic tradition suggests possible contact with Kalimag or Orcish elemental terms. Their names tend toward harsher consonant clusters (Falstad, Kurdran), possibly reflecting a phonological shift favoring initial clusters.
+
+- **Dark Iron (Blackrock Mountain):** Millennia of isolation under Ragnaros's dominion likely introduced significant divergence. Exposure to fire elemental language (Ignan Kalimag) and Old Dwarven ritual vocabulary may have produced a lexicon of subjugation, heat, and volcanic geology. Names like Thaurissan and Moira (adopted) suggest retention of archaic forms. The Dark Iron dialect may preserve older Titan morphemes lost in the other clans, having been geographically closer to Uldaman.
+
+- **Earthen of Khaz Algar:** Arguably a sister language rather than a dialect. Their naming conventions (Baelgrim, Merrix, Adelgonn, Brinthe) show longer compounds and more consistent retention of Titan phonology, including the dental fricative /θ/. The Skardyn — Earthen corrupted by void — represent a further divergent variety, possibly a sociolect shaped by magical corruption.
+
+Mutual intelligibility among the three surface clans is likely high, though the Earthen variety may require significant accommodation.
+
 ## Phonology
 
 Dwarven is described as guttural, influenced by the Titan language (inferred from lore descriptions). Consonant clusters are common, particularly initial clusters (inferred) from *Khaz*, *Grim*, *Brann*. The phonology suggests a preference for stops and fricatives. Proper names show both Germanic-style roots (Magni, Muradin, Brann) and more exotic forms (Thaurissan). The dental fricative /θ/ appears in Earthen names (*Brinthe*), consistent with a Titan substrate. The Earthen of Khaz Algar retain /θ/ and show longer consonant clusters than their Dwarven descendants.

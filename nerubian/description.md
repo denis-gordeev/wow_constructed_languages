@@ -21,6 +21,15 @@ The nerubian civilization of Azjol-Nerub was one of the oldest on Azeroth, preda
 
 The nerubian kingdom of Azj-Kahet, located in Khaz Algar, survived the Scourge's devastation and maintained an independent civilization. However, Queen Ansurek's experiments with Black Blood — a substance linked to the Old Gods — created a schism in nerubian society between the Ascended (who embrace the transformation) and the Severed Threads (who resist it).
 
+## Dialectal Variation
+
+The nerubian language exhibits the most significant dialectal variation of any Aqir-descended language, with two geographically separated dialects separated by an ocean and millennia of independent development.
+
+- **Azjol-Nerub (Northrend) vs. Azj-Kahet (Khaz Algar):** These two dialects have been separated since the Aqir diaspora, potentially over 10,000 years. The Northrend dialect is attested through WotLK names (*Anub'arak*, *Anub'rekhan*, *Krik'thir*) and the Khaz Algar dialect through TWW names (*Anub'azal*, *Anub'arash*, *Ansurek*, *Y'tekhi*). Both share the *Anub-* warrior prefix and the *-kahet*/*-nerub* kingdom suffix, suggesting core morphological stability despite the geographic split.
+- **Orthographic divergence:** The single attested nerubian text (the scroll passage "Unhhh-tikk-a-shisss…") uses hyphens as morpheme boundaries, while nerubian proper names consistently use apostrophes (*Anub'arak*, *Arak'nai*, *Ovi'nax*). This may reflect a dialectal difference in writing convention — the scroll could represent a Northrend orthographic tradition while the proper names reflect Khaz Algar conventions — or it may indicate that the scroll text represents a different register (see below).
+- **Ascended vs. non-Ascended registers:** The Ascended nerubians, transformed by Black Blood, may be developing a distinct sociolect. Black Blood exposure could introduce Old God phonological elements (e.g., initial apostrophe patterns as in *Y'tekhi*) that are absent from traditional nerubian naming. This would represent a register difference rather than a geographic dialect.
+- **Scourge-raised nerubians:** The undead nerubians of Azjol-Nerub were raised without normal nerubian socialization. If they retained any linguistic capacity, it would likely be a reduced, fossilized form of the Northrend dialect — stripped of generational transmission and frozen at the point of death. This parallels real-world language death in disrupted communities.
+
 ## Cultural Context
 
 - Nerubian society values cunning, knowledge, and survival. The three "Threads" of the Severed Threads resistance — spymaster, general, and vizier — represent intelligence, military strength, and wisdom respectively.
@@ -50,6 +59,18 @@ Aqir (unattested; Old God-created insectoid race)
 ```
 
 Unlike the Titan-forged language family (which has confirmed genetic relationships through shared morphemes and sound correspondences), the Aqir-descended language family is entirely hypothetical. Only the *Azj-* element provides any evidence for shared vocabulary.
+
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested personal names | ~16+ | *Anub'arak*, *Anub'rekhan*, *Anub'azal*, *Anub'arash*, *Ansurek*, *Arak'nai*, *Nizrek*, *Ulgrax*, *Ovi'nax*, *Ky'veza*, *Krix'vizk*, *Rasha'nan*, *Y'tekhi*, *Takazj*, *Krik'thir*, *Ix'zek* |
+| Attested place names | ~7+ | *Azjol-Nerub*, *Ahn'kahet*, *Azj-Kahet*, *Nerub-ar Palace*, *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz* |
+| Confirmed morphemes | 2 | *Anub-* (title/warrior prefix), *-kahet* (kingdom/realm suffix) |
+| Inferred morphemes | 5+ | *Azj-* (deep/domain prefix), *-ar* (brood/collective suffix), *-rek*/*-urek* (title suffix), *-nax* (role suffix), *Rak-* (toponymic prefix) |
+| Attested texts | 1 | Nerubian scroll: "Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k." |
+| Attested phrases with translations | 0 | No nerubian phrases have confirmed translations |
+| Attested sentences with full glosses | 0 | No nerubian sentences are attested |
 
 ## Reliability Notes
 

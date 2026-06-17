@@ -14,6 +14,15 @@ The Mogu empire was built on arcane magic, flesh-shaping, and brutal domination.
 
 In the modern era, the Mogu are divided into competing clans, each vying for dominance: the Shan'ze, Baruk, Dokani, Zan-Tien, and others. The Zandalari trolls formed an alliance with the Mogu during the *Mists of Pandaria* storyline, resurrecting Lei Shen and attempting to restore the Thunder King on the Isle of Thunder. During the *Battle for Azeroth* N'Zoth assault (patch 8.3), the Baruk, Dokani, and Zan-Tien clans vied for control of the Vale of Eternal Blossoms, while the Rajani clan allied with adventurers against N'Zoth.
 
+## Dialectal Variation
+
+Mogu dialectal variation is shaped by two major historical forces: the unifying effect of Lei Shen's empire and the fragmenting effect of its collapse into competing clans.
+
+- **Imperial Mogu** — Under Lei Shen, the language was deliberately standardized: unified currency, weights, measures, and written law imposed a single linguistic norm across the empire. The imperial register would have been the prestige variety, with its vocabulary of governance, arcane dominion, and flesh-shaping. This standard likely survives most intact in the *Shen* and *Qiang* dynasty names and in formal compounds like *Mogu'shan* and *Lei Shen*.
+- **Clan dialects** — After the empire's fall, the "Hundred Kings" period and subsequent fragmentation into clans (Shan'ze, Baruk, Dokani, Zan-Tien, Rajani) created conditions for dialectal divergence. Each clan's magical specialization would generate distinct jargons: the *Baruk* (spirit animation) may retain archaic animistic vocabulary; the *Dokani* (blood magic) may have developed euphemistic or ritualized terminology for sacrifice and binding; the *Zan-Tien* (lightning/storm) may preserve Titan-derived elemental terms; the *Shan'ze* (mountain specialists) may retain place-related vocabulary.
+- **Stone vs. flesh mogu** — Stone mogu, never afflicted by the Curse of Flesh, may preserve a more conservative register closer to the Titan substrate. Flesh mogu, with their altered cognition and sensory experience, may have innovated phonologically or lexically. This distinction is entirely unattested but parallels the tol'vir stone/flesh divide.
+- **Zandali contact period** — The Zandalari-Mogu alliance during *Mists of Pandaria* likely introduced Zandali loanwords into the Mogu vocabulary, particularly in military coordination, diplomatic, and religious domains. Names like *Daakara* may reflect this contact layer. Clan dialects with more Zandalari exposure (e.g., those on the Isle of Thunder) would show heavier borrowing.
+
 ## Cultural Context
 
 Mogu culture is built on strength, domination, and mastery of arcane and flesh-shaping magic. This worldview is reflected in the limited vocabulary that survives:

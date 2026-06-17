@@ -6,9 +6,23 @@ Grammar rules below are **inferred from attested examples only**. The Qiraji lan
 
 ### Sound Inventory (Observed from Attested Names)
 
-**Consonants**: b, d, h, j, k, l, m, n, r, s, t, th (/θ/), x (/ks/ or /x/), z, sh (/ʃ/), zh (/ʒ/)
+**Consonants**:
 
-**Vowels**: a, e, i, o, u
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | b | | | t d | | k | |
+| Fricatives | | | θ | s z | ʃ ʒ | x | h |
+| Affricates | | | | | dʒ | | |
+| Nasals | m | | | n | | | |
+| Liquids | | | | l r | | | |
+
+**Vowels**:
+
+| | Front | Central | Back |
+|---|---|---|---|
+| High | i | | u |
+| Mid | e | | o |
+| Low | | a | |
 
 ### Phonological Patterns
 

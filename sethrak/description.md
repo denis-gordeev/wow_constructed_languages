@@ -17,6 +17,16 @@ The Faithless, under Jakra'zet, sought to reclaim Sethraliss's power rather than
 
 The Temple of Sethraliss, a dungeon in Vol'dun, is the most significant Sethrak structure and the site of Sethraliss's resting place.
 
+## Dialectal Variation
+
+No dialectal differences between the Devoted and Faithless are attested in canon. The split is religious and political rather than linguistic, paralleling the Draenei/Man'ari division. However, the conditions for divergence exist:
+
+- **The Devoted** maintain continuity with Sethraliss worship and coexist with Vulpera allies. Their speech would preserve traditional religious vocabulary — terms for Sethraliss, serpent-related ritual language, and honorifics associated with the loa. Vulpera contact may introduce minor loanwords, particularly for trade goods, desert survival, and Vulpera cultural concepts.
+- **The Faithless**, having rejected Sethraliss, plausibly underwent lexical innovation in domains related to domination, conquest, and self-deification. Under Jakra'zet and later Emperor Korgok, the Faithless may have developed new titles and honorifics reflecting their imperial ideology — terms that the Devoted would consider blasphemous. Their enslavement of Vulpera may have produced a simplified command register for issuing orders to non-Sethrak speakers.
+- **Zandali influence** is attested in the apostrophe convention (*Jakra'zet*) and the borrowing of "loa," but the degree of influence likely differs between factions. The Faithless, as an expansionist military power, may have had more sustained contact with Zandalari forces and thus heavier Zandali borrowing. The Devoted, as an isolated religious community, would show less Zandali influence.
+
+If the Faithless held territory for a generation or more before their defeat, the two registers may have drifted toward mutual unintelligibility in specialized domains — particularly theology, military command, and governance — while retaining core communicative competence.
+
 ## Cultural Context
 
 Sethrak culture is organized around two central concepts:

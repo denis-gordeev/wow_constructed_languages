@@ -6,9 +6,26 @@ Grammar rules below are **inferred from attested examples only**. The Nerubian l
 
 ### Sound Inventory (Observed from Attested Names)
 
-**Consonants**: b, d, f, h, j, k, l, m, n, p, r, s, t, th (/θ/), v, x (/ks/ or /x/), z, sh (/ʃ/), zh (/ʒ/)
+**Consonants**
 
-**Vowels**: a, e, i, o, u
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | p b | | | t d | | k ɡ | ʔ |
+| Fricatives | | f v | θ | s z | ʃ ʒ | x* | h |
+| Affricates | | | | | dʒ* | | |
+| Nasals | m | | | n | | | |
+| Liquids | | | | l r | | | |
+| Approximants | | | | | | | |
+
+\* Marginal phoneme
+
+**Vowels**
+
+| | Front | Central | Back |
+|---|---|---|---|
+| High | i | | u |
+| Mid | e | | o |
+| Low | | a | |
 
 ### Key Phonological Discoveries (Official IPA)
 

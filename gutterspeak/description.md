@@ -18,6 +18,16 @@ In WoW lore, Forsaken can still understand and speak Common. However, they never
 
 The RPG (non-canon) reconciles this by stating that Forsaken "have not lost the ability to understand Common, but just never choose to speak it under normal circumstances" (*Horde Player's Guide*). The real-world explanation is that Blizzard introduced Gutterspeak to prevent cross-faction harassment, after Forsaken players in the beta could speak Common and communicate with Alliance characters.
 
+## Dialectal Variation
+
+Gutterspeak's variation is limited because it is fundamentally a Common dialect, but two sociolectal registers can be distinguished:
+
+- **Pre-Forsaken Gutterspeak** — the original black market and rogues' guild register that predates the Forsaken. This was a covert speech variety used for secrecy in underground trade, characterized by Dwarven and Thalassian loanwords for illicit goods, coded references, and deliberate obfuscation. It functioned as an anti-language — a speech variety designed to exclude outsiders and resist comprehension by authority figures.
+- **Forsaken Gutterspeak** — the adopted official language of the Forsaken, layered over the pre-existing underworld register. The Forsaken expanded Gutterspeak from a niche criminal jargon into a communal identity marker. New domains emerged: undeath, plaguecraft, and apothecary work. The **Royal Apothecary Society** likely developed a technical sub-register for alchemical and plague research, potentially drawing on Dwarven scientific vocabulary and Thalassian magical terminology — the two attested non-Common influences on Gutterspeak.
+- **Dark Ranger sociolect** — Dark Rangers, originally high elves raised as undead, may contribute a distinct Thalassian-influenced register to Gutterspeak. Their elven linguistic background could produce heavier Thalassian borrowing than the general Forsaken population, particularly in military and archery terminology.
+
+Beyond these registers, Gutterspeak remains structurally Common. The Forsaken's isolation from the living limits the natural drift that would produce true dialectal divergence, and the absence of any attested unique grammar or phonology confirms that Gutterspeak has not diverged structurally from its Common substrate.
+
 ### Cross-Faction Communication
 
 Since *Legion*, cross-faction communication has become increasingly possible:
@@ -46,6 +56,16 @@ Gutterspeak is described as "a lower form of Common that uses little (very littl
 - **Thalassian**: "Little bits" of Thalassian vocabulary are confirmed to exist in Gutterspeak, though specific borrowings are not attested. This likely reflects the underground trade connections between rogues and elven communities.
 - **Lordaeron Common**: The Forsaken's original dialect, likely a northern or formal register of Common.
 - No other language relationships exist. The Forsaken are linguistically human.
+
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested unique words/phrases | 0 | No unique Gutterspeak words are attested; all Forsaken dialogue is in Common |
+| Confirmed non-Common elements | 2 | "Little bits" of Dwarven and Thalassian (unspecified) |
+| Attested proper names (Forsaken-specific) | 1 | *Dark Lady* (title) |
+| Attested sentences with full glosses | 0 | No Gutterspeak sentences are attested |
+| In-game designation | 1 | "Forsaken" (language name in-game mechanics) |
 
 ## Reliability Notes
 

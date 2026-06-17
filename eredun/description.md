@@ -22,6 +22,20 @@ Eredun predates the Burning Legion. It was the native language of the Eredar on 
 
 Eredun is one of the oldest attested languages in WoW lore, potentially predating the Titan-ordered Azerothian languages by millennia.
 
+## Dialectal Variation
+
+Eredun has undergone two major axes of divergence: the Man'ari–Draenei split (cultural and lexical) and the temporal drift of 25,000 years of separation.
+
+- **Argus Eredun (classical):** The ancestral form spoken on Argus before Sargeras's arrival. All modern varieties descend from this stage. It would have lacked both the fel-magic vocabulary of the Man'ari and the Light/Naaru vocabulary of the Draenei. The name *Mac'Aree* — an ancient region of Argus — likely preserves classical phonology and morphological structure.
+
+- **Man'ari Eredun (corrupted/demonic):** The variety spoken by Archimonde, Kil'jaeden, and their followers after joining the Burning Legion. Fel corruption likely introduced harsh phonological shifts: strengthened gutturals, new consonant clusters for binding incantations, and a rhythmic cadence suited to spellcasting. The Legion's multilingual nature — integrating Eredar, Nathrezim, Shath'Yar speakers, and countless other races — would have introduced loanwords from multiple demonic tongues. Man'ari Eredun may function less as a native language and more as a liturgical and command register within the Legion hierarchy. The term *Man'ari* itself, meaning "wrong/unnatural," is applied by the Draenei as a pejorative; whether the Man'ari use it as a self-designation is unclear.
+
+- **Draenei variety:** See the Draenei description for full analysis. Key differences from Man'ari Eredun include religious vocabulary centered on the Light and Naaru, possible softening of guttural consonants over millennia of separation, and loss of fel-magic terminology.
+
+- **Warlock register:** Mortal warlocks who study Eredun for spellcasting likely learn a highly specialized subset — binding formulae, summoning words, and incantation fragments — rather than the full language. This "Warlock Eredun" may preserve archaic Man'ari forms in fossilized ritual use while lacking the grammar for everyday communication.
+
+The Man'ari and Draenei varieties are likely mutually intelligible at the lexical core but divergent enough that fluent conversation would require accommodation, analogous to speakers of closely related but long-separated Semitic languages.
+
 ## Relationship to Draenei
 
 Eredun and Draenei are the **same language** with cultural and lexical divergence. The Draenei fled Argus approximately 25,000 years before the First War. After 25 millennia of separation:

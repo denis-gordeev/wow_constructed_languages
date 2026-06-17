@@ -6,9 +6,22 @@ Grammar rules below are **inferred from attested examples only**. The Earthen la
 
 ### Sound Inventory (Observed from Attested Names)
 
-**Consonants**: b, d, f, g, h, k, l, m, n, r, s, t, th (/θ/), v, z
+**Consonants**:
 
-**Vowels**: a, e, i, o, u
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | b | | | t d | | k ɡ | |
+| Fricatives | | f v | θ | s z | | | h |
+| Nasals | m | | | n | | | |
+| Liquids | | | | l r | | | |
+
+**Vowels**:
+
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | u |
+| Close-mid | e | | o |
+| Open | | a | |
 
 ### Phonological Patterns
 

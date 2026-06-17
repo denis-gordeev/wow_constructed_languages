@@ -21,6 +21,19 @@ The Earthen of Khaz Algar were isolated from their Eastern Kingdoms kin for mill
 
 The discovery of Khaz Algar by surface-dwellers during *The War Within* brings the Earthen into contact with their Dwarven descendants for the first time in recorded history.
 
+## Dialectal Variation
+
+No distinct Earthen dialects are attested in canon, but the four cultural wards — Stormriders, Oathsworn, Unbound, and Machine Speakers — have been socially segregated for millennia, providing strong conditions for dialectal divergence. Each ward's specialized role would plausibly generate distinct registers:
+
+- **Stormriders** likely retain a military register with specialized vocabulary for combat, weather phenomena, and stormrook husbandry. Their leadership structure (Stormward) may preserve archaic Titan command morphemes.
+- **Oathsworn**, as strict adherents to Titan edicts, would conservatively retain the most Titan-derived vocabulary — particularly ceremonial, legal, and theological terms. Their register may be the closest to proto-Earthen.
+- **Unbound**, having rejected Titan authority, plausibly innovated new vocabulary for concepts like freedom, self-determination, and autonomy. Their register may show the most lexical divergence from the Titan substrate, potentially borrowing from contact with surface-dwellers or developing novel metaphorical extensions.
+- **Machine Speakers** would develop a technical jargon for Titan machinery maintenance, with vocabulary bridging organic healing and mechanical repair. Their register may preserve archaic Titan technological terms lost to other wards.
+
+The **Skardyn**, corrupted by void magic, represent a catastrophic case of language loss rather than dialectal divergence. If they retain any linguistic capacity, it would be a severely degraded form — possibly reduced to fragmented Titan morphemes or void-corrupted vocalizations bearing no resemblance to structured Earthen speech.
+
+The millennia of isolation from Dwarves means Earthen has no significant Common or Dwarven influence, unlike what mutual contact might produce.
+
 ## Cultural Context
 
 - Earthen culture is organized around four "wards" — military, civic, independent, and technological — each with a designated leader
@@ -38,6 +51,17 @@ The discovery of Khaz Algar by surface-dwellers during *The War Within* brings t
 - **Gnomish**: Both Earthen (via Dwarven) and Gnomish descend from Titan-forged, but through different creators (Khaz'goroth vs. Mimiron). No direct morpheme sharing is attested.
 - **Common**: Common descends from Vrykul, which descends from Titan — making it a "cousin" language to Earthen through the Titan family. The *-dar* suffix in Hallowfall place names (*Beledar*, *Mereldar*) may reflect Earthen influence on Common/Arathi naming.
 - **Arathi (Common variant)**: The Arathi of Hallowfall speak a dialect of Common, but their place names (*Beledar*, *Mereldar*) preserve the *-dar* suffix that likely derives from Earthen *-dar* ← Titan *-dor*. The Arathi personal names (*Faerin*, *Vaelisia*, *Aelric*) show mixed human and Elven phonological influences, reflecting their mixed human–high-elf heritage.
+
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested personal names | ~6+ | *Baelgrim*, *Adelgonn*, *Merrix*, *Eirich*, *Lufsela*, *Brinthe* |
+| Attested place names | ~5+ | *The Ringing Deeps*, *Hallowfall*, *Beledar*, *Mereldar*, *Iskaara* |
+| Confirmed morphemes | 0 | No Earthen morpheme has independent confirmation |
+| Inferred morphemes | 3 | *Bael-* (stone/fortress), *-dar* (place suffix, possibly from Titan *-dor*), *-grim* (personal name suffix) |
+| Attested phrases with translations | 0 | No Earthen phrases have confirmed translations |
+| Attested sentences with full glosses | 0 | No Earthen sentences are attested |
 
 ## Reliability Notes
 

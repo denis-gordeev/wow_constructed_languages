@@ -18,6 +18,17 @@ In *Battle for Azeroth* (patch 8.3), a fourth tribe — the Amathet — emerged 
 
 A separate population of northern tol'vir was enslaved by the aqir and later the nerubians. These "obsidian destroyers" served the Scourge and appeared in Warcraft III before their connection to the tol'vir was revealed in Cataclysm.
 
+## Dialectal Variation
+
+No distinct tol'vir dialects are attested in canon, but the deep political and ideological divisions among the four tribes create conditions for significant dialectal divergence:
+
+- **Ramkahen** represents the conservative standard — flesh-affected tol'vir who maintained their Titan custodial mission and diplomatic ties to outsiders. Their dialect would retain the most standardized form of the language, potentially preserving pharaonic and ceremonial registers from the Tahret dynasty. Contact with outsiders (Brann Bronzebeard, adventurers, the Uldum Accord) may introduce Common loanwords.
+- **Neferset** accepted Deathwing's pact and regained stone forms through dark magic. Their isolation under Al'Akir's protection and corruption by N'Zoth's forces likely produced a divergent register with vocabulary related to shadow, corruption, and elemental binding. The title "Dark Pharaoh" (*Tekahn*) itself may reflect a Neferset-specific lexical innovation distinguishing their pharaonic authority from the Ramkahen tradition.
+- **Orsis** was nearly annihilated and buried beneath the sands. A surviving dialect, if any speakers remain, would be a critically endangered variety — potentially fossilized at the point of destruction, preserving an older form of the language with no subsequent innovation. Orsis speech may represent the closest approximation to pre-Cataclysm tol'vir.
+- **Amathet** present the most dramatic case: stone tol'vir who slept through the Curse of Flesh and millennia of cultural change. Their dialect would be essentially a time capsule of pre-Flesh tol'vir — potentially closer to the original Titan-derived language than any flesh-affected variety. Their solar magic vocabulary (*Nahkotep*, Suntouched caste) may preserve Titan technical terms that flesh tol'vir lost.
+
+The **northern tol'vir** (obsidian destroyers), enslaved by aqir and later the Scourge, would represent an entirely separate linguistic trajectory — potentially a creolized form with significant aqir/nerubian substrate influence, or near-total language replacement.
+
 ## Tribes
 
 Four tol'vir tribes are attested:

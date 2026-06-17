@@ -6,21 +6,56 @@
 
 Murloc names are built from a restricted consonant inventory with heavy use of syllabic consonants and reduplication:
 
-**Consonant Inventory**: /m/, /g/, /r/, /l/, /b/, /k/
+**Consonant Inventory**:
+
+| | Bilabial | Alveolar | Velar | Glottal |
+|---|---|---|---|---|
+| Stops | b | | k g | |
+| Fricatives | | | | |
+| Nasals | m | | | |
+| Liquids | | r l | | |
 
 No complex consonant clusters from non-guttural consonants appear. Names are overwhelmingly gurgling compounds built from *mrgl-*, *glrgl-*, *mrg-* sequences.
 
 **Syllable Structure**: Syllabic consonants dominate; no clear CV/CVC patterns. Names consist of 1–4 "beats" (e.g., *mrgl-glr*).
 
-**Vowel Inventory**: Restricted; mostly /ɜ/, /ʌ/ inferred from orthography. Vowels are largely absent from murloc proper names.
+**Vowel Inventory**:
+
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | | | |
+| Close-mid | | | |
+| Open-mid | | ɜ | ʌ |
+| Open | | | |
+
+Restricted; mostly /ɜ/, /ʌ/ inferred from orthography. Vowels are largely absent from murloc proper names.
 
 ### Jinyu Phonology (Post-Evolution)
 
 Jinyu naming shows a **dramatic shift** from Nerglish gurgling patterns:
 
-**Consonant Inventory**: Full inventory including /ʃ/ (Shushen, Shai), /tʃ/ (implied by orthographic patterns), plus the murloc inventory
+**Consonant Inventory**:
 
-**Vowel Inventory**: Full /a e i o u/ — all appear freely (vs. Nerglish's vowel-poor gurgling)
+| | Bilabial | Alveolar | Post-alveolar | Velar | Glottal |
+|---|---|---|---|---|---|
+| Stops | b | | | k g | |
+| Fricatives | | | ʃ | | |
+| Affricates | | | tʃ | | |
+| Nasals | m | | | | |
+| Liquids | | r l | | | |
+
+Full inventory including /ʃ/ (Shushen, Shai), /tʃ/ (implied by orthographic patterns), plus the murloc inventory
+
+**Vowel Inventory**:
+
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | u |
+| Close-mid | e | | o |
+| Open-mid | | | |
+| Open | a | | |
+
+Full /a e i o u/ — all appear freely (vs. Nerglish's vowel-poor gurgling)
 
 **Syllable Structure**: Full CV and CVC syllables (vs. Nerglish's syllabic consonants). Names range from 2–5 syllables.
 

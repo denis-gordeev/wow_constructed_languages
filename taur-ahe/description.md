@@ -10,6 +10,20 @@ The Tauren are an ancient people with an oral tradition stretching back thousand
 
 Taur-ahe has many different forms and dialects, all differing based on tribe and location (confirmed — *Traveler*, pg. 54).
 
+## Dialectal Variation
+
+Canon confirms that Taur-ahe has many different forms differing by tribe and location (*Traveler*, pg. 54). The major tribal divisions — Bloodhoof, Grimtotem, Highmountain, and Yaungol — provide the primary axes of dialectal variation.
+
+- **Bloodhoof (Mulgore / Thunder Bluff):** The prestige dialect and the variety most outsiders encounter. As the political and spiritual center of Tauren civilization, Thunder Bluff would standardize this form. Names like *Cairne*, *Baine*, and *Hamuul* represent the mainstream naming tradition. Religious vocabulary centered on the Earth Mother, An'she, and Mu'sha is fully developed in this dialect.
+
+- **Grimtotem:** The Grimtotem tribe's isolationist stance under Magatha Grimtotem likely produced a conservative dialect preserving older forms lost in Mulgore. Their hostility toward outsiders would limit loanword adoption. The Grimtotem's darker shamanistic practices may have developed specialized vocabulary for spirit-binding and curses absent from the Bloodhoof register. The name *Magatha* itself, with its geminate consonant, may reflect a phonological feature more common in Grimtotem speech.
+
+- **Highmountain:** Separated from Kalimdor Tauren for millennia, the Highmountain tribe of the Broken Isles would have diverged significantly. Contact with Nightborne and Highmountain's distinct ecology — alpine rather than plains — would introduce different vocabulary for terrain, weather, and flora. Names like *Mayla* and *Ulan* suggest possible phonological softening or different stress patterns. The Highmountain also preserved the Huln Highmountain myth-cycle, which may retain archaic Taur-ahe forms.
+
+- **Yaungol / Wandering Isle:** The Yaungol of Townlong Steppes on Pandaria represent a Tauren population separated since before the Sundering. Their language may be closer to Proto-Tauren than any Kalimdor variety. Yaungol names (e.g., *Osul*) suggest different phonological conventions. The Wandering Isle pandaren contact would have introduced Pandaren loanwords. If Yaungol and standard Taur-ahe share mutual intelligibility at all, it would be limited — comparable to the gap between Old English and Modern English.
+
+The confirmed existence of "many different forms" suggests that even within Kalimdor, minor tribal dialects (Winterhoof, Skychaser, Dawnstrider) may show lexical and phonological micro-variation.
+
 ## Writing System
 
 Taur-ahe is at least partially written using pictograms (confirmed — The Writ of History, a tauren artifact). No alphabetic or syllabic script is attested.

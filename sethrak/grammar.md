@@ -63,11 +63,13 @@ No data available.
 
 Based on attested proper names, Sethrak consonants likely include:
 
-- **Stops**: /k/, /g/, /t/, /p/, /b/ (the latter from *Aspix* /b/ uncertain)
-- **Fricatives**: /s/, /θ/ (th in *Sethrak*, *Korthek*, *Merektha*), /v/, /z/
-- **Nasals**: /m/, /n/
-- **Liquids**: /r/, /l/
-- **Affricates**: /dʒ/ (in *Jakra'zet*)
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | p b | | | t | | k g | |
+| Fricatives | | v | θ | s z | | | |
+| Affricates | | | | | dʒ | | |
+| Nasals | m | | | n | | | |
+| Liquids | | | | r l | | | |
 
 The fricative /θ/ is notably frequent, appearing in three of eight personal names (*Sethrak*, *Korthek*, *Merektha*) and in the ethnonym and loa name (*Sethraliss*). This may reflect a phonological preference or a semantic association with serpent-related vocabulary.
 
@@ -83,7 +85,13 @@ Clusters are less complex than in Draenei. The most common cluster involves /θ/
 
 ### Vowel Inventory
 
-Observed vowels include /a/, /e/, /i/, /o/. The vowel /u/ is absent from attested forms but may exist in unattested vocabulary. Vowel quality in stressed vs. unstressed positions is unknown.
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | |
+| Close-mid | e | | o |
+| Open | a | | |
+
+The vowel /u/ is absent from attested forms but may exist in unattested vocabulary. Vowel quality in stressed vs. unstressed positions is unknown.
 
 ### Stress
 

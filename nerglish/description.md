@@ -31,6 +31,17 @@ The ankoan represent a moderate simplification from jinyu, with shorter names an
 
 The kobyss represent the only known case of **linguistic regression** in WoW. While the murloc → jinyu transition was driven by magical enhancement, the ankoan → kobyss transition appears driven by environmental and cultural factors (Undersea isolation, Void corruption, cultural degeneration from millennial warfare with naga).
 
+## Dialectal Variation
+
+The Nerglish family presents a unique case where dialectal variation is inseparable from evolutionary divergence — each "dialect" is actually a separate language at a different point on the complexity spectrum:
+
+- **Murloc Nerglish** is the ancestral form, characterized by syllabic consonants, gurgling phonology, and apparent absence of complex morphology. The Winterfin murlocs of Borean Tundra speak a dialect "different enough to be mutually unintelligible" with standard Nerglish, confirming significant dialectal variation *within* the murloc stage. This suggests that geographically isolated murloc tribes develop mutually unintelligible dialects rapidly, consistent with oral-only transmission in small, territorial communities.
+- **Jinyu** represents a radical evolutionary leap rather than gradual dialectal drift — the Vale of Eternal Blossoms' magic catalyzed a complete phonological transformation, introducing full vowel inventories, CV/CVC syllable structure, and complex proper names (*Karasshi*, *Sele'na*). Jinyu is likely not mutually intelligible with any murloc dialect despite genetic descent. The apostrophe in names like *Sele'na* and *Izissha* suggests morpheme boundaries absent in murloc speech.
+- **Ankoan** is a jinyu offshoot showing moderate simplification — shorter names (*Okani*, *Inowari*, *Ori*), no apostrophe usage, and possible loss of jinyu morphological complexity. The departure from Pandaria to the deep ocean and millennial warfare with naga may have driven streamlined communication, favoring brevity over morphological richness.
+- **Kobyss** represents near-total language loss — the only attested case of linguistic regression in WoW. Retaining only 3–5 Common words related to violence ("Animate bones," "Devour," "Violence"), the kobyss have effectively abandoned their ancestral language entirely. This is not dialectal variation but linguistic extinction, driven by Void corruption, Undersea isolation, and cultural degeneration.
+
+The trajectory — murloc (simple) → jinyu (complex) → ankoan (moderate) → kobyss (near-zero) — reveals that magical intervention can radically expand linguistic capacity, but environmental and cultural degradation can erase it entirely.
+
 ## Cultural Context
 
 - Murlocs are fiercely territorial and tribal, with clan identity expressed through Nerglish vocalizations

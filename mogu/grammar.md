@@ -119,14 +119,17 @@ No data available.
 
 ### Consonant Inventory
 
-Based on attested forms, Mogu consonants include:
+Based on attested forms, the Mogu consonant inventory is as follows:
 
-- **Stops**: /p/, /b/, /t/, /d/, /k/, /g/
-- **Affricates**: /tʃ/ (Qiang, Qin-xi), /dʒ/ (Jan-xi)
-- **Fricatives**: /f/ (Feng), /ʃ/ (Shen, Shan, Xin), /z/ (Zian, Zan-Tien), /θ/ (Molthor)
-- **Nasals**: /m/, /n/
-- **Liquids**: /r/, /l/
-- **Glottal**: /ʔ/ (possible, suggested by apostrophe in Mogu'shan, Shan'ze, Lu'lin)
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | p b | | | t d | | k g | ʔ |
+| Fricatives | | f | θ | z | ʃ | | |
+| Affricates | | | | | tʃ dʒ | | |
+| Nasals | m | | | n | | | |
+| Liquids | | | | l r | | | |
+
+/ʔ/ is possible, suggested by the apostrophe in *Mogu'shan*, *Shan'ze*, *Lu'lin*.
 
 ### Consonant Clusters
 
@@ -139,10 +142,15 @@ Observed syllable structures tend toward (C)V(C) — simple open or lightly clos
 
 ### Vowel Inventory
 
-Observed vowels include /a/, /e/, /i/, /o/, /u/. Possible diphthongs:
+| | Front | Central | Back |
+|---|---|---|---|
+| High | i | | u |
+| Near-high | ɪ | | |
+| Close-mid | e | | o |
+| Open-mid | ɛ | | |
+| Low | | a | |
 
-- *Lei*: /eɪ/
-- *Subetai*, *Kuai*, *Wai*: /aɪ/
+Possible diphthongs: /eɪ/ (*Lei*), /aɪ/ (*Subetai*, *Kuai*, *Wai*).
 
 The vowels in *Feng* (/ɛ/) and *Ming* (/ɪ/) suggest that vowel quality may distinguish meaning in monosyllabic words, consistent with an isolating language typology.
 

@@ -12,6 +12,20 @@ After a long journey across worlds, the Draenei settled on a planet they named *
 
 The Draenei later crashed on Azeroth aboard *The Exodar* (a wing of the naaru vessel *Tempest Keep*) and joined the Alliance. During the Legion expansion, the Draenei returned to Argus aboard the *Vindicaar*.
 
+## Dialectal Variation
+
+The Draenei have experienced multiple population separations over 25,000 years, creating conditions for significant dialectal variation, though no specific dialects are attested in canon beyond the Draenei–Eredun split.
+
+- **Exodar Draenei:** The most widely encountered variety, spoken by the Draenei who crashed on Azeroth. Extended contact with Alliance races — particularly humans and night elves — may have introduced Common loanwords for Azerothian concepts. This variety likely serves as the contemporary standard.
+
+- **Outland / Auchindoun Draenei:** Draenei who survived on Draenor/Outland for centuries experienced different linguistic pressures. Proximity to Orcish societies during and after the Horde wars may have left Orcish substratal influence. The Krokul (Broken Ones), devolved by fel energy, may speak a distinct sociolect — simplified grammar or altered phonology due to physical changes in vocal tract morphology, alongside vocabulary related to survival and displacement. The self-designation *Krokul* ("Broken") itself marks a linguistic and social boundary.
+
+- **Lightforged Draenei:** Millennia aboard the *Xenedar* in constant warfare against the Legion would have preserved Argus-era vocabulary lost to other populations, while developing specialized military and Light-infused terminology. Their liturgical register may approximate older Eredun forms more closely than the Exodar variety. Names like *Xe'ra* and *Turalyon* (a human, but integrated) suggest a naming convention influenced by prolonged Naaru communion.
+
+- **Argus-era Eredun (ancestral):** The language spoken on Argus before the split. Modern Draenei varieties likely retain its core morphological patterns (*draen*, *ei*, *or*) but have diverged phonologically and lexically. Reconstructed Argus Eredun would differ from all modern varieties much as Proto-Germanic differs from modern Germanic languages.
+
+Mutual intelligibility among the three Draenei populations is probable but not guaranteed; the Lightforged and Outland varieties may require conscious accommodation to communicate fluently with Exodar speakers.
+
 ## Relationship to Eredar
 
 Draenei is essentially the same language as Eredar. The split between Draenei and Man'ari Eredar is cultural and religious, not linguistic. The Draenei use the term *Man'ari* ("wrong/unnatural/corrupt/damned") to refer to the Eredar who accepted demonic corruption, and this term itself is a Draenei/Eredar word. Place names on Argus and Draenor share morphological patterns (e.g., the *-or* toponymic suffix in *Draenor*, possibly *Telredor*).

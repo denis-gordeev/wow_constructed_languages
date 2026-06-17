@@ -49,6 +49,17 @@ Key historical events affecting the language:
 - The "Gol-" prefix in place names likely uses a hard /g/ (as in "go"), consistent with Vrykul phonology.
 - Drust names contain phonemes not typical of Vrykul (e.g., the "th" in "Thros," the "zh" in "Zhar"), suggesting sound changes from the parent language.
 
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested personal names | ~8+ | *Gorak Tul*, *Gorak Zhar*, *Ulfar*, *Kivarr*, *Sef Iwen*, *Thros* |
+| Attested place names | ~5+ | *Gol Osigr*, *Gol Inath*, *Gol Koval*, *Gol Var*, *Drustvar* |
+| Confirmed morphemes | 0 | No Drust morpheme has independent confirmation |
+| Inferred morphemes | 3 | *Gol-* (settlement/place prefix), *Gorak-* (title/name element), *-var* (land/home suffix) |
+| Attested phrases with translations | 0 | No Drust phrases have confirmed translations |
+| Attested sentences with full glosses | 0 | No Drust sentences are attested |
+
 ## Reliability Notes
 
 - **Extremely low attestation for the Drust language proper.** No complete Drust-language phrases with translations have been identified in canon. The Drust speak Common in-game (for gameplay reasons), and any Drust-specific dialogue is rendered in Common.

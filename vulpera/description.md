@@ -14,6 +14,15 @@ The Vulpera have inhabited the deserts of Vol'dun for an unknown period. Their n
 - **Sethrak persecution:** The faithless Sethrak (snake people) persecuted the Vulpera in Vol'dun, driving them from their homes. This conflict defines much of their modern identity and may have influenced their language through Sethrak loanwords or avoidance of Sethrak terms.
 - **Horde alliance:** The Vulpera joined the Horde after being aided by Horde adventurers in Vol'dun. This contact has not produced visible linguistic borrowing in the attested corpus.
 
+## Dialectal Variation
+
+No Vulpera dialects are attested in canon. However, the Vulpera's nomadic caravan-based lifestyle creates strong conditions for dialectal divergence.
+
+- **Caravan lects:** The Vulpera are organized into independent caravans that traverse the deserts of Vol'dun. Each caravan is a self-contained social unit with its own trading routes, contacts, and oral traditions. In a real-world analog, such nomadic groups typically develop distinct lexical inventories — specialized trade jargon, unique names for desert features along their specific routes, and caravan-specific idioms. The attested personal names (*Kiro*, *Nisha*, *Meera*, *Gaz*, *Serka*) show too little phonological variation to identify caravan-specific patterns.
+- **Sethrak contact variation:** Caravans that traded with (or were persecuted by) the faithless Sethrak may have absorbed Sethrak loanwords, while more isolated caravans would retain a purer Vulpera lexicon. Caravans that interacted with the sethrak loa-worshippers (the devotees of Sethraliss) may preserve a religious vocabulary absent from other groups.
+- **Horde contact lect:** Vulpera who joined the Horde are in regular contact with Orcish, Zandali, and Common speakers. A distinct "Horde Vulpera" sociolect may be emerging, incorporating Horde military terminology and trade vocabulary from Orcish and Zandali. This would parallel real-world situations where nomadic groups in military alliances develop bilingual mixed codes.
+- **The attestation problem:** With only six proper names available, no dialectal analysis is possible. The absence of any Vulpera-language dialogue in-game means that any dialectal claims are entirely hypothetical.
+
 ## Cultural Context
 
 - **Nomadic tradition:** The Vulpera are caravan traders and desert survivalists. Their culture emphasizes resourcefulness, trade, and communal support.

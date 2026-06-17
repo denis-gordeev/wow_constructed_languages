@@ -64,27 +64,31 @@ No data available.
 
 ### Consonant Inventory
 
-Based on attested forms, Draenei consonants include:
-
-- **Stops**: /d/, /k/, /g/, /t/, /b/, /p/
-- **Fricatives**: /s/, /sh/ (ʃ), /th/ (θ or ð), /f/, /kh/ (x?)
-- **Nasals**: /m/, /n/
-- **Liquids**: /r/, /l/
-- **Glottal**: /ʔ/ (suggested by apostrophe usage)
-
-### Consonant Clusters
-
-Draenei permits complex consonant clusters, particularly in medial and final positions:
-
-- *Shattrath*: /ʃtr/, /θr/
-- *Auchindoun*: /xtʃ/, /nd/
-- *Krokul*: /kr/
-
-This suggests a syllable structure permitting onsets of up to three consonants.
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | p b | | | t d | | k g | |
+| Fricatives | | f | θ/ð | s | ʃ | x | |
+| Nasals | m | | | n | | | |
+| Liquids | | | | l r | | | |
+| Approximants/Glottal | | | | | | | ʔ |
 
 ### Vowel Inventory
 
-Observed vowels include /a/, /e/, /i/, /o/, /u/. Diphthongs may be present (e.g., the *ai* in *Man'ari*, the *ou* in *Auchindoun*).
+| | Front | Central | Back |
+|---|---|---|---|
+| High | i | | u |
+| Mid | e | | o |
+| Low | | a | |
+
+Diphthongs may be present (e.g., the *ai* in *Man'ari*, the *ou* in *Auchindoun*).
+
+### Consonant Clusters
+
+1. Draenei permits complex consonant clusters, particularly in medial and final positions:
+   - *Shattrath*: /ʃtr/, /θr/
+   - *Auchindoun*: /xtʃ/, /nd/
+   - *Krokul*: /kr/
+2. This suggests a syllable structure permitting onsets of up to three consonants.
 
 ### Stress
 
@@ -92,9 +96,9 @@ No data available. Place names with heavy final syllables (e.g., *Auchindoun*, *
 
 ### Phonotactic Notes
 
-- Guttural or back-of-the-mouth consonants are frequent: /k/, /g/, /kh/, /x/. This gives Draenei a perceived harsh or resonant quality.
-- The sequence /sha/ appears in multiple words related to light (*Sha'tar*, *Shattrath*), suggesting it may be a phonologically stable root.
-- The apostrophe may represent a glottal stop /ʔ/, which would create a phonotactic boundary between vowels or vowel-initial and consonant-final morphemes.
+3. Guttural or back-of-the-mouth consonants are frequent: /k/, /g/, /kh/, /x/. This gives Draenei a perceived harsh or resonant quality.
+4. The sequence /sha/ appears in multiple words related to light (*Sha'tar*, *Shattrath*), suggesting it may be a phonologically stable root.
+5. The apostrophe may represent a glottal stop /ʔ/, which would create a phonotactic boundary between vowels or vowel-initial and consonant-final morphemes.
 
 ## Summary of Confidence
 

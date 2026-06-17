@@ -140,12 +140,16 @@ The *Grimoire of the Shadowlands and Beyond* (pg. 154) confirms that Titan uses 
 
 Based on attested forms, Titan consonants include:
 
-- **Stops**: /p/, /b/, /t/, /d/, /k/, /g/
-- **Fricatives**: /f/, /v/, /θ/, /ð/, /s/, /z/, /ʃ/, /h/
-- **Affricates**: /tʃ/ (possible in some names)
-- **Nasals**: /m/, /n/
-- **Liquids**: /r/, /l/
-- **Glottal**: /ʔ/ (possible, suggested by apostrophe in many names)
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | p b | | | t d | | k g | ʔ |
+| Fricatives | | f v | θ ð | s z | ʃ | | h |
+| Affricates | | | | | tʃ | | |
+| Nasals | m | | | n | | | |
+| Liquids | | | | r l | | | |
+| Approximants | | | | | | | |
+
+Note: /ʔ/ is suggested by apostrophe usage in many names; /tʃ/ is possible in some names.
 
 ### Consonant Clusters
 
@@ -162,8 +166,15 @@ The complexity of these clusters is consistent with a language designed for bein
 
 Full cardinal vowel set is attested: /a/, /e/, /i/, /o/, /u/. Possible additional vowels:
 
-- /æ/ (in names like *Aggramar*, *Kalimdor*)
-- /ʌ/ (in *Uldaman*, *Uldum*)
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | u |
+| Close-mid | e | | o |
+| Open-mid | | | ʌ |
+| Near-open | æ | | |
+| Open | | a | |
+
+Note: /æ/ is attested in names like *Aggramar*, *Kalimdor*; /ʌ/ in *Uldaman*, *Uldum*.
 
 ### Syllable Structure
 

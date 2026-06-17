@@ -18,6 +18,15 @@ The Pandaren have a civilization stretching back thousands of years on the conti
 - **Zandalari invasions:** The Zandalari trolls invaded Pandaria multiple times, potentially introducing Zandali loanwords.
 - **Alliance/Horde contact (Mists of Pandaria):** Modern contact with Common/Orcish speakers has not produced visible linguistic borrowing in the attested corpus.
 
+## Dialectal Variation
+
+No Pandaren dialects are explicitly attested in canon, but the historical and geographic circumstances of Pandaren civilization strongly imply variation.
+
+- **Wandering Isle vs. Pandaria:** The most significant dialectal split would be between the Pandaren of Shen-zin Su and those of Pandaria proper, separated for approximately 10,000 years by the Mists. The Wandering Isle Pandaren likely preserve archaic forms of the language that have since evolved or been lost on the mainland. The name *Shen-zin Su* itself may reflect an older phonological stage, as mainland Pandaren place names show different morphological patterns.
+- **Regional variation within Pandaria:** Pandaria's diverse regions — the Jade Forest, Valley of the Four Winds, Kun-Lai Summit, Townlong Steppes, Dread Wastes, and the Vale of Eternal Blossoms — each have distinct cultural traditions and would plausibly support regional lexical and phonological variation. However, no regional linguistic markers are attested in the corpus.
+- **Mogu substrate influence:** During the millennia of Mogu enslavement, the Pandaren may have developed a sociolect influenced by Mogu vocabulary and phonology. Post-revolution Pandaren may have purged overt Mogu elements while retaining substrate traces in toponyms and specialized vocabulary (e.g., terms related to mining, construction, or servitude).
+- **Tushui vs. Huojin:** The philosophical split between contemplation (*Tushui*) and action (*Huojin*) is not a dialectal difference per se, but the two factions' association with the Alliance and Horde respectively may eventually produce contact-induced divergence, particularly in vocabulary borrowed from Common or Orcish.
+
 ## Cultural Context
 
 Pandaren culture is deeply philosophical, emphasizing balance, inner peace, and harmony with nature. This is reflected in the little vocabulary that exists:

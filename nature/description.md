@@ -14,6 +14,18 @@ Druids in World of Warcraft come from multiple races and speak their native lang
 - **Troll druids** (not playable but exist in lore, e.g., Zandalari druids) speak Zandali and commune with loa rather than "nature" in the druidic sense.
 - **Other druids** (Highmountain tauren, Kul Tiran drustvar, etc.) have their own cultural traditions but no attested distinct language.
 
+## Dialectal Variation
+
+Since druidic communication is not a distinct language but rather nature-oriented vocabulary embedded within each speaker's native tongue, "dialectal variation" here refers to differences in how each druidic tradition conceptualizes and verbalizes the natural world:
+
+- **Cenarion Circle tradition** (Night Elf) — the dominant druidic tradition, expressed through Darnassian vocabulary (*Shan'do*, *Thero'shan*, *Falah*, *Tel*). This tradition emphasizes Elune worship, the Emerald Dream, and balance between cosmic forces. Its vocabulary is the best-attested and serves as the de facto standard for druidic discourse.
+- **Tauren tradition** (Taur-ahe) — conceptualizes nature through the lens of the Earth Mother and her eyes (*Mu'sha* = Moon, *An'she* = Sun). The sun-moon duality is absent from Night Elf druidism, which centers on Elune alone. Tauren druidic vocabulary reflects a more animistic worldview where natural forces are personified as family relationships rather than abstract principles.
+- **Harvest-witch tradition** (Gilnean worgen) — a folk tradition predating Cenarion training, rooted in agricultural magic and seasonal cycles. Harvest witches may have used archaic Common terms for nature concepts that differ fundamentally from Darnassian or Taur-ahe frameworks, but no attested vocabulary survives.
+- **Thornspeaker tradition** (Kul Tiran drustvar) — descended from Drust druidism, blending nature magic with death and decay. Thornspeakers may use vocabulary reflecting the boundary between growth and rot that has no equivalent in Cenarion tradition, potentially preserving Drust-language terms.
+- **Darkheart tradition** — if any druidic practice touches shadow and corruption, its vocabulary would invert or subvert standard druidic terms, conceptualizing decay as a natural cycle rather than an aberration.
+
+These traditions are mutually unintelligible at the lexical level — a Tauren druid's *Mu'sha* and a Night Elf druid's *Elune* refer to the same lunar deity through radically different conceptual frames, illustrating that druidic "dialects" are fundamentally translations rather than variations of a single language.
+
 ## The Emerald Dream
 
 The Emerald Dream is a parallel realm of pure nature, a blueprint of Azeroth as the Titans intended it. It is home to:

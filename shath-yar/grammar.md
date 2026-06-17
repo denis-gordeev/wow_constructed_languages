@@ -2,15 +2,37 @@
 
 ## Phonology
 
-- Dominated by guttural, whispering, alien sounds as described in lore
-- Heavy use of apostrophes marking glottal stops or morpheme boundaries (inferred)
-- Common phonotactic patterns:
-  - C'CVC (e.g., N'Zoth, C'Thun, K'thir)
-  - C'VCVC (e.g., N'raqi, Y'Shaarj)
-  - CCVCC (e.g., Il'gynoth)
-- Initial consonant clusters and apostrophes suggest non-human vocal anatomy (inferred)
-- Sibilant clusters appear (Ssra'thik, fhssh) suggesting whisper-like articulation
-- Vowels are predominantly a, i, o, u; e is rare or absent in attested forms
+### Consonant Inventory
+
+| | Bilabial | Alveolar | Postalveolar | Velar | Uvular | Glottal |
+|---|---|---|---|---|---|---|
+| Stops | | t | | k ɡ | q | ʔ |
+| Fricatives | f v | s z θ | ʃ | | | h |
+| Affricates | | | dʒ | | | |
+| Nasals | m | n | | | | |
+| Liquids | | l r | | | | |
+| Approximants | w | | j | | | |
+
+### Vowel Inventory
+
+| | Front | Back |
+|---|---|---|
+| Close | i | u |
+| Close-mid | | o |
+| Open | a | |
+
+/e/ is rare or absent from the attested corpus.
+
+### Phonological Patterns
+
+1. **Glottal stop insertion**: The apostrophe consistently marks /ʔ/, producing CʔV sequences that fragment consonant clusters (N'Zoth, C'Thun, K'thir, N'raqi, Y'Shaarj, Il'gynoth, Shath'Yar, Ssra'thik, uhn'agth)
+2. **CʔCVC template**: A dominant pattern where a consonant-glottal stop onset precedes a CVC core, producing the language's characteristic stuttering rhythm (N'Zoth /nʔzoθ/, C'Thun /kʔθun/, K'thir /kʔθir/)
+3. **Extended CʔVCVC pattern**: Longer words expand the core with additional syllables (N'raqi /nʔraqi/, Y'Shaarj /jʔʃaːrdʒ/)
+4. **Sibilant reinforcement**: Geminated or clustered sibilants (Ssra'thik /sːraʔθik/, fhssh /fʃː/) indicate prolonged articulation consistent with whispered or hissed speech
+5. **Vowel distribution**: /a/ is the most frequent vowel; /i/ and /o/ are moderately common; /u/ is less frequent; /e/ is rare or absent
+6. **Interdental prevalence**: /θ/ appears in over half of attested forms (C'Thun, K'thir, Shath, Il'gynoth, Ssra'thik, Iilth, uhn'agth), a hallmark of the language's whispered quality
+7. **Uvular stops**: /q/ appears in multiple roots (Ywaq, maq, N'raqi), a typologically marked feature reinforcing the non-human phonological profile
+8. **Non-human vocal anatomy**: Initial clusters (vw-, ss-, fh-) and complex codas (-gth, -ssh) exceed typical human syllable constraints, suggesting tentacular or multi-valved vocal apparatus
 
 ## Morphology
 

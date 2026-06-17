@@ -6,9 +6,23 @@ Grammar rules below are **inferred from attested examples only**. The Ethereal l
 
 ### Sound Inventory (Observed from Attested Names)
 
-**Consonants**: b, d, f, h, j, k, l, m, n, r, s, sh (/ʃ/), t, v, z, zh (/ʒ/)
+**Consonants**
 
-**Vowels**: a, e, i, o, u
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | b | | | t d | | k | |
+| Fricatives | | f v | | s z | ʃ ʒ | | h |
+| Affricates | | | | | dʒ | | |
+| Nasals | m | | | n | | | |
+| Liquids | | | | l r | | | |
+
+**Vowels**
+
+| | Front | Central | Back |
+|---|---|---|---|
+| High | i | | u |
+| Mid | e | | o |
+| Low | | a | |
 
 ### Phonological Patterns
 

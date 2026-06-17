@@ -10,6 +10,15 @@ Shath'Yar predates all mortal languages on Azeroth. The Old Gods were among the 
 
 The language was first encountered by players in the whispers of Yogg-Saron in Ulduar (Wrath of the Lich King) and later expanded through N'Zoth's dialogue and the Ny'alotha raid (Battle for Azeroth). The Qiraji in Ahn'Qiraj (vanilla WoW) also represent speakers of a related tongue. The Midnight expansion (2026) introduces new Void entities including the domanaar and Twilight's Blade cultists, though most named individuals use Common or Latin-inspired names rather than Shath'Yar.
 
+## Dialectal Variation
+
+Shath'Yar likely does not exhibit dialectal variation in the conventional sense. As the language of cosmic entities beyond mortal comprehension, the conditions that produce dialectal divergence — geographic isolation, speaker communities, intergenerational transmission — may not apply.
+
+- **Non-human transmission:** Shath'Yar is not learned through normal language acquisition. Old God servants are either created (Aqir, N'raqi) or corrupted (mortals driven to madness). There is no "child language acquisition" and therefore no mechanism for the incremental drift that produces dialects in mortal languages.
+- **Register variation by servant type:** The most plausible form of variation is register-based rather than geographic. The N'raqi (faceless ones) serve as priests and commanders and may use a formal, liturgical register. The K'thir — shadowy, whispering entities — may employ a reduced or whispered register, potentially explaining the sibilant-heavy forms (*fhssh*, *Ssra'thik*). The Aqir-descended races (qiraji, nerubians) inherited Shath'Yar's apostrophe convention but repurposed it from a prefix boundary (C'+root) to a compound boundary (stem+'stem), representing the most significant structural divergence from the source language.
+- **Old God idiolects:** Each Old God (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj) may speak a distinct idiolect. The attested phrases — *Ywaq maq oou* (Yogg-Saron), *Iilth vwah, uhn'agth fhssh za* (N'Zoth) — show different phonological patterns, but the corpus is too small to confirm whether these reflect systematic differences or individual stylistic variation.
+- **Suppression of variation:** The Old Gods are psychic entities who communicate telepathically with their servants. If Shath'Yar is transmitted psychically rather than acoustically, the very concept of "dialect" may be inapplicable — the language could be a fixed, non-varying code imposed directly on servants.
+
 ## Phonology
 
 Shath'Yar is dominated by guttural, whispering, alien sounds as described in lore. Common phonotactic patterns include C'CVC (*N'Zoth*, *C'Thun*, *K'thir*), C'VCVC (*N'raqi*), and CCVCC (*Il'gynoth*). Initial consonant clusters and apostrophes suggest non-human vocal anatomy (inferred). Sibilant clusters appear (*Ssra'thik*, *fhssh*) suggesting whisper-like articulation. Vowels are predominantly a, i, o, u; e is rare or absent in attested forms. The initial apostrophe (C'+root) is the dominant pattern and is structurally distinct from the medial apostrophe (compound boundary) found in nerubian, qiraji, and Hara'ni.

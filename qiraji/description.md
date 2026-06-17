@@ -20,6 +20,15 @@ The qiraji built the fortress-temple of Ahn'qiraj around C'Thun's prison. During
 
 In *Classic* (2006), players reopened the Gates of Ahn'qiraj through a massive server-wide event (the AQ Gate Opening) and defeated C'Thun and the qiraji armies.
 
+## Dialectal Variation
+
+No qiraji dialects are explicitly attested in canon. The qiraji corpus is too small to support dialectal analysis, but the structure of qiraji society provides some grounds for hypothetical variation.
+
+- **Hive-based variation:** The three attested silithid hive names — *Hive'Ashi*, *Hive'Zora*, *Hive'Regal* — may represent distinct communities within the qiraji-silithid structure. If each hive operates semi-independently (as real-world insect colonies do when geographically separated), they could develop lexical or phonological differences. The elements *Ashi*, *Zora*, and *Regal* have no confirmed translations and may be hive-specific names rather than meaningful morphemes.
+- **Caste-based registers:** Qiraji society is rigidly stratified into warriors, prophets, gladiators, and battleguards, with the non-sentient silithid as a base caste. The prophet caste, serving as C'Thun's religious intermediaries, may use a liturgical register preserving older or more Shath'Yar-influenced forms. The warrior caste may employ a simplified, command-oriented register. This parallels the register variation hypothesized for Shath'Yar's N'raqi and K'thir servants.
+- **Silithid base vs. Qiraji elite:** The silithid are described as non-sentient, but they produce distinctive vocalizations in-game. If the silithid retain any linguistic capacity from their Aqir ancestry, it would be a radically reduced form — perhaps limited to pheromone-based communication or simple phonetic signals — compared to the full qiraji language. The *Hive-* prefix in silithid place names may represent a silithid-base morpheme absent from qiraji proper names.
+- **Comparison with nerubian dialects:** The nerubian language shows confirmed dialectal divergence between Northrend and Khaz Algar after millennia of separation. The qiraji, by contrast, have remained concentrated in a single location (Silithus) under a single authority (C'Thun), producing far less opportunity for dialectal drift. Any qiraji variation is likely register-based rather than geographic.
+
 ## Cultural Context
 
 - Qiraji society is organized as a theocratic hive, with C'Thun at the apex and military leaders below. This contrasts with nerubian society, which has a more conventional political structure (queen, generals, viziers).
@@ -47,6 +56,17 @@ Aqir (unattested; Old God-created insectoid race)
 └── [Possible substrate in Nazja]
     └── *Azj-* / *Nazj-* element (if Aqir origin)
 ```
+
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested personal names | ~8+ | *Rajaxx*, *Kurinnaxx*, *Ossirian*, *Moam*, *Buru*, *Ayamiss*, *General Rajaxx* |
+| Attested place names | ~6+ | *Ahn'qiraj*, *Hive'Ashi*, *Hive'Zora*, *Hive'Regal*, *Ruins of Ahn'qiraj* |
+| Confirmed morphemes | 0 | No qiraji morpheme has independent confirmation |
+| Inferred morphemes | 3 | *Ahn-* (sacred/old prefix), *-naxx*/*-axx* (role suffix), *Hive-* (place/colony prefix) |
+| Attested phrases with translations | 0 | No qiraji phrases have confirmed translations |
+| Attested sentences with full glosses | 0 | No qiraji sentences are attested |
 
 ## Reliability Notes
 
