@@ -75,6 +75,42 @@ A critical distinction must be drawn between:
 
 The relationship between these two registers is analogous to real-world creole situations: the creole preserves vocabulary and some grammatical features from the substrate language (Zandali) while adopting the superstrate's syntax (Common/English).
 
+## Phonological Features
+
+Zandali's phonology is reconstructed primarily from proper names and the creole register. Key features include:
+
+- **Dominant vowel /a/**: The vowel /a/ is overwhelmingly the most frequent in attested words, appearing in nearly every morpheme (*Zandalar, Gurubashi, Amani, Drakkari, Farraki, Atal'ai*). The suffixal system is almost entirely built around /a/-centered forms (*-ari, -ashi, -aki, -'ai, -alor*).
+- **Nasal prominence**: /m/ and /n/ are extremely frequent, appearing in most attested words (*Mon, Amani, Zandalar, Jin, Dun, Nazmir*). This is consistent with a language where nasals serve both phonemic and morphological functions.
+- **Absence of complex onset clusters**: Unlike the elven language family (which permits /dr/, /nd/ clusters), Zandali shows no complex onset clusters in native words. All attested onsets are single consonants.
+- **Apostrophe as glottal stop**: The apostrophe consistently marks morpheme boundaries and likely represents a glottal stop /ʔ/ in the spoken language (*Zul'Gurub, Mueh'zala, Pa'ku, Hir'eek*).
+- **Creole phonological simplification**: The in-game creole register shows English-like phonology (full consonant cluster inventory, reduced vowel system) that does not reflect native Zandali phonotactics. Only proper names preserve native phonological patterns.
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis.
+
+## Writing System
+
+No Zandali writing system has been depicted or described in canon. Troll ruins and temples feature glyphic and totemic carvings, but these have not been established as a phonetic writing system. The Zandalari maintain extensive oral traditions through their priests and loa-speakers. The in-game representation of Zandali uses the Latin alphabet with apostrophes, which is a rendering convention rather than a native orthography.
+
+## Relationship to Other Languages
+
+- **Elven languages (Darnassian, Thalassian, Shalassian, Nazja)**: No confirmed genetic relationship. The apostrophe-marked compounding pattern is shared but likely reflects Blizzard design aesthetics rather than in-universe contact. Zandali predates elven civilization on Azeroth.
+- **Hara'ni**: The Haranir descend from dark trolls/night elves (*The Art of Midnight*, pg. 125), making Hara'ni a deeply divergent branch of the proto-troll/elven language family. Both Zandali and Hara'ni share the Xhosa-accented English rendering (confirmed by warcraft.wiki.gg), suggesting inherited phonological features. However, ~16,000 years of separation makes cognate identification impossible with current data.
+- **Sethrak**: Sethrak names show Zandali orthographic influence (apostrophe usage: *Sethraliss*), likely through cultural contact in Vol'dun rather than genetic relatedness.
+- **Shath'Yar / Aqir-descended languages**: No confirmed relationship. The apostrophe convention is shared across most WoW constructed languages as a Blizzard design pattern. See [alien-comparative.html](alien-comparative.html) for comparative analysis.
+
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested proper names (Loa) | 14+ | Bwonsamdi, Mueh'zala, Hir'eek, Pa'ku, Krag'wa, Gonk, Rezan, Jani, Shadra, Sethraliss |
+| Attested proper names (Persons) | 8+ | Rastakhan, Talanji, Vol'jin, Sen'jin, Zul, Zul'jarra, Zul'jan, Mor'duun |
+| Attested place names | 12+ | Zul'Gurub, Zul'Aman, Zul'Drak, Zul'Farrak, Zuldazar, Dazar'alor, Atal'Dazar, Nazmir, Vol'dun, Atal'Aman |
+| Attested tribal names | 6 | Zandalari, Gurubashi, Amani, Drakkari, Farraki, Atal'ai |
+| Confirmed morphemes | 4 | *Zul* (great/city), *Jin* (leader), *Atal* (devoted), *-'ai* (collective) |
+| Inferred morphemes | 8+ | *-ari/-ashi/-aki* (tribal suffixes), *-ey* (agentive), *Hash'* (unite), *dazar* (throne), *naz* (blood), *mir* (land), *vol* (desert) |
+| Attested sentences (creole) | 4 | *Mon be strong*, *Ya be dead*, *Dey be*, *Ya mon* |
+| Attested sentences (native) | 0 | No native Zandali sentences with translations are recorded |
+
 ## Notes on Reliability
 
 - **Attested vocabulary**: All words listed in the vocabulary document are attested in official Blizzard sources. However, meanings are often inferred from context rather than explicitly stated in lore. The translation "People of the Jungle" for Gurubashi, for instance, is widely accepted in the community but may be interpretive.

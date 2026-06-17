@@ -75,3 +75,5 @@ See [titan-forged-comparative.html](titan-forged-comparative.html) for full comp
 - Many place names may be Common-language renderings rather than accurate transliterations of Dwarven.
 - The Titan influence on Dwarven is established in lore but the degree of linguistic borrowing is unknown.
 - The War Within Earthen names provide new comparative data but may represent a divergent dialect rather than direct Dwarven ancestors.
+
+**General caution:** Dwarven is very poorly attested. All grammatical analysis rests on place name decomposition, which is inherently speculative. No verb morphology, syntactic structures, or everyday vocabulary can be confirmed from canon sources.

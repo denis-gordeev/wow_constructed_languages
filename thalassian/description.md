@@ -51,6 +51,41 @@ Thalassian's phonology can only be partially reconstructed from the attested cor
 - **Possible sound changes from Darnassian:** The limited corpus makes phonological comparison with Darnassian speculative. Thalassian may have undergone vowel shifts or consonant lenition, but insufficient data exists for systematic reconstruction.
 - **Rhotic presence:** /r/ appears frequently (Ren, Dath'Remar, thoras, aran)
 
+## Writing System
+
+Thalassian is rendered in-game using the Latin alphabet with apostrophes marking morpheme boundaries. No native Thalassian script has been depicted in canon. The Blood Elves of Silvermoon are highly literate and maintain extensive magical and historical archives, but the writing system used for these texts has not been described or shown. As Darnassian is known to use an elven script, and Thalassian descends from Darnassian, Thalassian likely uses a derived script — but this is [speculative].
+
+## Dialectal Variation
+
+The three Thalassian-speaking communities — Blood Elves, High Elves, and Void Elves — share the same language but may exhibit subtle differences:
+
+- **Blood Elves (Sin'dorei)**: The primary speakers. Their cultural identity centers on the *Sin'dorei* self-designation and solar imagery (*belore* = sun). They are the most numerous and culturally dominant group.
+- **High Elves (Quel'dorei)**: Retain the older self-designation. Linguistically conservative, they may preserve archaic forms lost in mainstream Thalassian. Their separation from the Blood Elves is cultural rather than geographic (some remain in Alliance-aligned communities).
+- **Void Elves (Ren'dorei)**: The newest group, having coined the term *Ren'dorei* ("Children of the Void") using the standard -'dorei compounding pattern. Their exposure to void magic may influence vocabulary (e.g., *Nor'alah* = "dark light"), though the corpus is too small to confirm systematic differences.
+
+These dialectal differences are not systematically represented in-game and must be inferred.
+
+## Relationship to Other Languages
+
+- **Darnassian**: Direct ancestor. Thalassian shares the *-'dorei* ethnonym pattern, apostrophe/hyphen boundary conventions, and core vocabulary (*Quel*, *dorei*). Diverged ~7,300 years before the First War.
+- **Shalassian**: A parallel development from Darnassian, spoken by the Nightborne of Suramar. Shalassian preserves more Darnassian-like features (*-assian* suffix, retained lunar vocabulary) while Thalassian innovated toward solar imagery.
+- **Nazja**: Another parallel development from Darnassian, spoken by the Naga. Nazja diverged through physiological transformation rather than geographic isolation. The four elven dialects form a confirmed language family.
+- **Hara'ni**: The Haranir descend from dark trolls/night elves, making Hara'ni a deeply divergent branch of the proto-troll/elven language family. No cognates with Thalassian are confirmed due to extreme time depth (~16,000 years).
+
+See [elven-comparative.html](elven-comparative.html) for full comparative analysis of the elven language family.
+
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested phrases with translations | 8–10 | *Bal'a dash*, *Shorel'aran*, *Anar'alah belore*, *Anu belore dela'na*, *Ande'thoras-ethil* |
+| Attested isolated words/morphemes | 15–20 | *Sin*, *Quel*, *Ren*, *belore*, *alah*, *Thalas*, *dorei*, *Ande*, *Anu* |
+| Confirmed morphemes | 3 | *-'dorei* (children of), *Sin* (blood), *Quel* (noble/high) |
+| Inferred morphemes | 6+ | *Ren* (void), *Thalas* (home), *Ande* (optative), *Anu* (article), *ethil* (diminished), *belore* (sun) |
+| Attested sentences | 0 (unambiguous) | No full sentences with confirmed word-by-word glosses exist; all phrases are formulaic |
+| Proper names (places) | 3+ | *Quel'Thalas*, *El'darath*, *Thalas'darah* |
+| Proper names (ethnonyms) | 4 | *Sin'dorei*, *Quel'dorei*, *Ren'dorei*, *Kaldorei* (shared with Darnassian) |
+
 ## Reliability and Limitations
 
 **The Thalassian corpus is extremely small.** Blizzard has never published a full grammar or vocabulary for the language. All inferences are drawn from:

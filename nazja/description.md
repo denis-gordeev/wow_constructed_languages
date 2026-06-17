@@ -1,5 +1,9 @@
 # Nazja — Description
 
+## Overview
+
+Nazja is the language of the Naga, a serpentine race that inhabits the ocean depths of Azeroth. It is derived from Darnassian, having diverged approximately 10,000 years ago when the Highborne night elves were transformed by the Old God N'Zoth during the Great Sundering. Nazja is the most phonologically distinctive of the elven languages, characterized by extreme sibilant density, frequent /ʒ/ (zh) and /dʒ/ (j), and complex consonant clusters absent in its sister languages. Despite its divergence, Nazja retains the core elven compounding tradition with apostrophe-marked morpheme boundaries.
+
 ## Speakers
 
 Nazja is the language of the Naga, the serpentine race that inhabits the ocean depths of Azeroth. It is spoken primarily by the naga of the Nazjatar Empire, ruled by Queen Azshara from the underwater capital of Nazjatar beneath the Maelstrom. The naga were formerly Highborne night elves (Quel'dorei) who were transformed by the Old God N'Zoth during the Great Sundering over 10,000 years ago.
@@ -30,7 +34,34 @@ A fan theory (noted on the wiki as speculation) suggests that Nazja may not be a
 - **Thalassian**: A parallel development from Darnassian. Both Nazja and Thalassian diverged from the same root under very different circumstances (Thalassian through the High Elves' exile to Quel'Thalas; Nazja through the Highborne's transformation and submersion).
 - **Shalassian**: Another parallel development from Darnassian, spoken by the Nightborne of Suramar.
 - The four elven dialects (Darnassian, Thalassian, Shalassian, Nazja) form a language family with confirmed shared morphological features, most notably the *-dorei* compound pattern and apostrophe-marked morpheme boundaries.
-- Nazja's writing resembles elven script (Warcraft Encyclopedia). A treatise by Warlord Kalithresh was written in "the water-proofed alien script of the naga."
+
+## Writing System
+
+Nazja's writing is described as resembling elven script (Warcraft Encyclopedia). A treatise by Warlord Kalithresh was written in "the water-proofed alien script of the naga," suggesting that Nazja has developed a distinct orthography adapted for underwater writing — possibly waterproofed inks, engraved tablets, or bioluminescent media. The naga retain the elven scribal tradition but have adapted it to their aquatic environment. No examples of the script have been depicted in canon.
+
+## Phonological Features
+
+Nazja is the most phonologically distinctive of the elven languages, having undergone significant sound changes due to physiological transformation and aquatic environment:
+
+- **Sibilant density**: /s/, /z/, /ʃ/ (sh), /ʒ/ (zh) are the most distinctive feature. Names and phrases average 2–3 sibilants per word, far exceeding Darnassian or Thalassian.
+- **/ʒ/ (zh) as Nazja identity marker**: This sound, rare in other elven languages, is extremely common in Nazja. It may have developed from Darnassian /j/ that shifted under water-distorted articulation, or from /ʃ/ that lenited in the naga vocal tract.
+- **/dʒ/ (j) frequency**: The affricate /dʒ/ is uncommon in Darnassian but very frequent in Nazja names (*Naz'jar, Zin'jatar, Vashj*).
+- **Complex consonant clusters**: Nazja tolerates clusters unusual in other elven languages: initial /sr/ (*Sriss'tiz*), /sk/ (*Skar'this*), medial /ssz/ (*Sassz'ine*).
+- **Vowel reduction**: Nazja strongly favors /a/ and /e/ in stressed syllables, with /i/ common in unstressed positions. /o/ and /u/ are rare compared to Darnassian.
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis including the speculative Darnassian→Nazja sound change table.
+
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested proper names (tribes) | 10+ | Sira'kess, Idra'kess, Shirakess, Azsh'ir, Vashj'ir, Zanj'ir, Naz'jar, Skar'this, Sriss'tiz, Sassz'ine |
+| Attested proper names (persons) | 5+ | Azshara, Vashj, Naj'entus, Kalithresh, Zhahara |
+| Confirmed morphemes | 2 | *-kess* (tribal suffix), *-'ir* (domain/tribe suffix) |
+| Inferred morphemes | 3 | *-tar/-atar* (place suffix), *Nazj-* (deep/naga), *Zin* (glory) |
+| Attested phrases (battle cries) | 5+ | *Be'lemer an-delei*, *Bal lamer zhita*, *Fara dena'lay*, *Ash-thero-sauguine*, *Osh'bala-tharei* |
+| Attested sentences with full glosses | 0 | No Nazja sentences have confirmed word-by-word translations |
+| RPG-attested names (non-canon) | 8+ | Sakrasis, Shezril, Velrash, Zoniss, Anna, Asprah, Charib'dishal, Scilla |
 
 ## Naga Naming Conventions
 

@@ -156,6 +156,80 @@ Based on the limited attested phrases, Zandali creole follows SVO word order:
 
 This is consistent with Common (English) influence and typical of pidgin/creole formation.
 
+## Phonology
+
+### Sound Inventory (Observed)
+
+**Consonants**: b, d, f, g, h, j (/dʒ/), k, l, m, n, p, r, s, t, v, w, z, sh (/ʃ/)
+
+**Vowels**: a, e, i, o, u
+
+### Consonant Inventory
+
+| | Bilabial | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|
+| Stops | p, b | t, d | | k, g | |
+| Fricatives | f, v | s, z | ʃ (sh) | | h |
+| Affricates | | | dʒ (j) | | |
+| Nasals | m | n | | | |
+| Liquids | | l, r | | | |
+| Glides | w | | | | |
+
+### Vowel Inventory
+
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | u |
+| Mid | e | | o |
+| Open | | a | |
+
+### Phonological Patterns
+
+1. **Dominant vowel /a/**: The vowel /a/ is overwhelmingly the most frequent in the attested corpus, appearing in nearly every word. The suffixes *-ari*, *-ashi*, *-aki*, *-'ai*, and *-alor* all center on /a/. This suggests a three-vowel system with /a/ as the open default and /i/, /u/ (or /e/, /o/) in more marked positions, expanded by borrowing and onomatopoeia.
+
+2. **Syllable structure**: Predominantly (C)V(C). Attested patterns:
+   - CV: *Zu, Pa, Lo, Ya, Jin, Mon*
+   - CVC: *Zul, Hak, Gonk, Vol*
+   - VCV: *Aman, Atal, Akun*
+   - VC: *'ai, 'ir* (post-apostrophe syllables)
+
+3. **Glottal stop at apostrophe boundaries**: The apostrophe likely represents a glottal stop /ʔ/ or similar segmental boundary at morpheme junctions. Evidence:
+   - *Zul'Gurub* — /zʊlˈʔuːrʊb/ (stop between prefix and root)
+   - *Mueh'zala* — /muˈɛʔzɑːlɑ/ (stop between morphemes)
+   - *Pa'ku* — /ˈpɑːʔkuː/ (stop between syllables)
+
+4. **Nasal prominence**: /m/ and /n/ are extremely frequent, appearing in most attested words (*Mon, Amani, Zandalar, Jin, Dun, Nazmir*). This is consistent with a language where nasals serve both phonemic and morphological functions.
+
+5. **Liquid frequency**: /r/ appears in many words (*Rastakhan, Gurubashi, Drakkari, Krag'wa, Farraki, Zandalar, Dazar*). /l/ is less frequent but appears in key morphemes (*Alor, Atal, Loa*).
+
+6. **Absence of complex onset clusters**: Unlike Nazja (which permits /sr/, /sk/ onsets), Zandali shows no complex onset clusters in native words. All attested onsets are single consonants or zero (vowel-initial).
+
+7. **Postvocalic /r/**: The /r/ appears most often in coda position or before vowels (*Farraki, Drakkari, Gurubashi*), never in initial clusters.
+
+8. **Sibilant distribution**: /ʃ/ (sh) appears in *Gurubashi, Shadra, Shirakess, Hash'ey* but is less common than in Nazja. /z/ appears primarily in *Zul, Zandalar, Zul'jin, Nazmir* — concentrated in the *Z-* initial pattern.
+
+### Creole vs. Native Phonology
+
+A phonological distinction exists between the creole register and native Zandali names:
+
+| Feature | Creole Register | Native Names |
+|---------|----------------|--------------|
+| Consonant clusters | None | Rare medial (*-nd-*, *-kw-*, *-gz-*) |
+| Vowel quality | Full Common-like inventory | Dominated by /a/, /i/, /u/ |
+| Syllable structure | Simple CV/CVC | (C)V(C) with apostrophe boundaries |
+| Stress pattern | Common-influenced | Likely penultimate (inferred from *Zan-DA-la-ri*, *Gu-ru-BA-shi*) |
+
+The creole register phonology is essentially English with Zandali lexical items inserted, so it does not reflect native Zandali phonological rules.
+
+### Loa Name Phonology
+
+Loa names show a distinctive phonological pattern compared to tribal/place names:
+
+- Short morphemes with apostrophe boundaries: *Pa'ku, Hir'eek, Krag'wa*
+- More varied vowel distribution than place names
+- Frequent /k/ and /g/ (associated with earth/animal spirits)
+- Proper names without apostrophes (*Gonk, Rezan, Jani, Torga*) tend to be monomorphemic
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar are entirely unattested and should not be assumed:

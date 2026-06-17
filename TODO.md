@@ -71,8 +71,15 @@
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
 - [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
-- [ ] Sync expanded Shalassian/Dwarven/Shath'Yar description.html files with any future .md changes
-- [ ] Verify all HTML files across the repository render without structural errors (spot-check after large edits)
+- [ ] Add phonology section to Darnassian grammar.md (currently only has basic sound inventory and patterns, not a dedicated phonology section with tables)
+- [ ] Add phonology section to Orcish grammar.md (currently the most complete grammar but lacks a formal phonology section)
+- [ ] Expand Darnassian description.md: add history section, expand dialectal variation (Highborne register), add attestation summary table
+- [ ] Expand Orcish description.md: add relationship-to-other-languages section, add dialectal variation section, add attestation summary table
+- [ ] Expand Nazja description.md: add dialectal variation section, expand physiological phonological changes
+- [ ] Analyze *-osh* suffix pattern in Orcish names (Lok'osh, Grommash, Garrosh) as potential morphological pattern
+- [ ] Deepen *Andu*/*Endu* negation analysis in Darnassian grammar
+- [ ] Analyze Loa name morphology in Zandali as a dedicated grammar section
+- [ ] Standardize table HTML across all files to use `<thead>`/`<tbody>` pattern (499 tables currently use bare `<tr><th>`)
 
 ## Completed This Round
 
@@ -83,3 +90,14 @@
 - [x] Expand Shath'Yar description (34 → 85+ lines): added phonology, morphology table, cultural context (Naaru, domanaar), attestation summary, Aqir transmission, alien-comparative cross-reference
 - [x] Verify nerglish/ HTML files render correctly (vocabulary.html, grammar.html, description.html all validated)
 - [x] Update README.md example-sentences description to include Nerglish
+- [x] Add phonology section to Zandali grammar.md: consonant/vowel inventories, 8 phonological patterns, creole vs. native phonology, Loa name phonology
+- [x] Add phonology section to Thalassian grammar.md: consonant/vowel inventories, 8 phonological patterns, comparison with Darnassian phonology
+- [x] Expand Zandali description.md: added phonological features, writing system, relationship to other languages, attestation summary table
+- [x] Expand Thalassian description.md: added writing system, dialectal variation, relationship to other languages, attestation summary table
+- [x] Expand Nazja description.md: added overview section, writing system, phonological features, attestation summary table
+- [x] Sync Zandali grammar.html and description.html with updated .md files
+- [x] Sync Thalassian grammar.html and description.html with updated .md files
+- [x] Sync Nazja description.html with updated .md file
+- [x] Fix haranir/vocabulary.html inconsistent .md link (removed vestigial README.md link)
+- [x] Sync Dwarven description.md with description.html (added missing "General caution" note)
+- [x] Verify all updated HTML files pass structural integrity checks
