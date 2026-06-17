@@ -42,6 +42,45 @@ The phrase *Lok'tar ogar* ("Victory or death") presents an analytical difficulty
 
 Analysis A is the most common fan analysis but requires *-tar* to function as a conjunction, which finds no other attestation. Analysis B requires *ogar* to be a compound of an unknown conjunction + "death." Analysis C assumes zero-marking for disjunction. None is confirmable with available data.
 
+### The *-osh* Suffix in Names
+
+Three prominent orcish personal names share a final *-osh* element:
+
+| Name | Attested Context | Known Meaning |
+|------|-----------------|---------------|
+| Grommash | Son of Grom Hellscream, Warchief of the True Horde | No confirmed translation |
+| Garrosh | Son of Grom Hellscream, Warchief of the Horde | No confirmed translation |
+| Lok'osh | Spirit Walker title/term | No confirmed translation |
+
+#### Possible Analyses
+
+**Analysis 1: *-osh* as a name-forming suffix meaning "son of" or "scion of"**
+
+Both *Grommash* and *Garrosh* are sons of prominent orcish figures (Grommash = Grom's son; Garrosh = also Grom's son, though the "Gar-" element is unexplained). If *-osh* = "son/scion of," then:
+- *Grommash* = *Gromm* + *-ash* (not *-osh*) — contradicts this analysis unless *-ash* and *-osh* are allomorphs
+- *Garrosh* = *Garr* + *-osh* — plausible if *Garr-* is a personal name element
+- *Lok'osh* = *Lok'* + *-osh* — "Scion of Victory"? Plausible semantically
+
+The problem is that *Grommash* ends in *-ash*, not *-osh*. If *-ash* and *-osh* are allomorphs, the conditioning environment is unclear (both follow /r/ in a doubled consonant: *Grommash* /m:/, *Garrosh* /r:/).
+
+**Analysis 2: *-osh* as a valor/warrior suffix**
+
+If *Lok'* = "victory" (as inferred from *Lok'tar*), then *Lok'osh* could mean "victorious warrior" or "one of victory." Extending this:
+- *-osh* could be a suffix meaning "warrior," "champion," or "one who embodies [root]"
+- *Garrosh* = *Garr-* + *-osh* = "warrior of [Garr-]" — the *Garr-* root is unknown
+- *Grommash* would need *-ash* as a variant, which weakens the analysis
+
+**Analysis 3: *-osh* as a coincidental phonological pattern**
+
+The simplest explanation: *-osh* is not a morpheme at all. The three names share a final /ʃ/ sound, but:
+- *Grommash* ends in /aʃ/, *Garrosh* in /oʃ/, *Lok'osh* in /oʃ/ — the vowel quality differs
+- /ʃ/ is a common coda in orcish names (*Grommash*, *Garrosh*, *Kosh'harg* → *harg* ends in /g/, but the /ʃ/ coda is still notable)
+- Proper names in many languages share phonological patterns without shared morphology (cf. English *Richard*, *Edward*, *Howard* all ending in /d/ — this does not make /-d/ a suffix)
+
+#### Assessment
+
+**Confidence: Very Low–Low** for *-osh* as a genuine morphological suffix. The strongest evidence is *Lok'osh*, where *Lok'* is a known root ("victory") and *-osh* would complete the compound meaningfully. However, the *Grommash* / *Garrosh* data is ambiguous: *Grommash* ends in *-ash* (not *-osh*), and no meaning for *Garr-* is known. The possibility that *-osh* is a Blizzard aesthetic pattern (a "guttural-sounding" ending applied to warrior names) rather than a genuine morpheme cannot be excluded.
+
 ## Syntax
 
 ### Word Order
@@ -71,44 +110,72 @@ The language appears to favor **fixed formulae** over generative syntax for comm
 
 ### Consonant Inventory
 
-Based on attested forms, Orcish uses the following consonants:
+| | Bilabial | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|
+| Stops | p, b | t, d | | k, g | |
+| Fricatives | | s | ʃ (sh) | | h |
+| Affricates | | | dʒ (j) (?) | | |
+| Nasals | m | n | | | |
+| Liquids | | l, r | | | |
 
-| Type | Consonants |
-|------|-----------|
-| Stops | /g/, /k/, /b/, /p/, /t/, /d/ |
-| Fricatives | /s/, /h/, /θ/ (spelled "th") |
-| Nasals | /m/, /n/ |
-| Liquids | /l/, /r/ |
-| Affricates | Possibly /ʃ/ (spelled "sh") |
+Notes:
+- /θ/ (spelled "th") appears in *Throm*, *Thrall* — a dental fricative, likely an allophone of /t/ in specific environments or a marginal phoneme.
+- /dʒ/ (j) is uncertain; no clear attestation in the limited vocabulary. Its inclusion is provisional based on the /ʃ/ phoneme suggesting the postalveolar series may be complete.
+- /f/ and /v/ are absent from attested Orcish vocabulary.
+- /w/ may exist but is unattested in the small corpus.
 
 ### Consonant Clusters
 
 Orcish permits heavy onset and coda clusters:
 
-- Onset: /gr/ (*Grom*), /thr/ (*Throm*, *Thrall*), /sk/ (none attested but likely)
-- Coda: /sh/ (*Grommash*), /rg/ (*harg*)
+- **Onset clusters**: /gr/ (*Grom*), /thr/ (*Throm*, *Thrall*), /gl/ (*Gul'dan*), /sk/ (inferred)
+- **Coda clusters**: /sh/ (*Grommash*, *Garrosh*), /rg/ (*harg*), /kt/ (inferred from stop-heavy pattern)
+- **Medial clusters**: /mm/ (*Grommash*), /rr/ (*Garrosh*) — gemination or double consonants
 
 ### Vowel Inventory
 
-Vowels are typically short and open:
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | u |
+| Mid | e | | o |
+| Open | | a | |
 
-- /a/ — the most frequent vowel
-- /o/ — common in stressed syllables
-- /u/ — appears in *zug*, *bur*
-- /i/ — rare; appears in *Orgrim*
+Notes:
+- /a/ is the most frequent vowel, appearing in nearly every attested word.
+- /o/ is common in stressed syllables (*Lok*, *ogar*, *Throm*).
+- /u/ appears in *zug*, *bur*.
+- /i/ is rare; appears primarily in *Orgrim*.
+- /e/ is very rare in the attested corpus; may be marginal.
+- Diphthongs are not clearly attested.
 
-Diphthongs are not clearly attested.
+### Phonological Patterns
 
-### Phonotactic Patterns
+1. **Guttural preference**: A preponderance of velar and glottal consonants (/g/, /k/, /h/) gives Orcish its characteristic harsh, guttural quality. This is the most distinctive phonological feature.
 
-1. **Guttural preference:** A preponderance of velar and glottal consonants (/g/, /k/, /h/) gives Orcish its characteristic harsh, guttural quality.
-2. **Consonant-heavy syllables:** Most attested words are CVC or CVC.CVC structures. Open syllables (CV) are less common.
-3. **Prominent /r/:** The alveolar trill /r/ appears frequently, often in clusters (*Grom*, *Throm*, *Garrosh*, *Saurfang*).
-4. **Stress pattern:** Cannot be determined from written attestations alone.
+2. **Consonant-heavy syllables**: Most attested words are CVC or CVC.CVC structures. Open syllables (CV) are less common. The language favors closed, heavy syllables — *Lok*, *gora*, *harg*, *zug*, *kosh*.
 
-### Sound Symbolism
+3. **Prominent /r/**: The alveolar trill /r/ appears frequently, often in clusters (*Grom*, *Throm*, *Garrosh*, *Saurfang*). It is one of the most salient consonants in the language's sound profile.
 
-The harsh, percussive phonology aligns with orcish cultural values — strength, directness, combat readiness. The prevalence of stops and gutturals over fricatives and approximants reflects this aesthetic.
+4. **Stress pattern**: Cannot be determined from written attestations alone. Based on the typical WoW voice acting for orcish names, primary stress may fall on the first syllable (*LOK-tar*, *MAK-go-ra*), but this is [speculative].
+
+5. **Gemination**: Doubled consonants appear in *Grommash* (/m:/), *Garrosh* (/r:/). Whether this is phonemic gemination or simply orthographic doubling is unclear.
+
+6. **Apostrophe as possible glottal stop**: Unlike Darnassian, where apostrophes mark purely orthographic morpheme boundaries, the Orcish apostrophe (*Lok'tar*, *Mak'gora*) may correspond to a glottal stop /ʔ/ in speech — the percussive quality of orcish pronunciation would be consistent with this. However, this is [speculative].
+
+7. **Sound symbolism**: The harsh, percussive phonology aligns with orcish cultural values — strength, directness, combat readiness. The prevalence of stops and gutturals over fricatives and approximants reflects this aesthetic. Compare Darnassian, which favors liquids and sibilants, producing a melodic quality matching night elf culture.
+
+### Comparison with Darnassian Phonology
+
+| Feature | Orcish | Darnassian |
+|---------|--------|-----------|
+| Velar frequency | Very high (/g/, /k/) | Low (/k/ only) |
+| /θ/ (th) | Marginal (*Throm*, *Thrall*) | Common (*Thero*, *thera'nal*) |
+| Liquid frequency | High /r/, low /l/ | High both /r/ and /l/ |
+| Syllable type | CVC-heavy | (C)V(C), more open syllables |
+| Sibilant density | Low | Moderate (/ʃ/, /s/ common) |
+| Vowel distribution | /a/-dominant, /i/ rare | Balanced five-vowel system |
+| Onset clusters | Complex (/gr/, /thr/, /gl/) | Minimal (/dr/, /nd/ only) |
+| Name quality | Guttural, percussive | Melodic, flowing |
 
 ## Summary of Limitations
 

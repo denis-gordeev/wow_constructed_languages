@@ -20,6 +20,81 @@ The Warcraft RPG notes: "Nazja has evolved as its own unique language over 10,00
 
 A fan theory (noted on the wiki as speculation) suggests that Nazja may not be a separate language at all, but rather Darnassian spoken underwater with a different vocal organ — which would account for the naga accent when speaking to surface dwellers and their ability to communicate with elves without difficulty. This remains unconfirmed.
 
+## Dialectal Variation
+
+No Nazja dialects are explicitly attested in canon sources. However, the structure of naga society and the geographic distribution of naga populations suggest that dialectal variation is plausible:
+
+### Matriarchal vs. Warrior Register
+
+Naga society is rigidly stratified by sex, with females serving as leaders, spellcasters, and strategists, while males serve as warriors and guards. This social division may produce linguistic differences:
+
+- **Female speech (Siren/Sorceress register)**: Female naga (Sirens, Sea Witches, Naga Siren) are the primary spellcasters and leaders. Their attested battle cries (*Be'lemer an-delei*, *Bal lamer zhita*) are syntactically more complex than male utterances. If Nazja has a formal or ritual register, it is likely associated with female speech.
+- **Male speech (Myrmidon register)**: Male naga (Myrmidons, Royal Guards, Nagas) are portrayed as less intelligent and more combat-oriented. Their attested vocalizations are shorter and more guttural. Male speech may feature reduced morphological complexity and a preference for formulaic expressions, similar to the pragmatic register observed in Orcish.
+
+The RPG notes that male naga "are more likely to act first and think later," while female naga "are more cunning and calculating." If this behavioral difference extends to language, male Nazja may show simplified syntax and reduced vocabulary compared to the female register.
+
+### Geographic Variation (Hypothetical)
+
+Naga populations are found in multiple locations across Azeroth, often separated by thousands of miles:
+
+- **Nazjatar (Maelstrom)**: The capital population, under Queen Azshara's direct influence. Presumably the prestige dialect.
+- **Vashj'ir (Abyssal Depths)**: A major naga settlement with its own tribal structure (Azsh'ir, Zanj'ir). Geographic isolation may have produced distinct vocabulary or pronunciation.
+- **Coilfang Reservoir (Zangarmarsh, Outland)**: Lady Vashj's naga force, separated from Azerothian naga for approximately 30 years. Given the short timespan, only lexical differences (borrowings from Outland languages) would be expected.
+- **Rising Tide (Borean Tundra, Northrend)**: A naga force operating in Northrend. Their language may show influence from Vrykul or other Northrend languages.
+- **Nazjatar (Battle for Azeroth)**: The naga forces encountered during the fourth war, which include the same tribal groups as the Maelstrom population.
+
+No dialectal features are attested for any of these groups. All naga NPCs use the same vocalizations regardless of location.
+
+### Azshara-Centric Language Policy
+
+Queen Azshara's absolute authority over naga society may have imposed linguistic uniformity. The naga venerate Azshara as a living demigod, and their language may be consciously preserved as it was during her reign — making Nazja a conservative, prestige-driven language resistant to natural change. This would parallel the conservative effect that Classical Arabic has on its regional dialects, or the way Church Latin preserved a fixed register alongside evolving Romance vernaculars.
+
+## Physiological Phonological Changes
+
+The transformation from Highborne night elves to naga fundamentally altered the speakers' vocal apparatus, producing the most dramatic phonological divergence in the elven language family:
+
+### Vocal Tract Transformation
+
+The Highborne were transformed from humanoid surface-dwellers into serpentine aquatic creatures. Key anatomical changes with phonological implications:
+
+- **Elongated oral cavity**: The naga's serpentine head shape extends the vocal tract, lowering formant frequencies and potentially shifting vowel quality toward lower, more resonant productions. This may explain the shift from Darnassian's balanced vowel inventory to Nazja's /a/- and /e/-dominated system.
+- **Modified articulators**: The naga's fanged, elongated jaw alters the production of dental and alveolar consonants. The tongue, adapted for a reptilian mouth shape, may produce alveolar sounds further forward or further back than in the humanoid vocal tract. This could have driven the /j/ → /dʒ/ shift observed in names like *Vashj* and *Naz'jar*.
+- **Gill structures**: Naga possess gills in addition to (or instead of) lungs. If gill-breathing allows continuous airflow without the pulmonic egressive airstream required for most speech sounds, this could enable sustained sibilants — explaining the extraordinary sibilant density in Nazja (/s/, /z/, /ʃ/, /ʒ/ all very frequent).
+- **Underwater articulation**: Speech produced underwater encounters different acoustic properties than air-produced speech. Water is denser than air, sound travels faster, and the impedance mismatch between the vocal tract and the medium is altered. This environment favors:
+  - **Higher-frequency consonants** (sibilants carry well underwater)
+  - **Reduced vowel contrast** (the acoustic distinctiveness of vowels is diminished underwater)
+  - **Increased consonant cluster tolerance** (the denser medium may make fine articulatory distinctions easier to perceive)
+
+### Proposed Sound Change Chain: Darnassian → Nazja
+
+The following chain of phonological changes is hypothesized based on the comparative evidence:
+
+1. **/j/ → /dʒ/ → /ʒ/**: The palatal approximant /j/ (likely present in pre-Sundering Darnassian based on the *Azshari* → *Azsh'ari* alternation) underwent affrication to /dʒ/ (as in *Naz'jar*, *Vashj*), then lenition to /ʒ/ (as in the extremely common *-zh-* pattern). This chain is consistent with underwater articulation, where the elongated oral cavity shifts palatal production posteriorly.
+
+2. **/ʃ/ → /ʒ/**: The Darnassian /ʃ/ (common in *Shan*, *shem*, *Asha*) lenited to /ʒ/ in many environments. This voicing of voiceless fricatives is common cross-linguistically and may have been driven by the continuous airflow enabled by gill-breathing.
+
+3. **Vowel reduction: /o/, /u/ → /a/, /e/**: The Darnassian rounded vowels /o/ and /u/ are rare in Nazja, replaced by /a/ and /e/. Underwater articulation, with its reduced vowel contrast, may have collapsed the mid-back and high-back vowels into the more acoustically salient open and front-mid positions.
+
+4. **Onset cluster expansion**: The development of complex onset clusters (/sr/, /sk/) absent in Darnassian may reflect the naga's expanded articulatory range — the modified jaw and tongue enabling consonant sequences impossible in the humanoid vocal tract.
+
+5. **Sibilant enhancement**: The overall increase in sibilant frequency and variety (/s/, /z/, /ʃ/, /ʒ/ all very common) may be an adaptive response to the underwater acoustic environment, where sibilant-rich speech is more intelligible.
+
+### Alternative Theory: Darnassian "Spoken Underwater"
+
+A fan theory (noted on the wiki as speculation) suggests that Nazja may not be a separate language at all, but rather Darnassian spoken underwater with a different vocal organ — which would account for the naga accent when speaking to surface dwellers and their ability to communicate with elves without difficulty. Under this theory, the phonological changes described above are not sound changes in the linguistic sense but rather **phonetic adaptations** — the same underlying phonological system produced through a different vocal apparatus.
+
+Arguments for this theory:
+- Naga can apparently communicate with night elves without great difficulty (attested in lore)
+- The shared morphological system (-dorei, apostrophe boundaries, compounding) is essentially identical
+- The "sound changes" are all explainable as mechanical consequences of the altered vocal tract
+
+Arguments against:
+- The RPG explicitly states that "the meanings and definitions of terms the language are no longer the same" (Monster Guide, pg. 106), indicating semantic divergence beyond mere phonetic adaptation
+- The tribal suffix system (-kess, -'ir) has no parallel in Darnassian
+- Attested Nazja phrases (*Be'lemer an-delei*, *Bal lamer zhita*) show no obvious Darnassian cognates
+
+**Confidence: Low** for the "same language" theory; the weight of evidence supports genuine linguistic divergence, albeit one driven primarily by physiological transformation rather than the gradual sound changes typical of natural language evolution.
+
 ## Cultural Context
 
 - Naga society is deeply matriarchal. Female naga retain more of their elven features and intelligence; they serve as generals, magi, and leaders. Male naga are physically powerful but considered less intelligent; they serve as warriors and guards.

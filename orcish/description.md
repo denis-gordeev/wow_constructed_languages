@@ -21,6 +21,49 @@ Key historical notes:
 - After the Second War, many orcs were interned in Alliance camps. Thrall (whose name means "slave" in Orcish) led the orcs to freedom and refounded the Horde, retaining Orcish as its primary language.
 - Modern Horde Orcish is used in Durotar and Orgrimmar, the orcish homeland and capital established in Kalimdor.
 
+## Relationship to Other Languages
+
+Orcish has no confirmed genealogical relationship to any Azerothian language. It originated on the planet Draenor, independently of the languages of Azeroth (Common, Darnassian, Zandali, etc.). However, several contact relationships exist:
+
+- **Common**: The primary language of the Alliance. Orcish and Common are mutually unintelligible, and the cross-faction language filter in World of Warcraft generates pseudo-Orcish strings when Horde players speak near Alliance players. Some Orcish words have entered Common through cultural contact (*Lok'tar*, *Mak'gora*), and some Common words may be known to bilingual orcs.
+- **Zandali (Troll)**: Trolls and orcs have coexisted in the Horde since its founding. Some cross-cultural vocabulary exchange is plausible but unattested. The apostrophe-marked morpheme boundary convention appears in both languages but likely reflects independent development (or Blizzard's design aesthetic) rather than a shared linguistic feature.
+- **Taur-ahe (Tauren)**: The tauren joined the Horde under Cairne Bloodhoof. No linguistic connection between Orcish and Taur-ahe is attested, though cultural terms may have been borrowed.
+- **Gutterspeak (Forsaken)**: The undead Forsaken retained their human languages and developed Gutterspeak. No linguistic connection to Orcish exists.
+- **Draenei**: The draenei language (and its ancestor Eredun) originated on Argus and has no relationship to Orcish despite the draenei and orcs sharing Draenor as a homeland. The decades of conflict between orcs and draenei may have produced some loanwords, but none are attested.
+
+### Naming Conventions Across Horde Languages
+
+| Feature | Orcish | Zandali | Taur-ahe |
+|---------|--------|---------|----------|
+| Apostrophe usage | Morpheme boundary (*Lok'tar*) | Morpheme boundary (*Zul'Gurub*) | Morpheme boundary (*Lo'Gosh*) |
+| Hyphen usage | Morpheme boundary (*Throm-ka*) | Phrase boundary | Phrase boundary |
+| Title formation | Compound noun (*Mak'gora*) | Suffix (*-jin*) | Compound (*Huln* Highmountain) |
+| Predominant vowel | /a/ | /a/ | /a/ (shared, likely coincidental) |
+
+## Dialectal Variation
+
+No orcish dialects are attested in canon sources. However, the structure of pre-Horde orcish society suggests dialectal variation is plausible:
+
+### Clan-Based Variation (Hypothetical)
+
+Before the formation of the original Horde under Blackhand and Gul'dan, the orcish people were organized into independent clans — the Frostwolves, Warsong, Blackrock, Bleeding Hollow, etc. Each clan had its own identity, territory on Draenor, and traditions. It is plausible that each clan maintained distinct vocabulary, pronunciation, or grammatical features, particularly in:
+- **Hunting and herding terminology** (Frostwolf clan vs. Warsong clan)
+- **Shamanistic vocabulary** (Frostwolf, Thunderlord vs. non-shamanistic clans)
+- **War-focused lexicon** (Warsong, Blackrock vs. more pastoral clans)
+
+No clan-specific linguistic features are attested. The vocabulary shared by all orcs (*Lok'tar*, *Zug zug*, *Mak'gora*) likely represents a common core that predates clan divergence.
+
+### Modern Horde Orcish vs. Draenor Orcish
+
+After the orcs crossed the Dark Portal and were interned in Alliance camps, the language experienced:
+- **Contact with Common**: Some orcs may have adopted Common loanwords during internment.
+- **Unification pressure**: The formation of the modern Horde under Thrall may have standardized the language around the Durotar/Orgrimmar dialect.
+- **Loss of clan-specific terms**: If clan dialects existed, the mixing of clans in the internment camps and later in Durotar may have leveled dialectal differences.
+
+### Mag'har Orcish
+
+The Mag'har orcs who remained on Draenor (now Outland/Broken Isles) were separated from Azerothian orcs for approximately 30 years. Given the short timespan, no significant linguistic divergence would be expected, but the Mag'har retained older cultural terms (*Kosh'harg*) that may have fallen out of common use among Azerothian orcs.
+
 ## Cultural Context
 
 Orcish reflects the culture that produced it:
@@ -42,6 +85,17 @@ Orcish reflects the culture that produced it:
 ## Writing System
 
 Orcish has no widely attested writing system in canon. In-game, orcish text is rendered in the Common (Latin) alphabet. The RPG and expanded lore reference runic or carved inscriptions, but no systematic orcish script has been published by Blizzard.
+
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested phrases (with translations) | 6 | *Zug zug*, *Lok'tar*, *Lok'tar ogar*, *Throm-ka*, *Aka'Magosh*, *Mak'gora* |
+| Confirmed morphemes | 0 | No Orcish morpheme has independent attestation outside its compound |
+| Inferred morphemes | 7+ | *Lok* (victory), *ogar* (death), *aka* (blessing), *mak* (duel), *gora* (honor), *kosh* (gathering), *harg* (festival) |
+| Attested proper names | 9+ | *Grommash*, *Durotar*, *Orgrimmar*, *Gul'dan*, *Durotan*, *Orgrim*, *Garrosh*, *Saurfang*, *Lok'osh* |
+| Uncertain words | 6 | *Kek*, *Bur*, *Swobu*, *Agra*, *Grombolar*, *Mok-thrarin* |
+| Attested sentences with full glosses | 0 | No Orcish sentences are attested — all surviving examples are interjections, greetings, or compound nouns |
 
 ## Notes on Reliability
 

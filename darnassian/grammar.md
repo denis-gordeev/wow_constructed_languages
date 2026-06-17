@@ -89,28 +89,113 @@ The modifier-head pattern in compounds might suggest a head-final tendency, but 
 
 `Zin-Azshari` = "The Glory of Azshara." The name "Azshara" is appended directly after "Zin" (glory) with a hyphen, suggesting a postposed genitive or appositional construction: "Glory-[of]-Azshara." This is [speculative] — the hyphen may simply join the two proper nouns.
 
+### The *Andu* / *Endu* Negation Pattern
+
+The pair *Andu* / *Endu* suggests a systematic negation alternation in Darnassian:
+
+| Form | Context | Inferred Function |
+|------|---------|-------------------|
+| *Andu-falah-dor* | "Let balance be restored" | Jussive/imperative + positive complement |
+| *Endu* | "Not" (negative particle) | Negation |
+
+#### Possible Analyses
+
+**Analysis 1: *Andu* = jussive particle; *Endu* = negative jussive (prohibitive)**
+
+If *Andu* = "let" (jussive) and *Endu* = "let not" (prohibitive), then the *a-* prefix marks positive jussive mood and the *e-* prefix marks negative jussive mood. This would be a vowel-alternation negation strategy:
+
+- *Andu* → *Endu* via /a/ → /e/ ablaut
+- The root *-ndu* would carry the core jussive meaning
+- The initial vowel signals affirmative vs. negative mood
+
+This pattern has cross-linguistic parallels: Semitic languages use vowel changes to mark morphological categories (e.g., Arabic *kataba* "he wrote" vs. *kutiba* "it was written"), and some Bantu languages use vowel alternation in verb morphology.
+
+**Analysis 2: *Andu* and *Endu* are unrelated homophones**
+
+The similarity may be coincidental. *Andu* = "let" (imperative particle) and *Endu* = "not" (negative adverb) could be entirely distinct morphemes that happen to share the consonantal frame *-ndu*. The vowel difference (/a/ vs. /e/) would be phonemically contrastive rather than morphologically conditioned.
+
+**Analysis 3: *Andu* is a compound; *Endu* contains a negative prefix *En-***
+
+If *Andu* decomposes as *A* + *ndu*, then *Endu* could be *En* + *ndu*, where *En-* is a negative prefix. This would predict:
+- *-ndu* = a verb root or particle meaning something like "be/let"
+- *A-* = affirmative/positive prefix
+- *En-* = negative prefix
+
+Under this analysis, *Andu-falah-dor* = "Positive-be balance restored" and a hypothetical *Endu-falah-dor* would mean "Negative-be balance" = "Let balance not be [restored]."
+
+#### Assessment
+
+**Confidence: Low–Moderate** for Analysis 1 (ablaut-based negation). The formal similarity between *Andu* and *Endu* is striking — the only phonological difference is the initial vowel /a/ vs. /e/, which is exactly the type of morphological alternation that commonly marks affirmative/negative pairs cross-linguistically. However, the analysis rests on only one attested pair, and Analysis 2 (coincidence) cannot be ruled out.
+
+Analysis 3 is possible but introduces an unattested prefix *En-* that finds no other support in the Darnassian corpus. It is the least parsimonious of the three.
+
+The strongest argument for Analysis 1 is the parallel with Darnassian's other vowel-alternation pattern: the *-dorei* / *-drassil* alternation in World Tree names (*Tel-drassil* vs. the *dor* in *Ban'dinoriel*), which suggests that vowel alternation is a productive morphological process in the language.
+
 ## Phonology
 
-### Sound Inventory (Observed)
+### Consonant Inventory
 
-**Consonants**: d, f, h, k, l, m, n, r, s, t, th (/θ/), v, x, z, sh (/ʃ/)
+| | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|
+| Stops | | | t, d | | k | |
+| Fricatives | f, v | θ (th) | s, z | ʃ (sh) | | h |
+| Nasals | | | n | | | |
+| Liquids | | | l, r | | | |
+| Affricates | | | | | | |
 
-**Vowels**: a, e, i, o, u
+Notes:
+- /b/ and /p/ are absent from attested Darnassian vocabulary, though /b/ appears in a few proper names (*Ban'dinoriel*, *belore*). Their status as phonemes is uncertain.
+- /m/ appears in *shem*, *Asha'man* but is less frequent than /n/. It may be marginal.
+- /x/ (spelled "x") appears only in *Xil'varu*, an uncertain word; it may represent /ks/ rather than a velar fricative.
+- /g/ is unattested in Darnassian proper, distinguishing it from Orcish and Nazja.
+
+### Vowel Inventory
+
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | u |
+| Mid | e | | o |
+| Open | | a | |
 
 ### Phonological Patterns
 
-- Syllable structure tends toward (C)V(C) — e.g., Kal, dor, Tel, Nor, Shan, do
-- /ʃ/ is common (Shan, shem, Asha)
-- /θ/ appears in `Thero`, `thera'nal` — possibly an aspirated or dental fricative
-- Liquids /l/ and /r/ are frequent, especially in names (drassil, ilisar, falah)
-- Vowel sequences are relatively rare; most syllables have a single vowel nucleus
-- The consonant cluster /dr/ in `drassil` and /nd/ in `Andu` are the most complex onset clusters observed
+1. **Syllable structure**: Predominantly (C)V(C). Attested patterns:
+   - CV: *Ka, do, Te, No, Sha*
+   - CVC: *Kal, dor, Shan, Tel, Nor*
+   - VCV: *Adore, Azshari*
+   - No consonant clusters more complex than /dr/ (drassil) and /nd/ (Andu) are attested in onsets
+
+2. **Sibilant frequency**: /ʃ/ is common (*Shan*, *shem*, *Asha*, *Azshari*). /s/ is frequent (*ilisar*, *Darnassus*, *Suramar*). The language has a notably softer sibilant profile than Nazja (which adds /ʒ/ and increases sibilant density).
+
+3. **Dental fricative /θ/**: Appears in *Thero*, *thera'nal*, *Ma'thor*. This sound is rare in most WoW constructed languages but consistently present in Darnassian, contributing to its distinctive character.
+
+4. **Liquid richness**: /l/ and /r/ are the most frequent consonants, especially in names (*drassil*, *ilisar*, *falah*, *Kal*, *belore*). This gives the language its flowing, melodic quality as portrayed in-game.
+
+5. **Vowel sequences**: Relatively rare; most syllables have a single vowel nucleus. The attested corpus shows no diphthongs.
+
+6. **Sonorant-heavy word endings**: Place and personal names prefer sonorant endings: *-il* (drassil, Andrassil), *-ei* (dorei), *-or* (adore), *-an* (thera'nal). This contributes to the melodic character of Darnassian names.
+
+7. **Absence of complex onset clusters**: Unlike Nazja (which permits /sr/, /sk/ onsets), Darnassian shows no complex onset clusters beyond /dr/ and /nd/. This is a key phonological difference between the parent and daughter language.
+
+8. **Apostrophe as morpheme boundary (not phonological)**: Apostrophes in Darnassian orthography mark morpheme boundaries (*Quel'dorei*, *Shan'do*), not glottal stops or phonological processes. This contrasts with Zandali, where apostrophes likely represent glottal stops.
+
+### Comparison with Daughter Languages
+
+| Feature | Darnassian | Thalassian | Shalassian | Nazja |
+|---------|-----------|------------|------------|-------|
+| /θ/ (th) | Present | Retained | Retained | Absent |
+| /ʒ/ (zh) | Absent | Absent | Absent | Very frequent |
+| /dʒ/ (j) | Absent | Absent | Present | Very frequent |
+| Onset clusters | Minimal (/dr/, /nd/) | Minimal | Moderate | Complex (/sr/, /sk/) |
+| /r/ frequency | High | High | High | High |
+| Vowel distribution | Balanced | Balanced | Balanced | Reduced (/a/, /e/ dominant) |
+| Sibilant density | Moderate | Moderate | Moderate | Very high |
 
 ### Name Phonology
 
 Place and personal names in Darnassian show a distinct melodic quality:
-- Frequent liquid + sibilant combinations (drassil, Azshari, Nazjatar)
-- Alternating open and closed syllables (Da-rnas-sus, Tel-dras-sil)
+- Frequent liquid + sibilant combinations (*drassil*, *Azshari*, *Nazjatar*)
+- Alternating open and closed syllables (*Da-rnas-sus*, *Tel-dras-sil*)
 - A preference for sonorant-heavy word endings (-il, -ei, -or, -an)
 
 ## Limitations

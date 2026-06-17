@@ -230,6 +230,70 @@ Loa names show a distinctive phonological pattern compared to tribal/place names
 - Frequent /k/ and /g/ (associated with earth/animal spirits)
 - Proper names without apostrophes (*Gonk, Rezan, Jani, Torga*) tend to be monomorphemic
 
+### Loa Name Morphology
+
+Loa (troll spirits/gods) constitute a distinct lexical category in Zandali. Their names exhibit morphological patterns that differ from tribal names, place names, and personal names:
+
+#### Bimorphemic Loa Names with Apostrophe
+
+Six attested Loa names contain an apostrophe boundary, suggesting compound structure:
+
+| Loa Name | Components (Proposed) | Domain | Notes |
+|----------|----------------------|--------|-------|
+| Mueh'zala | *Mueh'* + *zala* | Death/Sunset | Father of Bwonsamdi; *zala* may relate to *Zandalar* or "great/sunset" |
+| Hir'eek | *Hir'* + *eek* | Bats | Short components; both elements unknown |
+| Krag'wa | *Krag'* + *wa* | Frogs/Earth | *Krag'* may relate to "earth/stone"; *wa* may be a spirit classifier |
+| Pa'ku | *Pa'* + *ku* | Winds | Very short components; possibly onomatopoeic |
+| Shadra | (no apostrophe) | Spiders | Monomorphemic or fused compound |
+| Bwonsamdi | (no apostrophe) | Death | Monomorphemic or fused compound |
+
+The apostrophe-bearing Loa names share a structural pattern: two short morphemes, typically CV + CV or CVC + CV, joined by an apostrophe. This differs from:
+- **Place names** (*Zul'Gurub*, *Zul'Aman*), which use the *Zul-* prefix
+- **Tribal names** (*Gurubashi*, *Zandalari*), which use the *-ari/ashi/aki* suffixes
+- **Personal names** (*Sen'jin*, *Vol'jin*), which use the *-jin* title suffix
+
+#### Monomorphemic Loa Names
+
+Several Loa names lack apostrophes and show no evidence of internal morpheme boundaries:
+
+| Loa Name | Domain | Syllable Structure | Notes |
+|----------|--------|-------------------|-------|
+| Gonk | Raptors | CVC | Extremely short; possibly onomatopoeic |
+| Rezan | Kings | CVC.CV | Longer but no morpheme boundary visible |
+| Jani | Scavengers | CV.CV | Short; final /i/ may be a diminutive or honorific |
+| Kimbul | Tigers | CVC.CVC | Bisyllabic but no apostrophe |
+| Akunda | Storms/Thoughts | CV.CV.CV | Trisyllabic; possibly compound but boundary unclear |
+| Sethraliss | Serpents/Lightning | CCV.CV.CVC | Complex; may contain *Seth* + *raliss* but unconfirmed |
+| Torga | Turtles | CV.CV | Short; possibly related to *Tor-* element seen elsewhere |
+
+The monomorphemic Loa names tend to be shorter than bimorphemic ones (1–3 syllables vs. 2–4 syllables). They also show different phonological profiles: fewer /z/ and /l/ sounds, more /k/ and /g/.
+
+#### Proposed Morphological Classification
+
+Zandali Loa names may reflect a morphological distinction between:
+
+1. **Ancient/Primordial Loa** (monomorphemic names): *Gonk, Rezan, Jani, Kimbul* — these may be the oldest Loa, whose names have fused into single morphemes over time, or whose names were never compound.
+
+2. **Manifestation/Aspect Loa** (compound names): *Mueh'zala, Hir'eek, Krag'wa, Pa'ku* — these may be Loa who embody specific aspects or manifestations, with compound names reflecting their composite nature (e.g., *Krag'wa* = "earth-spirit," *Pa'ku* = "wind-spirit").
+
+3. **Fused/Title Loa** (long names without apostrophe): *Bwonsamdi, Akunda, Sethraliss* — these may contain fossilized morpheme boundaries that have been orthographically smoothed over time.
+
+**Confidence: Very Low** for this classification. The sample size is small (13 Loa names total), and the division between monomorphemic and bimorphemic names may simply reflect Blizzard's aesthetic choices rather than genuine Zandali morphology. The classification is offered as a hypothesis for future investigation.
+
+#### Loa Name Suffixes
+
+A potential suffix pattern emerges among the monomorphemic names:
+
+| Suffix | Examples | Possible Meaning |
+|--------|----------|-----------------|
+| *-a* | *Torga, Pa'ku* (second element) | Loa classifier or spirit marker |
+| *-an* | *Rezan* | Possibly related to *Aman(i)* tribal root? |
+| *-i* | *Jani* | Diminutive, familiar register, or spirit classifier |
+| *-da* | *Akunda* | Uncertain; possibly place-related |
+| *-iss* | *Sethraliss* | Uncertain; possibly adjectival or aspect marker |
+
+None of these suffixes is confirmed. The *-a* ending is the most frequent and may simply reflect a phonological preference for open syllables in Loa names rather than a genuine morpheme.
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar are entirely unattested and should not be assumed:

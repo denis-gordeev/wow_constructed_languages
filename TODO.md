@@ -71,19 +71,24 @@
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
 - [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
-- [ ] Add phonology section to Darnassian grammar.md (currently only has basic sound inventory and patterns, not a dedicated phonology section with tables)
-- [ ] Add phonology section to Orcish grammar.md (currently the most complete grammar but lacks a formal phonology section)
-- [ ] Expand Darnassian description.md: add history section, expand dialectal variation (Highborne register), add attestation summary table
-- [ ] Expand Orcish description.md: add relationship-to-other-languages section, add dialectal variation section, add attestation summary table
-- [ ] Expand Nazja description.md: add dialectal variation section, expand physiological phonological changes
-- [ ] Analyze *-osh* suffix pattern in Orcish names (Lok'osh, Grommash, Garrosh) as potential morphological pattern
-- [ ] Deepen *Andu*/*Endu* negation analysis in Darnassian grammar
-- [ ] Analyze Loa name morphology in Zandali as a dedicated grammar section
-- [ ] Standardize table HTML across all files to use `<thead>`/`<tbody>` pattern (499 tables currently use bare `<tr><th>`)
+- [ ] Sync updated Darnassian grammar.md with grammar.html
+- [ ] Sync updated Orcish grammar.md and description.md with HTML counterparts
+- [ ] Sync updated Nazja description.md with description.html
+- [ ] Add phonology sections to remaining languages that lack formal IPA charts (Dwarven, Gutterspeak, Kalimag, Taur-ahe, Draenei, Eredun, etc.)
+- [ ] Add attestation summary tables to remaining language descriptions that lack them
+- [ ] Add dialectal variation sections to remaining language descriptions that lack them
 
 ## Completed This Round
 
-- [x] Add Nerglish (murloc/jinyu/ankoan/kobyss) to example-sentences.html
+- [x] Add phonology section to Darnassian grammar.md: consonant/vowel IPA charts, 8 phonological patterns, comparison with daughter languages table, name phonology
+- [x] Add phonology section to Orcish grammar.md: consonant/vowel IPA charts, consonant cluster analysis, gemination, 7 phonological patterns, comparison with Darnassian phonology
+- [x] Expand Darnassian description.md: added history section (Pre-Sundering through Teldrassil destruction), dialectal variation (Highborne register, modern vs. ancient, elven comparative table), attestation summary table
+- [x] Expand Orcish description.md: added relationship-to-other-languages section (Common, Zandali, Taur-ahe, Gutterspeak, Draenei), naming conventions comparison table, dialectal variation (clan-based hypothetical, modern vs. Draenor, Mag'har), attestation summary table
+- [x] Expand Nazja description.md: added dialectal variation section (matriarchal vs. warrior register, geographic variation, Azshara-centric language policy), physiological phonological changes (vocal tract transformation, 5-step sound change chain, "same language" theory assessment)
+- [x] Analyze *-osh* suffix pattern in Orcish names: three possible analyses (name-forming suffix, valor/warrior suffix, coincidental pattern), confidence Very Low–Low
+- [x] Deepen *Andu*/*Endu* negation analysis in Darnassian grammar: three analyses (ablaut-based negation, unrelated homophones, prefix-based negation), confidence Low–Moderate for ablaut analysis
+- [x] Analyze Loa name morphology in Zandali grammar: bimorphemic vs. monomorphemic classification, proposed morphological classification (ancient/primordial vs. manifestation/aspect vs. fused/title Loa), Loa name suffix analysis, confidence Very Low
+- [x] Standardize table HTML across all 95 HTML files: all 593 tables now use `<thead>`/`<tbody>` pattern (492 fixed in first pass, 16 in second pass)
 - [x] Add Nerglish reference to alien-comparative.html cross-navigation (intro paragraph + bottom nav)
 - [x] Expand Shalassian description (36 → 75+ lines): added phonology, attested morphemes table, attestation summary, Nazja relationship, Legion/Midnight history
 - [x] Expand Dwarven description (34 → 85+ lines): added phonology, morphology, titan-dwarven connection section, attestation summary, TWW Earthen history, Vrykul/Gnomish relationships
