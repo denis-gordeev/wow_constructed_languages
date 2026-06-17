@@ -105,11 +105,35 @@ The extremely limited sample prevents firm conclusions. Observed patterns:
 
 ## Phonology
 
-### Sound Inventory (Observed)
+### Consonant Inventory
 
-**Consonants**: b, d, f, h, j (/dʒ/), k, l, m, n, p, r, s, t, th (/θ/), v, z, sh (/ʃ/), zh (/ʒ/)
+| | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|---|---|---|---|---|---|---|---|
+| Stops | p, b | | | t, d | | k, g | |
+| Fricatives | | f, v | θ | s, z | ʃ, ʒ | | h |
+| Affricates | | | | | dʒ | | |
+| Nasals | m | | | n | | | |
+| Liquids | | | | l, r | | | |
 
-**Vowels**: a, e, i, o, u
+Notes:
+- /p/ is rare, appearing primarily in the name *Priestess* and some tribe designations. It may be marginal.
+- /g/ appears in *Haghazed*, *Rrurgaz*; it is less frequent than in Orcish or Titan-derived languages.
+- /θ/ appears only in names containing Darnassian morphemes (*Therazjasha*, *Thoras'tal*) and may not be a productive Nazja phoneme — it could be retained only in archaic/ritual vocabulary inherited from the pre-Sundering Highborne dialect.
+- /ʒ/ is the most distinctive Nazja consonant, absent in all other elven languages. It appears in *Nazjatar*, *Naj'entus*, *Zhahara*, *Therazjasha* and many other names.
+- /dʒ/ is very frequent in Nazja names (*Naz'jar*, *Zin'jatar*, *Vashj*, *Sashj'tar*) but absent or very rare in Darnassian and Thalassian, suggesting it developed from Darnassian /j/ under the influence of the transformed naga vocal apparatus.
+
+### Vowel Inventory
+
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | u |
+| Mid | e | | o |
+| Open | | a | |
+
+Nazja retains the five-vowel system /a e i o u/ of the elven language family, but with a markedly skewed distribution:
+- /a/ and /e/ dominate stressed syllables
+- /i/ is common in unstressed positions
+- /o/ and /u/ are relatively rare, possibly reflecting phonological shift under underwater articulation
 
 ### Phonological Patterns
 

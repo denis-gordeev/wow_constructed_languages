@@ -185,7 +185,7 @@ Notes:
 |---------|-----------|------------|------------|-------|
 | /θ/ (th) | Present | Retained | Retained | Absent |
 | /ʒ/ (zh) | Absent | Absent | Absent | Very frequent |
-| /dʒ/ (j) | Absent | Absent | Present | Very frequent |
+| /dʒ/ (j) | Absent | Absent | Not attested | Very frequent |
 | Onset clusters | Minimal (/dr/, /nd/) | Minimal | Moderate | Complex (/sr/, /sk/) |
 | /r/ frequency | High | High | High | High |
 | Vowel distribution | Balanced | Balanced | Balanced | Reduced (/a/, /e/ dominant) |

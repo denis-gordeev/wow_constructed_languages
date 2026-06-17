@@ -71,7 +71,7 @@
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
 - [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
-- [ ] Add phonology IPA charts to remaining languages with prose-only phonology (Gutterspeak has no distinct phonology; Nature is not a distinct language)
+- [x] Add phonology IPA charts to remaining languages with prose-only phonology (Gutterspeak has no distinct phonology; Nature is not a distinct language; Shalassian and Nazja now have IPA charts)
 
 ## Completed This Round
 
@@ -110,3 +110,13 @@
 - [x] Add dialectal variation sections to 17 languages: Dwarven, Draenei, Eredun, Kalimag, Taur-ahe, Pandaren, Vulpera, Shath'Yar, Nerubian, Qiraji, Earthen, Tol'vir, Sethrak, Mogu, Nerglish, Gutterspeak, Nature
 - [x] Sync all updated grammar.md files with grammar.html counterparts (11 languages)
 - [x] Sync all updated description.md files with description.html counterparts (17+ languages for dialectal variation, 6 for attestation)
+
+## Completed This Round (2026-06-17)
+
+- [x] Add phonology IPA charts to Shalassian grammar.md: consonant inventory (stops /t d/ with /k g/ marginal, fricatives /f v θ s z ʃ h/, nasals /m n/, liquids /l r/), vowel inventory (/a e i o u/), 7 phonological patterns, comparison with other elven languages table
+- [x] Add phonology IPA charts to Nazja grammar.md: consonant inventory (full 18-consonant chart including /p b t d k g f v θ s z ʃ ʒ dʒ h m n l r/), vowel inventory (/a e i o u/ with skewed distribution notes), restructured from inline text to proper IPA tables
+- [x] Sync Shalassian grammar.html with updated grammar.md (added consonant/vowel IPA tables, phonological patterns, comparison table)
+- [x] Sync Nazja grammar.html with updated grammar.md (replaced inline consonant/vowel lists with proper IPA tables)
+- [x] Sync Shalassian description.md and description.html with expanded phonology (added IPA notation and grammar.md cross-reference)
+- [x] Fix Darnassian grammar.md and grammar.html comparison table: corrected Shalassian /dʒ/ from "Present" to "Not attested", onset clusters from "Moderate" to "Minimal"
+- [x] Update section navigation in Shalassian and Nazja grammar.html (added Consonants, Vowels, Patterns/Evolution links)

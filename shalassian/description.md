@@ -25,7 +25,7 @@ During the Legion expansion (2016), the Suramar campaign revealed Nightborne soc
 
 ## Phonology
 
-Shalassian phonology is inferred to resemble Darnassian and Thalassian: fluid consonants, vowel-heavy syllables, and melodic intonation. Apostrophes mark morpheme boundaries (*Shal'dorei*, *Shal'Aran*, *Ly'leth*). The language likely retains the five-vowel system /a e i o u/ of the elven family. No consonant clusters unusual for elven languages are attested.
+Shalassian phonology is inferred to resemble Darnassian and Thalassian: fluid consonants, vowel-heavy syllables, and melodic intonation. Apostrophes mark morpheme boundaries (*Shal'dorei*, *Shal'Aran*, *Ly'leth*). The language retains the five-vowel system /a e i o u/ of the elven family. No consonant clusters unusual for elven languages are attested. The consonant inventory includes stops /t d/ (with /k g/ marginal in names), fricatives /f v θ s z ʃ h/, nasals /m n/, and liquids /l r/. The retention of /θ/ (as in *Thalyssra*, *Ly'leth*, *Oculeth*) confirms Shalassian's close relationship to Darnassian and Thalassian, while the absence of /ʒ/ and /dʒ/ distinguishes it from Nazja. See [grammar.md](grammar.md#phonology) for full IPA charts and phonological analysis.
 
 ## Attested Morphemes
 
