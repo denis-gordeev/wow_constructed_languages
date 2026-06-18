@@ -4,59 +4,74 @@ All entries below are attested in World of Warcraft in-game dialogue, NPC speech
 
 ## Nouns
 
-| Word | Meaning | Source / Notes |
-|------|---------|----------------|
-| Lok | victory | From *Lok'tar*; *inferred morpheme |
-| Ogar | death | From *Lok'tar ogar*; *inferred morpheme |
-| Aka | blessing | From *Aka'Magosh*; *inferred morpheme |
-| Gora | honor | From *Mak'gora*; *inferred morpheme |
-| Kosh | gathering | From *Kosh'harg*; *inferred morpheme |
-| Harg | festival, celebration | From *Kosh'harg*; *inferred morpheme |
-| Mak | duel, combat | From *Mak'gora*; *inferred morpheme |
-| Grom | giant's heart, bravery | Name element (cf. Grommash, Grom Hellscream); *inferred meaning |
-| Thrall | slave | Orc word adopted as a proper name; attested meaning in Common/English |
+| Word | IPA | Meaning | Source / Notes |
+|------|-----|---------|----------------|
+| Lok | /lɔk/ | Victory | *Inferred from Lok'tar |
+| Ogar | /ˈɔgɑr/ | Death | *Inferred from Lok'tar ogar |
+| Aka | /ˈɑkɑ/ | Blessing | *Inferred from Aka'Magosh |
+| Gora | /ˈgɔrɑ/ | Honor | *Inferred from Mak'gora |
+| Kosh | /kɔʃ/ | Gathering | *Inferred from Kosh'harg |
+| Harg | /hɑrg/ | Festival, Celebration | *Inferred from Kosh'harg |
+| Mak | /mɑk/ | Duel, Combat | *Inferred from Mak'gora |
+| Grom | /grɔm/ | Giant's heart, Bravery | *Inferred from Grommash |
+| Thrall | /θrɑl/ | Slave | Orc word adopted as proper name |
+| Zug | /zʊg/ | Work, labor | *Inferred from Zug zug |
+| Throm | /θrɔm/ | Possibly "well" or "good" | *Uncertain from Throm-ka |
+| Ka | /kɑ/ | Possibly "meeting" or "to you" | *Uncertain from Throm-ka |
 
 ## Compound Words and Phrases
 
-| Word / Phrase | Meaning | Source / Notes |
-|---------------|---------|----------------|
-| Zug zug | agreement, yes, okay; lit. "work work" | Common orc expression; widely attested |
-| Lok'tar | victory | Battle cry, short form; widely attested |
-| Lok'tar ogar | victory or death | Full Horde battle cry; widely attested |
-| Throm-ka | greetings, well met | Orc greeting; widely attested |
-| Aka'Magosh | a blessing upon you, blessing of the ancestors | Attested blessing |
-| Mak'gora | duel of honor, trial by combat | Attested term for orcish honor duel |
-| Kosh'harg | traditional orcish festival / gathering | Attested cultural term |
+| Word / Phrase | IPA | Meaning | Source / Notes |
+|---------------|-----|---------|----------------|
+| Zug zug | /zʊg zʊg/ | Agreement, yes, okay | Reduplication; widely attested |
+| Lok'tar | /lɔkˈtɑr/ | Victory | Battle cry, short form |
+| Lok'tar ogar | /lɔkˈtɑr ˈɔgɑr/ | Victory or death | Full Horde battle cry |
+| Throm-ka | /θrɔmˈkɑ/ | Greetings, well met | Orc greeting |
+| Aka'Magosh | /ˈɑkɑˈmɑgɔʃ/ | A blessing upon you | Attested blessing |
+| Mak'gora | /mɑkˈgɔrɑ/ | Duel of honor | Attested term |
+| Kosh'harg | /kɔʃˈhɑrg/ | Traditional orcish festival | Attested cultural term |
 
 ## Proper Names (with possible morphemic content)
 
-| Name | Possible Meaning | Notes |
-|------|-----------------|-------|
-| Grommash | heart of giant, giant's heart | *Inferred from "Grom" + morpheme |
-| Durotar | (land named after Durotan) | "Tar" may be a suffix meaning "land"; **highly uncertain** |
-| Orgrimmar | (city named after Orgrim Doomhammer) | Proper name; no reliable morphemic breakdown |
-| Nagrand | land of winds | *Possible meaning; **uncertain** |
-| Gul'dan | (proper name) | Apostrophe indicates morpheme boundary; components unknown |
-| Durotan | (proper name) | Components unknown |
-| Orgrim | (proper name) | Components unknown |
-| Garrosh | (proper name) | Components unknown |
-| Saurfang | (family name) | Components unknown |
-| Lok'osh | (name or title) | Components unknown |
+| Name | IPA | Possible Meaning | Notes |
+|------|-----|-----------------|-------|
+| Grommash | /ˈgrɔmɑʃ/ | Heart of giant | *Inferred from "Grom" |
+| Durotar | /ˈdʊrɔtɑr/ | Land named after Durotan | "Tar" may = "land"; uncertain |
+| Orgrimmar | /ˈɔrgrɪmɑr/ | — | City name; no reliable breakdown |
+| Gul'dan | /gʊlˈdɑn/ | — | Apostrophe = morpheme boundary |
+| Durotan | /ˈdʊrɔtɑn/ | — | Components unknown |
+| Orgrim | /ˈɔrgrɪm/ | — | Components unknown |
+| Garrosh | /ˈgɑrɔʃ/ | — | Components unknown |
+| Saurfang | /ˈsɑʊrfɑŋ/ | — | Components unknown |
+| Lok'osh | /lɔkˈɔʃ/ | — | Components unknown |
+| Nagrand | /ˈnɑgrɑnd/ | "Land of winds" or "land of spirits" | Place name on Draenor; uncertain etymology |
 
 ## Uncertain / Partially Attested Words
 
-| Word | Possible Meaning | Notes |
-|------|-----------------|-------|
-| Kek | okay, yes | Short agreement; also the Orcish translation of "lol" in WoW's language filter |
-| Bur | (uncertain) | Appears in language filter output; meaning unknown |
-| Swobu | possibly "goodbye" | **Unconfirmed** |
-| Agra | possibly "respect" or "strength" | **Unconfirmed** |
-| Nok-Karosh | (creature/elemental name) | Morphemic breakdown unknown |
-| Grombolar | possibly "blood and thunder" (curse) | **Unconfirmed** |
-| Mok-thrarin | (uncertain) | Meaning and morphemic breakdown unknown |
-| Ishnu | possibly "good" or "peace" | **Uncertain; may overlap with Darnassian** |
-| Tar | possibly "or" OR "death" OR "land" | Multiple conflicting analyses: (1) "or" in *Lok'tar ogar*, (2) part of a compound with *Lok*, (3) suffix in *Durotar*; **highly uncertain** |
-| Magosh | upon you / ancestors | From *Aka'Magosh*; *inferred; exact meaning **uncertain** |
+| Word | IPA | Possible Meaning | Notes |
+|------|-----|-----------------|-------|
+| Kek | /kɛk/ | Okay, yes | Also Orcish translation of "lol" in language filter |
+| Bur | /bʊr/ | (uncertain) | Language filter output |
+| Swobu | /ˈswɔbu/ | Possibly "goodbye" | Unconfirmed |
+| Agra | /ˈɑgrɑ/ | Possibly "respect" or "strength" | Unconfirmed |
+| Nok-Karosh | /nɔkˈkɑrɔʃ/ | — | Morphemic breakdown unknown |
+| Grombolar | /grɔmˈbɔlɑr/ | Possibly "blood and thunder" | Unconfirmed |
+| Mok-thrarin | /mɔkˈθrɑrɪn/ | — | Meaning unknown |
+| Ishnu | /ˈɪʃnʊ/ | Possibly "good" or "peace" | May overlap with Darnassian |
+| Tar | /tɑr/ | "Or" / "death" / "land" | Multiple conflicting analyses |
+| Magosh | /ˈmɑgɔʃ/ | Upon you / ancestors | *Inferred from Aka'Magosh |
+
+## Additional Canon Phrases (from Expanded Sources)
+
+Phrases and terms attested in Warcraft I–III, novels (especially *Rise of the Horde*, *Lord of the Clans*, *The Shattering*), and RPG sourcebooks.
+
+| Phrase | IPA | Translation | Source |
+|--------|-----|-------------|--------|
+| Lok'narosh | /lɔkˈnɑrɔʃ/ | Possibly "victory and honor" or variant battle cry | Novel / expanded lore; uncertain attestation |
+| Lok'amon | /lɔkˈɑmɔn/ | Possibly "victory song" or "song of victory" | Attributed to orcish cultural context |
+| Hel'grin | /hɛlˈgrɪn/ | Possibly a curse or expression | Very limited attestation |
+| Gol'gogg | /gɔlˈgɔg/ | — | Ogron/ogre name; may contain Orcish morphemes |
+| Draenor | /ˈdreɪnɔr/ | "Exiles' refuge" (Draenei name) or native orcish name | The orcs' own name for the planet may differ from the Draenei name |
 
 ## Notes
 
@@ -64,3 +79,4 @@ All entries below are attested in World of Warcraft in-game dialogue, NPC speech
 - Hyphens also appear as morpheme separators (e.g., *Throm-ka*, *Nok-Karosh*).
 - The vocabulary is extremely limited; Blizzard has never published a full Orcish lexicon.
 - Many "Orcish" words encountered in-game are filtered substitutions from the cross-faction language system and do not represent genuine Orcish vocabulary.
+- Christie Golden's *Rise of the Horde* and *Lord of the Clans* contain the most extensive Orcish cultural vocabulary in canon. Terms like *Kosh'harg* and *Mak'gora* originate from these novels. However, some phrases attributed to these sources are reconstructions based on context rather than directly quoted Orcish forms.

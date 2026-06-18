@@ -74,6 +74,13 @@
 - [ ] Research patch 12.1.0 content (Zul'jan quest line with uncle Kinduru) for new Zandali names — revisit when patch notes or wiki data become available
 - [x] Add phonology IPA charts to remaining languages with prose-only phonology (Gutterspeak has no distinct phonology; Nature is not a distinct language; Shalassian and Nazja now have IPA charts)
 
+## Next Actions
+
+- [ ] Check warcraft.wiki.gg for patch 12.1.0 Zul'jan quest line data when available (new Zandali names, Kinduru lore)
+- [ ] Verify HTML structural integrity of all modified files (haranir/vocabulary.html, nazja/vocabulary.html, zandali/vocabulary.html, titan-forged-comparative.html)
+- [ ] Check if Darnassian, Orcish, Thalassian grammar.html and description.html files need updates to reflect new vocabulary entries
+- [ ] Audit remaining languages for MD/HTML sync gaps (especially languages with recent updates that may not have been checked)
+
 ## Completed This Round
 
 - [x] Add phonology section to Darnassian grammar.md: consonant/vowel IPA charts, 8 phonological patterns, comparison with daughter languages table, name phonology
@@ -143,3 +150,15 @@
 - [x] Add new TODO for patch 12.1.0 Zul'jan quest line research
 - [x] Fix broken comparative HTML links in 5 description.md and description.html files (dwarven, shath-yar, thalassian, zandali, shalassian — links to comparative HTML files needed ../ prefix)
 - [x] Fix missing `<tbody>` tags in 4 grammar.html files (vulpera, gnomish, tolvir, drust — 7 tables total)
+
+## Completed This Round (2026-06-18, Round 3)
+
+- [x] Sync haranir/vocabulary.html with vocabulary.md: added 20 additional named Haranir NPCs (Ah'wara, Amwa'ana, Glishi'ma, Envoy Habissi, Hawli, Imhayo, Envoy Ir'ayi, Kai'shae, Kalni, Kamari, Leaf-Weaver Kulawah, Zur'ashar Lu'kah, Maku, Envoy Manat, Mowaia, Tawroa, Mothkeeper Wew'tam, Yaila, Yinaa, Yonaa) and 3 Blinding Vale bosses (Ikuzz the Light Hunter, Ziekket, Lightblossom Trinity); updated Ruia entry with expanded lore (confirmed male, killed by players, druid class)
+- [x] Sync nazja/vocabulary.html with vocabulary.md: added 11 missing named beings (Rajis Fyashe, Warlord Krellian, Lady Zithreen, Lady Ssathara, Atoph the Bloodcursed, Rajah Haghazed, Lord Sakrasis, Deepsire Saffsis, Tidelord Rrurgaz, Lord Sinslayer, Overseer Tidewrath), 6 missing place names (Alathir Spire, Deepcoil Tunnels/Hatchery, Coilfang Reservoir, Blackfathom Deeps, Mak'aru, Elun'dris); added Section 8 (Azj-/Nazj- Connection with nerubian data)
+- [x] Sync zandali/vocabulary.html with vocabulary.md: added 7 missing BfA entries (Terrace of the Speakers, The Great Seal, Port of Zandalar, Hexlord Raal, Blood troll, G'huun, Underrot)
+- [x] Add cross-navigation to titan-forged-comparative.html (footer nav linking to all 5 comparative/example files)
+- [x] Fix double `<hr>` in alien-comparative.html footer
+- [x] Fix .md link text in HTML files (59 instances across 14 files): replaced all visible `.md` link text with `.html` where href correctly pointed to `.html` — affected example-sentences.html (28), titan-forged-comparative.html (9), alien-comparative.html (6), haranir/vocabulary.html (1), shalassian/vocabulary.html (2), darnassian/vocabulary.html (1), mogu/vocabulary.html (2), nature/vocabulary.html (2), haranir/description.html (1), dwarven/description.html (1), shath-yar/description.html (2), ethereal/vocabulary.html (2)
+- [x] Reverse-sync Darnassian vocabulary.md from vocabulary.html: added 4 nouns (Ash, Karath, Fandu, Dath), 1 title (Fury), 1 adjective (Falah), 3 uncertain words (Sindu, Fallah, Nor), 4 additional canon phrases (Ishnu-alah, Ishnu-dal-die, Elune-melor, Torel na finel), 2 place names (Val'sharah, Dire Maul/Eldre'Thalas); added IPA column to all tables
+- [x] Reverse-sync Orcish vocabulary.md from vocabulary.html: added 3 nouns (Zug, Throm, Ka), 5 additional canon phrases (Lok'narosh, Lok'amon, Hel'grin, Gol'gogg, Draenor); added IPA column to all tables
+- [x] Reverse-sync Thalassian vocabulary.md from vocabulary.html: added 2 nouns (Dal, Endal), 2 proper names (Sunstrider, Silvermoon), 2 additional canon phrases (Alah belore, Anu belore dela'na sin'dorei); expanded Medivh entry; added IPA column to all tables
