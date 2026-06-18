@@ -26,7 +26,13 @@ Based on attested Pandaren proper names:
 - **Hyphen usage:** Shen-zin Su uses hyphens, possibly marking phrase boundaries similar to the elven language convention.
 - **Name reduplication:** *Li Li* demonstrates reduplication, a common feature in East Asian languages (and consistent with the Chinese cultural inspiration).
 
-### Vowel System
+### Vowel Inventory
+
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | u |
+| Mid | e | | o |
+| Open | | a | |
 
 Full five-vowel system observed: /a/, /e/, /i/, /o/, /u/. Diphthongs are present in some names (e.g., /aɪ/ in *Kun-Lai*, /aʊ/ in *Niuzao*).
 

@@ -73,6 +73,18 @@ No Gnomish-language sentences, phrases, or texts are attested in canon. All in-g
 - The Gnomish writing system (mentioned but not demonstrated).
 - Whether the language was systematically designed by Blizzard or is simply mentioned as a lore element without actual linguistic content.
 
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested personal names | ~5+ | *Mekkatorque*, *Erazmin*, *Gelbin* |
+| Attested place names | 3 | *Gnomeregan*, *Mechagon*, *Rustbolt* |
+| Attested ethnonyms | 2 | *Gnome*, *Mechagnome* |
+| Confirmed morphemes | 0 | No Gnomish morpheme has independent confirmation |
+| Inferred morphemes | 1 | *Mech-*/*Mekka-* (mechanical creation?; may be Common borrowing) |
+| Attested phrases with translations | 0 | No Gnomish phrases have confirmed translations |
+| Attested sentences with full glosses | 0 | No Gnomish sentences are attested |
+
 ## References
 
 - *World of Warcraft: Chronicle Volume 1* (2016). Blizzard Entertainment. (Mechagnome creation by Mimiron.)

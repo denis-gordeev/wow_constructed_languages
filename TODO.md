@@ -120,3 +120,14 @@
 - [x] Sync Shalassian description.md and description.html with expanded phonology (added IPA notation and grammar.md cross-reference)
 - [x] Fix Darnassian grammar.md and grammar.html comparison table: corrected Shalassian /dʒ/ from "Present" to "Not attested", onset clusters from "Moderate" to "Minimal"
 - [x] Update section navigation in Shalassian and Nazja grammar.html (added Consonants, Vowels, Patterns/Evolution links)
+
+## Completed This Round (2026-06-18)
+
+- [x] Fix Zandali grammar.html: add missing Loa Name Morphology section (Bimorphemic Loa Names, Monomorphemic Loa Names, Proposed Morphological Classification, Loa Name Suffixes — 4 subsections with 3 tables)
+- [x] Add attestation summary tables to Vulpera description.md and description.html
+- [x] Add attestation summary tables to Pandaren description.md and description.html
+- [x] Add attestation summary tables to Sethrak description.md and description.html
+- [x] Add attestation summary tables to Gnomish description.md and description.html
+- [x] Add vowel IPA inventory table to Pandaren grammar.md (replaced prose-only Vowel System with proper Front/Central/Back chart)
+- [x] Sync Pandaren grammar.html with updated grammar.md (added Vowel Inventory table)
+- [x] Update section navigation in Zandali grammar.html (added Loa Morphology link) and Pandaren grammar.html (added Consonants/Vowels/Features links)

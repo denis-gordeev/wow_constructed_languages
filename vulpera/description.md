@@ -56,6 +56,17 @@ No Vulpera dialects are attested in canon. However, the Vulpera's nomadic carava
 - Any vocabulary beyond the five attested personal names and the ethnonym.
 - Whether the Vulpera even have a distinct language (they may speak a dialect of Zandali or another language).
 
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested personal names | 5 | *Kiro*, *Nisha*, *Meera*, *Gaz*, *Serka* |
+| Attested ethnonyms | 1 | *Vulpera* |
+| Confirmed morphemes | 0 | No Vulpera morpheme has independent confirmation |
+| Inferred morphemes | 2 | *Vulp-* ("fox"?), *-era* ("people/folk"?) |
+| Attested phrases with translations | 0 | No Vulpera phrases have confirmed translations |
+| Attested sentences with full glosses | 0 | No Vulpera sentences are attested |
+
 ## Sources
 
 - World of Warcraft: Battle for Azeroth (2018). Blizzard Entertainment.

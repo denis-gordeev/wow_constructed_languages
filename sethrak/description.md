@@ -111,6 +111,19 @@ No grammar, syntax, or extended text has been published by Blizzard. All morphol
 - Whether the Sethrak had a written language before Zandalari contact.
 - The degree of mutual intelligibility (if any) with Zandali or Vulpera.
 
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested personal names | ~8 | *Vorrik*, *Jakra'zet*, *Korgok*, *Korthek*, *Merektha* |
+| Attested ethnonyms | 1 | *Sethrak* |
+| Attested loa names | 1 | *Sethraliss* |
+| Attested place names | 1–2 | *Amet*; *Atul'Aman* (likely Zandali) |
+| Confirmed morphemes | 0 | No Sethrak morpheme has independent confirmation |
+| Inferred morphemes | 2 | *seth* ("serpent"?), *rak* ("people"?) |
+| Attested phrases with translations | 0 | No Sethrak phrases have confirmed translations |
+| Attested sentences with full glosses | 0 | No Sethrak sentences are attested |
+
 ## References
 
 - World of Warcraft: Battle for Azeroth (2018). Blizzard Entertainment.

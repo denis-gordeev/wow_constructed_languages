@@ -72,6 +72,19 @@ No complete Pandaren sentences are attested. Pandaren NPCs speak Common in-game.
 - Syntax, verbal morphology, pronouns, or any grammatical structure.
 - Any vocabulary beyond proper names and the two faction names.
 
+## Attestation Summary
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| Attested personal names | ~20+ | *Chen*, *Li Li*, *Taran Zhu*, *Kang*, *Shado-Master* |
+| Attested place names | ~15+ | *Pandaria*, *Shen-zin Su*, *Kun-Lai Summit*, *Mogu'shan* |
+| Attested faction/philosophy names | 2 | *Tushui*, *Huojin* |
+| Celestial names | 4 | *Chi-Ji*, *Niuzao*, *Xuen*, *Yu'lon* |
+| Confirmed morphemes | 0 | No Pandaren morpheme has independent confirmation |
+| Inferred morphemes | 4 | *-jin* ("way/people"?), *-shui* ("water/flow"?), *-shan* ("mountain/palace"?), *-lao* ("venerable/old"?) |
+| Attested phrases with translations | 0 | No Pandaren phrases have confirmed translations |
+| Attested sentences with full glosses | 0 | No Pandaren sentences are attested |
+
 ## Sources
 
 - World of Warcraft: Mists of Pandaria (2012). Blizzard Entertainment.
