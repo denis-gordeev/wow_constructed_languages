@@ -122,7 +122,7 @@ The in-game script on Darnassian signage does not consistently map to romanized 
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Attested phrases (with translations) | 6 | *Elune-adore*, *Andu-falah-dor*, *Ash karath*, *Tor ilisar'thera'nal*, *Fandu-dath-belore?*, *Sindu-fallah-nor* |
+| Attested phrases (with translations) | 8+ | *Elune-adore*, *Andu-falah-dor*, *Ash karath*, *Tor ilisar'thera'nal*, *Fandu-dath-belore?*, *Sindu-fallah-nor*, *Ishnu-alah*, *Ishnu-dal-die* |
 | Confirmed morphemes | 8+ | *Kal* (star), *dor/drassil* (crown), *Tel* (earth), *Nor* (heavens), *Zin* (glory), *dorei* (children of), *Quel* (noble), *shan* (honored/learner) |
 | Inferred morphemes | 4+ | *Andu/Tor* (imperative), *Endu* (negative), *ilisar* (enemies), *adore* (bless) |
 | Attested place names | 9 | *Darnassus*, *Teldrassil*, *Nordrassil*, *Vordrassil*, *Andrassil*, *Shaladrassil*, *Zin-Azshari*, *Suramar*, *Nazjatar* |

@@ -31,6 +31,15 @@ This reflects the Highborne's adoption of sun veneration in their new homeland a
 
 The Blood Elves' magical addiction following the destruction of the Sunwell influenced their cultural identity — the very name Sin'dorei ("Children of the Blood") reflects this trauma — but the attested Thalassian vocabulary does not include words directly related to magical addiction or the Sunwell. This is likely a limitation of the corpus rather than a genuine absence.
 
+### The Sunwell, the Darkwell, and the Dawnwell (Midnight Expansion)
+
+The Midnight expansion profoundly affected Thalassian culture through the corruption and purification of the Sunwell:
+
+- **The Darkwell**: The Sunwell after L'ura fired a void beam into it, corrupting it. This represents the most significant desecration of the holiest site in Thalassian culture. The name is Common/English ("Dark" + "Well"); no Thalassian form is attested.
+- **The Dawnwell**: The purified Sunwell after leaders from each elven faction offered a piece of their heritage to cleanse the Darkwell. The name uses Common/English but is culturally significant: "Dawn" symbolizes the new era of elven unity. If a Thalassian form existed, it might contain *belore* (sun) — e.g., *Belore'thalas* — but this is speculative.
+- **Antenorian**: The governor of Tranquillien who allied with Twilight's Blade cultists during the Darkwell crisis. The name has no clear Thalassian morpheme decomposition; the *-orian* ending may parallel other Thalassian proper names.
+- **The Silversun Compact**: An alliance of Sunreavers and Silver Covenant formed by Aethas Sunreaver and Vereesa Windrunner after the Battle of the Darkwell. The name is a Common-language portmanteau of "Silver" (Silver Covenant) + "Sun" (Sunreavers; cf. *belore* = "sun"), but the "sun" element echoes the Thalassian word *belore*.
+
 ### Self-Naming as Cultural Statement
 
 Each elven people defines itself through the -'dorei pattern, using the defining characteristic as the first element:
@@ -78,7 +87,7 @@ See [elven-comparative.html](../elven-comparative.html) for full comparative ana
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Attested phrases with translations | 8–10 | *Bal'a dash*, *Shorel'aran*, *Anar'alah belore*, *Anu belore dela'na*, *Ande'thoras-ethil* |
+| Attested phrases with translations | 10–12 | *Bal'a dash*, *Shorel'aran*, *Anar'alah belore*, *Anu belore dela'na*, *Ande'thoras-ethil*, *Alah belore*, *Anu belore dela'na, sin'dorei* |
 | Attested isolated words/morphemes | 15–20 | *Sin*, *Quel*, *Ren*, *belore*, *alah*, *Thalas*, *dorei*, *Ande*, *Anu* |
 | Confirmed morphemes | 3 | *-'dorei* (children of), *Sin* (blood), *Quel* (noble/high) |
 | Inferred morphemes | 6+ | *Ren* (void), *Thalas* (home), *Ande* (optative), *Anu* (article), *ethil* (diminished), *belore* (sun) |

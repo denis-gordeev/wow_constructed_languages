@@ -42,6 +42,15 @@ The phrase *Lok'tar ogar* ("Victory or death") presents an analytical difficulty
 
 Analysis A is the most common fan analysis but requires *-tar* to function as a conjunction, which finds no other attestation. Analysis B requires *ogar* to be a compound of an unknown conjunction + "death." Analysis C assumes zero-marking for disjunction. None is confirmable with available data.
 
+**Additional *Lok'* compounds from expanded sources:**
+
+Two further compounds with the *Lok'* root are attested in novels and expanded lore:
+
+- **Lok'narosh** — possibly "victory and honor" or a variant battle cry. If *-narosh* contains the *-osh* element discussed below, this phrase may mean "victorious warrior" or "one of victory," parallel to *Lok'osh*.
+- **Lok'amon** — possibly "victory song" or "song of victory." The element *-amon* is otherwise unattested; if *-mon* relates to *-magosh* (from *Aka'Magosh*), it could be a suffix meaning "upon you" or "through ancestors," but this is [speculative].
+
+Both phrases reinforce the productivity of the *Lok'* root in Orcish martial vocabulary.
+
 ### The *-osh* Suffix in Names
 
 Three prominent orcish personal names share a final *-osh* element:
@@ -51,6 +60,7 @@ Three prominent orcish personal names share a final *-osh* element:
 | Grommash | Son of Grom Hellscream, Warchief of the True Horde | No confirmed translation |
 | Garrosh | Son of Grom Hellscream, Warchief of the Horde | No confirmed translation |
 | Lok'osh | Spirit Walker title/term | No confirmed translation |
+| Lok'narosh | Expanded lore (variant battle cry) | Possibly "victorious warrior" or "victory and honor" |
 
 #### Possible Analyses
 

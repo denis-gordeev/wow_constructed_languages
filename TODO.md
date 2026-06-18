@@ -77,9 +77,8 @@
 ## Next Actions
 
 - [ ] Check warcraft.wiki.gg for patch 12.1.0 Zul'jan quest line data when available (new Zandali names, Kinduru lore)
-- [ ] Verify HTML structural integrity of all modified files (haranir/vocabulary.html, nazja/vocabulary.html, zandali/vocabulary.html, titan-forged-comparative.html)
-- [ ] Check if Darnassian, Orcish, Thalassian grammar.html and description.html files need updates to reflect new vocabulary entries
-- [ ] Audit remaining languages for MD/HTML sync gaps (especially languages with recent updates that may not have been checked)
+- [ ] Fix remaining formatting-level vocab sync issues (nature/pandaren/vulpera heading name mismatches — cosmetic only)
+- [ ] Fix haranir grammar.html formatting difference (bold markers in MD vs plain text in HTML — cosmetic only)
 
 ## Completed This Round
 
@@ -162,3 +161,39 @@
 - [x] Reverse-sync Darnassian vocabulary.md from vocabulary.html: added 4 nouns (Ash, Karath, Fandu, Dath), 1 title (Fury), 1 adjective (Falah), 3 uncertain words (Sindu, Fallah, Nor), 4 additional canon phrases (Ishnu-alah, Ishnu-dal-die, Elune-melor, Torel na finel), 2 place names (Val'sharah, Dire Maul/Eldre'Thalas); added IPA column to all tables
 - [x] Reverse-sync Orcish vocabulary.md from vocabulary.html: added 3 nouns (Zug, Throm, Ka), 5 additional canon phrases (Lok'narosh, Lok'amon, Hel'grin, Gol'gogg, Draenor); added IPA column to all tables
 - [x] Reverse-sync Thalassian vocabulary.md from vocabulary.html: added 2 nouns (Dal, Endal), 2 proper names (Sunstrider, Silvermoon), 2 additional canon phrases (Alah belore, Anu belore dela'na sin'dorei); expanded Medivh entry; added IPA column to all tables
+
+## Completed This Round (2026-06-18, Round 4)
+
+- [x] Verify HTML structural integrity of previously modified files (haranir/vocabulary.html, nazja/vocabulary.html, zandali/vocabulary.html, titan-forged-comparative.html) — all pass
+- [x] Fix Darnassian description.html: add missing History, Dialectal Variation (with Elven Comparative Perspective table), and Attestation Summary sections; update nav with new section links
+- [x] Fix Darnassian grammar.html: correct Shalassian onset clusters from "Minimal" to "Moderate" in Comparison with Daughter Languages table (matching grammar.md)
+- [x] Add Ishnu greeting root analysis to Darnassian grammar.md and grammar.html: Ishnu-alah, Ishnu-dal-die, Elune-melor, Torel na finel; expanded greeting/blessing pattern in syntax section
+- [x] Update Darnassian description.md and description.html attestation summary: 6 → 8+ attested phrases (added Ishnu-alah, Ishnu-dal-die)
+- [x] Add Lok'narosh and Lok'amon analysis to Orcish grammar.md and grammar.html: extends Lok'tar ogar problem section with expanded-source compounds; adds Lok'narosh to -osh suffix table
+- [x] Update Orcish description.md and description.html attestation summary: 6 → 8+ attested phrases (added Lok'narosh, Lok'amon)
+- [x] Add shortened greeting and extended vocative analysis to Thalassian grammar.md and grammar.html: Alah belore as shortened Anar'alah belore; Anu belore dela'na, sin'dorei confirms [Blessing] + [Vocative] pattern
+- [x] Add Midnight expansion content to Thalassian description.md and description.html: Sunwell/Darkwell/Dawnwell history, Antenorian, Silversun Compact
+- [x] Update Thalassian description attestation summary: 8–10 → 10–12 attested phrases
+- [x] Fix taur-ahe grammar.html: add missing IPA and Word Order sections; update nav
+- [x] Fix taur-ahe vocabulary.html: add missing Confirmed Translations and Notes sections; restructure heading hierarchy
+- [x] Fix gutterspeak vocabulary.html: add missing Notes section
+- [x] Fix shalassian vocabulary.html: add missing Arcane Vocabulary (Legion) section
+- [x] Fix mogu vocabulary.html: add missing People / Groups section; update morphemic decompositions heading and entries
+- [x] Fix titan vocabulary.html: update heading names; add missing Potential Morphemic Decompositions (Speculative) section with 25-row table
+- [x] Rebuild nerubian/vocabulary.html: 14 numbered sections from MD (was 19 headings in HTML vs 56 in MD; now fully synced)
+- [x] Rebuild ethereal/vocabulary.html: 16 numbered sections from MD (was 23 headings in HTML vs 47 in MD; now fully synced)
+- [x] Rebuild drust/vocabulary.html: 9 sections from MD including Stele inscriptions, Magic & Ritual terminology, Items, Quests (was 18 headings in HTML vs 42 in MD; now fully synced)
+- [x] Rebuild haranir/vocabulary.html: 8 numbered sections from MD with full morpheme analysis, confirmed translations, relationships (was 27 headings in HTML vs 48 in MD; now fully synced)
+- [x] Rebuild earthen/vocabulary.html: 10 sections from MD including Eir- connection, -dar suffix investigation, Arathi names, Kobyss/Nerglish reference (was 11 headings in HTML vs 26 in MD; now fully synced)
+- [x] Rebuild vrykul/vocabulary.html: expanded place names into sub-regions, added Relationship to Other Languages section, updated phonology (was 32 headings in HTML vs 45 in MD; now fully synced)
+- [x] Rebuild qiraji/vocabulary.html: 13 sections from MD including hyphen vs apostrophe analysis, Hara'ni coincidences (was 28 headings in HTML vs 29 in MD; now fully synced)
+- [x] Rebuild tolvir/vocabulary.html: expanded morphemes into 4 probability tiers, added decompositions and Egyptian parallels (was 7 headings in HTML vs 19 in MD; now fully synced)
+- [x] Rebuild gnomish vocabulary.html: 14 sections from MD including Goblin naming analysis, Gallagio, technology terms, relationships (was 10 headings in HTML vs 24 in MD; now fully synced)
+- [x] Rebuild shath-yar vocabulary.html: domanaar/-aar investigation with 3 hypotheses, Naaru naming analysis (was 9 headings in HTML vs 16 in MD; now fully synced)
+- [x] Rebuild draenei vocabulary.html: expanded Additional Canon Phrases with Argus/WoD subsections (was 8 headings in HTML vs 13 in MD; now fully synced)
+- [x] Rebuild dwarven vocabulary.html: added Titan-Dwarven Cross-Reference, War Within section with Earthen data (was 6 headings in HTML vs 11 in MD; now fully synced)
+- [x] Rebuild zandali vocabulary.html: restructured BfA section into subsections, added missing Loa/Morpheme entries, Midnight place names (was 17 headings in HTML vs 23 in MD; now fully synced)
+- [x] Rebuild nazja vocabulary.html: expanded morphemes, tribes, military types, phonology, relationships (was 25 headings in HTML vs 30 in MD; now fully synced)
+- [x] Fix eredun vocabulary.html: remove duplicate phonology sections (already in grammar.html)
+- [x] Fix .md link references in HTML files: replaced all .md cross-references with .html equivalents across nerubian, haranir, shath-yar, zandali, tolvir vocabulary/grammar/description HTML files
+- [x] Full HTML structural integrity validation: all 30 language directories pass (balanced table/thead/tbody/tr tags, no visible .md link text)

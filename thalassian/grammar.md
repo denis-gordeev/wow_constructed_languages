@@ -85,6 +85,10 @@ Greetings and farewells appear to be fixed formulae:
 
 The blessing-greeting **Anar'alah belore** may follow a prepositional phrase structure: **Anar'alah** (by the light) + **belore** (of the sun / the sun), but the exact syntax is uncertain.
 
+**Shortened greeting form**: *Alah belore* ("Light of the sun") is attested in expanded sources as a possible shortened form of *Anar'alah belore*. If so, this suggests that the prepositional element *Anar'* ("by") can be dropped in informal contexts, leaving the core noun *alah* ("light") + *belore* ("sun") — a nominal compound functioning as a blessing.
+
+**Extended vocative form**: *Anu belore dela'na, sin'dorei* ("The sun will guide us, children of the blood") is attested in some Blood Elf NPC interactions. The addition of *, sin'dorei* after the standard phrase follows the **[Blessing] + [Vocative]** pattern seen in *Bal'a dash, malanorei*, confirming that ethnonyms can serve as vocative address forms appended after blessing/greeting formulae.
+
 ### Vocative Construction
 
 **Bal'a dash, malanorei** = "Greetings, traveler"

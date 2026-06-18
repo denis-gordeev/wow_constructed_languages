@@ -48,6 +48,20 @@ They do **not** appear in all compounds — `Kaldorei`, `Teldrassil`, `Nordrassi
 - Historical spelling conventions
 - Etymological transparency (apostrophe used where morpheme boundaries are less obvious in pronunciation)
 
+### The *Ishnu* Greeting Root
+
+Two additional canon phrases share the root *Ishnu*, expanding the Darnassian greeting/blessing corpus:
+
+- **Ishnu-alah** — "Good fortune / blessings upon you" (Warcraft III Priestess of the Moon voice line)
+- **Ishnu-dal-die** — "Good fortune to you / farewell variant" (Warcraft III voice line)
+
+*Ishnu* appears to be a greeting or blessing particle meaning "good fortune" or "blessings." The element *-alah* may connect to Thalassian *alah* ("light"), suggesting either a shared elven root or a cross-language borrowing. The element *-dal-die* is opaque; *dal* may relate to Thalassian *Dal* (possibly "fortune") and *die* may be a dative or second-person marker, but this is [speculative].
+
+Two further expanded-source phrases are attested but with uncertain reliability:
+
+- **Elune-melor** — "Elune grant strength" or similar; follows the *Elune-* + hyphen + complement pattern established by *Elune-adore*
+- **Torel na finel** — A phrase of unknown meaning; *na* may be a preposition or particle
+
 ### Hyphen Usage
 
 Hyphens connect elements in phrasal constructions:
@@ -70,6 +84,8 @@ Two imperative formulas are attested:
 Both `Andu` and `Tor` function as jussive/imperative particles meaning "let." This suggests Darnassian may differentiate types of imperative (hortative vs. directive, or formal vs. informal), but the sample is too small to confirm.
 
 **Direct command form**: `Ash karath` ("Do it / Make it so") — a separate imperative construction without a jussive particle, possibly a direct second-person command.
+
+**Expanded greeting/blessing pattern**: *Ishnu-alah* and *Ishnu-dal-die* (from Warcraft III) introduce a third greeting formula alongside *Elune-adore* and *Fandu-dath-belore*. The *Ishnu-* root appears to function as a blessing/wish particle, followed by a hyphen-separated complement (like *Elune-adore*). This reinforces the pattern: **[Deity/Blessing root] + hyphen + [complement]**.
 
 ### Interrogative Formation
 

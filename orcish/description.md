@@ -90,7 +90,7 @@ Orcish has no widely attested writing system in canon. In-game, orcish text is r
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Attested phrases (with translations) | 6 | *Zug zug*, *Lok'tar*, *Lok'tar ogar*, *Throm-ka*, *Aka'Magosh*, *Mak'gora* |
+| Attested phrases (with translations) | 8+ | *Zug zug*, *Lok'tar*, *Lok'tar ogar*, *Throm-ka*, *Aka'Magosh*, *Mak'gora*, *Lok'narosh*, *Lok'amon* |
 | Confirmed morphemes | 0 | No Orcish morpheme has independent attestation outside its compound |
 | Inferred morphemes | 7+ | *Lok* (victory), *ogar* (death), *aka* (blessing), *mak* (duel), *gora* (honor), *kosh* (gathering), *harg* (festival) |
 | Attested proper names | 9+ | *Grommash*, *Durotar*, *Orgrimmar*, *Gul'dan*, *Durotan*, *Orgrim*, *Garrosh*, *Saurfang*, *Lok'osh* |
