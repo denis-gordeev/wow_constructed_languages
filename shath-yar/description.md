@@ -60,7 +60,7 @@ Reduplication appears in the attested phrase *ywaq maq ywaq*, which may indicate
 - Shath'Yar may be related to the Void language spoken by the Void ethereals and other Shadow-aligned beings, but this is unconfirmed.
 - The language shares the apostrophe-heavy phonology with some Eredun (Demonic) words, possibly due to the Burning Legion's historical interaction with the Old Gods, but no genetic relationship is established.
 - N'raqi, K'thir, and Qiraji speech may represent dialects or registers of Shath'Yar rather than separate languages.
-- The Aqir (Old God-created insectoid race) likely inherited the apostrophe convention from Shath'Yar, but shifted its function from prefix boundary (C'+root) to compound boundary (stem+'stem) in the descendant languages nerubian and qiraji (see [alien-comparative.html](alien-comparative.html) for full analysis).
+- The Aqir (Old God-created insectoid race) likely inherited the apostrophe convention from Shath'Yar, but shifted its function from prefix boundary (C'+root) to compound boundary (stem+'stem) in the descendant languages nerubian and qiraji (see [alien-comparative.html](../alien-comparative.html) for full analysis).
 - Shath'Yar has no confirmed genetic relationship to any mortal language.
 
 ## Attestation Summary
@@ -82,4 +82,4 @@ Reduplication appears in the attested phrase *ywaq maq ywaq*, which may indicate
 - The language was likely designed for aesthetic effect (alien, maddening) rather than as a functional constructed language.
 - Any morphological analysis (suffixes, prefixes) is highly speculative.
 - The association of N'raqi, Aqir, Qiraji, and K'thir with Shath'Yar is inferred from their service to the Old Gods, not explicitly stated in canon.
-- See [alien-comparative.html](alien-comparative.html) for comparative analysis with nerubian, qiraji, ethereal, and Hara'ni.
+- See [alien-comparative.html](../alien-comparative.html) for comparative analysis with nerubian, qiraji, ethereal, and Hara'ni.

@@ -96,18 +96,32 @@ No Zandali writing system has been depicted or described in canon. Troll ruins a
 - **Elven languages (Darnassian, Thalassian, Shalassian, Nazja)**: No confirmed genetic relationship. The apostrophe-marked compounding pattern is shared but likely reflects Blizzard design aesthetics rather than in-universe contact. Zandali predates elven civilization on Azeroth.
 - **Hara'ni**: The Haranir descend from dark trolls/night elves (*The Art of Midnight*, pg. 125), making Hara'ni a deeply divergent branch of the proto-troll/elven language family. Both Zandali and Hara'ni share the Xhosa-accented English rendering (confirmed by warcraft.wiki.gg), suggesting inherited phonological features. However, ~16,000 years of separation makes cognate identification impossible with current data.
 - **Sethrak**: Sethrak names show Zandali orthographic influence (apostrophe usage: *Sethraliss*), likely through cultural contact in Vol'dun rather than genetic relatedness.
-- **Shath'Yar / Aqir-descended languages**: No confirmed relationship. The apostrophe convention is shared across most WoW constructed languages as a Blizzard design pattern. See [alien-comparative.html](alien-comparative.html) for comparative analysis.
+- **Shath'Yar / Aqir-descended languages**: No confirmed relationship. The apostrophe convention is shared across most WoW constructed languages as a Blizzard design pattern. See [alien-comparative.html](../alien-comparative.html) for comparative analysis.
+
+## Midnight Expansion: Amani Linguistic Data (2026)
+
+The Midnight expansion provides the most significant Zandali linguistic data since Battle for Azeroth:
+
+- **Amani'Zar Village**: Confirmed capital of the Amani tribe, providing the first attestation of the *-Zar* place-name element (possibly related to *-dazar*)
+- **Nalorakk confirmed as Loa of War**: Multiple titles attested (The Dreamer, The Mountain, Ironjaw, Stonehide, The Unyielding One). Nalorakk's domain includes both war and the earth — "he grants his followers strength in battle, [but] he also answers to farmers and stonemasons, for his domain is the earth itself"
+- **Jan'alai confirmed female**: The Loa of Fire (Dragonhawk) is confirmed female in Midnight — "She's ready to bring a new clutch of eggs" (patch 12.0.7)
+- **First attested Zandali common noun**: *hash'ura* (Zul'jarra's followers), used in lowercase, is the first potential attestation of a genuine Zandali common noun rather than a proper name
+- **Atal morpheme strengthened**: Third attestation in *Atal'Abasi* (after *Atal'ai* and *Atal'Aman*)
+- **9+ new Amani NPC names**: An'jali, Tak'za, Dar'rak, Ich'loka, Jon'noki, Ri'kari, Tal'rin, Tal'zi, Zak'kash, Vikovu, Iklani, Kagara, Namaji, Pakarri, Tavikko — significantly expanding the corpus of Zandali personal names
+- **3 new loa names**: Filo, Kulzi, Baban — loa with shrines in Zul'Aman
+- **Zul'jan quest line** (patch 12.1.0): Zul'jan and his uncle Kinduru will explore "an ancient mystery surrounding the legacy of the Amani trolls" — potential source of new Zandali vocabulary
 
 ## Attestation Summary
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Attested proper names (Loa) | 14+ | Bwonsamdi, Mueh'zala, Hir'eek, Pa'ku, Krag'wa, Gonk, Rezan, Jani, Shadra, Sethraliss |
-| Attested proper names (Persons) | 8+ | Rastakhan, Talanji, Vol'jin, Sen'jin, Zul, Zul'jarra, Zul'jan, Mor'duun |
-| Attested place names | 12+ | Zul'Gurub, Zul'Aman, Zul'Drak, Zul'Farrak, Zuldazar, Dazar'alor, Atal'Dazar, Nazmir, Vol'dun, Atal'Aman |
+| Attested proper names (Loa) | 17+ | Bwonsamdi, Mueh'zala, Hir'eek, Pa'ku, Krag'wa, Gonk, Rezan, Jani, Shadra, Sethraliss, Nalorakk, Akil'zon, Halazzi, Jan'alai, Filo, Kulzi, Baban |
+| Attested proper names (Persons) | 15+ | Rastakhan, Talanji, Vol'jin, Sen'jin, Zul, Zul'jarra, Zul'jan, Mor'duun, Zarama, Kol'anji, Man'ye, Kinduru, Pel'na Torntusk, Nanea, Brek |
+| Attested place names | 15+ | Zul'Gurub, Zul'Aman, Zul'Drak, Zul'Farrak, Zuldazar, Dazar'alor, Atal'Dazar, Nazmir, Vol'dun, Atal'Aman, Amani'Zar, Atal'Abasi, Hexx'alor, Zeb'Alar, Wit'Kalar |
 | Attested tribal names | 6 | Zandalari, Gurubashi, Amani, Drakkari, Farraki, Atal'ai |
-| Confirmed morphemes | 4 | *Zul* (great/city), *Jin* (leader), *Atal* (devoted), *-'ai* (collective) |
-| Inferred morphemes | 8+ | *-ari/-ashi/-aki* (tribal suffixes), *-ey* (agentive), *Hash'* (unite), *dazar* (throne), *naz* (blood), *mir* (land), *vol* (desert) |
+| Confirmed morphemes | 4 | *Zul* (great/city), *Jin* (leader), *Atal* (devoted, 3 attestations), *-'ai* (collective) |
+| Inferred morphemes | 10+ | *-ari/-ashi/-aki* (tribal suffixes), *-ey* (agentive), *-ura* (collective?), *Hash'* (unite, 2 attestations), *dazar* (throne), *-Zar* (capital?), *naz* (blood), *mir* (land), *vol* (desert), *-alor* (hall/palace) |
+| Attested common nouns (native) | 1 | *hash'ura* (followers/united ones) — the only attested Zandali common noun used in lowercase |
 | Attested sentences (creole) | 4 | *Mon be strong*, *Ya be dead*, *Dey be*, *Ya mon* |
 | Attested sentences (native) | 0 | No native Zandali sentences with translations are recorded |
 

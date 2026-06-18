@@ -70,7 +70,7 @@ The suffix -'ai marks a collective or plural, meaning "ones":
 |-----------|------------|---------|
 | Atal'ai | Atal + 'ai | Devoted Ones / Chosen Ones |
 
-Atal'Aman (Midnight) provides a second attestation of the *Atal-* root in a compound place name: *Atal* + *'Aman* = "Devoted to the Amani" or "Amani Devotees." This strengthens the case for *Atal* = "devoted/chosen" as a genuine Zandali morpheme with Moderate–High confidence.
+Atal'Aman (Midnight) and Atal'Abasi (Midnight) provide two additional attestations of the *Atal-* root in compound place names: *Atal* + *'Aman* = "Devoted to the Amani" and *Atal* + *'Abasi* = "Devoted to [Abasi]." This strengthens the case for *Atal* = "devoted/chosen" as a genuine Zandali morpheme with **three attestations** (*Atal'ai*, *Atal'Aman*, *Atal'Abasi*). **Confidence: Moderate–High** for *Atal* = "devoted/chosen".
 
 This is attested only once with *-'ai*, so the plural/collective suffix's generality is uncertain.
 
@@ -108,6 +108,31 @@ Arguments against:
 3. **No other Zandali titles with confirmed glosses exist**: Without a second data point, *-ey* cannot be distinguished from a unique name element
 
 **Confidence: Low–Moderate** for *-ey* as a genuine Zandali agentive suffix (upgraded from Low based on the confirmed gloss, but still limited by single attestation). The confirmed semantic gloss "unifier" is the strongest evidence — it is not just a fan translation but an in-game canonical designation.
+
+#### Related Form: hash'ura (Potential Attested Common Noun)
+
+The form *hash'ura* appears in Midnight quest text as Zul'jarra's followers/bodyguards, used in lowercase — suggesting it is a **genuine Zandali common noun** rather than a proper name. If *Hash'* = "unite/gather" (from *Hash'ey* "unifier"), then *hash'ura* could decompose as *hash'* + *-ura* where *-ura* = collective suffix ("those who X" or "the united ones"). This would be significant as one of the few attested Zandali common nouns (most Zandali attestations are proper names).
+
+| Form | Decomposition | Proposed Gloss |
+|------|---------------|----------------|
+| *Hash'ey* | *Hash'* + *-ey* | "Unifier" (confirmed) — agentive singular |
+| *hash'ura* | *hash'* + *-ura* | "The united ones" / "followers" (proposed) — collective plural |
+
+If both forms are genuine, the *Hash'* root would have two attestations with related semantics, and the *-ura* suffix would be a new collective/plural marker distinct from *-'ai*.
+
+**Confidence: Very Low–Low** for *hash'ura* as a genuine Zandali common noun with *-ura* collective suffix (single attestation; lowercase usage supports common-noun status but morphology is uncertain).
+
+### Collective Suffix: -ura (Midnight, 2026)
+
+The suffix *-ura* appears in *hash'ura* (Zul'jarra's followers). If *-ura* = collective suffix ("those who X"):
+
+| Formation | Components | Proposed Meaning |
+|-----------|------------|------------------|
+| hash'ura | hash' + ura | "The united ones" / "followers" |
+
+This would parallel the *-'ai* collective suffix (*Atal'ai* = "Devoted Ones") but with different semantic scope: *-'ai* marks a religious collective ("devoted ones"), while *-ura* may mark a political/military collective ("those who unite/follow").
+
+**Confidence: Very Low** for *-ura* as a genuine Zandali suffix (single attestation; relationship to *hash'* root is uncertain).
 
 ### Title Suffix: Jin
 

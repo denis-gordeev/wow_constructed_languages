@@ -91,11 +91,12 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Goehi | /ˈɡoʊɛhi/ | Ancient entity | Said that the Haranir are "worth more than you know" and that adventurers should "take care with them." Can read the history of an ancient by reading the rings of wood in their roots |
 | Chimaerus the Undreamt God | /kɪˈmɪərəs/ | Dreamrift raid boss | Entity that "feasted on the void of pain and madness left behind in the rift after Aln'hara was taken." Battled by the Shul'ka and adventurers in the Dreamrift — the permeable veil between primordial dreams and reality. The name *Chimaerus* is likely Common/Greek-derived (cf. "chimera"), not Hara'ni — it follows the Blizzard pattern of giving Old God-adjacent entities Greek-inspired names. **Confidence: Very Low** for Hara'ni morpheme content |
 
-### Midnight Expansion: Sporefall Dungeon (2026)
+### Midnight Expansion: Sporefall Raid (2026, Patch 12.0.7)
 
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
-| Sporefall | — | Dungeon in Harandar | Common/English compound name. No Hara'ni morpheme content |
+| Sporefall | — | Raid in Harandar | Common/English compound name. No Hara'ni morpheme content. Added in patch 12.0.7 (2026-06-16) |
+| Rotmire | /ˈrɒtmaɪər/ | Boss of Sporefall raid | Fungal giant nurtured by the fungarians of Sporefall to grow far beyond its natural growth cycle. Common/English compound name (rot + mire). No Hara'ni morpheme content. Single-boss raid with flexible Mythic difficulty (15–25 players) |
 
 ## 2. Proper Names (Places)
 

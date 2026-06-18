@@ -46,7 +46,7 @@ Shalassian phonology is inferred to resemble Darnassian and Thalassian: fluid co
 - **Nazja**: A more distantly related elven language; Shalassian and Nazja diverged before the Sundering but share the "-dorei" pattern.
 - The three elven languages (Darnassian, Thalassian, Shalassian) form a language family with confirmed shared morphological features.
 - Shalassian may preserve some Highborne archaic forms that Darnassian has lost (inferred).
-- See [elven-comparative.html](elven-comparative.html) for full comparative analysis of the elven language family.
+- See [elven-comparative.html](../elven-comparative.html) for full comparative analysis of the elven language family.
 
 ## Attestation Summary
 

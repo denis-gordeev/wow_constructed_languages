@@ -69,8 +69,9 @@
 
 - [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
-- [ ] Research Sporefall dungeon for Hara'ni-named NPCs or place names — **BLOCKED** by wiki access; revisit when warcraft.wiki.gg is accessible
-- [ ] Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names — revisit when patch notes or wiki data become available
+- [x] ~~Research Sporefall dungeon for Hara'ni-named NPCs or place names~~ — **RESOLVED**: Sporefall is a one-boss raid (not dungeon) in Harandar, added in patch 12.0.7; boss is Rotmire (fungal giant, Common/English name); no Hara'ni-named NPCs or place names found
+- [x] ~~Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names~~ — **RESOLVED**: Patch 12.0.7 (2026-06-16) adds Sporefall raid (no new Hara'ni names), Void Assault Escalations to Naigtal (Hal'hadar ethereal faction) and Val (Domanaar Imperator Pertinax), Loa Speaker Brek (Zandali), Zul'jan quest line preview (patch 12.1.0); no new Hara'ni language data in 12.0.7
+- [ ] Research patch 12.1.0 content (Zul'jan quest line with uncle Kinduru) for new Zandali names — revisit when patch notes or wiki data become available
 - [x] Add phonology IPA charts to remaining languages with prose-only phonology (Gutterspeak has no distinct phonology; Nature is not a distinct language; Shalassian and Nazja now have IPA charts)
 
 ## Completed This Round
@@ -131,3 +132,14 @@
 - [x] Add vowel IPA inventory table to Pandaren grammar.md (replaced prose-only Vowel System with proper Front/Central/Back chart)
 - [x] Sync Pandaren grammar.html with updated grammar.md (added Vowel Inventory table)
 - [x] Update section navigation in Zandali grammar.html (added Loa Morphology link) and Pandaren grammar.html (added Consonants/Vowels/Features links)
+
+## Completed This Round (2026-06-18, Round 2)
+
+- [x] Fix Sporefall entry in haranir/vocabulary.md: corrected from "Dungeon" to "Raid" (single-boss raid, patch 12.0.7); added Rotmire boss entry
+- [x] Expand Zandali vocabulary.md with Midnight 12.0.7 data: added Nalorakk Midnight lore (Loa of War with multiple titles, reconciliation with Amani), Jan'alai confirmed female (Loa of Fire), Amani'Zar Village capital, 9+ new Amani NPC names (An'jali, Tak'za, Dar'rak, Ich'loka, Jon'noki, Ri'kari, Tal'rin, Tal'zi, Zak'kash), 3 new Zul'Aman subzone names with Zandali morphemes (Atal'Abasi, Hexx'alor, Zeb'Alar), Zarama, Kol'anji, Man'ye, Kinduru, Pel'na Torntusk, Loa Speaker Nanea, Loa Speaker Brek, hash'ura (potential attested Zandali common noun), 3 new loa names (Filo, Kulzi, Baban), Norobu, Atai'natha, Kurinje, Throne of Manzajin, Amani'Zar Village, Wit'Kalar
+- [x] Expand ethereal vocabulary.md with patch 12.0.7 data: added Hal'hadar faction (Naigtal), Domanaar Imperator Pertinax (Val), Naigtal and Val world names
+- [x] Mark Sporefall research TODO as resolved (no Hara'ni names found; raid, not dungeon)
+- [x] Mark Midnight patch content TODO as resolved (12.0.7 has no new Hara'ni data; added Zandali and ethereal data instead)
+- [x] Add new TODO for patch 12.1.0 Zul'jan quest line research
+- [x] Fix broken comparative HTML links in 5 description.md and description.html files (dwarven, shath-yar, thalassian, zandali, shalassian — links to comparative HTML files needed ../ prefix)
+- [x] Fix missing `<tbody>` tags in 4 grammar.html files (vulpera, gnomish, tolvir, drust — 7 tables total)

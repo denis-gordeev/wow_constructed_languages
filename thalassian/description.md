@@ -72,7 +72,7 @@ These dialectal differences are not systematically represented in-game and must 
 - **Nazja**: Another parallel development from Darnassian, spoken by the Naga. Nazja diverged through physiological transformation rather than geographic isolation. The four elven dialects form a confirmed language family.
 - **Hara'ni**: The Haranir descend from dark trolls/night elves, making Hara'ni a deeply divergent branch of the proto-troll/elven language family. No cognates with Thalassian are confirmed due to extreme time depth (~16,000 years).
 
-See [elven-comparative.html](elven-comparative.html) for full comparative analysis of the elven language family.
+See [elven-comparative.html](../elven-comparative.html) for full comparative analysis of the elven language family.
 
 ## Attestation Summary
 

@@ -59,7 +59,7 @@ Dwarves descend from the Earthen, titan-forged stone beings created by Khaz'goro
 - **-dun / -den** — Possible cognate with Titan *-den* (as in *Ra-den*); both appear in fortification/authority contexts
 - **-modan / -dor** — Possible sound correspondence: Titan *-dor* (as in *Kalimdor* = "Land of Eternal Starlight") → Dwarven *-modan* ("mountain/kingdom")
 
-See [titan-forged-comparative.html](titan-forged-comparative.html) for full comparative analysis of the titan-forged language family.
+See [titan-forged-comparative.html](../titan-forged-comparative.html) for full comparative analysis of the titan-forged language family.
 
 ## Relationship to Other Languages
 

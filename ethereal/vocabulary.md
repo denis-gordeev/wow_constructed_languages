@@ -28,6 +28,20 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 | Imperator Averzian | /ˌɪmpəˈrɑːtiər æˈvɛrziən/ | Raid boss (Voidspire, Midnight) | "Imperator" is a new ethereal title, distinct from the *Nexus-* hierarchy. *Averzian* is a personal name: possibly *Averz-* + *-ian* or *Aver-* + *-zian*. The *-zian* ending is new. The species of Averzian is uncertain — could be ethereal or void creature. Fought alongside Salhadaar in the Voidspire. |
 | Salhaadar | /sɑːləˈhɑːdɑːr/ | Raid boss (Voidspire, Midnight) | Variant spelling of Nexus-King *Salhadaar*. The Midnight wiki page uses "Salhaadar" (Sal-haa-dar) rather than "Salhadaar" (Sal-ha-daar). This may be a typo, a variant spelling, or reflect a different character. The vowel order differs: *-haa-* vs *-ha-*, and *-dar* vs *-daar*. If this is the same character (most likely), the spelling variation is minor. |
 
+### Midnight Expansion: Patch 12.0.7 (2026-06-16)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Hal'hadar | /hɑːlˈhɑːdɑːr/ | Ethereal faction in Naigtal | Apostrophe-marked compound: *Hal'* + *-hadar*. An ethereal faction occupying the fungal, arcane-rich world of Naigtal. The *-hadar* element may parallel *Hara'dar* or be coincidental. Accessed via Void Assault Escalations in Voidstorm |
+| Domanaar Imperator Pertinax | /ˈpɜːrtɪnæks/ | Domanaar leader in Val | "Domanaar Imperator" is a title (see shath-yar/vocabulary.md for *domanaar* analysis). *Pertinax* is a personal name; Latin-style (historical Roman emperor name), likely Common/Classic-language rendering rather than ethereal. Established a bastion of power in Val, an icy world once inhabited by the Legion |
+
+### Midnight Expansion: New Worlds (Patch 12.0.7)
+
+| Name | IPA | Analysis | Notes |
+|------|-----|----------|-------|
+| Naigtal | /ˈneɪɡtɑːl/ | Uncertain | Fungal, arcane-rich world now occupied by the Hal'hadar ethereal faction. Accessed via unstable portal in Voidstorm. No apostrophe; potential ethereal-language place name. **Confidence: Very Low** for genuine ethereal morpheme content |
+| Val | /vɑːl/ | Uncertain | Icy world once inhabited by the Burning Legion; now occupied by Domanaar Imperator Pertinax. Short name, no apostrophe. Likely not ethereal-language (Legion origin). Accessed via unstable portal in Voidstorm |
+
 ### The Burning Crusade (2007): Netherstorm Ethereals
 
 | Name | IPA | Role | Notes |
@@ -124,7 +138,7 @@ The ethereals use a hierarchical title system rendered in Common:
 | Nexus-King | *Salhadaar* | Highest rank; ruler of K'aresh. Only one holder known. |
 | Nexus-Prince | *Shaffar*, *Haramad*, *Bilaal*, *Razaan*, *Azir* | High nobility; likely a rank below Nexus-King. Multiple holders across different factions. |
 | Nexus-Princess | *Ky'veza* | Female equivalent of Nexus-Prince; only one attestation. Ky'veza ruled the city of *Ma'nussa* on K'aresh. |
-| Imperator | *Averzian* | New title from Midnight Voidspire raid. Distinct from the *Nexus-* hierarchy — may be a military title rather than a noble one. Species of bearer uncertain (ethereal or void creature). |
+| Imperator | *Averzian*, *Pertinax* | New title from Midnight. Distinct from the *Nexus-* hierarchy — may be a military title rather than a noble one. Averzian fought in the Voidspire (species uncertain); Pertinax leads the Domanaar from Val (icy world, patch 12.0.7). The Domanaar Imperator title suggests the Domanaar have a separate military hierarchy from the ethereal Nexus-* nobility |
 
 The *Nexus-* prefix is a Common-language compound meaning "connection point" or "center of power." It may translate an ethereal-language title element. If the ethereal language had a native title equivalent to "Nexus," it is not attested.
 
