@@ -73,16 +73,13 @@
 
 ## Next Actions
 
-- [ ] Research Zandali primer items in detail: Moldy Diary, Hastily-Scribbled Note, Scrap of Singed Paper — these contain 30+ confirmed words and 3 full sentences not yet fully analyzed in grammar.md
-- [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
-- [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data
 - [ ] Check patch 12.1.0 PTR data for additional Zandali character dialogue when available
-- [ ] Add Zandali writing system images/descriptions — acquire wiki image URLs for Tablet of Theka, Tales of de Loa: Kimbul, and general Zandali writing
-- [ ] Analyze *-ne* person suffix etymology — investigate relationship to independent pronouns and potential archaic 2nd person form
-- [ ] Investigate ergative-absolutive alignment hypothesis — requires additional verb-argument data
-- [ ] Research *-alor* semantic range — six attestations now available (Dazar'alor, Hexx'alor, Jintha'Alor, Shadra'Alor, Mazra'Alor, Tazz'Alor); wiki proposes "temple/altar" rather than "palace/hall"
-- [ ] Investigate *Thraze* = "blade" hypothesis — three Zul'Gurub sword names all end in -thraze
-- [ ] Cross-reference *Zeb* = "forest village" prefix across seven attested place names
+- [ ] Investigate ergative-absolutive alignment hypothesis — requires additional verb-argument data; the Weta/Watha ablaut pair may reflect object agreement rather than subject number
+- [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix
+- [ ] Investigate *ney* ↔ *-ne* relationship — *ney* = "your" (possessive) and *-ne* = "you" (verb suffix) may share an archaic 2nd person root */ne-/
+- [ ] Analyze *Weta/Watha* agreement pattern — does ablaut mark subject number, object number, or both? Requires more verb pairs with varied subject/object combinations
+- [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms?
+- [ ] Research *Noa* dual usage — appears as both a noun ("change") and a verb (*De nazdo noa* = "The seasons change"); investigate noun-verb conversion in Zandali
 
 ## Completed This Round
 
@@ -213,6 +210,30 @@
 - [x] Update phonological features in description.md: added "guttural yet melodious" description, Stranglethorn accent note
 - [x] Sync zandali/vocabulary.html, grammar.html, description.html with updated .md files
 - [x] Update alien-comparative.html: added Kith'ix section with C'Thrax analysis, Azj'Aqir founding, Xal'atath connection, transmission vector analysis; added *-ix* element to Aqir substrate table; updated family tree with C'Thraxxi and Kith'ix reference
+
+## Completed This Round (2026-06-19, Round 4)
+
+- [x] Full line-by-line analysis of Zandali primer texts: Moldy Diary chant (12 lines with translation) and Filo lullaby (9 lines with translation) — the two largest continuous Zandali texts
+- [x] Discover and document fourth ablaut pattern: Weta (cleanse SG) / Watha (cleanse PL) with /e/ → /a/ vowel alternation (Pattern D); noted possible object agreement interpretation
+- [x] Confirm genitive preposition *na* = "of" from *Na roa na Jan'alai* = "In [heart] of [Jan'alai]" — *na* is multi-functional (locative, allative, genitive)
+- [x] Confirm possessive pronouns: *mo* = "my" (from *mo keke* = "my child"), *ney* = "your" (from *ney lakamo* = "your crying"); both pre-nominal; *ney* may share archaic root with suffix *-ne*
+- [x] Confirm modal verbs: *hida* = "must" (obligation), *ban* = "will/shall" (future auxiliary); both precede main verb
+- [x] Confirm negative imperative *Waikempo* = "stop" (3 attestations in lullaby)
+- [x] Document absence of noun plural marking: *nazdo* = "seasons", *alai* = "flames" — no morphological plural on nouns
+- [x] Document compound noun construction: *Alai-nazdo* ("fire-season") uses hyphen (vs. apostrophe for morpheme boundaries)
+- [x] Document participle/gerundive forms: *wa'aru* ("fearing"), *maze* ("fighting/resisting") — gerundives that retain verbal government
+- [x] Confirm *-alor* = "temple" from in-world translation: *Jan'Alor* = "the temple of Jan'alai" (Moldy Diary); seventh attestation; confidence upgraded to Moderate–High
+- [x] Add *Jan'Alor* place name to vocabulary.md (Zandalari Places section)
+- [x] Cross-reference *Zeb* = "forest village" prefix: 8 attestations (not 7; added Zeb'Alar from Midnight); added full analysis section to grammar.md with size hierarchy hypothesis (*Zul'* = "great city" vs. *Zeb'* = "forest village")
+- [x] Investigate *Thraze* = "blade" hypothesis: 3 Zul'Gurub sword names analyzed; confidence upgraded to Low–Moderate; added full analysis section to grammar.md with decomposition of Jang/Sang/Sul prefixes
+- [x] Research *-alor* semantic range: 7 attestations now (added Jan'Alor); wiki "temple/altar" proposal confirmed by in-world text; added full analysis section to grammar.md with table of all 7 attestations
+- [x] Analyze *-ne* person suffix etymology: strengthened connection between *-ne* (verb suffix "you") and *ney* (possessive "your") — both may share archaic 2nd person root */ne-/
+- [x] Add new vocabulary entries: *Alanke* (fire, ritual context), *Keke* (child), *Lakamo* (crying), *Po* (dark), *Selo* (sleep), *Noa* (change, also verb), *Raza* (is near, also verb)
+- [x] Add new sections to vocabulary.md: Modal Verbs (Hida, Ban), Participles/Gerundives (Wa'aru, Maze)
+- [x] Update vocabulary.md grammatical words: added *Mo* (my), *Ney* (your); expanded *Ban*, *De*, *Na* notes
+- [x] Update vocabulary.md confirmed phrases: added *Fetna Alai-nazdo*
+- [x] Update description.md attestation summary: common nouns 30+→40+, verbs 7→10, added rows for modal verbs (2), participles (2), possessive pronouns (2), continuous texts (2); -alor now "confirmed"; Zeb count 7→8
+- [x] Sync zandali/vocabulary.html, grammar.html, description.html with all updated .md files
 
 ## Completed This Round (2026-06-19, Round 2)
 

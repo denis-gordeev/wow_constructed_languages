@@ -77,6 +77,7 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Za'Tual | Zandalari outpost | Isle of Thunder. *Za'* + *-Tual* |
 | Mugamba | Mountain | Zuldazar |
 | Mugambala | Arena | Zuldazar. At the foot of Mount Mugamba. Reduplicative: *Mugam* + *-bala* |
+| Jan'Alor | Temple of Jan'alai | Moldy Diary. **Confirmed in-world translation**: the gnome narrator explicitly glosses this as "the temple of Jan'alai." *Jan'* (abbreviated *Jan'alai*) + *-Alor* (temple). **Seventh attestation of *-alor* = "temple"**. Also referred to as "Jan'Alor" by the narrator without translation, confirming it is a proper place name in common Amani usage |
 
 ### Miscellaneous Place Names
 
@@ -181,15 +182,20 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 
 | Word | Meaning | Source | Notes |
 |------|---------|--------|-------|
-| Alai | Fire, flame | Moldy Diary | — |
+| Alai | Fire, flame | Moldy Diary | Also appears in compound *Alai-nazdo* ("fire-season"). Used for both singular "flame" and plural "flames" (*De alai* = "The flames" in chant) — no morphological plural marking |
+| Alanke | Fire (in ritual context?) | Moldy Diary | In *Untoh de alanke tono* = "Keep the fire burning"; may be a different form of *Alai* or a distinct noun |
 | Dazdooga | Fire | *Blood of the Highborne* | Synonym or dialectal variant of *Alai* |
 | E'ko | Life energy within all living things | Witch Doctor Mau'ari quests | Also described as "da power dat each creature possesses" |
-| Fetna | Festival | Moldy Diary | — |
+| Fetna | Festival | Moldy Diary | Head noun in *Fetna Alai-nazdo* = "Festival of the Fire Season" |
 | Gokinye | Invader(s); outsider(s) | Midnight quests (Our Mutual Enemy, Everything We Worked For, Test of Conviction) | **Derogatory** term used by forest trolls and their loa for foreigners. Used by Zul'jan ("I don't speak to gokinye"), Kinduru ("Good luck, gokinye"), Zul'jarra ("And de gokinye") |
+| Keke | Child | Hastily-Scribbled Note, Scrap of Singed Paper | In *mo keke* = "my child" |
+| Lakamo | Crying / tears | Hastily-Scribbled Note, Scrap of Singed Paper | In *ney lakamo* = "your crying" |
 | Loa | Powerful spirits/deities | Universal troll term | Mainly used for Wild Gods but also applied to non-Wild God beings like wisps |
 | Muisek | Avenging spirit from a creature that died a violent death | Testing the Vessel quest | — |
-| Nazdo | Season(s) | Moldy Diary | — |
-| Roa | Heart(s) | Moldy Diary | — |
+| Nazdo | Season(s) | Moldy Diary | Used for both singular and plural "season(s)" (*De nazdo* = "The seasons") — no morphological plural marking |
+| Po | Dark / darkness | Hastily-Scribbled Note, Scrap of Singed Paper | In *wa'aru po* = "fearing the dark" |
+| Roa | Heart(s) | Moldy Diary | Used for both singular and plural "heart(s)" — no morphological plural marking |
+| Selo | Sleep | Hastily-Scribbled Note, Scrap of Singed Paper | In *maze selo* = "fighting sleep" |
 | Voodoo | Ancient magic used by trolls | Universal term | Unconfirmed as native Zandali; may be a Common rendering |
 | Zen | Druid | Loreology (former Blizzard CM) | Often a prefix added to a name when they become one: Zen'Balai, Zen'Kiki, Zen'tabra |
 | Zul' | Voodoo master / Witch doctor | Loreology; RPG | Often a prefix added to a name when they become one |
@@ -204,32 +210,53 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Kile | Rise | Plural | Moldy Diary |
 | Peran | Die | Singular | Moldy Diary |
 | Poran | Die | Plural | Moldy Diary |
-| Weta | Cleanse | Base form | Moldy Diary |
+| Weta | Cleanse | Singular | Moldy Diary |
+| Watha | Cleanse | Plural | Moldy Diary |
 | Gogeh | Know | — | Hastily-Scribbled Note, Scrap of Singed Paper |
 | Onze | Hear | — | Hastily-Scribbled Note, Scrap of Singed Paper |
 | Vize | See | — | Hastily-Scribbled Note, Scrap of Singed Paper |
-| Waikempo | Stop | — | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Waikempo | Stop (imperative) | Imperative | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Noa | Change | — | Moldy Diary |
+| Raza | Is near | — | Hastily-Scribbled Note, Scrap of Singed Paper |
+
+## Modal Verbs (Confirmed from Zandali Primer)
+
+| Word | Meaning | Source | Example |
+|------|---------|--------|---------|
+| Hida | Must (obligation) | Moldy Diary | *Jan'alai hida peran* = "Jan'alai must die" |
+| Ban | Will / shall (future) | Moldy Diary | *Ni den ban kele* = "And he will rise" |
+
+*Ban* also appears as a noun meaning "will" (determination) in the Moldy Diary word list. The dual function (noun "will/determination" → auxiliary "will/shall") parallels the grammaticalization pathway of English "will."
+
+## Participles / Gerundives (Confirmed from Zandali Primer)
+
+| Word | Meaning | Source | Example |
+|------|---------|--------|---------|
+| Wa'aru | Fearing | Hastily-Scribbled Note | *wa'aru po* = "fearing the dark" |
+| Maze | Fighting / resisting | Hastily-Scribbled Note | *maze selo* = "fighting sleep" |
 
 ## Other Grammatical Words (Confirmed from Zandali Primer)
 
 | Word | Meaning | Source | Notes |
 |------|---------|--------|-------|
-| Ban | Will (noun) | Moldy Diary | — |
-| De | The | Moldy Diary | Confirmed definite article; extensively attested in Midnight dialogue |
-| Den | He | Moldy Diary | — |
+| Ban | Will (noun); will/shall (auxiliary) | Moldy Diary | Dual function: noun "will/determination" and future auxiliary verb. See also Modal Verbs section |
+| De | The | Moldy Diary | Confirmed definite article; extensively attested in Midnight dialogue and Moldy Diary chant (*De nazdo*, *De alai*) |
+| Den | He | Moldy Diary | Also used as verb suffix *-den* = "him" |
 | Fa'da | Father | Children's Week quest | — |
-| Hida | Must | Moldy Diary | — |
+| Hida | Must | Moldy Diary | Modal verb expressing obligation. See also Modal Verbs section |
 | Ko | We | Hastily-Scribbled Note, Scrap of Singed Paper | — |
 | Ma'da | Mother | Children's Week quest, Nazmir Visitor's Guide | Also used as a term of respect by male blood trolls for females |
+| Mo | My (possessive) | Hastily-Scribbled Note, Scrap of Singed Paper | In *mo keke* = "my child". Reduced form of *Mon* (I/me) |
 | Moi | We (sentence-initial) | Moldy Diary | — |
 | Midi | We (sentence-medial) | Moldy Diary | — |
-| Na | In | Moldy Diary | — |
-| Nekan | Us | Moldy Diary | — |
+| Na | In; to; of (genitive) | Moldy Diary | Multi-functional preposition: locative ("in"), allative ("to"), and genitive ("of"). Genitive usage: *Na roa na Jan'alai* = "In [heart] **of** [Jan'alai]" |
+| Nekan | Us | Moldy Diary | Also used as verb suffix *-nekan* = "us" |
+| Ney | Your (possessive) | Hastily-Scribbled Note | In *ney lakamo* = "your crying". May share archaic root with verb suffix *-ne* (2nd person) |
 | Ni | And | Moldy Diary | — |
-| Noa | Change | Moldy Diary | — |
+| Noa | Change | Moldy Diary | Also used as a verb (*De nazdo noa* = "The seasons change") |
 | Oraka | Greeting/exclamation | Midnight character quotes | Used by Zul'jan, Zul'jarra, Kinduru. Context: "Oraka, gokinye" (initial greeting to outsider), "Oraka, my friend" (friendly greeting), "Oraka, beloved of Akil'zon!" (warm address). Likely = "friend/comrade" or a general positive greeting. **Confidence: Low–Moderate** — attested in multiple character voices but no official translation |
 | Raza | Is near | Hastily-Scribbled Note, Scrap of Singed Paper | — |
-| Sho | All | Hastily-Scribbled Note, Scrap of Singed Paper, Moldy Diary | — |
+| Sho | All | Hastily-Scribbled Note, Scrap of Singed Paper, Moldy Diary | Pre-nominal quantifier. *Ko sho fele* = "We all love"; *na sho nekan* = "in all our hearts" |
 | Zernago | Farewell | Midnight character quotes (Zul'jarra, Kinduru) | Spelling uncertain. Used as a farewell word. **Confidence: Low** — spelling noted as uncertain on wiki |
 
 ## Suffixes (Confirmed from Zandali Primer)
@@ -245,6 +272,7 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 
 | Phrase | Meaning | Source |
 |--------|---------|--------|
+| Fetna Alai-nazdo | Festival of the Fire Season | Moldy Diary |
 | Doba quzhu ta tawbo! Metah bo chu! | We bring a gift for you, great loa of death! | A Tribute for Death quest |
 | Maze selo | Fighting sleep | Hastily-Scribbled Note, Scrap of Singed Paper |
 | Mo keke | My child | Hastily-Scribbled Note, Scrap of Singed Paper |
@@ -529,6 +557,7 @@ Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Z
 | -ey | Agentive suffix ("one who does X") | Hash'ey ("unifier/champion") | **Low–Moderate** — confirmed gloss supports agentive function |
 | -ura | Collective suffix ("those who X") | hash'ura ("acolytes/companions") | **Low** — single attestation; confirmed common-noun status by wiki |
 | -Zar | Possibly variant of *-dazar* ("throne/capital") | Amani'Zar, **Zail'Zar** (second attestation) | **Low–Moderate** — now two attestations with *-Zar* element |
+| -alor | "Temple" | Dazar'alor, Hexx'alor, Jintha'Alor, Shadra'Alor, Mazra'Alor, Tazz'Alor, **Jan'Alor** (confirmed) | **Moderate–High** — seven attestations; confirmed in-world translation from Moldy Diary |
 | Basengo | "Slashed tree" (not "Witherbark") | Moldy Diary | **High** — official translation; commonly mistranslated |
 | Shan'aten | "Ashen pine" (not "Shadowpine") | Moldy Diary | **High** — official translation; commonly mistranslated |
 
@@ -538,7 +567,7 @@ These morpheme decompositions are proposed by the wiki community. None are offic
 
 | Element | Proposed Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
-| -alor | "Temple" or "Altar" | Dazar'alor, Hexx'alor, Jintha'Alor, Shadra'Alor, Mazra'Alor, Tazz'Alor | Low–Moderate — six attestations with consistent semantics; wiki proposes "temple/altar" rather than "palace/hall" |
+| -alor | "Temple" | Dazar'alor, Hexx'alor, Jintha'Alor, Shadra'Alor, Mazra'Alor, Tazz'Alor, **Jan'Alor** | Moderate–High — seven attestations with consistent semantics; **confirmed in-world translation** from Moldy Diary (*Jan'Alor* = "the temple of Jan'alai") |
 | Alarion | "Guardian" | Atal'alarion (boss in Temple of Atal'Hakkar) | Very Low — single attestation |
 | Antu | "Overseer" | Antu'sul (title: <Overseer of Sul>) | Very Low — single attestation |
 | -fon | "Loner" (RPG, non-canon) | Added as suffix for trolls who absented themselves from society | Very Low — RPG only |
@@ -548,8 +577,8 @@ These morpheme decompositions are proposed by the wiki community. None are offic
 | Sang | "Deflect" | Sang'thraze the Deflector (sword from Zul'Gurub) | Very Low — single attestation; weapon name |
 | Sul | Namesake of Farraki lore | Sul the Sandcrawler, Sul'thraze the Lasher, Sul'lithuz basilisks ("children of Sul"), Antu'sul ("Overseer of Sul") | Low — four related attestations in Zul'Farrak context |
 | Tal | Possibly "enclave" | Tal'farrak, Tal'aman, Tal'gurub | Very Low — three attestations |
-| Thraze | "Blade" | Jang'thraze, Sang'thraze, Sul'thraze (three Zul'Gurub sword names) | Low — three attestations with consistent semantics from weapon names |
-| Zeb | Possibly "forest" or "forest village" | Zeb'Watha, Zeb'Tela, Zeb'Sora, Zeb'Halak, Zeb'tula, Zeb'ahari, Zeb'Alar | Low–Moderate — seven attestations, mostly forest-adjacent locations |
+| Thraze | "Blade" | Jang'thraze, Sang'thraze, Sul'thraze (three Zul'Gurub sword names) | Low–Moderate — three attestations with consistent semantics from weapon names; see grammar.md for full analysis |
+| Zeb | Possibly "forest" or "forest village" | Zeb'Watha, Zeb'Tela, Zeb'Sora, Zeb'Halak, Zeb'tula, Zeb'ahari, Zeb'Alar | Low–Moderate — eight attestations, mostly forest-adjacent locations; see grammar.md for full cross-reference analysis |
 | Zin | Possibly "destroyer" | Zin'rokh, Destroyer of Worlds (archaeology sword) | Very Low — single attestation; weapon name |
 | Zandalar | May mean "holy" | The Zandalari named a mountain range "Zandalar Mountains" because it was holy (brimming with loa) | Very Low — speculative etymology |
 | Zandalari | May be superlative of "Zandalar" meaning "holiest" | Making Zandalari trolls the "holiest trolls" due to their deep reverence for the loa | Very Low — speculative etymology |

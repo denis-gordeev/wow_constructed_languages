@@ -463,23 +463,255 @@ A potential suffix pattern emerges among the monomorphemic names:
 
 None of these suffixes is confirmed. The *-a* ending is the most frequent and may simply reflect a phonological preference for open syllables in Loa names rather than a genuine morpheme.
 
+## Zandali Primer Texts: Full Analysis
+
+The three Zandali primer items — Moldy Diary, Hastily-Scribbled Note, and Scrap of Singed Paper — contain the richest native Zandali texts available, written by the gnome Bin Greenwrench during his time among the Amani. The Moldy Diary provides a 12-line ritual chant with translation, and the Hastily-Scribbled Note provides a 9-line lullaby with translation (confirmed by the Scrap of Singed Paper).
+
+### Moldy Diary Chant: Line-by-Line Analysis
+
+This chant is performed during *Fetna Alai-nazdo* ("Festival of the Fire Season"), a Shadowpine celebration of Jan'alai:
+
+| Line | Zandali | Translation | Morphological Analysis |
+|------|---------|-------------|----------------------|
+| 1 | *De nazdo noa* | The seasons change | *De* (the) + *nazdo* (season) + *noa* (change) |
+| 2 | *De nazdo noa* | The seasons change | (Repetition) |
+| 3 | *De alai weta-den* | The flames cleanse him | *De* (the) + *alai* (flame) + *weta* (cleanse) + *-den* (him) |
+| 4 | *De alai watha-nekan* | The flames cleanse us | *De* (the) + *alai* (flame) + *watha* (cleanse.PL) + *-nekan* (us) |
+| 5 | *Jan'alai hida peran* | Jan'alai must die | *Jan'alai* (proper name) + *hida* (must) + *peran* (die.SG) |
+| 6 | *Moi hida poran* | We must die | *Moi* (we) + *hida* (must) + *poran* (die.PL) |
+| 7 | *Ni den ban kele* | And he will rise | *Ni* (and) + *den* (he) + *ban* (will) + *kele* (rise.SG) |
+| 8 | *Ni midi ban kile* | And we will rise | *Ni* (and) + *midi* (we) + *ban* (will) + *kile* (rise.PL) |
+| 9 | *Untoh de alanke tono* | Keep the fire burning | *Untoh* (keep) + *de* (the) + *alanke* (fire/burning) + *tono* (burning/alive?) |
+| 10 | *Untoh de alanke tono* | Keep the fire burning | (Repetition) |
+| 11 | *Na roa na Jan'alai* | In Jan'alai's heart | *Na* (in) + *roa* (heart) + *na* (of) + *Jan'alai* (proper name) |
+| 12 | *Na roa na sho nekan* | In all our hearts | *Na* (in) + *roa* (heart) + *na* (of) + *sho* (all) + *nekan* (us) |
+
+### Filo Lullaby: Line-by-Line Analysis
+
+This lullaby is sung by a Shadowpine elder to Bin Greenwrench, who she believed was a child sent by the loa Filo:
+
+| Line | Zandali | Translation | Morphological Analysis |
+|------|---------|-------------|----------------------|
+| 1 | *Filo vize-ne, mo keke* | Filo sees you, my child | *Filo* (proper name) + *vize* (see) + *-ne* (you) + *,* + *mo* (my) + *keke* (child) |
+| 2 | *Filo gogeh-ne, mo keke* | Filo knows you, my child | *Filo* (proper name) + *gogeh* (know) + *-ne* (you) + *,* + *mo* (my) + *keke* (child) |
+| 3 | *Waikempo wa'aru po* | Stop fearing the dark | *Waikempo* (stop!) + *wa'aru* (fearing) + *po* (dark) |
+| 4 | *Filo onze-ne, mo keke* | Filo hears you, my child | *Filo* (proper name) + *onze* (hear) + *-ne* (you) + *,* + *mo* (my) + *keke* (child) |
+| 5 | *Filo raza-ne, mo keke* | Filo is near you, my child | *Filo* (proper name) + *raza* (is near) + *-ne* (you) + *,* + *mo* (my) + *keke* (child) |
+| 6 | *Waikempo ney lakamo* | Stop your crying | *Waikempo* (stop!) + *ney* (your) + *lakamo* (crying) |
+| 7 | *Filo file-ne, mo keke* | Filo loves you, my child | *Filo* (proper name) + *file* (love.SG) + *-ne* (you) + *,* + *mo* (my) + *keke* (child) |
+| 8 | *Ko sho fele, mo keke* | We all love you, my child | *Ko* (we) + *sho* (all) + *fele* (love.PL) + *,* + *mo* (my) + *keke* (child) |
+| 9 | *Waikempo maze selo* | Stop fighting sleep | *Waikempo* (stop!) + *maze* (fighting/resisting) + *selo* (sleep) |
+
+### New Grammatical Discoveries from Primer Texts
+
+#### Fourth Ablaut Pattern: Weta/Watha
+
+The Moldy Diary chant reveals a fourth ablaut pair: *Weta* (cleanse, singular) / *Watha* (cleanse, plural), with /e/ → /a/ vowel alternation. This adds **Pattern D** to the ablaut system:
+
+| Pattern | Vowel Change | Direction | Example |
+|---------|-------------|-----------|---------|
+| Pattern A | /i/ → /e/ | Singular → Plural | File → Fele |
+| Pattern B | /e/ → /i/ | Singular → Plural | Kele → Kile |
+| Pattern C | /e/ → /o/ | Singular → Plural | Peran → Poran |
+| **Pattern D** | **/e/ → /a/** | **Singular → Plural** | **Weta → Watha** |
+
+**Confidence: Moderate** for *Weta/Watha* as a genuine ablaut pair. The pair appears in a parallel syntactic context within the chant (*De alai weta-den* / *De alai watha-nekan*), where the only difference is the number of the suffixed object ("him" vs. "us"). However, it is possible that the ablaut reflects **object agreement** rather than subject number — *Weta* with singular object (*-den* "him"), *Watha* with plural object (*-nekan* "us"). If so, Zandali verbs may exhibit a **split agreement system** where ablaut marks subject number (as in *Peran/Poran*, *Kele/Kile*) and/or object number (as in *Weta/Watha*). Distinguishing these two analyses requires more data.
+
+Pattern D is significant because it introduces /a/ as an ablaut vowel, meaning all five Zandali vowels (/a e i o u/) are now attested in ablaut patterns, though /u/ has no confirmed ablaut pair.
+
+#### Noun Number: Absence of Plural Marking
+
+The Moldy Diary chant reveals that Zandali nouns do not visibly mark plural:
+
+| Zandali | English Translation | Number |
+|---------|-------------------|--------|
+| *De nazdo noa* | The seasons change | Plural ("seasons") |
+| *De alai weta-den* | The flames cleanse him | Plural ("flames") |
+
+*De nazdo noa* = "The seasons change" — the noun *nazdo* ("season") has no plural suffix despite being translated as plural. Similarly, *De alai* = "The flames" — *alai* ("fire/flame") has no plural suffix. This suggests that **Zandali does not mark number on nouns morphologically**, or that number is determined contextually/semantically rather than grammatically. This is consistent with many creole languages and some East Asian languages where plurality is inferred from context.
+
+The only confirmed plural/collective marker in Zandali is *-'ai* (*Atal'ai* = "Devoted Ones"), which may be restricted to animate/human collectives.
+
+#### Genitive Preposition: *Na* = "Of"
+
+The final lines of the Moldy Diary chant reveal that *na* serves as both locative ("in") and genitive ("of"):
+
+- *Na roa na Jan'alai* = "In Jan'alai's heart" → "In [heart] **of** [Jan'alai]"
+- *Na roa na sho nekan* = "In all our hearts" → "In [heart] **of** [all] [us]"
+
+The genitive *na* follows the possessed noun and precedes the possessor: **[Possessed] *na* [Possessor]** — a post-nominal genitive construction. This is the same word as the locative *na* ("in/to"), suggesting that *na* is a multi-functional preposition covering locative, allative, and genitive functions. Such polysemous spatial/relational prepositions are common cross-linguistically (cf. English "of" which covers genitive, partitive, and origin functions).
+
+This analysis resolves the translation of *Na roa na Jan'alai*: the first *na* is locative ("in"), the second *na* is genitive ("of"). The construction is: **[LOC *na*] [Noun] [GEN *na*] [Possessor]**.
+
+#### Possessive Pronouns
+
+The Filo lullaby confirms two possessive pronouns:
+
+| Possessive | Person | Independent Pronoun | Example |
+|-----------|--------|-------------------|---------|
+| *mo* | 1st singular ("my") | *Mon* (I/me) | *mo keke* = "my child" |
+| *ney* | 2nd singular ("your") | *Ya* (you) | *ney lakamo* = "your crying" |
+
+Both possessive pronouns precede the possessed noun (**pre-nominal possessive**). *Mo* appears to be a reduced form of *Mon* (I/me), and *ney* may be related to the verb suffix *-ne* (2nd person). The relationship *ney* ↔ *-ne* is potentially significant: if *ney* = "your" and *-ne* = "you" (verb suffix), they may share an archaic 2nd person root */ne-/, with *ney* being the independent possessive form and *-ne* the clitic/affixal form. This would strengthen the hypothesis that *-ne* reflects an archaic pronoun rather than being unrelated to *Ya*.
+
+#### Modal Verbs
+
+The Moldy Diary chant reveals two modal/auxiliary verbs:
+
+| Modal | Function | Example |
+|-------|----------|---------|
+| *hida* | Obligation ("must") | *Jan'alai hida peran* = "Jan'alai must die" |
+| *ban* | Future ("will/shall") | *Ni den ban kele* = "And he will rise" |
+
+Both modals precede the main verb: **[Subject] [Modal] [Verb]**. This confirms a **modal + infinitive** construction. *Hida* expresses necessity/obligation; *ban* expresses future tense/volition. The word *ban* was previously listed as a noun meaning "will" (determination), but in the chant it clearly functions as a future auxiliary. This dual usage (noun "will/determination" → auxiliary "will/shall") parallels the grammaticalization pathway of English "will" (from noun "desire/volition" to future auxiliary).
+
+#### Negative Imperative: *Waikempo*
+
+The Filo lullaby provides three attestations of *Waikempo* as a negative imperative ("stop"):
+
+| Line | Zandali | Translation |
+|------|---------|-------------|
+| 3 | *Waikempo wa'aru po* | Stop fearing the dark |
+| 6 | *Waikempo ney lakamo* | Stop your crying |
+| 8 | *Waikempo maze selo* | Stop fighting sleep |
+
+*Waikempo* is our first confirmed Zandali imperative form. Its syntax is **[Imperative] [Complement]**, where the complement can be a gerundive/participial phrase (*wa'aru po* = "fearing the dark") or a possessive noun phrase (*ney lakamo* = "your crying").
+
+#### Compound Nouns: Hyphenated Compounds
+
+The Moldy Diary reveals a compound noun construction using hyphens (not apostrophes):
+
+- *Fetna Alai-nazdo* = "Festival of the Fire Season" — *Fetna* (festival) + *Alai* (fire) + *-nazdo* (season)
+
+The hyphen in *Alai-nazdo* joins two nouns into a compound modifier ("fire-season"), which then modifies the head noun *Fetna*. This suggests an orthographic distinction:
+
+| Boundary Marker | Function | Example |
+|----------------|----------|---------|
+| Apostrophe (') | Morpheme boundary (prefix/suffix junction) | *Zul'Gurub*, *Atal'ai*, *Weta-den* |
+| Hyphen (-) | Compound noun junction | *Alai-nazdo* ("fire-season") |
+
+This distinction is significant: apostrophe boundaries involve grammatical morphemes (affixes, clitics), while hyphen boundaries involve lexical compounding. The compound *Alai-nazdo* follows a **modifier-head** order: *Alai* (fire) modifies *nazdo* (season), producing "fire-season" = "season of fire." If this order is general, Zandali compound nouns are **left-headed** or **modifier-head** (like English "firefly" but unlike English "fire season" which is head-modifier).
+
+#### Participle/Gerundive Forms
+
+The Filo lullaby reveals three forms that appear to be participles or gerundives (verb forms used as nouns):
+
+| Form | Translation | Analysis |
+|------|------------|---------|
+| *wa'aru* | "fearing" | From a verb root meaning "fear"; *wa'aru* + *po* (dark) = "fearing the dark" |
+| *maze* | "fighting/resisting" | From a verb root meaning "fight/resist"; *maze* + *selo* (sleep) = "fighting sleep" |
+| *lakamo* | "crying" | Noun/gerund meaning "crying" or "tears" |
+
+Both *wa'aru* and *maze* take direct objects (*po*, *selo*), confirming that Zandali gerundives retain verbal government. The apostrophe in *wa'aru* suggests a morpheme boundary: *wa'* + *-aru* (?), where *-aru* may be a participial/gerundive suffix. If *-aru* = gerundive suffix, it would be structurally parallel to the *-ura* collective suffix in *hash'ura* — the forms *-aru* and *-ura* may be allomorphs or related suffixes.
+
+**Confidence: Low** for *-aru* as a genuine participial suffix (single attestation; *wa'aru* could also be monomorphemic).
+
+#### Confirmed *-alor* = "Temple" (Jan'Alor)
+
+The Moldy Diary explicitly identifies *Jan'Alor* as "the temple of Jan'alai" — this is an **in-world translation** provided by the narrator Bin Greenwrench, who learned Zandali from his Amani host Yulna. This is the strongest evidence yet for *-alor* = "temple":
+
+| Attestation | Name | Translation | Source |
+|-------------|------|-------------|--------|
+| 1 | Dazar'alor | Palace/temple of Dazar | BfA raid |
+| 2 | Hexx'alor | Temple of Hexx | Midnight zone |
+| 3 | Jintha'Alor | Temple of Jintha | Hinterlands |
+| 4 | Shadra'Alor | Temple of Shadra | Hinterlands |
+| 5 | Mazra'Alor | Temple of Mazra | Eastern Plaguelands |
+| 6 | Tazz'Alor | Temple of Tazz | Lower Blackrock Spire |
+| **7** | **Jan'Alor** | **Temple of Jan'alai** | **Moldy Diary (in-world gloss)** |
+
+The in-world translation confirms *-alor* = "temple" (not merely "palace" or "hall"), and the wiki's proposal of "temple/altar" is now strongly supported. *Jan'Alor* also confirms that the first element in *-alor* compounds is the name of the deity or entity to whom the temple is dedicated: *Jan'* (abbreviated *Jan'alai*) + *-Alor* (temple) = "Temple of Jan'alai." This parallels *Shadra'Alor* = "Temple of Shadra" and *Dazar'alor* = "Temple of Dazar."
+
+**Confidence: Moderate–High** for *-alor* = "temple" (seven attestations with consistent semantics, one in-world confirmed translation).
+
+### Speculative Morpheme Cross-References
+
+#### *Zeb* = "Forest Village" (7 Attestations)
+
+The prefix *Zeb'* appears in seven attested place names, all associated with forest or woodland settings:
+
+| Place Name | Location | Context |
+|-----------|----------|---------|
+| Zeb'Watha | Eversong Woods | *Zeb'* + *Watha* (village) |
+| Zeb'Nowa | Ghostlands | *Zeb'* + *Nowa* |
+| Zeb'Sora | Ghostlands | *Zeb'* + *Sora* |
+| Zeb'Tela | Ghostlands | *Zeb'* + *Tela* |
+| Zeb'Halak | — | *Zeb'* + *Halak* |
+| Zeb'tula | Isle of Thunder (Zandalari) | *Zeb'* + *-tula* |
+| Zeb'ahari | Zuldazar (Zandalari) | *Zeb'* + *-ahari* |
+| Zeb'Alar | Zul'Aman (Midnight) | *Zeb'* + *-Alar* |
+
+All eight (not seven — *Zeb'Alar* from Midnight adds one) locations are settlements associated with forest trolls or in forested/wooded areas. The wiki speculates *Zeb* = "forest" or "forest village." The consistency is remarkable: every *Zeb'-* location is a small settlement, never a major city (which would use *Zul'-* instead). This suggests a **size hierarchy**: *Zul'* = "great city" vs. *Zeb'* = "forest village/settlement."
+
+The second elements in *Zeb'-* names (*Watha, Nowa, Sora, Tela, Halak, tula, ahari, Alar*) may be proper names or descriptive elements. Notably, *Zeb'Watha* contains *Watha*, which also appears as a suffix in *Agol'watha*, *Hiri'watha*, *Shaol'watha*, *Zun'watha* — suggesting *-watha* = "village/settlement" as a separate morpheme. If both *Zeb'* and *-watha* mean "village," then *Zeb'Watha* may be a doubly-marked form ("forest-village village") or *Zeb'* may be a more specific modifier.
+
+**Confidence: Low–Moderate** for *Zeb* = "forest village" (eight attestations with consistent environmental context, but no confirmed translation).
+
+#### *Thraze* = "Blade" (3 Attestations)
+
+Three Zul'Gurub sword names share the suffix *-thraze*:
+
+| Weapon Name | Translation | Context |
+|------------|-------------|---------|
+| Jang'thraze the Protector | "Protector-Blade" | Zul'Gurub, Hakkar loot |
+| Sang'thraze the Deflector | "Deflector-Blade" | Zul'Gurub, Hakkar loot |
+| Sul'thraze the Lasher | "Lasher-Blade" | Zul'Gurub, combined from above two |
+
+All three swords are associated with Hakkar the Soulflayer in Zul'Gurub. The pattern *[Noun]'-thraze* with a confirmed English gloss suggests:
+
+- *Jang* = "protect" (from "Protector") → *Jang'thraze* = "Protector-blade" or "Blade of Protection"
+- *Sang* = "deflect" (from "Deflector") → *Sang'thraze* = "Deflector-blade" or "Blade of Deflection"
+- *Sul* = "lash" or name element (from "Lasher") → *Sul'thraze* = "Lasher-blade" or "Blade of Sul"
+
+Notably, *Sul'thraze the Lasher* is forged by combining *Jang'thraze* and *Sang'thraze*, suggesting a mythological narrative where the unified blade is more powerful than its component parts. The *Sul-* element also appears in *Sul the Sandcrawler* and *Sul'lithuz* (basilisks, "children of Sul"), connecting this morpheme to Farraki lore.
+
+**Confidence: Low–Moderate** for *Thraze* = "blade" (three attestations with consistent semantics from weapon names; no confirmed in-world translation, but the English glosses consistently pair *-thraze* with bladed weapons).
+
+#### *-alor* Semantic Range: Temple/Altar vs. Palace/Hall
+
+With seven attestations and one in-world confirmed translation, *-alor* can now be analyzed more precisely:
+
+| Name | Context | *-alor* Gloss | Notes |
+|------|---------|---------------|-------|
+| Jan'Alor | Temple of Jan'alai | "Temple" | **Confirmed** by in-world text |
+| Shadra'Alor | Witherbark temple to Shadra | "Temple" | Described as a temple in lore |
+| Jintha'Alor | Forest troll city | "Temple" | Major settlement with temple complex |
+| Dazar'alor | Palace in Zuldazar | "Temple/Palace" | Both palace and temple functions |
+| Hexx'alor | Strait/subzone | "Temple" | Temple context implied |
+| Mazra'Alor | Mossflayer pyramid | "Temple" | Pyramid = temple structure |
+| Tazz'Alor | Smolderthorn chambers | "Temple" | Within LBRS; possibly shrine |
+
+The dominant meaning is **"temple"** — a sacred structure dedicated to a loa or deity. The in-world confirmation from *Jan'Alor* resolves the earlier uncertainty between "palace/hall" and "temple/altar." *Dazar'alor* may retain a dual meaning (the structure serves as both palace and temple, which is consistent with Zandalari theocratic governance where the king's seat is also a sacred space).
+
+The *-alor* names follow a consistent pattern: **[Deity/Entity name] + *-alor*** = "Temple of [Deity]." The first element is typically abbreviated or modified: *Shadra* (full loa name), *Jintha'* (unknown element), *Dazar* (king's name), *Hexx'* (unknown element), *Mazra'* (unknown element), *Tazz'* (unknown element), *Jan'* (abbreviated *Jan'alai*).
+
+**Confidence: Moderate–High** for *-alor* = "temple" (seven attestations, one in-world confirmed translation, consistent semantic pattern).
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar remain unattested and should not be assumed:
 
-- Tense and aspect marking (beyond the ablaut singular/plural distinction)
+- Tense marking beyond *ban* (future auxiliary)
+- Aspect marking (perfective/imperfective distinction)
 - Negation
 - Question formation
-- Possessive constructions (beyond *Mo keke* = "My child" — is *mo* a possessive pronoun "my" or "I"?)
 - Adjective-noun order
 - Relative clauses
-- Numerals and quantifiers
+- Numerals (beyond *sho* = "all")
 - Any formal register distinct from the creole
 
 The following are now partially attested from the Zandali primer items:
-- **Verb conjugation**: Singular/plural distinction via ablaut (*File/Fele*, *Kele/Kile*, *Peran/Poran*); ablaut is lexically conditioned, not predictable from a single rule
+- **Verb conjugation**: Singular/plural distinction via ablaut (*File/Fele*, *Kele/Kile*, *Peran/Poran*, *Weta/Watha*); ablaut is lexically conditioned, not predictable from a single rule; four confirmed patterns (A: /i/→/e/, B: /e/→/i/, C: /e/→/o/, D: /e/→/a/)
 - **Verb suffixes**: Experiencer/person marking (*-den*, *-ne*, *-nekan*); two of three suffixes appear to incorporate independent pronouns; possible ergative-absolutive alignment (extremely speculative)
+- **Modal verbs**: *hida* = "must" (obligation), *ban* = "will/shall" (future); both precede the main verb
 - **Pronoun system**: Extended to include *Den* (he), *Ko/Moi/Midi* (we), *Nekan* (us); four distinct "we" forms with possible syntactic conditioning
-- **Prepositions**: *Na* = "in/to" (prepositional, not postpositional)
-- **Word order**: Native Zandali sentences (*Tokobo'ne na Amani'Zar*) suggest VSO or VOS order, diverging from the creole register's SVO order
-- **Definite article**: *De* = "the" (pre-nominal, confirmed in *Untoh de alanke tono*)
+- **Possessive pronouns**: *mo* = "my" (pre-nominal), *ney* = "your" (pre-nominal); *ney* may share root with suffix *-ne*
+- **Prepositions**: *Na* = "in/to" (locative/allative) and "of" (genitive); multi-functional preposition
+- **Genitive construction**: [Possessed] *na* [Possessor] — post-nominal genitive
+- **Word order**: Native Zandali sentences suggest VSO or VOS order, diverging from the creole register's SVO order; SVO also attested in *Filo vize-ne* (subject-verb-object)
+- **Definite article**: *De* = "the" (pre-nominal, confirmed in *Untoh de alanke tono*, *De nazdo noa*, *De alai weta-den*)
+- **Noun number**: Not morphologically marked on nouns; plurality inferred from context
+- **Negative imperative**: *Waikempo* = "stop" (imperative)
+- **Compound nouns**: Hyphenated modifier-head compounds (*Alai-nazdo* = "fire-season")
+- **Quantifier**: *Sho* = "all" (pre-nominal)
+- **Confirmed morpheme**: *-alor* = "temple" (7 attestations, 1 in-world confirmed translation)

@@ -124,7 +124,9 @@ The Midnight expansion provides the most significant Zandali linguistic data sin
 - **9+ new Amani NPC names**: An'jali, Tak'za, Dar'rak, Ich'loka, Jon'noki, Ri'kari, Tal'rin, Tal'zi, Zak'kash, Vikovu, Iklani, Kagara, Namaji, Pakarri, Tavikko — significantly expanding the corpus of Zandali personal names
 - **3 new loa names**: Filo, Kulzi, Baban — loa with shrines in Zul'Aman
 - **Zul'jan quest line** (patch 12.1.0): The Coiled Isle zone and Curse of Ula'tek raid expand the Amani storyline significantly
-- **Rich verb morphology revealed**: Zandali primer items (Moldy Diary, Hastily-Scribbled Note) reveal singular/plural verb ablaut (*File/Fele*, *Kele/Kile*, *Peran/Poran*) and person-suffix marking (*-den*, *-ne*, *-nekan*)
+- **Rich verb morphology revealed**: Zandali primer items (Moldy Diary, Hastily-Scribbled Note) reveal singular/plural verb ablaut (*File/Fele*, *Kele/Kile*, *Peran/Poran*, *Weta/Watha*) and person-suffix marking (*-den*, *-ne*, *-nekan*)
+- **Jan'Alor confirmed as "temple of Jan'alai"**: In-world translation from the Moldy Diary confirms *-alor* = "temple" (7 attestations, Moderate–High confidence)
+- **Full chant and lullaby analyzed**: 12-line ritual chant (*Fetna Alai-nazdo*) and 9-line Filo lullaby provide the largest continuous Zandali texts, revealing modal verbs (*hida* "must", *ban* "will"), possessive pronouns (*mo* "my", *ney* "your"), genitive *na* ("of"), compound nouns (*Alai-nazdo*), and absence of noun plural marking
 
 ## Patch 12.1.0: Curse of Ula'tek (Summer 2026)
 
@@ -151,10 +153,14 @@ Patch 12.1.0 "Curse of Ula'tek" adds the Coiled Isle zone east of Zul'Aman, cont
 | Attested place names | 60+ | Zul'Gurub, Zul'Aman, Zul'Drak, Zul'Farrak, Zuldazar, Dazar'alor, Atal'Dazar, Nazmir, Vol'dun, Atal'Aman, Amani'Zar, Atal'Abasi, Hexx'alor, Zeb'Alar, Wit'Kalar, **Atal'Utek, Zail'Zar Span, Watha'nan**, **Agol'watha, Jintha'Alor, Shadra'Alor, Zeb'Watha, Zul'Mashar, Balia'mah, Zul'Kunda, Gundrak** |
 | Attested tribal names | 6 | Zandalari, Gurubashi, Amani, Drakkari, Farraki, Atal'ai |
 | Confirmed morphemes | 7 | *Zul'* (great/voodoo master), *Jin* (leader), *Atal* (devoted, 4 attestations), *-'ai* (collective), *Akil'* (eagle, 2 attestations), *-den/-ne/-nekan* (person suffixes), *-aka* (daughter of) |
-| Inferred morphemes | 15+ | *-ari/-ashi/-aki* (tribal suffixes), *-ey* (agentive), *-ura* (collective?), *Hash'* (unite, 2 attestations), *dazar* (throne), *-Zar* (capital?, 2 attestations), *naz* (blood), *mir* (land), *vol* (desert), *-alor* (temple/altar, 6 attestations), *-watha* (village), *Thraze* (blade, 3 attestations), *Zeb* (forest village, 7 attestations), *Rohk/Rokh* (world/end), *-shi* (elite suffix?), *Tal* (enclave), *Sul* (Farraki name element, 4 attestations) |
-| Attested common nouns (native) | 30+ | *gokinye* (invader), *hash'ura* (companions), *Alai* (fire), *E'ko* (life energy), *Fetna* (festival), *Loa* (spirits), *Muisek* (avenging spirit), *Nazdo* (season), *Roa* (heart), *Zen* (druid), *Rush'kah* (ceremonial mask), *Zuvembi* (manipulation brew), *Dahazi* (unknown, tomb) |
-| Attested verbs (native) | 7 | *File/Fele* (love), *Kele/Kile* (rise), *Peran/Poran* (die), *Weta* (cleanse), *Gogeh* (know), *Onze* (hear), *Vize* (see), *Waikempo* (stop) |
+| Inferred morphemes | 15+ | *-ari/-ashi/-aki* (tribal suffixes), *-ey* (agentive), *-ura* (collective?), *Hash'* (unite, 2 attestations), *dazar* (throne), *-Zar* (capital?, 2 attestations), *naz* (blood), *mir* (land), *vol* (desert), *-alor* (temple, 7 attestations, **confirmed**), *-watha* (village), *Thraze* (blade, 3 attestations), *Zeb* (forest village, 8 attestations), *Rohk/Rokh* (world/end), *-shi* (elite suffix?), *Tal* (enclave), *Sul* (Farraki name element, 4 attestations) |
+| Attested common nouns (native) | 40+ | *gokinye* (invader), *hash'ura* (companions), *Alai* (fire), *Alanke* (fire, ritual?), *E'ko* (life energy), *Fetna* (festival), *Keke* (child), *Lakamo* (crying), *Loa* (spirits), *Muisek* (avenging spirit), *Nazdo* (season), *Po* (dark), *Roa* (heart), *Selo* (sleep), *Zen* (druid), *Rush'kah* (ceremonial mask), *Zuvembi* (manipulation brew), *Dahazi* (unknown, tomb) |
+| Attested verbs (native) | 10 | *File/Fele* (love), *Kele/Kile* (rise), *Peran/Poran* (die), *Weta/Watha* (cleanse), *Gogeh* (know), *Onze* (hear), *Vize* (see), *Waikempo* (stop), *Noa* (change), *Raza* (is near) |
+| Attested modal verbs | 2 | *Hida* (must), *Ban* (will/shall) |
+| Attested participles/gerundives | 2 | *Wa'aru* (fearing), *Maze* (fighting) |
+| Attested possessive pronouns | 2 | *Mo* (my), *Ney* (your) |
 | Attested sentences (native) | 3 | *Tokobo'ne na Amani'Zar* (Welcome to Amani'Zar), *Doba quzhu ta tawbo! Metah bo chu!* (We bring a gift for you, great loa of death!), *Untoh de alanke tono* (Keep the fire burning) |
+| Attested continuous texts | 2 | Moldy Diary chant (12 lines), Filo lullaby (9 lines) — both with full line-by-line translations |
 | Attested sentences (creole) | 4 | *Mon be strong*, *Ya be dead*, *Dey be*, *Ya mon* |
 | Attested untranslated phrases | 20+ | *An'daka taz no shada*, *Da'kala koraste*, *Di chuka Rezan*, *Sendulo ma'das na khu'das*, *Ma'ako ka shadra*, *Chaga choka'jinn*, etc. |
 | Official IPA transcriptions | 1 | **Ula'tek** /ˈuːlə.ˌtɛk/ — the first WoW constructed language word with confirmed IPA |
