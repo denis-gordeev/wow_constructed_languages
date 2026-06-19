@@ -69,14 +69,21 @@
 
 - [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
-- [x] ~~Research Sporefall dungeon for Hara'ni-named NPCs or place names~~ — **RESOLVED**: Sporefall is a one-boss raid (not dungeon) in Harandar, added in patch 12.0.7; boss is Rotmire (fungal giant, Common/English name); no Hara'ni-named NPCs or place names found
-- [x] ~~Research Midnight patch content (12.0.5, 12.0.7 PTR) for new Hara'ni names~~ — **RESOLVED**: Patch 12.0.7 (2026-06-16) adds Sporefall raid (no new Hara'ni names), Void Assault Escalations to Naigtal (Hal'hadar ethereal faction) and Val (Domanaar Imperator Pertinax), Loa Speaker Brek (Zandali), Zul'jan quest line preview (patch 12.1.0); no new Hara'ni language data in 12.0.7
-- [ ] Research patch 12.1.0 content (Zul'jan quest line with uncle Kinduru) for new Zandali names — revisit when patch notes or wiki data become available
-- [x] Add phonology IPA charts to remaining languages with prose-only phonology (Gutterspeak has no distinct phonology; Nature is not a distinct language; Shalassian and Nazja now have IPA charts)
+- [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data
+- [x] ~~Research patch 12.1.0 content (Zul'jan quest line with uncle Kinduru) for new Zandali names~~ — **RESOLVED**: Patch 12.1.0 "Curse of Ula'tek" wiki page now available with extensive data; see completed items below
+- [x] ~~Check warcraft.wiki.gg for patch 12.1.0 Zul'jan quest line data when available~~ — **RESOLVED**: Full wiki data retrieved 2026-06-19; see completed items below
+- [x] ~~Mark Sporefall research TODO as resolved~~ — already resolved
+- [x] ~~Mark Midnight patch content TODO as resolved~~ — already resolved
+- [x] ~~Add phonology IPA charts to remaining languages~~ — already resolved
 
 ## Next Actions
 
-- [ ] Check warcraft.wiki.gg for patch 12.1.0 Zul'jan quest line data when available (new Zandali names, Kinduru lore)
+- [ ] Research Zandali primer items in detail: Moldy Diary, Hastily-Scribbled Note, Scrap of Singed Paper — these contain 30+ confirmed words and 3 full sentences not yet fully analyzed in grammar.md
+- [ ] Analyze confirmed verb morphology (ablaut patterns File/Fele, Kele/Kile, Peran/Poran) and person suffixes (-den, -ne, -nekan) in depth in grammar.md
+- [ ] Add Zandali writing system images/descriptions (Tablet of Theka, Tales of de Loa: Kimbul) — wiki now has images of Zandali script
+- [ ] Cross-reference Kith'ix (faceless general from Coiled Isle lore) with Aqir substrate in alien-comparative.html
+- [ ] Check patch 12.1.0 PTR data for additional Zandali character dialogue when available
+- [ ] Add additional proper nouns from Zandali wiki page (many untranslated names from earlier expansions not yet in vocabulary: Jin'rokh, Zul'Marosh, Agol'watha, etc.)
 
 ## Completed This Round
 
@@ -196,7 +203,28 @@
 - [x] Fix .md link references in HTML files: replaced all .md cross-references with .html equivalents across nerubian, haranir, shath-yar, zandali, tolvir vocabulary/grammar/description HTML files
 - [x] Full HTML structural integrity validation: all 30 language directories pass (balanced table/thead/tbody/tr tags, no visible .md link text)
 
-## Completed This Round (2026-06-19)
+## Completed This Round (2026-06-19, Round 2)
+
+- [x] Research patch 12.1.0 "Curse of Ula'tek" content from warcraft.wiki.gg: Coiled Isle zone, Atal'Utek temple, Ula'tek snake goddess, Pahk loa, Zul'jarra/Zul'jan expanded lore, Kinduru family details
+- [x] Add Ula'tek loa name with **official IPA pronunciation /ˈuːlə.ˌtɛk/** — the first WoW constructed language word with a confirmed IPA transcription from Blizzard
+- [x] Add Atal'Utek place name: **fourth attestation of Atal = "devoted"** (after Atal'ai, Atal'Aman, Atal'Abasi)
+- [x] Add confirmed Zandali primer words from wiki (30+ new confirmed words): Alai (fire), Dazdooga (fire), E'ko (life energy), Fetna (festival), Gokinye (invader/outsider — derogatory), Muisek (avenging spirit), Nazdo (season), Roa (heart), Zen (druid), Zul' (voodoo master), plus 11 confirmed verbs (File/Fele, Kele/Kile, Peran/Poran, Weta, Gogeh, Onze, Vize, Waikempo) and 17 grammatical words (Ban, De, Den, Fa'da, Hida, Ko, Ma'da, Moi, Midi, Na, Nekan, Ni, Noa, Oraka, Raza, Sho, Zernago)
+- [x] Add confirmed verb suffixes: -aka (daughter of), -den (him), -ne (you), -nekan (us)
+- [x] Add 3 confirmed full Zandali sentences with translations: *Tokobo'ne na Amani'Zar* (Welcome to Amani'Zar), *Doba quzhu ta tawbo! Metah bo chu!* (We bring a gift for you, great loa of death!), *Untoh de alanke tono* (Keep the fire burning)
+- [x] Add confirmed morpheme corrections: Basengo = "Slashed tree" (not "Witherbark"), Shan'aten = "Ashen pine" (not "Shadowpine")
+- [x] Add new loa names from patch 12.1.0 and wiki Loa template: Pahk, Akil'darah, Q'onzu, Mot'amra, Wila'ma, Dundun, Puul
+- [x] Add Akil' prefix analysis: *Akil'* = "Eagle" (Moderate confidence, 2 attestations: Akil'zon, Akil'darah)
+- [x] Add new NPC names: Kul'amara the Fierce (Witherbark chieftain), Vun'zarah (Witherbark chieftain), Vanatha, Ral'ji (Zul'jarra's lover), Rul'ari, Kaziil, Amala, Rakan (Kinduru's students)
+- [x] Add new place names: Atal'Utek, Zail'Zar Span, Watha'nan Crypts
+- [x] Update hash'ey definition: confirmed by wiki as "a forest troll champion of the loa"
+- [x] Update hash'ura definition: confirmed by wiki as "acolytes and companions to a hash'ey"
+- [x] Confirm Zul- prefix as detachable: Zul'jan/Zul'jarra use "Jan"/"Jarra" in intimate dialogue
+- [x] Confirm Kinduru is Zul'jin's son (not brother); Man'ye is Kinduru's brother
+- [x] Add verb morphology section to grammar.md: singular/plural ablaut (File/Fele, Kele/Kile, Peran/Poran), person suffixes (-den, -ne, -nekan), confirmed sentences
+- [x] Expand pronoun system: added Ko, Moi, Midi, Nekan, Den from confirmed Zandali primer
+- [x] Update attestation summary: native sentences 0→3, common nouns 1→30+, verbs 0→7, confirmed morphemes 4→7, official IPA transcriptions 0→1
+- [x] Add Patch 12.1.0 section to description.md with full Coiled Isle / Curse of Ula'tek details
+- [x] Sync vocabulary.html, grammar.html, description.html with updated .md files
 
 - [x] Fix nature/vocabulary.html heading mismatches: "Druidic Titles & Roles" → "Druidic Titles and Roles", "Nature Spirits & Entities" → "Nature Spirits and Entities", "Cross-Cultural Druidic Vocabulary" → "Notes" (with "Cross-Cultural Druidic Vocabulary" as h3 subsection); updated nav link accordingly; expanded note div to match MD prose
 - [x] Fix pandaren/vocabulary.html heading mismatch: replaced "Phonological Observations" h3 with "Linguistic Contact Analysis" matching MD content (substrate influence, loan direction, Sha vocabulary, Titan vocabulary, Zandali influence, methodological caveat)

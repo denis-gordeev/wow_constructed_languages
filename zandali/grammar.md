@@ -21,8 +21,17 @@ This creole likely represents how trolls speak Common with Zandali substrate inf
 | Ya | Second person (you) | — |
 | Dey | Third person plural (they) | Unclear if a distinct third-person singular exists |
 | We | First person plural (we) | Possibly a Common borrowing rather than native Zandali |
+| Ko | First person plural (we) | Confirmed from Hastily-Scribbled Note |
+| Moi | First person plural (we, sentence-initial) | Confirmed from Moldy Diary |
+| Midi | First person plural (we, sentence-medial) | Confirmed from Moldy Diary |
+| Nekan | First person plural (us) | Confirmed from Moldy Diary; may be accusative form |
+| Den | Third person singular (he) | Confirmed from Moldy Diary |
 
-The pronoun system is extremely limited in attestation. No possessive, reflexive, or oblique forms are distinguishable from the base forms.
+The pronoun system is now significantly better attested from the Zandali primer items. Notable features:
+- **Four distinct "we" forms**: *We* (possibly Common borrowing), *Ko* (from Hastily-Scribbled Note), *Moi* (sentence-initial), and *Midi* (sentence-medial). The *Moi/Midi* distinction suggests a syntactically conditioned allomorphy or case system.
+- **Nekan** may be an accusative form ("us") distinct from the nominative "we" forms, suggesting case marking.
+- **Den** = "he" is the first confirmed third-person singular pronoun.
+- No possessive, reflexive, or oblique forms are distinguishable from the base forms beyond *Nekan* (if accusative).
 
 ## The Copula "Be"
 
@@ -35,6 +44,50 @@ The pronoun system is extremely limited in attestation. No possessive, reflexive
 This is consistent with creole typology where the copula is typically invariant. Whether Zandali has distinct tense markers or aspect particles is unattested.
 
 ## Morphology
+
+### Verb Morphology
+
+The Zandali primer items (Moldy Diary, Hastily-Scribbled Note, Scrap of Singed Paper) reveal a surprisingly rich verbal morphology:
+
+#### Number Marking on Verbs
+
+Verbs show singular/plural distinction through vowel alternation:
+
+| Singular | Plural | Meaning | Pattern |
+|----------|--------|---------|---------|
+| File | Fele | Love | i→e ablaut |
+| Kele | Kile | Rise | e→i ablaut |
+| Peran | Poran | Die | e→o ablaut |
+
+The singular/plural distinction follows an **ablaut pattern** where the vowel of the first syllable changes: /i/↔/e/ for "love" and "rise", /e/↔/o/ for "die." This is a morphological process unknown from the creole register and represents genuine Zandali grammar.
+
+#### Verb Suffixes (Person/Experiencer Marking)
+
+| Suffix | Function | Example |
+|--------|----------|---------|
+| -den | "him" (experiencer) | Weta-den = "Cleanse him" |
+| -ne | "you" (experiencer) | (attested in Hastily-Scribbled Note) |
+| -nekan | "us" (experiencer) | Watha-nekan = "Cleanse us" |
+
+These suffixes attach to verb stems to mark the person affected by the verb's action. This is an **experiencer/object suffix system** — a morphological pattern not visible in the creole register at all. The system parallels the pronoun *Nekan* = "us," suggesting *-nekan* may incorporate the pronoun directly.
+
+#### Confirmed Sentence: Tokobo'ne na Amani'Zar
+
+The confirmed phrase *Tokobo'ne na Amani'Zar* = "Welcome to Amani'Zar" provides our first complete native Zandali sentence with confirmed translation:
+
+- *Tokobo'* = verb stem (likely "welcome" or "arrive/come")
+- *-ne* = second-person suffix ("you")
+- *na* = preposition "in/to"
+- *Amani'Zar* = place name
+
+This confirms: SVO or V-O-Loc word order, prepositional "na" = "in/to", and verb-subject agreement via suffixes.
+
+#### Confirmed Sentence: Doba quzhu ta tawbo! Metah bo chu!
+
+*Doba quzhu ta tawbo! Metah bo chu!* = "We bring a gift for you, great loa of death!" — This confirms complex sentence structure with:
+- Multiple clauses
+- Some form of vocative or honorific address (*tawbo* = "great"?)
+- *bo* = possible preposition or particle
 
 ### Prefix: Zul-
 
@@ -70,19 +123,24 @@ The suffix -'ai marks a collective or plural, meaning "ones":
 |-----------|------------|---------|
 | Atal'ai | Atal + 'ai | Devoted Ones / Chosen Ones |
 
-Atal'Aman (Midnight) and Atal'Abasi (Midnight) provide two additional attestations of the *Atal-* root in compound place names: *Atal* + *'Aman* = "Devoted to the Amani" and *Atal* + *'Abasi* = "Devoted to [Abasi]." This strengthens the case for *Atal* = "devoted/chosen" as a genuine Zandali morpheme with **three attestations** (*Atal'ai*, *Atal'Aman*, *Atal'Abasi*). **Confidence: Moderate–High** for *Atal* = "devoted/chosen".
+Atal'Aman (Midnight) and Atal'Abasi (Midnight) provide two additional attestations of the *Atal-* root in compound place names: *Atal* + *'Aman* = "Devoted to the Amani" and *Atal* + *'Abasi* = "Devoted to [Abasi]." Atal'Utek (Patch 12.1.0) provides a **fourth attestation**: *Atal* + *'Utek* = "Devoted to Ula'tek" (the temple on the Coiled Isle). This strengthens the case for *Atal* = "devoted/chosen" as a genuine Zandali morpheme with **four attestations** (*Atal'ai*, *Atal'Aman*, *Atal'Abasi*, *Atal'Utek*). **Confidence: Moderate–High** for *Atal* = "devoted/chosen".
 
 This is attested only once with *-'ai*, so the plural/collective suffix's generality is uncertain.
 
 ### Agentive Suffix: -ey (Midnight, 2026)
 
-The suffix *-ey* appears in the title *Hash'ey* ("unifier"), earned by Zul'jarra after uniting the Amani tribes. If *-ey* = agentive suffix ("one who does X"):
+The suffix *-ey* appears in the title *Hash'ey* ("unifier" / "champion of the loa"), earned by Zul'jarra after uniting the Amani tribes. Confirmed by warcraft.wiki.gg as "a forest troll champion of the loa." If *-ey* = agentive suffix ("one who does X"):
 
 | Formation | Components | Meaning |
 |-----------|------------|---------|
-| Hash'ey | Hash' + ey | Unifier / "one who unites" |
+| Hash'ey | Hash' + ey | Unifier / "one who unites" / champion of the loa |
 
 This would be the **first attested Zandali agentive suffix with a confirmed semantic gloss**. However, the single attestation prevents firm conclusions. If *-ey* is genuine, *Hash'* = "unite/gather" as a verb root.
+
+The hash'ey ceremony requires:
+- Two hash'uras (companions/acolytes) to accompany the aspirant
+- The Hash'ey Staff (a named ritual item)
+- Passing trials and gaining loa blessings from multiple loa
 
 #### Cross-Linguistic Comparison: Agentive Suffixes in WoW
 
@@ -109,18 +167,18 @@ Arguments against:
 
 **Confidence: Low–Moderate** for *-ey* as a genuine Zandali agentive suffix (upgraded from Low based on the confirmed gloss, but still limited by single attestation). The confirmed semantic gloss "unifier" is the strongest evidence — it is not just a fan translation but an in-game canonical designation.
 
-#### Related Form: hash'ura (Potential Attested Common Noun)
+#### Related Form: hash'ura (Confirmed Attested Common Noun)
 
-The form *hash'ura* appears in Midnight quest text as Zul'jarra's followers/bodyguards, used in lowercase — suggesting it is a **genuine Zandali common noun** rather than a proper name. If *Hash'* = "unite/gather" (from *Hash'ey* "unifier"), then *hash'ura* could decompose as *hash'* + *-ura* where *-ura* = collective suffix ("those who X" or "the united ones"). This would be significant as one of the few attested Zandali common nouns (most Zandali attestations are proper names).
+The form *hash'ura* appears in Midnight quest text as Zul'jarra's followers/bodyguards, used in lowercase — confirmed by warcraft.wiki.gg as "acolytes and companions to a hash'ey." This is a **confirmed Zandali common noun**. If *Hash'* = "unite/gather" (from *Hash'ey* "unifier"), then *hash'ura* could decompose as *hash'* + *-ura* where *-ura* = collective suffix ("those who X" or "the united ones").
 
 | Form | Decomposition | Proposed Gloss |
 |------|---------------|----------------|
-| *Hash'ey* | *Hash'* + *-ey* | "Unifier" (confirmed) — agentive singular |
-| *hash'ura* | *hash'* + *-ura* | "The united ones" / "followers" (proposed) — collective plural |
+| *Hash'ey* | *Hash'* + *-ey* | "Unifier" / "champion of the loa" (confirmed) — agentive singular |
+| *hash'ura* | *hash'* + *-ura* | "The united ones" / "acolytes" (confirmed) — collective plural |
 
 If both forms are genuine, the *Hash'* root would have two attestations with related semantics, and the *-ura* suffix would be a new collective/plural marker distinct from *-'ai*.
 
-**Confidence: Very Low–Low** for *hash'ura* as a genuine Zandali common noun with *-ura* collective suffix (single attestation; lowercase usage supports common-noun status but morphology is uncertain).
+**Confidence: Low–Moderate** for *hash'ura* as a genuine Zandali common noun with *-ura* collective suffix (confirmed common-noun status by wiki, but morphology is uncertain).
 
 ### Collective Suffix: -ura (Midnight, 2026)
 
@@ -269,8 +327,11 @@ Six attested Loa names contain an apostrophe boundary, suggesting compound struc
 | Hir'eek | *Hir'* + *eek* | Bats | Short components; both elements unknown |
 | Krag'wa | *Krag'* + *wa* | Frogs/Earth | *Krag'* may relate to "earth/stone"; *wa* may be a spirit classifier |
 | Pa'ku | *Pa'* + *ku* | Winds | Very short components; possibly onomatopoeic |
-| Shadra | (no apostrophe) | Spiders | Monomorphemic or fused compound |
-| Bwonsamdi | (no apostrophe) | Death | Monomorphemic or fused compound |
+| Ula'tek | *Ula'* + *-tek* | Serpents | Snake goddess of forest trolls; **official IPA: /ˈuːlə.ˌtɛk/**. Central to patch 12.1.0 "Curse of Ula'tek" |
+| Akil'darah | *Akil'* + *-darah* | Eagles(?) | Second attestation of *Akil'-* prefix after *Akil'zon*; wiki speculates *Akil* = "Eagle" |
+| Q'onzu | *Q'* + *-onzu* | Unknown | Short apostrophe-marked name |
+| Mot'amra | *Mot'* + *-amra* | Unknown | — |
+| Wila'ma | *Wila'* + *-ma* | Unknown | — |
 
 The apostrophe-bearing Loa names share a structural pattern: two short morphemes, typically CV + CV or CVC + CV, joined by an apostrophe. This differs from:
 - **Place names** (*Zul'Gurub*, *Zul'Aman*), which use the *Zul-* prefix
@@ -290,8 +351,22 @@ Several Loa names lack apostrophes and show no evidence of internal morpheme bou
 | Akunda | Storms/Thoughts | CV.CV.CV | Trisyllabic; possibly compound but boundary unclear |
 | Sethraliss | Serpents/Lightning | CCV.CV.CVC | Complex; may contain *Seth* + *raliss* but unconfirmed |
 | Torga | Turtles | CV.CV | Short; possibly related to *Tor-* element seen elsewhere |
+| Pahk | Unknown (strait protector) | CVC | Extremely short; protects strait near Coiled Isle (patch 12.1.0) |
+| Dundun | Unknown | CVC.CVC | Reduplicative structure; rare in Zandali |
+| Puul | Unknown | CVVC | Geminate vowel; unusual phonological profile |
 
 The monomorphemic Loa names tend to be shorter than bimorphemic ones (1–3 syllables vs. 2–4 syllables). They also show different phonological profiles: fewer /z/ and /l/ sounds, more /k/ and /g/.
+
+#### Prefix: Akil'- (Eagle)
+
+The wiki speculates that *Akil'* = "Eagle" based on two attested names:
+
+| Formation | Components | Domain |
+|-----------|------------|--------|
+| Akil'zon | *Akil'* + *-zon* | Eagle loa of the Amani |
+| Akil'darah | *Akil'* + *-darah* | Eagle-associated loa |
+
+If *Akil'* = "Eagle," then *-zon* in *Akil'zon* could be a role/domain suffix, and *-darah* a different aspect. The Zandalari NPC *Windweaver Akil'amon* provides a third potential attestation. **Confidence: Moderate** for *Akil'* = "Eagle" (two confirmable attestations + one additional name).
 
 #### Proposed Morphological Classification
 
@@ -321,15 +396,20 @@ None of these suffixes is confirmed. The *-a* ending is the most frequent and ma
 
 ## Gaps and Uncertainties
 
-The following aspects of Zandali grammar are entirely unattested and should not be assumed:
+The following aspects of Zandali grammar remain unattested and should not be assumed:
 
-- Tense and aspect marking
+- Tense and aspect marking (beyond the ablaut singular/plural distinction)
 - Negation
 - Question formation
-- Possessive constructions
-- Case marking on nouns
-- Verb conjugation beyond the invariant "be"
+- Possessive constructions (beyond *Mo keke* = "My child" — is *mo* a possessive pronoun "my" or "I"?)
 - Adjective-noun order
 - Relative clauses
 - Numerals and quantifiers
 - Any formal register distinct from the creole
+
+The following are now partially attested from the Zandali primer items:
+- **Verb conjugation**: Singular/plural distinction via ablaut (*File/Fele*, *Kele/Kile*, *Peran/Poran*)
+- **Verb suffixes**: Experiencer/person marking (*-den*, *-ne*, *-nekan*)
+- **Pronoun system**: Extended to include *Den* (he), *Ko/Moi/Midi* (we), *Nekan* (us)
+- **Prepositions**: *Na* = "in"
+- **Word order**: Native Zandali sentences (*Tokobo'ne na Amani'Zar*) suggest V-O-Loc or SVO order

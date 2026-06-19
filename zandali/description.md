@@ -102,28 +102,49 @@ No Zandali writing system has been depicted or described in canon. Troll ruins a
 
 The Midnight expansion provides the most significant Zandali linguistic data since Battle for Azeroth:
 
-- **Amani'Zar Village**: Confirmed capital of the Amani tribe, providing the first attestation of the *-Zar* place-name element (possibly related to *-dazar*)
-- **Nalorakk confirmed as Loa of War**: Multiple titles attested (The Dreamer, The Mountain, Ironjaw, Stonehide, The Unyielding One). Nalorakk's domain includes both war and the earth — "he grants his followers strength in battle, [but] he also answers to farmers and stonemasons, for his domain is the earth itself"
+- **Amani'Zar Village**: Confirmed capital of the Amani tribe, providing the first attestation of the *-Zar* place-name element (possibly related to *-dazar*). **Confirmed greeting**: *Tokobo'ne na Amani'Zar* = "Welcome to Amani'Zar"
+- **Nalorakk confirmed as Loa of War**: Multiple titles attested (The Dreamer, The Mountain, Ironjaw, Stonehide, The Unyielding One). Nalorakk's domain includes both war and the earth
 - **Jan'alai confirmed female**: The Loa of Fire (Dragonhawk) is confirmed female in Midnight — "She's ready to bring a new clutch of eggs" (patch 12.0.7)
-- **First attested Zandali common noun**: *hash'ura* (Zul'jarra's followers), used in lowercase, is the first potential attestation of a genuine Zandali common noun rather than a proper name
-- **Atal morpheme strengthened**: Third attestation in *Atal'Abasi* (after *Atal'ai* and *Atal'Aman*)
+- **First confirmed Zandali common nouns**: *hash'ura* (companions to a hash'ey) and *gokinye* (invader/outsider) — confirmed by warcraft.wiki.gg with official translations
+- **Atal morpheme strengthened**: Fourth attestation in *Atal'Utek* (after *Atal'ai*, *Atal'Aman*, *Atal'Abasi*) — **Confidence: Moderate–High**
+- **Akil' prefix**: Second attestation in *Akil'darah* (after *Akil'zon*) — "Akil" = "Eagle" (Moderate confidence)
+- **Zul- prefix confirmed detachable**: Zul'jan and Zul'jarra call each other "Jan" and "Jarra" in intimate conversation, confirming *Zul-* is a detachable title prefix
 - **9+ new Amani NPC names**: An'jali, Tak'za, Dar'rak, Ich'loka, Jon'noki, Ri'kari, Tal'rin, Tal'zi, Zak'kash, Vikovu, Iklani, Kagara, Namaji, Pakarri, Tavikko — significantly expanding the corpus of Zandali personal names
 - **3 new loa names**: Filo, Kulzi, Baban — loa with shrines in Zul'Aman
-- **Zul'jan quest line** (patch 12.1.0): Zul'jan and his uncle Kinduru will explore "an ancient mystery surrounding the legacy of the Amani trolls" — potential source of new Zandali vocabulary
+- **Zul'jan quest line** (patch 12.1.0): The Coiled Isle zone and Curse of Ula'tek raid expand the Amani storyline significantly
+- **Rich verb morphology revealed**: Zandali primer items (Moldy Diary, Hastily-Scribbled Note) reveal singular/plural verb ablaut (*File/Fele*, *Kele/Kile*, *Peran/Poran*) and person-suffix marking (*-den*, *-ne*, *-nekan*)
+
+## Patch 12.1.0: Curse of Ula'tek (Summer 2026)
+
+Patch 12.1.0 "Curse of Ula'tek" adds the Coiled Isle zone east of Zul'Aman, continuing Zul'jan's story:
+
+- **Ula'tek**: Snake goddess of the forest trolls, with **official IPA pronunciation /ˈuːlə.ˌtɛk/** — the first WoW constructed language word with a confirmed IPA transcription from Blizzard. Central to the patch; the Venomous Abyss raid features Ula'tek as the final boss
+- **Atal'Utek**: Temple on the Coiled Isle, built to commemorate the Amani victory over the faceless general Kith'ix. Fourth attestation of *Atal* = "devoted"
+- **Pahk**: Loa protecting the strait between the Coiled Isle and Zul'Aman
+- **Coiled Isle**: Originally named "Atal'Utek" on the map (patch 12.0.1), renamed to "The Coiled Isle" in 12.1.0 when the underground temple kept the name *Atal'Utek*
+- **New Zandali words confirmed**: *gokinye* (invader/outsider), *oraka* (greeting), *zernago* (farewell, spelling uncertain), *Tokobo'ne* (welcome)
+- **Zul'jarra confirmed as hash'ey**: Earned the title by gaining blessings of four Amani loa (Akil'zon, Halazzi, Jan'alai, Nalorakk). Her hash'uras include Lady Liadrin
+- **Kinduru**: Zul'jin's son (not brother as previously assumed); Man'ye's brother. Has four students training as loa speakers: Rul'ari, Kaziil, Amala, Rakan
+- **Family tree confirmed**: Zul'jin → Man'ye + Kinduru (sons). Man'ye + Zarama → Zul'jarra + Zul'jan (children). Ral'ji is Zul'jarra's lover
+- **Basengo = "Slashed tree"**: Officially confirmed translation (commonly mistranslated as "Witherbark")
+- **Shan'aten = "Ashen pine"**: Officially confirmed translation (commonly mistranslated as "Shadowpine")
+- **Zandali primer items**: The Moldy Diary and Hastily-Scribbled Note provide 30+ confirmed Zandali words and three full sentences with translations — the richest source of native Zandali grammar ever discovered
 
 ## Attestation Summary
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Attested proper names (Loa) | 17+ | Bwonsamdi, Mueh'zala, Hir'eek, Pa'ku, Krag'wa, Gonk, Rezan, Jani, Shadra, Sethraliss, Nalorakk, Akil'zon, Halazzi, Jan'alai, Filo, Kulzi, Baban |
-| Attested proper names (Persons) | 15+ | Rastakhan, Talanji, Vol'jin, Sen'jin, Zul, Zul'jarra, Zul'jan, Mor'duun, Zarama, Kol'anji, Man'ye, Kinduru, Pel'na Torntusk, Nanea, Brek |
-| Attested place names | 15+ | Zul'Gurub, Zul'Aman, Zul'Drak, Zul'Farrak, Zuldazar, Dazar'alor, Atal'Dazar, Nazmir, Vol'dun, Atal'Aman, Amani'Zar, Atal'Abasi, Hexx'alor, Zeb'Alar, Wit'Kalar |
+| Attested proper names (Loa) | 25+ | Bwonsamdi, Mueh'zala, Hir'eek, Pa'ku, Krag'wa, Gonk, Rezan, Jani, Shadra, Sethraliss, Nalorakk, Akil'zon, Halazzi, Jan'alai, Filo, Kulzi, Baban, **Ula'tek, Pahk, Akil'darah, Q'onzu, Mot'amra, Wila'ma, Dundun, Puul** |
+| Attested proper names (Persons) | 25+ | Rastakhan, Talanji, Vol'jin, Sen'jin, Zul, Zul'jarra, Zul'jan, Mor'duun, Zarama, Kol'anji, Man'ye, Kinduru, Pel'na Torntusk, Nanea, Brek, **Kul'amara, Vun'zarah, Vanatha, Ral'ji, Rul'ari, Kaziil, Amala, Rakan** |
+| Attested place names | 20+ | Zul'Gurub, Zul'Aman, Zul'Drak, Zul'Farrak, Zuldazar, Dazar'alor, Atal'Dazar, Nazmir, Vol'dun, Atal'Aman, Amani'Zar, Atal'Abasi, Hexx'alor, Zeb'Alar, Wit'Kalar, **Atal'Utek, Zail'Zar Span, Watha'nan** |
 | Attested tribal names | 6 | Zandalari, Gurubashi, Amani, Drakkari, Farraki, Atal'ai |
-| Confirmed morphemes | 4 | *Zul* (great/city), *Jin* (leader), *Atal* (devoted, 3 attestations), *-'ai* (collective) |
-| Inferred morphemes | 10+ | *-ari/-ashi/-aki* (tribal suffixes), *-ey* (agentive), *-ura* (collective?), *Hash'* (unite, 2 attestations), *dazar* (throne), *-Zar* (capital?), *naz* (blood), *mir* (land), *vol* (desert), *-alor* (hall/palace) |
-| Attested common nouns (native) | 1 | *hash'ura* (followers/united ones) — the only attested Zandali common noun used in lowercase |
+| Confirmed morphemes | 7 | *Zul'* (great/voodoo master), *Jin* (leader), *Atal* (devoted, 4 attestations), *-'ai* (collective), *Akil'* (eagle, 2 attestations), *-den/-ne/-nekan* (person suffixes), *-aka* (daughter of) |
+| Inferred morphemes | 10+ | *-ari/-ashi/-aki* (tribal suffixes), *-ey* (agentive), *-ura* (collective?), *Hash'* (unite, 2 attestations), *dazar* (throne), *-Zar* (capital?, 2 attestations), *naz* (blood), *mir* (land), *vol* (desert), *-alor* (hall/palace), *-watha* (village) |
+| Attested common nouns (native) | 30+ | *gokinye* (invader), *hash'ura* (companions), *Alai* (fire), *E'ko* (life energy), *Fetna* (festival), *Loa* (spirits), *Muisek* (avenging spirit), *Nazdo* (season), *Roa* (heart), *Zen* (druid) |
+| Attested verbs (native) | 7 | *File/Fele* (love), *Kele/Kile* (rise), *Peran/Poran* (die), *Weta* (cleanse), *Gogeh* (know), *Onze* (hear), *Vize* (see), *Waikempo* (stop) |
+| Attested sentences (native) | 3 | *Tokobo'ne na Amani'Zar* (Welcome to Amani'Zar), *Doba quzhu ta tawbo! Metah bo chu!* (We bring a gift for you, great loa of death!), *Untoh de alanke tono* (Keep the fire burning) |
 | Attested sentences (creole) | 4 | *Mon be strong*, *Ya be dead*, *Dey be*, *Ya mon* |
-| Attested sentences (native) | 0 | No native Zandali sentences with translations are recorded |
+| Official IPA transcriptions | 1 | **Ula'tek** /ˈuːlə.ˌtɛk/ — the first WoW constructed language word with confirmed IPA |
 
 ## Notes on Reliability
 

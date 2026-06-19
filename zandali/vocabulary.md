@@ -85,13 +85,111 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Taz'dingo | Victory / Hooray | Exclamation of triumph |
 | Dingo | Possibly a victory exclamation element | Component of Taz'dingo; uncertain independent meaning |
 
-## Other
+## Nouns — Common Nouns (Confirmed from Zandali Primer)
+
+Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scribbled Note, Scrap of Singed Paper, Children's Week quests, and Midnight quest text).
+
+| Word | Meaning | Source | Notes |
+|------|---------|--------|-------|
+| Alai | Fire, flame | Moldy Diary | — |
+| Dazdooga | Fire | *Blood of the Highborne* | Synonym or dialectal variant of *Alai* |
+| E'ko | Life energy within all living things | Witch Doctor Mau'ari quests | Also described as "da power dat each creature possesses" |
+| Fetna | Festival | Moldy Diary | — |
+| Gokinye | Invader(s); outsider(s) | Midnight quests (Our Mutual Enemy, Everything We Worked For, Test of Conviction) | **Derogatory** term used by forest trolls and their loa for foreigners. Used by Zul'jan ("I don't speak to gokinye"), Kinduru ("Good luck, gokinye"), Zul'jarra ("And de gokinye") |
+| Loa | Powerful spirits/deities | Universal troll term | Mainly used for Wild Gods but also applied to non-Wild God beings like wisps |
+| Muisek | Avenging spirit from a creature that died a violent death | Testing the Vessel quest | — |
+| Nazdo | Season(s) | Moldy Diary | — |
+| Roa | Heart(s) | Moldy Diary | — |
+| Voodoo | Ancient magic used by trolls | Universal term | Unconfirmed as native Zandali; may be a Common rendering |
+| Zen | Druid | Loreology (former Blizzard CM) | Often a prefix added to a name when they become one: Zen'Balai, Zen'Kiki, Zen'tabra |
+| Zul' | Voodoo master / Witch doctor | Loreology; RPG | Often a prefix added to a name when they become one |
+
+## Verbs (Confirmed from Zandali Primer)
+
+| Word | Meaning | Number | Source |
+|------|---------|--------|--------|
+| File | Love | Singular | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Fele | Love | Plural | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Kele | Rise | Singular | Moldy Diary |
+| Kile | Rise | Plural | Moldy Diary |
+| Peran | Die | Singular | Moldy Diary |
+| Poran | Die | Plural | Moldy Diary |
+| Weta | Cleanse | Base form | Moldy Diary |
+| Gogeh | Know | — | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Onze | Hear | — | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Vize | See | — | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Waikempo | Stop | — | Hastily-Scribbled Note, Scrap of Singed Paper |
+
+## Other Grammatical Words (Confirmed from Zandali Primer)
+
+| Word | Meaning | Source | Notes |
+|------|---------|--------|-------|
+| Ban | Will (noun) | Moldy Diary | — |
+| De | The | Moldy Diary | Confirmed definite article; extensively attested in Midnight dialogue |
+| Den | He | Moldy Diary | — |
+| Fa'da | Father | Children's Week quest | — |
+| Hida | Must | Moldy Diary | — |
+| Ko | We | Hastily-Scribbled Note, Scrap of Singed Paper | — |
+| Ma'da | Mother | Children's Week quest, Nazmir Visitor's Guide | Also used as a term of respect by male blood trolls for females |
+| Moi | We (sentence-initial) | Moldy Diary | — |
+| Midi | We (sentence-medial) | Moldy Diary | — |
+| Na | In | Moldy Diary | — |
+| Nekan | Us | Moldy Diary | — |
+| Ni | And | Moldy Diary | — |
+| Noa | Change | Moldy Diary | — |
+| Oraka | Greeting/exclamation | Midnight character quotes | Used by Zul'jan, Zul'jarra, Kinduru. Context: "Oraka, gokinye" (initial greeting to outsider), "Oraka, my friend" (friendly greeting), "Oraka, beloved of Akil'zon!" (warm address). Likely = "friend/comrade" or a general positive greeting. **Confidence: Low–Moderate** — attested in multiple character voices but no official translation |
+| Raza | Is near | Hastily-Scribbled Note, Scrap of Singed Paper | — |
+| Sho | All | Hastily-Scribbled Note, Scrap of Singed Paper, Moldy Diary | — |
+| Zernago | Farewell | Midnight character quotes (Zul'jarra, Kinduru) | Spelling uncertain. Used as a farewell word. **Confidence: Low** — spelling noted as uncertain on wiki |
+
+## Suffixes (Confirmed from Zandali Primer)
+
+| Suffix | Meaning | Source | Notes |
+|--------|---------|--------|-------|
+| -aka | Daughter of | Mind Vision quest | E.g., Ohgan'aka = daughter of Ohgan |
+| -den | Verb suffix: "him" (experiencer) | Moldy Diary | E.g., Weta-den = "Cleanse him" |
+| -ne | Verb suffix: "you" (experiencer) | Hastily-Scribbled Note, Scrap of Singed Paper | — |
+| -nekan | Verb suffix: "us" (experiencer) | Moldy Diary | E.g., Watha-nekan = "Cleanse us" |
+
+## Confirmed Phrases (Official Translations)
+
+| Phrase | Meaning | Source |
+|--------|---------|--------|
+| Doba quzhu ta tawbo! Metah bo chu! | We bring a gift for you, great loa of death! | A Tribute for Death quest |
+| Maze selo | Fighting sleep | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Mo keke | My child | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Ney lakamo | Your crying | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Tokobo'ne na Amani'Zar. | Welcome to Amani'Zar. | Heart of the Amani quest |
+| Untoh de alanke tono | Keep the fire burning | Moldy Diary |
+| Wa'aru po | Fearing the dark | Hastily-Scribbled Note, Scrap of Singed Paper |
+| Watha-nekan | Cleanse us | Moldy Diary |
+| Weta-den | Cleanse him | Moldy Diary |
+| Shan'aten | Ashen pine | Moldy Diary | Commonly mistranslated as "Shadowpine" |
+| Basengo | Slashed tree | Moldy Diary | Commonly mistranslated as "Witherbark" |
+| Bwon'tulak | Death singer | Blood in the Tides quest | — |
+| Shera Ali'kh | Death's Hand | Zandalarian Shadow Talisman quest | — |
+
+## Exclamations
 
 | Word | Meaning | Notes |
 |------|---------|-------|
-| Voodoo | Troll magic | Borrowed into Common; origin uncertain |
+| Taz'dingo | Victory / Hooray | Warcry or cheer; Chris Metzen stated he didn't know what it meant (2007) |
+| Oraka'zul | Unknown exclamation | Said by Kul'amara the Fierce at the start of Maisara Caverns instance |
+| Ma'tuba | Unknown exclamation | Attested in *Bloodsworn* |
+| Zagota | An insult | Attested in *Shadows Rising* |
 
-## Phrases
+## Untranslated Zandali Phrases (Midnight)
+
+| Phrase | Speaker | Context |
+|--------|---------|---------|
+| Mado'ru | Zul'jarra | Reply to a compliment from Jan'alai; seemingly an expression of gratitude |
+| Oraka'zul! | Kul'amara the Fierce | At the start of Maisara Caverns instance |
+| Da Amani de chuka! | Zul'jin, Daakara | Upon killing a player in Zul'Aman |
+| Di chuka Zandalar! | Various Zandalari NPCs | Battle cry |
+| Azzaga choogo zinn! | Hex Lord Malacrass, Master Gadrin | Upon killing a player / empowering adventurer |
+| Kin-de kin-de | Zul'jarra | Greeting (spelling uncertain) |
+
+## Phrases (Creole Register)
 
 | Phrase | Meaning | Notes |
 |--------|---------|-------|
@@ -181,7 +279,7 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 | Pel'na Torntusk | Revantusk leader (Midnight) | Apostrophe-marked compound: *Pel'* + *-na*. "Torntusk" is a Common-language surname. Led the Revantusk to rejoin the Amani at Nalorakk's command |
 | Loa Speaker Nanea | Loa Speaker serving Nalorakk (Midnight) | No apostrophe; short name. "Loa Speaker" is a Common-language title. Seemingly killed by Zul'jarra's forces but actually granted Nalorakk's mercy and rejoined the Amani |
 | Loa Speaker Brek | Loa Speaker tending Jan'alai's eggs (Midnight, Patch 12.0.7) | No apostrophe; short name. "Loa Speaker" is a Common-language title. Assists with hatching Jan'alai's new clutch of eggs |
-| hash'ura | Zul'jarra's followers/bodyguards (Midnight) | Apostrophe-marked compound: *hash'* + *-ura*. Lowercase usage suggests it is a common noun, not a proper name — **potential attested Zandali common noun**. If *Hash'* = "unite/gather" (from *Hash'ey* "unifier"), then *hash'ura* could = "those who unite" or "the united ones" (with *-ura* = collective suffix). **Confidence: Very Low–Low** for this decomposition |
+| hash'ura | Acolytes and companions to a hash'ey (Midnight) | Apostrophe-marked compound: *hash'* + *-ura*. Lowercase usage in quest text confirms it is a common noun, not a proper name — **confirmed attested Zandali common noun** (warcraft.wiki.gg). A hash'ey requires exactly two hash'uras to undertake the trials. Lady Liadrin served as one of Zul'jarra's hash'uras. If *Hash'* = "unite/gather" (from *Hash'ey* "unifier"), then *hash'ura* could = "those who unite" or "the united ones" (with *-ura* = collective suffix). **Confidence: Low–Moderate** for this decomposition |
 
 ### Midnight Expansion: Cultural Terms
 
@@ -255,3 +353,73 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 ### Midnight Expansion: Additional Place Names
 
 No new glossed Zandali phrases are attested from BfA content. Zandalari trolls speak Common in-game. The BfA Zandalar storyline provides extensive cultural context but no new Zandali-language sentences with translations.
+
+### Patch 12.1.0: Curse of Ula'tek (Summer 2026)
+
+Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Zul'Aman, featuring Zul'jan and Zul'jarra's story continuing from the Midnight campaign.
+
+#### New Loa Names (Patch 12.1.0)
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Ula'tek | Snake goddess of the forest trolls | **Official IPA: /ˈuːlə.ˌtɛk/ (OOL-ə-tek)**. Widely worshipped by forest trolls. The Shrine of Ula'Tek is the capital of Zul'Aman (RPG lore; non-canon). The patch is named "Curse of Ula'tek." An ancient powerful creature of hatred, corruption, and venom; unleashed by Zul'jan's actions. Eight-boss raid in the Venomous Abyss. Apostrophe-marked compound: *Ula'* + *-tek*. Bimorphemic loa name paralleling *Mueh'zala*, *Hir'eek*, *Krag'wa*, *Pa'ku* |
+| Pahk | Loa protecting the strait between Coiled Isle and Zul'Aman | Monomorphemic loa name (no apostrophe), paralleling *Gonk*, *Rezan*, *Jani*. Mentioned by Du'gal |
+| Akil'darah | Loa associated with eagle domain | Apostrophe-marked compound: *Akil'* ("eagle", from *Akil'zon*) + *-darah*. Second attestation of *Akil'-* prefix as "eagle" (after *Akil'zon*) |
+| Mot'amra | Loa (nature unknown) | Apostrophe-marked compound: *Mot'* + *-amra* |
+| Wila'ma | Loa (nature unknown) | Apostrophe-marked compound: *Wila'* + *-ma* |
+| Dundun | Loa (nature unknown) | Monomorphemic name (no apostrophe); reduplicative structure |
+| Puul | Loa (nature unknown) | Monomorphemic name (no apostrophe); geminate vowel |
+| Q'onzu | Loa (nature unknown) | Apostrophe-marked compound: *Q'* + *-onzu* |
+
+#### New NPC Names (Patch 12.1.0)
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Kul'amara the Fierce | Witherbark chieftain (Midnight) | Apostrophe-marked: *Kul'* + *-amara*. Led Witherbark forces; sent to Silvermoon to coordinate against Void Assaults. Says "Oraka'zul!" at Maisara Caverns |
+| Vun'zarah | Witherbark chieftain (Midnight) | Apostrophe-marked: *Vun'* + *-zarah*. Revealed location of Loa Speaker Brek at Temple of Jan'alai |
+| Vanatha | Amani warrior (Midnight) | No apostrophe. Rushed to inform Zul'jan of blood elf attack on Tor'Watha; killed by adventurer |
+| Ral'ji | Zul'jarra's lover (Midnight) | Apostrophe-marked: *Ral'* + *-ji*. Supported and comforted Zul'jarra through adversity. From *Legacy of the Amani* novel |
+| Rul'ari | Kinduru's student (Midnight) | Apostrophe-marked: *Rul'* + *-ari*. Loa speaker in training |
+| Kaziil | Kinduru's student (Midnight) | No apostrophe; geminate *-ii-* |
+| Amala | Kinduru's student (Midnight) | No apostrophe; *-a* ending |
+| Rakan | Kinduru's student (Midnight) | No apostrophe |
+
+#### New Place Names (Patch 12.1.0)
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Atal'Utek | Temple on the Coiled Isle (Patch 12.1.0) | Apostrophe-marked compound: *Atal* ("devoted") + *'Utek* (from Ula'tek). **Fourth attestation of *Atal* = "devoted"** (after *Atal'ai*, *Atal'Aman*, *Atal'Abasi*). Built to commemorate the Amani tribes' victory over the faceless general Kith'ix. Originally named the entire island before it was renamed "The Coiled Isle" in patch 12.1.0; *Atal'Utek* now refers to the underground temple. **Confidence: High** for *Atal* = "devoted" (four attestations) |
+| Zail'Zar Span | Bridge/causeway on Coiled Isle | Apostrophe-marked compound: *Zail'* + *-Zar*. The *-Zar* element parallels *Amani'Zar* (possibly = "throne/capital") |
+| Watha'nan Crypts | Crypts in Zul'Aman (Midnight) | Apostrophe-marked compound: *Watha'* + *-nan*. The *Watha'* element parallels the *-watha* suffix common in troll village names (*Agol'watha*, *Hiri'watha*, *Zeb'Watha*) — here appearing as a prefix |
+| Shadebasin Watch | Witherbark outpost (Midnight) | English compound; no Zandali form attested |
+| Akil'zon's Reach | Shrine in the mountains (Midnight) | English + Zandali compound; named after the eagle loa |
+| Temple of Halazzi | Hidden temple (Midnight) | English + Zandali compound; named after the lynx loa |
+| Strait of Hexx'alor | Waterway between Coiled Isle and Zul'Aman | *Hexx'alor* already attested; confirmed as a strait name |
+
+#### Additional Amani Lore (Patch 12.1.0)
+
+| Element | Details | Notes |
+|---------|---------|-------|
+| Hash'ey | A forest troll champion of the loa (confirmed definition) | Confirmed by warcraft.wiki.gg: "a forest troll champion of the loa." Requires passing trials and gaining loa blessings. Requires exactly two hash'uras. Associated with the Hash'ey Staff. Quest: "De Legend of de Hash'ey" |
+| Hash'ura | Acolytes and companions to a hash'ey (confirmed definition) | Confirmed by warcraft.wiki.gg. The hash'ey's champion companions who help secure loa blessings. Lady Liadrin is one of Zul'jarra's hash'uras |
+| Hash'ey Staff | Ritual staff associated with the hash'ey ceremony | Kinduru refused to leave Atal'Aman without it |
+| Zul- prefix as detachable | Confirmed by character dialogue | Zul'jan and Zul'jarra call each other "Jan" and "Jarra" in intimate conversation, dropping the "Zul-" prefix. Confirms *Zul-* is a detachable title prefix, not part of the core name. Kinduru calls Zul'jan "Jan-boy" |
+| Keen-Eyed Keener | Epithet for Akil'zon | Used by Kinduru: "The Keen-Eyed Keener watch over ya" |
+| Gnarldin | Enemies of the Amani | Species/group name. Ambushed and maimed Zarama. Also attacked Zul'jarra on Akil'zon's Reach. Subzone: Gnarldor Isle |
+| Kith'ix | Faceless general defeated by Amani | Shath'Yar origin (not Zandali). Atal'Utek was built to commemorate the Amani victory over Kith'ix. Cross-references the *Azj-* / *Ahn-* Aqir substrate pattern in [alien-comparative.html](../alien-comparative.html) |
+| Tokobo'ne | "Welcome" (in phrase *Tokobo'ne na Amani'Zar*) | First confirmed Zandali greeting with translation. *Tokobo'* + *-ne* (verb suffix for "you") + *na* ("in") + *Amani'Zar* |
+
+#### Updated Morpheme Analysis (Patch 12.1.0)
+
+| Element | Inferred Meaning | Attested In | Confidence |
+|---------|-----------------|-------------|------------|
+| Atal | "Devoted/chosen" | Atal'ai, Atal'Aman, Atal'Abasi, **Atal'Utek** | **Moderate–High** — four attestations with consistent semantics |
+| Akil' | "Eagle" | Akil'zon, **Akil'darah** | **Moderate** — two attestations, wiki speculates "Akil" = "Eagle" |
+| Zul' | "Great" or "Voodoo master" (title prefix) | Zul'Gurub, Zul'Aman, Zul'jin, **Zul'jarra, Zul'jan** (confirmed detachable) | **High** — confirmed as detachable prefix by character dialogue (Zul'jan → "Jan", Zul'jarra → "Jarra") |
+| -watha | Village/settlement suffix | Agol'watha, Hiri'watha, Zeb'Watha, **Watha'nan** (prefix form) | **Moderate** — wiki speculates *watha* = village suffix; now also appears as prefix in Watha'nan |
+| Hash' | "Unite/gather" | Hash'ey ("unifier"), hash'ura ("companions") | **Low–Moderate** — two attestations with related semantics |
+| -ey | Agentive suffix ("one who does X") | Hash'ey ("unifier/champion") | **Low–Moderate** — confirmed gloss supports agentive function |
+| -ura | Collective suffix ("those who X") | hash'ura ("acolytes/companions") | **Low** — single attestation; confirmed common-noun status by wiki |
+| -Zar | Possibly variant of *-dazar* ("throne/capital") | Amani'Zar, **Zail'Zar** (second attestation) | **Low–Moderate** — now two attestations with *-Zar* element |
+| Basengo | "Slashed tree" (not "Witherbark") | Moldy Diary | **High** — official translation; commonly mistranslated |
+| Shan'aten | "Ashen pine" (not "Shadowpine") | Moldy Diary | **High** — official translation; commonly mistranslated |
