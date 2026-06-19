@@ -77,8 +77,6 @@
 ## Next Actions
 
 - [ ] Check warcraft.wiki.gg for patch 12.1.0 Zul'jan quest line data when available (new Zandali names, Kinduru lore)
-- [ ] Fix remaining formatting-level vocab sync issues (nature/pandaren/vulpera heading name mismatches — cosmetic only)
-- [ ] Fix haranir grammar.html formatting difference (bold markers in MD vs plain text in HTML — cosmetic only)
 
 ## Completed This Round
 
@@ -197,3 +195,11 @@
 - [x] Fix eredun vocabulary.html: remove duplicate phonology sections (already in grammar.html)
 - [x] Fix .md link references in HTML files: replaced all .md cross-references with .html equivalents across nerubian, haranir, shath-yar, zandali, tolvir vocabulary/grammar/description HTML files
 - [x] Full HTML structural integrity validation: all 30 language directories pass (balanced table/thead/tbody/tr tags, no visible .md link text)
+
+## Completed This Round (2026-06-19)
+
+- [x] Fix nature/vocabulary.html heading mismatches: "Druidic Titles & Roles" → "Druidic Titles and Roles", "Nature Spirits & Entities" → "Nature Spirits and Entities", "Cross-Cultural Druidic Vocabulary" → "Notes" (with "Cross-Cultural Druidic Vocabulary" as h3 subsection); updated nav link accordingly; expanded note div to match MD prose
+- [x] Fix pandaren/vocabulary.html heading mismatch: replaced "Phonological Observations" h3 with "Linguistic Contact Analysis" matching MD content (substrate influence, loan direction, Sha vocabulary, Titan vocabulary, Zandali influence, methodological caveat)
+- [x] Fix vulpera/vocabulary.html heading mismatch: "Consonant Inventory" → "Consonant Distribution" matching MD
+- [x] Fix haranir/grammar.html bold formatting: wrapped "EFFECTIVELY DISPROVEN as Feminine" in `<strong>` tags inside h3 heading (was plain text)
+- [x] Fix haranir/grammar.html missing content: added item "Xhosa phonological parallels: Hara'ni vs. Zandali" to Notable Phonological Features list (was present in MD but entirely absent from HTML)
