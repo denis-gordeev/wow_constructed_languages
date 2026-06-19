@@ -61,6 +61,28 @@ Verbs show singular/plural distinction through vowel alternation:
 
 The singular/plural distinction follows an **ablaut pattern** where the vowel of the first syllable changes: /i/↔/e/ for "love" and "rise", /e/↔/o/ for "die." This is a morphological process unknown from the creole register and represents genuine Zandali grammar.
 
+#### Ablaut Pattern Analysis
+
+The three confirmed ablaut pairs reveal a systematic vowel alternation pattern:
+
+| Pattern | Vowel Change | Direction | Example |
+|---------|-------------|-----------|---------|
+| Pattern A | /i/ → /e/ | Singular → Plural | File → Fele |
+| Pattern B | /e/ → /i/ | Singular → Plural | Kele → Kile |
+| Pattern C | /e/ → /o/ | Singular → Plural | Peran → Poran |
+
+Several observations emerge:
+
+1. **No single ablaut direction**: Patterns A and B involve the same two vowels (/i/ and /e/) but in opposite directions. This means the ablaut is **lexically conditioned** — the specific vowel change is tied to the individual verb root, not to a general rule (cf. English strong verbs: *sing/sang/sung* vs. *drink/drank/drunk* where the vowel change is lexically determined).
+
+2. **Pattern C introduces /o/**: The *Peran/Poran* pair is the only one using /o/, suggesting that /o/ is a less frequent ablaut vowel. If the Zandali vowel system is truly five-vowel (/a e i o u/), then /a/ and /u/ ablaut patterns may also exist but are unattested.
+
+3. **Structural consistency**: All three pairs change the vowel of the **first syllable only**, leaving the second syllable's consonant frame intact. This suggests a templatic morphology where the consonantal skeleton (e.g., *F-l-e* for "love") is constant and the vowel is the variable morphological marker.
+
+4. **Singular vs. plural marking is unexpected**: In most natural languages with verbal ablaut, the alternation marks tense or aspect (cf. English *sing/sang*), not number. Zandali's use of ablaut for singular/plural distinction is typologically unusual but not unprecedented (cf. Arabic broken plurals use ablaut for number marking on nouns). This may suggest that Zandali's verbal ablaut evolved from an earlier system that marked aspect or some other category, with the singular/plural function being a secondary development.
+
+5. **Potential relationship to noun pluralization**: The ablaut singular/plural pattern on verbs is structurally parallel to Zandali noun pluralization patterns (e.g., *Hash'ey* singular agentive vs. *hash'ura* collective plural, if the *-ura* suffix is indeed collective). However, the verbal ablaut system and the nominal suffixal system appear to be independent morphological processes.
+
 #### Verb Suffixes (Person/Experiencer Marking)
 
 | Suffix | Function | Example |
@@ -70,6 +92,31 @@ The singular/plural distinction follows an **ablaut pattern** where the vowel of
 | -nekan | "us" (experiencer) | Watha-nekan = "Cleanse us" |
 
 These suffixes attach to verb stems to mark the person affected by the verb's action. This is an **experiencer/object suffix system** — a morphological pattern not visible in the creole register at all. The system parallels the pronoun *Nekan* = "us," suggesting *-nekan* may incorporate the pronoun directly.
+
+#### Person Suffix Analysis
+
+The three confirmed person suffixes reveal a partial paradigm:
+
+| Suffix | Person | Independent Pronoun | Relationship |
+|--------|--------|-------------------|-------------|
+| -den | 3rd person singular (him) | *Den* (he) | Suffix = pronoun (*den* → *-den*) |
+| -ne | 2nd person (you) | *Ya* (you) | Suffix ≠ pronoun; possibly archaic form |
+| -nekan | 1st person plural (us) | *Nekan* (us) | Suffix = pronoun (*nekan* → *-nekan*) |
+
+Key observations:
+
+1. **Pronoun incorporation**: Two of the three suffixes (*-den*, *-nekan*) appear to be direct incorporations of the independent pronouns *Den* and *Nekan*. This suggests that Zandali person marking on verbs may have developed from a process of pronoun cliticization, where independent pronouns were phonologically reduced and attached to the verb stem.
+
+2. **The *-ne* anomaly**: The 2nd person suffix *-ne* does not correspond to the independent pronoun *Ya* ("you"). Three possible explanations:
+   - **Archaic pronoun**: *-ne* may reflect an older 2nd person pronoun that was replaced by *Ya* in the independent paradigm but retained as a verbal suffix (cf. English *-st* in *thou went'st*, where the suffix outlived the pronoun *thou*).
+   - **Reduced form**: *-ne* could be a phonologically reduced form of an earlier 2nd person pronoun, perhaps related to the *Ni* ("and") or *Nekan* ("us") forms.
+   - **Independent morpheme**: *-ne* may be a dedicated verbal agreement marker unrelated to any pronoun.
+
+3. **No 1st person singular suffix**: There is no confirmed suffix for "me" (1st person singular). If the system is symmetrical, we would expect *-mon* or *-mo* (from the pronoun *Mon*). The absence may reflect a structural gap (perhaps 1st person singular is the unmarked/default form, requiring no suffix) or simply limited attestation.
+
+4. **Ergative-absolutive alignment possibility**: The suffixes mark the *experiencer* or *patient* of the verb, not the *agent*. *Weta-den* = "Cleanse him" (not "He cleanses"). This is consistent with an **ergative-absolutive** alignment where the verb agrees with the absolutive argument (the patient), rather than a **nominative-accusative** alignment where the verb agrees with the nominative (the agent). However, with only three data points, this analysis is extremely speculative.
+
+5. **Suffix position**: The person suffix appears immediately after the verb stem and before any prepositional phrases (*Tokobo'ne na Amani'Zar*), confirming that person marking is a verbal inflection rather than a clitic or independent particle.
 
 #### Confirmed Sentence: Tokobo'ne na Amani'Zar
 
@@ -88,6 +135,28 @@ This confirms: SVO or V-O-Loc word order, prepositional "na" = "in/to", and verb
 - Multiple clauses
 - Some form of vocative or honorific address (*tawbo* = "great"?)
 - *bo* = possible preposition or particle
+
+#### Syntactic Analysis of All Confirmed Sentences
+
+The three confirmed native Zandali sentences provide our only evidence for native word order:
+
+| Sentence | Translation | Structure |
+|----------|------------|-----------|
+| *Tokobo'ne na Amani'Zar* | Welcome to Amani'Zar | V-2SG PREP NAME |
+| *Doba quzhu ta tawbo! Metah bo chu!* | We bring a gift for you, great loa of death! | V OBJ PREP ADJ / ? PREP ? |
+| *Untoh de alanke tono* | Keep the fire burning | V ART N V(?) |
+
+Analysis of word order patterns:
+
+1. **Verb-initial tendency**: Two of three sentences begin with a verb (*Tokobo'ne*, *Doba*). If *Doba* is a verb ("we bring"), then *Untoh* ("keep") also begins its sentence. This suggests **VSO or VOS word order** for native Zandali — a pattern found in many creole and Austronesian languages, and consistent with the Zandali-in-game Caribbean creole aesthetic.
+
+2. **Preposition *na***: Confirmed as "in/to." Prepositional (not postpositional) usage, placing Zandali as a **prepositional language** — consistent with the vast majority of natural languages.
+
+3. **Definite article *de***: The sentence *Untoh de alanke tono* = "Keep the fire burning" contains *de* = "the," confirming that Zandali has a definite article that precedes its noun (as in English and many creoles).
+
+4. **Clause boundary in *Doba quzhu ta tawbo! Metah bo chu!***: The exclamation point marks a clause boundary between the two halves. The first clause (*Doba quzhu ta tawbo*) appears to be the main statement, while the second (*Metah bo chu*) appears to be a vocative or appositive address. This confirms that Zandali allows **multi-clause utterances** with some form of intonation-based clause marking.
+
+5. **Creole vs. native word order**: The creole register shows SVO order (*Mon be strong*), while the native sentences suggest VSO/VOS order. If this difference is genuine, it represents a **typological divergence** between the two registers: the creole adopted Common's SVO order, while native Zandali preserves a verb-initial order. This is consistent with creole formation cross-linguistically, where the superstrate language's word order typically replaces the substrate's.
 
 ### Prefix: Zul-
 
@@ -408,8 +477,9 @@ The following aspects of Zandali grammar remain unattested and should not be ass
 - Any formal register distinct from the creole
 
 The following are now partially attested from the Zandali primer items:
-- **Verb conjugation**: Singular/plural distinction via ablaut (*File/Fele*, *Kele/Kile*, *Peran/Poran*)
-- **Verb suffixes**: Experiencer/person marking (*-den*, *-ne*, *-nekan*)
-- **Pronoun system**: Extended to include *Den* (he), *Ko/Moi/Midi* (we), *Nekan* (us)
-- **Prepositions**: *Na* = "in"
-- **Word order**: Native Zandali sentences (*Tokobo'ne na Amani'Zar*) suggest V-O-Loc or SVO order
+- **Verb conjugation**: Singular/plural distinction via ablaut (*File/Fele*, *Kele/Kile*, *Peran/Poran*); ablaut is lexically conditioned, not predictable from a single rule
+- **Verb suffixes**: Experiencer/person marking (*-den*, *-ne*, *-nekan*); two of three suffixes appear to incorporate independent pronouns; possible ergative-absolutive alignment (extremely speculative)
+- **Pronoun system**: Extended to include *Den* (he), *Ko/Moi/Midi* (we), *Nekan* (us); four distinct "we" forms with possible syntactic conditioning
+- **Prepositions**: *Na* = "in/to" (prepositional, not postpositional)
+- **Word order**: Native Zandali sentences (*Tokobo'ne na Amani'Zar*) suggest VSO or VOS order, diverging from the creole register's SVO order
+- **Definite article**: *De* = "the" (pre-nominal, confirmed in *Untoh de alanke tono*)

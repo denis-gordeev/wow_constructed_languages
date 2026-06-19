@@ -70,20 +70,19 @@
 - [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data
-- [x] ~~Research patch 12.1.0 content (Zul'jan quest line with uncle Kinduru) for new Zandali names~~ — **RESOLVED**: Patch 12.1.0 "Curse of Ula'tek" wiki page now available with extensive data; see completed items below
-- [x] ~~Check warcraft.wiki.gg for patch 12.1.0 Zul'jan quest line data when available~~ — **RESOLVED**: Full wiki data retrieved 2026-06-19; see completed items below
-- [x] ~~Mark Sporefall research TODO as resolved~~ — already resolved
-- [x] ~~Mark Midnight patch content TODO as resolved~~ — already resolved
-- [x] ~~Add phonology IPA charts to remaining languages~~ — already resolved
 
 ## Next Actions
 
 - [ ] Research Zandali primer items in detail: Moldy Diary, Hastily-Scribbled Note, Scrap of Singed Paper — these contain 30+ confirmed words and 3 full sentences not yet fully analyzed in grammar.md
-- [ ] Analyze confirmed verb morphology (ablaut patterns File/Fele, Kele/Kile, Peran/Poran) and person suffixes (-den, -ne, -nekan) in depth in grammar.md
-- [ ] Add Zandali writing system images/descriptions (Tablet of Theka, Tales of de Loa: Kimbul) — wiki now has images of Zandali script
-- [ ] Cross-reference Kith'ix (faceless general from Coiled Isle lore) with Aqir substrate in alien-comparative.html
+- [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
+- [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data
 - [ ] Check patch 12.1.0 PTR data for additional Zandali character dialogue when available
-- [ ] Add additional proper nouns from Zandali wiki page (many untranslated names from earlier expansions not yet in vocabulary: Jin'rokh, Zul'Marosh, Agol'watha, etc.)
+- [ ] Add Zandali writing system images/descriptions — acquire wiki image URLs for Tablet of Theka, Tales of de Loa: Kimbul, and general Zandali writing
+- [ ] Analyze *-ne* person suffix etymology — investigate relationship to independent pronouns and potential archaic 2nd person form
+- [ ] Investigate ergative-absolutive alignment hypothesis — requires additional verb-argument data
+- [ ] Research *-alor* semantic range — six attestations now available (Dazar'alor, Hexx'alor, Jintha'Alor, Shadra'Alor, Mazra'Alor, Tazz'Alor); wiki proposes "temple/altar" rather than "palace/hall"
+- [ ] Investigate *Thraze* = "blade" hypothesis — three Zul'Gurub sword names all end in -thraze
+- [ ] Cross-reference *Zeb* = "forest village" prefix across seven attested place names
 
 ## Completed This Round
 
@@ -202,6 +201,18 @@
 - [x] Fix eredun vocabulary.html: remove duplicate phonology sections (already in grammar.html)
 - [x] Fix .md link references in HTML files: replaced all .md cross-references with .html equivalents across nerubian, haranir, shath-yar, zandali, tolvir vocabulary/grammar/description HTML files
 - [x] Full HTML structural integrity validation: all 30 language directories pass (balanced table/thead/tbody/tr tags, no visible .md link text)
+
+## Completed This Round (2026-06-19, Round 3)
+
+- [x] Cross-reference Kith'ix (C'Thraxxi general) with Aqir substrate in alien-comparative.html: added Kith'ix section with analysis of its role as the historical vector of Shath'Yar → Aqir language transmission; noted its founding of Azj'Aqir; added *-ix* element to Aqir substrate morpheme table; updated family tree diagram; added transmission analysis note
+- [x] Add additional proper nouns from Zandali wiki page to vocabulary.md: added 24+ personal names (Jin'rokh, Jin'do, Dazar, Zul'Marosh, Atal'alarion, Shango, Samedi, etc.), 40+ place names organized by troll sub-type (forest, jungle, Zandalari, miscellaneous), 6 cultural concepts/organizations (Rush'kah, Dahazi, Zul'Serak, Zuvembi, Amani'shi, Atal-Mhuto), 7 untranslated phrases from Classic through BfA, 7 new exclamations
+- [x] Analyze confirmed verb morphology in depth in grammar.md: added ablaut pattern analysis (5 observations on lexical conditioning, /o/ rarity, structural consistency, typological unusualness, noun-verb parallel), person suffix analysis (5 observations on pronoun incorporation, -ne anomaly, missing 1st person singular, ergative-absolutive alignment, suffix position), syntactic analysis of all confirmed sentences (5 observations on VSO/VOS tendency, prepositional na, definite article de, clause boundaries, creole vs. native word order divergence)
+- [x] Update Zandali writing system section in description.md: replaced "no writing system depicted" with detailed descriptions of Tablet of Theka, Tales of de Loa: Kimbul, general Zandali writing, Drakkari divergence, Zul's Seal of Implacable Fate; proposed logo-syllabic analysis
+- [x] Add speculative morphemes from warcraft.wiki.gg: added 18 speculative morphemes to vocabulary.md (-alor, Alarion, Antu, -fon, Jang, Rohk/Rokh, Rush, Sang, Sul, Tal, Thraze, Zeb, Zin, Zandalar, Zandalari, -shi, Zufli, Kaz'kah)
+- [x] Update attestation summary in description.md: persons 25+→50+, places 20+→60+, inferred morphemes 10+→15+, added untranslated phrases row (20+), expanded common nouns
+- [x] Update phonological features in description.md: added "guttural yet melodious" description, Stranglethorn accent note
+- [x] Sync zandali/vocabulary.html, grammar.html, description.html with updated .md files
+- [x] Update alien-comparative.html: added Kith'ix section with C'Thrax analysis, Azj'Aqir founding, Xal'atath connection, transmission vector analysis; added *-ix* element to Aqir substrate table; updated family tree with C'Thraxxi and Kith'ix reference
 
 ## Completed This Round (2026-06-19, Round 2)
 

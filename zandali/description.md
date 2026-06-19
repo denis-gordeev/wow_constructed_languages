@@ -84,12 +84,24 @@ Zandali's phonology is reconstructed primarily from proper names and the creole 
 - **Absence of complex onset clusters**: Unlike the elven language family (which permits /dr/, /nd/ clusters), Zandali shows no complex onset clusters in native words. All attested onsets are single consonants.
 - **Apostrophe as glottal stop**: The apostrophe consistently marks morpheme boundaries and likely represents a glottal stop /ʔ/ in the spoken language (*Zul'Gurub, Mueh'zala, Pa'ku, Hir'eek*).
 - **Creole phonological simplification**: The in-game creole register shows English-like phonology (full consonant cluster inventory, reduced vowel system) that does not reflect native Zandali phonotactics. Only proper names preserve native phonological patterns.
+- **Guttural yet melodious**: Described as a "guttural language" (*War Crimes*, ch. 35) that nevertheless "always has a melodious flow to it" (*Vol'jin: Shadows of the Horde*, pg. 39). This apparent contradiction may reflect the difference between the creole register (which sounds guttural to Common speakers) and native Zandali (which retains the melodic quality of its agglutinative morphology).
+- **Stranglethorn accent**: The Stranglethorn Vale accent is distinct enough that trolls can recognize it with only one word (*Vol'jin: Shadows of the Horde*, pg. 42), confirming regional dialectal variation in pronunciation.
 
 See [grammar.md](grammar.md#phonology) for full phonological analysis.
 
 ## Writing System
 
-No Zandali writing system has been depicted or described in canon. Troll ruins and temples feature glyphic and totemic carvings, but these have not been established as a phonetic writing system. The Zandalari maintain extensive oral traditions through their priests and loa-speakers. The in-game representation of Zandali uses the Latin alphabet with apostrophes, which is a rendering convention rather than a native orthography.
+Zandali possesses a native writing system depicted on several in-game artifacts:
+
+- **Tablet of Theka**: A stone tablet inscribed with Zandali glyphs, found in Zul'Farrak. The writing consists of angular, glyphic symbols arranged in horizontal lines.
+- **Tales of de Loa: Kimbul**: A cloth or parchment scroll featuring Zandali script. The writing appears more fluid than the stone-carved Tablet of Theka, suggesting different media may produce different calligraphic styles.
+- **General Zandali writing**: Depicted as a flowing script with curved and angular elements, consistent with a syllabic or logo-syllabic system.
+
+The wiki notes that the **Drakkari use a slightly different writing system**, and "the way that their symbology diverged from the original Zandali is visible on their tablets" (quest: *Relics of the Snow Leopard Goddess*). This suggests that the Zandali writing system has dialectal variants across troll tribes, with the Drakkari variant having diverged visually from the original Zandalar form over millennia of geographic separation.
+
+**Zul's Seal of Implacable Fate** is described as "carefully etched series of Zandali symbols on a wooden placard," confirming that the script is used for official and ritual purposes.
+
+The in-game representation of Zandali uses the Latin alphabet with apostrophes, which is a rendering convention rather than the native orthography. The actual Zandali script appears to be a logo-syllabic system with both logographic and syllabic components, similar to real-world Mesoamerican writing systems (consistent with the Mesoamerican aesthetic inspiration for troll civilization).
 
 ## Relationship to Other Languages
 
@@ -135,15 +147,16 @@ Patch 12.1.0 "Curse of Ula'tek" adds the Coiled Isle zone east of Zul'Aman, cont
 | Category | Count | Examples |
 |----------|-------|----------|
 | Attested proper names (Loa) | 25+ | Bwonsamdi, Mueh'zala, Hir'eek, Pa'ku, Krag'wa, Gonk, Rezan, Jani, Shadra, Sethraliss, Nalorakk, Akil'zon, Halazzi, Jan'alai, Filo, Kulzi, Baban, **Ula'tek, Pahk, Akil'darah, Q'onzu, Mot'amra, Wila'ma, Dundun, Puul** |
-| Attested proper names (Persons) | 25+ | Rastakhan, Talanji, Vol'jin, Sen'jin, Zul, Zul'jarra, Zul'jan, Mor'duun, Zarama, Kol'anji, Man'ye, Kinduru, Pel'na Torntusk, Nanea, Brek, **Kul'amara, Vun'zarah, Vanatha, Ral'ji, Rul'ari, Kaziil, Amala, Rakan** |
-| Attested place names | 20+ | Zul'Gurub, Zul'Aman, Zul'Drak, Zul'Farrak, Zuldazar, Dazar'alor, Atal'Dazar, Nazmir, Vol'dun, Atal'Aman, Amani'Zar, Atal'Abasi, Hexx'alor, Zeb'Alar, Wit'Kalar, **Atal'Utek, Zail'Zar Span, Watha'nan** |
+| Attested proper names (Persons) | 50+ | Rastakhan, Talanji, Vol'jin, Sen'jin, Zul, Zul'jarra, Zul'jan, Mor'duun, Zarama, Kol'anji, Man'ye, Kinduru, Pel'na Torntusk, Nanea, Brek, **Kul'amara, Vun'zarah, Vanatha, Ral'ji, Rul'ari, Kaziil, Amala, Rakan**, **Jin'rokh, Jin'do, Dazar, Zul'Marosh, Atal'alarion, Shango, Samedi, Ohgan** |
+| Attested place names | 60+ | Zul'Gurub, Zul'Aman, Zul'Drak, Zul'Farrak, Zuldazar, Dazar'alor, Atal'Dazar, Nazmir, Vol'dun, Atal'Aman, Amani'Zar, Atal'Abasi, Hexx'alor, Zeb'Alar, Wit'Kalar, **Atal'Utek, Zail'Zar Span, Watha'nan**, **Agol'watha, Jintha'Alor, Shadra'Alor, Zeb'Watha, Zul'Mashar, Balia'mah, Zul'Kunda, Gundrak** |
 | Attested tribal names | 6 | Zandalari, Gurubashi, Amani, Drakkari, Farraki, Atal'ai |
 | Confirmed morphemes | 7 | *Zul'* (great/voodoo master), *Jin* (leader), *Atal* (devoted, 4 attestations), *-'ai* (collective), *Akil'* (eagle, 2 attestations), *-den/-ne/-nekan* (person suffixes), *-aka* (daughter of) |
-| Inferred morphemes | 10+ | *-ari/-ashi/-aki* (tribal suffixes), *-ey* (agentive), *-ura* (collective?), *Hash'* (unite, 2 attestations), *dazar* (throne), *-Zar* (capital?, 2 attestations), *naz* (blood), *mir* (land), *vol* (desert), *-alor* (hall/palace), *-watha* (village) |
-| Attested common nouns (native) | 30+ | *gokinye* (invader), *hash'ura* (companions), *Alai* (fire), *E'ko* (life energy), *Fetna* (festival), *Loa* (spirits), *Muisek* (avenging spirit), *Nazdo* (season), *Roa* (heart), *Zen* (druid) |
+| Inferred morphemes | 15+ | *-ari/-ashi/-aki* (tribal suffixes), *-ey* (agentive), *-ura* (collective?), *Hash'* (unite, 2 attestations), *dazar* (throne), *-Zar* (capital?, 2 attestations), *naz* (blood), *mir* (land), *vol* (desert), *-alor* (temple/altar, 6 attestations), *-watha* (village), *Thraze* (blade, 3 attestations), *Zeb* (forest village, 7 attestations), *Rohk/Rokh* (world/end), *-shi* (elite suffix?), *Tal* (enclave), *Sul* (Farraki name element, 4 attestations) |
+| Attested common nouns (native) | 30+ | *gokinye* (invader), *hash'ura* (companions), *Alai* (fire), *E'ko* (life energy), *Fetna* (festival), *Loa* (spirits), *Muisek* (avenging spirit), *Nazdo* (season), *Roa* (heart), *Zen* (druid), *Rush'kah* (ceremonial mask), *Zuvembi* (manipulation brew), *Dahazi* (unknown, tomb) |
 | Attested verbs (native) | 7 | *File/Fele* (love), *Kele/Kile* (rise), *Peran/Poran* (die), *Weta* (cleanse), *Gogeh* (know), *Onze* (hear), *Vize* (see), *Waikempo* (stop) |
 | Attested sentences (native) | 3 | *Tokobo'ne na Amani'Zar* (Welcome to Amani'Zar), *Doba quzhu ta tawbo! Metah bo chu!* (We bring a gift for you, great loa of death!), *Untoh de alanke tono* (Keep the fire burning) |
 | Attested sentences (creole) | 4 | *Mon be strong*, *Ya be dead*, *Dey be*, *Ya mon* |
+| Attested untranslated phrases | 20+ | *An'daka taz no shada*, *Da'kala koraste*, *Di chuka Rezan*, *Sendulo ma'das na khu'das*, *Ma'ako ka shadra*, *Chaga choka'jinn*, etc. |
 | Official IPA transcriptions | 1 | **Ula'tek** /ˈuːlə.ˌtɛk/ — the first WoW constructed language word with confirmed IPA |
 
 ## Notes on Reliability

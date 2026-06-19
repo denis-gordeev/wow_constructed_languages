@@ -26,6 +26,66 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Zul'Farrak | City of the Farraki / Sands | City of the Sandfury trolls |
 | Atal'Aman | Devoted of the Amani / Chosen of Aman | Midnight dungeon/delve in Zul'Aman; *Atal* = "devoted/chosen" + *Aman* = Amani root. The site of the original Zul'Aman raid, fully rebuilt and modernized in Midnight. Second attestation of *Atal-* in a place name (after *Atal'Dazar*, *Atal'ai*), strengthening the case for *Atal* = "devoted/chosen" as a genuine Zandali morpheme |
 
+### Forest Troll Place Names
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Agol'watha | Vilebranch ruin | Hinterlands. *Agol'* + *-watha* (village suffix) |
+| Hiri'watha | Witherbark ruin | Hinterlands. *Hiri'* + *-watha* (village suffix) |
+| Shaol'watha | Vilebranch ruin | Hinterlands. *Shaol'* + *-watha* (village suffix) |
+| Zun'watha | Witherbark ruin | Hinterlands. *Zun'* + *-watha* (village suffix) |
+| Zeb'Watha | Village | Eversong Woods. *Zeb'* (forest/village prefix) + *Watha* |
+| Zeb'Nowa | Shadowpine village | Ghostlands. *Zeb'* + *Nowa* |
+| Zeb'Sora | Shadowpine village | Ghostlands. *Zeb'* + *Sora* |
+| Zeb'Tela | Shadowpine village | Ghostlands. *Zeb'* + *Tela* |
+| Tor'Watha | Village | Eversong Woods. *Tor'* + *-watha* (village suffix) |
+| Jintha'Alor | Forest troll city | Hinterlands. *Jintha'* + *Alor* (temple/altar suffix?) |
+| Shadra'Alor | Witherbark temple to Shadra | Hinterlands. *Shadra* (spider loa) + *Alor* |
+| Mazra'Alor | Mossflayer pyramid | Eastern Plaguelands. *Mazra'* + *Alor* |
+| Tazz'Alor | Smolderthorn chambers | Lower Blackrock Spire. *Tazz'* + *Alor* |
+| Zul'Mashar | Mossflayer village | Eastern Plaguelands. *Zul'* + *Mashar* |
+| Zul'Marosh | — | Amani chieftain's location in Eversong Woods |
+
+### Jungle Troll Place Names
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Balia'mah | Skullsplitter ruin | Northern Stranglethorn. *Balia'* + *-mah* |
+| Bal'lal | Bloodscalp ruin | Northern Stranglethorn. *Bal'* + *-lal* |
+| Kal'ai | Ruin | Northern Stranglethorn. *Kal'* + *-'ai* (collective suffix?) |
+| Ziata'jai | Skullsplitter ruin | Northern Stranglethorn. *Ziata'* + *-jai* |
+| Zul'Kunda | Bloodscalp settlement | Northern Stranglethorn. *Zul'* + *-Kunda* |
+| Zul'Mamwe | Skullsplitter settlement | Northern Stranglethorn. *Zul'* + *-Mamwe* |
+| Zuuldaia | Bloodscalp ruin | Northern Stranglethorn. *Zuul* + *-daia* |
+| Nek'mani | Pool | Cape of Stranglethorn. *Nek'* + *-mani* |
+| Nazferiti | Lake | Northern Stranglethorn. *Naz* + *-feriti*; *Naz-* may relate to *Nazmir*/*Nazjatar* |
+| Mizjah | Ruin | Northern Stranglethorn |
+| Aboraz | Ruin | Cape of Stranglethorn |
+| Jubuwal | Ruin | Cape of Stranglethorn |
+| Tkashi | Bloodscalp ruin | Northern Stranglethorn |
+| Malaka'jin | Darkspear village | Stonetalon Mountains. *Malaka'* + *-jin* (chief suffix) |
+| Zabra'jin | Darkspear village | Zangarmarsh. *Zabra'* + *-jin* (chief suffix) |
+
+### Zandalari Place Names
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Dol'watha | Ruined village | Zuldazar. *Dol'* + *-watha* (village suffix) |
+| Zeb'ahari | Fishing village | Zuldazar. *Zeb'* + *-ahari* |
+| Zeb'tula | Zandalari outpost | Isle of Thunder. *Zeb'* + *-tula* |
+| Shaol'mara | Zandalari outpost | Isle of Thunder. *Shaol'* + *-mara* |
+| Za'Tual | Zandalari outpost | Isle of Thunder. *Za'* + *-Tual* |
+| Mugamba | Mountain | Zuldazar |
+| Mugambala | Arena | Zuldazar. At the foot of Mount Mugamba. Reduplicative: *Mugam* + *-bala* |
+
+### Miscellaneous Place Names
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Gundrak | Ice troll capital | Zul'Drak. No *Zul'* prefix; possibly *Gun* + *-drak* (cf. Drakkari) |
+| Yojamba | Island | Northern Stranglethorn. Formerly a Zandalari hub |
+| Zul'Dare | Island south of Lordaeron | Despite the Zandali-sounding name, not known to have any association with trolls |
+
 ## Nouns — Proper Names (Loa)
 
 | Word | Meaning | Notes |
@@ -53,6 +113,30 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Talangi | Related to Zandalari royalty | Proper name; possibly variant of Talanji |
 | Sen'jin | — | Proper name; father of Vol'jin |
 | Vol'jin | — | Proper name; leader of the Darkspear |
+| Dazar | First king of Zandalar | Zuldazar, Atal'Dazar, Dazar'alor, and Dazar'ai are named after him |
+| Jin'do | Former leader of the Gurubashi | Proper name; *Jin* + *'do*; hexxer |
+| Jin'rokh | Zandalari dire troll | Proper name; Throne of Thunder. *Jin* + *'rokh*; wiki speculates *rohk* = "end of worlds/apocalypse" (from the sword Jin'rohk, The Great Apocalypse) |
+| Jin'sora | Darkspear bow merchant | Proper name; Orgrimmar |
+| Jin'Zallah | Sandfury rare mob | Proper name; Tanaris. Title: <the Sandbringer> |
+| Jin'Zil | Darkspear witch doctor | Proper name; Malaka'jin |
+| Kai'jin | Darkspear war recruiter | Proper name; Orgrimmar. Title: Senior Sergeant |
+| Mai'jin | Witherbark witch doctor | Proper name; Hinterlands |
+| Orik'ando | Darkspear | Proper name; Camp Mojache |
+| Tai'jin | Darkspear priest trainer | Proper name; Razor Hill |
+| Thresh'jin | Mossflayer warlord | Proper name; Zul'Mashar |
+| Ty'jin | Darkspear shadow hunter | Proper name; Thrallmar |
+| Vosh'gajin | Forest troll shadow hunter | Proper name; Blackrock Spire |
+| Yayo'jin | Revantusk reagent vendor | Proper name; Hinterlands |
+| Zanza | Zandalari loa | Proper name; Zanza the Restless |
+| Zul'arek | Witherbark rare mob | Proper name; Hinterlands. Title: <Hatefowler> |
+| Zul'brin | Mossflayer rare mob | Proper name; Eastern Plaguelands. Title: <Warpbranch> |
+| Zul'Lor | Atal'ai ghost | Proper name; Temple of Atal'Hakkar |
+| Zul'Marosh | Amani chieftain | Proper name; Eversong Woods |
+| Atal'alarion | Atal'ai dire jungle troll | Proper name; Temple of Atal'Hakkar. Wiki speculates: *Atal'* ("devoted") + *alarion* ("guardian") = "Guardian of the Devoted" |
+| Ohgan | Raptor mount of Bloodlord Mandokir | Proper name; Ohgan'aka = "daughter of Ohgan" |
+| Samedi | Darkspear grave loa | Proper name |
+| Shango | Storm loa | Proper name |
+| Farastu | Unbound water elemental | Proper name; Shimmer Ridge. Title: <The Living Ice>. Name may directly translate to title |
 
 ## Titles and Affixes
 
@@ -62,6 +146,12 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Jin | Leader / Chief | Title suffix (Zul'jin, Sen'jin, Vol'jin) |
 | Atal | Devoted / Chosen | From Atal'ai |
 | Zul'jin | Great Chief | Title + name combination |
+| Rush'kah | Ceremonial mask | Used by followers of the loa to invoke their power. Wiki speculates: *rush* = "ceremony" + *kah* = "mask" |
+| Dahazi | Unknown | Referenced by the Sepulcher of the Dahazi in Kings' Rest |
+| Zul'Serak | Unknown | Referenced by the item Keris of Zul'Serak |
+| Zuvembi | Name for Zuvembi Brew | A low magic brew that can turn anyone who breathes its fumes into being easily manipulated |
+| Amani'shi | Elite Amani force | May be an elite force of the Amani tribe in Zul'Aman. *Amani* + *-'shi* (role suffix?) |
+| Atal-Mhuto | Elite Darkspear organization | Compound: *Atal* ("devoted") + *-Mhuto*. Darkspear parallel to the Atal'ai |
 
 ## Pronouns
 
@@ -177,6 +267,12 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Oraka'zul | Unknown exclamation | Said by Kul'amara the Fierce at the start of Maisara Caverns instance |
 | Ma'tuba | Unknown exclamation | Attested in *Bloodsworn* |
 | Zagota | An insult | Attested in *Shadows Rising* |
+| Taz'okun | Unknown | Spoken by several Zandalari trolls throughout Zandalar |
+| Ikambokem | Unknown | Said by witch doctors in *Warcraft III* |
+| Tazaga-choo! | Unknown | Said by Akil'zon upon death in Zul'Aman |
+| Gachaga | Unknown | Combat vocalization of blood troll mobs |
+| Guzincha | Unknown | Combat vocalization of blood troll mobs |
+| Pohkiza | Unknown | Said by blood troll mobs upon dying |
 
 ## Untranslated Zandali Phrases (Midnight)
 
@@ -188,6 +284,18 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Di chuka Zandalar! | Various Zandalari NPCs | Battle cry |
 | Azzaga choogo zinn! | Hex Lord Malacrass, Master Gadrin | Upon killing a player / empowering adventurer |
 | Kin-de kin-de | Zul'jarra | Greeting (spelling uncertain) |
+
+## Untranslated Zandali Phrases (Classic through BfA)
+
+| Phrase | Speaker | Context |
+|--------|---------|---------|
+| An'daka taz no shada. Ke zulo numra kan! Ne'hideh. Ne'hideh! | Vordaza | Upon casting her "Unmake" ability |
+| Chaga... choka'jinn. | Halazzi, Shadra Betrayers | Combat dialogue |
+| Da'kala koraste... | War-God Jalak | Throne of Thunder |
+| Da'kala di'chuka Horridon! Kalimaste! | War-God Jalak | Throne of Thunder |
+| Di chuka Rezan! | Rastakhan | Before rushing to save Rezan from Vilnak'dor |
+| Ma'ako! Ma'ako ka shadra! | Vordaza | Upon casting her "Unmake" ability |
+| Sendulo ma'das na khu'das, kuba zinn awe. | Rokhan | Empowering the adventurer during "In Every Dark Corner" |
 
 ## Phrases (Creole Register)
 
@@ -406,7 +514,7 @@ Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Z
 | Zul- prefix as detachable | Confirmed by character dialogue | Zul'jan and Zul'jarra call each other "Jan" and "Jarra" in intimate conversation, dropping the "Zul-" prefix. Confirms *Zul-* is a detachable title prefix, not part of the core name. Kinduru calls Zul'jan "Jan-boy" |
 | Keen-Eyed Keener | Epithet for Akil'zon | Used by Kinduru: "The Keen-Eyed Keener watch over ya" |
 | Gnarldin | Enemies of the Amani | Species/group name. Ambushed and maimed Zarama. Also attacked Zul'jarra on Akil'zon's Reach. Subzone: Gnarldor Isle |
-| Kith'ix | Faceless general defeated by Amani | Shath'Yar origin (not Zandali). Atal'Utek was built to commemorate the Amani victory over Kith'ix. Cross-references the *Azj-* / *Ahn-* Aqir substrate pattern in [alien-comparative.html](../alien-comparative.html) |
+| Kith'ix | C'Thraxxi general defeated by Amani | Shath'Yar/N'raqi origin (not Zandali). A C'Thrax (type of N'raqi / faceless one) who served the Old Gods during the Black Empire. After the Black Empire fell, Kith'ix was buried at the base of the Zandalar Mountains; reawakened by Xal'atath, it rallied the Aqir into founding the empire of Azj'Aqir and waged the Aqir and Troll War. Killed by the Amani tribe; Zul'Aman was built atop its resting place. Atal'Utek was built to commemorate the Amani victory over Kith'ix. The name *Kith'ix* uses a medial apostrophe (*Kith'* + *-ix*), paralleling the Aqir substrate pattern in [alien-comparative.html](../alien-comparative.html). The *-ix* ending may relate to nerubian *Ix'zek* and the broader Shath'Yar/Aqir naming conventions |
 | Tokobo'ne | "Welcome" (in phrase *Tokobo'ne na Amani'Zar*) | First confirmed Zandali greeting with translation. *Tokobo'* + *-ne* (verb suffix for "you") + *na* ("in") + *Amani'Zar* |
 
 #### Updated Morpheme Analysis (Patch 12.1.0)
@@ -423,3 +531,28 @@ Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Z
 | -Zar | Possibly variant of *-dazar* ("throne/capital") | Amani'Zar, **Zail'Zar** (second attestation) | **Low–Moderate** — now two attestations with *-Zar* element |
 | Basengo | "Slashed tree" (not "Witherbark") | Moldy Diary | **High** — official translation; commonly mistranslated |
 | Shan'aten | "Ashen pine" (not "Shadowpine") | Moldy Diary | **High** — official translation; commonly mistranslated |
+
+## Speculative Morphemes (from warcraft.wiki.gg)
+
+These morpheme decompositions are proposed by the wiki community. None are officially confirmed by Blizzard.
+
+| Element | Proposed Meaning | Attested In | Confidence |
+|---------|-----------------|-------------|------------|
+| -alor | "Temple" or "Altar" | Dazar'alor, Hexx'alor, Jintha'Alor, Shadra'Alor, Mazra'Alor, Tazz'Alor | Low–Moderate — six attestations with consistent semantics; wiki proposes "temple/altar" rather than "palace/hall" |
+| Alarion | "Guardian" | Atal'alarion (boss in Temple of Atal'Hakkar) | Very Low — single attestation |
+| Antu | "Overseer" | Antu'sul (title: <Overseer of Sul>) | Very Low — single attestation |
+| -fon | "Loner" (RPG, non-canon) | Added as suffix for trolls who absented themselves from society | Very Low — RPG only |
+| Jang | "Protect" | Jang'thraze the Protector (sword from Zul'Gurub) | Very Low — single attestation; weapon name |
+| Rohk / Rokh | "World(s)" or "End/To end" | Jin'rohk (The Great Apocalypse), Zin'rokh (Destroyer of Worlds) | Very Low — two attestations from weapon names with different spellings; possibly related |
+| Rush | "Ceremony" / "Ceremonial" | rush'kah (ceremonial mask) | Very Low — single attestation |
+| Sang | "Deflect" | Sang'thraze the Deflector (sword from Zul'Gurub) | Very Low — single attestation; weapon name |
+| Sul | Namesake of Farraki lore | Sul the Sandcrawler, Sul'thraze the Lasher, Sul'lithuz basilisks ("children of Sul"), Antu'sul ("Overseer of Sul") | Low — four related attestations in Zul'Farrak context |
+| Tal | Possibly "enclave" | Tal'farrak, Tal'aman, Tal'gurub | Very Low — three attestations |
+| Thraze | "Blade" | Jang'thraze, Sang'thraze, Sul'thraze (three Zul'Gurub sword names) | Low — three attestations with consistent semantics from weapon names |
+| Zeb | Possibly "forest" or "forest village" | Zeb'Watha, Zeb'Tela, Zeb'Sora, Zeb'Halak, Zeb'tula, Zeb'ahari, Zeb'Alar | Low–Moderate — seven attestations, mostly forest-adjacent locations |
+| Zin | Possibly "destroyer" | Zin'rokh, Destroyer of Worlds (archaeology sword) | Very Low — single attestation; weapon name |
+| Zandalar | May mean "holy" | The Zandalari named a mountain range "Zandalar Mountains" because it was holy (brimming with loa) | Very Low — speculative etymology |
+| Zandalari | May be superlative of "Zandalar" meaning "holiest" | Making Zandalari trolls the "holiest trolls" due to their deep reverence for the loa | Very Low — speculative etymology |
+| -shi | Possibly role/elite suffix | Amani'shi (elite Amani force) | Very Low — single attestation |
+| Zufli | "Baby Witch" (RPG, non-canon) | Derogatory for female witch doctors; corruption of *Zul'* prefix | Very Low — RPG only; some females have taken it as a mark of pride |
+| Kaz'kah | "Death Totem" (RPG, non-canon) | — | Very Low — RPG only |
