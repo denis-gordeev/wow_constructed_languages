@@ -74,12 +74,11 @@
 ## Next Actions
 
 - [ ] Check patch 12.1.0 PTR data for additional Zandali character dialogue when available
-- [ ] Investigate ergative-absolutive alignment hypothesis — requires additional verb-argument data; the Weta/Watha ablaut pair may reflect object agreement rather than subject number
-- [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix
-- [ ] Investigate *ney* ↔ *-ne* relationship — *ney* = "your" (possessive) and *-ne* = "you" (verb suffix) may share an archaic 2nd person root */ne-/
-- [ ] Analyze *Weta/Watha* agreement pattern — does ablaut mark subject number, object number, or both? Requires more verb pairs with varied subject/object combinations
-- [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms?
-- [ ] Research *Noa* dual usage — appears as both a noun ("change") and a verb (*De nazdo noa* = "The seasons change"); investigate noun-verb conversion in Zandali
+- [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
+- [ ] Investigate *ney* ↔ *-ne* relationship — *ney* = "your" (possessive) and *-ne* = "you" (verb suffix) may share an archaic 2nd person root */ne-/ — **DONE**: Analysis added to grammar.md Investigation 3; archaic root */ne-/ hypothesis supported (Moderate confidence); *ney* = */ne/ + */i/*, *-ne* = cliticized form
+- [ ] Analyze *Weta/Watha* agreement pattern — does ablaut mark subject number, object number, or both? Requires more verb pairs with varied subject/object combinations — **DONE**: Analysis added to grammar.md Investigation 1; preferred analysis is lexically split agreement (Class A verbs mark subject number, Class B verbs like Weta/Watha mark object number); Low–Moderate confidence
+- [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
+- [ ] Research *Noa* dual usage — appears as both a noun ("change") and a verb (*De nazdo noa* = "The seasons change"); investigate noun-verb conversion in Zandali — **DONE**: Analysis added to grammar.md Investigation 5; zero-derivation (conversion) proposed with Moderate–High confidence; syntactic evidence from *De nazdo noa* supports verb parse; additional noun-verb conversion examples (*ban*, *raza*) identified
 
 ## Completed This Round
 
@@ -263,3 +262,19 @@
 - [x] Fix vulpera/vocabulary.html heading mismatch: "Consonant Inventory" → "Consonant Distribution" matching MD
 - [x] Fix haranir/grammar.html bold formatting: wrapped "EFFECTIVELY DISPROVEN as Feminine" in `<strong>` tags inside h3 heading (was plain text)
 - [x] Fix haranir/grammar.html missing content: added item "Xhosa phonological parallels: Hara'ni vs. Zandali" to Notable Phonological Features list (was present in MD but entirely absent from HTML)
+
+## Completed This Round (2026-06-23)
+
+- [x] Add "Open Linguistic Investigations" section to Zandali grammar.md: 5 deep analyses of previously flagged TODO items with evidence tables, multiple hypotheses, and confidence ratings
+- [x] Investigation 1: Ergative-absolutive vs. object agreement — analyzed all 4 ablaut pairs with subject/object number evidence; proposed lexically split agreement (Class A = subject agreement, Class B = object agreement for Weta/Watha); Low–Moderate confidence
+- [x] Investigation 2: *-aru* participial suffix vs. *-ura* collective suffix — proposed vowel metathesis relationship; both nominalize verb roots with different scope (participial vs. collective); Low–Moderate confidence
+- [x] Investigation 3: *ney* ↔ *-ne* archaic 2nd person root */ne-/ — 4 arguments for shared root (phonological correspondence, functional correspondence, historical replacement scenario, parallel with *-den*); Moderate confidence
+- [x] Investigation 4: *alanke* vs *alai* — confirmed shared root *ala-* = "fire/burning"; 4 possible analyses for *-nke* suffix (case marking, adjectival, register, unknown derivational); Low–Moderate confidence for adjectival derivation
+- [x] Investigation 5: *Noa* zero-derivation — proposed noun-verb conversion without morphological marking; syntactic evidence from *De nazdo noa* supports verb parse; identified *ban* and *raza* as additional potential zero-derivation examples; Moderate–High confidence
+- [x] Update Weta/Watha confidence text in grammar.md: changed from "requires more data" to explicit object agreement / lexically split agreement with cross-reference to Investigation 1
+- [x] Update possessive pronouns text in grammar.md: strengthened *ney* ↔ *-ne* analysis with cross-reference to Investigation 3
+- [x] Update participle/gerundive text in grammar.md: added vowel metathesis hypothesis and cross-reference to Investigation 2
+- [x] Update Gaps and Uncertainties in grammar.md: verb suffixes now reference lexically split agreement; possessive pronouns now reference archaic root */ne-/
+- [x] Sync zandali/grammar.html with updated grammar.md: added Open Linguistic Investigations section (5 subsections with tables, lists, and confidence notes); updated nav with new link; updated Weta/Watha, possessive pronouns, participle/gerundive, and Gaps sections
+- [x] Update zandali/vocabulary.md: added cross-references to grammar.md investigations for *Alanke*, *Wa'aru*, *Ney*, *Noa*
+- [x] Sync zandali/vocabulary.html: updated *Alanke*, *Wa'aru*, *Ney*, *Noa* entries with cross-references to grammar.html investigations

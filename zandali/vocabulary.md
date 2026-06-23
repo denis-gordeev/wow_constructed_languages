@@ -183,7 +183,7 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Word | Meaning | Source | Notes |
 |------|---------|--------|-------|
 | Alai | Fire, flame | Moldy Diary | Also appears in compound *Alai-nazdo* ("fire-season"). Used for both singular "flame" and plural "flames" (*De alai* = "The flames" in chant) — no morphological plural marking |
-| Alanke | Fire (in ritual context?) | Moldy Diary | In *Untoh de alanke tono* = "Keep the fire burning"; may be a different form of *Alai* or a distinct noun |
+| Alanke | Fire (in ritual context?) | Moldy Diary | In *Untoh de alanke tono* = "Keep the fire burning"; may share root *ala-* with *Alai* — see grammar.md Investigation 4 for analysis of *alanke* vs. *alai* |
 | Dazdooga | Fire | *Blood of the Highborne* | Synonym or dialectal variant of *Alai* |
 | E'ko | Life energy within all living things | Witch Doctor Mau'ari quests | Also described as "da power dat each creature possesses" |
 | Fetna | Festival | Moldy Diary | Head noun in *Fetna Alai-nazdo* = "Festival of the Fire Season" |
@@ -232,7 +232,7 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 
 | Word | Meaning | Source | Example |
 |------|---------|--------|---------|
-| Wa'aru | Fearing | Hastily-Scribbled Note | *wa'aru po* = "fearing the dark" |
+| Wa'aru | Fearing | Hastily-Scribbled Note | *wa'aru po* = "fearing the dark". Possible decomposition: *wa'* + *-aru* (gerundive suffix); *-aru* may be related to *-ura* collective suffix by vowel metathesis — see grammar.md Investigation 2 |
 | Maze | Fighting / resisting | Hastily-Scribbled Note | *maze selo* = "fighting sleep" |
 
 ## Other Grammatical Words (Confirmed from Zandali Primer)
@@ -251,9 +251,9 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Midi | We (sentence-medial) | Moldy Diary | — |
 | Na | In; to; of (genitive) | Moldy Diary | Multi-functional preposition: locative ("in"), allative ("to"), and genitive ("of"). Genitive usage: *Na roa na Jan'alai* = "In [heart] **of** [Jan'alai]" |
 | Nekan | Us | Moldy Diary | Also used as verb suffix *-nekan* = "us" |
-| Ney | Your (possessive) | Hastily-Scribbled Note | In *ney lakamo* = "your crying". May share archaic root with verb suffix *-ne* (2nd person) |
+| Ney | Your (possessive) | Hastily-Scribbled Note | In *ney lakamo* = "your crying". Likely shares archaic root */ne-/ with verb suffix *-ne* (2nd person) — see grammar.md Investigation 3 |
 | Ni | And | Moldy Diary | — |
-| Noa | Change | Moldy Diary | Also used as a verb (*De nazdo noa* = "The seasons change") |
+| Noa | Change | Moldy Diary | Also used as a verb (*De nazdo noa* = "The seasons change"); likely zero-derivation (same form as noun and verb) — see grammar.md Investigation 5 |
 | Oraka | Greeting/exclamation | Midnight character quotes | Used by Zul'jan, Zul'jarra, Kinduru. Context: "Oraka, gokinye" (initial greeting to outsider), "Oraka, my friend" (friendly greeting), "Oraka, beloved of Akil'zon!" (warm address). Likely = "friend/comrade" or a general positive greeting. **Confidence: Low–Moderate** — attested in multiple character voices but no official translation |
 | Raza | Is near | Hastily-Scribbled Note, Scrap of Singed Paper | — |
 | Sho | All | Hastily-Scribbled Note, Scrap of Singed Paper, Moldy Diary | Pre-nominal quantifier. *Ko sho fele* = "We all love"; *na sho nekan* = "in all our hearts" |

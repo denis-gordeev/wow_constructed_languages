@@ -515,7 +515,7 @@ The Moldy Diary chant reveals a fourth ablaut pair: *Weta* (cleanse, singular) /
 | Pattern C | /e/ → /o/ | Singular → Plural | Peran → Poran |
 | **Pattern D** | **/e/ → /a/** | **Singular → Plural** | **Weta → Watha** |
 
-**Confidence: Moderate** for *Weta/Watha* as a genuine ablaut pair. The pair appears in a parallel syntactic context within the chant (*De alai weta-den* / *De alai watha-nekan*), where the only difference is the number of the suffixed object ("him" vs. "us"). However, it is possible that the ablaut reflects **object agreement** rather than subject number — *Weta* with singular object (*-den* "him"), *Watha* with plural object (*-nekan* "us"). If so, Zandali verbs may exhibit a **split agreement system** where ablaut marks subject number (as in *Peran/Poran*, *Kele/Kile*) and/or object number (as in *Weta/Watha*). Distinguishing these two analyses requires more data.
+**Confidence: Moderate** for *Weta/Watha* as a genuine ablaut pair. The pair appears in a parallel syntactic context within the chant (*De alai weta-den* / *De alai watha-nekan*), where the only difference is the number of the suffixed object ("him" vs. "us"). The ablaut most likely reflects **object agreement** rather than subject number — *Weta* with singular object (*-den* "him"), *Watha* with plural object (*-nekan* "us"). This contrasts with other ablaut pairs (*File/Fele*, *Kele/Kile*, *Peran/Poran*) which mark subject number, suggesting a **lexically split agreement system**. See Investigation 1 for full analysis.
 
 Pattern D is significant because it introduces /a/ as an ablaut vowel, meaning all five Zandali vowels (/a e i o u/) are now attested in ablaut patterns, though /u/ has no confirmed ablaut pair.
 
@@ -552,7 +552,7 @@ The Filo lullaby confirms two possessive pronouns:
 | *mo* | 1st singular ("my") | *Mon* (I/me) | *mo keke* = "my child" |
 | *ney* | 2nd singular ("your") | *Ya* (you) | *ney lakamo* = "your crying" |
 
-Both possessive pronouns precede the possessed noun (**pre-nominal possessive**). *Mo* appears to be a reduced form of *Mon* (I/me), and *ney* may be related to the verb suffix *-ne* (2nd person). The relationship *ney* ↔ *-ne* is potentially significant: if *ney* = "your" and *-ne* = "you" (verb suffix), they may share an archaic 2nd person root */ne-/, with *ney* being the independent possessive form and *-ne* the clitic/affixal form. This would strengthen the hypothesis that *-ne* reflects an archaic pronoun rather than being unrelated to *Ya*.
+Both possessive pronouns precede the possessed noun (**pre-nominal possessive**). *Mo* appears to be a reduced form of *Mon* (I/me), and *ney* likely shares an archaic 2nd person root */ne-/ with the verb suffix *-ne* (you). The relationship *ney* ↔ *-ne* is analyzed in detail in Investigation 3: *ney* = */ne/ + */i/ (possessive form) and *-ne* = cliticized archaic pronoun, both preserving an older */ne-/ root that was replaced by *Ya* in the independent paradigm.
 
 #### Modal Verbs
 
@@ -602,7 +602,7 @@ The Filo lullaby reveals three forms that appear to be participles or gerundives
 | *maze* | "fighting/resisting" | From a verb root meaning "fight/resist"; *maze* + *selo* (sleep) = "fighting sleep" |
 | *lakamo* | "crying" | Noun/gerund meaning "crying" or "tears" |
 
-Both *wa'aru* and *maze* take direct objects (*po*, *selo*), confirming that Zandali gerundives retain verbal government. The apostrophe in *wa'aru* suggests a morpheme boundary: *wa'* + *-aru* (?), where *-aru* may be a participial/gerundive suffix. If *-aru* = gerundive suffix, it would be structurally parallel to the *-ura* collective suffix in *hash'ura* — the forms *-aru* and *-ura* may be allomorphs or related suffixes.
+Both *wa'aru* and *maze* take direct objects (*po*, *selo*), confirming that Zandali gerundives retain verbal government. The apostrophe in *wa'aru* suggests a morpheme boundary: *wa'* + *-aru* (?), where *-aru* may be a participial/gerundive suffix. If *-aru* = gerundive suffix, it would be structurally parallel to the *-ura* collective suffix in *hash'ura* — the forms *-aru* and *-ura* may be allomorphs related by vowel metathesis, or distinct but related nominalizing suffixes. See Investigation 2 for full analysis.
 
 **Confidence: Low** for *-aru* as a genuine participial suffix (single attestation; *wa'aru* could also be monomorphemic).
 
@@ -687,6 +687,163 @@ The *-alor* names follow a consistent pattern: **[Deity/Entity name] + *-alor***
 
 **Confidence: Moderate–High** for *-alor* = "temple" (seven attestations, one in-world confirmed translation, consistent semantic pattern).
 
+## Open Linguistic Investigations
+
+### Investigation 1: Ergative-Absolutive vs. Object Agreement in Verbal Ablaut
+
+The relationship between verbal ablaut and argument structure is the most significant open question in Zandali grammar. The evidence permits two competing analyses:
+
+#### Evidence Summary
+
+| Verb Pair | Clause Type | Subject Number | Object Number | Verb Form | Consistent With |
+|-----------|------------|----------------|---------------|-----------|-----------------|
+| Peran/Poran | Intransitive | SG / PL | — | Peran(SG) / Poran(PL) | Both analyses agree |
+| Kele/Kile | Intransitive | SG / PL | — | Kele(SG) / Kile(PL) | Both analyses agree |
+| File/Fele | Transitive | SG / PL | SG / SG | File(SG) / Fele(PL) | Subject agreement; contradicts ergative |
+| Weta/Watha | Transitive | PL / PL | SG / PL | Weta(SG) / Watha(PL) | Ergative/object agreement; contradicts subject agreement |
+
+#### Analysis 1: Subject Agreement (Nominative-Accusative)
+
+Under this analysis, ablaut always marks subject number. For three of four verb pairs, this works. The exception is *Weta/Watha*, where both *De alai weta-den* and *De alai watha-nekan* have the same subject (*De alai* = "the flames"), yet the verb form changes. To maintain subject agreement, one must argue that *alai* is somehow singular in line 3 and plural in line 4 despite the identical syntax — an ad hoc explanation.
+
+#### Analysis 2: Ergative-Absolutive Alignment
+
+Under this analysis, ablaut marks the **absolutive argument**: the sole argument of an intransitive verb (subject) or the patient of a transitive verb (object). This correctly predicts:
+- Intransitive: *Peran* agrees with SG subject, *Poran* with PL subject ✓
+- Intransitive: *Kele* agrees with SG subject, *Kile* with PL subject ✓
+- Transitive: *Weta* agrees with SG object (*-den* "him"), *Watha* with PL object (*-nekan* "us") ✓
+
+However, *Ko sho fele* = "We all love [you]" has a PL subject ("we") and SG object ("you"), yet uses the PL verb form *fele*. Under ergative alignment, the verb should agree with the SG object, giving SG *file*. This contradicts the ergative analysis.
+
+#### Analysis 3: Lexically Split Agreement (Preferred)
+
+The most typologically plausible analysis is that **different verb classes follow different agreement patterns** — a phenomenon attested in languages like Georgian, where agreement varies by tense/aspect series, and Hindi-Urdu, where ergative alignment is split by aspect.
+
+Under this analysis:
+- **Subject-agreeing verbs** (Class A): *File/Fele*, *Kele/Kile*, *Peran/Poran* — ablaut marks subject number. These include intransitives and at least one transitive (*File/Fele*).
+- **Object-agreeing verbs** (Class B): *Weta/Watha* — ablaut marks object number. This is a transitive verb.
+
+The class assignment may be lexically determined (each verb is individually specified for which argument it agrees with), or it may follow a semantic principle (e.g., verbs of cleansing/purification agree with the patient rather than the agent, because the patient is the more "affected" argument).
+
+**Confidence: Low–Moderate** for lexically split agreement. The evidence is internally consistent but the corpus is too small to confirm the pattern. The critical test would be additional Weta/Watha-type pairs — transitive verbs with singular and plural objects — to determine whether object agreement is systematic for certain verb classes.
+
+### Investigation 2: *-aru* Participial Suffix and *-ura* Collective Suffix
+
+The forms *-aru* (in *wa'aru* "fearing") and *-ura* (in *hash'ura* "companions") share the same consonantal segments /r/ with vowels /a/ and /u/ in different arrangements:
+
+| Suffix | Form | Function | Example | Gloss |
+|--------|------|----------|---------|-------|
+| *-aru* | *wa'aru* | Participial/gerundive | *wa'aru po* = "fearing the dark" | "fearing" |
+| *-ura* | *hash'ura* | Collective/plural | *hash'ura* = "companions" | "the united ones" |
+
+#### Possible Relationships
+
+1. **Metathesis**: *-aru* and *-ura* are allomorphs related by vowel transposition. The choice of form may be phonologically conditioned (e.g., *-aru* after the vowel /a/ in *wa'*, *-ura* after the consonant /sh/ in *hash'*). Cross-linguistically, metathesis of adjacent vowels or syllables is a common morphological process (cf. Arabic root-and-pattern morphology where vowel permutations create different word forms).
+
+2. **Semantic derivation**: *-aru* creates a participial/gerundive form ("the act of X-ing" or "one who X-es"), while *-ura* creates a collective ("those who X"). The semantic relationship is clear: both nominalize a verb root, but with different scope — *-aru* focuses on the action/state, *-ura* on the collective of actors. This is parallel to English "believing" (gerund) vs. "believers" (agentive collective).
+
+3. **Coincidence**: The phonological similarity is accidental. *-aru* and *-ura* are unrelated suffixes that happen to share segments.
+
+The semantic closeness (both nominalize verb roots) and the systematic vowel permutation (/a...u/ vs. /u...a/) make a genuine relationship plausible. If correct, this would imply that Zandali has a **vowel-permutation morphology** for nominalization, structurally parallel to the ablaut system for verbal number marking — both use vowel alternation as a morphological mechanism.
+
+**Confidence: Low–Moderate** for a genuine morphological relationship between *-aru* and *-ura*. The two attestations are suggestive but insufficient for confirmation. Additional gerundive or collective forms would be needed to test the hypothesis.
+
+### Investigation 3: *ney* ↔ *-ne* — Archaic 2nd Person Root */ne-/
+
+The possessive pronoun *ney* = "your" and the verbal suffix *-ne* = "you" may share an archaic 2nd person root */ne-/. The evidence:
+
+| Form | Function | Context | Gloss |
+|------|----------|---------|-------|
+| *ney* | Possessive pronoun (pre-nominal) | *ney lakamo* | "your crying" |
+| *-ne* | Verbal person suffix (post-verbal) | *Filo vize-ne* | "Filo sees you" |
+
+#### Arguments for Shared Root
+
+1. **Phonological correspondence**: *ney* = */ne/ + */i/, where */i/ may be an adjectival/possessive suffix or emphatic particle. The base */ne-/ would then be the 2nd person root, with *-ne* representing the cliticized form.
+
+2. **Functional correspondence**: Both forms mark 2nd person — *ney* in the nominal possessive paradigm, *-ne* in the verbal agreement paradigm. Cross-linguistically, possessive pronouns and verbal agreement markers frequently derive from the same pronominal root (cf. Spanish *tu* / *-s* in *cantas*, Japanese *na-* in *na-ta* → *-na* topic marker).
+
+3. **Historical replacement scenario**: The independent pronoun *Ya* = "you" may have replaced an older */ne-/ in the free pronoun paradigm, while the bound forms (*ney*, *-ne*) preserved the archaic root. This is a well-attested pathway — English *thou* was replaced by *you* in the free paradigm, but the verbal suffix *-st* (as in *thou went'st*) outlived the pronoun it originally accompanied.
+
+4. **Parallel with *-den***: The 3rd person suffix *-den* transparently incorporates the pronoun *Den* = "he." If *-ne* similarly incorporates an older pronoun */ne-/, then *ney* would be the possessive form of that same archaic pronoun.
+
+#### Arguments Against
+
+1. **Phonological distance**: *ney* /nei/ and *-ne* /ne/ differ in the final vowel/glide. While explainable (*/i/ suffix on *ney*), this is an additional assumption.
+
+2. **Alternative etymology for *-ne***: The suffix *-ne* could derive from *Nekan* = "us" by truncation (*nekan* → *-ne*), but this would give a 1st person plural meaning, not 2nd person singular. Or *-ne* could be a dedicated verbal agreement morpheme with no pronominal origin.
+
+**Confidence: Moderate** for *ney* and *-ne* sharing an archaic 2nd person root */ne-/. The functional and phonological correspondences are strong, and the historical replacement scenario is typologically well-supported. The main weakness is the limited data — only one possessive form and one verbal suffix.
+
+### Investigation 4: *alanke* vs. *alai* — Two Words for "Fire"
+
+Both *alai* and *alanke* appear in the Moldy Diary chant, both meaning "fire":
+
+- *De alai weta-den* = "The flames cleanse him" (line 3)
+- *Untoh de alanke tono* = "Keep the fire burning" (line 9)
+
+#### Morphological Decomposition
+
+If *ala-* = "fire/burning" is a shared root:
+
+| Form | Decomposition | Proposed Function |
+|------|---------------|-------------------|
+| *alai* | *ala* + *-i* | Base noun "fire/flame"; *-i* may be a nominative or default case marker, or zero-suffix |
+| *alanke* | *ala* + *-nke* | Modified form; *-nke* may be adjectival ("burning"), locative ("in the fire"), or aspectual |
+
+#### Possible Analyses
+
+1. **Grammatical case**: *-i* marks nominative (subject position), *-nke* marks accusative or oblique (object position). *Alai* is the subject of "cleanse," *alanke* is the object of "keep." This would be the first evidence for case marking on Zandali nouns. **Confidence: Low** — case marking is unattested elsewhere in Zandali, and the creole register shows no case system.
+
+2. **Adjectival/participial derivation**: *-nke* creates an adjectival form meaning "burning" or "active," while *-i* marks the base noun. *Alanke* = "the burning one" or "the active fire." In *Untoh de alanke tono*, *alanke* and *tono* would form a compound or appositive pair: "Keep the burning-fire [alive/going]." **Confidence: Low–Moderate** — adjectival derivation from noun roots is typologically common and would explain the semantic difference.
+
+3. **Register distinction**: *alanke* is a ritual/formal word for "fire" used in sacred contexts (the chant is a religious text), while *alai* is the common word. The chant uses *alai* in the cleansing line (referring to actual flames) and *alanke* in the preservation line (referring to the sacred/eternal fire). **Confidence: Low** — no other register distinctions are confirmed in Zandali.
+
+4. **Different grammatical forms of the same root**: *alai* and *alanke* may represent the same lexical root with different derivational suffixes whose functions are not yet understood. The *-nke* suffix is unattested elsewhere. **Confidence: Very Low** — too little data to determine the function of *-nke*.
+
+The shared root *ala-* = "fire/burning" is the most secure conclusion. The difference between *-i* and *-nke* suffixes cannot be resolved with current data.
+
+### Investigation 5: *Noa* — Noun-Verb Zero-Derivation
+
+The word *Noa* appears to function as both noun and verb:
+
+- *De nazdo noa* = "The seasons change" — *noa* appears to be a verb ("change")
+- *Noa* = "change" is listed as a common noun in the primer vocabulary
+
+#### Analysis
+
+The sentence *De nazdo noa* has two possible parses:
+
+1. **Verb parse**: *De* (the) + *nazdo* (seasons) + *noa* (change.V) = "The seasons change" — a complete sentence with SVO or SV order.
+
+2. **Noun parse**: *De* (the) + *nazdo* (seasons) + *noa* (change.N) = "The change of seasons" — a noun phrase. But this requires a genitive or construct-state interpretation without the genitive preposition *na*, which is otherwise required (cf. *Na roa na Jan'alai* = "In [heart] of [Jan'alai]").
+
+The verb parse is stronger because: (a) the English translation "The seasons change" is a complete sentence with a verb; (b) the genitive construction otherwise requires *na*; (c) the syntactic position after the subject NP is consistent with the predicate function.
+
+#### Zero-Derivation
+
+*Noa* likely exhibits **zero-derivation** (also called **conversion**): a single morphological form serves as both noun and verb without overt morphological marking. This is:
+
+- Common in creole languages (consistent with Zandali's creole register)
+- Common in isolating languages (Mandarin, Vietnamese)
+- Attested in English (*run*, *change*, *water* can all be noun or verb)
+
+The absence of ablaut on *noa* (no *noa/noe* or *noa/nua* pair) suggests that *noa* may belong to a class of verbs that do not undergo ablaut for number marking. Not all Zandali verbs may have ablaut pairs — the four confirmed pairs (*File/Fele*, *Kele/Kile*, *Peran/Poran*, *Weta/Watha*) may represent only a subset of verbs that retain this archaic morphology.
+
+#### Noun-Verb Conversion in Zandali
+
+If *noa* is genuinely zero-derived, Zandali may have a systematic pattern of noun-verb conversion. Two other potential examples:
+
+| Root | Noun Function | Verb Function | Notes |
+|------|--------------|---------------|-------|
+| *noa* | "change" (noun) | "change" (verb) | *De nazdo noa* = "The seasons change" |
+| *raza* | — | "is near" (verb) | *Filo raza-ne* = "Filo is near you" |
+| *ban* | "will" (noun: determination) | "will/shall" (auxiliary) | *Ni den ban kele* = "And he will rise" |
+
+*Ban* is not a perfect parallel (the noun → auxiliary pathway involves grammaticalization, not simple zero-derivation), but it demonstrates that Zandali permits the same phonological form to serve multiple grammatical functions.
+
+**Confidence: Moderate–High** for *noa* exhibiting zero-derivation between noun and verb. The syntactic evidence from *De nazdo noa* is strong, and zero-derivation is typologically consistent with Zandali's overall grammatical profile.
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar remain unattested and should not be assumed:
@@ -702,10 +859,10 @@ The following aspects of Zandali grammar remain unattested and should not be ass
 
 The following are now partially attested from the Zandali primer items:
 - **Verb conjugation**: Singular/plural distinction via ablaut (*File/Fele*, *Kele/Kile*, *Peran/Poran*, *Weta/Watha*); ablaut is lexically conditioned, not predictable from a single rule; four confirmed patterns (A: /i/→/e/, B: /e/→/i/, C: /e/→/o/, D: /e/→/a/)
-- **Verb suffixes**: Experiencer/person marking (*-den*, *-ne*, *-nekan*); two of three suffixes appear to incorporate independent pronouns; possible ergative-absolutive alignment (extremely speculative)
+- **Verb suffixes**: Experiencer/person marking (*-den*, *-ne*, *-nekan*); two of three suffixes appear to incorporate independent pronouns; lexically split agreement (subject agreement for Class A verbs, object agreement for Class B verbs like *Weta/Watha*) — see Investigation 1
 - **Modal verbs**: *hida* = "must" (obligation), *ban* = "will/shall" (future); both precede the main verb
 - **Pronoun system**: Extended to include *Den* (he), *Ko/Moi/Midi* (we), *Nekan* (us); four distinct "we" forms with possible syntactic conditioning
-- **Possessive pronouns**: *mo* = "my" (pre-nominal), *ney* = "your" (pre-nominal); *ney* may share root with suffix *-ne*
+- **Possessive pronouns**: *mo* = "my" (pre-nominal), *ney* = "your" (pre-nominal); *ney* likely shares archaic root */ne-/ with suffix *-ne* — see Investigation 3
 - **Prepositions**: *Na* = "in/to" (locative/allative) and "of" (genitive); multi-functional preposition
 - **Genitive construction**: [Possessed] *na* [Possessor] — post-nominal genitive
 - **Word order**: Native Zandali sentences suggest VSO or VOS order, diverging from the creole register's SVO order; SVO also attested in *Filo vize-ne* (subject-verb-object)
