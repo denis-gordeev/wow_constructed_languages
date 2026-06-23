@@ -132,9 +132,11 @@ The Midnight expansion provides the most significant Zandali linguistic data sin
 
 Patch 12.1.0 "Curse of Ula'tek" adds the Coiled Isle zone east of Zul'Aman, continuing Zul'jan's story:
 
-- **Ula'tek**: Snake goddess of the forest trolls, with **official IPA pronunciation /ˈuːlə.ˌtɛk/** — the first WoW constructed language word with a confirmed IPA transcription from Blizzard. Central to the patch; the Venomous Abyss raid features Ula'tek as the final boss
+- **Ula'tek**: Snake goddess of the forest trolls, with **official IPA pronunciation /ˈuːlə.ˌtɛk/** — the first WoW constructed language word with a confirmed IPA transcription from Blizzard. Central to the patch; the Venomous Abyss raid features Ula'tek as the final boss. Ula'tek is described as "a nightmare born from the Rift of Aln," creating a significant cross-connection with Hara'ni lore — the Rift of Aln is central to both traditions (source of Alndust/Azerite for the Haranir, source of Ula'tek for the Amani). The Amani summoned Ula'tek from the Rift of Aln during the Aqir and Troll War (~16,000 BDP), the same era the Haranir traveled to Harandar following Aln'hara's call
 - **Atal'Utek**: Temple on the Coiled Isle, built to commemorate the Amani victory over the faceless general Kith'ix. Fourth attestation of *Atal* = "devoted"
 - **Pahk**: Loa protecting the strait between the Coiled Isle and Zul'Aman
+- **Venomous Abyss raid bosses**: Nek'zali ("the Soulcoiler"), Vashnik ("the Malignant"), Sszorak — names with mixed Zandali and possible Aqir/Shath'Yar phonological features, reflecting the Old God-tainted environment
+- **Coiled Isle NPCs**: Du'gal (references the loa Pahk), Ofi (subzone "Ofi's Hut"), Mlurkkr Mire (atypical consonant clusters suggest non-Zandali origin)
 - **Coiled Isle**: Originally named "Atal'Utek" on the map (patch 12.0.1), renamed to "The Coiled Isle" in 12.1.0 when the underground temple kept the name *Atal'Utek*
 - **New Zandali words confirmed**: *gokinye* (invader/outsider), *oraka* (greeting), *zernago* (farewell, spelling uncertain), *Tokobo'ne* (welcome)
 - **Zul'jarra confirmed as hash'ey**: Earned the title by gaining blessings of four Amani loa (Akil'zon, Halazzi, Jan'alai, Nalorakk). Her hash'uras include Lady Liadrin

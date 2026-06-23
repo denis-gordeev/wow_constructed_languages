@@ -1,5 +1,9 @@
 # Qiraji — Description
 
+## Overview
+
+The Qiraji language is spoken by the qiraji — an ancient insectoid race native to Silithus, descended from the Aqir (Old God-created insectoids). Qiraji shares potential Aqir substrate morphemes with nerubian (*Ahn-* = "old/sacred"), but the two languages have been separated by ocean and ~16,000 years of independent development. The language is attested exclusively through proper names; no confirmed translations exist. Despite this limitation, the distinctive hyphen vs. apostrophe boundary distinction and the confirmed /ʒ/ phoneme in *Ahn'qiraj* (/ˈɑːn.kiˌɹɑːʒ/) reveal a typologically significant sound system.
+
 ## Speakers
 
 The Qiraji language is spoken by the qiraji — an ancient insectoid race native to Silithus in southwestern Kalimdor. The qiraji are the dominant caste of the silithid hive structure, created by the Old God C'Thun to serve as his army.
@@ -34,7 +38,23 @@ No qiraji dialects are explicitly attested in canon. The qiraji corpus is too sm
 - Qiraji society is organized as a theocratic hive, with C'Thun at the apex and military leaders below. This contrasts with nerubian society, which has a more conventional political structure (queen, generals, viziers).
 - The qiraji's primary function is to serve C'Thun and expand his influence. Their naming conventions reflect this: *Ahn'qiraj* = "Sacred Temple" (if *Ahn-* = "sacred"), suggesting the fortress-temple is primarily a religious site.
 - The Egyptian aesthetic (pyramids, scarabs, sphinx-like constructs) that permeates qiraji design extends to their naming, with *Anubisath* evoking Egyptian *Anubis* and *Ossirian* evoking *Osiris*.
-- The qiraji have a hieroglyphic writing system, visible on the walls of Ahn'qiraj, but no translations of this script exist in canon.
+
+## Phonological Features
+
+The qiraji phonological system is reconstructed from proper names. Key features include:
+
+- **Confirmed /ʒ/ phoneme**: Official IPA for *Ahn'qiraj* = /ˈɑːn.kiˌɹɑːʒ/ confirms /ʒ/ in the self-designation *-qiraj*, shared with nerubian *Azj-* = /ɑːʒ/. This phoneme was likely inherited from the Aqir substrate
+- **Geminate consonants**: *Kurinnaxx* shows geminate *-xx-*, which qiraji retains where nerubian simplifies to *-x* (*Ovi'nax*). This may reflect a regular sound correspondence: qiraji preserves Aqir gemination, nerubian simplifies it
+- **Hyphen vs. apostrophe boundary**: A distinctive orthographic feature — *Hive'Ashi* uses apostrophe for compound place names, but *Anubisath* uses no boundary marker. The one nerubian text uses hyphens for grammatical boundaries. This three-way distinction (apostrophe = compound, hyphen = grammatical, no mark = fused) may be a shared Aqir orthographic convention
+- **Reduplication**: Potential reduplication in *Ayamiss* and *Rajaxx* — if the final *-ss* and *-xx* elements are reduplicative, this would be a morphological process shared with Zandali (*Dundun*)
+- **Vowel distribution**: /a/ dominates heavily (*Ahn'qiraj*, *Rajaxx*, *Ayamiss*, *Moam*). /o/ and /u/ are rare, similar to nerubian
+- **/ks/ (x) frequency**: High in final position (*Rajaxx*, *Kurinnaxx*), paralleling nerubian (*Ulgrax*, *Ovi'nax*)
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis.
+
+## Writing System
+
+The qiraji possess a hieroglyphic writing system, visible on the walls of Ahn'qiraj and other Silithus structures. The script consists of angular, insectile glyphs carved into stone, consistent with the Egyptian aesthetic of qiraji architecture. No translations of this script exist in canon. The hieroglyphic tradition likely descends from the Aqir writing system (if one existed), potentially shared with nerubian glyphs in a common ancestor. The relationship between qiraji hieroglyphs and Tol'vir heiroglyphs — both Egyptian-inspired, both in southern Kalimdor — may reflect either shared Aqir substrate or independent Blizzard design choices.
 
 ## Relationship to Other Languages
 

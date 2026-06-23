@@ -1,5 +1,9 @@
 # Gnomish Language — Overview
 
+## Overview
+
+The Gnomish language is a descendant of Titan, spoken by gnomes and their mechagnome progenitors. Created by Keeper Mimiron as clockwork titan-forged, the mechagnomes developed a language with strong Titan vocabulary for construction, machinery, and design. The language is attested almost exclusively through proper names and technical terminology; no confirmed translations of full phrases exist. Gnomish names show a distinctive contrast between traditional short names (*Gazlowe*, *Fizzle*, *Sprocket*) and mechagnome compound names (*Bondo's Blockyard*, *Sparkweaver Point*), reflecting the dual cultural heritage of the gnomish people.
+
 ## Speakers
 
 The Gnomish language (also called **Gnomish** or **Gnomereganish** in informal contexts) is the native language of the gnomes of Azeroth. It is a descendant of Titan, via the Mechagnome lineage — gnomes are the flesh-born descendants of mechagnomes, who were clockwork titan-forged created by Keeper Mimiron. The language is spoken primarily by gnomes in Gnomeregan, Ironforge, and the mechagnome settlement of Rustbolt on Mechagon Island.
@@ -31,6 +35,29 @@ Key historical events affecting the language:
 - **Standard Gnomish (Gnomeregan dialect)**: The language as spoken by the flesh gnomes of Gnomeregan and Ironforge. Heavily influenced by Common and Dwarven through centuries of bilingualism.
 - **Mechagnome Gnomish (Mechagon dialect)**: The language as preserved by the mechagnomes of Mechagon Island. Likely more conservative, retaining Titan-derived vocabulary for mechanical and architectural concepts. May have diverged significantly from Standard Gnomish during millennia of isolation.
 - **Technical Gnomish**: A possible specialized register used for engineering and technical communication. This is speculative; gnomish engineers may use Common with Gnomish technical loanwords.
+
+## Cultural Context
+
+- Gnomish culture is deeply technological, with engineering, invention, and tinkering as central values. Their language likely has extensive vocabulary for mechanical components, engineering processes, and scientific concepts
+- The mechagnome split: traditional gnomes (flesh-born) and mechagnomes (clockwork originals) represent two cultural traditions. The mechagnomes of Rustbolt may retain a more conservative linguistic register, closer to the original Titan-influenced vocabulary
+- Gnomish naming shows a distinctive pattern: short, playful personal names (*Gazlowe*, *Fizzle*, *Sprocket*, *Tink*) contrasting with longer compound place names (*Gnomeregan*, *Mechagon*)
+- The *Gallagio* district (in the Vulpera area) uses an Italian *-gio* ending, reflecting Blizzard's Italian aesthetic for gnomish/goblin commercial culture rather than genuine Gnomish morphology
+
+## Phonological Features
+
+Gnomish phonology is reconstructed from a very small corpus of proper names. Key features include:
+
+- **Titan-derived phonological substrate**: As a descendant of Titan via mechagnomes, Gnomish likely retains basic phonological features from the Titan language family (right-headed compounding, CVC syllable preference, initial stress)
+- **Playful phonology**: Gnomish personal names favor high front vowels (*Fizzle*, *Sprocket*, *Tink*), affricates (*Gelbin*), and onomatopoeic elements (*Zzzap*, *Bzzek*), creating a distinctive "tinkering" sound that contrasts with the more somber Vrykul or Dwarven naming patterns
+- **Mechagnome vs. gnome naming divergence**: Mechagnome names tend to be longer and more compound-like (*Sparkweaver*, *Bondo's Blockyard*), while traditional gnome names are shorter and simpler (*Erazmin*, *Gelbin*). This may reflect the mechagnomes' preservation of Titan compound structures
+- **-egan place suffix**: *Gnomeregan* contains the *-egan* element, possibly a Gnomish toponymic suffix. If genuine, it would parallel Dwarven *-gar* and Vrykul *-heim* as a Titan-forged place-name suffix
+- **Goblin naming contrast**: Gnomish names differ from Goblin names (*Noggenfogger*, *Galleywix*) in preserving more Titan-derived phonology, while Goblin names show more Trade Common influence
+
+See [grammar.md](grammar.md#phonology) for full consonant/vowel IPA charts.
+
+## Writing System
+
+Gnomish is mentioned as a distinct language in the in-game language filter, but no Gnomish writing system has been depicted or described in canon. Given the gnomish affinity for technology and documentation, gnomes almost certainly maintain written records — but these are presumably rendered in Common script for practical purposes (trade, communication with other races). The mechagnomes of Mechagon may preserve a more formal orthographic tradition derived from Titan script, but this is unconfirmed. Any native Gnomish writing system that may have existed before the mechagnome→gnome transition is entirely unattested.
 
 ## Relationship to Other Languages
 

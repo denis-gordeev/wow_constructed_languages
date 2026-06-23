@@ -507,6 +507,14 @@ Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Z
 | Puul | Loa (nature unknown) | Monomorphemic name (no apostrophe); geminate vowel |
 | Q'onzu | Loa (nature unknown) | Apostrophe-marked compound: *Q'* + *-onzu* |
 
+#### Venomous Abyss Raid Bosses (Patch 12.1.0)
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Nek'zali | Raid boss "the Soulcoiler" | Apostrophe-marked: *Nek'* + *-zali*. The *Nek'* element parallels *Nek'mani* (Bloodscalp pool) and *-nekan* (verb suffix "us") |
+| Vashnik | Raid boss "the Malignant" | No apostrophe; *-nik* ending unusual for Zandali — may reflect non-Zandali (Shath'Yar/Aqir) origin given the Venomous Abyss's Old God associations |
+| Sszorak | Raid boss | No apostrophe; geminate *-sz-* onset; *-orak* ending. The initial /s/ cluster is atypical for Zandali, possibly reflecting serpent/serpentine phonology |
+
 #### New NPC Names (Patch 12.1.0)
 
 | Word | Meaning | Notes |
@@ -519,6 +527,8 @@ Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Z
 | Kaziil | Kinduru's student (Midnight) | No apostrophe; geminate *-ii-* |
 | Amala | Kinduru's student (Midnight) | No apostrophe; *-a* ending |
 | Rakan | Kinduru's student (Midnight) | No apostrophe |
+| Du'gal | Coiled Isle NPC | Apostrophe-marked: *Du'* + *-gal*. References the loa Pahk in on-click dialogue |
+| Ofi | Forest troll (Coiled Isle) | No apostrophe; short personal name. Attested in subzone "Ofi's Hut" |
 
 #### New Place Names (Patch 12.1.0)
 
@@ -527,6 +537,7 @@ Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Z
 | Atal'Utek | Temple on the Coiled Isle (Patch 12.1.0) | Apostrophe-marked compound: *Atal* ("devoted") + *'Utek* (from Ula'tek). **Fourth attestation of *Atal* = "devoted"** (after *Atal'ai*, *Atal'Aman*, *Atal'Abasi*). Built to commemorate the Amani tribes' victory over the faceless general Kith'ix. Originally named the entire island before it was renamed "The Coiled Isle" in patch 12.1.0; *Atal'Utek* now refers to the underground temple. **Confidence: High** for *Atal* = "devoted" (four attestations) |
 | Zail'Zar Span | Bridge/causeway on Coiled Isle | Apostrophe-marked compound: *Zail'* + *-Zar*. The *-Zar* element parallels *Amani'Zar* (possibly = "throne/capital") |
 | Watha'nan Crypts | Crypts in Zul'Aman (Midnight) | Apostrophe-marked compound: *Watha'* + *-nan*. The *Watha'* element parallels the *-watha* suffix common in troll village names (*Agol'watha*, *Hiri'watha*, *Zeb'Watha*) — here appearing as a prefix |
+| Mlurkkr Mire | Swamp area on Coiled Isle | Geminate *-kk-* and final *-r*. The consonant cluster /ml-/ onset and geminate /kk/ are atypical for Zandali — may be a non-Zandali (possibly murloc/nerglish or Aqir substrate) place name |
 | Shadebasin Watch | Witherbark outpost (Midnight) | English compound; no Zandali form attested |
 | Akil'zon's Reach | Shrine in the mountains (Midnight) | English + Zandali compound; named after the eagle loa |
 | Temple of Halazzi | Hidden temple (Midnight) | English + Zandali compound; named after the lynx loa |

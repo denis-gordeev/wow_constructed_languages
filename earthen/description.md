@@ -1,5 +1,9 @@
 # Earthen — Description
 
+## Overview
+
+The Earthen language is spoken by the Earthen — titan-forged stone beings created by Khaz'goroth, and the direct progenitors of Dwarves. As a daughter language of Titan, Earthen preserves more Titan morphemes and phonological features than its descendant Dwarven, including the /θ/ phoneme and longer compound names. The language is attested primarily through proper names and place names from The War Within (2024), with no confirmed translations of full phrases.
+
 ## Speakers
 
 The Earthen are the titan-forged stone progenitors of Dwarves, created by the Titan Khaz'goroth to shape the deep places of Azeroth. In *The War Within* (2024), the Earthen appear as a major faction in the subterranean continent of Khaz Algar, where they have survived for millennia in isolation from their Dwarven descendants on the surface.
@@ -42,6 +46,22 @@ The millennia of isolation from Dwarves means Earthen has no significant Common 
 - The Stormriders' military culture, riding giant stormrooks, would require specialized vocabulary for combat, weather, and aerial mounts
 - The Oathsworn's devotion to Titan edicts suggests retention of religious/ceremonial vocabulary from Titan
 - The Unbound's rejection of Titan authority suggests they may have innovated new vocabulary for freedom and self-determination
+
+## Phonological Features
+
+Earthen phonology preserves more Titan features than its descendant Dwarven, as expected from a titan-forged language that remained in isolation for millennia:
+
+- **Retained /θ/**: The dental fricative /θ/ is attested in Earthen (*Eirich* likely /ˈeɪrɪç/ or /ˈaɪrɪk/) but lost in Dwarven. This parallels the retention of /θ/ in Vrykul and Drust (also titan-forged descendants)
+- **Longer compound names**: Earthen names tend to be longer and more morphologically complex than Dwarven names (*Baelgrim*, *Adelgonn*, *Lufsela* vs. Dwarven *Magni*, *Muradin*, *Brann*), suggesting that the Curse of Flesh introduced phonological simplification in the Dwarven lineage
+- **-dar toponymic suffix**: The *-dar* suffix in Hallowfall place names (*Beledar*, *Mereldar*) may derive from Titan *-dor*, representing a retention of Titan toponymic morphology
+- **Norse-inspired phonology**: Like Vrykul, Earthen names show Norse phonological patterns (*-grim*, *-rich*), consistent with the shared Titan ancestry and Blizzard's Nordic aesthetic for titan-forged races
+- **Absence of vowel reduction**: Earthen names show full vowel articulation without the vowel reduction common in Dwarven, suggesting the language preserved Titan phonotactics
+
+See [grammar.md](grammar.md#phonology) for full consonant/vowel IPA charts.
+
+## Writing System
+
+The Earthen use a runic writing system directly descended from the Titan script, carved into stone surfaces throughout Khaz Algar. This script is more angular and geometric than the Dwarven runic tradition, suggesting less drift from the original Titan forms. The Machine Speakers maintain technical inscriptions on Titan machinery, likely preserving the most conservative orthographic tradition. The Oathsworn's religious texts would also retain archaic Titan orthographic conventions. No Earthen inscriptions have been translated in canon.
 
 ## Relationship to Other Languages
 

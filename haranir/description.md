@@ -1,5 +1,9 @@
 # Hara'ni — Description
 
+## Overview
+
+Hara'ni is the language of the Haranir, an ancient subterranean race descended from dark trolls/night elves who split from the main elven lineage ~16,000 years ago and journeyed deep underground to Harandar. Despite this extreme time depth, the Haranir share the Xhosa-accented English rendering with Zandalari trolls, suggesting inherited phonological features from proto-troll ancestry. Hara'ni is one of the few WoW languages with confirmed native translations (*Har'* = "village" in 4 attestations, *Shul'* = "shadow" in *Shul'ka* = "Hunters of Shadows"), making its morpheme analysis unusually well-grounded for an "Extremely Low" attestation language.
+
 ## Speakers
 
 The Haranir are a reclusive, ancient race of humanoids introduced in *The War Within* (2024). They are described as "not really elves, not really trolls" — they possess bat-like ears (similar to night elves but larger), small tusks (like trolls), grayish-purple skin, dark fur, and quills. They can shapeshift into bats. Their language, **Hara'ni**, is named explicitly in the wiki infobox for the Haranir race.
@@ -52,6 +56,23 @@ Key historical events affecting the language:
 
 - **Standard Hara'ni**: The language as spoken by the Haranir in Harandar. This is the only attested dialect.
 - **No dialectal variation is observable** in the current corpus — the sample size is too small to detect regional or social variation.
+
+## Phonological Features
+
+Hara'ni phonology is reconstructed from proper names and the confirmed Xhosa-accented English rendering shared with Zandalari trolls. Key features include:
+
+- **Xhosa phonological parallels**: The Haranir use the same Xhosa-accented English as the Zandalari trolls (confirmed by warcraft.wiki.gg), suggesting inherited phonological features from proto-troll ancestry. Shared features with Xhosa include: five-vowel system /a e i o u/, (C)V(C) syllable preference, high /a/ and /i/ frequency, palato-alveolar consonant series, and apostrophe-marked morpheme boundaries
+- **High /h/ frequency**: *Hara-*, *Har'-*, *Habissi*, *Hawli* — /h/ is more prominent than in Zandali, likely a post-divergence innovation
+- **Geminate consonants**: *Fuunid* (/uː/), *Ruutani* (/uː/), *Amarakk* (/kː/) — geminate vowels and consonants are confirmed, suggesting phonological length is distinctive
+- **Apostrophe as morpheme boundary**: Consistent with other WoW "alien" languages (*Shul'ka*, *Har'alnor*, *Zur'ashar*)
+- **Medial /ʒ/**: The confirmed Xhosa accent suggests /ʒ/ may be present, parallel to Zandali and nerubian phonology
+- **/θ/ possible**: The *-th-* in *Har'athir* may represent /θ/, shared with Vrykul/Drust phonology — possibly an areal feature from underground contact with Earthen
+
+See [grammar.md](grammar.md#phonology) for full Xhosa comparison analysis.
+
+## Writing System
+
+The Haranir preserve a pictographic or paint-based tradition — the Zur'ashar (painter-storytellers) create wall paintings and records, suggesting a non-alphabetic visual communication system. No alphabetic or syllabic writing system is attested. The Derelict Mural depicts Haranir history but is rendered in Common for gameplay. The reliance on pictographic/painted records rather than carved inscriptions is consistent with the Haranir's bat-like nature and subterranean habitat, where visual art on cave walls would be more practical than portable writing materials.
 
 ## Relationship to Other Languages
 

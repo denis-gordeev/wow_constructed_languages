@@ -1,5 +1,9 @@
 # Nerubian — Description
 
+## Overview
+
+The Nerubian language is spoken by the nerubians — an ancient arachnid race native to Azeroth's underground realms. Descended from the Aqir (Old God-created insectoids), nerubian shares potential substrate vocabulary with qiraji through the *Azj-* and *Ahn-* morphemes, though the relationship remains hypothetical without attested Aqir vocabulary. The language is primarily attested through proper names and one untranslated scroll text; no confirmed translations exist. Despite this extreme limitation, the consistent apostrophe-marked compounding pattern and the confirmed /ʒ/ phoneme in *Azj-* reveal a typologically distinctive language.
+
 ## Speakers
 
 The Nerubian language is spoken by the nerubians — an ancient arachnid race native to the underground realms of Azeroth. The two known nerubian civilizations are:
@@ -36,7 +40,23 @@ The nerubian language exhibits the most significant dialectal variation of any A
 - Queen Ansurek's use of Black Blood to create the Ascended represents a cultural transformation — the nerubians are being altered at a fundamental level, not just physically but socially and politically.
 - The *Anub-* prefix, given only to military leaders, suggests a warrior aristocracy similar to the Vrykul *Drottinn* or Drust *Gorak* title systems.
 - The Egyptian aesthetic (pyramids, scarabs, underworld themes) that permeates nerubian design extends to their naming conventions, with *Anub-* evoking Egyptian *Anubis* and *Nefer-* evoking Egyptian *nfr* ("beautiful").
-- Nerubians are known to have a written language with a glyphic or hieroglyphic script, but no nerubian hieroglyphs have been translated in canon (unlike Tol'vir, which has three confirmed translations).
+
+## Phonological Features
+
+The nerubian phonological system is reconstructed from proper names and one scroll text. Key features include:
+
+- **Confirmed /ʒ/ phoneme**: Official IPA pronunciations confirm /ʒ/ in key morphemes: *Azj-* = /ɑːʒ/, *-qiraj* = /-ɹɑːʒ/. This phoneme was likely inherited from the Aqir substrate and is shared with naga *Nazj-* = /nɑːʒ/, significantly strengthening the *Azj-*/**Nazj-* connection
+- **High /ks/ (x) frequency**: Unusually frequent compared to other WoW languages (*Ulgrax*, *Ovi'nax*, *Krix'vizk*, *Ix'zek*). The /ks/ cluster may reflect chitinous clicking sounds or Blizzard's aesthetic for "hard" alien names. In the *-naxx*/*-nax* suffix, *x* may represent /x/ (velar fricative) rather than /ks/
+- **Consonant cluster tolerance**: High, especially in initial position: /vr/ (*Vrrix*), /kr/ (*Krix'vizk*), /ɪks/ (*Ix'zek*). This approaches Vrykul cluster complexity and distinguishes nerubian from ethereal and qiraji
+- **Sibilant density**: Moderate. Names like *Nizrek*, *Krix'vizk*, *Rasha'nan* feature sibilants but less densely than Nazja (*Sira'kess*, *Sassz'ine*)
+- **Apostrophe as morpheme boundary**: Nearly all multi-morpheme names use apostrophes. The scroll text uses hyphens instead, suggesting nerubian orthography distinguishes compound name boundaries (apostrophe) from grammatical morpheme boundaries (hyphen)
+- **Vowel distribution**: Names favor /a/ and /e/, with /i/ common in unstressed syllables. /o/ and /u/ are relatively rare
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
+
+## Writing System
+
+Nerubians are confirmed to have a written language with a glyphic or hieroglyphic script, depicted on in-game architecture and scroll artifacts. The script appears as angular, segmented glyphs carved into stone surfaces in Azj-Kahet and Azjol-Nerub. No nerubian hieroglyphs have been translated in canon (unlike Tol'vir, which has three confirmed translations). The one attested nerubian text — the scroll passage *"Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k."* — uses hyphens as grammatical morpheme boundaries, suggesting a different orthographic convention from the apostrophe-marked proper names. This may indicate that nerubian writing distinguishes formal/liturgical texts (hyphenated) from naming conventions (apostrophe-marked), or that the scroll represents a phonetic transcription rather than native script.
 
 ## Relationship to Other Languages
 

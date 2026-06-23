@@ -73,12 +73,9 @@
 
 ## Next Actions
 
-- [ ] Check patch 12.1.0 PTR data for additional Zandali character dialogue when available
 - [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
-- [ ] Investigate *ney* ↔ *-ne* relationship — *ney* = "your" (possessive) and *-ne* = "you" (verb suffix) may share an archaic 2nd person root */ne-/ — **DONE**: Analysis added to grammar.md Investigation 3; archaic root */ne-/ hypothesis supported (Moderate confidence); *ney* = */ne/ + */i/*, *-ne* = cliticized form
-- [ ] Analyze *Weta/Watha* agreement pattern — does ablaut mark subject number, object number, or both? Requires more verb pairs with varied subject/object combinations — **DONE**: Analysis added to grammar.md Investigation 1; preferred analysis is lexically split agreement (Class A verbs mark subject number, Class B verbs like Weta/Watha mark object number); Low–Moderate confidence
 - [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
-- [ ] Research *Noa* dual usage — appears as both a noun ("change") and a verb (*De nazdo noa* = "The seasons change"); investigate noun-verb conversion in Zandali — **DONE**: Analysis added to grammar.md Investigation 5; zero-derivation (conversion) proposed with Moderate–High confidence; syntactic evidence from *De nazdo noa* supports verb parse; additional noun-verb conversion examples (*ban*, *raza*) identified
+- [ ] Expand remaining description.md files with Overview/Phonological Features/Writing System sections: pandaren, vulpera, eredun, shalassian, draenei, taur-ahe, kalimag, mogu, sethrak, titan, tolvir, common, nerglish, nature (14 languages still missing 2+ sections)
 
 ## Completed This Round
 
@@ -278,3 +275,17 @@
 - [x] Sync zandali/grammar.html with updated grammar.md: added Open Linguistic Investigations section (5 subsections with tables, lists, and confidence notes); updated nav with new link; updated Weta/Watha, possessive pronouns, participle/gerundive, and Gaps sections
 - [x] Update zandali/vocabulary.md: added cross-references to grammar.md investigations for *Alanke*, *Wa'aru*, *Ney*, *Noa*
 - [x] Sync zandali/vocabulary.html: updated *Alanke*, *Wa'aru*, *Ney*, *Noa* entries with cross-references to grammar.html investigations
+
+## Completed This Round (2026-06-23, Round 2)
+
+- [x] Research patch 12.1.0 PTR data for additional Zandali character dialogue — checked warcraft.wiki.gg for Coiled Isle, Venomous Abyss, and Ula'tek content
+- [x] Add Venomous Abyss raid bosses to vocabulary.md: Nek'zali ("the Soulcoiler"), Vashnik ("the Malignant"), Sszorak — mixed Zandali and possible Aqir/Shath'Yar phonological features
+- [x] Add Coiled Isle NPCs to vocabulary.md: Du'gal, Ofi — expanding the patch 12.1.0 NPC corpus
+- [x] Add Mlurkkr Mire place name to vocabulary.md — atypical consonant clusters suggesting non-Zandali origin
+- [x] Expand Zandali description.md Patch 12.1.0 section: added Ula'tek/Rift of Aln cross-reference connecting Zandali and Hara'ni lore, Venomous Abyss raid boss details, Coiled Isle NPC and place name details
+- [x] Add Overview section to 8 language description.md files: ethereal, nerubian, vrykul, drust, haranir, qiraji, earthen, gnomish
+- [x] Add Phonological Features section to 8 language description.md files: ethereal, nerubian, vrykul, drust, haranir, qiraji, earthen, gnomish — with grammar.md cross-references and IPA notation
+- [x] Add Writing System section to 8 language description.md files: ethereal, nerubian, vrykul, drust, haranir, qiraji, earthen, gnomish — describing attested scripts, runic traditions, and pictographic systems
+- [x] Move completed investigations from Next Actions: *ney* ↔ *-ne* (DONE), *Weta/Watha* agreement (DONE), *Noa* dual usage (DONE), patch 12.1.0 PTR check (DONE)
+- [x] Sync zandali/vocabulary.html and description.html with updated .md files
+- [x] Sync 8 language description.html files with updated description.md files: ethereal, nerubian, vrykul, drust, haranir, qiraji, earthen, gnomish — added Overview, Phonological Features, and Writing System sections; updated navigation bars

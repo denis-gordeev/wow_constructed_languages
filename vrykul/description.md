@@ -1,5 +1,9 @@
 # Vrykul — Description
 
+## Overview
+
+Vrykul is the language of the vrykul race, fearsome half-giant warriors who primarily inhabit Northrend and the Broken Isles. As a direct descendant of Titan via the iron vrykul, Vrykul is the ancestor of Common (Human language) and is closely related to Drust (the language of the Kul Tiras vrykul offshoot). The language is among the better-attested WoW constructed languages, with ~10 attested phrases with translations and a strong Old Norse/Icelandic phonological basis that permits well-grounded morphological inference.
+
 ## Speakers
 
 Vrykul is the language of the vrykul race, fearsome half-giant warriors who primarily inhabit Northrend and the Broken Isles. It is spoken by the vrykul of Howling Fjord, Grizzly Hills, Storm Peaks, Icecrown, and the Broken Isles zone of Stormheim. The Broken Isles vrykul speak a slightly different dialect than the Northrend vrykul. Related groups — the Kvaldir (sea vrykul), Ymirjar (elite Scourge vrykul), and Mjordin — also speak Vrykul or close variants. The vrykul are the progenitors of the human race, and their language is likely an ancestor of Common.
@@ -24,6 +28,24 @@ Key historical events affecting the language:
 - Runemasters and mystics practiced rune magic, likely preserving archaic ritual language.
 - Shieldmaidens and the Valkyra have their own ascension rites.
 - Bjorn (bear) symbolism is pervasive in names and titles.
+
+## Phonological Features
+
+Vrykul phonology closely parallels Old Norse/Icelandic, which provides a stronger foundation for inference than languages with no real-world parallel:
+
+- **Old Norse/Icelandic basis**: Many Vrykul names are actual Scandinavian/Icelandic names. The phrase *Bjorns mottar haelgond sygar* closely resembles Icelandic *"Bjorns móðir, Haelgond, sýgur!"* ("Bjorn's mother, Haelgond, sucks!"), confirming the phonological parallel
+- **Gj → /ʃ/ sound change**: The digraph "Gj" is pronounced /ʃ/ (sh), confirmed by Captain Adams (quest: *Dealing With Gjalerbron*). This parallels the Norwegian/Gj sound shift
+- **Heavy consonant clusters**: Initial clusters common: Vr- (*Vrykul*), Sk- (*Skovald*, *Skadi*), Hl- (*Helya*), Gj- (*Gjalerbron*), Mj- (*Mjordin*), Ym- (*Ymiron*, *Ymirheim*)
+- **First-syllable stress**: Consistent with Old Norse/Germanic patterns: **Y**miron, **Ut**garde, **Val**halas, **Sko**vald
+- **Dental fricatives**: /θ/ and /ð/ attested in names, consistent with Old Norse phonology
+- **Vowel length**: Possibly phonemic, as in Old Norse. Attested in double vowels: "oo" in *"Ugglin oo bjorr"*, "uul" in *"Mjor na uul kval!"*
+- **Diphthongs**: Attested in "au" (*Haustvald*), "ei" (*Geirrivif*), "ja" (*Jotunheim*, *Mjordin*)
+
+See [grammar.md](grammar.md#phonology) for full consonant/vowel IPA charts.
+
+## Writing System
+
+Vrykul possesses a runic writing system depicted on in-game standing stones, cave walls, and ritual markers. The script consists of angular runic glyphs consistent with a futhark-like alphabet, reflecting the Norse aesthetic of vrykul culture. Runemasters use these runes for magical inscriptions. The Drust offshoot preserves a related but divergent runic tradition, as seen on the Drust Steles in Drustvar. No Vrykul runic inscriptions have been translated in canon, though the strong Old Norse/Icelandic parallel means that some inscriptions may be directly decipherable if they follow Norse runic conventions.
 
 ## Dialects and Variants
 

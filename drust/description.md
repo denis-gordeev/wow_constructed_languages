@@ -1,5 +1,9 @@
 # Drust — Description
 
+## Overview
+
+The Drust language is a daughter language of Vrykul, spoken by the vrykul who settled Kul Tiras after the Great Sundering. Separated from mainland Vrykul by ocean and ~10,000 years of independent development, Drust developed distinctive phonological innovations (/ʒ/, /θ/) and a unique toponymic system using the *Gol-* prefix (vs. Vrykul suffixes like *-heim*, *-garde*). The language is now effectively dead — the last living speaker is Ulfar, the last Thornspeaker — but survives in spirit form, ritual incantations, and the place names of Drustvar.
+
 ## Speakers
 
 The Drust were a population of vrykul who settled the island of Kul Tiras before the first humans arrived there. They are the ancestral culture of the Drustvar region. The Drust language (also called Drust) is a divergent variety of Vrykul, separated from the mainland Vrykul language for millennia after the Great Sundering. It is spoken — or was spoken — by the Drust people, their surviving spirits, the Heartsbane Coven, the Thornspeakers, and the wicker/stone constructs animated by Drust magic.
@@ -28,6 +32,23 @@ Key historical events affecting the language:
 - The Drust built stone constructs and wicker constructs, suggesting specialized vocabulary for creation rituals.
 - The Heartsbane Coven represents a human appropriation of Drust death magic. Their terminology (Heartsbane, hexthralled, etc.) is Common-language, not Drust.
 - Drust Steles preserve carved narratives of their history, indicating a written tradition using pictographic or runic symbols.
+
+## Phonological Features
+
+Drust phonology is similar to Vrykul with several distinctive innovations resulting from ~10,000 years of isolation:
+
+- **Innovative /ʒ/**: The voiced postalveolar fricative /ʒ/ in *Zhar* is not attested in mainland Vrykul. It likely developed from an earlier /j/ or /ʃ/: /j/ → /ʃ/ → /ʒ/ (paralleling Vrykul's *Gj* → /ʃ/ sound change, pushed one step further)
+- **Innovative /θ/**: The voiceless dental fricative /θ/ in *Thros* is rare in mainland Vrykul. It may reflect a Drust sound change from earlier /t/ or /s/ before /ɾ/
+- **Unusual onset cluster**: *Thros* /θɾɔs/ shows a /θɾ-/ onset not found in mainland Vrykul, which prefers simpler onsets before /ɾ/
+- **Second-syllable stress**: *Drustvar* is pronounced "druhst-VAHR" (canon), diverging from Vrykul's typical first-syllable stress. This may reflect a genuine Drust sound change, Common-language reanalysis, or morphological stress attraction by the head *-var*
+- **Gol- prefix**: The /ɡɔl-/ prefix is unique to Drust toponyms. The vowel /ɔ/ followed by /l/ is consistent with Vrykul phonotactics, but the prefix-based toponymic strategy is a structural innovation
+- **Celtic/Norse blend**: Drust names blend Norse phonology (inherited from Vrykul) with Celtic-inspired elements (*Thros*, *Gol-*, *Kivarr*), reflecting the Drust's unique cultural development in Kul Tiras
+
+See [grammar.md](grammar.md#phonology) for full consonant/vowel IPA charts.
+
+## Writing System
+
+The Drust possessed a runic writing system, preserved on the Drust Steles found throughout Drustvar. These standing stones carry carved pictographic or runic symbols depicting Drust history — conflict, nature worship, the Circle, and the Ritual. The script is related to the Vrykul runic tradition but appears to have diverged visually over millennia of isolation. The Thornspeaker druidic tradition likely preserved the oldest form of the script, while the corrupted death-magic register under Gorak Tul may have introduced new symbols for necromantic purposes. None of the Stele inscriptions have been translated; they are described in Common-language quest text rather than rendered in the native script.
 
 ## Dialects and Variants
 

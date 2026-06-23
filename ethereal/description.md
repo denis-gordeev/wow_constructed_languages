@@ -1,5 +1,9 @@
 # Ethereal Language — Overview
 
+## Overview
+
+The Ethereal language is spoken by the ethereals — energy beings from the shattered world of K'aresh — and the brokers, a closely related species from the same homeworld. It is one of the most poorly attested languages in the WoW corpus, with no confirmed phrases, sentences, or translations. The entire linguistic record consists of proper names and place names, supplemented by the potential *-esh* locative suffix appearing in two independent attestations. Despite this extreme paucity of data, the consistent naming patterns and Arabic-inspired aesthetic suggest a deliberately designed phonological system.
+
 ## Speakers
 
 The Ethereal language is spoken by the ethereals — energy beings who were once flesh-and-blood humanoids from the world of K'aresh — and the brokers, a closely related species from the same homeworld. Following the destruction of K'aresh by the Void Lord Dimensius, the surviving ethereals were transformed into beings of pure arcane energy, wrapped in enchanted bandages to maintain their form.
@@ -30,6 +34,23 @@ Key historical events affecting the language:
 - **Ethereal dialect**: The language as spoken by ethereals. Attested through personal names (*Salhadaar*, *Shaffar*, *Haramad*, *Azir*) and the homeworld name *K'aresh*. Names tend to be longer and may reflect a more formal register.
 - **Broker dialect**: The language as spoken by brokers. Attested through personal names (*Ve'nari*) and the city name *Tazavesh*. Names tend to be shorter, possibly reflecting a more streamlined mercantile register.
 - **Shadowguard variant**: Void-corrupted ethereals may use a dialect influenced by Shath'Yar phonology, though no clear evidence of this is attested in the name corpus.
+
+## Phonological Features
+
+The ethereal language's phonology is reconstructed entirely from proper names. Key features include:
+
+- **Sibilant preference**: High frequency of /ʃ/ (sh) and /s/ in ethereal names (*K'aresh*, *Tazavesh*, *Shaffar*), likely reflecting the ethereals' "whispery" energy-being nature or a deliberate Blizzard aesthetic for "shimmering/insubstantial" names
+- **Syllable simplicity**: Ethereal names tend toward simple CV or CVC syllables, without the complex consonant clusters found in nerubian (*Krix'vizk*) or Vrykul. This distinguishes ethereal from other "alien" WoW languages
+- **Arabic-inspired phonology**: Names like *Salhadaar*, *Haramad*, *Ameer*, *Bilaal*, *Razaan*, *Durzaan* reflect deliberate Arabic-inspired naming conventions (confirmed Blizzard design choice), with geminate consonants (*-aa-*, *-zz-*), pharyngeal-adjacent vowels, and a preference for open syllables with /a/
+- **Long vowels**: *Salhadaar* contains *-aa-* (/ɑː/), which may represent a phonologically significant long vowel marking stress, morpheme boundaries, or semantic distinctions
+- **Apostrophe as morpheme boundary**: *K'aresh* and *Ve'nari* use apostrophes to mark morpheme boundaries, but the convention is less consistent than in nerubian or Shath'Yar — many ethereal names lack apostrophes (*Salhadaar*, *Haramad*, *Azir*)
+- **Vowel distribution**: Names favor /a/ and /e/ heavily, with /i/ and /u/ less common. /o/ is rare
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
+
+## Writing System
+
+No ethereal writing system has been depicted in canon. Given that ethereals are energy beings without conventional vocal apparatus, their language may have been primarily oral before the destruction of K'aresh, with any native script lost along with their homeworld. The brokers of Tazavesh maintain extensive trade records, but these are presumably rendered in Common or other widely understood scripts for commercial purposes. The pre-Dimensius form of the language — and any writing system that may have existed — is entirely unattested.
 
 ## Relationship to Other Languages
 
