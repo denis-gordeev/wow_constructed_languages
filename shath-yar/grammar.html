@@ -9,6 +9,7 @@ body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; ma
 h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
 h2 { color: #2e7d32; margin-top: 2em; }
 h3 { color: #388e3c; margin-top: 1.5em; }
+h4 { color: #4caf50; }
 table { border-collapse: collapse; width: 100%; margin: 1em 0; }
 th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
 th { background: #e8f5e9; font-weight: bold; }
@@ -26,9 +27,13 @@ a { color: #2e7d32; }
 <body>
 
 <nav>
-<a href="description.html">Description</a>
-<a href="grammar.html">Grammar</a>
-<a href="vocabulary.html">Vocabulary</a>
+  <a href="description.html">Description</a>
+  <a href="grammar.html">Grammar</a>
+  <a href="vocabulary.html">Vocabulary</a> &mdash;
+  <a href="#phonology">Phonology</a>
+  <a href="#morphology">Morphology</a>
+  <a href="#syntax">Syntax</a>
+  <a href="#limitations">Limitations</a>
 </nav>
 
 <h1>Shath'Yar Grammar</h1>
@@ -86,74 +91,209 @@ a { color: #2e7d32; }
 <li><strong>Uvular stops</strong>: <span class="ipa">/q/</span> appears in multiple roots (<em>Ywaq</em>, <em>maq</em>, <em>N'raqi</em>), a typologically marked feature reinforcing the non-human phonological profile</li>
 
 <li><strong>Non-human vocal anatomy</strong>: Initial clusters (<em>vw-</em>, <em>ss-</em>, <em>fh-</em>) and complex codas (<em>-gth</em>, <em>-ssh</em>) exceed typical human syllable constraints, suggesting tentacular or multi-valved vocal apparatus</li>
+
+<li><strong>Capitalization as prosody</strong>: SHOUTED words in confirmed translations (<em>OOU KAAXTH SHUUL</em> = &ldquo;DIE A THOUSAND DEATHS&rdquo;; <em>PH'MAGG</em> = &ldquo;ENDLESS TORMENT&rdquo;) suggest prosodic emphasis &mdash; Shath'Yar may use volume/intensity marking where English uses intensifiers</li>
 </ol>
 
 <!-- ═══ Morphology ═══ -->
 
 <h2 id="morphology">Morphology</h2>
 
+<h3 id="pronoun-system">Pronoun System (Confirmed)</h3>
+
+<p>The confirmed translations reveal a rich pronoun system:</p>
+
+<table>
+<thead>
+<tr><th>Person</th><th>Nominative</th><th>Accusative</th><th>Possessive</th></tr>
+</thead>
+<tbody>
+<tr><td>1st singular</td><td><em>y'za</em></td><td><em>hoq</em></td><td><em>za</em> <span class="uncertain">(speculative: &ldquo;my&rdquo;)</span></td></tr>
+<tr><td>2nd singular</td><td><em>iilth</em> / <em>ilith</em></td><td>&mdash;</td><td><em>sk-</em> (prefix)</td></tr>
+<tr><td>1st plural</td><td><em>ag</em></td><td>&mdash;</td><td><em>ak</em></td></tr>
+<tr><td>3rd plural</td><td><em>ywaq</em></td><td>&mdash;</td><td>&mdash;</td></tr>
+</tbody>
+</table>
+
+<p>Notes:</p>
+<ul>
+<li><em>iilth</em> and <em>ilith</em> may be the same word with phonological variation, or distinct pronouns (formal vs. informal register?)</li>
+<li><em>sk-</em> is a <strong>possessive prefix</strong> rather than a separate word: <em>sk'magg</em> = &ldquo;your suffering&rdquo;, <em>sk'shgn</em> = &ldquo;your fear&rdquo;, <em>sk'shuul</em> = &ldquo;your deaths&rdquo;, <em>sk'tek</em> = &ldquo;your skulls&rdquo;, <em>sk'uuyat</em> = &ldquo;your agony&rdquo;, <em>sk'yahf</em> = &ldquo;your soul(s)&rdquo;</li>
+<li><em>za</em> appears to mean both &ldquo;place&rdquo; and &ldquo;my&rdquo; &mdash; possibly two homophonous morphemes, or a grammaticalized form</li>
+</ul>
+
+<h3 id="tense-aspect">Tense and Aspect</h3>
+
+<table>
+<thead>
+<tr><th>Marker</th><th>Function</th><th>Evidence</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td><em>qi'</em></td><td>Future tense prefix</td><td><em>qi'uothk</em> = &ldquo;will drown&rdquo;; <em>qi'plahf</em> = &ldquo;will know&rdquo;; <em>qi'magg</em> = &ldquo;will wander&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td><em>gag</em></td><td>Auxiliary &ldquo;will&rdquo;</td><td><em>Gag vwah gag yyqzz</em> = &ldquo;You will all drown&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td><em>maq</em></td><td>Negation</td><td><em>Ywaq maq oou; ywaq maq ssaggh</em> = &ldquo;They do not die; they do not live&rdquo;</td><td><strong>High</strong></td></tr>
+</tbody>
+</table>
+
+<p>The relationship between <em>qi'</em> and <em>gag</em> is unclear:</p>
+<ul>
+<li><em>qi'</em> appears as a prefix on verbs: <em>qi' + uothk</em> = &ldquo;will drown&rdquo;</li>
+<li><em>gag</em> appears as an auxiliary before verbs: <em>gag vwah</em> = &ldquo;will [drown/feel]&rdquo;</li>
+<li>They may mark different aspects (e.g., <em>qi'</em> = simple future, <em>gag</em> = emphatic/volitional future) or different conjugation patterns</li>
+</ul>
+
 <h3 id="apostrophe-as-morpheme-boundary">Apostrophe as Morpheme Boundary</h3>
 
-<p>The apostrophe consistently marks a boundary between two meaningful elements <span class="inferred">(inferred)</span>:</p>
+<p>The apostrophe consistently marks a boundary between two meaningful elements:</p>
 
 <table>
 <thead>
 <tr><th>Word</th><th>Decomposition</th><th>Gloss</th></tr>
 </thead>
 <tbody>
-<tr><td>Shath'Yar</td><td>Shath + Yar</td><td>possibly "old" + "speech/whisper" <span class="uncertain">(uncertain)</span></td></tr>
-<tr><td>Il'gynoth</td><td>Il + gynoth</td><td>possibly "heart" + "corruption" <span class="uncertain">(uncertain)</span></td></tr>
-<tr><td>N'raqi</td><td>N'raq + i</td><td>possibly "faceless" + plural/marker <span class="inferred">(inferred)</span></td></tr>
-<tr><td>K'thir</td><td>K'th + ir</td><td>possibly "servant" + suffix <span class="inferred">(inferred)</span></td></tr>
+<tr><td>Shath'Yar</td><td>Shath + Yar</td><td>&ldquo;old/black&rdquo; + &ldquo;gods&rdquo; (<strong>confirmed</strong>: <em>Shath'mag</em> = &ldquo;Black Empire&rdquo;, <em>Shath'gral</em> = &ldquo;Old Ones&rdquo;)</td></tr>
+<tr><td>Il'gynoth</td><td>Il + gynoth</td><td>possibly &ldquo;heart&rdquo; + &ldquo;corruption&rdquo; <span class="inferred">(inferred)</span></td></tr>
+<tr><td>N'raqi</td><td>N'raq + i</td><td>possibly &ldquo;faceless&rdquo; + plural/marker <span class="inferred">(inferred)</span></td></tr>
+<tr><td>K'thir</td><td>K'th + ir</td><td>possibly &ldquo;servant&rdquo; + suffix <span class="uncertain">(uncertain)</span></td></tr>
 <tr><td>Y'Shaarj</td><td>Y + Shaarj</td><td>decomposition uncertain <span class="uncertain">(uncertain)</span></td></tr>
+<tr><td>Shuul'wah</td><td>Shuul + wah</td><td>&ldquo;death&rdquo; + &ldquo;wing&rdquo; (<strong>confirmed</strong>: = &ldquo;Deathwing&rdquo;)</td></tr>
+<tr><td>Shath'mag</td><td>Shath + mag</td><td>&ldquo;black&rdquo; + unknown (<strong>confirmed</strong>: = &ldquo;Black Empire&rdquo;)</td></tr>
 </tbody>
 </table>
 
-<h3 id="possible-suffix--i">Possible Suffix "-i"</h3>
+<h3 id="possessive-prefix-sk-">Possessive Prefix <em>sk-</em></h3>
+
+<p>The prefix <em>sk-</em> marks 2nd person singular possessive (&ldquo;your&rdquo;), attaching directly to the noun:</p>
+
+<table>
+<thead>
+<tr><th>Form</th><th>Meaning</th><th>Full Phrase</th></tr>
+</thead>
+<tbody>
+<tr><td><em>sk'magg</em></td><td>your suffering</td><td><em>Sk'magg yawifk hoq</em> = &ldquo;Your suffering strengthens me&rdquo;</td></tr>
+<tr><td><em>sk'shgn</em></td><td>your fear</td><td><em>Sk'shgn eqnizz hoq</em> = &ldquo;Your fear drives me&rdquo;</td></tr>
+<tr><td><em>sk'shuul</em></td><td>your deaths</td><td><em>Sk'shuul agth vorzz</em> = &ldquo;Your deaths shall sing&rdquo;</td></tr>
+<tr><td><em>sk'tek</em></td><td>your skulls</td><td><em>Sk'tek agth nuq N'Zoth yyqzz</em> = &ldquo;Your skulls shall adorn N'Zoth's throne&rdquo;</td></tr>
+<tr><td><em>sk'uuyat</em></td><td>your agony</td><td><em>Sk'uuyat guulphg hoq</em> = &ldquo;Your agony sustains me&rdquo;</td></tr>
+<tr><td><em>sk'yahf</em></td><td>your soul(s)</td><td><em>Sk'yahf agth huqth</em> = &ldquo;Your souls shall sate&rdquo;</td></tr>
+</tbody>
+</table>
+
+<h3 id="compound-names">Compound Names</h3>
+
+<table>
+<thead>
+<tr><th>Name</th><th>Decomposition</th><th>Meaning</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Shuul'wah</em></td><td><em>shuul</em> (&ldquo;death&rdquo;) + <em>wah</em> (&ldquo;wing&rdquo;)</td><td>Deathwing</td></tr>
+<tr><td><em>Shath'mag</em></td><td><em>shath</em> (&ldquo;black&rdquo;) + <em>-mag</em> (unknown)</td><td>Black Empire</td></tr>
+<tr><td><em>Shath'gral</em></td><td><em>shath</em> (&ldquo;old&rdquo;) + <em>-gral</em> (unknown)</td><td>Old Ones</td></tr>
+<tr><td><em>Shath'Yar</em></td><td><em>shath</em> (&ldquo;old/black&rdquo;) + <em>yar</em> (&ldquo;gods&rdquo;)</td><td>Old Gods</td></tr>
+</tbody>
+</table>
+
+<h3 id="possible-suffix--i">Possible Suffix &ldquo;-i&rdquo;</h3>
 <ul>
 <li>Appears in N'raqi and Aqir (with r &rarr; i alternation) <span class="inferred">(inferred)</span></li>
 <li>May mark a plural or a people/noun-of-agency suffix <span class="uncertain">(uncertain)</span></li>
-<li>Pattern parallels Darnassian "-i" in some elven naming, but no relationship is implied</li>
+<li>Pattern parallels Darnassian &ldquo;-i&rdquo; in some elven naming, but no relationship is implied</li>
 </ul>
 
-<h3 id="possible-suffix--oth">Possible Suffix "-oth"</h3>
+<h3 id="possible-suffix--oth">Possible Suffix &ldquo;-oth&rdquo;</h3>
 <ul>
 <li>Appears in N'Zoth, Il'gynoth</li>
 <li>May be a divine or name-forming suffix <span class="uncertain">(uncertain)</span></li>
 <li>Could also be coincidental</li>
 </ul>
 
-<h3 id="possible-prefix-n-">Possible Prefix "N'-"</h3>
+<h3 id="possible-prefix-n-">Possible Prefix &ldquo;N'-&rdquo;</h3>
 <ul>
 <li>Appears in N'Zoth, N'raqi</li>
 <li>May denote negation, absence, or otherness <span class="inferred">(inferred)</span></li>
-<li>"N'raqi" as "the faceless ones" could support negation <span class="uncertain">(uncertain)</span></li>
+<li>&ldquo;N'raqi&rdquo; as &ldquo;the faceless ones&rdquo; could support negation <span class="uncertain">(uncertain)</span></li>
 </ul>
 
 <h3 id="reduplication">Reduplication</h3>
 <ul>
-<li>"Ywaq maq ywaq" shows repetition of "ywaq" <span class="inferred">(inferred)</span></li>
-<li>May indicate emphasis, plurality, or intensification <span class="uncertain">(uncertain)</span></li>
-<li>Too few examples to confirm</li>
+<li><em>aqev... aqev... aqev...</em> = &ldquo;mad... mad... mad...&rdquo; &mdash; repetition for emphasis</li>
+<li><em>Shur'nab... shur'nab...</em> &mdash; repetition in Faceless Lurker speech</li>
+<li><em>Vormos! Vormos! Vormos!</em> &mdash; repetition for emphasis</li>
 </ul>
 
 <!-- ═══ Syntax ═══ -->
 
 <h2 id="syntax">Syntax</h2>
+
+<p>The confirmed translations now provide enough data for preliminary syntactic analysis. Shath'Yar word order is <strong>remarkably different from English</strong> &mdash; the wiki notes that &ldquo;the grammar of Shath'Yar appears to be quite different from English, especially when it comes to articles (more specifically, the lack thereof) and auxiliary verbs, so that a word-for-word translation would result in what appears to be broken English.&rdquo;</p>
+
+<h3>Word Order</h3>
+
+<p>Shath'Yar appears to use <strong>predominantly SOV or VSO</strong> order, with significant flexibility:</p>
+
+<ol>
+<li><strong>VSO pattern</strong>: <em>Sk'shuul agth vorzz N'Zoth naggwa'fssh</em> = &ldquo;Your deaths shall sing of N'Zoth's unending glory&rdquo; (Subject <em>Sk'shuul</em> + Auxiliary <em>agth</em> + Verb <em>vorzz</em> + Object)</li>
+<li><strong>Possessor-Possessed</strong>: <em>N'Zoth yyqzz</em> = &ldquo;N'Zoth's throne&rdquo; (Possessor + Possessed noun)</li>
+<li><strong>Modifier-Noun</strong>: <em>Shath'Yar</em> = &ldquo;Old Gods&rdquo; (Adjective <em>Shath</em> + Noun <em>Yar</em>)</li>
+<li><strong>Preposition + Noun</strong>: <em>Thoq fssh N'Zoth</em> = &ldquo;For the glory of N'Zoth&rdquo; (<em>thoq</em> = &ldquo;for&rdquo;)</li>
+</ol>
+
+<h3>No Articles</h3>
+
+<p>Shath'Yar lacks articles (no equivalent of &ldquo;the&rdquo; or &ldquo;a/an&rdquo;). Confirmed translations consistently omit articles:</p>
 <ul>
-<li>No sentence structure can be reliably determined</li>
-<li>The attested phrases (<span class="ipa">Ywaq maq oou</span>, <span class="ipa">Iilth vwah</span>, <span class="ipa">uhn'agth fhssh za</span>) suggest SOV or VSO is possible but entirely speculative</li>
-<li>The phrases appear to be multi-word utterances, suggesting Shath'Yar is not purely isolate-naming</li>
-<li>Word order cannot be confirmed</li>
+<li><em>Ywaq maq oou</em> = &ldquo;They do not die&rdquo; (no article before &ldquo;die&rdquo;)</li>
+<li><em>Uulwi ifis halahs</em> = &ldquo;The shadow of my corpse&rdquo; (English adds &ldquo;the&rdquo;; Shath'Yar has none)</li>
+<li><em>H'iwn iggksh Phquathi</em> = &ldquo;All who oppose the Destroyer&rdquo; (no article before &ldquo;Destroyer&rdquo;)</li>
 </ul>
+
+<h3>Negation</h3>
+
+<p>Negation uses <em>maq</em> before the verb:</p>
+<ul>
+<li><em>Ywaq maq oou</em> = &ldquo;They do not die&rdquo;</li>
+<li><em>Ywaq maq ssaggh</em> = &ldquo;They do not live&rdquo;</li>
+<li><em>Y'za noq mah</em> = &ldquo;I am not the first&rdquo; (note: <em>noq</em> rather than <em>maq</em> &mdash; possible alloform or different negation word)</li>
+</ul>
+
+<h3>Copula</h3>
+
+<p>The copula <em>ma</em> = &ldquo;is/are&rdquo; appears to be optional or used in specific constructions:</p>
+<ul>
+<li><em>Ywaq ma phgwa'cul hnakf</em> = &ldquo;They are the whisper on the shivering wind&rdquo;</li>
+<li><em>Ywaq ma shg'fhn</em> = &ldquo;They are outside the cycle&rdquo;</li>
+<li><em>Iilth ma paf'qi'ag sk'halahs</em> = &ldquo;You are a prisoner in your own body&rdquo;</li>
+</ul>
+
+<h3>Prepositions</h3>
+
+<table>
+<thead>
+<tr><th>Preposition</th><th>Meaning</th><th>Example</th></tr>
+</thead>
+<tbody>
+<tr><td><em>thoq</em></td><td>for</td><td><em>Thoq fssh N'Zoth</em> = &ldquo;For the glory of N'Zoth&rdquo;</td></tr>
+<tr><td><em>an-</em></td><td>into</td><td><em>an'shel</em> = &ldquo;into the void&rdquo;; <em>an'qov</em> = &ldquo;into the heart&rdquo;</td></tr>
+<tr><td><em>mh'</em></td><td>only</td><td><em>Mh'za uulwi skshgn kar</em> = &ldquo;Only a place where even shadows fear to go&rdquo;</td></tr>
+<tr><td><em>ez</em></td><td>O (vocative)</td><td><em>Ez, Shuul'wah</em> = &ldquo;O, Deathwing&rdquo;</td></tr>
+<tr><td><em>ni</em></td><td>and (?)</td><td><em>I wgah far'al zuq ni shn</em> = &ldquo;I will reduce you to ash&rdquo;</td></tr>
+</tbody>
+</table>
 
 <!-- ═══ Limitations ═══ -->
 
 <h2 id="limitations">Limitations</h2>
 
-<div class="note">
-Shath'Yar grammar is almost entirely unreconstructed. The attested material consists of proper names and a few opaque phrases whose translations are unknown. The language is intentionally designed to feel alien and maddening, which may mean Blizzard designed it without a coherent underlying grammar.
-</div>
+<p>Shath'Yar grammar remains largely unreconstructed despite the significant expansion of confirmed phrases. Key limitations:</p>
+
+<ol>
+<li><strong>No confirmed grammar rules</strong>: Blizzard has never published a Shath'Yar grammar. All morphological and syntactic analyses are inferred from the confirmed translations.</li>
+<li><strong>Translation imprecision</strong>: The English translations are often idiomatic rather than literal, making it difficult to map Shath'Yar morphemes to English words with precision.</li>
+<li><strong>Word order uncertainty</strong>: While SOV and VSO patterns are both suggested, the corpus is too small and too variable to confirm a dominant word order.</li>
+<li><strong>Homophony</strong>: Several Shath'Yar words appear to have multiple meanings (e.g., <em>za</em> = &ldquo;place&rdquo; and &ldquo;my&rdquo;; <em>ma</em> = &ldquo;is/are&rdquo; and &ldquo;millennia&rdquo;), suggesting either homophony or insufficient data to distinguish meanings.</li>
+<li><strong>Design origin</strong>: The language was likely designed for aesthetic effect (alien, maddening, Lovecraftian) rather than as a functional constructed language. Blizzard may not have intended a coherent underlying grammar.</li>
+<li><strong>Parser words are not genuine</strong>: The in-game language parser generates Shath'Yar-looking words from English input, but these do not use a genuine Shath'Yar dictionary.</li>
+</ol>
 
 </body>
 </html>

@@ -33,18 +33,72 @@
 6. **Interdental prevalence**: /θ/ appears in over half of attested forms (C'Thun, K'thir, Shath, Il'gynoth, Ssra'thik, Iilth, uhn'agth), a hallmark of the language's whispered quality
 7. **Uvular stops**: /q/ appears in multiple roots (Ywaq, maq, N'raqi), a typologically marked feature reinforcing the non-human phonological profile
 8. **Non-human vocal anatomy**: Initial clusters (vw-, ss-, fh-) and complex codas (-gth, -ssh) exceed typical human syllable constraints, suggesting tentacular or multi-valved vocal apparatus
+9. **Capitalization as prosody**: SHOUTED words in confirmed translations (OOU KAAXTH SHUUL = "DIE A THOUSAND DEATHS"; PH'MAGG = "ENDLESS TORMENT") suggest prosodic emphasis — Shath'Yar may use volume/intensity marking where English uses intensifiers
 
 ## Morphology
 
+### Pronoun System (Confirmed)
+
+The confirmed translations reveal a rich pronoun system:
+
+| Person | Nominative | Accusative | Possessive |
+|--------|-----------|-----------|------------|
+| 1st singular | *y'za* | *hoq* | *za* (speculative: "my") |
+| 2nd singular | *iilth* / *ilith* | — | *sk-* (prefix) |
+| 1st plural | *ag* | — | *ak* |
+| 3rd plural | *ywaq* | — | — |
+
+Notes:
+- *iilth* and *ilith* may be the same word with phonological variation, or distinct pronouns (formal vs. informal register?)
+- *sk-* is a **possessive prefix** rather than a separate word: *sk'magg* = "your suffering", *sk'shgn* = "your fear", *sk'shuul* = "your deaths", *sk'tek* = "your skulls", *sk'uuyat* = "your agony", *sk'yahf* = "your soul(s)"
+- *za* appears to mean both "place" and "my" — possibly two homophonous morphemes, or a grammaticalized form
+
+### Tense and Aspect
+
+| Marker | Function | Evidence | Confidence |
+|--------|----------|----------|------------|
+| *qi'* | Future tense prefix | *qi'uothk* = "will drown"; *qi'plahf* = "will know"; *qi'magg* = "will wander" | **High** |
+| *gag* | Auxiliary "will" | *Gag vwah gag yyqzz* = "You will all drown" | **Moderate** |
+| *maq* | Negation | *Ywaq maq oou; ywaq maq ssaggh* = "They do not die; they do not live" | **High** |
+
+The relationship between *qi'* and *gag* is unclear:
+- *qi'* appears as a prefix on verbs: *qi' + uothk* = "will drown"
+- *gag* appears as an auxiliary before verbs: *gag vwah* = "will [drown/feel]"
+- They may mark different aspects (e.g., *qi'* = simple future, *gag* = emphatic/volitional future) or different conjugation patterns
+
 ### Apostrophe as Morpheme Boundary
 
-The apostrophe consistently marks a boundary between two meaningful elements (inferred):
+The apostrophe consistently marks a boundary between two meaningful elements:
 
-- **Shath'Yar** = Shath + Yar → possibly "old" + "speech/whisper" (uncertain)
-- **Il'gynoth** = Il + gynoth → possibly "heart" + "corruption" (uncertain)
+- **Shath'Yar** = Shath + Yar → "old/black" + "gods" (**confirmed**: *Shath'mag* = "Black Empire", *Shath'gral* = "Old Ones")
+- **Il'gynoth** = Il + gynoth → possibly "heart" + "corruption" (inferred)
 - **N'raqi** = N'raq + i → possibly "faceless" + plural/marker (inferred)
 - **K'thir** = K'th + ir → possibly "servant" + suffix (uncertain)
 - **Y'Shaarj** = Y + Shaarj → decomposition uncertain
+- **Shuul'wah** = Shuul + wah → "death" + "wing" (**confirmed**: = "Deathwing")
+- **Shath'mag** = Shath + mag → "black" + unknown (**confirmed**: = "Black Empire")
+
+### Possessive Prefix *sk-*
+
+The prefix *sk-* marks 2nd person singular possessive ("your"), attaching directly to the noun:
+
+| Form | Meaning | Full Phrase |
+|------|---------|-------------|
+| *sk'magg* | your suffering | *Sk'magg yawifk hoq* = "Your suffering strengthens me" |
+| *sk'shgn* | your fear | *Sk'shgn eqnizz hoq* = "Your fear drives me" |
+| *sk'shuul* | your deaths | *Sk'shuul agth vorzz* = "Your deaths shall sing" |
+| *sk'tek* | your skulls | *Sk'tek agth nuq N'Zoth yyqzz* = "Your skulls shall adorn N'Zoth's throne" |
+| *sk'uuyat* | your agony | *Sk'uuyat guulphg hoq* = "Your agony sustains me" |
+| *sk'yahf* | your soul(s) | *Sk'yahf agth huqth* = "Your souls shall sate" |
+
+### Compound Names
+
+| Name | Decomposition | Meaning |
+|------|--------------|---------|
+| *Shuul'wah* | *shuul* ("death") + *wah* ("wing") | Deathwing |
+| *Shath'mag* | *shath* ("black") + *-mag* (unknown) | Black Empire |
+| *Shath'gral* | *shath* ("old") + *-gral* (unknown) | Old Ones |
+| *Shath'Yar* | *shath* ("old/black") + *yar* ("gods") | Old Gods |
 
 ### Possible Suffix "-i"
 
@@ -66,17 +120,61 @@ The apostrophe consistently marks a boundary between two meaningful elements (in
 
 ### Reduplication
 
-- "Ywaq maq ywaq" shows repetition of "ywaq" (inferred)
-- May indicate emphasis, plurality, or intensification (uncertain)
-- Too few examples to confirm
+- *aqev... aqev... aqev...* = "mad... mad... mad..." — repetition for emphasis
+- *Shur'nab... shur'nab...* — repetition in Faceless Lurker speech
+- *Vormos! Vormos! Vormos!* — repetition for emphasis
 
 ## Syntax
 
-- No sentence structure can be reliably determined
-- The attested phrases (Ywaq maq oou, Iilth vwah, uhn'agth fhssh za) suggest SOV or VSO is possible but entirely speculative
-- The phrases appear to be multi-word utterances, suggesting Shath'Yar is not purely isolate-naming
-- Word order cannot be confirmed
+The confirmed translations now provide enough data for preliminary syntactic analysis. Shath'Yar word order is **remarkably different from English** — the wiki notes that "the grammar of Shath'Yar appears to be quite different from English, especially when it comes to articles (more specifically, the lack thereof) and auxiliary verbs, so that a word-for-word translation would result in what appears to be broken English."
+
+### Word Order
+
+Shath'Yar appears to use **predominantly SOV or VSO** order, with significant flexibility:
+
+1. **VSO pattern**: *Sk'shuul agth vorzz N'Zoth naggwa'fssh* = "Your deaths shall sing of N'Zoth's unending glory" (Subject *Sk'shuul* + Auxiliary *agth* + Verb *vorzz* + Object)
+2. **Possessor-Possessed**: *N'Zoth yyqzz* = "N'Zoth's throne" (Possessor + Possessed noun)
+3. **Modifier-Noun**: *Shath'Yar* = "Old Gods" (Adjective *Shath* + Noun *Yar*)
+4. **Preposition + Noun**: *Thoq fssh N'Zoth* = "For the glory of N'Zoth" (*thoq* = "for")
+
+### No Articles
+
+Shath'Yar lacks articles (no equivalent of "the" or "a/an"). Confirmed translations consistently omit articles:
+- *Ywaq maq oou* = "They do not die" (no article before "die")
+- *Uulwi ifis halahs* = "The shadow of my corpse" (English adds "the"; Shath'Yar has none)
+- *H'iwn iggksh Phquathi* = "All who oppose the Destroyer" (no article before "Destroyer")
+
+### Negation
+
+Negation uses *maq* before the verb:
+- *Ywaq maq oou* = "They do not die"
+- *Ywaq maq ssaggh* = "They do not live"
+- *Y'za noq mah* = "I am not the first" (note: *noq* rather than *maq* — possible alloform or different negation word)
+
+### Copula
+
+The copula *ma* = "is/are" appears to be optional or used in specific constructions:
+- *Ywaq ma phgwa'cul hnakf* = "They are the whisper on the shivering wind"
+- *Ywaq ma shg'fhn* = "They are outside the cycle"
+- *Iilth ma paf'qi'ag sk'halahs* = "You are a prisoner in your own body"
+
+### Prepositions
+
+| Preposition | Meaning | Example |
+|-------------|---------|---------|
+| *thoq* | for | *Thoq fssh N'Zoth* = "For the glory of N'Zoth" |
+| *an-* | into | *an'shel* = "into the void"; *an'qov* = "into the heart" |
+| *mh'* | only | *Mh'za uulwi skshgn kar* = "Only a place where even shadows fear to go" |
+| *ez* | O (vocative) | *Ez, Shuul'wah* = "O, Deathwing" |
+| *ni* | and (?) | *I wgah far'al zuq ni shn* = "I will reduce you to ash" |
 
 ## Limitations
 
-Shath'Yar grammar is almost entirely unreconstructed. The attested material consists of proper names and a few opaque phrases whose translations are unknown. The language is intentionally designed to feel alien and maddening, which may mean Blizzard designed it without a coherent underlying grammar.
+Shath'Yar grammar remains largely unreconstructed despite the significant expansion of confirmed phrases. Key limitations:
+
+1. **No confirmed grammar rules**: Blizzard has never published a Shath'Yar grammar. All morphological and syntactic analyses are inferred from the confirmed translations.
+2. **Translation imprecision**: The English translations are often idiomatic rather than literal, making it difficult to map Shath'Yar morphemes to English words with precision.
+3. **Word order uncertainty**: While SOV and VSO patterns are both suggested, the corpus is too small and too variable to confirm a dominant word order.
+4. **Homophony**: Several Shath'Yar words appear to have multiple meanings (e.g., *za* = "place" and "my"; *ma* = "is/are" and "millennia"), suggesting either homophony or insufficient data to distinguish meanings.
+5. **Design origin**: The language was likely designed for aesthetic effect (alien, maddening, Lovecraftian) rather than as a functional constructed language. Blizzard may not have intended a coherent underlying grammar.
+6. **Parser words are not genuine**: The in-game language parser generates Shath'Yar-looking words from English input, but these do not use a genuine Shath'Yar dictionary.

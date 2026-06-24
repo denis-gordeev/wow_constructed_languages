@@ -70,11 +70,43 @@
 - [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data — **NOT YET AVAILABLE**: Patch 12.1.5 scheduled for Autumn 2026; no PTR data yet
+- [ ] Investigate Shath'Yar *ma* dual meaning: "is/are" vs. "millennia" — likely two homophonous morphemes but requires more data to confirm
+- [ ] Investigate Shath'Yar *za* dual meaning: "place" vs. "my" — likely two homophonous morphemes but requires more data to confirm
+- [ ] Investigate *iilth* vs *ilith* — two forms for "you" in Shath'Yar; possibly register variation, allophonic alternation, or distinct pronouns
 
 ## Next Actions
 
 - [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
 - [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
+- [ ] Sync Shath'Yar HTML files (vocabulary.html, grammar.html, description.html) with updated .md counterparts — major expansion with 55+ confirmed phrases, speculative dictionary, updated morphology/syntax
+- [ ] Sync ethereal HTML files with updated vocabulary.md — Zo'- prefix, Sufaad/Sufaadi, cuneiform, new names/places, Tabiqa
+- [ ] Sync Zandali HTML files with updated vocabulary.md — "X no Y" loa pattern, Vol' prefix, cultural notes, patch 12.0.5 retcon
+
+## Completed This Round (2026-06-24, Round 2)
+
+- [x] Massive Shath'Yar expansion: added 55+ confirmed translated phrases from warcraft.wiki.gg/wiki/Shath'Yar with official Blizzard translations (previously had only 3 untranslated phrases and 0 confirmed translations)
+- [x] Add Shath'Yar confirmed single-word translations: *An'qoth* = "Vessel" (first confirmed single-word translation), *Yu'gaz* = "Fluffy"
+- [x] Add Shath'Yar confirmed pronoun system: *y'za* = "I", *hoq* = "me", *iilth* = "you", *ywaq* = "they", *ag* = "we", *ak* = "our"
+- [x] Add Shath'Yar confirmed grammatical markers: *sk-* = "your" (possessive prefix, 6 attestations), *qi'* = future tense prefix (3+ attestations), *maq* = "not" (negation)
+- [x] Add Shath'Yar speculative dictionary from wiki cross-referencing (60+ entries, clearly marked as speculative)
+- [x] Add Shath'Yar untranslated phrases (20+ phrases from cultists, artifacts, quest text)
+- [x] Add Shath'Yar in-game parser word list (organized by word length)
+- [x] Add Shath'Yar Midnight Deep Watcher phrases (2 new confirmed phrases)
+- [x] Update Shath'Yar grammar.md: pronoun system, tense/aspect markers, *sk-* possessive prefix, syntax analysis from confirmed phrases, SOV/VSO observations, negation, copula, prepositions
+- [x] Update Shath'Yar description.md: overview section, expanded attestation summary (0→55+ confirmed phrases), writing system, expanded morphology table, R'lyehian inspiration note, Tortollan recognition
+- [x] Add Shath'Yar R'lyehian inspiration notes: confirmed by wiki; C'Thun named after Cthulhu; shared features (consonant clusters, apostrophes, non-English grammar)
+- [x] Add ethereal *Zo'-* prefix analysis: 3 independent attestations (*Zo'Shuul*, *Zo'ardaz*, *Zo'ya*); Moderate confidence for genuine morpheme
+- [x] Add ethereal K'aresh city-states: *Gastalt*, *Dervashna*, *Tingarla*, *Sufaad* (with *Sufaadi* demonym)
+- [x] Update ethereal *-i* suffix confidence: upgraded from Low–Moderate to **Moderate** (*K'areshi*, *Sufaadi*, *Reshii* — three independent attestations)
+- [x] Add ethereal cuneiform writing system: confirmed by K'areshi wiki page
+- [x] Add ethereal potential vocabulary word: *Tabiqa* (ritual for communing with Worldsoul)
+- [x] Add ethereal new personal names: *So'zer*, *Tezra*, *Ba'kril*, *Heka'tamos*, *Malek'ta*, *Sha'ryth*, *Zo'ya*, *Gaz'kreth*, *Sthaarbs*, *Etries*, *Krysson*, *Vorasius*, *Zo'ardaz*
+- [x] Add ethereal new place names: *Nexus-Point Mid'Ar*, *Overlook Zo'Shuul*, *Shan'dorah*, *Reshanor*, *Hosaas' Rest*
+- [x] Add ethereal *Manussa* civilization: etymological link to *Ma'nussa* city name
+- [x] Add Zandali "X no Y" loa naming pattern: *Elortha no Shadra*, *Eraka no Kimbul*, *Ueetay no Mueh'zala* (3 attestations of *no* particle)
+- [x] Add Zandali "Vol" prefix names: *Vol'guk*, *General Vol'tar* (3 attestations of *Vol* prefix including *Vol'jin*)
+- [x] Add Zandali cultural notes: Hakkari "old tongue", Stranglethorn accent, Darkspear aggression toward learners, Metzen quote on Taz'dingo
+- [x] Document Zandali patch 12.0.5 retcon: Yayo'jin wife reference and Jintha hero reference removed; affects *Jintha'Alor* etymology
 
 ## Completed This Round (2026-06-24)
 

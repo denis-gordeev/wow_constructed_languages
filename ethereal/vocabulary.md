@@ -135,19 +135,70 @@ The Domanaar title **Imperator** (Latin for "commander/emperor") replaces the et
 | Zarhaal | /zɑːrˈhɑːl/ | Ethereal who sought power from N'Zoth | *-haal* ending. BfA era. |
 | Nari | /ˈnɑːri/ | K'areshi who helped destroy K'aresh | Short name; pre-TBC lore. Worked with Locus-Walker against Dimensius. |
 
+### Midnight Expansion: K'aresh Zone (2026)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Arcana-Monger So'zer | — | K'aresh NPC | Apostrophe-marked compound: *So'* + *-zer*. New ethereal name |
+| Phase-Thief Tezra | — | K'aresh NPC | No apostrophe; short personal name |
+| Ba'kril | — | K'aresh entity (Ba'kril's Iniquities in Tazavesh) | Apostrophe-marked: *Ba'* + *-kril*. New ethereal place or personal name |
+| Heka'tamos | — | Rare NPC on K'aresh | Apostrophe-marked: *Heka'* + *-tamos*. The *Heka-* element may relate to Egyptian *heka* (magic) |
+| Malek'ta | — | Rare NPC on K'aresh | Apostrophe-marked: *Malek'* + *-ta*. Arabic-style first element (*Malik* = "king") |
+| Sha'ryth | — | Rare NPC ("the Cursed") | Apostrophe-marked: *Sha'* + *-ryth*. New ethereal name |
+| Zo'ya | — | Pet NPC on K'aresh | Apostrophe-marked: *Zo'* + *-ya*. **Third attestation of Zo'- prefix** — see Zo'- prefix analysis below |
+| Looker Gaz'kreth Jr. | — | NPC on K'aresh | Apostrophe-marked: *Gaz'* + *-kreth*. "Looker" is a Common title |
+| Sthaarbs | — | Rare NPC on K'aresh | Unusual name; no apostrophe. Possibly ethereal |
+| Etries | — | K'aresh architect | Leader of the Architects societal aspect. Short name, no apostrophe. Pre-transformation K'areshi name |
+| Krysson | — | Locus-Walker's lover | Described in the Doom of K'aresh. Pre-transformation K'areshi name. Notably non-Arabic phonology — possibly a native K'areshi name predating the Arabic-influenced ethereal naming convention |
+| Vorasius | /vɔːˈreɪsiəs/ | Domanaar boss (Voidspire) | Latin-style name; *Vor-* + *-asius* (cf. Latin *vorax* = "devouring"). New Domanaar boss |
+| Constable Zo'ardaz | — | NPC in Tazavesh (gives Warrants) | Apostrophe-marked: *Zo'* + *-ardaz*. **Second attestation of Zo'- prefix** — see analysis below |
+
+### The *Zo'-* Prefix (3 Attestations)
+
+Three independent names share the *Zo'-* prefix, suggesting a genuine ethereal morpheme:
+
+| Name | Decomposition | Context |
+|------|--------------|---------|
+| *Zo'Shuul* | *Zo'* + *-Shuul* | Overlook on K'aresh (Midnight) |
+| *Zo'ardaz* | *Zo'* + *-ardaz* | Constable in Tazavesh |
+| *Zo'ya* | *Zo'* + *-ya* | Pet on K'aresh |
+
+The *Zo'-* prefix appears in both place names (*Zo'Shuul*) and personal names (*Zo'ardaz*, *Zo'ya*). Possible meanings include a demonstrative element ("this"), a title prefix, or a locative/directional marker. The functional range (places + persons + pets) is broad, making a single semantic gloss difficult.
+
+**Confidence: Moderate** that *Zo'-* is a genuine ethereal morpheme (3 independent attestations across different name types). **Confidence: Very Low** on its specific meaning.
+
 ## 2. Proper Names (Places)
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
 | K'aresh | /kəˈrɛʃ/ | *K'* + *-aresh* | The ethereal homeworld, destroyed by Dimensius. Apostrophe marks morpheme boundary. *-aresh* may mean "world" or "home." The initial *K'* element is uncertain — it could be a prefix, a definite article, or part of the root. |
 | Tazavesh | /tɑːˈzɑːvɛʃ/ | Uncertain | The broker capital. Previously located in the Shadowlands (9.1 patch); relocated to K'aresh in TWW. No clear morpheme decomposition. Shares *-esh* ending with *K'aresh*. |
-| Ma'nussa | /mɑːˈnʊsə/ | *Ma'* + *-nussa* | City on K'aresh, ruled by Nexus-Princess Ky'veza. Apostrophe-marked compound. The *-nussa* element is new. |
+| Ma'nussa | /mɑːˈnʊsə/ | *Ma'* + *-nussa* | City on K'aresh, ruled by Nexus-Princess Ky'veza. Apostrophe-marked compound. The *-nussa* element is new. The **Manussa civilization** was a historical period in K'areshi culture that preceded the creation of multi-state economies — suggesting the city gave its name to the era |
 | Eco-Dome Al'dani | /ælˈdɑːni/ | *Al'* + *-dani* | Preserved fragment of K'aresh, built atop a sacred site of ancient K'aresh. Apostrophe-marked compound: *Al'* + *-dani*. The *-dani* element is new. Ghosts of K'aresh patch. |
 | Manaforge Omega | — | Common + Greek | "Manaforge" is a Common compound; "Omega" is Greek. Not ethereal-language. A colossal Shadowguard facility in K'aresh. |
 | Hara'samid Sector | /ˈhærəˌsæmɪd/ | *Hara'* + *-samid* | Region in the Great Dark Beyond / Twisting Nether. Apostrophe-marked. The *Hara-* element may relate to *Haramad*. |
 | Heraazi | /hɛˈrɑːzi/ | Uncertain | Region in the Great Dark Beyond / Twisting Nether. No apostrophe. Arabic-style name. |
 | Sodaraami | /soʊˈdɑːrɑːmi/ | Uncertain | Region in the Great Dark Beyond / Twisting Nether. No apostrophe. Long name. |
 | Xarodi Sector | /ˈzɑːroʊdi/ | Uncertain | Region in the Great Dark Beyond / Twisting Nether. No apostrophe. |
+
+### K'aresh City-States
+
+| Name | IPA | Analysis | Notes |
+|------|-----|----------|-------|
+| Gastalt | — | Uncertain | City-state on K'aresh. No apostrophe; phonologically unlike other ethereal names (Germanic feel). May reflect a non-Arabic K'areshi naming tradition |
+| Dervashna | — | Uncertain | City-state on K'aresh. No apostrophe; long name, possible Slavic/Indic phonological influence — unusual for ethereal naming |
+| Tingarla | — | Uncertain | City-state on K'aresh. No apostrophe; unknown phonological parallel |
+| Sufaad | — | Uncertain | City-state on K'aresh. No apostrophe; Arabic-style name (*ṣufād*?). The inhabitants are called **Sufaadi** — **second independent attestation of *-i* demonym suffix** (after *K'areshi*), upgrading its confidence |
+
+### Midnight Expansion: Additional Place Names
+
+| Name | IPA | Analysis | Notes |
+|------|-----|----------|-------|
+| Nexus-Point Mid'Ar | — | *Mid'* + *-Ar* | Location in the Voidstorm where Alleria, Lothraxion, Arator, and Decimus went to free T'era. Apostrophe-marked compound. The *-Ar* element is new |
+| Overlook Zo'Shuul | — | *Zo'* + *-Shuul* | Named location on K'aresh. Apostrophe-marked. **First attestation of *Zo'-* prefix** |
+| Shan'dorah | — | *Shan'* + *-dorah* | Trust base location on K'aresh. Apostrophe-marked compound |
+| Reshanor | — | Uncertain | Possibly a subzone on K'aresh. Referenced in a hotfix |
+| Hosaas' Rest | — | *Hosaas* + *'s* (Common possessive) | Named location on K'aresh. "Rest" is Common; *Hosaas* may be an ethereal personal name |
 
 ## 3. Attested Phrases
 
@@ -169,7 +220,7 @@ This parallels the nerubian and qiraji situations — species with no attested c
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
-| -ii | Possibly plural suffix | *Reshii* | **Low–Moderate** — single attestation, but Wikipedia confirms *Reshii Ribbons* are a plural set (multiple artifacts, each held by a different Ravel member) |
+| -i / -ii | Demonym / adjectival suffix / plural | *K'areshi* (demonym), *Sufaadi* (demonym), *Reshii* (plural) | **Moderate** — three independent attestations: *K'aresh* → *K'areshi* (inhabitant), *Sufaad* → *Sufaadi* (inhabitant), *Resh* + *-ii* (plural). The *-i* demonym suffix now has **two independent attestations** (*K'areshi*, *Sufaadi*), upgrading from Low–Moderate to Moderate |
 | -mad / -aad | Possibly a title or rank suffix | *Haramad*, *Salhadaar* | **Very Low** — phonological similarity in *-mad* (Haramad) and *-daar* (Salhadaar) may be coincidental |
 | -ff- gemination | Possibly morphologically significant | *Shaffar* | **Very Low** — single attestation; the doubled /f/ may reflect an ethereal phonological process |
 | Az- | Uncertain (coincidental with nerubian *Azj-*?) | *Azir* | **Very Low** — may reflect Blizzard's consistent aesthetic for "alien" names, not a genuine shared morpheme with nerubian |
@@ -433,7 +484,15 @@ This is entirely hypothetical. The relationship between ethereal and broker spee
 
 Ethereals and brokers are known to have writing systems. In TBC, ethereal script appears on various objects in Netherstorm and Mana-Tombs. In Shadowlands, broker writing is visible in Tazavesh. The scripts appear to be glyphic or arcane in nature, consistent with the ethereals' energy-based physiology.
 
+The K'areshi wiki page confirms that **K'areshi used cuneiform writing** — a wedge-shaped script impressed into clay tablets. This is significant because cuneiform is one of the oldest writing systems in human history (originating in Sumer, ~3400 BCE), and its use on K'aresh suggests an ancient, well-developed literary tradition predating the ethereal transformation. The cuneiform writing system may have been used by the pre-Dimensius K'areshi civilization for record-keeping, religious texts (Oracles), and magical formulae.
+
 No ethereal or broker hieroglyphs or texts have been translated in canon.
+
+### Potential K'areshi Vocabulary Word
+
+| Word | IPA | Context | Notes |
+|------|-----|---------|-------|
+| Tabiqa | — | Ritual through which Oracles communed with K'aresh's Worldsoul | Also a **Tabiqa Dagger** ritual implement. *Tabiqa* has no obvious Common-language etymology and may be a genuine K'areshi vocabulary word. **Confidence: Low–Moderate** — single attestation, but the lack of Common-language etymology and the ritual context suggest it may preserve a genuine K'areshi word |
 
 ## 14. Investigation: *Reshii* and the *-esh* / *-resh* Root
 

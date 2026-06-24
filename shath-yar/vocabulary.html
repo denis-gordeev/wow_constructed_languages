@@ -9,6 +9,7 @@
   h1 { border-bottom: 2px solid #7b1fa2; padding-bottom: 0.3em; color: #ce93d8; }
   h2 { color: #ab47bc; margin-top: 2em; }
   h3 { color: #ba68c8; }
+  h4 { color: #ce93d8; }
   table { border-collapse: collapse; width: 100%; margin: 1em 0; }
   th, td { border: 1px solid #4a148c; padding: 0.4em 0.6em; text-align: left; }
   th { background: #4a148c; font-weight: bold; color: #f3e5f5; }
@@ -19,6 +20,7 @@
   .inferred { color: #ce93d8; }
   .new { background: #311b52; }
   .note { background: #311b52; border-left: 3px solid #7b1fa2; padding: 0.5em 1em; margin: 1em 0; }
+  .warning { background: #4a1a1a; border-left: 3px solid #e53935; padding: 0.5em 1em; margin: 1em 0; color: #ffcdd2; }
   nav { background: #4a148c; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
   nav a { margin-right: 1em; color: #f3e5f5; }
   a { color: #ce93d8; }
@@ -32,17 +34,25 @@
   <a href="#language">Language Name</a>
   <a href="#names">Old God Names</a>
   <a href="#servants">Servants &amp; Races</a>
+  <a href="#single-word">Single-Word Translations</a>
   <a href="#midnight">Midnight (2026)</a>
+  <a href="#phrases">Confirmed Phrases</a>
+  <a href="#untranslated">Untranslated</a>
+  <a href="#parser">Parser Word List</a>
+  <a href="#speculative">Speculative Dictionary</a>
   <a href="#investigation">Investigation: <em>-aar</em></a>
   <a href="#naaru">Naaru Names</a>
-  <a href="#phrases">Attested Phrases</a>
   <a href="#morphemes">Potential Morphemes</a>
+  <a href="#rlyehian">R'lyehian</a>
 </nav>
 
 <h1>Shath'Yar Vocabulary</h1>
 
-<p>All entries are attested in World of Warcraft canon.
-<span class="inferred">Purple</span> = inferred morpheme;
+<p>All entries are attested from in-game dialogue, NPC speech, quest text, or official Blizzard sources. No invented words are included. Grammar rules are inferred from observed examples.</p>
+
+<p>Shath'Yar is the language of the Old Gods and their servants. The wiki at warcraft.wiki.gg/wiki/Shath'Yar provides an extensive primer of confirmed Blizzard translations for Shath'Yar phrases &mdash; far more than previously documented. This vocabulary file incorporates all confirmed translations and the wiki's speculative cross-referenced dictionary (clearly marked as speculative).</p>
+
+<p><span class="inferred">Purple</span> = inferred morpheme;
 <span class="uncertain">gray</span> = uncertain.</p>
 
 <h2 id="language">Language Name</h2>
@@ -52,7 +62,7 @@
 <tr><th>Word</th><th>Translation</th><th>Notes</th></tr>
 </thead>
 <tbody>
-<tr><td>Shath'Yar</td><td>Name of the Old God language</td><td>Exact meaning uncertain</td></tr>
+<tr><td>Shath'Yar</td><td>Old Gods; Old Gods' servants</td><td>Wiki cross-reference: <span class="inferred"><em>Shath</em> = &ldquo;old&rdquo; or &ldquo;black&rdquo; + <em>Yar</em> = &ldquo;god(s)&rdquo;</span>. Also: <strong>Shath'mag</strong> = &ldquo;Black Empire&rdquo;, <strong>Shath'gral</strong> = &ldquo;Old Ones&rdquo;</td></tr>
 </tbody>
 </table>
 
@@ -67,6 +77,7 @@
 <tr><td>N'Zoth</td><td>Proper name</td><td>The Corruptor, an Old God</td></tr>
 <tr><td>C'Thun</td><td>Proper name</td><td>An Old God, entity in Silithus</td></tr>
 <tr><td>Y'Shaarj</td><td>Proper name</td><td>The first Old God, killed by the Pantheon</td></tr>
+<tr><td>G'huun</td><td>Proper name</td><td>Blood God; related to Old God corruption; possibly not a &ldquo;true&rdquo; Old God</td></tr>
 </tbody>
 </table>
 
@@ -77,13 +88,25 @@
 <tr><th>Word</th><th>Translation</th><th>Notes</th></tr>
 </thead>
 <tbody>
-<tr><td>Il'gynoth</td><td>The Heart of Corruption</td><td>Servant of N'Zoth</td></tr>
-<tr><td>N'raqi</td><td>Faceless Ones</td><td>Servants of the Old Gods</td></tr>
+<tr><td>Il'gynoth</td><td>The Heart of Corruption</td><td>Servant of N'Zoth; <span class="inferred"><em>Il</em> = &ldquo;heart&rdquo; + <em>gynoth</em> = &ldquo;corruption&rdquo; (inferred)</span></td></tr>
+<tr><td>N'raqi</td><td>Faceless Ones</td><td>Servants of the Old Gods; <span class="inferred"><em>N'raq</em> + <em>-i</em> (plural/marker)</span></td></tr>
 <tr><td>Aqir</td><td>Insectoid servants of the Old Gods</td><td>Ancestral insectoid race</td></tr>
 <tr><td>Qiraji</td><td>Insectoid race in Silithus</td><td>Descended from the Aqir</td></tr>
 <tr><td>Ssra'thik</td><td>Mantid-related creature name</td><td><span class="uncertain">(uncertain)</span> exact referent</td></tr>
-<tr><td>K'thir</td><td>Servants of the Old Gods</td><td>Aquatic/cthonic humanoids</td></tr>
-<tr><td>Domanaar</td><td>Generals of the Devouring Host (Midnight)</td><td>Plural form; <span class="inferred"><em>-aar</em></span> ending parallels ethereal <span class="inferred"><em>-daar</em></span> in <em>Salhadaar</em>, possibly coincidental. <em>Doman-</em> element is unique. May be Void-language rather than Shath'Yar. The two named domanaar (<em>Decimus</em>, <em>Terminas</em>) have Latin-inspired names, possibly Common-language renderings</td></tr>
+<tr><td>K'thir</td><td>Servants of the Old Gods</td><td>Aquatic/cthonic humanoids; <span class="inferred"><em>K'th</em> + <em>-ir</em> (suffix)</span></td></tr>
+<tr><td>Domanaar</td><td>Generals of the Devouring Host (Midnight)</td><td>See Investigation section below</td></tr>
+</tbody>
+</table>
+
+<h2 id="single-word">Confirmed Single-Word Translation</h2>
+
+<table>
+<thead>
+<tr><th>Word</th><th>Translation</th><th>Source</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td>An'qoth</td><td>Vessel</td><td>Quest: Music of the Spheres</td><td>The <strong>only confirmed single-word Shath'Yar translation</strong>. <em>An'</em> element parallels other C' structures; <em>-qoth</em> may mean &ldquo;vessel/container&rdquo;. Decomposition: <span class="inferred"><em>An'</em> + <em>-qoth</em></span></td></tr>
+<tr><td>Yu'gaz</td><td>Fluffy</td><td>Quest: Coming Out of His Shell</td><td>Pet name; confirms Shath'Yar is used even for mundane concepts. Decomposition: <span class="inferred"><em>Yu'</em> + <em>-gaz</em></span></td></tr>
 </tbody>
 </table>
 
@@ -94,13 +117,424 @@
 <tr><th>Word</th><th>Translation</th><th>Notes</th></tr>
 </thead>
 <tbody>
-<tr><td>Decimus</td><td>Domanaar general</td><td>Latin-inspired name ("tenth"); possibly Common-language rendering, not Shath'Yar. Captured by Alleria and Arator; informs them that disabling Nexus-Points will weaken the Voidstorm and that Salhadaar serves Xal'atath reluctantly. Seemingly betrays the party by allowing Terminas to capture them, but the distraction allows Decimus to steal the Mantle of Predation before killing Terminas. Killed by the party after the deception</td></tr>
+<tr><td>Decimus</td><td>Domanaar general</td><td>Latin-inspired name (&ldquo;tenth&rdquo;); possibly Common-language rendering, not Shath'Yar. Captured by Alleria and Arator; informs them that disabling Nexus-Points will weaken the Voidstorm and that Salhadaar serves Xal'atath reluctantly. Seemingly betrays the party by allowing Terminas to capture them, but the distraction allows Decimus to steal the Mantle of Predation before killing Terminas. Killed by the party after the deception</td></tr>
 <tr><td>Terminas</td><td>Most powerful domanaar</td><td>Latin-inspired name; possibly Common-language rendering. Possessed the Mantle of Predation that can shut down all Nexus-Points simultaneously. Captured Alleria's party with Decimus's apparent help; killed by Decimus who stole the Mantle</td></tr>
 <tr><td>Voidspire</td><td>Xal'atath's base of operations</td><td>Common-language compound name for Xal'atath's seat in the Voidstorm</td></tr>
 <tr><td>Darkwell</td><td>Corrupted Sunwell</td><td>The Sunwell after corruption by L'ura's void beam. Common-language name</td></tr>
 <tr><td>Dawnwell</td><td>Purified Sunwell</td><td>The renamed Sunwell after purification by combined elven heritage. Common-language name</td></tr>
 <tr><td>Twilight's Blade</td><td>Void cult devoted to Xal'atath (Midnight)</td><td>Common-language name; cultists who infiltrated Quel'Thalas, including the town of Tranquillien. Led by Mor'duun. Not a Shath'Yar term, but culturally significant as the mortal arm of the Devouring Host in the Midnight campaign. The cult's name follows the English [element] + [weapon] naming pattern common in WoW faction design</td></tr>
 <tr><td>L'ura</td><td>Dark naaru</td><td>Shath'Yar-style initial-apostrophe name (<span class="inferred"><em>L'</em></span> + <em>-ura</em>). Originally a naaru aboard the Xenedar in Mac'Aree (Argus, Legion); corrupted by the Void into a dark naaru. Absorbed into Alleria Windrunner during the Argus campaign. Released by Xal'atath during the Midnight Voidspire confrontation; fired a void beam into the Sunwell, corrupting it into the Darkwell. Destroyed by combined elven forces at the Darkwell</td></tr>
+</tbody>
+</table>
+
+<h2 id="phrases">Confirmed Phrases (Official Blizzard Translations)</h2>
+
+<p>All phrases below have <strong>officially confirmed English translations</strong> from Blizzard. Sources are cited by the boss or quest that provides the translation.</p>
+
+<h3>Yogg-Saron / Ulduar Sources</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>Uulwi ifis halahs gag erh'ongg w'ssh.</td><td>The shadow of my corpse will choke this land for all eternity.</td><td>Yogg-Saron (Sean Copeland, 2014)</td></tr>
+</tbody>
+</table>
+
+<h3>Yor'sahj the Unsleeping (Dragon Soul)</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>Ak'agthshi ma uhnish, ak'uq shg'cul vwahuhn! H'iwn iggksh Phquathi gag OOU KAAXTH SHUUL!</td><td>Our numbers are endless, our power beyond reckoning! All who oppose the Destroyer will DIE A THOUSAND DEATHS!</td><td>Yor'sahj</td></tr>
+<tr><td>Ez, Shuul'wah! Sk'woth'gl yu'gaz yog'ghyl ilfah!</td><td>O, Deathwing! Your faithful servant has failed you!</td><td>Yor'sahj</td></tr>
+<tr><td>H'iwn zaix Shuul'wah, PHQUATHI!</td><td>All praise Deathwing, THE DESTROYER!</td><td>Yor'sahj</td></tr>
+<tr><td>Ilith qi'uothk shn'ma yeh'glu Shath'Yar! H'IWN IILTH!</td><td>You will drown in the blood of the Old Gods! ALL OF YOU!</td><td>Yor'sahj</td></tr>
+<tr><td>KYTH ag'xig yyg'far IIQAATH ONGG!</td><td>SEE how we pour from the CURSED EARTH!</td><td>Yor'sahj</td></tr>
+<tr><td>Shkul an'zig qvsakf KSSH'GA, ag'THYZAK agthu!</td><td>From its BLEAKEST DEPTHS, we RECLAIM this world!</td><td>Yor'sahj</td></tr>
+<tr><td>Sk'yahf qi'plahf PH'MAGG!</td><td>Your soul will know ENDLESS TORMENT!</td><td>Yor'sahj</td></tr>
+<tr><td>UULL lwhuk H'IWN!</td><td>The DARKNESS devours ALL!</td><td>Yor'sahj</td></tr>
+</tbody>
+</table>
+
+<h3>Mindflayer Kaahrj (Legion)</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>Al'ksh syq iir awan? Iilth sythn aqev... aqev... aqev...</td><td>Is this real or an illusion? You are going mad... mad... mad...</td><td>Kaahrj</td></tr>
+<tr><td>En'othk uulg'shuul. Mh'za uulwi skshgn kar.</td><td>There is no light after death. Only a place where even shadows fear to go.</td><td>Kaahrj</td></tr>
+<tr><td>Iilth ma paf'qi'ag sk'halahs. GAZ SKSHGN!</td><td>You are a prisoner in your own body. A SERVANT OF FEAR!</td><td>Kaahrj</td></tr>
+<tr><td>Iilth qi mah'shar fhn oorql N'Zoth!</td><td>You will be the first of many to glimpse the madness of N'Zoth!</td><td>Kaahrj</td></tr>
+<tr><td>Il'zarq N'Zoth phgwa an'zig. Il'zarq taag ov'kadaq.</td><td>The voice of N'Zoth whispers from the deeps. It sings of unspeakable horrors.</td><td>Kaahrj</td></tr>
+<tr><td>Mg'uulwi N'Zoth, eth'razzqi worg zz oou.</td><td>In the writhing shadow of N'Zoth, all light fades and dies.</td><td>Kaahrj</td></tr>
+<tr><td>N'Zoth iiyoq raz'tal'vsak! IIYOQ NEL'OTHK AR'AFGH!</td><td>The will of N'Zoth is made manifest! IT CANNOT BE CONTAINED!</td><td>Kaahrj</td></tr>
+<tr><td>Poq'yith mazzka awan ki uhnish'philfgsh.</td><td>The crooked serpent with no eyes is watching from the endless sky.</td><td>Kaahrj</td></tr>
+<tr><td>Shath'mag vwyq shu et'agthu, Shath'mag sshk ye! Ag'rr hazz ak'yel ksh ga'halahs pahg!</td><td>The Black Empire once ruled this pitiful world, and it will do so again! We will reforge our dread citadels atop the fly-blown corpse of this kingdom!</td><td>Kaahrj</td></tr>
+<tr><td>Shath'mag vwyq shu et'agthu, Shath'mag sshk ye! Krz'ek fhn'z agash zz maqdahl or'kaaxth'ma amqa!</td><td>The Black Empire once ruled this pitiful world, and it will do so again! Your pitiful kind will know only despair and sorrow for a hundred thousand millennia to come!</td><td>Kaahrj</td></tr>
+<tr><td>Sk'yahf qi'magg luk sshoq anagg'qen.</td><td>Your soul will wander roads that twist in endless spirals.</td><td>Kaahrj</td></tr>
+<tr><td>Y'za noq mah... Y'za noq ormz...</td><td>I am not the first... I am not the last...</td><td>Kaahrj</td></tr>
+<tr><td>Yeh'glu N'Zoth okom hoq... Y'za sythn oou...</td><td>The blood of N'Zoth runs through me... I cannot die...</td><td>Kaahrj</td></tr>
+</tbody>
+</table>
+
+<h3>Herald Volazj / Commander Ulthok (WotLK)</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>Gul'kafh an'shel. Yoq'al shn ky ywaq nuul.</td><td>Gaze into the void. It is the perpetuity in which they dwell.</td><td>Volazj / Ulthok</td></tr>
+<tr><td>Iilth vwah, uhn'agth fhssh za.</td><td>Where one falls, many shall take its place.</td><td>Volazj / Ulthok</td></tr>
+<tr><td>Shgla'yos plahf mh'naus.</td><td>They who dine on lost souls know only hunger.</td><td>Volazj</td></tr>
+<tr><td>Ywaq ma phgwa'cul hnakf.</td><td>They are the whisper on the shivering wind.</td><td>Volazj / Zon'ozz</td></tr>
+<tr><td>Ywaq maq oou; ywaq maq ssaggh. Ywaq ma shg'fhn.</td><td>They do not die; they do not live. They are outside the cycle.</td><td>Volazj / Ulthok</td></tr>
+<tr><td>Ywaq puul skshgn: on'ma yeh'glu zuq.</td><td>They drink your fear: it is the blood of life.</td><td>Volazj</td></tr>
+</tbody>
+</table>
+
+<h3>Warlord Zon'ozz (Dragon Soul)</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>Gul'kafh an'qov N'Zoth.</td><td>Gaze into the heart of N'Zoth.</td><td>Zon'ozz</td></tr>
+<tr><td>N'Zoth ga zyqtahg iilth.</td><td>The will of N'Zoth corrupts you.</td><td>Zon'ozz</td></tr>
+<tr><td>Sk'magg yawifk hoq.</td><td>Your suffering strengthens me.</td><td>Zon'ozz</td></tr>
+<tr><td>Sk'shgn eqnizz hoq.</td><td>Your fear drives me.</td><td>Zon'ozz</td></tr>
+<tr><td>Sk'shuul agth vorzz N'Zoth naggwa'fssh.</td><td>Your deaths shall sing of N'Zoth's unending glory.</td><td>Zon'ozz</td></tr>
+<tr><td>Sk'tek agth nuq N'Zoth yyqzz.</td><td>Your skulls shall adorn N'Zoth's writhing throne.</td><td>Zon'ozz</td></tr>
+<tr><td>Sk'uuyat guulphg hoq.</td><td>Your agony sustains me.</td><td>Zon'ozz</td></tr>
+<tr><td>Sk'yahf agth huqth N'Zoth qornaus.</td><td>Your souls shall sate N'Zoth's endless hunger.</td><td>Zon'ozz</td></tr>
+<tr><td>Uovssh thyzz... qwaz...</td><td>To have waited so long... for this...</td><td>Zon'ozz</td></tr>
+<tr><td>Vwyq agth sshoq'meg N'Zoth vra zz shfk qwor ga'halahs agthu. Uulg'ma, ag qam.</td><td>Once more shall the twisted flesh-banners of N'Zoth chitter and howl above the fly-blown corpse of this world. After millennia, we have returned.</td><td>Zon'ozz</td></tr>
+<tr><td>Zzof Shuul'wah. Thoq fssh N'Zoth!</td><td>Victory for Deathwing. For the glory of N'Zoth!</td><td>Zon'ozz</td></tr>
+</tbody>
+</table>
+
+<h3>Mythrax the Unraveler / G'huun (BfA)</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>AN'zig wgah qam za zyqtahg...</td><td>G'huun will not be stopped...</td><td>Mythrax</td></tr>
+<tr><td>I wgah far'al zuq ni shn!</td><td>I will reduce you to ash!</td><td>Mythrax</td></tr>
+<tr><td>Puul qi'plahf ni oou bormax!</td><td>Give yourself to the plague!</td><td>Mythrax</td></tr>
+<tr><td>Uulg'ma zyqtahg yrr!</td><td>Xalzaix hungers for annihilation.</td><td>Mythrax</td></tr>
+<tr><td>Xith wgah!</td><td>Extermination!</td><td>Mythrax</td></tr>
+<tr><td>Zuq wgah qam n'lyeth!</td><td>You will not survive!</td><td>Mythrax</td></tr>
+<tr><td>I ongg za ywaq qvsakf.</td><td>I feed on your terror!</td><td>G'huun</td></tr>
+<tr><td>Log'loth w'oq Ongg!</td><td>Children, come and feed!</td><td>G'huun</td></tr>
+<tr><td>Oou gul'kafh lal lwhuk!</td><td>The outbreak has begun!</td><td>G'huun</td></tr>
+<tr><td>Oou thyzz lal ak'uq qwaz Zuq shkul ma sk'tek...</td><td>The contagion... has taken root within you...</td><td>G'huun</td></tr>
+<tr><td>Oou vwahuHn ag'xig shfk zuq!</td><td>The titans cannot save you!</td><td>G'huun</td></tr>
+<tr><td>Oou zuq agthu qwor arwi</td><td>The key... turns once more.</td><td>G'huun</td></tr>
+<tr><td>Qam oou iilth ez i awtgsshu amun on'ma!</td><td>Let the feast of a thousand maws begin.</td><td>G'huun</td></tr>
+<tr><td>Vwah oou kaaxth zz ywaq iiyoq Ag'xig fhssh I on'ma.</td><td>Feel the twitch in your spine? That is where I exist.</td><td>G'huun</td></tr>
+<tr><td>Ywaq mh'naus wgah zaix zygtahg.</td><td>Your screams will echo forever!</td><td>G'huun</td></tr>
+<tr><td>Ywaq ongg an'qov i lal halahs nuq.</td><td>Your husk serves a new master now.</td><td>G'huun</td></tr>
+<tr><td>Za awtgsshu wgah uulg'ma ywaq zaix.</td><td>My whispers will liquefy your mind.</td><td>G'huun</td></tr>
+<tr><td>Zuq ag'xig bormaz ag'thyzak!</td><td>You cannot escape infection!</td><td>G'huun</td></tr>
+<tr><td>W'oq uhn'agth ez qam Shandai!</td><td>Come, servants of rot. Consume!</td><td>G'huun</td></tr>
+</tbody>
+</table>
+
+<h3>Vol'zith the Whisperer (BfA)</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>Aglathrax hig' thrixa.</td><td>I reside within your lungs!</td><td>Vol'zith</td></tr>
+<tr><td>Bwixki amala zal qulllll..</td><td>I will await you... in the dark...</td><td>Vol'zith</td></tr>
+<tr><td>Skitsh qi'uthik illith!</td><td>Beneath the tides, your truth awaits.</td><td>Vol'zith</td></tr>
+<tr><td>Ugalazul bwrxil' qu rax.</td><td>Darkness roots. Pestilence spreads. The doorway is open.</td><td>Vol'zith</td></tr>
+<tr><td>ULL vera skish!!</td><td>You are mine!</td><td>Vol'zith</td></tr>
+<tr><td>Xul krass qi' UN skush!</td><td>Blood pours forth in the depths.</td><td>Vol'zith</td></tr>
+</tbody>
+</table>
+
+<h3>Zek'voz (Uldir)</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>Hul bala miz rilakich...</td><td>How is this... possible...</td><td>Zek'voz</td></tr>
+<tr><td>Naza bul rexil qalic ul'.</td><td>Not a single worthy trait among you.</td><td>Zek'voz</td></tr>
+<tr><td>Ug' crish zul Thraxas!</td><td>You will be eradicated!</td><td>Zek'voz</td></tr>
+<tr><td>Ul basha krix.</td><td>I am superior!</td><td>Zek'voz</td></tr>
+</tbody>
+</table>
+
+<h3>Other Confirmed Sources</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>Fssh qam ak'agathShi Fssh qam h'iwn</td><td>They are redemption. They are truth.</td><td>From the Maw of Madness</td></tr>
+<tr><td>Gag vwah gag yyqzz ez hoz shAth'yar plahf</td><td>You will all drown in the lightless abyss.</td><td>From the Maw of Madness</td></tr>
+<tr><td>Gag yoh'ghyl og hoq uul'gwa gag Ez yyqzz huqth</td><td>You struggle at the surface... but He waits below.</td><td>From the Maw of Madness</td></tr>
+<tr><td>H'thon thyzz Agth ma iiqaath zuq wgah puul uhn'agth yrr zuq wgah uulg'ma</td><td>Errant flesh! When it awakens, you will know eternity, and you will tremble!</td><td>A Mote of Cosmic Truth</td></tr>
+<tr><td>Hoq aN'qov huqth erh'ongg thoq shanDai h'lwn</td><td>The sunken realm welcomes your yawning souls.</td><td>Storm's End quest</td></tr>
+<tr><td>Kulaq w'ajj, hwa-ksh brraglac!</td><td>Tremble now, for the slumberer awakens!</td><td>Armageddon comic</td></tr>
+<tr><td>Oou zuq agthu qwor arwi</td><td>The key... turns once more.</td><td>A Mote of Cosmic Truth</td></tr>
+<tr><td>Og h'iwn Og vormos Hoq sshoq'meg thoq wotH'gl</td><td>No light. No escape. The forgotten king returns.</td><td>Storm's End quest</td></tr>
+<tr><td>Shuul og i agthu yrr sk'uuyat uulwi ma oou sshoq'met ez nuq far'al I zz nuq al'tha Ssaggh ni za an'zig yrr puul ywaq gul'kafh</td><td>There is a great and terrible truth at the beginning of all things. I am its herald. Listen to my sermon, and know your infinite inconsequence.</td><td>A Mote of Cosmic Truth</td></tr>
+<tr><td>Ywaq ma fvlolf ksht aak vrbl! Shn aglf olbl'nyral!</td><td>They are the howlers in the dark! The madness without end!</td><td>Armageddon comic</td></tr>
+<tr><td>Ywaq mwual'gyos gag prfakt sjabba zuq...</td><td>They are the shadow that feasts on life...</td><td>Armageddon comic</td></tr>
+<tr><td>Za uul og nuq i fssh zz oou iiyoq ez oou gul'kafh anagg</td><td>My fall is but a beat in the heart of the infinite abyss.</td><td>Storm's End quest</td></tr>
+<tr><td>Zuq ag'xig bormaz ag'thyzak!</td><td>You cannot escape infection!</td><td>G'huun</td></tr>
+<tr><td>Oou wgah yyqZz uhnish guu'lal Qwor wgah za kaaxth</td><td>The deep one's prison weakens. None will be spared!</td><td>Soggoth the Slitherer</td></tr>
+<tr><td>Ak yar qi'lwhuk h'iwn.</td><td>Our gods will devour all.</td><td>Anglepoint Wharf NPCs</td></tr>
+<tr><td>Y'za qam yyqzz...</td><td>I return to the writhing throne.</td><td>Anglepoint Wharf NPCs</td></tr>
+<tr><td>Uq naggwa...</td><td>Power unrelenting...</td><td>Anglepoint Wharf NPCs</td></tr>
+</tbody>
+</table>
+
+<h3>Midnight Expansion: Deep Watcher Phrases</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Translation</th><th>Source</th></tr>
+</thead>
+<tbody>
+<tr><td>Ma sk'magg ni arwi Ma zzof ag ez uulwi</td><td>The eye sees all! His greatness... his glory!</td><td>Deep Watcher (Midnight)</td></tr>
+<tr><td>Oou oou ryiu nuq Yrr par'okoth yrr vorzz</td><td>We slumber no more! We rise... as he rises!</td><td>Deep Watcher (Midnight)</td></tr>
+<tr><td><span class="uncertain">(Missing Shath'Yar text)</span></td><td>You cannot stop the whispers!</td><td>Deep Watcher (Midnight) &mdash; Shath'Yar text missing from data mining</td></tr>
+</tbody>
+</table>
+
+<h2 id="untranslated">Untranslated Phrases</h2>
+
+<p>Phrases with no confirmed translation.</p>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Source</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td>Al'golath mal shal'nel</td><td>Samuelson Unmasked</td><td>May mean &ldquo;Darkness consumes&rdquo; (next spoken line)</td></tr>
+<tr><td>Al'tha, Al'tha bormaz. Ni bormaz ta'thall?</td><td>Free Your Mind quest</td><td>&mdash;</td></tr>
+<tr><td>Athu'gag magg'naggwa. Qor'naus'agth lwhuk. Lilth gag'huqth'hoq.</td><td>Drak'thul (Weathered Relic)</td><td>&mdash;</td></tr>
+<tr><td>Bal'qwari Og Shadar.</td><td>Babbling Cultist</td><td>&mdash;</td></tr>
+<tr><td>Bo'al lal arwi C'toth.</td><td>Free Your Mind quest</td><td>&mdash;</td></tr>
+<tr><td>F'lakh ghet!</td><td>Erudax</td><td>&mdash;</td></tr>
+<tr><td>F'tagh nah'hat! I'mmathan! Sha'lub nahab! Sha'lub nahab!</td><td>Graduation Speech quest</td><td>&mdash;</td></tr>
+<tr><td>Gillari, geth'shar. Gillari, teko'shar.</td><td>Babbling Cultist</td><td>&mdash;</td></tr>
+<tr><td>H'thon marwol qualar.</td><td>Free Your Mind quest</td><td>&mdash;</td></tr>
+<tr><td>Immalanath, yasoth nalarub!!!</td><td>Graduation Speech quest</td><td>&mdash;</td></tr>
+<tr><td>Log'loth og shandai</td><td>Lycanthoth the Corruptor quest</td><td>&mdash;</td></tr>
+<tr><td>Mar'kowa tallol ye'tarin.</td><td>Free Your Mind quest</td><td>&mdash;</td></tr>
+<tr><td>Pwhn'guul i ghawl'fwata ryiu wgah uul'gwan h'iwn guu'lal.</td><td>Blessing of the Old God (artifact)</td><td>&mdash;</td></tr>
+<tr><td>Shethnoth, ol'goth, grell.</td><td>Babbling Cultist</td><td>&mdash;</td></tr>
+<tr><td>Shur'nab... shur'nab... Yogg-Saron!</td><td>Faceless Lurker</td><td>&mdash;</td></tr>
+<tr><td>Thoth'al amun Ree'thael vormos! Vormos! Vormos!</td><td>Free Your Mind quest</td><td>&mdash;</td></tr>
+<tr><td>Tulall par'okoth. Far'al, ka'kar.</td><td>Free Your Mind quest</td><td>&mdash;</td></tr>
+<tr><td>Uhn'agh Fash</td><td>Uhn'agh Fash, the Darkest Betrayal (dagger)</td><td><span class="inferred"><em>Uhn'agh</em> = &ldquo;darkest&rdquo;, <em>Fash</em> = &ldquo;betrayal&rdquo; (speculative)</span></td></tr>
+<tr><td>Xal'atoh</td><td>Xal'atoh, Desecrated Image of Gorehowl</td><td>Axe created by Garrosh using Heart of Y'Shaarj; parallels <em>Xal'atath</em></td></tr>
+<tr><td>Yrr n'lyeth... shuul anagg!</td><td>Yogg-Saron (raid)</td><td>&mdash;</td></tr>
+<tr><td>Y'knath k'th'rygg k'yi mrr'ungha gr'mula.</td><td>Puzzle Box of Yogg-Saron</td><td>&mdash;</td></tr>
+<tr><td>Uulwi gag erh'ongg w'ssh/w'ssht.</td><td>Uhn'agh Fash / The Beast Unleashed</td><td>Note similarity to &ldquo;Uulwi ifis halahs gag erh'ongg w'ssh&rdquo;</td></tr>
+</tbody>
+</table>
+
+<h2 id="parser">In-Game Parser Word List</h2>
+
+<p>The in-game language parser (languageID 178) generates Shath'Yar-looking words from English input. These are <strong>not genuine Shath'Yar</strong> &mdash; the algorithm merely makes words look Shath'Yar-like. However, the word list provides a phonological inventory of what Blizzard considers &ldquo;Shath'Yar-like&rdquo; forms.</p>
+
+<h3>1-Letter Words</h3>
+<p>i</p>
+
+<h3>2-Letter Words</h3>
+<p>ag, ez, ga, ky, ma, ni, og, za, zz</p>
+
+<h3>3-Letter Words</h3>
+<p>gag, hoq, lal, maq, nuq, oou, qam, shn, vaz, vra, yrr, zuq</p>
+
+<h3>4-Letter Words</h3>
+<p>agth, amun, arwi, fssh, ifis, kyth, nuul, ongg, puul, qwaz, qwor, ryiu, shfk, thoq, uull, vwah, vwyq, w'oq, wgah, ywaq, zaix, zzof</p>
+
+<h3>5-Letter Words</h3>
+<p>ag'rr, agthu, ak'uq, anagg, bo'al, fhssh, h'iwn, hnakf, huqth, iilth, iiyoq, lwhuk, on'ma, plahf, shkul, shuul, thyzz, uulwi, vorzz, w'ssh, yyqzz</p>
+
+<h3>6-Letter Words</h3>
+<p>ag'xig, al'tha, an'qov, an'zig, bormaz, c'toth, far'al, h'thon, halahs, iggksh, ka'kar, kaaxth, marwol, n'zoth, qualar, qvsakf, shn'ma, sk'tek, skshgn, ssaggh, tallol, tulall, uhnish, uovssh, vormos, yawifk, yoq'al, yu'gaz</p>
+
+<h3>7-Letter Words</h3>
+<p>an'shel, awtgssh, guu'lal, guulphg, iiqaath, kssh'ga, mh'naus, n'lyeth, ph'magg, qornaus, shandai, shg'cul, shg'fhn, sk'magg, sk'yahf, uul'gwa, uulg'ma, vwahuhn, woth'gl, yeh'glu, yyg'far, zyqtahg</p>
+
+<h3>8-Letter Words</h3>
+<p>awtgsshu, erh'ongg, gul'kafh, halsheth, log'loth, mar'kowa, muoq'vsh, phquathi, qi'plahf, qi'uothk, sk'shuul, sk'uuyat, ta'thall, thoth'al, uhn'agth, ye'tarin, yoh'ghyl, zuq'nish</p>
+
+<h3>9-Letter Words</h3>
+<p>ag'thyzak, ga'halahs, lyrr'keth, par'okoth, phgwa'cul, pwhn'guul, ree'thael, shath'yar, shgla'yos, shuul'wah, sshoq'meg</p>
+
+<h3>10-Letter Words</h3>
+<p>ak'agthshi, shg'ullwaq, sk'woth'gl</p>
+
+<h3>11-Letter Words</h3>
+<p>ghawl'fwata, naggwa'fssh, yeq'kafhgyl</p>
+
+<h2 id="speculative">Speculative Shath'Yar-English Dictionary</h2>
+
+<div class="warning">
+<strong>WARNING</strong>: This section is speculative. Entries are derived by cross-referencing the confirmed Shath'Yar phrases with their official English translations. Shath'Yar and English cannot be effectively translated verbatim &mdash; word order and grammatical structure differ significantly. The wiki explicitly notes this analysis &ldquo;should not be taken as representing official lore.&rdquo;
+</div>
+
+<h3>Pronouns</h3>
+
+<table>
+<thead>
+<tr><th>Word</th><th>Speculative Meaning</th><th>Evidence</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td>y'za</td><td>I</td><td><em>Y'za noq mah</em> = &ldquo;I am not the first&rdquo;; <em>Y'za qam yyqzz</em> = &ldquo;I return to the writhing throne&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>hoq</td><td>me</td><td><em>Sk'magg yawifk hoq</em> = &ldquo;Your suffering strengthens me&rdquo;; <em>Sk'shgn eqnizz hoq</em> = &ldquo;Your fear drives me&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>iilth</td><td>you</td><td><em>Iilth vwah, uhn'agth fhssh za</em> = &ldquo;Where one falls...&rdquo;; <em>Iilth qi mah'shar</em> = &ldquo;You will be the first&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>ywaq</td><td>they</td><td><em>Ywaq maq oou; ywaq maq ssaggh</em> = &ldquo;They do not die; they do not live&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>ag</td><td>we</td><td><em>Ak'agthshi ma uhnish</em> = &ldquo;Our numbers are endless&rdquo;; <em>Ag'rr hazz ak'yel</em> = &ldquo;We will reforge&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>ak</td><td>our</td><td><em>Ak'agthshi ma uhnish</em> = &ldquo;Our numbers are endless&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>ilfah</td><td>you</td><td><em>Yu'gaz yog'ghyl ilfah</em> = &ldquo;Your faithful servant&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>ilith</td><td>you</td><td><em>Ilith qi'uothk shn'ma</em> = &ldquo;You will drown&rdquo;</td><td><strong>Moderate</strong></td></tr>
+</tbody>
+</table>
+
+<h3>Possessive Prefix</h3>
+
+<table>
+<thead>
+<tr><th>Element</th><th>Speculative Meaning</th><th>Evidence</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td>sk-</td><td>your</td><td><em>sk'magg</em> = &ldquo;your suffering&rdquo;; <em>sk'shgn</em> = &ldquo;your fear&rdquo;; <em>sk'shuul</em> = &ldquo;your deaths&rdquo;; <em>sk'tek</em> = &ldquo;your skulls&rdquo;; <em>sk'uuyat</em> = &ldquo;your agony&rdquo;; <em>sk'yahf</em> = &ldquo;your soul(s)&rdquo;</td><td><strong>High</strong> &mdash; 6 independent attestations</td></tr>
+</tbody>
+</table>
+
+<h3>Tense/Aspect Markers</h3>
+
+<table>
+<thead>
+<tr><th>Element</th><th>Speculative Meaning</th><th>Evidence</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td>qi'</td><td>future tense prefix</td><td><em>qi'uothk</em> = &ldquo;will drown&rdquo;; <em>qi'plahf</em> = &ldquo;will know&rdquo;; <em>qi'magg</em> = &ldquo;will wander&rdquo;</td><td><strong>High</strong> &mdash; 3+ attestations</td></tr>
+<tr><td>gag</td><td>will (auxiliary)</td><td><em>Gag vwah gag yyqzz</em> = &ldquo;You will all drown&rdquo;; <em>gag erh'ongg w'ssh</em> = &ldquo;will choke... for all eternity&rdquo;</td><td><strong>Moderate</strong></td></tr>
+</tbody>
+</table>
+
+<h3>Verbs</h3>
+
+<table>
+<thead>
+<tr><th>Word</th><th>Speculative Meaning</th><th>Evidence</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td>oou</td><td>die</td><td><em>Ywaq maq oou</em> = &ldquo;They do not die&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>ssaggh</td><td>live</td><td><em>Ywaq maq ssaggh</em> = &ldquo;They do not live&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>maq</td><td>not</td><td><em>Ywaq maq oou; ywaq maq ssaggh</em> = &ldquo;They do not die; they do not live&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>plahf</td><td>know</td><td><em>qi'plahf</em> = &ldquo;will know&rdquo;; <em>shAth'yar plahf</em> = &ldquo;abyss know&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>lwhuk</td><td>devour</td><td><em>UULL lwhuk H'IWN</em> = &ldquo;The DARKNESS devours ALL&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>nuq</td><td>adorn</td><td><em>Sk'tek agth nuq N'Zoth yyqzz</em> = &ldquo;Your skulls shall adorn N'Zoth's writhing throne&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>vorzz</td><td>sing</td><td><em>Sk'shuul agth vorzz</em> = &ldquo;Your deaths shall sing&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>qam</td><td>return</td><td><em>Uulg'ma, ag qam</em> = &ldquo;After millennia, we have returned&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>puul</td><td>drink</td><td><em>Ywaq puul skshgn</em> = &ldquo;They drink your fear&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>nuul</td><td>dwell</td><td><em>Yoq'al shn ky ywaq nuul</em> = &ldquo;It is the perpetuity in which they dwell&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>kyth</td><td>see</td><td><em>KYTH ag'xig yyg'far</em> = &ldquo;SEE how we pour&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>thyzak</td><td>reclaim</td><td><em>ag'THYZAK agthu</em> = &ldquo;we RECLAIM this world&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>eqnizz</td><td>drives</td><td><em>Sk'shgn eqnizz hoq</em> = &ldquo;Your fear drives me&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>guulphg</td><td>sustains</td><td><em>Sk'uuyat guulphg hoq</em> = &ldquo;Your agony sustains me&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>huqth</td><td>sate</td><td><em>Sk'yahf agth huqth N'Zoth qornaus</em> = &ldquo;Your souls shall sate N'Zoth's endless hunger&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>yawifk</td><td>strengthens</td><td><em>Sk'magg yawifk hoq</em> = &ldquo;Your suffering strengthens me&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>uovssh</td><td>wait(ed)</td><td><em>Uovssh thyzz... qwaz...</em> = &ldquo;To have waited so long... for this...&rdquo;</td><td><strong>Moderate</strong></td></tr>
+</tbody>
+</table>
+
+<h3>Nouns</h3>
+
+<table>
+<thead>
+<tr><th>Word</th><th>Speculative Meaning</th><th>Evidence</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td>shuul</td><td>death(s)</td><td><em>Sk'shuul agth vorzz</em> = &ldquo;Your deaths shall sing&rdquo;; <em>UULL lwhuk</em> = &ldquo;devours&rdquo;; <em>Shuul'wah</em> = &ldquo;Deathwing&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>yahf</td><td>soul(s)</td><td><em>Sk'yahf agth huqth</em> = &ldquo;Your souls shall sate&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>uulwi</td><td>shadow</td><td><em>Uulwi ifis halahs</em> = &ldquo;The shadow of my corpse&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>halahs</td><td>body / corpse</td><td><em>halahs gag erh'ongg</em> = &ldquo;corpse will choke&rdquo;; <em>sk'halahs</em> = &ldquo;your body&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>shgn / skshgn</td><td>fear</td><td><em>Sk'shgn eqnizz hoq</em> = &ldquo;Your fear drives me&rdquo;; <em>Ywaq puul skshgn</em> = &ldquo;They drink your fear&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>magg</td><td>suffering / torment</td><td><em>sk'magg</em> = &ldquo;your suffering&rdquo;; <em>PH'MAGG</em> = &ldquo;ENDLESS TORMENT&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>kaaxth</td><td>thousand</td><td><em>OOU KAAXTH SHUUL</em> = &ldquo;DIE A THOUSAND DEATHS&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>h'iwn</td><td>all</td><td><em>H'iwn iggksh</em> = &ldquo;All who oppose&rdquo;; <em>UULL lwhuk H'IWN</em> = &ldquo;devours ALL&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>uull</td><td>darkness</td><td><em>UULL lwhuk H'IWN</em> = &ldquo;The DARKNESS devours ALL&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>ongg</td><td>earth / land</td><td><em>IIQAATH ONGG</em> = &ldquo;CURSED EARTH&rdquo;; <em>I ongg za ywaq qvsakf</em> = &ldquo;I feed on your terror&rdquo;</td><td><strong>Moderate&ndash;High</strong></td></tr>
+<tr><td>yeh'glu</td><td>blood</td><td><em>yeh'glu Shath'Yar</em> = &ldquo;blood of the Old Gods&rdquo;; <em>Yeh'glu N'Zoth okom hoq</em> = &ldquo;The blood of N'Zoth runs through me&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>fssh</td><td>glory</td><td><em>Thoq fssh N'Zoth</em> = &ldquo;For the glory of N'Zoth&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>zzof</td><td>victory</td><td><em>Zzof Shuul'wah</em> = &ldquo;Victory for Deathwing&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>agthu</td><td>world</td><td><em>ag'THYZAK agthu</em> = &ldquo;we RECLAIM this world&rdquo;; <em>ga'halahs agthu</em> = &ldquo;corpse of this world&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>yyqzz</td><td>throne</td><td><em>N'Zoth yyqzz</em> = &ldquo;N'Zoth's throne&rdquo;; <em>gag yyqzz</em> = &ldquo;will [drown in] throne&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>za</td><td>place / my</td><td><em>fhssh za</em> = &ldquo;take its place&rdquo;; <em>za awtgsshu</em> = &ldquo;My whispers&rdquo;; <em>za zyqtahg</em> = &ldquo;my will&rdquo;</td><td><strong>Moderate</strong> &mdash; dual meaning</td></tr>
+<tr><td>qov</td><td>heart</td><td><em>an'qov N'Zoth</em> = &ldquo;heart of N'Zoth&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>agthshi</td><td>number(s)</td><td><em>Ak'agthshi ma uhnish</em> = &ldquo;Our numbers are endless&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>fhn</td><td>cycle</td><td><em>Ywaq ma shg'fhn</em> = &ldquo;They are outside the cycle&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>on'ma</td><td>existence</td><td><em>I on'ma</em> = &ldquo;I exist&rdquo;; <em>on'ma yeh'glu zuq</em> = &ldquo;existence is the blood of life&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>shandai</td><td>eternity / souls</td><td><em>erh'ongg thoq shanDai</em> = &ldquo;choke... for [eternity/souls]&rdquo;</td><td><strong>Low&ndash;Moderate</strong></td></tr>
+<tr><td>pahg</td><td>kingdom</td><td><em>ga'halahs pahg</em> = &ldquo;fly-blown corpse of this kingdom&rdquo;</td><td><strong>Low</strong></td></tr>
+<tr><td>iiqaath</td><td>cursed</td><td><em>IIQAATH ONGG</em> = &ldquo;CURSED EARTH&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>naggwa</td><td>unending</td><td><em>N'Zoth naggwa'fssh</em> = &ldquo;N'Zoth's unending glory&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>qornaus</td><td>hunger</td><td><em>N'Zoth qornaus</em> = &ldquo;N'Zoth's hunger&rdquo;</td><td><strong>Low&ndash;Moderate</strong></td></tr>
+</tbody>
+</table>
+
+<h3>Other Elements</h3>
+
+<table>
+<thead>
+<tr><th>Word</th><th>Speculative Meaning</th><th>Evidence</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td>shath</td><td>old / black</td><td><em>Shath'Yar</em> = &ldquo;Old Gods&rdquo;; <em>Shath'mag</em> = &ldquo;Black Empire&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>yar</td><td>god(s)</td><td><em>Shath'Yar</em> = &ldquo;Old Gods&rdquo;; <em>Ak yar qi'lwhuk h'iwn</em> = &ldquo;Our gods will devour all&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>Shuul'wah</td><td>Deathwing</td><td><em>Shuul</em> = &ldquo;death&rdquo; + <em>wah</em> = &ldquo;wing&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>Phquathi</td><td>the Destroyer</td><td>Title of Deathwing in Shath'Yar</td><td><strong>Moderate</strong></td></tr>
+<tr><td>Shath'mag</td><td>Black Empire</td><td><em>Shath</em> = &ldquo;black&rdquo; + <em>'mag</em> (unknown)</td><td><strong>Moderate</strong></td></tr>
+<tr><td>Shath'gral</td><td>Old Ones</td><td><em>Shath</em> = &ldquo;old&rdquo; + <em>'gral</em> (unknown)</td><td><strong>Low</strong></td></tr>
+<tr><td>w'ssh</td><td>for eternity</td><td><em>gag erh'ongg w'ssh</em> = &ldquo;will choke... for all eternity&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>erh'ongg</td><td>choke / eternity</td><td><em>gag erh'ongg w'ssh</em> = &ldquo;will choke... for all eternity&rdquo;</td><td><strong>Low&ndash;Moderate</strong></td></tr>
+<tr><td>ma</td><td>is/are or millennia</td><td><em>ywaq ma phgwa'cul</em> = &ldquo;they are the whisper&rdquo;; <em>maqdahl or'kaaxth'ma amqa</em> = &ldquo;a hundred thousand millennia&rdquo;</td><td><strong>Moderate</strong> &mdash; likely two homophonous morphemes</td></tr>
+<tr><td>mh</td><td>only</td><td><em>Mh'za uulwi skshgn kar</em> = &ldquo;Only a place where even shadows fear to go&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>zuq</td><td>life</td><td><em>on'ma yeh'glu zuq</em> = &ldquo;existence is the blood of life&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>thoq</td><td>for</td><td><em>Thoq fssh N'Zoth</em> = &ldquo;For the glory of N'Zoth&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>thyzz</td><td>long</td><td><em>Uovssh thyzz</em> = &ldquo;waited so long&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>agth</td><td>shall</td><td><em>Sk'shuul agth vorzz</em> = &ldquo;Your deaths shall sing&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>ez</td><td>O (vocative particle)</td><td><em>Ez, Shuul'wah</em> = &ldquo;O, Deathwing&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>zz</td><td>and</td><td><em>worg zz oou</em> = &ldquo;fades and dies&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>an-</td><td>into</td><td><em>an'shel</em> = &ldquo;into the void&rdquo;; <em>an'qov</em> = &ldquo;into the heart&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>uulg'</td><td>after</td><td><em>uulg'shuul</em> = &ldquo;after death&rdquo;; <em>Uulg'ma</em> = &ldquo;After millennia&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>mah</td><td>first</td><td><em>qi mah'shar</em> = &ldquo;be the first&rdquo;</td><td><strong>Low&ndash;Moderate</strong></td></tr>
+<tr><td>ormz</td><td>last</td><td><em>Y'za noq ormz</em> = &ldquo;I am not the last&rdquo;</td><td><strong>Low&ndash;Moderate</strong></td></tr>
+<tr><td>aqev</td><td>mad</td><td><em>Iilth sythn aqev</em> = &ldquo;You are going mad&rdquo;</td><td><strong>Low&ndash;Moderate</strong></td></tr>
+<tr><td>sythn</td><td>cannot / becoming</td><td><em>Y'za sythn oou</em> = &ldquo;I cannot die&rdquo;</td><td><strong>Low&ndash;Moderate</strong></td></tr>
+<tr><td>uhn</td><td>many</td><td><em>uhn'agth</em> = &ldquo;many shall&rdquo;</td><td><strong>Low</strong></td></tr>
+<tr><td>uhnish</td><td>endless</td><td><em>Ak'agthshi ma uhnish</em> = &ldquo;Our numbers are endless&rdquo;</td><td><strong>Low&ndash;Moderate</strong></td></tr>
+<tr><td>qwaz</td><td>this</td><td><em>qwaz...</em> = &ldquo;this...&rdquo;</td><td><strong>Low</strong></td></tr>
+<tr><td>okom</td><td>run through / flow through</td><td><em>Yeh'glu N'Zoth okom hoq</em> = &ldquo;The blood of N'Zoth runs through me&rdquo;</td><td><strong>Low</strong></td></tr>
+<tr><td>worg</td><td>fade(s)</td><td><em>worg zz oou</em> = &ldquo;fades and dies&rdquo;</td><td><strong>Low</strong></td></tr>
+<tr><td>iggksh</td><td>oppose</td><td><em>H'iwn iggksh Phquathi</em> = &ldquo;All who oppose the Destroyer&rdquo;</td><td><strong>Moderate</strong></td></tr>
+<tr><td>wah</td><td>wing</td><td><em>Shuul'wah</em> = &ldquo;Death-wing&rdquo;</td><td><strong>Moderate</strong></td></tr>
 </tbody>
 </table>
 
@@ -122,15 +556,15 @@
 
 <h3>Hypothesis 1: Ethereal Loanword into Void Nomenclature</h3>
 
-<p>If <em>-daar</em> = "king/lord/ruler" in the ethereal language, then <em>domanaar</em> could be a borrowing with simplification (<em>-daar</em> &rarr; <em>-aar</em>, loss of /d/):</p>
+<p>If <em>-daar</em> = &ldquo;king/lord/ruler&rdquo; in the ethereal language, then <em>domanaar</em> could be a borrowing with simplification (<em>-daar</em> &rarr; <em>-aar</em>, loss of /d/):</p>
 <ul>
-<li><em>domanaar</em> = <em>doman-</em> + <em>-aar</em> = "[doman]-lords" = "lords of [doman]"</li>
+<li><em>domanaar</em> = <em>doman-</em> + <em>-aar</em> = &ldquo;[doman]-lords&rdquo; = &ldquo;lords of [doman]&rdquo;</li>
 <li>The transmission mechanism would be through the Shadowguard ethereals, who serve Xal'atath and the Devouring Host</li>
 </ul>
 <p>This is plausible because:</p>
 <ol>
 <li>The Shadowguard (led by Nexus-King Salhadaar) serve Xal'atath, creating direct ethereal-Void contact</li>
-<li>If Xal'atath needed a word for "generals" or "lords" in her Devouring Host, she could have adopted the ethereal <em>-daar</em> suffix</li>
+<li>If Xal'atath needed a word for &ldquo;generals&rdquo; or &ldquo;lords&rdquo; in her Devouring Host, she could have adopted the ethereal <em>-daar</em> suffix</li>
 <li>The loss of /d/ (<em>-daar</em> &rarr; <em>-aar</em>) could reflect phonological adaptation from ethereal into Void/Shath'Yar phonology</li>
 </ol>
 
@@ -145,7 +579,7 @@
 
 <h3>Hypothesis 3: Blizzard Design Convergence</h3>
 
-<p>If <em>-daar</em> is an Arabic design artifact (as argued in ethereal/grammar.html), then both <em>-daar</em> and <em>-aar</em> could independently reflect Blizzard's aesthetic for "authoritative" or "commanding" name endings. The Latin-inspired names of the two named domanaar (<em>Decimus</em>, <em>Terminas</em>) suggest Blizzard drew on classical/Latin aesthetics for Void generals, which is a different design tradition from the Arabic-inspired ethereal names. This weakens the design convergence hypothesis.</p>
+<p>If <em>-daar</em> is an Arabic design artifact (as argued in ethereal/grammar.html), then both <em>-daar</em> and <em>-aar</em> could independently reflect Blizzard's aesthetic for &ldquo;authoritative&rdquo; or &ldquo;commanding&rdquo; name endings. The Latin-inspired names of the two named domanaar (<em>Decimus</em>, <em>Terminas</em>) suggest Blizzard drew on classical/Latin aesthetics for Void generals, which is a different design tradition from the Arabic-inspired ethereal names. This weakens the design convergence hypothesis.</p>
 
 <h3>Assessment</h3>
 
@@ -171,7 +605,7 @@
 <ol>
 <li><strong>Naaru names are genuinely Shath'Yar</strong>: Naaru may have originated from or been named by entities that spoke a precursor to Shath'Yar, and the Light-Void dichotomy postdates the naming tradition.</li>
 <li><strong>Naaru names predate Shath'Yar</strong>: The apostrophe-marked convention may be a cosmic/universal naming pattern that both Naaru and Old Gods inherited independently.</li>
-<li><strong>Blizzard design convergence</strong>: The apostrophe convention is simply Blizzard's aesthetic for "cosmic/otherworldly" names, applied to both Light and Void entities without in-universe significance.</li>
+<li><strong>Blizzard design convergence</strong>: The apostrophe convention is simply Blizzard's aesthetic for &ldquo;cosmic/otherworldly&rdquo; names, applied to both Light and Void entities without in-universe significance.</li>
 </ol>
 
 <h3>Attested Naaru Names</h3>
@@ -193,7 +627,7 @@
 <h3>Lothraxion</h3>
 
 <div class="note">
-<strong>Lothraxion</strong> is a unique case: a member of the Army of the Light who has been infused with Light energy, serving as "high commander of the Vanguard" in Midnight. His name lacks the apostrophe convention entirely and follows a Latinate morphological pattern (<em>Loth-</em> + <em>-raxion</em>), more similar to Eredun/Draenei naming (<em>Loth</em> as in <em>Lothar</em>) than to Naaru or Shath'Yar. He may not be a Naaru at all but a Light-infused being of another race.
+<strong>Lothraxion</strong> is a unique case: a member of the Army of the Light who has been infused with Light energy, serving as &ldquo;high commander of the Vanguard&rdquo; in Midnight. His name lacks the apostrophe convention entirely and follows a Latinate morphological pattern (<em>Loth-</em> + <em>-raxion</em>), more similar to Eredun/Draenei naming (<em>Loth</em> as in <em>Lothar</em>) than to Naaru or Shath'Yar. He may not be a Naaru at all but a Light-infused being of another race.
 </div>
 
 <h3>Analysis</h3>
@@ -215,39 +649,38 @@
 <strong>Confidence: Low&ndash;Medium</strong> that Naaru names reflect genuine Shath'Yar naming conventions rather than Blizzard design convergence. The systematic parallel (all Naaru use the convention) is stronger than a coincidence would predict, but the Light-Void opposition makes in-universe transmission unlikely unless the naming convention predates the Light-Void split or is a universal cosmic naming pattern.
 </div>
 
-<h2 id="phrases">Attested Phrases</h2>
+<h2 id="morphemes">Potential Morphemes (Updated from Confirmed Data)</h2>
+
+<p>Morphemes confirmed or strongly supported by the official translations:</p>
 
 <table>
 <thead>
-<tr><th>Phrase</th><th>Translation</th><th>Notes</th></tr>
+<tr><th>Element</th><th>Inferred Meaning</th><th>Evidence</th><th>Confidence</th></tr>
 </thead>
 <tbody>
-<tr><td>Ywaq maq oou</td><td><span class="uncertain">Unknown</span></td><td><span class="uncertain">(uncertain)</span> meaning entirely unknown</td></tr>
-<tr><td>Ywaq maq ywaq</td><td><span class="uncertain">Unknown</span></td><td><span class="uncertain">(uncertain)</span> repetition of "ywaq" may be significant</td></tr>
-<tr><td>Iilth vwah, uhn'agth fhssh za</td><td><span class="uncertain">Unknown</span></td><td><span class="uncertain">(uncertain)</span> meaning entirely unknown</td></tr>
-<tr><td>All serves the will of N'Zoth</td><td>English-language whisper</td><td>In-game voice line</td></tr>
-<tr><td>The silent star will drink its fill</td><td>English-language whisper</td><td>N'Zoth whisper</td></tr>
-<tr><td>The sleeper awakens</td><td>English-language whisper</td><td>Common Old God phrase</td></tr>
-<tr><td>Your friends will abandon you</td><td>English-language whisper</td><td>Yogg-Saron whisper</td></tr>
+<tr><td>N'-</td><td>Negation / absence / otherness</td><td><em>N'Zoth</em>, <em>N'raqi</em></td><td>Low</td></tr>
+<tr><td>-oth</td><td>Divine / name-forming suffix</td><td><em>N'Zoth</em>, <em>Il'gynoth</em></td><td>Low</td></tr>
+<tr><td>-i</td><td>Plural / agent suffix</td><td><em>N'raqi</em>, <em>Aqir</em></td><td>Low</td></tr>
+<tr><td>Il</td><td>Heart / core</td><td><em>Il'gynoth</em>, <em>an'qov</em> = &ldquo;heart&rdquo;</td><td>Low&ndash;Moderate</td></tr>
+<tr><td>K'th</td><td>Servant / thrall</td><td><em>K'thir</em></td><td>Low</td></tr>
+<tr><td>Shath</td><td>Old / black</td><td><em>Shath'Yar</em> = &ldquo;Old Gods&rdquo;; <em>Shath'mag</em> = &ldquo;Black Empire&rdquo;; <em>Shath'gral</em> = &ldquo;Old Ones&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>Yar</td><td>God(s)</td><td><em>Shath'Yar</em> = &ldquo;Old Gods&rdquo;; <em>Ak yar</em> = &ldquo;our gods&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>Ywaq</td><td>They (pronoun)</td><td><em>Ywaq maq oou</em> = &ldquo;They do not die&rdquo;</td><td><strong>High</strong></td></tr>
+<tr><td>sk-</td><td>Your (possessive prefix)</td><td>6 independent attestations</td><td><strong>High</strong></td></tr>
+<tr><td>qi'</td><td>Future tense prefix</td><td>3+ attestations</td><td><strong>High</strong></td></tr>
 </tbody>
 </table>
 
-<h2 id="morphemes">Potential Morphemes</h2>
+<h2 id="rlyehian">Notes on R'lyehian Inspiration</h2>
 
-<table>
-<thead>
-<tr><th>Element</th><th>Inferred Meaning</th><th>Attested In</th></tr>
-</thead>
-<tbody>
-<tr><td>N'raq</td><td><span class="inferred">Face / faceless</span></td><td><span class="inferred">(inferred)</span> from N'raqi</td></tr>
-<tr><td>Qi</td><td><span class="uncertain">One / people</span></td><td><span class="uncertain">(uncertain)</span> from N'raqi, Aqir</td></tr>
-<tr><td>Shath</td><td><span class="uncertain">Unknown, possibly "old" or "ancient"</span></td><td><span class="uncertain">(uncertain)</span> from Shath'Yar</td></tr>
-<tr><td>Yar</td><td><span class="uncertain">Unknown, possibly "speech" or "whisper"</span></td><td><span class="uncertain">(uncertain)</span> from Shath'Yar</td></tr>
-<tr><td>Il</td><td><span class="uncertain">Heart / core</span></td><td><span class="uncertain">(uncertain)</span> from Il'gynoth</td></tr>
-<tr><td>K'th</td><td><span class="uncertain">Servant / thrall</span></td><td><span class="uncertain">(uncertain)</span> from K'thir</td></tr>
-<tr><td>Ywaq</td><td><span class="uncertain">Unknown, possibly pronoun or verb</span></td><td><span class="uncertain">(uncertain)</span> from attested phrases</td></tr>
-</tbody>
-</table>
+<p>The wiki notes that Shath'Yar is inspired by <strong>R'lyehian</strong>, the language of the Great Old Ones in H.P. Lovecraft's Cthulhu Mythos. The most famous R'lyehian text is the chant from <em>The Call of Cthulhu</em>: <em>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn</em> (&ldquo;In his house at R'lyeh dead Cthulhu lies dreaming&rdquo;). Features shared with R'lyehian:</p>
+<ul>
+<li>Long consonant clusters nearly impossible to pronounce (representing alien vocal anatomy)</li>
+<li>Frequent use of apostrophes</li>
+<li>Grammar quite different from English (especially regarding articles and auxiliary verbs)</li>
+<li>Word-for-word translation produces &ldquo;broken English&rdquo; (e.g., &ldquo;They not die; they not live. They outside cycle.&rdquo;)</li>
+</ul>
+<p>This means Shath'Yar, unlike many WoW languages, has no real-life linguistic inspiration &mdash; only indirect influences via R'lyehian (which itself has no real-world grammar).</p>
 
 </body>
 </html>

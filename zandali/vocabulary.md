@@ -99,11 +99,27 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Pa'ku | Loa of Winds | Proper name |
 | Krag'wa | Loa of Frogs/Earth | Proper name |
 | Gonk | Loa of Raptors | Proper name |
-| Kimbul | Loa of Tigers | Proper name |
 | Akunda | Loa of Storms/Thoughts | Proper name |
 | Sethraliss | Loa of Serpents/Lightning | Proper name |
 | Rezan | Loa of Kings | Proper name |
 | Jani | Loa of Scavengers | Proper name |
+
+### "X no Y" Loa Naming Pattern
+
+Three loa are attested with a **"no" connective particle** between a title element and the loa name. This particle is **distinct from "na"** (in/to/of) and may be a genitive or vocative connective:
+
+| Name | Loa | Decomposition | Notes |
+|------|-----|---------------|-------|
+| Elortha no Shadra | Spider loa | *Elortha* + *no* + *Shadra* | The first element *Elortha* may be a title or descriptor |
+| Eraka no Kimbul | Tiger loa | *Eraka* + *no* + *Kimbul* | The first element *Eraka* may be a title or descriptor |
+| Ueetay no Mueh'zala | Sandfury death loa | *Ueetay* + *no* + *Mueh'zala* | The first element *Ueetay* may be a title or descriptor |
+
+This is the **first evidence of a second preposition/particle** beyond *na*, and the pattern is not previously documented. Possible interpretations:
+1. **Genitive connective**: *no* = "of" — "Elortha of Shadra" (servant/champion of the loa)
+2. **Vocative/appositional**: *no* = "called/named" — "Elortha, [who is] Shadra"
+3. **Possessive**: *no* = belonging to / property of
+
+**Confidence: Low** — three attestations of the pattern, but no official translation of *no* as a particle
 
 ## Nouns — Proper Names (Persons)
 
@@ -138,6 +154,27 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Samedi | Darkspear grave loa | Proper name |
 | Shango | Storm loa | Proper name |
 | Farastu | Unbound water elemental | Proper name; Shimmer Ridge. Title: <The Living Ice>. Name may directly translate to title |
+
+### Additional Names with "Vol" Prefix
+
+| Name | Notes |
+|------|-------|
+| Vol'guk | Shares "Vol" prefix with *Vol'jin*. The *Vol* element may be a meaningful prefix distinct from *Zul'* — possibly meaning "shadow" or "spirit" given Vol'jin's role as a shadow hunter |
+| General Vol'tar | Shares "Vol" prefix. Military title "General" is Common. The *-tar* element parallels *-tar* in *Lok'tar* |
+
+The *Vol* prefix now has **three attestations**: *Vol'jin*, *Vol'guk*, *Vol'tar*. If *Zul'* = "great" and *Jin* = "chief/leader", then *Vol* may represent a third title prefix with unknown meaning. The association of *Vol'jin* with shadow hunting and the *Vol* prefix's appearance in military contexts (*General Vol'tar*) suggest *Vol* may relate to warfare, shadow, or spiritual power.
+
+**Confidence: Very Low–Low** for *Vol* as a genuine morpheme — three attestations is suggestive but not conclusive, and the prefix could be coincidental phonological similarity.
+
+### Cultural and Linguistic Notes (from Wiki Sources)
+
+| Note | Source |
+|------|--------|
+| The Hakkari refer to Zandali as "the old tongue" and do not converse in it | Exzhal NPC dialogue |
+| Tyrathan Khort picked up Zandali and can speak it with a Stranglethorn accent | *Vol'jin: Shadows of the Horde*, pg. 42 |
+| Few dare to learn Zandali as the Darkspear tend to be very aggressive when asked about it | RPG source |
+| Chris Metzen (2007) stated he didn't know what "Taz'dingo" meant | Games for Windows magazine, Issue 07, pg. 50 |
+| **Patch 12.0.5 retcon**: When Midnight first launched, the Tablet of the Ruling Family said Mystic Yayo'jin was Zul'jin's wife, and Zul'jin was said to be descended from the hero **Jintha** of the Troll Wars. **Both familial references were removed in patch 12.0.5.** This affects the etymology of *Jintha'Alor* — if Jintha was a historical hero of the Troll Wars, then *Jintha'Alor* = "Temple of Jintha" would be consistent with the *-alor* = "temple" pattern. The retcon makes Jintha's status uncertain | warcraft.wiki.gg/wiki/Zul'jin |
 
 ## Titles and Affixes
 
