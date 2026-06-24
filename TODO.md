@@ -78,9 +78,6 @@
 
 - [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
 - [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
-- [ ] Sync Shath'Yar HTML files (vocabulary.html, grammar.html, description.html) with updated .md counterparts — major expansion with 55+ confirmed phrases, speculative dictionary, updated morphology/syntax
-- [ ] Sync ethereal HTML files with updated vocabulary.md — Zo'- prefix, Sufaad/Sufaadi, cuneiform, new names/places, Tabiqa
-- [ ] Sync Zandali HTML files with updated vocabulary.md — "X no Y" loa pattern, Vol' prefix, cultural notes, patch 12.0.5 retcon
 
 ## Completed This Round (2026-06-24, Round 2)
 
@@ -345,4 +342,13 @@
 - [x] Add Writing System section to 8 language description.md files: ethereal, nerubian, vrykul, drust, haranir, qiraji, earthen, gnomish — describing attested scripts, runic traditions, and pictographic systems
 - [x] Move completed investigations from Next Actions: *ney* ↔ *-ne* (DONE), *Weta/Watha* agreement (DONE), *Noa* dual usage (DONE), patch 12.1.0 PTR check (DONE)
 - [x] Sync zandali/vocabulary.html and description.html with updated .md files
-- [x] Sync 8 language description.html files with updated description.md files: ethereal, nerubian, vrykul, drust, haranir, qiraji, earthen, gnomish — added Overview, Phonological Features, and Writing System sections; updated navigation bars
+ - [x] Sync 8 language description.html files with updated description.md files: ethereal, nerubian, vrykul, drust, haranir, qiraji, earthen, gnomish — added Overview, Phonological Features, and Writing System sections; updated navigation bars
+
+## Completed This Round (2026-06-24, Round 3)
+
+- [x] Verify Shath'Yar HTML sync status: vocabulary.html, grammar.html, description.html all fully synced with .md counterparts (confirmed via section header comparison)
+- [x] Verify ethereal HTML sync status: vocabulary.html fully synced with vocabulary.md (all 16 sections present, including Domanaar naming, Fallen-King, Zo'- prefix, Reshii investigation, apostrophe cross-reference)
+- [x] Verify Zandali HTML sync status: vocabulary.html, grammar.html, description.html all fully synced with .md counterparts (including Open Linguistic Investigations, Patch 12.1.0, primer text analysis)
+- [x] Mark three HTML sync TODO items as completed (Shath'Yar, ethereal, Zandali — all were already done in previous rounds but not marked as complete)
+- [x] Sync common/vocabulary.html with vocabulary.md: added missing Hallowfall Geographic Features section (14 place names), Arathi Personal Name Patterns subsection, TWW Factions section (4 factions), Relationship to Other Languages section (4 subsections: Vrykul, Titan, Dwarven/Gnomish, Orcish), Key Phonological Features section, Attestation and Reliability section (3 subsections), References section; expanded Places table with 5 missing entries (Ironforge, Hillsbrad, Theramore, Stratholme, Durnholde); expanded Historical Figures table with 8 missing entries (Daelin, Terenas, Calia, Danath, Genn, Alonsus, Marran, Veronica); expanded Kingdom Names table with 4 missing entries; updated navigation bar
+- [x] HTML structural validation: all tables balanced, all thead/tbody pairs matched, no visible .md link text across all 87+ HTML files
