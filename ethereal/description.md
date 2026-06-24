@@ -20,7 +20,8 @@ Key historical events affecting the language:
 - **The Consortium (TBC)**: Ethereals established the Consortium, a trading guild based in Netherstorm, Outland. Consortium ethereals like Nexus-Prince Haramad and Nexus-Prince Shaffar carry ethereal-language names but speak Common in-game.
 - **The Ethereum (TBC)**: A separatist ethereal faction led by Commander Ameer. Their name "Ethereum" may contain the self-designation root *Ethere-*.
 - **The Shadowlands (2020)**: Brokers established Tazavesh, a trading city in the Shadowlands. The broker Ve'nari operated in the Maw. Brokers speak Common but use broker-language names.
-- **The War Within: Ghosts of K'aresh (2025–2026)**: The Shadowguard (Void-corrupted ethereals led by Nexus-King Salhadaar) attempted to revive Dimensius using the Dark Heart. The Wastelanders (ethereals who worship K'aresh's Worldsoul) and the K'aresh Trust (a coalition of ethereals and brokers) opposed them. This campaign provides the largest corpus of ethereal names and place names.
+- **The War Within: Ghosts of K'aresh (2025–2026)**: The Shadowguard (Void-corrupted ethereals led by Nexus-King Salhadaar) attempted to revive Dimensius using the Dark Heart. The Wastelanders (ethereals who worship K'aresh's Worldsoul) and the K'aresh Trust (a coalition of ethereals and brokers) opposed them. This campaign provides the largest corpus of ethereal names and place names. Salhadaar was revealed to have been **High Priest** of K'aresh before declaring himself High King; his confidants were *Bilaal* and *Soul-Scribe*.
+- **Midnight (2026)**: The Domanaar — a separate Void species with Latin-inspired naming — now command the Devouring Host alongside the Shadowguard. Salhadaar (as "Fallen-King") corrupts naaru T'era in the Voidstorm before being betrayed and killed by Xal'atath. The Voidspire six-boss raid introduces Imperator Averzian and Fallen-King Salhadaar. The Domanaar's systematic Latin naming vs. ethereal Arabic naming suggests either a separate language or a highly divergent dialect.
 
 ## Cultural Context
 
@@ -34,6 +35,7 @@ Key historical events affecting the language:
 - **Ethereal dialect**: The language as spoken by ethereals. Attested through personal names (*Salhadaar*, *Shaffar*, *Haramad*, *Azir*) and the homeworld name *K'aresh*. Names tend to be longer and may reflect a more formal register.
 - **Broker dialect**: The language as spoken by brokers. Attested through personal names (*Ve'nari*) and the city name *Tazavesh*. Names tend to be shorter, possibly reflecting a more streamlined mercantile register.
 - **Shadowguard variant**: Void-corrupted ethereals may use a dialect influenced by Shath'Yar phonology, though no clear evidence of this is attested in the name corpus.
+- **Domanaar naming (Midnight)**: The Domanaar — a separate Void species that commands the Devouring Host — use systematically Latin-inspired names (*Pertinax*, *Decimus*, *Nocturnius*, *Averzian*) with zero apostrophe usage, contrasting sharply with the Arabic-inspired, apostrophe-using ethereal naming convention. This likely represents a different language rather than a dialect of the ethereal language. The Domanaar also use the *Imperator* military title rather than the *Nexus-* noble hierarchy.
 
 ## Phonological Features
 
@@ -57,6 +59,7 @@ No ethereal writing system has been depicted in canon. Given that ethereals are 
 - **No confirmed genetic relationships**: The ethereal language shares no confirmed morphemes with any other WoW language family. The *Az-* element in *Azir* and nerubian *Azj-* is likely coincidental.
 - **Shath'Yar (possible contact influence)**: Some ethereals (the Shadowguard) have been corrupted by the Void. The apostrophe convention may reflect Shath'Yar orthographic influence, though this is equally likely a Blizzard design convention for "alien" names.
 - **Draenei (cultural parallel)**: Both ethereals and Draenei are refugees from worlds destroyed by cosmic forces (Dimensius and the Burning Legion, respectively). No linguistic connection is confirmed, but the parallel displacement experience is notable.
+- **Domanaar (Void species — Midnight)**: The Domanaar are a separate Void species that now commands the Devouring Host alongside the Shadowguard. Their Latin-inspired naming convention is systematically different from the ethereal Arabic-inspired naming, and they lack apostrophe-marked compounds entirely. The Domanaar oversee the Shadowguard in the Voidstorm, placing them in a hierarchical relationship with ethereals. The linguistic differences strongly suggest the Domanaar speak a different language, though no attested phrases exist for either species to confirm this.
 
 ## Attestation and Reliability
 
@@ -66,8 +69,9 @@ The ethereal language is **extremely poorly attested**. The known corpus consist
 - ~4 place names with potential ethereal etymologies
 - The faction designation "Ethereum" (possibly containing the self-designation root)
 - The artifact name "Reshii Ribbons" (possibly containing the *-esh* element)
+- 13+ Domanaar names (Midnight) with a systematically different naming convention
 
-No ethereal-language sentences, phrases, or texts are attested in canon.
+No ethereal-language sentences, phrases, or texts are attested in canon. No Domanaar-language sentences, phrases, or texts are attested either.
 
 ### What is reliable
 
@@ -97,4 +101,6 @@ No ethereal-language sentences, phrases, or texts are attested in canon.
 - *World of Warcraft: The Burning Crusade* (2007). Blizzard Entertainment. (Netherstorm ethereal NPCs, Mana-Tombs, Consortium, Ethereum.)
 - *World of Warcraft: Shadowlands* (2020). Blizzard Entertainment. (Broker NPCs, Tazavesh, Ve'nari.)
 - *World of Warcraft: The War Within* (2024). Blizzard Entertainment. (Ghosts of K'aresh campaign: Locus-Walker, Ve'nari, Nexus-King Salhadaar, Phase-Thief Azir, Soul-Scribe.)
+- *World of Warcraft: Midnight* (2026). Blizzard Entertainment. (Domanaar species, Imperator Averzian, Fallen-King Salhadaar, Voidspire raid, naaru T'era, Voidforge, shadowgraft, Devouring Host command structure.)
 - Wikipedia: "World of Warcraft: The War Within" (accessed June 2026). (Verified plot details for Ghosts of K'aresh campaign.)
+- warcraft.wiki.gg: "Domanaar", "Nexus-King Salhadaar", "Zul'jan" (accessed June 2026). (Verified Domanaar species data, Salhadaar official IPA, K'aresh lore.)

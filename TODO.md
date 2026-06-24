@@ -69,7 +69,7 @@
 
 - [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
-- [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data
+- [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data — **NOT YET AVAILABLE**: Patch 12.1.5 scheduled for Autumn 2026; no PTR data yet
 
 ## Next Actions
 
@@ -283,6 +283,23 @@
 - [x] Sync zandali/grammar.html with updated grammar.md: added Open Linguistic Investigations section (5 subsections with tables, lists, and confidence notes); updated nav with new link; updated Weta/Watha, possessive pronouns, participle/gerundive, and Gaps sections
 - [x] Update zandali/vocabulary.md: added cross-references to grammar.md investigations for *Alanke*, *Wa'aru*, *Ney*, *Noa*
 - [x] Sync zandali/vocabulary.html: updated *Alanke*, *Wa'aru*, *Ney*, *Noa* entries with cross-references to grammar.html investigations
+
+## Completed This Round (2026-06-24)
+
+- [x] Research patch 12.1.5 availability: not yet released (Autumn 2026); no new data available
+- [x] Research Midnight Domanaar species from warcraft.wiki.gg: 13+ Domanaar names documented with systematic Latin-inspired naming convention
+- [x] Add Domanaar names section to ethereal/vocabulary.md: 13 new names (Averzian, Pertinax, Enigmalia, Nocturnius, Charonus, Nysarra, Degentrius, Decimus, Nullaeus, Severum, Terminas, Vidious, Ziadan) with IPA and analysis
+- [x] Add Domanaar naming analysis: systematic comparison table of Latin-inspired Domanaar vs. Arabic-inspired ethereal naming conventions (8 features compared)
+- [x] Update Nexus-King Salhadaar with official IPA /sæl.həˈdɑːr/ from warcraft.wiki.gg and expanded K'aresh lore (High Priest, Council of Oracles, Bilaal/Soul-Scribe confidants)
+- [x] Add Fallen-King Salhadaar section for Midnight Voidspire raid boss
+- [x] Add T'era naaru, shadowgraft, Council of Oracles, Voidforge entries to ethereal vocabulary
+- [x] Update Bilaal entry with K'aresh lore (Salhadaar's confidant alongside Soul-Scribe)
+- [x] Update ethereal language family diagram with Domanaar Language? branch
+- [x] Update alien comparison table from 5-column to 6-column (added Domanaar): naming aesthetic, apostrophe absence, Imperator vs. Nexus-* titles
+- [x] Add Ethereal–Domanaar Connection analysis to §12 Relationships
+- [x] Update ethereal description.md: Midnight history entry, Domanaar dialect variant, Domanaar relationship, attestation update, references
+- [x] Sync ethereal/vocabulary.html with all vocabulary.md updates: Salhadaar IPA, Domanaar names table, naming analysis table, Fallen-King section, Additional Entities section, Imperator table update, language family diagram, comparison table
+- [x] Sync ethereal/description.html with all description.md updates: Midnight history, Domanaar dialect, Domanaar relationship, attestation, references
 
 ## Completed This Round (2026-06-23, Round 2)
 

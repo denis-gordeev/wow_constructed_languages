@@ -12,7 +12,7 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 |------|-----|------|-------|
 | Locus-Walker | /ˈloʊkəs ˈwɔːkər/ | Ethereal; Alleria's mentor in Void magic | English compound title. "Locus-Walker" is almost certainly a Common-language translation of an ethereal title, not an ethereal-language name. Member of the Ravel; helped destroy K'aresh to prevent Dimensius from devouring the Worldsoul. Killed by Xal'atath during the Ghosts of K'aresh campaign. |
 | Ve'nari | /vɛˈnɑːri/ | Broker; leader of the K'aresh Trust | Apostrophe-marked compound: *Ve'* + *-nari*. Previously appeared in Shadowlands (9.0) as a broker in the Maw. |
-| Nexus-King Salhadaar | /ˌnɛksəsˈkɪŋ sɑːləˈdɑːr/ | Leader of the Shadowguard; former ruler of K'aresh | "Nexus-King" is a Common-language title. *Salhadaar* is an ethereal name: possibly *Sala-* + *-daar*. The *-daar* suffix may be an ethereal title or rank element. First attested in TBC (Netherstorm). Killed in TBC; resurrected by Dimensius in the Void for TWW. In Midnight, serves Xal'atath reluctantly after she tortured him for turning against her; corrupts a naaru at a Nexus-Point; killed in the Voidspire assault. **Spelling note:** The Midnight wiki page uses "Salhaadar" (Sal-haa-dar) rather than "Salhadaar" (Sal-ha-daar) — the vowel positions differ. This may be a wiki typo, a variant spelling, or a different character. Most likely the same character. |
+| Nexus-King Salhadaar | /sæl.həˈdɑːr/ | Leader of the Shadowguard; former ruler of K'aresh | **Official IPA** from warcraft.wiki.gg: */sæl.həˈdɑːɹ/*. "Nexus-King" is a Common-language title. *Salhadaar* is an ethereal name: possibly *Sala-* + *-daar*. The *-daar* suffix may be an ethereal title or rank element. First attested in TBC (Netherstorm). Killed in TBC; resurrected by Dimensius in the Void for TWW. Formerly **High Priest** of K'aresh and leader of the **Council of Oracles**; his confidants were *Bilaal* and *Soul-Scribe*. He ordered the shields lowered on K'aresh, causing the Void to assault the last bastions. In Midnight, serves Xal'atath reluctantly after she tortured him; corrupts naaru *T'era* at a Nexus-Point; betrayed and usurped by Xal'atath; killed in the Voidspire as "Fallen-King Salhadaar" — see Midnight section |
 | Nexus-Prince Azir | /ˈæzɪr/ | Nexus-Prince; Shadowguard leader | Previously known as "Phase-Thief Azir." The wiki confirms his title is Nexus-Prince. *Azir* is an ethereal name; may contain the *Az-* element also found in nerubian *Azj-*, but this is likely coincidental. |
 | Soul-Scribe | /ˈsoʊlskraɪb/ | Wastelander ethereal leader | English compound title. May translate an ethereal title. Sacrificed herself to heal K'aresh's Worldsoul during the Ghosts of K'aresh campaign. |
 | Nexus-Princess Ky'veza | /kaɪˈvɛzə/ | Raid boss (Nerub-ar Palace); ethereal infiltrator | Apostrophe-marked compound: *Ky-* + *-veza*. Confidant of Queen Ansurek, but working for an unknown master. Also ruled the city of *Ma'nussa* on K'aresh. Previously listed as a nerubian raid boss; reclassified here as ethereal. |
@@ -33,7 +33,58 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
 | Hal'hadar | /hɑːlˈhɑːdɑːr/ | Ethereal faction in Naigtal | Apostrophe-marked compound: *Hal'* + *-hadar*. An ethereal faction occupying the fungal, arcane-rich world of Naigtal. The *-hadar* element may parallel *Hara'dar* or be coincidental. Accessed via Void Assault Escalations in Voidstorm |
-| Domanaar Imperator Pertinax | /ˈpɜːrtɪnæks/ | Domanaar leader in Val | "Domanaar Imperator" is a title (see shath-yar/vocabulary.md for *domanaar* analysis). *Pertinax* is a personal name; Latin-style (historical Roman emperor name), likely Common/Classic-language rendering rather than ethereal. Established a bastion of power in Val, an icy world once inhabited by the Legion |
+
+### Midnight Expansion: Domanaar (2026)
+
+The **Domanaar** are highly intelligent Void beings, chief among Xal'atath's followers and commanders of the Devouring Host. They are classified as a **separate species** from ethereals — categorized as "Other" Void beings alongside void revenants and voidwalkers in the warcraft.wiki.gg species template. Their society consists of three groups: **Artisans** (builders who enhance Void mastery), **Host Command** (generals of the Devouring Host), and **Overlords** (the most violent, who seek stronger foes to defeat). Xal'atath brought them together in an uneasy alliance after consuming their former High Lords.
+
+Domanaar names show **Latin-inspired naming patterns** — sharply distinct from the Arabic-inspired ethereal naming convention. This suggests the Domanaar either speak a different language or a dialect so divergent that their naming conventions reflect separate cultural origins. Early development name was "dominaar" (*The Art of Midnight*).
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Imperator Averzian | /æˈvɛrziən/ | Raid boss (Voidspire) | "Imperator" is a military title distinct from the ethereal *Nexus-* hierarchy. *Averzian* = possibly *Averz-* + *-ian*. The *-ian* / *-zian* ending is new. Fought alongside Fallen-King Salhadaar in the Voidspire six-boss raid. **Species: Domanaar** (confirmed by wiki icon) |
+| Imperator Pertinax | /ˈpɜːrtɪnæks/ | Domanaar leader in Val | Latin-style name (historical Roman emperor name). Established a bastion of power in Val, an icy world once inhabited by the Burning Legion. Previously listed as "Domanaar Imperator Pertinax" — now confirmed as a Domanaar species name |
+| Imperator Enigmalia | /ˌɛnɪɡˈmeɪliə/ | Elite Domanaar | Latin-style name with *-ia* feminine ending. The *Enigm-* root evokes "enigma" (mystery) |
+| Imperator Nocturnius | /nɒkˈtɜːrniəs/ | Elite Domanaar | Latin-style name; *Nocturn-* = "night" + *-ius* masculine ending |
+| Charonus | /ˈkærənəs/ | Raid boss | Latin/Greek-style name; possible *Charon* reference (mythological ferryman of the dead). The *-us* masculine ending is consistent with Latin naming |
+| Corewarden Nysarra | /nɪˈsɑːrə/ | Raid boss | Latin-style name with *-arra* ending. "Corewarden" is a Common-language title. The *-arra* ending is unattested in ethereal names |
+| Degentrius | /dɪˈdʒɛntriəs/ | Raid boss (Domanaar Buff form) | Latin-style name; *Degentr-* + *-ius* masculine ending |
+| Decimus | /ˈdɛsɪməs/ | Neutral NPC (Domanaar) | Latin-style name; *Decimus* = "tenth" in Latin. A named Domanaar who is neutral rather than hostile, suggesting not all Domanaar serve the Devouring Host |
+| Nullaeus | /ˈnʌliəs/ | Hostile mob (Domanaar) | Latin-style name; *Null-* + *-aeus* ending. The *-aeus* ending is new |
+| Severum | /ˈsɛvərəm/ | Hostile mob (Domanaar) | Latin-style name; *Sever-* + *-um* neuter ending. The *-um* ending parallels the *Ethereum* collective suffix |
+| Terminas | /ˈtɜːrmɪnəs/ | Elite mob (Domanaar) | Latin-style name; *Termin-* root evokes "termination/boundary" + *-as* ending |
+| Vidious | /ˈvɪdiəs/ | Neutral NPC (Domanaar) | Titled "Domanaar of Grief." Latin-style name; *Vid-* + *-ious* adjectival ending |
+| Ziadan | /ziːˈdɑːn/ | Neutral NPC (Domanaar) | Titled "Domanaar of Hate." This name is unusual — it has Arabic-style phonology (*Ziad* is an Arabic name) rather than Latin, possibly reflecting Domanaar naming diversity or Blizzard inconsistency |
+
+### Domanaar Naming Analysis
+
+The Domanaar exhibit a **systematic Latin-inspired naming pattern** distinct from the Arabic-inspired ethereal naming convention:
+
+| Feature | Ethereal Names | Domanaar Names |
+|---------|---------------|----------------|
+| Phonological style | Arabic (*Salhadaar*, *Haramad*, *Ameer*) | Latin (*Pertinax*, *Decimus*, *Nocturnius*) |
+| Masculine endings | *-aar*, *-aad*, *-ar*, *-ad* | *-ius*, *-us*, *-as*, *-os* |
+| Feminine endings | *-a* (*Ky'veza*) | *-ia* (*Enigmalia*), *-arra* (*Nysarra*) |
+| Neuter endings | *-um* (*Ethereum*) | *-um* (*Severum*) |
+| Apostrophe usage | Moderate (*K'aresh*, *Ve'nari*) | **None** — no apostrophe-marked compounds in any Domanaar name |
+| Name length | Short–Medium (2–3 syllables) | Medium–Long (3–4 syllables) |
+| Title system | *Nexus-King/Prince/Princess* | *Imperator* (military) |
+| Cultural aesthetic | Desert merchants / scholars | Imperial military / conquerors |
+
+The Latin naming pattern may reflect:
+1. **A separate language**: The Domanaar may speak their own language with Latin phonological aesthetics, unrelated to the ethereal language of K'aresh
+2. **A Domanaar dialect**: If they originated from the same Void-touched space, their naming could represent a divergent dialect influenced by different cultural pressures
+3. **Blizzard design aesthetic**: Latin names evoke imperial Rome, reinforcing the Domanaar's conquest-and-hierarchy culture (Artisans, Host Command, Overlords)
+
+The Domanaar title **Imperator** (Latin for "commander/emperor") replaces the ethereal **Nexus-King/Prince** hierarchy, suggesting a separate military structure rather than the merchant-nobility system of K'aresh.
+
+**Confidence: Moderate–High** that Domanaar names represent a distinct naming convention from ethereal names, based on systematic phonological and morphological differences across 13+ attested names. **Confidence: Very Low** on whether the Domanaar speak a genuinely different language vs. a different dialect of the same language, since no attested phrases exist for either species.
+
+### Midnight Expansion: Fallen-King Salhadaar (2026)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Fallen-King Salhadaar | /sæl.həˈdɑːr/ | Raid boss (Voidspire) | **Official IPA** from warcraft.wiki.gg: */sæl.həˈdɑːɹ/* = /sæl.həˈdɑːr/. The title "Fallen-King" replaces his former "Nexus-King" title after Xal'atath betrayed him, usurped his Shadowguard leadership, and infused him with excessive Void energy. Found delirious in the Voidspire by Turalyon and Bellamy; upon defeat, believed he was being returned to K'aresh. His Midnight lore reveals: he was formerly **High Priest** of K'aresh (not just political ruler), leader of the **Council of Oracles** (the K'areshi ruling class), and had *Bilaal* and *Soul-Scribe* as his confidants. He ordered the shields lowered on K'aresh (causing the Void to assault the last bastions), and later radicalized the Ethereum into the Shadowguard |
 
 ### Midnight Expansion: New Worlds (Patch 12.0.7)
 
@@ -42,6 +93,17 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 | Naigtal | /ˈneɪɡtɑːl/ | Uncertain | Fungal, arcane-rich world now occupied by the Hal'hadar ethereal faction. Accessed via unstable portal in Voidstorm. No apostrophe; potential ethereal-language place name. **Confidence: Very Low** for genuine ethereal morpheme content |
 | Val | /vɑːl/ | Uncertain | Icy world once inhabited by the Burning Legion; now occupied by Domanaar Imperator Pertinax. Short name, no apostrophe. Likely not ethereal-language (Legion origin). Accessed via unstable portal in Voidstorm |
 
+### Midnight Expansion: Additional Entities (2026)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| T'era | /ˈtɛrə/ | Naaru; captured and corrupted by Salhadaar | Initial-apostrophe name following the naaru naming convention (cf. *K'ure*, *M'uru*, *O'ros*). The Shadowguard captured T'era in the Voidstorm and sought to corrupt her to the Void. Salhadaar succeeded in fully corrupting her, creating a dark naaru. **Not an ethereal-language name** — naaru names follow Shath'Yar initial-apostrophe patterns |
+| Soul-Scribe | /ˈsoʊlskraɪb/ | Wastelander ethereal leader; former confidant of Salhadaar | English compound title. Salhadaar's closest confidant alongside Bilaal; stood with him when he declared himself High King of K'aresh. Ordered by Salhadaar to hunt down Ravel members after K'aresh's destruction. Sacrificed herself to heal K'aresh's Worldsoul during the Ghosts of K'aresh campaign. **Confirmed female** by wiki lore |
+| Shadowgraft | — | Void-infused metal | Domanaar technology. Empowers those it is grafted onto but also alters their minds. Used by the Domanaar to increase the numbers of the Devouring Host. Common-language name |
+| Voidforge | — | Domanaar structure | A structure visible in Domanaar concept art. Likely related to their Artisan class (builders who enhance Void mastery). Common-language name |
+| Council of Oracles | — | K'areshi ruling class | The ruling class of K'aresh before its destruction. The Oracles became the Nexus-Princes after the ethereal transformation. Common-language name |
+| The Ravel | — | Secret K'areshi collective | A collection of the sharpest K'areshi minds. Members included Locus-Walker, Nari, and (secretly) Xal'atath. Used the combined power of the Reshii Ribbons to destroy K'aresh in an attempt to kill Dimensius. The name "Ravel" may be a Common translation of an ethereal concept |
+
 ### The Burning Crusade (2007): Netherstorm Ethereals
 
 | Name | IPA | Role | Notes |
@@ -49,7 +111,7 @@ The Ethereal language is spoken by the ethereals — energy beings from the shat
 | Nexus-Prince Shaffar | /ˈʃæfɑːr/ | Boss of Mana-Tombs | "Nexus-Prince" is a Common-language title. *Shaffar* is an ethereal name; double consonant *-ff-* may reflect an ethereal geminate pattern. |
 | Nexus-Prince Haramad | /ˈhærəmæd/ | Leader of the Consortium | "Nexus-Prince" is a Common-language title. *Haramad* is an ethereal name; the *-mad* / *-aad* ending parallels *Salhadaar*'s long *-aa-* sequence. |
 | Commander Ameer | /əˈmɪər/ | Leader of the Protectorate | "Commander" is a Common-language title. *Ameer* is an ethereal name; phonologically similar to Arabic *amīr* ("commander"), possibly deliberate Blizzard design. |
-| Nexus-Prince Bilaal | /bɪˈlɑːl/ | Leader of Ethereum (Nexus invasion); former ruler of Tazavesh | "Nexus-Prince" is a Common-language title. *Bilaal* is an ethereal name; Arabic-style name (cf. Bilal). Transformed into a void revenant during the Legion artifact questline. |
+| Nexus-Prince Bilaal | /bɪˈlɑːl/ | Leader of Ethereum (Nexus invasion); former ruler of Tazavesh; Salhadaar's confidant | "Nexus-Prince" is a Common-language title. *Bilaal* is an ethereal name; Arabic-style name (cf. Bilal). Transformed into a void revenant during the Legion artifact questline. In K'aresh lore, Bilaal was one of Salhadaar's closest confidants alongside Soul-Scribe, standing with him when he declared himself High King |
 | Nexus-Prince Razaan | /rɑːˈzɑːn/ | Leader of the Razaani (Blade's Edge Mountains) | Apostrophe-free ethereal name. The *-aan* ending parallels *Durzaan*. |
 | Artificer Morphalius | /mɔːrˈfæliəs/ | Consortium ethereal (Mana-Tombs) | Latin-style name; may not reflect ethereal-language phonology. |
 | Warp-Raider Nesaad | /nɛˈsɑːd/ | Leader of the Zaxxis | Apostrophe-free ethereal name. *-aad* ending parallels *Salhadaar*. |
@@ -138,7 +200,7 @@ The ethereals use a hierarchical title system rendered in Common:
 | Nexus-King | *Salhadaar* | Highest rank; ruler of K'aresh. Only one holder known. |
 | Nexus-Prince | *Shaffar*, *Haramad*, *Bilaal*, *Razaan*, *Azir* | High nobility; likely a rank below Nexus-King. Multiple holders across different factions. |
 | Nexus-Princess | *Ky'veza* | Female equivalent of Nexus-Prince; only one attestation. Ky'veza ruled the city of *Ma'nussa* on K'aresh. |
-| Imperator | *Averzian*, *Pertinax* | New title from Midnight. Distinct from the *Nexus-* hierarchy — may be a military title rather than a noble one. Averzian fought in the Voidspire (species uncertain); Pertinax leads the Domanaar from Val (icy world, patch 12.0.7). The Domanaar Imperator title suggests the Domanaar have a separate military hierarchy from the ethereal Nexus-* nobility |
+| Imperator | *Averzian*, *Pertinax*, *Enigmalia*, *Nocturnius* | New title from Midnight. Distinct from the *Nexus-* hierarchy — a military title used by the Domanaar. Four attested Imperators, all Domanaar species. The Domanaar Imperator title suggests a separate military hierarchy from the ethereal Nexus-* nobility |
 
 The *Nexus-* prefix is a Common-language compound meaning "connection point" or "center of power." It may translate an ethereal-language title element. If the ethereal language had a native title equivalent to "Nexus," it is not attested.
 
@@ -204,7 +266,7 @@ Ethereals and brokers are closely related species from K'aresh. The brokers may 
 | The Bash'ir | Faction | TBC faction; Ethereum subgroup in Blade's Edge Mountains. Apostrophe-marked: *Bash'* + *-ir*. |
 | The Netherguard | Faction | BfA faction; void ethereal group led by Nether-Prince Durzaan. |
 | Cartel Om | Broker cartel | TWW faction; taken over by Ve'nari. Short name; broker organization. |
-| Devouring Host | Void army | TWW faction (The Warning patch); vast army of void creatures formed by Xal'atath using the Dark Heart. Not ethereal-language; Common-language name. Notable for being the first named void army with organizational structure, suggesting Xal'atath commands a structured military force rather than mindless void creatures. The Devouring Host followed Arator into the Shadowlands' Maw, confirming their ability to operate across dimensional boundaries. In Midnight, the Devouring Host besieges the Sunwell; its generals are called **domanaar** (see shath-yar/vocabulary.md) |
+| Devouring Host | Void army | TWW faction (The Warning patch); vast army of void creatures formed by Xal'atath using the Dark Heart. Not ethereal-language; Common-language name. Notable for being the first named void army with organizational structure, suggesting Xal'atath commands a structured military force rather than mindless void creatures. The Devouring Host followed Arator into the Shadowlands' Maw, confirming their ability to operate across dimensional boundaries. In Midnight, the Devouring Host besieges the Sunwell; its generals are the **Domanaar** — highly intelligent Void beings brought together by Xal'atath in an uneasy alliance after she consumed their former High Lords. The Domanaar oversee the Shadowguard's operations in the Voidstorm |
 | Nexus-Points | Energy infrastructure | Midnight concept; key energy points sustaining the Voidstorm. Disabling them weakens the Voidstorm. The *Nexus-* prefix now extends beyond ethereal titles to spatial/energy infrastructure, suggesting *Nexus-* may be a genuine ethereal-language concept (not just a Common translation of a title) that refers to connection/energy points. *Nexus-Points* may represent a Common-language translation of an ethereal term |
 | Nexus-Point Xenas | Midnight dungeon in Voidstorm | *Xenas* is a proper name within the *Nexus-Point* infrastructure. The *X-* initial is consistent with Shath'Yar/ethereal naming patterns (cf. *Xevozz*, *Xiraxis*, *Xal'atath*). The *-enas* ending is new. A fortress pulsing with unstable Void energy; the campaign reaches a boiling point here. **Confidence: Very Low** for *Xenas* as a genuine ethereal-language word vs. a Blizzard aesthetic choice |
 
@@ -317,6 +379,26 @@ Some ethereals (the Shadowguard) have been corrupted by the Void, and Dimensius 
 
 **Confidence: Low** for direct Shath'Yar loanwords; **Moderate** for Void phonological influence on the Shadowguard dialect.
 
+### Ethereal — Domanaar Connection
+
+The Domanaar are a separate Void species that now commands the Devouring Host alongside the Shadowguard. Linguistic evidence for their relationship:
+
+**Structural differences:**
+- Ethereal names are Arabic-inspired (*Salhadaar*, *Haramad*, *Ameer*); Domanaar names are Latin-inspired (*Pertinax*, *Decimus*, *Nocturnius*)
+- Ethereals use apostrophe-marked compounds (*K'aresh*, *Ve'nari*); Domanaar have **zero** apostrophes in any attested name
+- Ethereals use the *Nexus-* title hierarchy; Domanaar use the *Imperator* military hierarchy
+- Ethereal names are predominantly 2–3 syllables; Domanaar names are 3–4 syllables
+
+**In-universe connections:**
+- The Domanaar oversee the Shadowguard in the Voidstorm (Salhadaar was "placed under the strict oversight of the Domanaar")
+- Both serve Xal'atath and the Devouring Host
+- Imperator Pertinax occupies Val, an icy world formerly held by the Burning Legion — not K'aresh
+- The Domanaar are NOT native to K'aresh — they are classified as Void beings, not K'areshi
+
+**Assessment:** The Domanaar likely speak a **different language** from the ethereal/broker language of K'aresh, or at minimum a highly divergent dialect. The systematic phonological and morphological differences (Latin vs. Arabic naming, absence vs. presence of apostrophe compounding, different title systems) strongly suggest separate linguistic origins. The most probable explanation is Blizzard design: Latin names evoke imperial Rome (conquest, hierarchy), while Arabic names evoke merchant cultures (trade, scholarship), reinforcing the cultural distinction between Domanaar and ethereals.
+
+**Confidence: Moderate** that the naming conventions represent genuinely different linguistic patterns; **Very Low** on whether the Domanaar speak a truly different language (no attested phrases for either species).
+
 ### Ethereal — Draenei Connection
 
 Ethereals and Draenei both originate from worlds destroyed by the Burning Legion / Void (K'aresh and Argus respectively). Both species are refugees. However, no linguistic connection is confirmed:
@@ -327,13 +409,22 @@ Ethereals and Draenei both originate from worlds destroyed by the Burning Legion
 ### Ethereal Language Family: Hypothetical
 
 ```
-K'aresh Language (unattested; native language of pre- destruction K'aresh)
+K'aresh Language (unattested; native language of pre-destruction K'aresh)
 ├── Ethereal dialect (spoken by energy-transformed ethereals)
 │   ├── Netherstorm variant (Consortium, Ethereum — TBC)
 │   └── K'aresh variant (Shadowguard, Wastelanders — TWW)
 └── Broker dialect (spoken by brokers)
     ├── Tazavesh variant (Shadowlands)
     └── K'aresh variant (K'aresh Trust — TWW)
+
+Domanaar Language? (uncertain; native to Domanaar Void beings)
+├── Latin-inspired naming convention (systematic across 13+ names)
+├── No apostrophe-marked compounds (unlike ethereal/broker)
+├── Separate title system (Imperator vs. Nexus-King/Prince)
+└── Relationship to ethereal language: **Unknown** — no attested phrases for either species
+    ├── Possible: Separate language with distinct phonological aesthetic
+    ├── Possible: Divergent dialect influenced by Void culture
+    └── Possible: Blizzard design aesthetic (Latin = imperial, Arabic = merchant)
 ```
 
 This is entirely hypothetical. The relationship between ethereal and broker speech is supported by the shared *-esh* element and shared orthographic conventions, but no confirmed vocabulary overlap beyond place names has been established.
@@ -434,7 +525,7 @@ The addition of *Reshii* provides the full root form (*resh-*) that the suffix a
 
 ## 15. Cross-Reference: Apostrophe-Marked Compounds Across "Alien" WoW Languages
 
-Four WoW languages share the convention of apostrophe-marked morpheme boundaries in proper names: Shath'Yar, nerubian, qiraji, and ethereal. This section analyzes whether this shared convention reflects genuine linguistic structure, Blizzard design aesthetics, or in-universe areal influence.
+Five WoW languages/ naming conventions share or contrast with the apostrophe-marked morpheme boundary convention: Shath'Yar, nerubian, qiraji, ethereal, and Domanaar. This section analyzes whether this shared convention reflects genuine linguistic structure, Blizzard design aesthetics, or in-universe areal influence.
 
 ### Apostrophe Patterns by Language
 
@@ -504,28 +595,29 @@ This creates a problem for the transmission hypothesis: if ethereals independent
 
 | Hypothesis | Plausibility | Evidence |
 |------------|-------------|----------|
-| Blizzard design aesthetic (all four use apostrophes because they're "alien") | **High** | Apostrophe-marked names are a standard fantasy convention; the four languages have no confirmed in-universe connections beyond Old God creation of Aqir |
-| Aqir inherited from Shath'Yar; ethereal is independent | **Medium–High** | The Old God → Aqir → nerubian/qiraji chain is plausible; ethereals' separate origin makes independent development likely |
-| All four share a deep Azerothian areal feature | **Low** | Ethereals are from K'aresh, not Azeroth; areal features require geographic proximity |
-| Direct contact between ethereals and Old God species transmitted the convention | **Very Low** | No documented contact before TWW; the Shadowguard's Void corruption is recent |
+| Blizzard design aesthetic (all five use apostrophes because they're "alien"; Domanaar are the exception proving the rule) | **High** | Apostrophe-marked names are a standard fantasy convention; the Domanaar's complete absence of apostrophes suggests their naming convention was deliberately designed to contrast with other "alien" species |
+| Aqir inherited from Shath'Yar; ethereal is independent; Domanaar is independent | **Medium–High** | The Old God → Aqir → nerubian/qiraji chain is plausible; ethereals' separate origin makes independent development likely; Domanaar's Latin naming is clearly independent |
+| All five share a deep Azerothian areal feature | **Low** | Ethereals are from K'aresh, Domanaar are Void-native; areal features require geographic proximity |
+| Direct contact between ethereals/Domanaar and Old God species transmitted the convention | **Very Low** | No documented contact before TWW; the Shadowguard's Void corruption is recent |
 
-**Confidence: Low–Moderate** for the Aqir-inheritance chain (Shath'Yar → Aqir → nerubian/qiraji); **High** for the Blizzard design aesthetic as at least a contributing factor. The ethereal apostrophe usage is most likely either independent development or Blizzard aesthetic choice, not evidence of in-universe linguistic contact with Aqir-descended species.
+**Confidence: Low–Moderate** for the Aqir-inheritance chain (Shath'Yar → Aqir → nerubian/qiraji); **High** for the Blizzard design aesthetic as at least a contributing factor. The ethereal apostrophe usage is most likely either independent development or Blizzard aesthetic choice, not evidence of in-universe linguistic contact with Aqir-descended species. The Domanaar's systematic absence of apostrophes alongside Latin-inspired naming provides the strongest evidence yet that Blizzard deliberately differentiates naming conventions between Void-affiliated species.
 
 ### Comparison Table: Full "Alien" Language Features
 
-| Feature | Shath'Yar | Nerubian | Qiraji | Ethereal |
-|---------|-----------|----------|--------|----------|
-| Apostrophe position | Initial (C'CVC) | Medial (CVC'CVC) | Medial (CVC'CVC) | Both (K'aresh, Ve'nari) |
-| Apostrophe frequency | Very high | Very high | High | Low |
-| Apostrophe function | Prefix boundary | Compound boundary | Compound boundary | Compound boundary |
-| Initial consonant clusters | Present (*N'Zoth*, *Y'Shaarj*) | Present (*Krix'vizk*, *Vrrix*) | Absent | Absent |
-| /ks/ (x) frequency | Absent | High | Moderate | Absent |
-| Sibilant density | Very high | Moderate | Moderate | High |
-| Geminate consonants | Not clearly attested | Absent | Present (*-naxx*) | Possible (*-ff-*) |
-| Syllable complexity | Complex | Complex | Moderate | Simple |
-| Old God connection | Core | Via Aqir | Via Aqir | Via Shadowguard (recent) |
-| Self-designation | *Shath'Yar* | *Nerub-* | *-qiraj* | *Ethere-* (?) |
-| Shared morphemes with others | *-i* plural (?) | *Ahn-*, *Azj-* (Aqir) | *Ahn-* (Aqir) | None confirmed |
+| Feature | Shath'Yar | Nerubian | Qiraji | Ethereal | Domanaar |
+|---------|-----------|----------|--------|----------|----------|
+| Apostrophe position | Initial (C'CVC) | Medial (CVC'CVC) | Medial (CVC'CVC) | Both (K'aresh, Ve'nari) | **Absent** |
+| Apostrophe frequency | Very high | Very high | High | Low | **None** |
+| Apostrophe function | Prefix boundary | Compound boundary | Compound boundary | Compound boundary | N/A |
+| Initial consonant clusters | Present (*N'Zoth*, *Y'Shaarj*) | Present (*Krix'vizk*, *Vrrix*) | Absent | Absent | Absent |
+| /ks/ (x) frequency | Absent | High | Moderate | Absent | Absent |
+| Sibilant density | Very high | Moderate | Moderate | High | Low |
+| Geminate consonants | Not clearly attested | Absent | Present (*-naxx*) | Possible (*-ff-*) | Absent |
+| Syllable complexity | Complex | Complex | Moderate | Simple | Simple–Moderate |
+| Naming aesthetic | Cosmic horror | Insectoid | Egyptian-influenced | Arabic-influenced | **Latin-influenced** |
+| Old God connection | Core | Via Aqir | Via Aqir | Via Shadowguard (recent) | Via Xal'atath (commander) |
+| Self-designation | *Shath'Yar* | *Nerub-* | *-qiraj* | *Ethere-* (?) | *Domanaar* |
+| Shared morphemes with others | *-i* plural (?) | *Ahn-*, *Azj-* (Aqir) | *Ahn-* (Aqir) | None confirmed | None confirmed |
 
 ## 16. Names Verified from Wiki Sources
 
