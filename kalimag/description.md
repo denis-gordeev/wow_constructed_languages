@@ -1,5 +1,9 @@
 # Kalimag — Description
 
+## Overview
+
+Kalimag is the language of the elementals — ancient beings native to the Elemental Plane. It has four confirmed dialects (Ignan, Aquan, Terran, Auran) corresponding to the four elemental planes, making it one of the most structurally varied languages in the WoW corpus. Kalimag is moderately attested, with two confirmed translations (*reth* = "burn", *Kalimdor* = "Land of Eternal Starlight"), attested phrases from elemental NPCs, and the famous Frostmourne inscription. The language likely predates all mortal Azerothian languages, though no complete Kalimag sentence has been translated.
+
 ## Speakers
 
 Kalimag is the language of the elementals — the beings native to the Elemental Plane. It is spoken by fire, water, earth, and air elementals, as well as by their lords: Ragnaros (Fire), Al'Akir (Air), Neptulon (Water), and Therazane (Earth). Shamans may have some understanding of Kalimag through their communion with elemental spirits.
@@ -31,6 +35,20 @@ Kalimag's four canonical dialects — Ignan, Aquan, Terran, and Auran — are co
 - **Draenor Kalimag:** A variant used by the Furies and the Burning Blade clan. Confirmed to be similar to the Ignan dialect, but distinct enough to be recognized as a separate tradition. Draenor's different elemental composition — the Furies are unified elemental spirits rather than separate lords — may have produced a more synthetic dialect where elemental distinctions are grammatically marked rather than lexically separate.
 
 Elemental conglomerates speak two or more dialects, potentially code-switching depending on which elemental faculty is dominant.
+
+## Phonological Features
+
+The Kalimag phonological system is inferred from elemental lord names, item names, confirmed translations, and the Frostmourne inscription. Key features include:
+
+- **Dialect-determined phonology**: Each of the four canonical dialects (Ignan, Aquan, Terran, Auran) likely has distinct phonological characteristics shaped by the elemental medium — Ignan favors sharp, explosive consonants; Aquan favors prolonged sonorants; Terran favors guttural low-frequency sounds; Auran favors aspirated consonants and extended fricatives
+- **Rhotic prominence**: /r/ is extremely frequent in Kalimag names (*Ragnaros*, *Therazane*, *Arathar*, *Rethfuras*), particularly in the Ignan dialect
+- **Sibilant density in Ignan**: Fire-elemental names show high /s/ and /ʃ/ frequency (*Sulfuras*, *Ragnaros*), mirroring the hissing and crackling of fire
+- **Heavy consonant clusters**: Names like *Ragnaros* and *Therazane* show complex onset and coda clusters, consistent with a language designed for beings whose vocal apparatus is not humanoid
+- **Apostrophe compounding**: *Al'Akir*, *Ko'gun*, *Sho'ravon* — apostrophes mark morpheme boundaries, consistent with the WoW language convention
+- **Monosyllabic ritual words**: *Reth*, *Tas*, *Ko*, *Ma* — the Molten Core runes suggest a monosyllabic tendency in written Ignan, potentially reflecting a ritual register
+- **Vowel inventory**: Full five-vowel system /a e i o u/ inferred, with /a/ most frequent
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
 
 ## Writing System
 

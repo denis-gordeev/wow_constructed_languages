@@ -1,5 +1,9 @@
 # Shalassian — Description
 
+## Overview
+
+Shalassian is the language of the Nightborne (Shal'dorei), the Highborne Night Elves who were sealed beneath the Nightwell's shield in Suramar for 10,000 years. It is moderately attested among WoW elven languages, with confirmed shared morphemes (*-dorei* = "children of", *Shal-* = "twilight") and a clear genetic relationship to Darnassian and Thalassian, but no native Shalassian sentences are recorded. The language's isolation under the magical barrier likely preserved archaic Highborne forms while developing specialized arcane vocabulary absent from other elven tongues.
+
 ## Speakers
 
 Shalassian is the language of the Nightborne (Shal'dorei), the Highborne Night Elves who were sealed beneath the shield of Suramar for 10,000 years. It is spoken by the inhabitants of Suramar and the Nightborne who joined the Horde after the events of the Legion expansion. The Nightborne also share Suramar with the Duskwatch, Leyweavers, and Withered — each representing different social strata whose linguistic registers may differ (inferred).
@@ -26,6 +30,10 @@ During the Legion expansion (2016), the Suramar campaign revealed Nightborne soc
 ## Phonology
 
 Shalassian phonology is inferred to resemble Darnassian and Thalassian: fluid consonants, vowel-heavy syllables, and melodic intonation. Apostrophes mark morpheme boundaries (*Shal'dorei*, *Shal'Aran*, *Ly'leth*). The language retains the five-vowel system /a e i o u/ of the elven family. No consonant clusters unusual for elven languages are attested. The consonant inventory includes stops /t d/ (with /k g/ marginal in names), fricatives /f v θ s z ʃ h/, nasals /m n/, and liquids /l r/. The retention of /θ/ (as in *Thalyssra*, *Ly'leth*, *Oculeth*) confirms Shalassian's close relationship to Darnassian and Thalassian, while the absence of /ʒ/ and /dʒ/ distinguishes it from Nazja. See [grammar.md](grammar.md#phonology) for full IPA charts and phonological analysis.
+
+## Writing System
+
+No Shalassian writing system has been depicted in canon. The Nightborne were sealed beneath the Nightwell's shield for 10,000 years, during which they developed a sophisticated arcane civilization — their architecture, ley-weaving, and magical research would presumably require extensive written records, but all in-game Nightborne texts are rendered in Common. Suramar's libraries, the Arcan'dor records, and the Nightborne scholarship referenced in the Legion campaign suggest a literate society, but no native Shalassian script is shown. The Nightborne's deep connection to arcane energy raises the possibility that their writing system incorporates magical glyphs or ley-line patterns, but this is entirely speculative.
 
 ## Attested Morphemes
 

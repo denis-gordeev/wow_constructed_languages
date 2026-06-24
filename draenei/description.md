@@ -1,5 +1,9 @@
 # Draenei Language — Overview
 
+## Overview
+
+Draenei is the language of the uncorrupted Eredar — the exiles who fled Argus under the prophet Velen approximately 25,000 years before the First War. It is essentially the same language as Eredun, diverging through cultural and lexical separation rather than structural change. Draenei is moderately attested, with several confirmed morpheme translations (*draen* = "exile", *ei* = "ones", *or* = "world", *Man'ari* = "corrupt"), but no complete sentences have been translated. The language encodes the Draenei's identity as exiles and refugees, with its most fundamental terms — *Draenei* ("Exiled Ones") and *Draenor* ("Exiles' Refuge") — encoding the trauma of their flight from Argus.
+
 ## Speakers
 
 The Draenei language is spoken by the Draenei, a faction of the Eredar species who refused to join the Burning Legion. Draenei means "Exiled Ones" (*draen* "exile/refuge" + *ei* "ones/people"). The language is used by Draenei NPCs throughout World of Warcraft, particularly in The Burning Crusade, Warlords of Draenor, and Legion expansions.
@@ -49,6 +53,10 @@ The Draenei language reflects a worldview in which Light, exile, and refuge are 
 - **Consonant clusters**: Complex onsets and codas are permitted (e.g., *Shattrath* /ʃtr/, *Krokul* /kr/).
 - **Apostrophe**: Marks morpheme boundaries and possibly a glottal stop /ʔ/.
 - **Vowel richness**: All five cardinal vowels /a e i o u/ are attested, along with possible diphthongs.
+
+## Writing System
+
+No Draenei writing system has been depicted in canon as a distinct script. Draenei civilization on Argus and Draenor was highly literate — cities like *Shattrath* ("Dwelling of Light") and *Karabor* imply extensive architectural inscription — but all in-game Draenei texts are rendered in Common. The naaru, who guided the Draenei exodus, communicate through chimes and light patterns rather than written text, suggesting that any Draenei writing system developed independently of naaru influence. The Man'ari Eredar use the decorative "Demonic" script for incantations (see Eredun description), but this does not map to a real phonological system. Draenei crystalline technology and holographic displays aboard the *Exodar* and *Vindicaar* suggest a technologically advanced writing medium, but no native script is attested.
 
 ## Attestation and Reliability
 

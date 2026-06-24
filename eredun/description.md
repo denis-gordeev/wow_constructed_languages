@@ -1,5 +1,9 @@
 # Eredun / Demonic Language — Description
 
+## Overview
+
+Eredun is the language of the Eredar, an ancient and powerful race from the planet Argus. After the race split between the Man'ari (corrupted by the Burning Legion) and the Draenei (who fled under Velen), the two varieties diverged over 25,000 years of separation. Eredun is moderately attested compared to most WoW languages, with several confirmed morpheme translations (*Man'ari* = "corrupt", *Draenei* = "Exiled Ones", *Sha'tar* = "Born of Light"), but no complete sentences have been translated. The language's association with demonic magic and the Burning Legion makes it one of the most culturally significant constructed languages in WoW lore.
+
 ## Speakers
 
 Eredun is the language of the Eredar, the ancient and powerful race from the planet Argus. After Sargeras corrupted the Eredar, those who joined the Burning Legion became known as *Man'ari* ("corrupt" / "unnatural" in Draenei), while those who fled under Velen retained the name *Draenei* ("exiled ones"). The Eredar who became demons continued speaking Eredun, which became associated with demonic magic and the Burning Legion.
@@ -36,6 +40,20 @@ Eredun has undergone two major axes of divergence: the Man'ari–Draenei split (
 
 The Man'ari and Draenei varieties are likely mutually intelligible at the lexical core but divergent enough that fluent conversation would require accommodation, analogous to speakers of closely related but long-separated Semitic languages.
 
+## Phonological Features
+
+The Eredun phonological system is inferred from proper names, confirmed morpheme translations, and Draenei cognates. Key features include:
+
+- **Heavy syllable structure**: Names tend toward CVC.CVC patterns (*Archimonde*, *Magtheridon*), suggesting a preference for consonant-heavy phonotactics — a phonological reflection of the language's association with harsh, commanding power
+- **Rhotic prominence**: /r/ is extremely frequent, appearing in nearly every attested name and word (*Eredar*, *Draenor*, *Sargeras*, *Mannoroth*)
+- **Guttural consonants**: /k/, /g/, and possibly /x/ (represented as *kh*) are frequent, giving the language a resonant, sometimes harsh quality
+- **Apostrophe-adjacent sounds**: Apostrophes often appear between consonant-final and vowel-initial elements (*Man'ari*, *Sha'tar*), or between two consonant clusters (*Kil'jaeden*)
+- **Consonant cluster tolerance**: Complex clusters permitted (*Shattrath* /ʃtr/, *Krokul* /kr/), though less extreme than Vrykul
+- **Full five-vowel system**: /a e i o u/ all attested, along with possible diphthongs
+- **Man'ari vs. Draenei phonological divergence**: Fel corruption likely introduced harsher phonological shifts in Man'ari Eredun — strengthened gutturals, new consonant clusters for binding incantations — while Draenei may have softened guttural consonants over millennia of separation
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
+
 ## Relationship to Draenei
 
 Eredun and Draenei are the **same language** with cultural and lexical divergence. The Draenei fled Argus approximately 25,000 years before the First War. After 25 millennia of separation:
@@ -46,6 +64,10 @@ Eredun and Draenei are the **same language** with cultural and lexical divergenc
 - **Man'ari** is itself a Draenei/Eredun word meaning "wrong / unnatural / corrupt" — the Draenei apply it to their corrupted kin.
 
 See [eredun-draenei-comparative.html](../eredun-draenei-comparative.html) for full comparative analysis.
+
+## Writing System
+
+Eredun incantations appear in-game as "Demonic" script, but this script is decorative and does not map to a real phonological system. The in-game Demonic script uses angular, runic-looking glyphs that evoke fel corruption and arcane power but cannot be deciphered into meaningful Eredun words. Warlock spell incantations are displayed in this script during casting animations. The Draenei retained knowledge of Eredun writing after their flight from Argus — place names like *Shattrath*, *Karabor*, and *Auchindoun* are attested on Draenor — but no native Draenei or Eredun manuscripts or texts have been depicted in canon.
 
 ## Cultural Context
 

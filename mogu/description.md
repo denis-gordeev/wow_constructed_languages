@@ -1,5 +1,9 @@
 # Mogu Language — Overview
 
+## Overview
+
+The Mogu language is spoken by the Mogu, a race of stone constructs created by the Titan Keeper Ra-den. It is very poorly attested, with no confirmed phrases, sentences, or translations — the entire linguistic record consists of proper names and Chinese-localized etymologies (*Lei Shen* = "Thunder God", *Mogu'shan* = "Mogu Mountain"). Despite this extreme limitation, the clan-name patterns (*Shan'ze*, *Baruk*, *Dokani*, *Zan-Tien*, *Rajani*) and dynasty names (*Shen*, *Wai*, *Qiang*) suggest a deliberately designed naming system with internal morphological structure. The Mogu's Titan origins and millennia of empire-building imply a once-fully-developed language, but its literate tradition was deliberately suppressed when Lei Shen forbade Pandaren literacy.
+
 ## Speakers
 
 The Mogu language is spoken by the Mogu, a race of stone constructs created by the Titan Keeper Ra-den (known to the Mogu as "Highkeeper Ra"). The Mogu are native to the continent of Pandaria, introduced in *World of Warcraft: Mists of Pandaria* (2012). The language has no canonical name; by convention it is called "Mogu" after the race.
@@ -50,6 +54,10 @@ The Mogu were originally stone constructs, and their language may retain vocabul
 - **Simple syllable structure**: Observed words tend toward (C)V(C) — monosyllabic or disyllabic roots, suggesting an isolating or lightly affixing typology (inferred).
 - **Apostrophe**: Marks morpheme boundaries, as in *Mogu'shan* (*Mogu* + *shan*). May also indicate a glottal stop.
 - **Vowel inventory**: All five cardinal vowels /a e i o u/ are attested, along with possible diphthongs (/eɪ/, /aɪ/).
+
+## Writing System
+
+The Mogu possessed a written language confirmed by lore: Lei Shen unified the language, created written law, and specifically forbade the Pandaren from learning to read and write. However, no samples of the Mogu script survive in-game — no inscriptions, scrolls, or carved texts are depicted on Mogu architecture or artifacts. The Mogu's Titan origins suggest their script may derive from Titan hieroglyphs or runes, but this is unconfirmed. The *Engine of Nalak'sha* and other Titan facilities in Pandaria bear inscriptions that could be Mogu or Titan, but no translation is provided. The deliberate destruction of Pandaren literacy under Lei Shen, combined with the absence of surviving Mogu texts, creates a unique situation where a confirmed literate society has left no readable inscription.
 
 ## Attestation and Reliability
 

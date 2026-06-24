@@ -1,5 +1,9 @@
 # Vulpera Language — Description
 
+## Overview
+
+The Vulpera language is spoken by the fox-like nomadic Vulpera of Vol'dun on Zandalar. It is among the most poorly attested languages in the WoW corpus, with no confirmed words, phrases, or sentences — the entire linguistic record consists of five personal names and the ethnonym *Vulpera*. Whether the Vulpera speak a distinct language at all, or a dialect of Zandali, cannot be determined from available evidence.
+
 ## Speakers
 
 The Vulpera are a fox-like nomadic race introduced in *World of Warcraft: Battle for Azeroth* (2018), native to the deserts of Vol'dun on the continent of Zandalar. They joined the Horde as an allied race. Despite their distinctive culture and numerous in-game NPCs, the Vulpera language has virtually no attested vocabulary beyond proper names.
@@ -22,6 +26,23 @@ No Vulpera dialects are attested in canon. However, the Vulpera's nomadic carava
 - **Sethrak contact variation:** Caravans that traded with (or were persecuted by) the faithless Sethrak may have absorbed Sethrak loanwords, while more isolated caravans would retain a purer Vulpera lexicon. Caravans that interacted with the sethrak loa-worshippers (the devotees of Sethraliss) may preserve a religious vocabulary absent from other groups.
 - **Horde contact lect:** Vulpera who joined the Horde are in regular contact with Orcish, Zandali, and Common speakers. A distinct "Horde Vulpera" sociolect may be emerging, incorporating Horde military terminology and trade vocabulary from Orcish and Zandali. This would parallel real-world situations where nomadic groups in military alliances develop bilingual mixed codes.
 - **The attestation problem:** With only six proper names available, no dialectal analysis is possible. The absence of any Vulpera-language dialogue in-game means that any dialectal claims are entirely hypothetical.
+
+## Phonological Features
+
+The Vulpera phonological system is reconstructed from only five proper names and the ethnonym. Key features include:
+
+- **CV/CVC syllable simplicity**: Predominantly short, open syllables (*Kiro*, *Meera*, *Gaz*), without complex consonant clusters — contrasting with neighboring Zandali and Sethrak
+- **Rhotic frequency**: /r/ appears in nearly every name (*Kiro*, *Nisha*, *Meera*, *Serka*), suggesting it is a common consonant in Vulpera phonology
+- **Possible feminine *-a* suffix**: Three of four female names end in *-a* (*Nisha*, *Meera*, *Serka*), while the single clearly male name (*Kiro*) does not — potentially a gender-marking suffix, though extremely speculative with only five data points
+- **Postalveolar /ʃ/**: Present in *Nisha*, suggesting a palatal consonant inventory
+- **Vowel distribution**: /i/, /e/, and /a/ predominate; /o/ and /u/ are inferred from the ethnonym *Vulpera* but not clearly attested in personal names
+- **No apostrophe usage**: Unlike neighboring Zandali and Sethrak, no Vulpera names contain apostrophes, suggesting a different morphological or orthographic convention
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
+
+## Writing System
+
+No Vulpera writing system has been depicted in canon. The Vulpera's nomadic caravan-based lifestyle and oral tradition suggest that if a writing system existed, it would be lightweight and portable — potentially using woven or knotted records analogous to Incan *quipu* — but no such system is attested. All in-game Vulpera texts and dialogues are rendered in Common. The Vulpera's extensive trade activities with other races would require some record-keeping, but this is presumably done in Common or Zandali.
 
 ## Cultural Context
 

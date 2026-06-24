@@ -1,5 +1,9 @@
 # Nerglish (Murloc/Jinyu/Ankoan/Kobyss) — Description
 
+## Overview
+
+Nerglish is the language of murlocs — ancient aquatic creatures predating the Titans' arrival on Azeroth — and their evolutionary descendants: the jinyu, ankoan, and kobyss. The Nerglish family is unique among WoW language families in spanning four evolutionary stages of increasing then decreasing linguistic complexity, from murloc gurgling phonology through jinyu full phonological development to kobyss near-total language loss. The family is entirely separate from both the titan-forged and Aqir-descended language families.
+
 ## Speakers
 
 Nerglish is the language of murlocs — ancient aquatic creatures found across Azeroth's coastlines and waterways. It is also spoken by makrura (lobster-people). The name "Nerglish" covers a language family that spans four evolutionary stages:
@@ -42,12 +46,27 @@ The Nerglish family presents a unique case where dialectal variation is insepara
 
 The trajectory — murloc (simple) → jinyu (complex) → ankoan (moderate) → kobyss (near-zero) — reveals that magical intervention can radically expand linguistic capacity, but environmental and cultural degradation can erase it entirely.
 
+## Phonological Features
+
+The Nerglish family exhibits the most dramatic phonological variation of any WoW language family, spanning four evolutionary stages:
+
+- **Murloc Nerglish**: Restricted consonant inventory with heavy use of syllabic consonants and reduplication. Names are built from *mrgl-*, *glrgl-*, *mrg-* sequences with no clear CV/CVC patterns. Vowels are largely absent from proper names; mostly /ɜ/ and /ʌ/ inferred from orthography. The gurgling phonology reflects the murlocs' aquatic physiology and limited vocal apparatus
+- **Jinyu (post-evolution)**: Dramatic phonological expansion catalyzed by the Vale of Eternal Blossoms' magic. Full consonant inventory including /ʃ/, /tʃ/, plus inherited murloc consonants. CV/CVC syllable structure. Complex proper names (*Karasshi*, *Sele'na*) with apostrophe morpheme boundaries. Full five-vowel system /a e i o u/ attested. This represents a complete transformation from Nerglish gurgling phonology
+- **Ankoan**: Moderate simplification from jinyu — shorter names (*Okani*, *Inowari*, *Ori*), no apostrophe usage, possible loss of jinyu morphological complexity. Streamlined communication favoring brevity over morphological richness, driven by millennial warfare with naga
+- **Kobyss**: Near-total language loss — only 3–5 Common words retained, all violence-related. The only known case of linguistic regression in WoW, driven by Void corruption, Undersea isolation, and cultural degeneration
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts for all four stages.
+
 ## Cultural Context
 
 - Murlocs are fiercely territorial and tribal, with clan identity expressed through Nerglish vocalizations
 - Jinyu are contemplative and spiritual, with titles like Waterspeaker and Pearlkeeper reflecting their aquatic religious practice
 - Ankoan are a warrior people who took the fight to Queen Azshara, naming their clan Waveblade
 - Kobyss are vicious ambush predators who attack Arathi settlements during Beledar's Void phase, using only violence-related Common phrases
+
+## Writing System
+
+No Nerglish writing system has been depicted in canon for any stage of the language family. Murlocs are depicted as having no written language, consistent with their limited vocal apparatus and tribal social structure. The jinyu, despite their dramatically enhanced cognition, are not shown using a writing system — their oral tradition and Waterspeaker caste suggest knowledge transmission through speech and ritual rather than writing. The ankoan and kobyss likewise have no attested writing. The Winterfin murlocs of Borean Tundra maintain trade with other races but presumably use Common for any written transactions.
 
 ## Relationship to Other Languages
 

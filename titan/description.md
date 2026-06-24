@@ -1,5 +1,9 @@
 # Titan Language — Overview
 
+## Overview
+
+Titan (also called Titanic) is the primordial language of the titans — colossal planet-sized cosmic beings of Order — and their titan-forged creations. It is the ancestral language of the titan-forged language family, from which Common, Dwarven, Gnomish, Vrykul, Mogu, and Tol'vir may have descended. Titan is poorly attested, with five confirmed word translations (*Aesir*, *Vanir*, *Kalimdor*, *Midnir*, *Nalak*), one untranslated phrase (*Revola ruk maez amir*), and weapon-name glosses from the RPG. The RPG described its grammar as "inhumanoid" with "circular references," suggesting a writing system that encodes non-linear thought patterns alien to mortal comprehension.
+
 ## Speakers
 
 Titan (also called **Titanic**) is the language of the [titans](https://warcraft.wiki.gg/wiki/Titan), colossal planet-sized cosmic beings of arcane energy, and their [titan-forged](https://warcraft.wiki.gg/wiki/Titan-forged) creations. It is the primordial language of Order on Azeroth, from which several descendant languages — Common, Dwarven, Gnomish, Vrykul, Mogu, and Tol'vir — may have originated.
@@ -44,6 +48,16 @@ The Titan language encodes the worldview of beings for whom Order is the fundame
 - **Facility naming with *Uld-***: The prolific prefix *Uld-* in titan facility names (Ulduar, Uldum, Uldaman, Uldir, Uldis, Uldorus, Uldaz) suggests a morpheme meaning "city" or "facility" or "construction." Brann Bronzebeard believed *Uld* means "city," though this is not specifically confirmed. His own later comment in Stormheim — that there is no "Uld-anything" in the area despite high titan influence — introduces some uncertainty.
 - **Weapon naming**: Titan weapons carry compound names in Titan whose morphemes encode their nature (*Taeshalach* = "Flame Rend," *Gorshalach* = "Dark Render"). This suggests a naming convention in which a weapon's name is a literal description of its function or essence.
 - **The suffix *-ir***: Both *Aesir* and *Vanir* end in *-ir*, and both are glossed as types of "Giants." This suggests *-ir* may be a suffix meaning "giant" or "being of [elemental type]."
+
+## Writing System
+
+Titan is written using runes and glyphs (hieroglyphs), confirmed by multiple sources. Key features of the Titan writing system:
+
+- **Runic script**: The primary written form, composed of angular glyphs understood only by deduction. Scholars attempt to restore the language by matching modern Dwarven with evidence from Titan ruin excavations. The runes are found carved into Titan facilities across Azeroth — Ulduar, Uldum, Uldaman, and others
+- **Discs of Norgannon**: The most significant attested Titan text, inscribed with a record of the Titans' activities on Azeroth. The Discs are housed in Uldaman and were central to the lore of Classic WoW
+- **Inaccessible grammar**: The RPG (non-canon) described the grammar as "inhumanoid" with "circular references," suggesting a writing system that encodes non-linear or recursive thought patterns alien to mortal comprehension
+- **Descendant scripts**: Multiple Azerothian writing systems may descend from Titan runes — Dwarven runic inscriptions, Earthen stone-carving, Vrykul runestones, and potentially Tol'vir hieroglyphs all show possible Titan-script influence, though direct descent is unconfirmed
+- **Few readers**: Very few beings in the modern era can read Titan: Wrathion, Magni Bronzebeard (as Speaker for Azeroth), and historically the Mogu. Earthen player characters can speak and understand Titan
 
 ## Relationship to Other Languages
 

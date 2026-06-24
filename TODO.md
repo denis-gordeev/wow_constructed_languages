@@ -75,7 +75,15 @@
 
 - [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
 - [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
-- [ ] Expand remaining description.md files with Overview/Phonological Features/Writing System sections: pandaren, vulpera, eredun, shalassian, draenei, taur-ahe, kalimag, mogu, sethrak, titan, tolvir, common, nerglish, nature (14 languages still missing 2+ sections)
+
+## Completed This Round (2026-06-24)
+
+- [x] Expand remaining description.md files with Overview/Phonological Features/Writing System sections: pandaren, vulpera, eredun, shalassian, draenei, taur-ahe, kalimag, mogu, sethrak, titan, tolvir, common, nerglish, nature (all 14 languages now have Overview, Phonological Features, and Writing System sections)
+- [x] Add Overview section to 13 language description.md files: pandaren, vulpera, eredun, shalassian, draenei, taur-ahe, kalimag, mogu, sethrak, titan, tolvir, common, nerglish
+- [x] Add Phonological Features section to 7 language description.md files: pandaren, vulpera, eredun, taur-ahe, kalimag, nerglish, nature — with grammar.md cross-references and IPA notation
+- [x] Add Writing System section to 12 language description.md files: pandaren, vulpera, eredun, shalassian, draenei, mogu, sethrak, titan, tolvir, common, nerglish, nature
+- [x] Sync all 14 description.html files with updated description.md counterparts: added Overview, Phonological Features, and Writing System sections with navigation bar updates
+- [x] Fix .md link references in eredun and taur-ahe description.html (grammar.md → grammar.html)
 
 ## Completed This Round
 

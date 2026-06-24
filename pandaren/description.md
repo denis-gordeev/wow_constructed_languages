@@ -1,5 +1,9 @@
 # Pandaren Language — Description
 
+## Overview
+
+The Pandaren language is spoken by the Pandaren people of Pandaria and the Wandering Isle. It is one of the most poorly attested languages in the WoW corpus, with no confirmed phrases, sentences, or translations — the entire linguistic record consists of proper names and two philosophical faction names. Despite this extreme limitation, the consistent Chinese-inspired phonological patterns and the attested morpheme boundaries (apostrophe in *Yu'lon*, hyphen in *Shen-zin Su*) suggest a deliberately designed aesthetic, even if Blizzard never developed the language beyond a naming system.
+
 ## Speakers
 
 The Pandaren language is spoken by the Pandaren people of the Wandering Isle and the continent of Pandaria. Introduced in *World of Warcraft: Mists of Pandaria* (2012), the Pandaren have a rich cultural tradition blending elements of Chinese-inspired philosophy, brewcraft, and martial arts. Despite the depth of Pandaren culture in-game, the Pandaren *language* as a distinct constructed tongue has extremely limited attestation.
@@ -27,6 +31,10 @@ No Pandaren dialects are explicitly attested in canon, but the historical and ge
 - **Mogu substrate influence:** During the millennia of Mogu enslavement, the Pandaren may have developed a sociolect influenced by Mogu vocabulary and phonology. Post-revolution Pandaren may have purged overt Mogu elements while retaining substrate traces in toponyms and specialized vocabulary (e.g., terms related to mining, construction, or servitude).
 - **Tushui vs. Huojin:** The philosophical split between contemplation (*Tushui*) and action (*Huojin*) is not a dialectal difference per se, but the two factions' association with the Alliance and Horde respectively may eventually produce contact-induced divergence, particularly in vocabulary borrowed from Common or Orcish.
 
+## Writing System
+
+No Pandaren writing system has been depicted in canon as a distinct script. Pandaren inscriptions and texts appear in-game but are rendered in Common or decorative glyphs that do not map to a phonologically consistent writing system. The Wandering Isle and Pandaria both have extensive literary traditions (philosophy, brewcraft, poetry), but all in-game Pandaren texts are presented in Common translation. The Mogu, who enslaved the Pandaren for millennia, had a written language that Lei Shen forbade the Pandaren from learning; whether Pandaren developed a separate script after the revolution is unknown.
+
 ## Cultural Context
 
 Pandaren culture is deeply philosophical, emphasizing balance, inner peace, and harmony with nature. This is reflected in the little vocabulary that exists:
@@ -35,6 +43,20 @@ Pandaren culture is deeply philosophical, emphasizing balance, inner peace, and 
 - **Brewcraft:** Brewing is central to Pandaren culture, and brewmaster terminology permeates the culture — though most terms are in English/Common in-game.
 - **August Celestials:** The four Celestials (Chi-Ji, Niuzao, Xuen, Yu'lon) are worshipped and their names may be Pandaren in origin.
 - **Mogu influence:** The Mogu enslaved the Pandaren for millennia; some Pandaren vocabulary may preserve Mogu loanwords or show Mogu influence.
+
+## Phonological Features
+
+The Pandaren phonological system is reconstructed entirely from proper names. Key features include:
+
+- **Chinese-inspired phonotactics**: Predominantly (C)V(N) syllable structure — simple open or lightly closed syllables (*Shen*, *Jin*, *Xuen*, *Su*) — consistent with the Chinese cultural inspiration. This contrasts with the heavier syllable structures of Mogu and Titan
+- **Affricate preference**: /tʃ/ (*Chen*, *Chi-Ji*) and /dʒ/ (*Ji*, *Jin*) are relatively frequent compared to other WoW languages, consistent with areal Chinese phonological patterns
+- **Rhotic tap /ɾ/**: Present in names like *Taran* rather than the trilled /r/ common in Orcish or Zandali
+- **Tone**: The romanized Pandaren names suggest a tonal language, consistent with the Chinese cultural inspiration, but tone cannot be confirmed from romanized text alone
+- **Name reduplication**: *Li Li* demonstrates reduplication, a common feature in East Asian languages
+- **Apostrophe and hyphen**: *Yu'lon* contains an apostrophe (morpheme boundary or glottal stop), and *Shen-zin Su* uses hyphens for phrase boundaries, following the elven language convention
+- **Vowel inventory**: Full five-vowel system /a e i o u/ attested, with diphthongs /aɪ/ (*Kun-Lai*) and /aʊ/ (*Niuzao*)
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
 
 ## Relationship to Other Languages
 

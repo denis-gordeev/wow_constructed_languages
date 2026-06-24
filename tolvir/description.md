@@ -1,5 +1,9 @@
 # Tol'vir Language — Overview
 
+## Overview
+
+The Tol'vir language is spoken by the Tol'vir, a feline-centaur race created by the titans to safeguard Uldum. It is very poorly attested, with no confirmed phrases or complete translations — the linguistic record consists of one confirmed common noun (*khopesh* = "sickle sword"), three combat drill words with partial glossing (*Kadesh*, *Osadi*, *Satekh*), and approximately 25 untranslated proper names. The hieroglyphic writing system is confirmed but no complete examples have been published. Tol'vir naming shows heavy Egyptian-inspired phonological patterns, consistent with Blizzard's design for the Uldum zone and its ancient Egyptian aesthetic.
+
 ## Speakers
 
 The Tol'vir language is spoken by the Tol'vir, a race of feline-centaur humanoids (human torso, feline lower body and head) created by the titans to safeguard the secrets and machinery of Uldum. The language has no canonical name beyond "Tol'vir"; it is written using hieroglyphs. Introduced with *World of Warcraft: Cataclysm* (2010), the Tol'vir are one of several titan-forged races afflicted by the Curse of Flesh.
@@ -66,6 +70,16 @@ Tol'vir culture is heavily inspired by ancient Egypt, reflected in their languag
 - **-en ending**: Several words end in *-en* (*Akhenet*, *Ankhaten*, *Ramkahen*), possibly a suffix meaning "place" or "settlement."
 - **Syllable structure**: Predominantly (C)V(C) with a tendency toward two- or three-syllable words. Final stress is common.
 - **Vowel inventory**: Full cardinal vowels /a e i o u/ are attested, with /a/ being the most frequent.
+
+## Writing System
+
+The Tol'vir written language uses hieroglyphs, confirmed by multiple in-game sources. Key features:
+
+- **Hieroglyphic script**: The written language consists of hieroglyphs decorating obelisks and temples throughout Uldum. The Tol'vir Hieroglyphic archaeology item confirms the existence of a formal writing system, though no complete examples have been published in canon
+- **Archaeological evidence**: The Staff of Ammunae and Engraved Scimitar Hilt archaeology items contain Tol'vir text — *Achusenmen osadi djahi kahun Ammunae* (a complete but untranslated phrase) and drill commands (*Kadesh*, *Osadi*, *Satekh*) — but these are transliterated rather than shown in hieroglyphic form
+- **Titan-origin hypothesis**: Given that the Tol'vir are titan-forged custodians of Uldum, their hieroglyphic script may derive from or be influenced by Titan runes. The co-existence of Titan facilities and Tol'vir settlements in Uldum makes it difficult to distinguish Titan inscriptions from Tol'vir ones
+- **Pharaonic literacy**: The existence of pharaohs, dynasties (Tahret), and the Delicate Silk Scrap archaeology item (which mentions "royal scribes") confirms a literate Tol'vir administrative class, though no scribe-produced texts are available for analysis
+- **Amathet preservation**: The stone Tol'vir Amathet tribe, who slept through the Curse of Flesh, may preserve the oldest form of the hieroglyphic script — potentially closer to the original Titan-derived writing than the flesh-affected varieties
 
 ## Attestation and Reliability
 

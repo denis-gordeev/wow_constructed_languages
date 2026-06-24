@@ -1,5 +1,9 @@
 # Taur-ahe — Description
 
+## Overview
+
+Taur-ahe is the language of the Tauren, the bovine nomadic people of Kalimdor, who call themselves *Shu'halo* in their own tongue. It is moderately attested among WoW languages, with 18+ confirmed translations (including *An'she* = "Sun", *Mu'sha* = "Moon", *Lo'Gosh* = "Ghost Wolf"), three attested phrases, and Spirit Walker incantations. The apostrophe-joined compounding pattern (An'she, Mu'sha, Lo'Gosh) is the best-attested grammatical feature. Taur-ahe has no confirmed relationship to any other Azerothian language and shows Amerindian phonological influence consistent with Blizzard's design for Tauren culture.
+
 ## Speakers
 
 Taur-ahe (/tɔɹ.ˈɑːhɛh/, TOR AH-heh) is the language of the Tauren, the bovine nomadic people of Kalimdor. It is spoken primarily by the Tauren of Mulgore and Thunder Bluff, as well as by Tauren scattered across Azeroth. Most Tauren also speak Common and Taur-ahe is rarely heard outside Tauren communities. The Tauren call themselves **Shu'halo** in their own tongue.
@@ -23,6 +27,18 @@ Canon confirms that Taur-ahe has many different forms differing by tribe and loc
 - **Yaungol / Wandering Isle:** The Yaungol of Townlong Steppes on Pandaria represent a Tauren population separated since before the Sundering. Their language may be closer to Proto-Tauren than any Kalimdor variety. Yaungol names (e.g., *Osul*) suggest different phonological conventions. The Wandering Isle pandaren contact would have introduced Pandaren loanwords. If Yaungol and standard Taur-ahe share mutual intelligibility at all, it would be limited — comparable to the gap between Old English and Modern English.
 
 The confirmed existence of "many different forms" suggests that even within Kalimdor, minor tribal dialects (Winterhoof, Skychaser, Dawnstrider) may show lexical and phonological micro-variation.
+
+## Phonological Features
+
+The Taur-ahe phonological system is inferred from confirmed translations, proper names, and Spirit Walker incantations. Key features include:
+
+- **Apostrophe-joined compounding**: The best-attested phonological feature — *An'she*, *Mu'sha*, *Apa'ro*, *Lo'Gosh*, *Shu'halo* — where the apostrophe marks a morpheme boundary, consistent with the compounding pattern seen across WoW languages
+- **Amerindian-influenced phonology**: Certain Taur-ahe words follow conventions from Amerindian languages (confirmed by warcraft.wiki.gg). *Camp Taurajo* is pronounced /tɔːrəhoʊ/ (as in Navajo), not /tɔːrədʒoʊ/, demonstrating that orthographic "j" represents /h/ in at least some contexts
+- **Syllable structure**: CV'CV, CVC'V, and CV.CV patterns. Apostrophe-joined compounds create polysyllabic words (*Lakota'mani* = 6 syllables, *Ish-ne-alo* = 4 syllables). Some words show complex cluster patterns (*Mazzranache*, *Chouk'taga'loush*)
+- **Vowel system**: Full five-vowel system /a e i o u/ attested, with long vowels likely existing (e.g., /uː/ in *Mu'sha*, inferred)
+- **Spirit Walker register**: The incantations *Chouk'taga'loush* and *Nag'grada'baash* feature denser consonant clusters and more complex syllable structure than everyday Taur-ahe, suggesting a ritual register with distinct phonotactics
+
+See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
 
 ## Writing System
 

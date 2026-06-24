@@ -1,5 +1,9 @@
 # Sethrak Language — Overview
 
+## Overview
+
+The Sethrak language is spoken by the Sethrak, a serpent-like race native to the desert region of Vol'dun on Zandalar. It is extremely poorly attested — even more limited than Vulpera or Draenei — with no confirmed words, phrases, or translations. The entire linguistic record consists of approximately 10 proper names and the ethnonym. The only morphological inference with any support is the *seth* element shared between *Sethrak* and *Sethraliss*, likely meaning "serpent." The apostrophe in *Jakra'zet* follows Zandali orthographic convention, suggesting Zandali influence on Sethrak writing but not necessarily on the spoken language.
+
 ## Speakers
 
 The Sethrak language is spoken by the Sethrak, a serpent-like race native to the desert region of Vol'dun on the continent of Zandalar. They are introduced in *World of Warcraft: Battle for Azeroth* (2018). The Sethrak are divided into two factions:
@@ -77,6 +81,10 @@ The parallel between Sethrak *Sethrak* (*seth* + *rak*) and Draenei *Draenei* (*
 - **Rhotic frequency**: /r/ appears in nearly every attested name.
 - **Syllable structure**: Predominantly CVC roots, with 2–3 syllable names common.
 - **Apostrophe**: Attested once (*Jakra'zet*), likely representing a morpheme boundary and/or glottal stop, following Zandali convention.
+
+## Writing System
+
+No Sethrak writing system has been depicted in canon. The Temple of Sethraliss — the most significant Sethrak structure — contains no attested inscriptions or texts in a native script. Sethrak magical practice centers on lightning and serpent motifs, but any written component of their ritual tradition is unattested. The Devoted maintain continuity with Sethraliss worship through oral tradition, while the Faithless under Jakra'zet and Emperor Korgok operated as a military power without visible literary culture. The apostrophe convention in *Jakra'zet* follows Zandali orthographic practice, suggesting that any Sethrak writing would be influenced by Zandali scribal conventions, but no Sethrak manuscripts or inscriptions exist to confirm this.
 
 ## Attestation and Reliability
 

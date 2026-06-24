@@ -1,5 +1,9 @@
 # Common (Human Language) — Overview
 
+## Overview
+
+Common is the native language of the humans of Azeroth and serves as the primary trade language of the Alliance. It descends from Vrykul, which descends from Titan, representing a lineage of simplification from the Titan-forged precursor through the Vrykul warrior culture to the human trade lingua franca. Common presents a unique attestation challenge: it is the most frequently heard language in WoW (rendered as English), but as a linguistic object within the Warcraft universe, it has almost no distinct attestation beyond the confirmed Vrykul etymology of *Tirisfal* = "Tyr's Fall" and the *-garde* suffix in *Stromgarde*. Whether Common IS English or is simply TRANSLATED as English for gameplay is unresolved.
+
 ## Speakers
 
 Common is the native language of the humans of Azeroth and serves as the primary trade language of the Alliance. It is spoken by humans across the Eastern Kingdoms, Kalimdor, and beyond. As the lingua franca of Azeroth, Common is also understood (to varying degrees) by members of other Alliance races and some neutral parties.
@@ -48,6 +52,17 @@ Key historical events affecting the language:
 - **Loss of /y/**: The Vrykul front rounded vowel /y/ (as in *Ymiron*) would have been unrounded to /i/ in Common.
 - **Variable stress**: Unlike Vrykul's consistent initial-syllable stress, Common has English-style variable stress.
 - **Analytic tendency**: Common prefers separate words over compound formations, consistent with the simplification from Vrykul.
+
+## Writing System
+
+Common uses the same alphabet as English (the Latin script), as depicted in all in-game texts, books, signs, and NPC dialogue throughout the Alliance zones. This is a game-mechanic representation — whether Common within the Warcraft universe uses a script identical to the Latin alphabet, or whether this is a translation convention for the player's benefit, is unresolved. The most likely interpretation is that Common has its own alphabetic script that Blizzard renders as English for gameplay purposes.
+
+Key observations about Common writing in lore:
+
+- **Vrykul runic inheritance**: As Common descends from Vrykul, its earliest written form likely used Vrykul runes or a simplified derivative. The *Tirisfal* inscription ("Tyr's Fall") would originally have been carved in Vrykul runes
+- **Arathi standardization**: The Arathi Empire (~2,800 years ago) likely standardized a Common script for administrative purposes, potentially simplifying Vrykul runes into a more alphabetic system
+- **Dwarven influence**: Centuries of cohabitation with Dwarves in Ironforge may have introduced Dwarven runic conventions into Common writing, particularly for technical and architectural inscriptions
+- **Dalaran scholarship**: The mages of Dalaran produce extensive written works in Common, including spell formulae that may blend Common and arcane notation
 
 ## Attestation and Reliability
 

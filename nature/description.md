@@ -26,6 +26,20 @@ Since druidic communication is not a distinct language but rather nature-oriente
 
 These traditions are mutually unintelligible at the lexical level — a Tauren druid's *Mu'sha* and a Night Elf druid's *Elune* refer to the same lunar deity through radically different conceptual frames, illustrating that druidic "dialects" are fundamentally translations rather than variations of a single language.
 
+## Phonological Features
+
+No distinct "Druidic" phonological system exists. Druids speak their native languages — Darnassian, Taur-ahe, Common, Zandali — and use the phonological systems of those languages. The druidic vocabulary embedded within each language follows its host language's phonotactics:
+
+- **Darnassian druidic vocabulary**: Follows Darnassian phonology — fluid consonants, vowel-heavy syllables, apostrophe-joined compounds (*Shan'do*, *Thero'shan*, *Andu-falah-dor*)
+- **Taur-ahe druidic vocabulary**: Follows Taur-ahe phonology — apostrophe-joined compounds with nature deities (*An'she*, *Mu'sha*, *Lo'sho*)
+- **Zandali druidic vocabulary**: Uses loa-naming conventions rather than a separate phonological system
+
+The only phonological claim specific to druidic practice is speculative: if a proto-druidic register ever existed, it would likely preserve archaic Darnassian or Proto-Elven phonological features lost in the modern language.
+
+## Writing System
+
+No druidic writing system is attested in canon. Druidic training is an oral tradition passed from master to student (*Shan'do* to *Thero'shan*), and the connection between druids and nature spirits is depicted as intuitive and magical rather than linguistic. The Cenarion Circle maintains records (quests, correspondence, research notes), but these are rendered in Common or Darnassian, not a distinct druidic script. The Emerald Dream, the primary realm of druidic activity, features no attested writing system — communication within the Dream is depicted as telepathic and intuitive.
+
 ## The Emerald Dream
 
 The Emerald Dream is a parallel realm of pure nature, a blueprint of Azeroth as the Titans intended it. It is home to:
