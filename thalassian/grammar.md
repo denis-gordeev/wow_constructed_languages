@@ -12,6 +12,7 @@ The most productive morphological pattern in Thalassian is the compound noun for
 - Quel'dorei = Quel (noble/high) + 'dorei (children of) = "Children of Noble Birth"
 - Ren'dorei = Ren (void) + 'dorei (children of) = "Children of the Void"
 - Kaldorei = Kal (stars) + 'dorei (children of) = "Children of the Stars" (Darnassian, shared root)
+- Belore'dorei = Belore (sun) + 'dorei (child of) = "Child of the Sun" (Sean Copeland, Twitter)
 
 This pattern is shared with Darnassian, confirming common ancestry. The first element is always a noun or adjective denoting the defining characteristic of the people. The compound functions as a self-designation or ethnonym.
 
@@ -25,9 +26,14 @@ The apostrophe (') consistently marks a morpheme boundary between two joined ele
 | Quel'dorei | Quel (noble/high) | dorei (children of) |
 | Quel'Thalas | Quel (high) | Thalas (home/kingdom) |
 | Anar'alah | Anar (by) | alah (light) |
+| Felo'melorn | Felo (flame) | melorn (strike) |
+| Thas'alah | Thas (forest) | alah (light) |
+| Thas'dorah | Thas (forest) | dorah (valor) |
+| Kim'jael | Kim (little?) | jael (rat) |
 | Shorel'aran | Shorel (?) | aran (?) |
 | Bal'a dash | Bal (?) | a dash (?) |
 | Ande'thoras | Ande (may) | thoras (troubles) |
+| Belore'dorei | Belore (sun) | dorei (children of) |
 
 The hyphen (-) also appears as a morpheme boundary within larger compounds (e.g., Ande'thoras-ethil), possibly marking a different type of juncture — perhaps a clause or phrasal boundary rather than a compounding boundary.
 
@@ -37,13 +43,29 @@ The hyphen (-) also appears as a morpheme boundary within larger compounds (e.g.
 
 In the -'dorei pattern, the modifier precedes the head: Sin (blood) + dorei (children of) = "Children of the Blood." This suggests **modifier-head** ordering in at least some compound types. However, the semantic reading "children OF blood" implies a genitive relationship where the head (dorei) governs the preceding modifier, comparable to English noun-of-noun constructions.
 
+The new compound **Thas'alah** = "Light of the Forest" provides additional evidence: *Thas* (forest) + *'alah* (light). Here the modifier "forest" precedes the head "light," yielding "Forest's Light" → "Light of the Forest." This confirms modifier-head ordering in noun-noun compounds.
+
+Similarly, **Thas'dorah** = "Valor of the Forest" follows the same pattern: *Thas* (forest) + *'dorah* (valor).
+
 **Uncertain:** Whether this is true modifier-head order or a fossilized genitive construction.
+
+### Kinship Terms with Suffix *-da*
+
+Three confirmed kinship terms share the suffix *-da*:
+
+- Ann'da = "Papa / Father"
+- Minn'da = "Mama / Mother"
+- Shal'na = "Aunt" (different suffix *-na*)
+
+The *-da* suffix may be a kinship/relationship marker, or the words may be indivisible morphemes. *Ann'da* and *Minn'da* differ only in their initial element (*Ann'* vs. *Minn'*), suggesting a prefix + suffix structure where the prefix encodes the specific relationship and *-da* marks "parent." *Shal'na* uses *-na* instead of *-da*, possibly marking a different generation level (aunt vs. parent) or gender.
 
 ## Syntax
 
-### Word Order: Evidence from "Anu belore dela'na"
+### Word Order: Evidence from Confirmed Phrases
 
-The phrase **Anu belore dela'na** = "The sun will guide us" provides the best evidence for basic word order:
+The expanded corpus provides stronger evidence for basic word order:
+
+**Anu belore dela'na** = "The sun will guide us"
 
 - Anu = the (article / subject marker)
 - Belore = sun
@@ -51,11 +73,31 @@ The phrase **Anu belore dela'na** = "The sun will guide us" provides the best ev
 
 Parsing: **[Anu belore] [dela'na]** → Subject + Verb
 
-This suggests **SVO or SV word order**, with the subject preceding the verb. The object ("us") appears to be incorporated into the verb form dela'na (subject-verb agreement or pronominal object incorporated into the verb).
+**Selama ashal'anore** = "Justice for our people"
 
-**Inference (uncertain):** Thalassian may be SVO, or may be SV with pronominal objects incorporated into the verb (a polysynthetic trait). The limited corpus prevents firm conclusions.
+- Selama = justice (noun)
+- ashal'anore = for our people (prepositional phrase)
 
-### The Optative Construction: "Ande'thoras-ethil"
+Parsing: **[Selama] [ashal'anore]** → Topic + Comment or Noun + PP
+
+**Shindu fallah na** = "They are breaking through"
+
+- Shindu = failing/breaking (adjective or noun)
+- Fallah = breaking through (verb)
+- na = particle (emphasis or direction)
+
+Parsing: **[Shindu] [fallah na]** → Subject + Verb + Particle
+
+**Doral ana'diel?** = "How fare you?"
+
+- Doral = how (interrogative)
+- ana'diel = fare you (verb + pronoun)
+
+Parsing: **[Doral] [ana'diel]?** → Question Word + Verb
+
+**Inference (moderate confidence):** Thalassian appears to favor **SVO or SV word order** in declarative sentences, with interrogatives fronting the question word. The expanded corpus provides three independent examples consistent with subject-first ordering.
+
+### The Optative Construction
 
 **Ande'thoras-ethil** = "May your troubles be diminished"
 
@@ -65,14 +107,17 @@ This suggests **SVO or SV word order**, with the subject preceding the verb. The
 
 Structure: **Optative Marker + Subject + Predicate**
 
-This appears to be a formulaic blessing construction where:
-1. Ande opens the clause as an optative particle
-2. The subject (thoras) follows
-3. The predicate adjective/verb (ethil) closes the clause
+**Elu'meniel mal alann** = "May peace calm your heart"
 
-The possessive ("your") is unexpressed, possibly implied by context or by the optative construction itself.
+- Elu'meniel = may peace (optative + noun?)
+- Mal = calm (verb)
+- Alann = heart (noun)
 
-**Inference (uncertain):** Thalassian may lack explicit possessive pronouns in blessing formulae, or the possessive may be zero-marked when contextually understood.
+Structure: **Optative + Subject + Verb + Object**
+
+This second optative example confirms the pattern and reveals that the optative construction can include a transitive verb with an explicit object (*mal alann* = "calm your heart"). The possessive ("your") may be zero-marked or incorporated into *alann*.
+
+**Inference (moderate):** Thalassian optative constructions follow **Optative Marker + Subject + Predicate**, with the predicate being either intransitive (Ande'thoras-ethil) or transitive (Elu'meniel mal alann).
 
 ### Greeting and Farewell Formulae
 
@@ -80,10 +125,14 @@ Greetings and farewells appear to be fixed formulae:
 
 - **Bal'a dash** — Greeting (internal structure unclear)
 - **Shorel'aran** — Farewell (internal structure unclear)
+- **Sinu a'manore** — "Well met" (Warcraft Encyclopedia)
+- **Al diel shala** — "Safe travels" (Warcraft Encyclopedia)
 - **Anar'alah belore** — Blessing-greeting ("By the light of the sun")
 - **Ande'thoras-ethil** — Blessing-farewell ("May your troubles be diminished")
 
-The blessing-greeting **Anar'alah belore** may follow a prepositional phrase structure: **Anar'alah** (by the light) + **belore** (of the sun / the sun), but the exact syntax is uncertain.
+The greeting **Al diel shala** may decompose as *Al* (imperative particle?) + *diel* (travel/go) + *shala* (safe), yielding "Travel safely" → "Safe travels." If *diel* relates to *dal* ("fortune/goodness"), this might instead be "Go with fortune" → "Safe travels."
+
+**Sinu a'manore** ("Well met") may decompose as *Sinu* (well/good) + *a'manore* (meet/meeting), though the internal morphemes are uncertain.
 
 **Shortened greeting form**: *Alah belore* ("Light of the sun") is attested in expanded sources as a possible shortened form of *Anar'alah belore*. If so, this suggests that the prepositional element *Anar'* ("by") can be dropped in informal contexts, leaving the core noun *alah* ("light") + *belore* ("sun") — a nominal compound functioning as a blessing.
 
@@ -95,52 +144,77 @@ The blessing-greeting **Anar'alah belore** may follow a prepositional phrase str
 
 The addressee follows the greeting, separated by a comma. This suggests a **[Greeting] + [Vocative]** pattern, consistent with SVO-type languages where the vocative is appended after the formula.
 
+The vocative pattern is confirmed by multiple examples:
+- *Bal'a dash, malanorei* = "Greetings, traveler"
+- *Anu belore dela'na, sin'dorei* = "The sun will guide us, children of the blood"
+- *Belono sil'aru, belore'dorei* = "Shoulder your burdens well, child of the sun"
+
+### Battle Cry Formulae
+
+Two battle cry patterns are attested:
+
+1. **[Noun] + [Verb] + [Particle]**: *Shindu fallah na!* ("They are breaking through!")
+2. **[Noun] + [Prepositional phrase]**: *Selama ashal'anore* ("Justice for our people")
+3. **[Imperative] + [Object]**: *Bash'a no falor talah!* ("Taste the chill of true death!")
+
+*Selama* ("justice") appears in three variant forms, suggesting it functions as a battle cry template:
+- *Selama ashal'anore* = "Justice for our people" (Warcraft Encyclopedia)
+- *Selama am'oronor!* = variant with *am'oronor* (possibly "we endure")
+- *Selama amor'anore!* = variant with *amor'anore* (possibly "for our people" with alternative morpheme boundary)
+
+### Negative / Adversative Construction
+
+**Shindu sin'dorei** = "Failing children of the blood" (from *Lament of the Highborne*)
+
+*Shindu* appears to function as a modifier meaning "failing" or "breaking," placed before the noun it modifies. This may indicate that Thalassian uses prenominal adjectives, consistent with the modifier-head pattern seen in compounds.
+
 ## Relationship to Darnassian
 
 Thalassian is a descendant of Darnassian (the Night Elf language), diverging after the Highborne exile. Shared features include:
 
-1. **The -'dorei ethnonym pattern** — identical in both languages (Kaldorei, Quel'dorei)
+1. **The -'dorei ethnonym pattern** — identical in both languages (Kaldorei, Quel'dorei, Belore'dorei)
 2. **The morpheme-boundary apostrophe** — used in both languages
-3. **Shared vocabulary** — Quel (high/noble), dorei (children of), and other roots
+3. **Shared vocabulary** — Quel (high/noble), dorei (children of), alah (light), and other roots
 
 Key differences:
-1. **Lexical innovation** — Sin (blood), Ren (void) are Thalassian innovations not found in Darnassian
+1. **Lexical innovation** — Sin (blood), Ren (void), Felo (flame) are Thalassian innovations not found in Darnassian
 2. **Cultural vocabulary shift** — Thalassian emphasizes solar imagery (belore = sun, anar'alah = by the light) vs. Darnassian's lunar/stellar imagery (Kaldorei = children of the stars, Elune = moon goddess)
 3. **Phonological divergence** — Thalassian appears to have undergone sound changes from the Darnassian base, though the limited corpus makes phonological reconstruction speculative
+4. **Kinship terminology** — Ann'da/Minn'da/Shal'na have no confirmed Darnassian cognates, though the Darnassian *Andu* (negation prefix) is phonologically similar to *Ann'da*
 
 ## Phonology
 
 ### Sound Inventory (Observed)
 
-**Consonants**: d, h, l, m, n, r, s, t, th (/θ/), sh (/ʃ/)
+**Consonants**: b, d, f, h, j, k, l, m, n, r, s, t, th (/θ/), sh (/ʃ/), v
 
 **Vowels**: a, e, i, o, u
 
 ### Consonant Inventory
 
-| | Dental/Alveolar | Postalveolar | Glottal |
-|---|---|---|---|
-| Stops | t, d | | |
-| Fricatives | s, θ (th) | ʃ (sh) | h |
-| Nasals | n | | |
-| Liquids | l, r | | |
-| Glides/Semivowels | | | |
+| | Labial | Dental/Alveolar | Postalveolar | Palatal | Velar | Glottal |
+|---|---|---|---|---|---|---|
+| Stops | p, b | t, d | | | k, g | |
+| Fricatives | f, v | s, z, θ (th) | ʃ (sh) | | | h |
+| Affricates | | | | dʒ (j) | | |
+| Nasals | m | n | | | | |
+| Liquids | | l, r | | | | |
 
-Note: /b/ and /k/ appear only in the attested corpus through the greeting *Bal'a dash* and the shared root *Kaldorei* (Darnassian). /v/ appears in *Ren'dorei* (Void). /f/ appears in *falah* (Darnassian). These are included in the broader elven inventory but are marginal in attested Thalassian.
+Note: /b/, /k/, /g/, /p/, /z/, /f/, /v/, /dʒ/ appear primarily in proper names and the expanded corpus. The core grammatical vocabulary uses a smaller consonant set (d, h, l, m, n, r, s, t, θ, ʃ). /j/ appears in *Kim'jael* and *choka'jinn*. /g/ appears in *Agamath*, *Archonisus*. /z/ is inferred from the elven comparative data. /p/ is marginal.
 
 ### Vowel Inventory
 
 | | Front | Central | Back |
 |---|---|---|---|
-| Close | i | | |
+| Close | i | | u |
 | Mid | e | | o |
 | Open | | a | |
 
-/u/ appears in *duna* (if from *dela'na*) and possibly in proper names, but is rare in the attested Thalassian corpus. The effective vowel system may be /a, e, i, o/ with /u/ marginal.
+/u/ appears in *Shindu*, *Sunstrider* (English), and various proper names. The vowel system is likely the full five-vowel set /a, e, i, o, u/, consistent with the elven language family.
 
 ### Phonological Patterns
 
-1. **Dominant vowel /a/**: Like Darnassian, /a/ is the most frequent vowel. It appears in nearly every attested word: *Sin'dorei, Anar'alah, Thalas, Bal'a, Ande'thoras-ethil*. The vowel /a/ also dominates morpheme-final position (*-dorei, -alah, Thalas, -aran*).
+1. **Dominant vowel /a/**: Like Darnassian, /a/ is the most frequent vowel. It appears in nearly every attested word: *Sin'dorei, Anar'alah, Thalas, Bal'a, Ande'thoras-ethil, Selama, Shindu, Alann*. The vowel /a/ also dominates morpheme-final position (*-dorei, -alah, Thalas, -aran, -anore*).
 
 2. **Syllable structure**: (C)V(C), consistent with the elven language family. Attested patterns:
    - CV: *Si, 'do, Que, bel*
@@ -153,13 +227,13 @@ Note: /b/ and /k/ appear only in the attested corpus through the greeting *Bal'a
    - *Quel'Thalas* — /kwɛlˈθɑːlɑːs/
    - *Bal'a dash* — /bɑːlˈʔɑː dɑːʃ/
 
-4. **Dental fricative /θ/**: The sound /θ/ (written *th*) is a distinctive feature shared with Darnassian, appearing in *Thalas, thoras, ethil*. Its retention in Thalassian suggests stability from the parent language.
+4. **Dental fricative /θ/**: The sound /θ/ (written *th*) is a distinctive feature shared with Darnassian, appearing in *Thalas, thoras, ethil, Thas'alah, Thas'dorah*. Its retention in Thalassian suggests stability from the parent language.
 
-5. **Liquid frequency**: /l/ and /r/ are very common, appearing in nearly all attested words. /r/ appears in *Ren, Dath'Remar, thoras, aran, dorei*. /l/ appears in *belore, alah, Thalas, ethil, malanorei*.
+5. **Liquid frequency**: /l/ and /r/ are very common, appearing in nearly all attested words. /r/ appears in *Ren, Dath'Remar, thoras, aran, dorei, arkhana*. /l/ appears in *belore, alah, Thalas, ethil, malanorei, fallah*.
 
-6. **No complex onset clusters**: No attested Thalassian word begins with a consonant cluster. All onsets are single consonants or zero (vowel-initial), consistent with the elven language family.
+6. **No complex onset clusters**: Most attested Thalassian words begin with single consonants. The exception is *drac-* in *Anar'endal dracon* ("By the breath of the dragon"), which may contain an onset cluster /dr/. This could indicate: (a) *dracon* is a loanword from Common, (b) onset clusters are permitted but rare, or (c) the syllable boundary falls differently (*dra-con* vs. *d-racon*).
 
-7. **Sonorant-heavy word endings**: Word-final and morpheme-final positions favor sonorants: *-ei* (dorei), *-as* (Thalas), *-il* (ethil), *-an* (aran), *-ore* (belore). This produces the characteristic melodic quality of elven names.
+7. **Sonorant-heavy word endings**: Word-final and morpheme-final positions favor sonorants: *-ei* (dorei), *-as* (Thalas), *-il* (ethil), *-an* (aran), *-ore* (belore), *-ah* (fallah), *-a* (shala). This produces the characteristic melodic quality of elven names.
 
 8. **Word-final /ʃ/**: The only attested fricative in word-final position is /ʃ/ in *dash* ("greetings"). This is unusual within the elven family and may be a phonotactic innovation or an archaic retention.
 
@@ -167,24 +241,30 @@ Note: /b/ and /k/ appear only in the attested corpus through the greeting *Bal'a
 
 | Feature | Darnassian | Thalassian |
 |---------|-----------|------------|
-| /θ/ (th) | Present (*Thero, thera'nal*) | Present (*Thalas, thoras, ethil*) |
-| /ʃ/ (sh) | Present (*Shan, shem, Asha*) | Rare (*dash*) |
+| /θ/ (th) | Present (*Thero, thera'nal*) | Present (*Thalas, thoras, ethil, Thas*) |
+| /ʃ/ (sh) | Present (*Shan, shem, Asha*) | Present (*Shindu, shala, Shal'na*) |
 | Dominant vowel | /a/ | /a/ |
 | Syllable structure | (C)V(C) | (C)V(C) |
-| Complex onsets | /dr/ (*drassil*), /nd/ (*Andu*) | None attested |
+| Complex onsets | /dr/ (*drassil*), /nd/ (*Andu*) | Possibly /dr/ (*dracon*) only |
 | Apostrophe function | Morpheme boundary | Morpheme boundary |
 | Hyphen function | Phrasal boundary | Phrasal boundary |
+| /f/ frequency | Low (*falah*) | Low (*Felo'melorn, falor*) |
+| Kinship terms | Not attested | *Ann'da, Minn'da, Shal'na* |
 
-Thalassian appears phonologically more conservative than Darnassian in some respects (simpler onset structure) and innovative in others (reduced /ʃ/ frequency). The limited corpus makes systematic comparison speculative.
+Thalassian appears phonologically more conservative than Darnassian in some respects (simpler onset structure) and innovative in others (expanded /ʃ/ frequency, confirmed kinship terminology). The expanded corpus reduces the gap between observed and expected phonological complexity.
 
 ## Summary of Grammatical Inferences
 
 | Feature | Inference | Certainty |
 |---------|-----------|-----------|
-| Word order | Possibly SVO | Low — based on one phrase |
+| Word order | SVO or SV (subject-first) | Moderate — three independent examples |
 | Apostrophe function | Morpheme boundary in compounds | High — consistent across all examples |
-| Hyphen function | Phrasal/clausal boundary | Moderate — only one example (Ande'thoras-ethil) |
-| -'dorei pattern | Productive ethnonym-forming suffix | High — four attested examples |
-| Optative construction | Ande + Subject + Predicate | Moderate — one clear example |
-| Pronoun incorporation | Possible in verb forms (dela'na) | Low — could also be inflection |
+| Hyphen function | Phrasal/clausal boundary | Moderate — two examples (Ande'thoras-ethil, Enshu-falah-nah) |
+| -'dorei pattern | Productive ethnonym-forming suffix | High — five attested examples |
+| Optative construction | Ande/Elu' + Subject + Predicate | Moderate — two clear examples |
+| Pronoun incorporation | Possible in verb forms (dela'na, ana'diel) | Low–Moderate — could also be inflection |
 | Possessive marking | Possibly zero-marked in blessings | Low — based on absence of evidence |
+| Prenominal adjectives | Shindu + noun (modifier-head) | Moderate — one clear example (Shindu sin'dorei) |
+| Kinship suffix *-da* | Marks parent relationship | Low — only two examples (Ann'da, Minn'da) |
+| Conjunction *Rea* | "And" (coordinating) | Low — one attestation |
+| Battle cry template | Selama + phrase | Moderate — three variants |

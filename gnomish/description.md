@@ -25,23 +25,19 @@ Key historical events affecting the language:
 
 ## Cultural Context
 
-- Gnomish culture values innovation, engineering, and technical ingenuity. The language likely has extensive vocabulary for mechanical components, processes, and design concepts.
-- The gnomish sense of humor is reflected in name choices — many gnomish NPCs have pun names or Common-language compound names (e.g., *Evol Fingers*, *Gnomercy*). This may reflect a cultural preference for wordplay that makes it difficult to distinguish genuine Gnomish-language names from Common jokes.
-- Gnomes have a strong tradition of record-keeping and documentation. The Gnomeregan archives, though irradiated, may contain Gnomish-language texts that have not been recovered in canon.
-- The mechagnome connection to Titan technology means that Gnomish may preserve Titan vocabulary for construction and mechanical concepts, similar to how Dwarven preserves Titan vocabulary for earth and shaping.
+- Gnomish culture values innovation, engineering, and technical ingenuity. The language likely has extensive vocabulary for mechanical components, processes, and design concepts
+- The gnomish sense of humor is reflected in name choices — many gnomish NPCs have pun names or Common-language compound names (e.g., *Evol Fingers*, *Gnomercy*). This may reflect a cultural preference for wordplay that makes it difficult to distinguish genuine Gnomish-language names from Common jokes
+- Gnomes have a strong tradition of record-keeping and documentation. The Gnomeregan archives, though irradiated, may contain Gnomish-language texts that have not been recovered in canon
+- The mechagnome connection to Titan technology means that Gnomish may preserve Titan vocabulary for construction and mechanical concepts, similar to how Dwarven preserves Titan vocabulary for earth and shaping
+- The mechagnome split: traditional gnomes (flesh-born) and mechagnomes (clockwork originals) represent two cultural traditions. The mechagnomes of Rustbolt may retain a more conservative linguistic register, closer to the original Titan-influenced vocabulary
+- Gnomish naming shows a distinctive pattern: short, playful personal names (*Gazlowe*, *Fizzle*, *Sprocket*, *Tink*) contrasting with longer compound place names (*Gnomeregan*, *Mechagon*)
+- The *Gallagio* district (in the Vulpera area) uses an Italian *-gio* ending, reflecting Blizzard's Italian aesthetic for gnomish/goblin commercial culture rather than genuine Gnomish morphology
 
 ## Dialects and Variants
 
 - **Standard Gnomish (Gnomeregan dialect)**: The language as spoken by the flesh gnomes of Gnomeregan and Ironforge. Heavily influenced by Common and Dwarven through centuries of bilingualism.
 - **Mechagnome Gnomish (Mechagon dialect)**: The language as preserved by the mechagnomes of Mechagon Island. Likely more conservative, retaining Titan-derived vocabulary for mechanical and architectural concepts. May have diverged significantly from Standard Gnomish during millennia of isolation.
 - **Technical Gnomish**: A possible specialized register used for engineering and technical communication. This is speculative; gnomish engineers may use Common with Gnomish technical loanwords.
-
-## Cultural Context
-
-- Gnomish culture is deeply technological, with engineering, invention, and tinkering as central values. Their language likely has extensive vocabulary for mechanical components, engineering processes, and scientific concepts
-- The mechagnome split: traditional gnomes (flesh-born) and mechagnomes (clockwork originals) represent two cultural traditions. The mechagnomes of Rustbolt may retain a more conservative linguistic register, closer to the original Titan-influenced vocabulary
-- Gnomish naming shows a distinctive pattern: short, playful personal names (*Gazlowe*, *Fizzle*, *Sprocket*, *Tink*) contrasting with longer compound place names (*Gnomeregan*, *Mechagon*)
-- The *Gallagio* district (in the Vulpera area) uses an Italian *-gio* ending, reflecting Blizzard's Italian aesthetic for gnomish/goblin commercial culture rather than genuine Gnomish morphology
 
 ## Phonological Features
 

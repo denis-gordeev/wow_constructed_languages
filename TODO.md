@@ -75,8 +75,28 @@
 
 - [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
 - [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
+- [ ] Investigate Thalassian *-da* kinship suffix — *Ann'da* (papa), *Minn'da* (mama) share *-da*; *Shal'na* (aunt) uses *-na* — **NEW**: requires more kinship terms for confirmation
+- [ ] Investigate Thalassian *Selama* battle cry variants — *ashal'anore* vs *am'oronor* vs *amor'anore*; is *-anore* = "our people" with morpheme boundary variation? — **NEW**: 3 attestations; Moderate confidence for template pattern
+- [ ] Cross-reference new Thalassian data with Darnassian and elven-comparative.html: *Thas* (forest) ↔ Darnassian, *arkhana* (magic) shared?, *Shindu* cognates? — **NEW**
 
 ## Completed This Round (2026-06-25)
+
+- [x] Massive Thalassian vocabulary expansion from warcraft.wiki.gg: added 17+ confirmed words/phrases with official Blizzard translations (from Warcraft Encyclopedia, Sean Copeland Twitter, novels, Lament of the Highborne, in-game dialogue)
+- [x] Add Thalassian confirmed words: *Shindu* (failing/breaking), *Selama* (justice), *Tal* (death), *Felo* (flame), *Thas* (forest), *arkhana* (magic), *alann* (heart), *anore* (people), *jael* (rat), *fallah* (breaking through), *Aranal* (rise), *Shala* (safe), *Rea* (and), *No* (to/all)
+- [x] Add Thalassian kinship terms: *Ann'da* (papa/father), *Minn'da* (mama/mother), *Shal'na* (aunt) — from Descent novel and quest text
+- [x] Add Thalassian confirmed phrases: *Selama ashal'anore* ("Justice for our people"), *Bash'a no falor talah!* ("Taste the chill of true death!"), *Shindu fallah na* ("They are breaking through!"), *Shindu sin'dorei* ("Failing children of the blood"), *Sinu a'manore* ("Well met"), *Al diel shala* ("Safe travels"), *Doral ana'diel?* ("How fare you?"), *Elu'meniel mal alann* ("May peace calm your heart"), *Elor bindel felallan morin'aminor* ("Sleep forever in quiet serenity"), *Ama noral'arkhana* ("Saved by magic"), *Vendel'o eranu* ("Help me forget"), *Anaria shola* ("Speak your business"), *Anar'endal dracon* ("By the breath of the dragon"), *Belono sil'aru, belore'dorei* ("Shoulder your burdens well, child of the sun"), *Tal anu'men no Sin'dorei* ("Death to all who oppose the children of the blood")
+- [x] Add 20+ Thalassian untranslated phrases from WC3 Blood Mage, Kael'thas, Nethermancer Zerevor, and other NPCs
+- [x] Add Thalassian confirmed compound name decompositions: *Alar'annalas* (Ranger Lord), *Belore'dorei* (Child of the Sun), *Ban'dinoriel* (Gatekeeper), *Felo'melorn* (Flamestrike), *Thas'alah* (Light of the Forest), *Thas'dorah* (Valor of the Forest), *Kim'jael* (Little rat)
+- [x] Add 30+ Thalassian proper nouns: places (Quel'Danas, An'daroth, An'owyn, An'telas, Elrendar, Falthrien, Scintilas, Shalandis, Shan'dor), Sunwell gates (Agamath, Rohendor, Archonisus), items (Thori'dal, Fal'inrush, Rae'shalare, Tel'thas, Lu'minellia), ships (Sin'loren, Fellovar, Morn'danel, Varillian), flora/food/drink (Belanise, Sinara, Sin'gria, Sintalia), Midnight entities (Shan'dorah, Belo'ren)
+- [x] Update Thalassian grammar.md with expanded analysis: second optative construction example, battle cry formulae, vocative construction with 3 examples, kinship terms with *-da* suffix, *Thas* + *'alah* compounding evidence, prenominal adjective evidence from *Shindu sin'dorei*, expanded consonant inventory with Labial/Palatal/Velar columns
+- [x] Update Thalassian description.md attestation summary: confirmed phrases 10–12 → 20+, isolated words 15–20 → 25–30, confirmed morphemes 3 → 6, attested sentences 0 → 3+, proper names 3+ → 15+
+- [x] Update README.md Thalassian attestation level: Moderate — 20+ confirmed phrases, 20+ untranslated phrases, 7 confirmed compound decompositions, 3 kinship terms
+- [x] Sync thalassian/vocabulary.html, grammar.html, description.html with updated .md files
+- [x] Add ethereal cultural designations from wiki: "Thank K'aresh!" (interjection), "Fleshlings" (derogatory term), "The Wasting" (transformation process name), "Transmorphers" (cultural role), "Flesh handlers" (cultural role)
+- [x] Add ethereal vocabulary entries: *Loom'ithar* (boss), *Singularity* (faction)
+- [x] Sync ethereal/vocabulary.html with updated vocabulary.md
+- [x] Fix gnomish/description.md duplicate Cultural Context section (merged two sections into one)
+- [x] Sync gnomish/description.html with corrected description.md
 
 - [x] Add missing Shath'Yar confirmed phrase from wiki: *Zuq agth kyth ongg oou uovssh Nuq zuq lwhuk qi'uothk far'al aq zaix hnakf lal* = "You have seen into the beyond. Now you shall perceive things as they truly are." (from A Mote of Cosmic Truth)
 - [x] Add 10 missing speculative dictionary entries from Shath'Yar wiki: *erh* = "choke", *gaz* = "servant", *ifis* = "of my" (possessive), *naus* = "hunger" (root), *qor* = "endless" (root), *shel* = "void", *shg* = "outside", *uq* = "power", *vwahuhn* = "reckoning", *zaix* = "praise"

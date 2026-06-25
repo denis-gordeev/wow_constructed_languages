@@ -493,6 +493,20 @@ No ethereal or broker hieroglyphs or texts have been translated in canon.
 | Word | IPA | Context | Notes |
 |------|-----|---------|-------|
 | Tabiqa | — | Ritual through which Oracles communed with K'aresh's Worldsoul | Also a **Tabiqa Dagger** ritual implement. *Tabiqa* has no obvious Common-language etymology and may be a genuine K'areshi vocabulary word. **Confidence: Low–Moderate** — single attestation, but the lack of Common-language etymology and the ritual context suggest it may preserve a genuine K'areshi word |
+| Loom'ithar | — | Great beast that created the Shadowguard's wraps | Boss in Ghosts of K'aresh campaign. Not an ethereal-language name per se (likely a creature name), but culturally significant. The *'ithar* element is unique |
+| Singularity | — | Faction that some Shadowguard ethereals defected to | After Salhadaar was deposed by Xal'atath, some Shadowguard members defected to this faction. Common-language name |
+
+### Common-Language Cultural Designations (Ethereal-Specific Usage)
+
+These terms are Common/English words but are used specifically by ethereals and carry cultural significance. They are not ethereal-language words but document the unique vocabulary of ethereal culture.
+
+| Term | Context | Notes |
+|------|---------|-------|
+| "Thank K'aresh!" | Ethereal interjection expressing gratitude/relief | Attested from in-game dialogue. Culturally parallel to "Thank God!" — the ethereal homeworld functions as the highest invocation. Not an ethereal-language expression but a culturally significant ethereal-specific idiom |
+| "Fleshlings" | Ethereal term for mortal/corporeal beings | Attested from 3+ sources (Protectorate, Consortium, and other ethereal NPCs). Derogatory or dismissive. Reflects the ethereals' post-transformation identity as energy beings who view corporeal life as inferior |
+| "The Wasting" | The transformation process from flesh beings to energy beings (ethereals) | The name for the Void energy exposure that killed most K'areshi and transformed survivors into ethereals. Previously described in the repo but not specifically named; now confirmed by wiki as "The Wasting" |
+| "Transmorphers" | Ethereals able to reshape flesh | Can modify a person's appearance but with risk of permanent mental alteration. A cultural/technological role within ethereal society |
+| "Flesh handlers" | Ethereals who deal specifically with flesh beings | Cultural designation for ethereals who interact with corporeal species. Parallel to "Fleshlings" in reflecting the ethereal/corporeal cultural divide |
 
 ## 14. Investigation: *Reshii* and the *-esh* / *-resh* Root
 

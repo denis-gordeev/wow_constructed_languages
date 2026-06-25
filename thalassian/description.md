@@ -87,28 +87,36 @@ See [elven-comparative.html](../elven-comparative.html) for full comparative ana
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Attested phrases with translations | 10–12 | *Bal'a dash*, *Shorel'aran*, *Anar'alah belore*, *Anu belore dela'na*, *Ande'thoras-ethil*, *Alah belore*, *Anu belore dela'na, sin'dorei* |
-| Attested isolated words/morphemes | 15–20 | *Sin*, *Quel*, *Ren*, *belore*, *alah*, *Thalas*, *dorei*, *Ande*, *Anu* |
-| Confirmed morphemes | 3 | *-'dorei* (children of), *Sin* (blood), *Quel* (noble/high) |
-| Inferred morphemes | 6+ | *Ren* (void), *Thalas* (home), *Ande* (optative), *Anu* (article), *ethil* (diminished), *belore* (sun) |
-| Attested sentences | 0 (unambiguous) | No full sentences with confirmed word-by-word glosses exist; all phrases are formulaic |
-| Proper names (places) | 3+ | *Quel'Thalas*, *El'darath*, *Thalas'darah* |
-| Proper names (ethnonyms) | 4 | *Sin'dorei*, *Quel'dorei*, *Ren'dorei*, *Kaldorei* (shared with Darnassian) |
+| Confirmed phrases with official translations | 20+ | *Bal'a dash*, *Shorel'aran*, *Sinu a'manore*, *Al diel shala*, *Selama ashal'anore*, *Shindu fallah na*, *Anar'alah belore*, *Ande'thoras-ethil*, *Elu'meniel mal alann*, *Ama noral'arkhana*, *Vendel'o eranu* |
+| Untranslated phrases | 20+ | *Anar'anel belore*, *Anar'alash denal!*, *Balamore shanal!*, *Endo-enah Quel'Thalas!*, *Felomin ashal*, *Quel'falan danas!* |
+| Confirmed isolated words/morphemes | 25–30 | *Sin*, *Quel*, *Ren*, *belore*, *alah*, *Thalas*, *dorei*, *Ande*, *Anu*, *Shindu*, *Selama*, *Tal*, *Felo*, *Thas*, *arkhana*, *Rea* |
+| Confirmed morphemes | 6 | *-'dorei* (children of), *Sin* (blood), *Quel* (noble/high), *Thas* (forest), *Felo* (flame), *'alah* (light) |
+| Inferred morphemes | 10+ | *Ren* (void), *Thalas* (home), *Ande* (optative), *Anu* (article), *ethil* (diminished), *belore* (sun), *arkhana* (magic), *alann* (heart), *shala* (safe), *Shindu* (failing/breaking) |
+| Attested sentences | 3+ | *Anu belore dela'na*, *Shindu fallah na*, *Elu'meniel mal alann* |
+| Confirmed compound names | 7 | *Alar'annalas*, *Belore'dorei*, *Ban'dinoriel*, *Felo'melorn*, *Thas'alah*, *Thas'dorah*, *Kim'jael* |
+| Kinship terms | 3 | *Ann'da* (papa/father), *Minn'da* (mama/mother), *Shal'na* (aunt) |
+| Proper names (places) | 15+ | *Quel'Thalas*, *Quel'Danas*, *An'daroth*, *An'owyn*, *An'telas*, *Elrendar*, *Falthrien*, *Scintilas* |
+| Proper names (ethnonyms) | 5 | *Sin'dorei*, *Quel'dorei*, *Ren'dorei*, *Kaldorei*, *Belore'dorei* |
+| Proper names (items/artifacts) | 6 | *Felo'melorn*, *Thori'dal*, *Fal'inrush*, *Rae'shalare*, *Tel'thas*, *Lu'minellia* |
+| Proper names (Sunwell gates) | 3 | *Agamath*, *Rohendor*, *Archonisus* |
 
 ## Reliability and Limitations
 
-**The Thalassian corpus is extremely small.** Blizzard has never published a full grammar or vocabulary for the language. All inferences are drawn from:
+**The Thalassian corpus has expanded significantly** through the Warcraft Encyclopedia, Sean Copeland's Twitter translations, and official novelizations. While still limited compared to a natural language, the corpus now supports moderate-confidence grammatical inferences. All inferences are drawn from:
 
-- Approximately 8–10 full phrases
-- Approximately 15–20 isolated words or morphemes
-- Proper names and place names
+- Approximately 20+ confirmed phrases with official translations
+- Approximately 25–30 isolated words or morphemes
+- 20+ untranslated phrases from in-game dialogue
+- 30+ proper names (places, items, ethnonyms)
+- 7 confirmed compound name decompositions
 
 This means:
 
-1. **All grammatical inferences are provisional.** Word order, verb morphology, case marking, and other features cannot be firmly established from such limited data.
-2. **Translations are often contested.** Some phrases (e.g., Anar endal'dor, Doral, Thalas'darah) have uncertain or disputed translations.
+1. **Grammatical inferences are increasingly supported.** The expanded corpus allows moderate-confidence claims about word order (SVO), optative constructions, and the -'dorei compounding pattern. However, verb morphology, case marking, and other features remain uncertain.
+2. **Translations are often contested.** Some phrases (e.g., Anar endal'dor, Thalas'darah) have uncertain or disputed translations. The Warcraft Encyclopedia and Sean Copeland translations are the most reliable sources.
 3. **The apostrophe convention may be inconsistent.** While it generally marks morpheme boundaries, Blizzard's use may not follow a strict linguistic system.
 4. **Darnassian comparisons are suggestive but not definitive.** Shared morphemes confirm relatedness, but divergent meanings or grammatical functions cannot be ruled out.
 5. **Some widely-cited words (e.g., Nor'alah, Asha) have very limited attestation and uncertain translations.** These are included for completeness but should be treated with caution.
+6. **The Lament of the Highborne provides the richest single source.** The lyrics *Shindu fallah na* and *Shindu sin'dorei* are confirmed translations from the in-game event, providing rare sentence-level evidence.
 
 Any scholarly use of this material should acknowledge these limitations and avoid presenting inferences as established fact.
