@@ -2,7 +2,7 @@
 
 ## Overview
 
-Shath'Yar is the language of the Old Gods and their servants — one of the oldest languages in the Warcraft universe, predating all mortal languages on Azeroth. It is spoken (or projected) by the Old Gods themselves (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj), their faceless servants (N'raqi, K'thir), and likely the Aqir and Qiraji in some form. The language is inspired by **R'lyehian** from H.P. Lovecraft's Cthulhu Mythos and shares its alien, maddening quality. Unlike most WoW constructed languages, Shath'Yar now has **55+ confirmed translated phrases** with official Blizzard translations, making it one of the better-attested WoW constructed languages despite its intentionally opaque design.
+Shath'Yar is the language of the Old Gods and their servants — one of the oldest languages in the Warcraft universe, predating all mortal languages on Azeroth. It is spoken (or projected) by the Old Gods themselves (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj), their faceless servants (N'raqi, K'thir), and likely the Aqir and Qiraji in some form. The language is inspired by **R'lyehian** from H.P. Lovecraft's Cthulhu Mythos and shares its alien, maddening quality. Unlike most WoW constructed languages, Shath'Yar now has **56+ confirmed translated phrases** with official Blizzard translations, making it one of the better-attested WoW constructed languages despite its intentionally opaque design.
 
 ## Speakers
 
@@ -82,18 +82,18 @@ Shath'Yar writing appears on in-game objects including the **Banner of the Black
 | Old God names | 5 | Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj, G'huun |
 | Servant names | 5+ | Il'gynoth, N'raqi, K'thir, Aqir, Ssra'thik |
 | Midnight entities | 3+ | domanaar, Decimus, Terminas (Common/Latin names) |
-| Confirmed phrases (official translations) | 55+ | From Yogg-Saron, Yor'sahj, Kaahrj, Volazj, Zon'ozz, Mythrax, G'huun, Vol'zith, Zek'voz, and other sources |
+| Confirmed phrases (official translations) | 56+ | From Yogg-Saron, Yor'sahj, Kaahrj, Volazj, Zon'ozz, Mythrax, G'huun, Vol'zith, Zek'voz, and other sources |
 | Confirmed single-word translations | 2 | *An'qoth* = "Vessel", *Yu'gaz* = "Fluffy" |
 | Untranslated phrases | 20+ | From cultists, artifacts, quest text |
 | Deep Watcher phrases (Midnight) | 2+ | "The eye sees all!", "We slumber no more!" |
 | Naaru names (cross-reference) | 6 | A'dal, K'ure, K'ara, M'uru, O'ros, L'ura |
-| Speculative dictionary entries | 60+ | Derived from cross-referencing confirmed phrases with translations |
+| Speculative dictionary entries | 70+ | Derived from cross-referencing confirmed phrases with translations |
 | Confirmed pronouns | 6 | y'za, hoq, iilth, ywaq, ag, ak |
 | Confirmed grammatical markers | 3+ | sk- (possessive), qi' (future), maq (negation) |
 
 ## Reliability Notes
 
-- **Moderate attestation.** With 55+ confirmed translated phrases, Shath'Yar is now one of the better-attested WoW constructed languages — far surpassing nerubian, qiraji, and ethereal in confirmed vocabulary.
+- **Moderate attestation.** With 56+ confirmed translated phrases, Shath'Yar is now one of the better-attested WoW constructed languages — far surpassing nerubian, qiraji, and ethereal in confirmed vocabulary.
 - **Translation imprecision.** The English translations are often idiomatic rather than literal, making it difficult to map Shath'Yar morphemes precisely.
 - **Design intent.** The language was likely designed for aesthetic effect (alien, maddening, Lovecraftian) rather than as a functional constructed language. The wiki explicitly states: "the grammar of Shath'Yar appears to be quite different from English, especially when it comes to articles and auxiliary verbs."
 - **Speculative dictionary caveat.** The 60+ speculative dictionary entries are derived by cross-referencing, not by official Blizzard morpheme assignments. The wiki marks this section as "should not be taken as representing official lore."

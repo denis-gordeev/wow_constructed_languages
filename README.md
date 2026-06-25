@@ -13,7 +13,7 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 | Zandali | Trolls (all tribes) | [zandali/](zandali/) | Moderate — creole + naming patterns |
 | Taur-ahe | Tauren | [taur-ahe/](taur-ahe/) | Low — mostly deity names |
 | Dwarven | Dwarves | [dwarven/](dwarven/) | Low — mostly place names |
-| Shath'Yar | Old Gods and their servants | [shath-yar/](shath-yar/) | Moderate — 55+ confirmed phrases with official translations, 2 confirmed single-word translations, 6 confirmed pronouns, speculative dictionary with 60+ entries; inspired by Lovecraft's R'lyehian |
+| Shath'Yar | Old Gods and their servants | [shath-yar/](shath-yar/) | Moderate — 56+ confirmed phrases with official translations, 2 confirmed single-word translations, 6 confirmed pronouns, speculative dictionary with 70+ entries; inspired by Lovecraft's R'lyehian |
 | Kalimag | Elementals | [kalimag/](kalimag/) | Very Low — mostly proper names |
 | Shalassian | Nightborne (Shal'dorei) | [shalassian/](shalassian/) | Low — derived from Darnassian |
 | Gutterspeak | Forsaken (Undead) | [gutterspeak/](gutterspeak/) | Very Low — corrupted Common |

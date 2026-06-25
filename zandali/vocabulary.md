@@ -154,6 +154,7 @@ This is the **first evidence of a second preposition/particle** beyond *na*, and
 | Samedi | Darkspear grave loa | Proper name |
 | Shango | Storm loa | Proper name |
 | Farastu | Unbound water elemental | Proper name; Shimmer Ridge. Title: <The Living Ice>. Name may directly translate to title |
+| Kai'ju | Term used for Gahz'rilla | Apostrophe-marked: *Kai'* + *-ju*. Reference to the Japanese word "kaiju" (strange beast); likely a pop-culture reference rather than a genuine Zandali morpheme |
 
 ### Additional Names with "Vol" Prefix
 

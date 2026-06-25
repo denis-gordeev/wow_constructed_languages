@@ -70,14 +70,29 @@
 - [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data — **NOT YET AVAILABLE**: Patch 12.1.5 scheduled for Autumn 2026; no PTR data yet
-- [ ] Investigate Shath'Yar *ma* dual meaning: "is/are" vs. "millennia" — likely two homophonous morphemes but requires more data to confirm
-- [ ] Investigate Shath'Yar *za* dual meaning: "place" vs. "my" — likely two homophonous morphemes but requires more data to confirm
-- [ ] Investigate *iilth* vs *ilith* — two forms for "you" in Shath'Yar; possibly register variation, allophonic alternation, or distinct pronouns
 
 ## Next Actions
 
 - [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
 - [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
+
+## Completed This Round (2026-06-25)
+
+- [x] Add missing Shath'Yar confirmed phrase from wiki: *Zuq agth kyth ongg oou uovssh Nuq zuq lwhuk qi'uothk far'al aq zaix hnakf lal* = "You have seen into the beyond. Now you shall perceive things as they truly are." (from A Mote of Cosmic Truth)
+- [x] Add 10 missing speculative dictionary entries from Shath'Yar wiki: *erh* = "choke", *gaz* = "servant", *ifis* = "of my" (possessive), *naus* = "hunger" (root), *qor* = "endless" (root), *shel* = "void", *shg* = "outside", *uq* = "power", *vwahuhn* = "reckoning", *zaix* = "praise"
+- [x] Update Shath'Yar *kyth* confidence: Moderate → High (now confirmed in two independent phrases)
+- [x] Update Shath'Yar *uovssh* meaning: "wait(ed)" → "wait(ed) / now" (new evidence from confirmed phrase)
+- [x] Add Open Linguistic Investigations section to Shath'Yar grammar.md: 3 deep analyses with evidence tables, hypotheses, and confidence ratings
+- [x] Investigation 1: *za* — "Place" vs. "My" (Possessive) — identified *ifis* = "of my" as alternative possessive morpheme from wiki; proposed three hypotheses (homophonous morphemes, grammaticalized possessive, *ifis* resolves ambiguity); Low–Moderate confidence for homophonous morphemes
+- [x] Investigation 2: *ma* — Copula vs. "Millennia" — identified clean syntactic distribution: free *ma* = copula, bound *ma* = temporal; Moderate confidence for two homophonous morphemes
+- [x] Investigation 3: *iilth* vs *ilith* vs *illith* — identified third variant form from Vol'zith the Whisperer; proposed four hypotheses (allophonic variation, register variation, distinct pronouns, Blizzard inconsistency); Moderate confidence for allophonic variation conditioned by register/speaker type
+- [x] Update Shath'Yar pronoun system in grammar.md: added *illith* as third variant, added *ifis* as alternative possessive, cross-referenced investigations
+- [x] Update Shath'Yar description.md: 55+ → 56+ confirmed phrases, 60+ → 70+ speculative dictionary entries
+- [x] Update README.md Shath'Yar attestation: 55+ → 56+ confirmed phrases, 60+ → 70+ speculative entries
+- [x] Add Kai'ju personal name to Zandali vocabulary.md and vocabulary.html (term for Gahz'rilla; Japanese pop-culture reference)
+- [x] Sync shath-yar/vocabulary.html with vocabulary.md: added new confirmed phrase, updated speculative dictionary entries
+- [x] Sync shath-yar/grammar.html with grammar.md: added Open Linguistic Investigations section, updated pronoun table, added nav link
+- [x] Sync shath-yar/description.html with description.md: updated attestation counts
 
 ## Completed This Round (2026-06-24, Round 2)
 

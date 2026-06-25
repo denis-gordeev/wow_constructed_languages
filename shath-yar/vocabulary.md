@@ -180,6 +180,7 @@ All phrases below have **officially confirmed English translations** from Blizza
 | Ywaq mwual'gyos gag prfakt sjabba zuq... | They are the shadow that feasts on life... | Armageddon comic |
 | Za uul og nuq i fssh zz oou iiyoq ez oou gul'kafh anagg | My fall is but a beat in the heart of the infinite abyss. | Storm's End quest |
 | Zuq ag'xig bormaz ag'thyzak! | You cannot escape infection! | G'huun |
+| Zuq agth kyth ongg oou uovssh Nuq zuq lwhuk qi'uothk far'al aq zaix hnakf lal | You have seen into the beyond. Now you shall perceive things as they truly are. | A Mote of Cosmic Truth |
 | Oou wgah yyqZz uhnish guu'lal Qwor wgah za kaaxth | The deep one's prison weakens. None will be spared! | Soggoth the Slitherer |
 | Ak yar qi'lwhuk h'iwn. | Our gods will devour all. | Anglepoint Wharf NPCs |
 | Y'za qam yyqzz... | I return to the writhing throne. | Anglepoint Wharf NPCs |
@@ -314,13 +315,13 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | qam | return | *Uulg'ma, ag qam* = "After millennia, we have returned" | **Moderate** |
 | puul | drink | *Ywaq puul skshgn* = "They drink your fear" | **Moderate** |
 | nuul | dwell | *Yoq'al shn ky ywaq nuul* = "It is the perpetuity in which they dwell" | **Moderate** |
-| kyth | see | *KYTH ag'xig yyg'far* = "SEE how we pour" | **Moderate** |
+| kyth | see | *KYTH ag'xig yyg'far* = "SEE how we pour"; *Zuq agth kyth* = "You have seen" | **High** |
 | thyzak | reclaim | *ag'THYZAK agthu* = "we RECLAIM this world" | **Moderate** |
 | eqnizz | drives | *Sk'shgn eqnizz hoq* = "Your fear drives me" | **Moderate** |
 | guulphg | sustains | *Sk'uuyat guulphg hoq* = "Your agony sustains me" | **Moderate** |
 | huqth | sate | *Sk'yahf agth huqth N'Zoth qornaus* = "Your souls shall sate N'Zoth's endless hunger" | **Moderate** |
 | yawifk | strengthens | *Sk'magg yawifk hoq* = "Your suffering strengthens me" | **Moderate** |
-| uovssh | wait(ed) | *Uovssh thyzz... qwaz...* = "To have waited so long... for this..." | **Moderate** |
+| uovssh | wait(ed) / now | *Uovssh thyzz* = "waited so long"; *uovssh Nuq* = "Now you shall" | **Moderate** |
 
 ### Nouns
 
@@ -351,6 +352,10 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | iiqaath | cursed | *IIQAATH ONGG* = "CURSED EARTH" | **Moderate** |
 | naggwa | unending | *N'Zoth naggwa'fssh* = "N'Zoth's unending glory" | **Moderate** |
 | qornaus | hunger | *N'Zoth qornaus* = "N'Zoth's hunger" | **Low–Moderate** |
+| ifis | of my / my (possessive) | *Uulwi ifis halahs* = "The shadow of my corpse" | **Moderate** — second attestation of 1st person possessive alongside *za*; see Investigation 1 |
+| naus | hunger (root) | *qornaus* = *qor* + *naus*; *naus* also in *mh'naus* = "only hunger" | **Low–Moderate** |
+| qor | endless (root) | *qornaus* = *qor* + *naus* = "endless hunger" | **Low–Moderate** |
+| gaz | servant | *GAZ SKSHGN* = "A SERVANT OF FEAR" | **Low–Moderate** |
 
 ### Other Elements
 
@@ -385,6 +390,12 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | worg | fade(s) | *worg zz oou* = "fades and dies" | **Low** |
 | iggksh | oppose | *H'iwn iggksh Phquathi* = "All who oppose the Destroyer" | **Moderate** |
 | wah | wing | *Shuul'wah* = "Death-wing" | **Moderate** |
+| erh | choke | *erh'ongg* = "choke [for eternity]"; root of *erh'ongg* | **Low–Moderate** |
+| shel | void | *an'shel* = "into the void" | **Low–Moderate** |
+| shg | outside | *shg'fhn* = "outside the cycle" | **Low–Moderate** |
+| uq | power | *Uq naggwa* = "Power unrelenting" | **Low–Moderate** |
+| vwahuhn | reckoning | *ak'uq shg'cul vwahuhn* = "our power beyond reckoning" | **Low–Moderate** |
+| zaix | praise | *H'iwn zaix Shuul'wah* = "All praise Deathwing"; *wgah zaix* = "will echo/praise" | **Low–Moderate** |
 
 ## Investigation: *domanaar* and the *-aar* Suffix
 

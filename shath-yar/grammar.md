@@ -43,15 +43,15 @@ The confirmed translations reveal a rich pronoun system:
 
 | Person | Nominative | Accusative | Possessive |
 |--------|-----------|-----------|------------|
-| 1st singular | *y'za* | *hoq* | *za* (speculative: "my") |
-| 2nd singular | *iilth* / *ilith* | — | *sk-* (prefix) |
+| 1st singular | *y'za* | *hoq* | *za* (speculative: "my"); *ifis* = "of my" (from *Uulwi ifis halahs*) |
+| 2nd singular | *iilth* / *ilith* / *illith* | — | *sk-* (prefix) |
 | 1st plural | *ag* | — | *ak* |
 | 3rd plural | *ywaq* | — | — |
 
 Notes:
-- *iilth* and *ilith* may be the same word with phonological variation, or distinct pronouns (formal vs. informal register?)
+- *iilth*, *ilith*, and *illith* are likely allophonic variants of the same pronoun — see Investigation 3
 - *sk-* is a **possessive prefix** rather than a separate word: *sk'magg* = "your suffering", *sk'shgn* = "your fear", *sk'shuul* = "your deaths", *sk'tek* = "your skulls", *sk'uuyat* = "your agony", *sk'yahf* = "your soul(s)"
-- *za* appears to mean both "place" and "my" — possibly two homophonous morphemes, or a grammaticalized form
+- *za* appears to mean both "place" and "my" — possibly two homophonous morphemes, or *ifis* = "of my" may resolve the ambiguity — see Investigation 1
 
 ### Tense and Aspect
 
@@ -178,3 +178,102 @@ Shath'Yar grammar remains largely unreconstructed despite the significant expans
 4. **Homophony**: Several Shath'Yar words appear to have multiple meanings (e.g., *za* = "place" and "my"; *ma* = "is/are" and "millennia"), suggesting either homophony or insufficient data to distinguish meanings.
 5. **Design origin**: The language was likely designed for aesthetic effect (alien, maddening, Lovecraftian) rather than as a functional constructed language. Blizzard may not have intended a coherent underlying grammar.
 6. **Parser words are not genuine**: The in-game language parser generates Shath'Yar-looking words from English input, but these do not use a genuine Shath'Yar dictionary.
+
+## Open Linguistic Investigations
+
+### Investigation 1: *za* — "Place" vs. "My" (Possessive)
+
+The morpheme *za* appears with two incompatible glosses in the confirmed translations:
+
+| Context | Phrase | Translation | Proposed Gloss |
+|---------|--------|-------------|----------------|
+| Locative | *uhn'agth fhssh za* | "many shall take its place" | *za* = "place" |
+| Locative | *fhssh za* | "take its place" | *za* = "place" |
+| Possessive | *za awtgsshu wgah uulg'ma ywaq zaix* | "My whispers will liquefy your mind" | *za* = "my" |
+| Possessive | *za zyqtahg* | "my will" (in "G'huun will not be stopped...") | *za* = "my" |
+| Possessive | *za uul og nuq* | "My fall is but a beat..." | *za* = "my" |
+| Ambiguous | *I ongg za ywaq qvsakf* | "I feed on your terror" | *za* = ? |
+
+#### New Evidence: *ifis* = "of my"
+
+The wiki's speculative dictionary identifies *ifis* = "(of) my" from *Uulwi ifis halahs* = "The shadow of my corpse". If *ifis* is a genuine possessive "my/of my", this changes the analysis of *za*:
+
+- If *ifis* = "my" (genitive/possessive), then *za* may be exclusively "place" — the "my" meaning attributed to *za* could result from misanalysis of the translations
+- However, in *za awtgsshu* = "My whispers", *za* occupies sentence-initial position where a possessive pronoun is expected, not a noun meaning "place"
+- In *za uul og nuq* = "My fall", the same positional argument applies — "Place fall is but a beat" makes no sense
+
+#### Three Hypotheses
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Homophonous morphemes | *za*₁ = "place", *za*₂ = "my" — two unrelated morphemes that happen to be identical | **Low–Moderate** |
+| Grammaticalized possessive | *za* = "place" → grammaticalized to "my place" → "my" (semantic bleaching) — a known pathway cross-linguistically | **Low** |
+| *ifis* resolves the ambiguity | *ifis* = "my" (genitive); *za* = "place" only; previous "my" glosses were misanalyses | **Low–Moderate** — requires reinterpreting *za awtgsshu* and *za uul og nuq* as non-possessive |
+
+The *ifis* evidence weakens but does not eliminate the *za* = "my" analysis. In *za awtgsshu wgah uulg'ma ywaq zaix*, if *za* = "place", the sentence would mean "Place whispers will liquefy your mind" — which could be read as "The whispers of [this] place will liquefy your mind," a grammatically valid interpretation. More data is needed.
+
+**Confidence: Low–Moderate** for two homophonous morphemes. The *ifis* = "of my" alternative reduces the need for *za* = "my" but does not cleanly eliminate it.
+
+### Investigation 2: *ma* — Copula vs. "Millennia"
+
+The morpheme *ma* appears with two incompatible glosses:
+
+| Context | Phrase | Translation | Proposed Gloss |
+|---------|--------|-------------|----------------|
+| Copula | *Ywaq ma phgwa'cul hnakf* | "They are the whisper on the shivering wind" | *ma* = "is/are" |
+| Copula | *Ywaq ma shg'fhn* | "They are outside the cycle" | *ma* = "is/are" |
+| Copula | *Iilth ma paf'qi'ag sk'halahs* | "You are a prisoner in your own body" | *ma* = "is/are" |
+| Copula | *Ak'agthshi ma uhnish* | "Our numbers are endless" | *ma* = "is/are" |
+| Temporal | *Uulg'ma, ag qam* | "After millennia, we have returned" | *ma* = "millennia" |
+| Temporal | *maqdahl or'kaaxth'ma amqa* | "a hundred thousand millennia to come" | *ma* = "millennia" |
+| Ambiguous | *Agth ma iiqaath zuq* | "When it awakens, you will know..." | *ma* = "is/are" or temporal? |
+
+#### Analysis
+
+The copula usage is well-supported with four clear attestations. The temporal usage has two attestations:
+
+1. *Uulg'ma* = "After millennia" — if *uulg'* = "after" and *ma* = "millennia"
+2. *maqdahl or'kaaxth'ma amqa* = "a hundred thousand millennia" — where *ma* appears within *kaaxth'ma*, possibly as a compound element
+
+The two uses are syntactically distinct:
+- **Copula *ma***: Free morpheme, appears between subject and predicate (*Ywaq ma phgwa'cul*)
+- **Temporal *ma***: Bound morpheme, appears as part of compounds (*Uulg'ma*, *kaaxth'ma*)
+
+This distribution is consistent with two homophonous morphemes: a free copula *ma* = "is/are" and a bound temporal root *ma* = "millennia/time period". The syntactic position reliably distinguishes them.
+
+**Confidence: Moderate** for two homophonous morphemes. The syntactic distribution is clean — free *ma* = copula, bound *ma* = temporal. No overlap in syntactic position is observed.
+
+### Investigation 3: *iilth* vs. *ilith* vs. *illith* — Three Forms for "You"
+
+The confirmed translations reveal three variant forms for the 2nd person singular pronoun:
+
+| Form | Attestation | Source | Notes |
+|------|-------------|--------|-------|
+| *iilth* | *Iilth vwah, uhn'agth fhssh za* = "Where one falls, many shall take its place" | Volazj / Ulthok | Double vowel *ii-* |
+| *iilth* | *Iilth ma paf'qi'ag sk'halahs* = "You are a prisoner in your own body" | Kaahrj | Double vowel *ii-* |
+| *iilth* | *Iilth qi mah'shar fhn oorql N'Zoth!* = "You will be the first..." | Kaahrj | Double vowel *ii-* |
+| *iilth* | *N'Zoth ga zyqtahg iilth* = "The will of N'Zoth corrupts you" | Zon'ozz | Double vowel *ii-* |
+| *iilth* | *Qam oou iilth ez i awtgsshu* = "Let the feast of a thousand maws begin" | G'huun | Double vowel *ii-* |
+| *ilith* | *Ilith qi'uothk shn'ma yeh'glu Shath'Yar!* = "You will drown in the blood of the Old Gods!" | Yor'sahj | Single vowel *i-* |
+| *illith* | *Skitsh qi'uthik illith!* = "Beneath the tides, your truth awaits" | Vol'zith | Double consonant *-ll-* + *-ith* |
+
+#### Distribution by Speaker Type
+
+| Form | Speaker Type | Source |
+|------|-------------|--------|
+| *iilth* | Faceless commanders (N'raqi) | Volazj, Kaahrj, Zon'ozz, G'huun |
+| *ilith* | N'Zoth's direct servant | Yor'sahj |
+| *illith* | Aquatic entity | Vol'zith the Whisperer |
+
+#### Four Hypotheses
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Allophonic variation | The same pronoun with phonologically conditioned variants. *iilth* is the "standard" form; *ilith* reflects vowel reduction (/ii/ → /i/); *illith* reflects consonant epenthesis or assimilation | **Moderate** |
+| Register variation | Different servant types use different forms. Faceless commanders use *iilth* (formal), aquatic entities use *illith* (whispered register with geminate *-ll-*), while *ilith* represents a specific ritual/formal register used by Yor'sahj | **Low–Moderate** |
+| Distinct pronouns | *iilth* = "you" (singular), *ilith* = "you" (formal/plural), *illith* = "you" (different number). But all translations use English "you" without distinction | **Very Low** |
+| Blizzard inconsistency | The forms are not linguistically meaningful — Blizzard used different spellings without intending phonological or grammatical distinction | **Low–Moderate** |
+
+The allophonic analysis is the most parsimonious. *iilth* /iːlθ/ with a long vowel could be reduced to *ilith* /ilθ/ in faster speech (Yor'sahj's battle cry), while the whispered aquatic speech of Vol'zith could produce the geminate /lː/ in *illith*. The geminate consonant in *illith* is consistent with Shath'Yar's pattern of sibilant reinforcement and gemination in whispered/hissed speech (*Ssra'thik*, *fhssh*).
+
+**Confidence: Moderate** for allophonic variation conditioned by speech register and speaker type. The distribution is not random — *iilth* appears with N'raqi commanders (standard), *illith* with an aquatic entity (whispered register), and *ilith* in a single battle cry (fast speech reduction). However, the sample is too small to confirm the pattern.
