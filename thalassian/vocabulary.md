@@ -16,12 +16,12 @@ All entries are attested in World of Warcraft in-game dialogue, NPC speech, ques
 | Anar | /ˈɑnɑr/ | By (preposition); possibly also "light" | Anar'alah belore — anar = "by" |
 | Malanorei | /mɑlɑˈnɔrɛɪ/ | Travelers, Wanderers | Bal'a dash, malanorei ("Greetings, traveler") |
 | Dal | /dɑl/ | *Possibly "fortune" or "goodness"* | *[uncertain] Possibly in Ishnu-dal-die (if cross-language)* |
-| Shindu | /ˈʃɪndu/ | Failing, Breaking | Shindu fallah na ("They are breaking through"); Shindu sin'dorei ("Failing children of the blood"); from *Lament of the Highborne* |
+| Shindu | /ˈʃɪndu/ | Failing, Breaking | Shindu fallah na ("They are breaking through"); Shindu sin'dorei ("Failing children of the blood"); from *Lament of the Highborne*; see grammar.md Investigation 3 for possible Darnassian cognate *Sindu* |
 | Selama | /sɛˈlɑmɑ/ | Justice | Selama ashal'anore ("Justice for our people"); Warcraft Encyclopedia |
 | Tal | /tɑl/ | Death | Tal anu'men no Sin'dorei ("Death to all who oppose the children of the blood") |
 | Felo | /ˈfɛlo/ | Flame | Felo'melorn ("Flamestrike" — sword of the Sunstrider dynasty); Arthas: Rise of the Lich King |
-| Thas | /θɑs/ | Forest | Thas'alah ("Light of the Forest"); Thas'dorah ("Valor of the Forest"); Tales of the Hunt |
-| Arkhana | /ɑrˈkɑnɑ/ | Magic | Ama noral'arkhana ("Saved by magic"); Sean Copeland (Twitter) |
+| Thas | /θɑs/ | Forest | Thas'alah ("Light of the Forest"); Thas'dorah ("Valor of the Forest"); Tales of the Hunt; see grammar.md Investigation 3 for possible connection to *Thalas* root |
+| Arkhana | /ɑrˈkɑnɑ/ | Magic | Ama noral'arkhana ("Saved by magic"); Sean Copeland (Twitter); likely Thalassian innovation with no cross-elven cognate; see grammar.md Investigation 3 |
 | Alann | /ɑˈlɑn/ | Heart | Elu'meniel mal alann ("May peace calm your heart"); Sean Copeland (Twitter) |
 | Anore | /ɑˈnɔrɛ/ | People, Our people | Selama ashal'anore ("Justice for our people"); *anore* = "people" with possible 1st person possessive |
 | Jael | /dʒɛl/ | Rat | Kim'jael ("Little rat"); quest: Kim'jael Indeed! |
@@ -42,9 +42,9 @@ All entries are attested in World of Warcraft in-game dialogue, NPC speech, ques
 
 | Word | IPA | Translation | Source / Notes |
 |------|-----|-------------|----------------|
-| Ann'da | /ˈɑnˌdɑ/ | Papa, Father | Descent (novel) |
-| Minn'da | /ˈmɪnˌdɑ/ | Mama, Mother | Descent (novel) |
-| Shal'na | /ˈʃɑlˌnɑ/ | Aunt | Quest: What Might Come |
+| Ann'da | /ˈɑnˌdɑ/ | Papa, Father | Descent (novel); see grammar.md Investigation 1 for *-da* kinship suffix analysis |
+| Minn'da | /ˈmɪnˌdɑ/ | Mama, Mother | Descent (novel); see grammar.md Investigation 1 for *-da* kinship suffix analysis |
+| Shal'na | /ˈʃɑlˌnɑ/ | Aunt | Quest: What Might Come; see grammar.md Investigation 1 for *-da*/*-na* contrast analysis |
 
 ## Particles / Grammatical Markers
 
@@ -87,7 +87,7 @@ Phrases with confirmed Blizzard translations from the Warcraft Encyclopedia, in-
 
 | Phrase | IPA | Translation | Source |
 |--------|-----|-------------|--------|
-| Selama ashal'anore | /sɛˈlɑmɑ ɑˈʃɑlˌɑnɔrɛ/ | Justice for our people | Warcraft Encyclopedia |
+| Selama ashal'anore | /sɛˈlɑmɑ ɑˈʃɑlˌɑnɔrɛ/ | Justice for our people | Warcraft Encyclopedia; see grammar.md Investigation 2 for variant analysis |
 | Bash'a no falor talah! | /bɑʃˈɑ no ˈfɑlɔr ˈtɑlɑ/ | Taste the chill of true death! | Warcraft Encyclopedia |
 | Shindu fallah na! | /ˈʃɪndu ˈfɑlɑ nɑ/ | They are breaking through! / Our enemies are breaking through! | Lament of the Highborne |
 | Shindu sin'dorei | /ˈʃɪndu sɪnˈdɔrɛɪ/ | Failing children of the blood | Lament of the Highborne |
@@ -109,8 +109,8 @@ Phrases with confirmed Blizzard translations from the Warcraft Encyclopedia, in-
 |--------|-----|-------------|--------|
 | Anu belore dela'na, sin'dorei | /ˈɑnu bɛˈlɔrɛ dɛˈlɑːnɑ sɪnˈdɔrɛɪ/ | The sun will guide us, children of the blood | Extended form with vocative |
 | Anar endal'dor | /ˈɑnɑr ˈɛndɑlˌdɔr/ | *Possibly "Light guide you"* | *[uncertain] Uncertain translation* |
-| Selama am'oronor! | /sɛˈlɑmɑ ɑmˈɔrɔnɔr/ | *Justice [we] endure!* | High Nethermancer Zerevor / Lady Liadrin |
-| Selama amor'anore! | /sɛˈlɑmɑ ɑmɔrˈɑnɔrɛ/ | *Justice for our people!* | Gathios the Shatterer |
+| Selama am'oronor! | /sɛˈlɑmɑ ɑmˈɔrɔnɔr/ | *Justice [we] endure!* | High Nethermancer Zerevor / Lady Liadrin; see grammar.md Investigation 2 for variant analysis |
+| Selama amor'anore! | /sɛˈlɑmɑ ɑmɔrˈɑnɔrɛ/ | *Justice for our people!* | Gathios the Shatterer; see grammar.md Investigation 2 for variant analysis |
 | Band'or shorel'aran | /bɑnˈdɔr ʃɔˈrɛlˌɑrɑn/ | *Prepare to say farewell* | Commander Sarannis (Chinese WoW translation) |
 
 ## Confirmed Compound Names with Translations

@@ -147,6 +147,10 @@ Analysis 3 is possible but introduces an unattested prefix *En-* that finds no o
 
 The strongest argument for Analysis 1 is the parallel with Darnassian's other vowel-alternation pattern: the *-dorei* / *-drassil* alternation in World Tree names (*Tel-drassil* vs. the *dor* in *Ban'dinoriel*), which suggests that vowel alternation is a productive morphological process in the language.
 
+### The *Sindu* / *Shindu* Correspondence
+
+Darnassian *Sindu* (in *Sindu-fallah-nor*, uncertain meaning) and Thalassian *Shindu* ("failing/breaking" in *Shindu fallah na*, *Shindu sin'dorei*) show a striking phonological parallel: the only difference is initial /s/ vs /ʃ/. If cognate, this would represent a regular sound change /s/ → /ʃ/ before front vowel /i/ in Thalassian — a typologically common palatalization. Both forms also co-occur with *fallah*/*falah*, strengthening the cognate hypothesis. See [Thalassian grammar](../thalassian/grammar.md) Investigation 3 for full analysis.
+
 ## Phonology
 
 ### Consonant Inventory

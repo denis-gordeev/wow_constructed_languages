@@ -69,7 +69,7 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 | Ma'thor | /mɑˈθɔr/ | Possibly "warrior" or "brave" | [uncertain] |
 | Asha'man | /ɑˈʃɑmɑn/ | Unknown | [uncertain] |
 | Alah | /ˈɑlɑ/ | Light / Blessed (as exclamation) | [uncertain, possibly conflated with Thalassian] |
-| Sindu | /ˈsɪndu/ | Possibly "sleep" or "fallen" | [uncertain] from Sindu-fallah-nor |
+| Sindu | /ˈsɪndu/ | Possibly "sleep" or "fallen" | [uncertain] from Sindu-fallah-nor; possible cognate with Thalassian *Shindu* ("failing/breaking") — if cognate, /s/→/ʃ/ palatalization before /i/ in Thalassian; see thalassian/grammar.md Investigation 3 |
 | Fallah | /ˈfɑlɑ/ | Possibly related to "falah" (balance) or "fallen" | [uncertain] from Sindu-fallah-nor |
 | Nor | /nɔr/ | Possibly "rest" or "peace" (homophonous with "heavens") | [uncertain] from Sindu-fallah-nor |
 

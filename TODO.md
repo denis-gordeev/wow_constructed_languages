@@ -75,9 +75,37 @@
 
 - [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
 - [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
-- [ ] Investigate Thalassian *-da* kinship suffix — *Ann'da* (papa), *Minn'da* (mama) share *-da*; *Shal'na* (aunt) uses *-na* — **NEW**: requires more kinship terms for confirmation
-- [ ] Investigate Thalassian *Selama* battle cry variants — *ashal'anore* vs *am'oronor* vs *amor'anore*; is *-anore* = "our people" with morpheme boundary variation? — **NEW**: 3 attestations; Moderate confidence for template pattern
-- [ ] Cross-reference new Thalassian data with Darnassian and elven-comparative.html: *Thas* (forest) ↔ Darnassian, *arkhana* (magic) shared?, *Shindu* cognates? — **NEW**
+- [ ] Investigate Thalassian *-da* kinship suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 1; three hypotheses proposed (parent/collateral marker, baby-talk, nurturer/feminine relational); Low–Moderate confidence for parent/collateral analysis; *Shal'* in *Shal'na* possibly = Shalassian *Shal* (triple cognate); requires more kinship terms for confirmation
+- [ ] Investigate Thalassian *Selama* battle cry variants — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; three hypotheses proposed (template pattern, variable morpheme boundary, Blizzard inconsistency); Moderate confidence for template pattern; *amor'anore* may be phonological blend of *ashal'anore* and *am'oronor*
+- [ ] Cross-reference new Thalassian data with Darnassian and elven-comparative.html — **DONE**: Added Sets 9–11 and Correspondence 5 to elven-comparative.html; *Shindu*/*Sindu* cognate proposed (Low–Moderate confidence) with /s/→/ʃ/ palatalization; *Thas*/*Thalas* root connection proposed (Low confidence); *arkhana* likely Thalassian innovation (Very Low cognate confidence); updated comparative wordlist and reconstruction tables
+- [ ] Verify *Shindu*/*Sindu* cognate by searching for additional /s/→/ʃ/ correspondence pairs in Thalassian vs. Darnassian — requires more cognate data
+- [ ] Investigate whether *Shal'* in *Shal'na* (aunt) is etymologically connected to Shalassian *Shal* (twilight/arcane) — would be first non-ethnonym triple elven cognate
+
+## Completed This Round (2026-06-26)
+
+- [x] Add Open Linguistic Investigations section to Thalassian grammar.md: 3 deep analyses with evidence tables, multiple hypotheses, and confidence ratings
+- [x] Investigation 1: *-da* kinship suffix — analyzed Ann'da, Minn'da, Shal'na with 3 hypotheses (parent/collateral marker, baby-talk/nursery form, nurturer/feminine relational); Low–Moderate confidence for parent/collateral analysis; noted *Shal'*/*Shal* potential triple cognate
+- [x] Investigation 2: *Selama* battle cry variants — analyzed *ashal'anore* vs *am'oronor* vs *amor'anore* with 3 hypotheses (template pattern, variable morpheme boundary, Blizzard inconsistency); Moderate confidence for template pattern; *amor'anore* proposed as phonological blend
+- [x] Investigation 3: Thalassian–Darnassian cognate candidates — analyzed *Thas*/*Thalas* (Low confidence), *arkhana* (Very Low, likely innovation), *Shindu*/*Sindu* (Low–Moderate, proposed /s/→/ʃ/ palatalization)
+- [x] Add *Sindu*/*Shindu* correspondence analysis to Darnassian grammar.md: cross-referenced with Thalassian grammar Investigation 3
+- [x] Update Darnassian vocabulary.md *Sindu* entry with Thalassian cognate cross-reference
+- [x] Update Thalassian vocabulary.md with cross-references to grammar.md investigations for *Ann'da*, *Minn'da*, *Shal'na*, *Shindu*, *Thas*, *arkhana*, *Selama ashal'anore*, *Selama am'oronor*, *Selama amor'anore*
+- [x] Update Thalassian grammar.md Summary table: updated kinship suffix and battle cry template rows; added *Shindu*↔*Sindu* and *Thas*↔*Tha-* rows
+- [x] Update Thalassian description.md Attestation Summary: added "Open linguistic investigations" row (3 items)
+- [x] Add cognate sets 9–11 to elven-comparative.html: *sindu*/*shindu* (failing/collapse), *tha-*/*thas* (forest/place), *-da*/*-na* (kinship suffix)
+- [x] Add Correspondence 5 to elven-comparative.html: palatalization *s* > *ʃ* before /i/ (Low–Moderate confidence)
+- [x] Update elven-comparative.html semantic divergence table: added *sindu/shindu* row with palatalization note
+- [x] Update elven-comparative.html proposed sound changes table: added *s* > *ʃ* / _i entry
+- [x] Update elven-comparative.html probable reconstructions table: added *sindu* and *tha-*/*thas* entries
+- [x] Update elven-comparative.html comparative wordlist: added 7 new rows (failing/collapse, forest, magic, parent-father, parent-mother, aunt, kinship terms)
+- [x] Update elven-comparative.html innovations table: added kinship terminology, forest/place vocabulary, magic vocabulary rows
+- [x] Add nav links to elven-comparative.html: Thalassian Grammar, Darnassian Grammar
+- [x] Update elven-comparative.html last-updated date to 2026-06-26
+- [x] Sync thalassian/grammar.html with grammar.md: added Open Linguistic Investigations section, updated Summary table, added nav link
+- [x] Sync thalassian/vocabulary.html with vocabulary.md: updated 9 entries with investigation cross-references
+- [x] Sync thalassian/description.html with description.md: added "Open linguistic investigations" row to Attestation Summary
+- [x] Sync darnassian/grammar.html with grammar.md: added *Sindu*/*Shindu* Correspondence subsection with nav link
+- [x] Sync darnassian/vocabulary.html with vocabulary.md: updated *Sindu* entry with cognate cross-reference
 
 ## Completed This Round (2026-06-25)
 

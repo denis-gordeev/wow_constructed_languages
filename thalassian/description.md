@@ -95,6 +95,7 @@ See [elven-comparative.html](../elven-comparative.html) for full comparative ana
 | Attested sentences | 3+ | *Anu belore dela'na*, *Shindu fallah na*, *Elu'meniel mal alann* |
 | Confirmed compound names | 7 | *Alar'annalas*, *Belore'dorei*, *Ban'dinoriel*, *Felo'melorn*, *Thas'alah*, *Thas'dorah*, *Kim'jael* |
 | Kinship terms | 3 | *Ann'da* (papa/father), *Minn'da* (mama/mother), *Shal'na* (aunt) |
+| Open linguistic investigations | 3 | *-da* kinship suffix, *Selama* battle cry variants, Thalassian–Darnassian cognate candidates (*Shindu*/*Sindu*, *Thas*/*Thalas*, *arkhana*) |
 | Proper names (places) | 15+ | *Quel'Thalas*, *Quel'Danas*, *An'daroth*, *An'owyn*, *An'telas*, *Elrendar*, *Falthrien*, *Scintilas* |
 | Proper names (ethnonyms) | 5 | *Sin'dorei*, *Quel'dorei*, *Ren'dorei*, *Kaldorei*, *Belore'dorei* |
 | Proper names (items/artifacts) | 6 | *Felo'melorn*, *Thori'dal*, *Fal'inrush*, *Rae'shalare*, *Tel'thas*, *Lu'minellia* |

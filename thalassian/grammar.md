@@ -253,6 +253,191 @@ Note: /b/, /k/, /g/, /p/, /z/, /f/, /v/, /dʒ/ appear primarily in proper names 
 
 Thalassian appears phonologically more conservative than Darnassian in some respects (simpler onset structure) and innovative in others (expanded /ʃ/ frequency, confirmed kinship terminology). The expanded corpus reduces the gap between observed and expected phonological complexity.
 
+## Open Linguistic Investigations
+
+### Investigation 1: The *-da* Kinship Suffix
+
+Three kinship terms are attested in Thalassian, forming two morphological patterns:
+
+| Word | Translation | Suffix |
+|------|-------------|--------|
+| Ann'da | Papa / Father | *-da* |
+| Minn'da | Mama / Mother | *-da* |
+| Shal'na | Aunt | *-na* |
+
+#### Evidence Table
+
+| Feature | Ann'da | Minn'da | Shal'na |
+|---------|--------|---------|---------|
+| Suffix | -da | -da | -na |
+| Initial element | Ann' | Minn' | Shal' |
+| Translation | Papa / Father | Mama / Mother | Aunt |
+| Generation | Parent | Parent | Parent's sibling |
+
+#### Hypotheses
+
+**Hypothesis A: *-da* = parent marker; *-na* = collateral relative marker**
+
+Under this analysis, *-da* specifically marks "parent" and *-na* marks "non-parent relative of the parent generation." This predicts:
+- Additional *-da* words for other parent-type figures (e.g., step-parent, adoptive parent)
+- Additional *-na* words for uncles, great-aunts, etc.
+- No *-da* words for siblings or children
+
+This is the most structurally elegant analysis but rests on only three data points.
+
+**Hypothesis B: *-da* / *-na* are baby-talk / nursery forms**
+
+Cross-linguistically, kinship terms for "mother" and "father" frequently derive from baby-talk reduplication of the /ma/ and /da/ or /ba/ syllables (Jakobson 1960). Under this analysis:
+- *Ann'da* and *Minn'da* are nursery words that happen to share the *-da* syllable
+- The similarity is phonological coincidence driven by articulatory ease, not a productive suffix
+- *Shal'na* uses *-na* because it is a different generation's term, not because *-na* contrasts with *-da*
+
+This hypothesis accounts for the universal /da/ pattern but predicts *-da* is not a productive suffix in the broader grammar.
+
+**Hypothesis C: *-da* = "nurturer/guardian"; *-na* = feminine relational suffix**
+
+Under this analysis, *-da* encodes a caregiving role (applicable to mothers and fathers) while *-na* encodes a relational term marked for gender or lateral kinship. This predicts:
+- *-na* could also appear in non-kinship words for female-gendered relationships
+- *Shal'na* might contain *Shal'* (same root as Shalassian *Shal* = "twilight/arcane"), yielding "twilight-aunt" or "arcane-aunt" — potentially a ritual or honorary aunt
+
+#### Assessment
+
+**Confidence: Low–Moderate** for Hypothesis A (parent vs. collateral relative). The data is too limited to confirm any single hypothesis. Hypothesis B (baby-talk) has strong cross-linguistic parallels but does not explain why Blizzard would create a *-da*/*-na* contrast unless it were grammatically meaningful. No Darnassian, Shalassian, or Nazja kinship terms are attested for comparison.
+
+#### Cross-Reference
+
+The *Shal'* element in *Shal'na* ("aunt") is phonologically identical to the Shalassian ethnonym root *Shal* ("twilight/arcane") and the Darnassian place-name element in *Shaladrassil*. If *Shal'na* contains the same root, this would be the first attested Darnassian–Shalassian–Thalassian triple cognate for a non-ethnonym word. However, *Shal'* in *Shal'na* may be an unrelated morpheme — the convergent phonology could be coincidental.
+
+---
+
+### Investigation 2: The *Selama* Battle Cry Variants
+
+Three variant forms of the *Selama* battle cry are attested:
+
+| Variant | Translation | Speaker / Source |
+|---------|-------------|------------------|
+| Selama ashal'anore | Justice for our people | Warcraft Encyclopedia |
+| Selama am'oronor! | Justice [we endure!] | High Nethermancer Zerevor / Lady Liadrin |
+| Selama amor'anore! | Justice for our people! | Gathios the Shatterer |
+
+#### Morpheme Decomposition Analysis
+
+**Variant 1: *ashal'anore***
+
+If *anore* = "people" (cf. vocabulary.md *Anore* "people, our people"), then:
+- *ashal* + *' + anore* → "for our people" or "toward our people"
+- *ashal* may decompose further: *a-* + *shala* (safe) → "toward safety" + *anore* (people)?
+- Or: *ashal* is an indivisible preposition meaning "for" or "concerning"
+
+**Variant 2: *am'oronor***
+
+- *am'* + *oronor* → structure unclear
+- *am'* may be a 1st person plural pronoun ("we") if related to the pattern in *am'oronor*
+- *oronor* may mean "endure" or "persist"
+- This yields: *Selama am'oronor* = "Justice, we endure" or "Justice we maintain"
+
+**Variant 3: *amor'anore***
+
+This variant appears to be a phonological blend of Variants 1 and 2:
+- *amor* + *' + anore* → *amor* is a portmanteau of *am'* (from *am'oronor*) and *-or* (possibly a verbal suffix)
+- Or: *amor* is an independent morpheme meaning "for" (similar to *ashal*)
+- The form *amor'anore* bridges the two earlier variants phonologically and semantically
+
+#### Hypotheses
+
+**Hypothesis A: Template pattern — *Selama* + [preposition + *' + noun]**
+
+All three variants follow the template: *Selama* ("justice") + prepositional phrase.
+
+| Variant | Preposition | Noun | Gloss |
+|---------|-------------|------|-------|
+| ashal'anore | ashal | anore | "for" + "people" |
+| am'oronor | am | oronor | "we" + "endure" |
+| amor'anore | amor | anore | "for" + "people" |
+
+Under this analysis, *ashal* and *amor* are variant prepositions meaning "for/concerning," while *am'* is a pronoun. The variation between *ashal* and *amor* may reflect dialectal, register, or diachronic variation.
+
+**Hypothesis B: *-anore* = "our people" with variable morpheme boundary**
+
+If *-anore* = *an* ("our") + *ore* ("people"), then the morpheme boundary can shift:
+- *ashal'anore* = *ashal* + *' + an* + *ore* — "for our people"
+- *amor'anore* = *amor* + *' + an* + *ore* — "for our people" (variant preposition)
+- *am'oronor* = *am* + *' + oronor* — "we [verb]"
+
+The similarity between *amor'anore* and *am'oronor* suggests the morpheme boundary is fluid: *am'or* + *anore* vs. *amor' + anore*. This kind of variable boundary is attested in natural languages with compounding (e.g., German *hin-aus* vs. *hinaus*).
+
+**Hypothesis C: Blizzard inconsistency**
+
+The three variants may reflect different Blizzard writers using slightly different forms without a consistent internal grammar. *Selama ashal'anore* was established in the Warcraft Encyclopedia, while *am'oronor* and *amor'anore* appear in in-game NPC dialogue. The variations may be voice actor errors or designer inconsistencies rather than systematic linguistic variation.
+
+#### Assessment
+
+**Confidence: Moderate** for the template pattern (Hypothesis A). The three variants consistently place *Selama* first and follow it with an apostrophe-marked compound. The variation between *ashal*, *am'*, and *amor* likely reflects grammatical variation (preposition vs. pronoun) rather than random inconsistency, but Hypothesis C cannot be ruled out. Hypothesis B (variable morpheme boundary) is the most linguistically interesting but requires more data to confirm.
+
+---
+
+### Investigation 3: Thalassian–Darnassian Cognate Candidates
+
+Several Thalassian words have potential Darnassian cognates that were not included in the original elven-comparative analysis. These are assessed below.
+
+#### Candidate 1: *Thas* (forest) ↔ Darnassian *Tha-* in *Thalas*
+
+| Language | Form | Context | Gloss |
+|----------|------|---------|-------|
+| Thalassian | *Thas* | Thas'alah ("Light of the Forest"), Thas'dorah ("Valor of the Forest") | Forest |
+| Thalassian | *Thalas* | Quel'Thalas ("High Home/Kingdom") | Home, Kingdom |
+| Darnassian | — | No standalone *Thas* or *Thalas* attested | — |
+| Shalassian | *Thal-* | Thalyssra (proper name; uncertain) | Possibly "home" |
+
+**Analysis**: *Thas* and *Thalas* share the initial consonant cluster /θɑ/. If *Thalas* decomposes as *Tha-* + *-las*, then *Thas* could represent a reduced form of the same root: *Thalas* → *Thas* via apocope of /lɑs/ → /s/. Alternatively, *Thas* and *Thalas* are distinct roots that happen to share /θɑ/. The semantic proximity ("forest" vs. "home/kingdom") is suggestive — an elven "home" defined by forest — but not conclusive.
+
+**Confidence: Low** for cognacy. The shared /θɑ/ onset could reflect a common elven phonological pattern rather than etymological relatedness.
+
+#### Candidate 2: *arkhana* (magic) ↔ cross-elven comparison
+
+| Language | Form | Context | Gloss |
+|----------|------|---------|-------|
+| Thalassian | *arkhana* | Ama noral'arkhana ("Saved by magic") | Magic |
+| Darnassian | — | No attested form | — |
+| Shalassian | — | No attested form | — |
+| Nazja | — | No attested form | — |
+| Eredun | — | No attested form | — |
+
+**Analysis**: *arkhana* has no cognate in any other attested WoW language. It appears to be a Thalassian innovation, possibly related to the Arcane vocabulary that developed after the Highborne exile. The word has a distinct phonological profile: /ɑrˈkɑnɑ/ with two instances of /ɑ/ and the velar stop /k/, which is marginal in the elven consonant inventory. The phonological shape does not match typical elven word patterns (which prefer sonorant-heavy endings), suggesting it may be a loanword or a specialized term from magical practice.
+
+**Confidence: Very Low** for cognacy. *arkhana* is likely a Thalassian innovation with no cross-elven cognate.
+
+#### Candidate 3: *Shindu* (failing/breaking) ↔ Darnassian *Sindu*
+
+| Language | Form | Context | Gloss |
+|----------|------|---------|-------|
+| Thalassian | *Shindu* /ˈʃɪndu/ | Shindu fallah na ("They are breaking through"); Shindu sin'dorei ("Failing children of the blood") | Failing, Breaking |
+| Darnassian | *Sindu* /ˈsɪndu/ | Sindu-fallah-nor (uncertain phrase) | Possibly "sleep" or "fallen" |
+
+**Analysis**: The phonological similarity is striking — the only difference is initial /ʃ/ vs /s/. Three analyses are possible:
+
+1. **Regular sound change**: Darnassian /s/ → Thalassian /ʃ/ before front vowel /i/. This would predict other *s* → *sh* alternations before /i/, but no other examples are attested. The palatalization of /s/ → /ʃ/ before /i/ is a common cross-linguistic sound change.
+
+2. **Semantic divergence from shared root**: If the Proto-Elven root */sindu/ meant something like "collapse/fall," then Darnassian *Sindu-fallah-nor* could mean "the collapse of balance's rest" (reinterpreting "sleep" as "collapse/falling") and Thalassian *Shindu* retained the "breaking/failing" sense. The palatalization would have occurred in Thalassian specifically.
+
+3. **Coincidental similarity**: /sɪndu/ and /ʃɪndu/ are similar but could be unrelated words in related languages, much like English *day* and Latin *dies* (similar form, different etymologies).
+
+Additionally, both words co-occur with *fallah* / *falah*:
+- Thalassian: *Shindu fallah na* ("They are breaking through")
+- Darnassian: *Sindu-fallah-nor* (uncertain meaning)
+
+If cognate, *fallah* / *falah* would also be a shared root — but the Darnassian *falah* is glossed as "balance" (in *Andu-falah-dor* "Let balance be restored") while the Thalassian *fallah* is glossed as "breaking through." These meanings are semantically distant, though one could hypothesize a root meaning "disruption/overturning" that gave "balance" (restoring disruption) in Darnassian and "breaking through" in Thalassian.
+
+**Confidence: Low–Moderate** for cognacy. The phonological regularity of /s/ → /ʃ/ before /i/ is typologically expected, and the co-occurrence with *fallah/falah* adds circumstantial support. However, the semantic gap (Darnassian "sleep/fallen" vs. Thalassian "failing/breaking") and the limited corpus prevent firm conclusions. If this cognate pair is confirmed, it would represent the first attested regular sound change between Darnassian and Thalassian beyond the *Andu/Ande* correspondence.
+
+#### Summary of Cognate Candidates
+
+| Candidate | Thalassian | Darnassian | Confidence | Key Evidence |
+|-----------|------------|------------|------------|--------------|
+| *Thas* ↔ *Tha-*(?) | Forest | (no standalone form) | Low | Shared /θɑ/ onset; semantic proximity "forest"↔"home" |
+| *arkhana* | Magic | No cognate | Very Low | Likely Thalassian innovation; unusual phonological shape |
+| *Shindu* ↔ *Sindu* | Failing/Breaking | Possibly "fallen/sleep" | Low–Moderate | Regular /s/→/ʃ/ before /i/; shared *fallah/falah* context |
+
 ## Summary of Grammatical Inferences
 
 | Feature | Inference | Certainty |
@@ -265,6 +450,8 @@ Thalassian appears phonologically more conservative than Darnassian in some resp
 | Pronoun incorporation | Possible in verb forms (dela'na, ana'diel) | Low–Moderate — could also be inflection |
 | Possessive marking | Possibly zero-marked in blessings | Low — based on absence of evidence |
 | Prenominal adjectives | Shindu + noun (modifier-head) | Moderate — one clear example (Shindu sin'dorei) |
-| Kinship suffix *-da* | Marks parent relationship | Low — only two examples (Ann'da, Minn'da) |
+| Kinship suffix *-da* | Marks parent relationship vs. *-na* for collateral | Low–Moderate — three examples with *-da*/*-na* contrast; see Investigation 1 |
 | Conjunction *Rea* | "And" (coordinating) | Low — one attestation |
-| Battle cry template | Selama + phrase | Moderate — three variants |
+| Battle cry template | Selama + phrase | Moderate — three variants; see Investigation 2 |
+| *Shindu* ↔ Darnassian *Sindu* | Possible cognate with /s/→/ʃ/ palatalization | Low–Moderate — see Investigation 3 |
+| *Thas* ↔ Darnassian *Tha-* | Possible shared root "forest/home" | Low — see Investigation 3 |
