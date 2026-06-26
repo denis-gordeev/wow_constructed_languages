@@ -77,9 +77,34 @@
 - [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
 - [ ] Investigate Thalassian *-da* kinship suffix — **SIGNIFICANTLY UPDATED**: Darnassian cognates now confirmed (*An'da*/*Ann'da*, *Min'da*/*Minn'da*, *Shal'nar*/*Shal'na*); *-da*/*-do* register alternation identified in Darnassian (informal vs. formal); Low–Moderate confidence for register analysis; see Darnassian grammar.md Investigation 2
 - [ ] Investigate Thalassian *Selama* battle cry variants — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; three hypotheses proposed (template pattern, variable morpheme boundary, Blizzard inconsistency); Moderate confidence for template pattern; *amor'anore* may be phonological blend of *ashal'anore* and *am'oronor*
-- [ ] Cross-reference new Thalassian data with Darnassian and elven-comparative.html — **DONE**: Added Sets 9–11 and Correspondence 5 to elven-comparative.html; *Shindu*/*Sindu* cognate proposed (Low–Moderate confidence) with /s/→/ʃ/ palatalization; *Thas*/*Thalas* root connection proposed (Low confidence); *arkhana* likely Thalassian innovation (Very Low cognate confidence); updated comparative wordlist and reconstruction tables
+- [x] Cross-reference new Thalassian data with Darnassian and elven-comparative.html — **DONE**: Added Sets 9–11 and Correspondence 5 to elven-comparative.html; *Shindu*/*Sindu* cognate proposed (Low–Moderate confidence) with /s/→/ʃ/ palatalization; *Thas*/*Thalas* root connection proposed (Low confidence); *arkhana* likely Thalassian innovation (Very Low cognate confidence); updated comparative wordlist and reconstruction tables — **UPDATED Round 3**: Added Sets 12–14 (*anu* definite article, *tal/talah* death, *Elu-* Elune root in Thalassian) and Correspondences 6–7 (geminate simplification, *-ah* suffix); *Elun* now attested in 3 languages; *Anu* reclassified as shared Darnassian–Thalassian grammatical morpheme
 - [ ] Verify *Shindu*/*Sindu* cognate by searching for additional /s/→/ʃ/ correspondence pairs in Thalassian vs. Darnassian — requires more cognate data; *Shal'nar*/*Shal'na* pair does not involve /s/→/ʃ/ but confirms cognate methodology
 - [ ] Investigate whether *Shal'* in *Shal'na* (aunt) is etymologically connected to Shalassian *Shal* (twilight/arcane) — **SIGNIFICANTLY UPDATED**: Darnassian *Shal'nar* = "aunt" now confirmed, making *Shal'* a confirmed Darnassian–Thalassian cognate pair; triple cognate with Shalassian *Shal* remains speculative; semantic shift "twilight/shadow" → "aunt" would require kinship metaphor
+- [ ] Investigate additional elven cognate candidates from new analysis — Sets 15–18 (*falah/fallah* balance/breaking, *dal* fortune/goodness, *shan'* honored, *finel* the last) identified but require more data for confirmation; Low–Moderate confidence for all
+- [ ] Investigate nerubian *tak-* element — five attestations in combat phrases and one place name (*Tak-Rethan*); Low–Moderate confidence for genuine morpheme; may mean "strike/attack" or be a combat imperative
+- [ ] Research nerubian *Shabtir bakh sokhen* syntax — first confirmed translation provides SOV/SVO evidence; needs additional translated phrases to determine word order with confidence
+
+## Completed This Round (2026-06-26, Round 3)
+
+- [x] Add first confirmed nerubian translation: *Shabtir bakh sokhen* = "The servant bows to the master's authority" (code words to enter Naxxanar) — the first nerubian-language phrase with an official Blizzard translation
+- [x] Add 9 untranslated nerubian combat/greeting phrases from Kaheti NPCs (TWW): *Aza cha'tak!*, *Elix tak'na*, *Igitith ik Ansureka!*, *Iki'tash izal*, *Kahet iz korvan*, *Tak'izik!*, *Tak'na*, *Tak kat'taj*, *Tak'rasha na!*
+- [x] Add *Tak-Rethan* place name to nerubian vocabulary
+- [x] Add nerubian speculative morphemes from confirmed translation: *shabtir* = "servant" (Moderate), *sokhen* = "master/authority" (Moderate), *bakh* = "bows to" (Moderate)
+- [x] Add *tak-* combat/imperative element to nerubian grammar: 5 attestations in combat phrases + 1 place name (*Tak-Rethan*); Low–Moderate confidence
+- [x] Add confirmed phrase syntax analysis to nerubian grammar: *Shabtir bakh sokhen* provides first evidence of subject-initial word order (SVO or SOV)
+- [x] Update nerubian writing system: touch-and-scent-based script with burns, slashes, puncture marks, and pheromones; non-nerubians cannot fully perceive; Potion of Polymorphic Translation: Nerubian enables reading
+- [x] Update nerubian attestation summary: 1 confirmed phrase, 9 untranslated phrases, 8 place names, 6 inferred morphemes
+- [x] Add elven cognate Set 12: *anu* — definite article/subject marker shared between Darnassian (5 attestations) and Thalassian (confirmed); Moderate confidence; significant as shared grammatical morpheme
+- [x] Add elven cognate Set 13: *tal*/*talah* — death root confirmed in both Darnassian (*Ishnu-talah*) and Thalassian (*Tal*, *talah*); Moderate–High confidence
+- [x] Add elven cognate Set 14: *Elu-* in Thalassian = reflex of *Elune* root in *Elu'meniel mal alann*; Moderate confidence; extends *elun* cognate from 2 to 3 languages
+- [x] Add Correspondence 6: Geminate simplification *nn > n* in Darnassian (Low–Moderate confidence; 2 examples, perfectly regular)
+- [x] Add Correspondence 7: Shared *-ah* derivational suffix pattern (Low confidence; could be phonological)
+- [x] Update elven-comparative.html: *Elun* now attested in 3 languages (Thalassian added); *Anu* reclassified from Thalassian-only to shared Darnassian–Thalassian grammatical morpheme; added *tal/talah* and *anu* to secure reconstructions; added *falah/fallah* to semantic divergence table; added *Anu* and *tal/talah* to inherited Proto-Elven features; updated sound changes table
+- [x] Update semantic divergence table: added *tal/talah* (stable meaning) and *falah/fallah* (semantic divergence: balance vs. breaking)
+- [x] Mark "Cross-reference new Thalassian data with Darnassian and elven-comparative.html" as DONE (was previously marked DONE in text but still unchecked)
+- [x] Audit HTML-MD sync for 5 key languages (darnassian, thalassian, zandali, shath-yar, ethereal): all synced except Zandali minor heading level differences (acceptable design choices)
+- [x] Sync nerubian vocabulary.html, grammar.html, description.html with updated .md counterparts
+- [x] Update README.md nerubian attestation level: Extremely Low → Low (1 confirmed translation, 9 untranslated phrases, touch-and-scent writing system)
 
 ## Completed This Round (2026-06-26, Round 2)
 

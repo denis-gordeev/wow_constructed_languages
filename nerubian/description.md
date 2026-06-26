@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Nerubian language is spoken by the nerubians — an ancient arachnid race native to Azeroth's underground realms. Descended from the Aqir (Old God-created insectoids), nerubian shares potential substrate vocabulary with qiraji through the *Azj-* and *Ahn-* morphemes, though the relationship remains hypothetical without attested Aqir vocabulary. The language is primarily attested through proper names and one untranslated scroll text; no confirmed translations exist. Despite this extreme limitation, the consistent apostrophe-marked compounding pattern and the confirmed /ʒ/ phoneme in *Azj-* reveal a typologically distinctive language.
+The Nerubian language is spoken by the nerubians — an ancient arachnid race native to Azeroth's underground realms. Descended from the Aqir (Old God-created insectoids), nerubian shares potential substrate vocabulary with qiraji through the *Azj-* and *Ahn-* morphemes, though the relationship remains hypothetical without attested Aqir vocabulary. The language is primarily attested through proper names and one untranslated scroll text, though one confirmed translation (*Shabtir bakh sokhen* = "The servant bows to the master's authority") now provides the first syntactic evidence. The consistent apostrophe-marked compounding pattern, the confirmed /ʒ/ phoneme in *Azj-*, and the unique touch-and-scent writing system reveal a typologically distinctive language.
 
 ## Speakers
 
@@ -56,7 +56,7 @@ See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA c
 
 ## Writing System
 
-Nerubians are confirmed to have a written language with a glyphic or hieroglyphic script, depicted on in-game architecture and scroll artifacts. The script appears as angular, segmented glyphs carved into stone surfaces in Azj-Kahet and Azjol-Nerub. No nerubian hieroglyphs have been translated in canon (unlike Tol'vir, which has three confirmed translations). The one attested nerubian text — the scroll passage *"Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k."* — uses hyphens as grammatical morpheme boundaries, suggesting a different orthographic convention from the apostrophe-marked proper names. This may indicate that nerubian writing distinguishes formal/liturgical texts (hyphenated) from naming conventions (apostrophe-marked), or that the scroll represents a phonetic transcription rather than native script.
+Nerubians are confirmed to have a written language with a unique **touch-and-scent-based** script — burns, slashes, puncture marks, and **pheromones** which non-nerubians cannot fully perceive. A *Potion of Polymorphic Translation: Nerubian* can temporarily grant the ability to read it. This makes nerubian one of the most unique writing systems in Azeroth — it cannot be fully read visually and requires either nerubian physiology or magical translation. The script appears as angular, segmented glyphs carved into stone surfaces in Azj-Kahet and Azjol-Nerub. No nerubian hieroglyphs have been translated in canon (unlike Tol'vir, which has three confirmed translations). The one attested nerubian text — the scroll passage *"Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k."* — uses hyphens as grammatical morpheme boundaries, suggesting a different orthographic convention from the apostrophe-marked proper names. The romanized scroll text is necessarily a visual approximation that loses the pheromonal and tactile dimensions of the original script.
 
 ## Relationship to Other Languages
 
@@ -85,18 +85,18 @@ Unlike the Titan-forged language family (which has confirmed genetic relationshi
 | Category | Count | Examples |
 |----------|-------|----------|
 | Attested personal names | ~16+ | *Anub'arak*, *Anub'rekhan*, *Anub'azal*, *Anub'arash*, *Ansurek*, *Arak'nai*, *Nizrek*, *Ulgrax*, *Ovi'nax*, *Ky'veza*, *Krix'vizk*, *Rasha'nan*, *Y'tekhi*, *Takazj*, *Krik'thir*, *Ix'zek* |
-| Attested place names | ~7+ | *Azjol-Nerub*, *Ahn'kahet*, *Azj-Kahet*, *Nerub-ar Palace*, *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz* |
+| Attested place names | ~8+ | *Azjol-Nerub*, *Ahn'kahet*, *Azj-Kahet*, *Nerub-ar Palace*, *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz*, *Tak-Rethan* |
 | Confirmed morphemes | 2 | *Anub-* (title/warrior prefix), *-kahet* (kingdom/realm suffix) |
-| Inferred morphemes | 5+ | *Azj-* (deep/domain prefix), *-ar* (brood/collective suffix), *-rek*/*-urek* (title suffix), *-nax* (role suffix), *Rak-* (toponymic prefix) |
+| Inferred morphemes | 6+ | *Azj-* (deep/domain prefix), *-ar* (brood/collective suffix), *-rek*/*-urek* (title suffix), *-nax* (role suffix), *Rak-* (toponymic prefix), *tak-* (combat/imperative element) |
 | Attested texts | 1 | Nerubian scroll: "Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k." |
-| Attested phrases with translations | 0 | No nerubian phrases have confirmed translations |
-| Attested sentences with full glosses | 0 | No nerubian sentences are attested |
+| Confirmed translated phrases | 1 | *Shabtir bakh sokhen* = "The servant bows to the master's authority" |
+| Untranslated combat/greeting phrases | 9 | *Aza cha'tak!*, *Elix tak'na*, *Igitith ik Ansureka!*, *Iki'tash izal*, *Kahet iz korvan*, *Tak'izik!*, *Tak'na*, *Tak kat'taj*, *Tak'rasha na!* |
 
 ## Reliability Notes
 
-- **Very limited attestation.** Only ~16 personal names and ~7 place names are known from WotLK and TWW combined.
-- **No full sentences or verb forms are attested.** All nerubian NPCs speak Common (English) in-game.
-- **No attested phrases at all.** Unlike naga (who have ~15 battle cries in Nazja) and vrykul (who have ~10 attested phrases with translations), nerubians have zero constructed-language phrases in canon.
+- **Very limited attestation.** Only ~16 personal names and ~8 place names are known from WotLK and TWW combined.
+- **One confirmed translation** (*Shabtir bakh sokhen* = "The servant bows to the master's authority"). This is the first nerubian phrase with an official Blizzard translation, providing initial evidence for subject-initial word order and basic vocabulary.
+- **9 untranslated combat/greeting phrases** from Kaheti NPCs provide phonological data but no syntactic evidence without translations.
 - **The *Anub-* prefix analysis** (as a title meaning "lord/warrior") is speculative. It could simply be a proper-name element with no independent meaning.
 - **The *-kahet* suffix analysis** (as "kingdom/realm") is the strongest morpheme inference, supported by two independent attestations across 16 years of game development.
 - **The *Azj-* / *Nazj-* connection** is intriguing but unconfirmed. It cannot be verified without attested Aqir vocabulary.

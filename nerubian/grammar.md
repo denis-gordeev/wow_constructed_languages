@@ -1,6 +1,6 @@
 # Nerubian Grammar
 
-Grammar rules below are **inferred from attested examples only**. The Nerubian language has one attested text (a nerubian scroll: "Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k.") plus a corpus of proper names and place names spanning *Wrath of the Lich King* (2008), *Battle for Azeroth* (2018), and *The War Within* (2024). Patterns are noted where multiple examples support a rule. Speculative extensions are marked [speculative].
+Grammar rules below are **inferred from attested examples only**. The Nerubian language has one confirmed translated phrase (*Shabtir bakh sokhen* = "The servant bows to the master's authority"), one attested scroll text (untranslated: "Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k."), plus a corpus of proper names and place names spanning *Wrath of the Lich King* (2008), *Battle for Azeroth* (2018), and *The War Within* (2024). Patterns are noted where multiple examples support a rule. Speculative extensions are marked [speculative].
 
 ## Phonology
 
@@ -377,8 +377,52 @@ The WotLK place name *En'kilah* (/ɛnˈkiːlɑː/) is a Temple City in Borean Tu
 
 ## Syntax
 
-- No sentence-level attestation exists (the nerubian scroll text is untranslated)
-- Word order cannot be determined with confidence
+### Confirmed Phrase: *Shabtir bakh sokhen*
+
+The first confirmed nerubian-language translation provides critical syntactic evidence:
+
+> **Shabtir bakh sokhen** = "The servant bows to the master's authority"
+
+**Analysis:**
+
+1. **Word order: SOV or SVO**: *Shabtir* ("servant") occupies the initial position, *bakh* ("bows") is in the medial position, and *sokhen* ("master/authority") is in the final position. This is consistent with both SOV (Subject-Object-Verb, if *sokhen* = "to the master" as oblique object before a verb *bakh* that follows it) and SVO (Subject-Verb-Object, if *bakh* = "bows to" and *sokhen* = "the master's authority"). A single sentence cannot distinguish between these orders.
+
+2. **Definiteness**: The English translation includes "the" before both "servant" and "master." If nerubian marks definiteness, it does so through morphology not visible in this romanization (e.g., a suffix or tone), or definiteness is simply implied by context.
+
+3. **Case marking**: *sokhen* appears to be in a case that marks it as the object of "bows to" — either a dative/oblique form or the same form as the nominative with postpositional case marking. Without additional sentences, case marking cannot be determined.
+
+4. **Verb morphology**: *bakh* appears to be a verb root without visible inflection (no tense marker, no person agreement visible in the romanization). If nerubian verbs are not inflected for person, this would be consistent with a language that relies on word order rather than agreement.
+
+5. **No visible preposition**: The English "to" has no separate nerubian word. This could mean:
+   - *bakh* is a prepositional verb meaning "bows to" (verb + preposition fused)
+   - *sokhen* carries dative case marking (suffix or internal change not visible in romanization)
+   - Nerubian simply does not mark the recipient with a separate preposition
+
+**Confidence: Moderate** for the general word order (S-initial); **Low** for specific syntactic analysis.
+
+### Speculative: The *Tak-* Element in Combat Phrases
+
+The *Tak-* element appears in five untranslated combat phrases from Kaheti NPCs:
+- *Tak'izik!* — *Tak-* + *-izik*
+- *Tak'na* — *Tak-* + *-na*
+- *Tak kat'taj* — *Tak-* + *kat'* + *-taj*
+- *Tak'rasha na!* — *Tak-* + *-rasha* + *na*
+- *Aza'tak* — *Aza-* + *-tak* (same element in suffix position)
+
+If *tak* = "strike" or "attack" (a combat imperative), these phrases would be:
+- *Tak'izik* = "Strike [them]!" or "Attack!"
+- *Tak'na* = "Strike now!" (if *na* = "now" or emphatic)
+- *Aza'tak* = "[Something]-strike" or "[Something]-attack"
+
+The *-rasha* element in *Tak'rasha na* parallels *Rasha'nan* (a raid boss name), suggesting *-rasha* may be a meaningful morpheme.
+
+[speculative]: *Tak-* may also be related to the place-name *Tak-Rethan* — if *Tak-* = "strike/attack," then *Tak-Rethan* = "Strike-Realm" or "War-Zone," which would be a plausible name for a contested area.
+
+**Confidence: Very Low** for the specific meaning of *tak*; **Low–Moderate** for *tak* being a genuine morpheme (five attestations).
+
+### Other Observations
+
+- Word order cannot be determined with confidence beyond the single confirmed sentence
 - The compounding pattern (prefix + head, with apostrophe boundary) is the only confirmed syntactic observation from proper names
 - The language may follow a modifier-head structure in compounds (inferred from *Anub-* + suffix pattern), consistent with the right-headed compounding tradition found in both Titan-forged and Aqir-descended languages
 - The scroll text shows short phrases (2–5 words) separated by periods, but without translations, the syntactic structure of these phrases cannot be determined
@@ -440,12 +484,14 @@ The similarity is suggestive but cannot establish a genetic relationship.
 
 ## Limitations
 
-The nerubian corpus is extremely small:
+The nerubian corpus is extremely small but has recently expanded:
 - ~22 personal names (from WotLK, BfA, and TWW combined)
-- ~14 place names with nerubian etymologies
-- **1 attested text** (nerubian scroll, untranslated)
+- ~15 place names with nerubian etymologies
+- **1 confirmed translated phrase** (*Shabtir bakh sokhen* = "The servant bows to the master's authority")
+- **9 untranslated combat/greeting phrases** from Kaheti NPCs
+- **1 attested scroll text** (nerubian scroll, untranslated)
 
-No verb forms, particles, or syntactic structures are known. The only confirmed morphological patterns are:
+No verb paradigm, case system, or full syntactic structure is known. The confirmed morphological patterns are:
 1. Apostrophe-marked compounding (high confidence)
 2. *Anub-* prefix (high confidence, 8 attestations)
 3. *-kahet* suffix (moderate confidence)
@@ -453,5 +499,6 @@ No verb forms, particles, or syntactic structures are known. The only confirmed 
 5. *-ar* faction suffix (low–moderate confidence, 6 attestations)
 6. *-rek* / *-urek* suffix (low confidence)
 7. *Rak-* toponymic prefix (low–moderate confidence, 3 attestations)
+8. *tak-* combat/imperative element (low–moderate confidence, 5 attestations in combat phrases)
 
-All other morpheme identifications are speculative.
+The confirmed translation of *Shabtir bakh sokhen* provides the first evidence of nerubian syntax (subject-initial word order) and vocabulary (*shabtir* = "servant", *bakh* = "bows to", *sokhen* = "master/authority"), though sample size remains extremely limited.

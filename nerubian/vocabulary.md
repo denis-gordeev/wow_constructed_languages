@@ -89,6 +89,7 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Rak-Ahat | /rækˈɑːhæt/ | *Rak-* + *-Ahat* | Subzone in Azj-Kahet. *Rak-* prefix also in *Rak-Ush* and *Rak-Zakaz*. |
 | Rak-Ush | /rækˈʊʃ/ | *Rak-* + *-Ush* | Subzone in Azj-Kahet. *Rak-* prefix appears in three place names. |
 | Kili-zar Arena | /ˈkɪlizɑːr/ | *Kili-* + *-zar* | Arena inside Nerub-ar Palace. |
+| Tak-Rethan | /tækˈrɛθæn/ | *Tak-* + *-Rethan* | Subzone in Azj-Kahet. *Tak-* prefix also in combat phrases (*Tak'izik*, *Tak'na*, *Tak'rasha na*); *-Rethan* contains /θ/. |
 
 ### Pre-TWW: Northrend and Aqir Empire
 
@@ -101,10 +102,32 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 
 ## 3. Attested Phrases
 
+### Confirmed Translation (First Nerubian Phrase with Official Translation)
+
+| Phrase | Translation | Source | Notes |
+|--------|-------------|--------|-------|
+| *Shabtir bakh sokhen* | "The servant bows to the master's authority" | Code words to enter Naxxanar (warcraft.wiki.gg) | **The first confirmed nerubian-language phrase with an official translation.** Three-word utterance; *shabtir* likely = "servant", *sokhen* likely = "master/authority". |
+
+### Attested Scroll Text
+
 A single attested nerubian-language text survives — writing on a nerubian scroll:
 
 > **"Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k."**
 > — Writing on a nerubian scroll (source: warcraft.wiki.gg)
+
+### Untranslated Combat/Greeting Phrases (Kaheti NPCs, TWW)
+
+| Phrase | Context | Notes |
+|--------|---------|-------|
+| *Aza cha'tak!* / *Aza'tak* | Combat (Kaheti mobs) | Apostrophe marks morpheme boundary; *-tak* element |
+| *Elix tak'na* | Combat (Kaheti mobs) | *tak-* matches *-tak* in *Aza'tak*; *-na* suffix |
+| *Igitith ik Ansureka!* | Combat (invoking Queen Ansureka) | *ik* = "to/toward"?; name of queen invoked |
+| *Iki'tash izal* | Greeting (Widow Arak'nai) | Apostrophe-marked compound; *izal* possibly = "greeting/well" |
+| *Kahet iz korvan* | Spoken by many Kaheti NPCs | *Kahet* matches place-name suffix *-kahet*; may mean "[in the] kingdom [we] stand" or similar |
+| *Tak'izik!* | Combat | *Tak-* prefix with *-izik* suffix |
+| *Tak'na* | Combat | Short form; *Tak-* + *-na* |
+| *Tak kat'taj* | Combat | Double apostrophe: *Tak-* + *kat'* + *-taj* |
+| *Tak'rasha na!* | Combat | *Tak-* + *-rasha* + *na*; *-rasha* parallels *Rasha'nan* |
 
 ### Analysis of the Nerubian Scroll Text
 
@@ -155,6 +178,11 @@ This parallels the attested Tol'vir phrases (*Kadesh* = "Swing", *Osadi* = "Stri
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
+| *shabtir* | "servant" | *Shabtir bakh sokhen* ("The servant bows to the master's authority") | **Moderate** — first confirmed translation provides direct evidence; *shabtir* occupies the subject position in a sentence meaning "The servant bows..." |
+| *sokhen* | "master / authority" | *Shabtir bakh sokhen* ("The servant bows to the master's authority") | **Moderate** — first confirmed translation; *sokhen* appears in the object/oblique position, likely meaning "master" or "authority" |
+| *bakh* | "bows to" (verb) | *Shabtir bakh sokhen* ("The servant bows to the master's authority") | **Moderate** — occupies the verbal position between subject and object; may mean "bows" or "submits to" |
+| *tak-* | Combat/incitement prefix or verb | *Tak'izik*, *Tak'na*, *Tak kat'taj*, *Tak'rasha na!*, *Aza'tak* | **Low–Moderate** — five attestations in combat contexts; may mean "strike/attack" or be a combat imperative |
+| *Kahet* | "kingdom" (standalone form) | *Kahet iz korvan* (spoken by Kaheti NPCs) | **Low–Moderate** — if *Kahet* in this phrase is the same morpheme as *-kahet* in *Azj-Kahet*, this would be its first attestation as an independent word rather than a bound suffix |
 | -azj | Agentive or locative suffix (mirrors *Azj-* prefix) | *Takazj* | **Moderate** — phonological identity with *Azj-* confirmed by official IPA; single attestation as suffix |
 | -arash | Possibly "lord/ruler" (parallels *-arak* with /ʃ/) | *Anub'arash* (Scarab Lord) | **Very Low** — single attestation; parallels *-arak* in *Anub'arak* |
 | -akan | Uncertain | *Vul'akan* | **Very Low** — single attestation; parallels *-et'kan* in *Anub'et'kan* |
@@ -614,4 +642,11 @@ Combined with the *Azj-*/*Nazj-* pattern (§5) and the possible *-nax*/*-naxx* p
 
 Nerubians are known to have a written language. In WotLK, nerubian script appears on various objects and architecture in Azjol-Nerub. The script appears to be glyphic or hieroglyphic, consistent with the Egyptian aesthetic.
 
+**Major discovery (warcraft.wiki.gg):** Nerubian writing is entirely **touch-and-scent-based** — burns, slashes, puncture marks, and **pheromones** which non-nerubians cannot fully perceive. A *Potion of Polymorphic Translation: Nerubian* can temporarily grant the ability to read it. This makes nerubian one of the most unique writing systems in Azeroth — it cannot be fully read visually and requires either nerubian physiology or magical translation.
+
 Unlike Tol'vir hieroglyphs (which have three confirmed translations: *Kadesh* = "Swing", *Osadi* = "Strike", *Satekh* = "Block"), no nerubian hieroglyphs have been translated in canon. However, the attested nerubian scroll text (§3) provides the first example of nerubian-language writing, using hyphens as morpheme boundaries (unlike the apostrophe convention in proper names). This suggests that nerubian orthography distinguishes between compound names (apostrophe boundary) and grammatical morpheme boundaries (hyphen boundary).
+
+The touch-and-scent nature of nerubian writing has profound implications:
+- The scroll text romanization (*Unhhh-tikk-a-shisss*...) is necessarily a **visual approximation** of a multi-sensory script, losing the pheromonal and tactile dimensions
+- The hyphens in the scroll text may represent tactile breaks or pheromonal transitions not visible in the romanized form
+- Non-nerubian observers (including players) can only access a degraded version of nerubian text
