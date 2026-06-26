@@ -71,6 +71,7 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Word | Meaning | Notes |
 |------|---------|-------|
 | Dol'watha | Ruined village | Zuldazar. *Dol'* + *-watha* (village suffix) |
+| Nazwatha | — | Speculative place name with *-watha* suffix; listed in wiki's speculative section |
 | Zeb'ahari | Fishing village | Zuldazar. *Zeb'* + *-ahari* |
 | Zeb'tula | Zandalari outpost | Isle of Thunder. *Zeb'* + *-tula* |
 | Shaol'mara | Zandalari outpost | Isle of Thunder. *Shaol'* + *-mara* |
@@ -235,6 +236,8 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Roa | Heart(s) | Moldy Diary | Used for both singular and plural "heart(s)" — no morphological plural marking |
 | Selo | Sleep | Hastily-Scribbled Note, Scrap of Singed Paper | In *maze selo* = "fighting sleep" |
 | Voodoo | Ancient magic used by trolls | Universal term | Unconfirmed as native Zandali; may be a Common rendering |
+| Juju | Fetish, charm, or amulet; the power associated with it | Universal troll term | Unconfirmed as native Zandali; may be a Common rendering of a Zandali word |
+| Mojo | Magic spell, hex, or charm; broadly, magic power | Universal troll term | Unconfirmed as native Zandali; may be a Common rendering of a Zandali word |
 | Zen | Druid | Loreology (former Blizzard CM) | Often a prefix added to a name when they become one: Zen'Balai, Zen'Kiki, Zen'tabra |
 | Zul' | Voodoo master / Witch doctor | Loreology; RPG | Often a prefix added to a name when they become one |
 
@@ -339,6 +342,7 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Gachaga | Unknown | Combat vocalization of blood troll mobs |
 | Guzincha | Unknown | Combat vocalization of blood troll mobs |
 | Pohkiza | Unknown | Said by blood troll mobs upon dying |
+| E'chuta | Possibly an insult or swear word | Speculative; wiki notes no specific translation but context suggests insult |
 
 ## Untranslated Zandali Phrases (Midnight)
 

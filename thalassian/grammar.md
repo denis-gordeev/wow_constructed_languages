@@ -180,7 +180,7 @@ Key differences:
 1. **Lexical innovation** — Sin (blood), Ren (void), Felo (flame) are Thalassian innovations not found in Darnassian
 2. **Cultural vocabulary shift** — Thalassian emphasizes solar imagery (belore = sun, anar'alah = by the light) vs. Darnassian's lunar/stellar imagery (Kaldorei = children of the stars, Elune = moon goddess)
 3. **Phonological divergence** — Thalassian appears to have undergone sound changes from the Darnassian base, though the limited corpus makes phonological reconstruction speculative
-4. **Kinship terminology** — Ann'da/Minn'da/Shal'na have no confirmed Darnassian cognates, though the Darnassian *Andu* (negation prefix) is phonologically similar to *Ann'da*
+4. **Kinship terminology** — ~~Ann'da/Minn'da/Shal'na have no confirmed Darnassian cognates~~ **UPDATED**: Darnassian cognates are now confirmed: *An'da* (Papa/Father), *Min'da* (Mama), *Shal'nar* (Aunt). See Investigation 1 for full analysis
 
 ## Phonology
 
@@ -302,11 +302,11 @@ Under this analysis, *-da* encodes a caregiving role (applicable to mothers and 
 
 #### Assessment
 
-**Confidence: Low–Moderate** for Hypothesis A (parent vs. collateral relative). The data is too limited to confirm any single hypothesis. Hypothesis B (baby-talk) has strong cross-linguistic parallels but does not explain why Blizzard would create a *-da*/*-na* contrast unless it were grammatically meaningful. No Darnassian, Shalassian, or Nazja kinship terms are attested for comparison.
+**Confidence: Low–Moderate** for Hypothesis A (parent vs. collateral relative). The data is too limited to confirm any single hypothesis. Hypothesis B (baby-talk) has strong cross-linguistic parallels but does not explain why Blizzard would create a *-da*/*-na* contrast unless it were grammatically meaningful. ~~No Darnassian, Shalassian, or Nazja kinship terms are attested for comparison.~~ **UPDATED**: Darnassian cognates are now confirmed by the warcraft.wiki.gg wiki: *An'da* (Papa/Father), *Min'da* (Mama), *Shal'nar* (Aunt). The Darnassian forms are shorter by one /n/ (*An'da* vs. *Ann'da*, *Min'da* vs. *Minn'da*), suggesting Darnassian preserves the older forms and Thalassian innovated gemination. The *-da*/*-do* register alternation in Darnassian (*Min'da* = informal "Mama" vs. *Minn'do* = formal "Mother") supports Hypothesis B's baby-talk analysis for *-da* while also showing a formal counterpart *-do*. See [Darnassian grammar](../darnassian/grammar.md) Investigation 2 for the full *-da*/*-do* register analysis.
 
 #### Cross-Reference
 
-The *Shal'* element in *Shal'na* ("aunt") is phonologically identical to the Shalassian ethnonym root *Shal* ("twilight/arcane") and the Darnassian place-name element in *Shaladrassil*. If *Shal'na* contains the same root, this would be the first attested Darnassian–Shalassian–Thalassian triple cognate for a non-ethnonym word. However, *Shal'* in *Shal'na* may be an unrelated morpheme — the convergent phonology could be coincidental.
+The *Shal'* element in *Shal'na* ("aunt") is phonologically identical to the Shalassian ethnonym root *Shal* ("twilight/arcane") and the Darnassian place-name element in *Shaladrassil*. **The Darnassian cognate *Shal'nar* ("aunt") is now confirmed**, making this a confirmed Darnassian–Thalassian cognate pair. If the *Shal'* root also connects to Shalassian *Shal* ("twilight/arcane"), this would be the first attested Darnassian–Shalassian–Thalassian triple cognate for a non-ethnonym word. The semantic shift from "twilight/shadow" → "aunt" would require a kinship metaphor (e.g., "shadow-one" as circumlocution for a female relative), which remains speculative but is now more plausible given the confirmed cognate status.
 
 ---
 

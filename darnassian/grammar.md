@@ -19,8 +19,11 @@ The `-dorei` suffix is a productive morpheme meaning "children of" or "people of
 
 - Tel + drassil = Teldrassil ("Earth" + "Crown" = "Crown of the Earth")
 - Nor + drassil = Nordrassil ("Heavens" + "Crown" = "Crown of the Heavens")
+- And + drassil = Andrassil ("Snow" + "Crown" = "Crown of the Snow")
+- Amir + drassil = Amirdrassil ("Harmony" + "Crown" = "Crown of Harmony")
+- Vor + drassil = Vordrassil ("Broken" + "Crown" = "Broken Crown")
 
-The element `dor`/`drassil` means "crown." The variant forms may reflect phonological conditioning or an older root pattern.
+The element `dor`/`drassil` means "crown." The variant forms may reflect phonological conditioning or an older root pattern. Five World Tree names are now confirmed with official translations, establishing *-drassil* as a highly productive morpheme. See Investigation 3 for full analysis.
 
 **Pattern: Honorific Compounds (Title Formation)**
 
@@ -55,7 +58,7 @@ Two additional canon phrases share the root *Ishnu*, expanding the Darnassian gr
 - **Ishnu-alah** — "Good fortune / blessings upon you" (Warcraft III Priestess of the Moon voice line)
 - **Ishnu-dal-die** — "Good fortune to you / farewell variant" (Warcraft III voice line)
 
-*Ishnu* appears to be a greeting or blessing particle meaning "good fortune" or "blessings." The element *-alah* may connect to Thalassian *alah* ("light"), suggesting either a shared elven root or a cross-language borrowing. The element *-dal-die* is opaque; *dal* may relate to Thalassian *Dal* (possibly "fortune") and *die* may be a dative or second-person marker, but this is [speculative].
+*Ishnu* appears to be a greeting or blessing particle meaning "good fortune" or "blessings." The element *-alah* is now confirmed as a genuine Darnassian word (not just a Thalassian borrowing) by its appearance in the untranslated phrase *Thandae-alah* (Disturbed Spectres at Tel'anor). This confirms *alah* as a shared elven root meaning "light" or "blessed," present in both Darnassian and Thalassian. The element *-dal-die* is opaque; *dal* may relate to Thalassian *Dal* (possibly "fortune") and *die* may be a dative or second-person marker, but this is [speculative].
 
 Two further expanded-source phrases are attested but with uncertain reliability:
 
@@ -227,3 +230,82 @@ The corpus is extremely small (~25–30 items). Many "words" are isolated from s
 - The full range of pronominal forms
 - Whether `Andu` and `Tor` are truly synonymous or carry different nuances
 - The relationship between `thera` (in ilisar'thera'nal = "enemies beware") and `Thero` (in Thero'shan = "beloved student") — whether these are homophones or a single morpheme with context-dependent meaning
+
+## Open Linguistic Investigations
+
+### Investigation 1: Darnassian–Thalassian Kinship Cognates
+
+The Darnassian wiki page confirms three kinship terms with direct Thalassian cognates, resolving a previously open question:
+
+| Darnassian | Thalassian | Meaning | Difference |
+|-----------|------------|---------|------------|
+| An'da | Ann'da | Papa/Father | Darnassian drops one /n/ |
+| Min'da | Minn'da | Mama | Darnassian drops one /n/ |
+| Shal'nar | Shal'na | Aunt | Darnassian adds final /r/ |
+
+**Hypothesis 1: Darnassian preserves older forms; Thalassian innovated gemination**
+
+The single /n/ in Darnassian *An'da*, *Min'da* may represent the proto-elven form. Thalassian innovated geminate /nn/ (*Ann'da*, *Minn'da*), possibly through assimilation or expressive lengthening. This is consistent with Thalassian's known phonological tendency toward consonant reinforcement (cf. *Thalas* → *Thalassian*).
+
+**Hypothesis 2: Thalassian preserves older forms; Darnassian simplified**
+
+Alternatively, the proto-elven forms had geminate /nn/, and Darnassian simplified through consonant reduction. This is less consistent with the broader pattern, as Darnassian is the older language.
+
+**Hypothesis 3: *Shal'nar* /r/ is a Darnassian case or gender marker**
+
+The final /r/ in *Shal'nar* (absent in Thalassian *Shal'na*) could represent:
+- A feminine/nominative case suffix
+- A Darnassian morphological ending lost in Thalassian
+- An archaic form that Thalassian shortened
+
+**Assessment**: Hypothesis 1 is preferred (Low–Moderate confidence). The *Shal'nar*/*Shal'na* cognate pair also has implications for the TODO item on whether *Shal'* connects to Shalassian *Shal* (twilight/arcane). The shared *Shal'* root across three elven languages — *Shal'nar* (Darnassian "aunt"), *Shal'na* (Thalassian "aunt"), *Shal* (Shalassian "twilight/arcane") — may represent a single proto-elven root that underwent semantic divergence: "twilight/shadow" → "aunt" through a kinship metaphor (e.g., "shadow-one" or "twilight-woman" as a circumlocution for a female relative). This remains speculative.
+
+### Investigation 2: The *-da* / *-do* Register Alternation
+
+Darnassian has two kinship-related suffixes: *-da* and *-do*:
+
+| Form | Meaning | Register |
+|------|---------|----------|
+| Min'da | Mama | Informal/familiar |
+| Minn'do | Mother | Formal |
+| An'da | Papa/Father | Informal/familiar |
+| Shan'do | Honored Teacher | Formal title |
+| Nahlen'do | Master of the Fang | Formal title |
+
+**Hypothesis: *-da* marks informal/familiar register; *-do* marks formal/honorific register**
+
+The alternation *Min'da* (Mama) vs. *Minn'do* (Mother) parallels the English "Mommy" vs. "Mother" distinction. The *-do* suffix appears in all formal titles (*Shan'do*, *Nahlen'do*, *Minn'do*), while *-da* appears only in familiar/childish kinship terms (*An'da*, *Min'da*).
+
+This analysis supports and refines the Thalassian grammar.md Investigation 1 hypothesis that *-da* is a kinship suffix. In Darnassian, the distinction is clearer: *-da* = familiar kinship, *-do* = formal/honorific. The vowel alternation /ɑ/ ↔ /o/ may mark the register distinction productively.
+
+**Assessment**: Moderate confidence. The pattern is internally consistent across five attested forms, but the corpus remains small.
+
+### Investigation 3: World Tree Naming Pattern Resolved
+
+The wiki confirms three previously uncertain World Tree translations, completing the *-drassil* naming paradigm:
+
+| Tree | Translation | Prefix Morpheme |
+|------|-------------|-----------------|
+| Teldrassil | Crown of the Earth | *Tel* = "earth" |
+| Nordrassil | Crown of the Heavens | *Nor* = "heavens" |
+| Andrassil | Crown of the Snow | *And* = "snow" |
+| Amirdrassil | Crown of Harmony | *Amir* = "harmony" |
+| Vordrassil | Broken Crown | *Vor* = "broken" |
+| Shaladrassil | (uncertain) | *Shala* = ? |
+
+The morpheme *drassil* = "crown" is now confirmed by five independent attestations. The prefix morphemes are productive content words. *Vor* = "broken" (not "crown of the broken") suggests that in *Vordrassil*, the prefix modifies the crown itself rather than naming what the crown is "of" — this may indicate a different compounding pattern (adjective + noun vs. noun + noun).
+
+*Shaladrassil* remains uncertain; *Shala* may relate to Shalassian *Shal* ("twilight/arcane") or Darnassian *Shal'* (kinship root in *Shal'nar*), but neither connection is confirmed.
+
+### Investigation 4: First Confirmed Verb Conjugation
+
+*Aria* = "We face" (Hearthstone: Voyage to the Sunken City) is the first Darnassian word with a confirmed person/number marking.
+
+**Analysis**: Root *ari-* = "face/confront" + suffix *-a* = first-person plural. If *-a* marks 1pl, this predicts:
+- *Ari* = "face" (infinitive or stem)
+- *Aria* = "we face" (1pl present)
+- *Ari-* + other person markers = other conjugated forms
+
+This also aligns with the *-dorei* ethnonym pattern, where *-ei* marks a plural/collective, and *-a* could be a verbal plural marker.
+
+**Assessment**: Low confidence. One attestation is insufficient to confirm the paradigm, but this is the most plausible analysis given the data.

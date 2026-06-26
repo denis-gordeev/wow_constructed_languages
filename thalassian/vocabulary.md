@@ -77,6 +77,7 @@ Phrases with confirmed Blizzard translations from the Warcraft Encyclopedia, in-
 | Phrase | IPA | Translation | Source |
 |--------|-----|-------------|--------|
 | Anar'alah belore | /ˈɑnɑrˌɑlɑ bɛˈlɔrɛ/ | By the light of the sun | Greeting / blessing |
+| Anar'alah | /ˈɑnɑrˌɑlɑ/ | By the light | Lament of the Highborne; standalone form of Anar'alah belore |
 | Anu belore dela'na | /ˈɑnu bɛˈlɔrɛ dɛˈlɑːnɑ/ | The sun will guide us | Blessing / statement of faith |
 | Ande'thoras-ethil | /ˈɑndɛˌθɔrɑsˈɛθɪl/ | May your troubles be diminished | Blessing / farewell |
 | Elu'meniel mal alann | /ˈɛluˌmɛniɛl mɑl ɑˈlɑn/ | May peace calm your heart | Sean Copeland (Twitter) |
@@ -156,6 +157,9 @@ Phrases attested in-game or in official sources without confirmed Blizzard trans
 | Thalas'din belore | Fal'inrush flavor text | Item description |
 | Nor'alah | *Dark light, Void light* | *Uncertain; limited attestation* |
 | Chaga... choka'jinn | Halazzi and Shadra Betrayers | Zul'Aman (combat dialogue) |
+| Asto're da shan're. Turus Fulo Il'amare, A'Talah Adore. Isera'duna... | Vereesa Windrunner (inscribed wish) | Vereesa's Copper Coin item |
+| Bin dorei am'ovel | Prince Taldaram (killing a player) | Ahn'kahet: The Old Kingdom |
+| Diel ma'ahn... orindel'o. | High Nethermancer Zerevor (on death) | In-game dialogue |
 
 ## Proper Names
 
@@ -188,6 +192,7 @@ Phrases attested in-game or in official sources without confirmed Blizzard trans
 | Falthrien | /ˈfɑlθriɛn/ | Arcane academy on Sunstrider Isle | Starting zone |
 | Shalandis | /ʃɑˈlɑndɪs/ | Island off Ghostlands coast | Ghostlands zone |
 | Shan'dor | /ʃɑnˈdɔr/ | Runestone in Eversong Woods | Eversong zone |
+| Falithas | /ˈfɑlɪθɑs/ | Runestone in Eversong Woods | Eversong zone |
 
 ### Sunwell Gates
 
@@ -245,7 +250,7 @@ Phrases attested in-game or in official sources without confirmed Blizzard trans
 | Medivh | /ˈmɛdɪv/ | Keeper of Secrets | Title / proper name; name etymology from RPG sources: "Medi" = secret, "vh" = keeper *[uncertain]* |
 | Dath'Remar | /dɑθˈrɛmɑr/ | (Proper name) | First of the Highborne / High Elves |
 | Thalas'darah | /ˈθɑlɑsˌdɑrɑ/ | *Possibly "Silvermoon"* | *Uncertain; possibly "Silvermoon" but not firmly attested* |
-| Sunstrider | /ˈsʌnˌstrɪdər/ | — | English translation of dynasty name; Thalassian form unknown |
+| Sunstrider | /ˈsʌnˌstrɪdər/ | He who walks the day | Warcraft Encyclopedia; family name of the high elves' royal bloodline |
 | Silvermoon | /—/ | — | English name for capital; Thalassian native name not attested in canon |
 
 ## Morpheme Breakdown of Key Compounds

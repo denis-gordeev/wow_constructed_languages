@@ -391,6 +391,10 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | iggksh | oppose | *H'iwn iggksh Phquathi* = "All who oppose the Destroyer" | **Moderate** |
 | wah | wing | *Shuul'wah* = "Death-wing" | **Moderate** |
 | erh | choke | *erh'ongg* = "choke [for eternity]"; root of *erh'ongg* | **Low–Moderate** |
+| fash | betrayal | *Uhn'agh Fash* = "the Darkest Betrayal" (dagger name) | **Low–Moderate** |
+| gul'kafh | gaze | *Gul'kafh an'shel* = "Gaze into the void"; *Gul'kafh an'qov N'Zoth* = "Gaze into the heart of N'Zoth" | **Moderate–High** |
+| tek | skull(s) | *sk'tek* = "your skulls"; *Sk'tek agth nuq* = "Your skulls shall adorn" | **Moderate** |
+| uuyat | agony | *sk'uuyat* = "your agony"; *Sk'uuyat guulphg hoq* = "Your agony sustains me" | **Moderate** |
 | shel | void | *an'shel* = "into the void" | **Low–Moderate** |
 | shg | outside | *shg'fhn* = "outside the cycle" | **Low–Moderate** |
 | uq | power | *Uq naggwa* = "Power unrelenting" | **Low–Moderate** |

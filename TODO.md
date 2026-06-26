@@ -75,11 +75,34 @@
 
 - [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
 - [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
-- [ ] Investigate Thalassian *-da* kinship suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 1; three hypotheses proposed (parent/collateral marker, baby-talk, nurturer/feminine relational); Low–Moderate confidence for parent/collateral analysis; *Shal'* in *Shal'na* possibly = Shalassian *Shal* (triple cognate); requires more kinship terms for confirmation
+- [ ] Investigate Thalassian *-da* kinship suffix — **SIGNIFICANTLY UPDATED**: Darnassian cognates now confirmed (*An'da*/*Ann'da*, *Min'da*/*Minn'da*, *Shal'nar*/*Shal'na*); *-da*/*-do* register alternation identified in Darnassian (informal vs. formal); Low–Moderate confidence for register analysis; see Darnassian grammar.md Investigation 2
 - [ ] Investigate Thalassian *Selama* battle cry variants — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; three hypotheses proposed (template pattern, variable morpheme boundary, Blizzard inconsistency); Moderate confidence for template pattern; *amor'anore* may be phonological blend of *ashal'anore* and *am'oronor*
 - [ ] Cross-reference new Thalassian data with Darnassian and elven-comparative.html — **DONE**: Added Sets 9–11 and Correspondence 5 to elven-comparative.html; *Shindu*/*Sindu* cognate proposed (Low–Moderate confidence) with /s/→/ʃ/ palatalization; *Thas*/*Thalas* root connection proposed (Low confidence); *arkhana* likely Thalassian innovation (Very Low cognate confidence); updated comparative wordlist and reconstruction tables
-- [ ] Verify *Shindu*/*Sindu* cognate by searching for additional /s/→/ʃ/ correspondence pairs in Thalassian vs. Darnassian — requires more cognate data
-- [ ] Investigate whether *Shal'* in *Shal'na* (aunt) is etymologically connected to Shalassian *Shal* (twilight/arcane) — would be first non-ethnonym triple elven cognate
+- [ ] Verify *Shindu*/*Sindu* cognate by searching for additional /s/→/ʃ/ correspondence pairs in Thalassian vs. Darnassian — requires more cognate data; *Shal'nar*/*Shal'na* pair does not involve /s/→/ʃ/ but confirms cognate methodology
+- [ ] Investigate whether *Shal'* in *Shal'na* (aunt) is etymologically connected to Shalassian *Shal* (twilight/arcane) — **SIGNIFICANTLY UPDATED**: Darnassian *Shal'nar* = "aunt" now confirmed, making *Shal'* a confirmed Darnassian–Thalassian cognate pair; triple cognate with Shalassian *Shal* remains speculative; semantic shift "twilight/shadow" → "aunt" would require kinship metaphor
+
+## Completed This Round (2026-06-26, Round 2)
+
+- [x] Massive Darnassian vocabulary expansion from warcraft.wiki.gg: added 28 confirmed translations from wiki primer
+- [x] Add Darnassian kinship terms: *An'da* (papa/father), *Min'da* (mama), *Minn'do* (mother, formal), *Shal'nar* (aunt) — first confirmed Darnassian–Thalassian kinship cognate pairs
+- [x] Add Darnassian confirmed proper names: *Amirdrassil* (Crown of Harmony), *Andrassil* (Crown of the Snow), *Vordrassil* (Broken Crown), *Al'anath* (Frostsoul), *Alara'shinu* (finding beauty in imperfection), *Alash'anir* (venom and storm), *Alor'el* (Lover's Leaf), *Bel'ameth* (arms of the Goddess), *Ellemayne* (Reaver), *Elun'dris* (Eye of Elune), *Irana'ethil* (Shield against the Shadow), *Jai'alator* (Noble blade of Elune), *Lathar'Lazal* (Seat of the Sky), *Nar'valas* (View of Unending Stars), *Sunstrider* (He who walks the day)
+- [x] Add Darnassian confirmed nouns: *Lura* (sea), *Finel* (the last), *Denalore* (oblivion/devastation), *Dris* (eye), *Dwarf* (derogatory for earthen), *Amir* (harmony), *And* (snow), *Vor* (broken)
+- [x] Add Darnassian confirmed verbs/particles: *Aria* (we face — first confirmed verb conjugation), *Bessae* (from the)
+- [x] Add Darnassian confirmed phrases: *Shaha lor'ma* (thank you), *Shu dalas na* (heavy are our hearts), *Shanna melor'ne adala fal* (the truth is a guiding light)
+- [x] Add 30+ Darnassian untranslated phrases from wiki (Aludala, Anu'dora, Ash'al theradas, ASH ROHK ILISAR, Sael'ah, etc.)
+- [x] Add Darnassian titles: *Ama'shan* (Honor of the Goddess), *Nahlen'do* (Master of the Fang)
+- [x] Add Darnassian pejorative: *T'lara* (warrior armed only with words)
+- [x] Resolve World Tree naming pattern: *Andrassil* = Crown of the Snow, *Amirdrassil* = Crown of Harmony, *Vordrassil* = Broken Crown — five *-drassil* translations now confirmed
+- [x] Confirm *Alah* as genuine Darnassian (not just Thalassian borrowing) by untranslated phrase *Thandae-alah*
+- [x] Add 4 Open Linguistic Investigations to Darnassian grammar.md: (1) Darnassian–Thalassian kinship cognates, (2) *-da*/*-do* register alternation, (3) World Tree naming pattern resolved, (4) first confirmed verb conjugation
+- [x] Update Darnassian grammar.md World Tree compounding section with 5 confirmed translations
+- [x] Update Thalassian grammar.md Investigation 1: Darnassian kinship cognates confirmed (*An'da/Ann'da*, *Min'da/Minn'da*, *Shal'nar/Shal'na*); *-da*/*-do* register alternation identified
+- [x] Update Thalassian grammar.md: *Shal'na/Shal'nar* confirmed as Darnassian–Thalassian cognate pair; triple cognate with Shalassian *Shal* remains speculative
+- [x] Update Thalassian vocabulary.md: *Sunstrider* = "He who walks the day" confirmed; *Falithas* runestone added; 3 untranslated phrases added; *Anar'alah* standalone entry added
+- [x] Add Zandali vocabulary: *Juju* (unconfirmed), *Mojo* (unconfirmed), *E'chuta* (speculative insult), *Nazwatha* (speculative place name)
+- [x] Add Shath'Yar speculative dictionary entries: *fash* (betrayal), *gul'kafh* (gaze), *tek* (skull), *uuyat* (agony)
+- [x] Update elven-comparative.html: Darnassian kinship cognate table, updated analysis text, updated comparative wordlist with Darnassian kinship data
+- [x] Sync all 6 modified HTML files with updated .md counterparts (darnassian vocabulary/grammar, thalassian vocabulary/grammar, zandali vocabulary, shath-yar vocabulary)
 
 ## Completed This Round (2026-06-26)
 
