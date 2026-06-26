@@ -139,6 +139,8 @@ Phrases attested in Warcraft III voice lines, WoW RPG sourcebooks, and novelizat
 | Lathar'Lazal | /ˌlɑθɑrˈlɑzɑl/ | Seat of the Sky | Exploring Azeroth: Kalimdor |
 | Nar'valas | /nɑrˈvɑlɑs/ | View of Unending Stars | Exploring Azeroth: Kalimdor |
 | Sunstrider | /ˈsʌnˌstrɪdər/ | He who walks the day | Warcraft Encyclopedia; also attested as Thalassian — shared elven dynasty name |
+| Belor'relos | /ˌbɛlɔrˈrɛlɔs/ | The Suncaller | Trinket from Tindral Sageswift (Amirdrassil raid); *Belor-* likely from *belore* (sun) + *-relos* (caller); parallels Thalassian *Belore'dorei* (Child of the Sun); also appears in phrase *Enae elen'relos!* (flavor text) |
+| Anu'relos | /ˌɑnuˈrɛlɔs/ | (Fiery somnowl) | Pet/mount name; *Anu'* prefix parallels *Anu'dorini*, *Anu'dora*; *-relos* element shared with *Belor'relos*, suggesting *-relos* = "caller" or "fire/light" |
 
 ## Place Names
 

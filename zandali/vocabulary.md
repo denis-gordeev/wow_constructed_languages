@@ -555,7 +555,10 @@ Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Z
 |------|---------|-------|
 | Nek'zali | Raid boss "the Soulcoiler" | Apostrophe-marked: *Nek'* + *-zali*. The *Nek'* element parallels *Nek'mani* (Bloodscalp pool) and *-nekan* (verb suffix "us") |
 | Vashnik | Raid boss "the Malignant" | No apostrophe; *-nik* ending unusual for Zandali — may reflect non-Zandali (Shath'Yar/Aqir) origin given the Venomous Abyss's Old God associations |
-| Sszorak | Raid boss | No apostrophe; geminate *-sz-* onset; *-orak* ending. The initial /s/ cluster is atypical for Zandali, possibly reflecting serpent/serpentine phonology |
+| Sszorak | Raid boss | No apostrophe; geminate *-sz-* onset; *-orak* ending. The initial /s/ cluster is atypical for Zandali, possibly reflecting serpent/serpentine phonology. "Born of Ula'tek's venom" — a brutal instrument of her vengeance |
+| Vexhul | Raid boss ("The Twin Fangs") | No apostrophe. Twin Fang boss alongside Ithraz; "first to rise from [Ula'tek's] blood"; monstrous jaws and mastery of venom |
+| Ithraz | Raid boss ("The Twin Fangs") | No apostrophe. Twin Fang boss alongside Vexhul; *-raz* ending may connect to *Raza* ("is near") or be coincidental. Described as brooding "beneath a roiling sea of venom" |
+| Mor'zahi | Tomb namesake (subzone: Mor'zahi's Tomb) | Apostrophe-marked: *Mor'* + *-zahi*. Only attested in the Venomous Abyss subzone name; meaning unknown |
 
 #### New NPC Names (Patch 12.1.0)
 

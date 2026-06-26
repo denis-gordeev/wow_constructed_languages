@@ -70,6 +70,7 @@
 - [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data — **NOT YET AVAILABLE**: Patch 12.1.5 scheduled for Autumn 2026; no PTR data yet
+- [ ] Investigate Darnassian *-relos* agentive morpheme — two attestations in *Belor'relos* ("The Suncaller") and *Anu'relos* (fiery somnowl); Low–Moderate confidence for *-relos* = "caller" (see grammar.md Investigation 5); requires additional *-relos* compounds for confirmation
 
 ## Next Actions
 
@@ -83,6 +84,17 @@
 - [ ] Investigate additional elven cognate candidates from new analysis — Sets 15–18 (*falah/fallah* balance/breaking, *dal* fortune/goodness, *shan'* honored, *finel* the last) identified but require more data for confirmation; Low–Moderate confidence for all
 - [ ] Investigate nerubian *tak-* element — five attestations in combat phrases and one place name (*Tak-Rethan*); Low–Moderate confidence for genuine morpheme; may mean "strike/attack" or be a combat imperative
 - [ ] Research nerubian *Shabtir bakh sokhen* syntax — first confirmed translation provides SOV/SVO evidence; needs additional translated phrases to determine word order with confidence
+
+## Completed This Round (2026-06-26, Round 4)
+
+- [x] Add Darnassian proper names: *Belor'relos* ("The Suncaller", trinket from Tindral Sageswift) and *Anu'relos* (fiery somnowl) — from warcraft.wiki.gg; both share *-relos* element
+- [x] Add Darnassian Investigation 5: *-relos* agentive morpheme analysis — two hypotheses (*-relos* = "caller" vs. *-relos* = "fire/light"); Low–Moderate confidence for agentive reading
+- [x] Update Darnassian attestation summary: personal names/titles 5+ → 7+; added "Open linguistic investigations" row (5 items)
+- [x] Add Venomous Abyss raid boss names: *Vexhul* and *Ithraz* (The Twin Fangs — first to rise from Ula'tek's blood), *Mor'zahi* (tomb namesake); update Sszorak entry with "born of Ula'tek's venom" lore
+- [x] Add "The Bargained Crown" lore: Zul'jan transforms into snakeoid beast; Malacrass seeks to harness the new vessel
+- [x] Audit warcraft.wiki.gg for new language data: Zandali, Thalassian, Darnassian, Shath'Yar wiki pages all checked — all data already in repository except the two Darnassian entries
+- [x] Sync darnassian/vocabulary.html, grammar.html, description.html with updated .md counterparts
+- [x] Sync zandali/vocabulary.html, description.html with updated .md counterparts
 
 ## Completed This Round (2026-06-26, Round 3)
 

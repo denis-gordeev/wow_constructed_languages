@@ -126,9 +126,10 @@ The in-game script on Darnassian signage does not consistently map to romanized 
 | Confirmed morphemes | 8+ | *Kal* (star), *dor/drassil* (crown), *Tel* (earth), *Nor* (heavens), *Zin* (glory), *dorei* (children of), *Quel* (noble), *shan* (honored/learner) |
 | Inferred morphemes | 4+ | *Andu/Tor* (imperative), *Endu* (negative), *ilisar* (enemies), *adore* (bless) |
 | Attested place names | 9 | *Darnassus*, *Teldrassil*, *Nordrassil*, *Vordrassil*, *Andrassil*, *Shaladrassil*, *Zin-Azshari*, *Suramar*, *Nazjatar* |
-| Attested personal names/titles | 5+ | *Kaldorei*, *Quel'dorei*, *Shan'do*, *Thero'shan*, *Ban'dinoriel* |
+| Attested personal names/titles | 7+ | *Kaldorei*, *Quel'dorei*, *Shan'do*, *Thero'shan*, *Ban'dinoriel*, **Belor'relos** (The Suncaller), **Anu'relos** (fiery somnowl) |
 | Uncertain words | 4 | *Xil'varu*, *Ma'thor*, *Asha'man*, *Alah* |
 | Attested sentences with full glosses | 0 | No Darnassian sentences have confirmed word-by-word translations |
+| Open linguistic investigations | 5 | Kinship cognates, *-da*/*-do* register alternation, World Tree naming, first verb conjugation, **-relos agentive morpheme** |
 
 ## References
 

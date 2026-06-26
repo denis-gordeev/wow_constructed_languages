@@ -309,3 +309,22 @@ The morpheme *drassil* = "crown" is now confirmed by five independent attestatio
 This also aligns with the *-dorei* ethnonym pattern, where *-ei* marks a plural/collective, and *-a* could be a verbal plural marker.
 
 **Assessment**: Low confidence. One attestation is insufficient to confirm the paradigm, but this is the most plausible analysis given the data.
+
+### Investigation 5: The *-relos* Element in *Belor'relos* and *Anu'relos*
+
+Two newly documented proper names share the element *-relos*:
+
+| Name | Translation | Analysis |
+|------|-------------|----------|
+| Belor'relos | The Suncaller | *Belor-* (from *belore* "sun") + *-relos* |
+| Anu'relos | (Fiery somnowl) | *Anu'* (definite article/subject marker) + *-relos* |
+
+**Hypothesis 1: *-relos* = "caller"**
+
+If *Belor'relos* = "The Suncaller," then *-relos* most naturally glosses as "caller" or "summoner." *Belor-* is clearly related to *belore* ("the sun," confirmed in Thalassian). The compound would be *belor* (sun) + *-relos* (caller) = "suncaller." This would make *Anu'relos* = "the caller" or "the one who calls" — a fitting name for a somnowl (an owl-like creature associated with calling/crying in the night).
+
+**Hypothesis 2: *-relos* = "fire/light"**
+
+An alternative reading treats *-relos* as a light/fire element, making *Belor'relos* = "sun-fire" or "sun-light" (a tautological compound emphasizing solar radiance) and *Anu'relos* = "the fiery one." This is less satisfying for "suncaller" but aligns with the somnowl's fiery nature.
+
+**Assessment**: Low–Moderate confidence for Hypothesis 1. The English gloss "The Suncaller" strongly supports *-relos* = "caller," making this the first attested Darnassian agentive morpheme. However, the gloss may be a localization rather than a literal translation, and two attestations provide limited evidence.
