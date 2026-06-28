@@ -458,7 +458,7 @@ A potential suffix pattern emerges among the monomorphemic names:
 | *-a* | *Torga, Pa'ku* (second element) | Loa classifier or spirit marker |
 | *-an* | *Rezan* | Possibly related to *Aman(i)* tribal root? |
 | *-i* | *Jani* | Diminutive, familiar register, or spirit classifier |
-| *-da* | *Akunda* | Uncertain; possibly place-related |
+| *-da* | *Fa'da* (Father), *Ma'da* (Mother), *Akunda* | Kinship suffix (in *Fa'da*, *Ma'da*); possibly place-related in *Akunda*; **cross-family cognate with Darnassian/Thalassian *-da*** (see Investigation 7) |
 | *-iss* | *Sethraliss* | Uncertain; possibly adjectival or aspect marker |
 
 None of these suffixes is confirmed. The *-a* ending is the most frequent and may simply reflect a phonological preference for open syllables in Loa names rather than a genuine morpheme.
@@ -843,6 +843,50 @@ If *noa* is genuinely zero-derived, Zandali may have a systematic pattern of nou
 *Ban* is not a perfect parallel (the noun → auxiliary pathway involves grammaticalization, not simple zero-derivation), but it demonstrates that Zandali permits the same phonological form to serve multiple grammatical functions.
 
 **Confidence: Moderate–High** for *noa* exhibiting zero-derivation between noun and verb. The syntactic evidence from *De nazdo noa* is strong, and zero-derivation is typologically consistent with Zandali's overall grammatical profile.
+
+### Investigation 6: *-da* Kinship Suffix — Cross-Family Cognate with Elven Languages
+
+Zandali *Fa'da* = "Father" and *Ma'da* = "Mother" share the *-da* suffix with Darnassian and Thalassian kinship terms, making *-da* potentially the **first confirmed grammatical morpheme shared between the troll and elven language families**.
+
+#### Evidence Table
+
+| Language | Form | Translation | Source |
+|----------|------|-------------|--------|
+| Zandali | *Fa'da* | Father | Children's Week quest |
+| Zandali | *Ma'da* | Mother | Children's Week quest; also honorific for females |
+| Darnassian | *An'da* | Papa, Father | Seeds of Faith |
+| Darnassian | *Min'da* | Mama | Seeds of Faith |
+| Darnassian | *Minn'do* | Mother (formal) | An Urgent Request |
+| Thalassian | *Ann'da* | Papa, Father | Descent (novel) |
+| Thalassian | *Minn'da* | Mama, Mother | Descent (novel) |
+
+#### Analysis
+
+All three languages form kinship terms with the pattern **[initial element] + *-da***:
+
+| | "Father" | "Mother" | Suffix |
+|---|----------|----------|--------|
+| Zandali | *Fa'* + *-da* | *Ma'* + *-da* | *-da* |
+| Darnassian | *An'* + *-da* | *Min'* + *-da* | *-da* / *-do* (formal) |
+| Thalassian | *Ann'* + *-da* | *Minn'* + *-da* | *-da* |
+
+The *-da* suffix is phonologically identical across all three languages. The initial elements differ:
+
+1. **"Father" prefix**: *Fa'* (Zandali) vs. *An'*/*Ann'* (Darnassian/Thalassian) — different roots, possibly reflecting different compounding strategies
+2. **"Mother" prefix**: *Ma'* (Zandali) vs. *Min'*/*Minn'* (Darnassian/Thalassian) — *Ma'* could be a reduced form of *\*Min'* via nasal coda loss, or *\*Min'* could be an expanded form of *\*Ma'* via nasal epenthesis
+
+#### Implications
+
+If *-da* is a shared Proto-Troll-Elven morpheme (inherited from the common ancestor of trolls and night elves), this would:
+
+1. Be the **first confirmed grammatical morpheme** shared across the troll-elven language divide
+2. Provide **linguistic evidence** for the dark troll → night elf origin (confirmed biologically by *The Art of Midnight*, pg. 125)
+3. Predict additional shared morphemes at deep time depths
+4. Establish the first regular sound correspondence between the families: Zandali *Ma'* ↔ Darnassian *Min'*
+
+The strongest argument for shared inheritance (rather than independent baby-talk convergence) is the **shared compounding pattern** ([prefix] + *-da*), which is more grammatically specific than universal nursery-word formation would predict.
+
+**Confidence: Low–Moderate** for *-da* as a shared Proto-Troll-Elven morpheme. Universal baby-talk tendency makes it difficult to distinguish shared inheritance from convergence. See Darnassian grammar.md Investigation 6 for the full cross-family analysis with all hypotheses.
 
 ## Gaps and Uncertainties
 

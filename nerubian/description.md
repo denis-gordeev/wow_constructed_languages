@@ -87,7 +87,7 @@ Unlike the Titan-forged language family (which has confirmed genetic relationshi
 | Attested personal names | ~16+ | *Anub'arak*, *Anub'rekhan*, *Anub'azal*, *Anub'arash*, *Ansurek*, *Arak'nai*, *Nizrek*, *Ulgrax*, *Ovi'nax*, *Ky'veza*, *Krix'vizk*, *Rasha'nan*, *Y'tekhi*, *Takazj*, *Krik'thir*, *Ix'zek* |
 | Attested place names | ~8+ | *Azjol-Nerub*, *Ahn'kahet*, *Azj-Kahet*, *Nerub-ar Palace*, *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz*, *Tak-Rethan* |
 | Confirmed morphemes | 2 | *Anub-* (title/warrior prefix), *-kahet* (kingdom/realm suffix) |
-| Inferred morphemes | 6+ | *Azj-* (deep/domain prefix), *-ar* (brood/collective suffix), *-rek*/*-urek* (title suffix), *-nax* (role suffix), *Rak-* (toponymic prefix), *tak-* (combat/imperative element) |
+| Inferred morphemes | 6+ | *Azj-* (deep/domain prefix), *-ar* (brood/collective suffix), *-rek*/*-urek* (title suffix), *-nax* (role suffix), *Rak-* (toponymic prefix), *tak-* (combat/imperative element, 5–6 attestations including possible scroll text *tikk*) |
 | Attested texts | 1 | Nerubian scroll: "Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k." |
 | Confirmed translated phrases | 1 | *Shabtir bakh sokhen* = "The servant bows to the master's authority" |
 | Untranslated combat/greeting phrases | 9 | *Aza cha'tak!*, *Elix tak'na*, *Igitith ik Ansureka!*, *Iki'tash izal*, *Kahet iz korvan*, *Tak'izik!*, *Tak'na*, *Tak kat'taj*, *Tak'rasha na!* |

@@ -129,6 +129,18 @@ A single attested nerubian-language text survives — writing on a nerubian scro
 | *Tak kat'taj* | Combat | Double apostrophe: *Tak-* + *kat'* + *-taj* |
 | *Tak'rasha na!* | Combat | *Tak-* + *-rasha* + *na*; *-rasha* parallels *Rasha'nan* |
 
+### Untranslated Combat Phrases (Pre-TWW NPCs)
+
+| Phrase | Context | Notes |
+|--------|---------|-------|
+| *Auum na-l ak-k-k-k, isshhh.* | Anub'arak submerging and summoning nerubians | Azjol-Nerub dungeon and Trial of the Crusader. Contains *na-l* (parallels scroll text *Na-l*); geminate *-k-k-k-* parallels scroll text *a-k-k-k*; *isshhh* is sibilant-heavy like scroll text |
+| *F-lakkh shir!* | Anub'arak killing a player | Trial of the Crusader / Heroes of the Storm. *shir* parallels scroll text *Kka shir* — if *shir* is a recurring word, it may be a verb or particle |
+| *Hush-tak Hee-tah!* | Krik'thir the Gatewatcher killing a player | Azjol-Nerub dungeon. Contains *-tak* element (parallels Kaheti *Tak'izik*, *Tak'na*, etc.) |
+| *Shhhad ak kereeesshh chak-k-k!* | Elder Nadox summoning nerubians | Ahn'kahet dungeon. Extremely sibilant; *chak-k-k* parallels scroll text gemination pattern *a-k-k-k* |
+| *Uunak-hissss tik-k-k-k-k!* | Anub'arak using Locust Swarm | Azjol-Nerub dungeon. *tik* parallels scroll text *tikk-a-shisss*; geminate *-k-k-k-k* continues the gemination pattern |
+
+The five pre-TWW combat phrases share several features with the nerubian scroll text: recurring *shir*, *tak/tik*, geminate *-k-* sequences, and heavy sibilant density. The *-tak* element in *Hush-tak* confirms that *tak* appears in pre-TWW nerubian speech as well as TWW Kaheti combat phrases, strengthening the case for *tak* as a genuine morpheme.
+
 ### Analysis of the Nerubian Scroll Text
 
 This is the **only attested nerubian-language sentence** (or sequence of phrases). Key observations:
@@ -181,8 +193,8 @@ This parallels the attested Tol'vir phrases (*Kadesh* = "Swing", *Osadi* = "Stri
 | *shabtir* | "servant" | *Shabtir bakh sokhen* ("The servant bows to the master's authority") | **Moderate** — first confirmed translation provides direct evidence; *shabtir* occupies the subject position in a sentence meaning "The servant bows..." |
 | *sokhen* | "master / authority" | *Shabtir bakh sokhen* ("The servant bows to the master's authority") | **Moderate** — first confirmed translation; *sokhen* appears in the object/oblique position, likely meaning "master" or "authority" |
 | *bakh* | "bows to" (verb) | *Shabtir bakh sokhen* ("The servant bows to the master's authority") | **Moderate** — occupies the verbal position between subject and object; may mean "bows" or "submits to" |
-| *tak-* | Combat/incitement prefix or verb | *Tak'izik*, *Tak'na*, *Tak kat'taj*, *Tak'rasha na!*, *Aza'tak* | **Low–Moderate** — five attestations in combat contexts; may mean "strike/attack" or be a combat imperative |
-| *Kahet* | "kingdom" (standalone form) | *Kahet iz korvan* (spoken by Kaheti NPCs) | **Low–Moderate** — if *Kahet* in this phrase is the same morpheme as *-kahet* in *Azj-Kahet*, this would be its first attestation as an independent word rather than a bound suffix |
+| *tak-* | Combat/incitement prefix or verb | *Tak'izik*, *Tak'na*, *Tak kat'taj*, *Tak'rasha na!*, *Aza'tak*, possibly *tikk* in scroll text | **Low–Moderate** — 5–6 attestations in combat/ritual contexts; may mean "strike/attack" or be a combat imperative; scroll text *tikk-a-shisss* may be geminated/register variant of *tak* |
+| *Kahet* | "kingdom" (standalone form) | *Kahet iz korvan* (spoken by Kaheti NPCs) | **Low–Moderate** — if *Kahet* in this phrase is the same morpheme as *-kahet* in *Azj-Kahet*, this would be its first attestation as an independent word rather than a bound suffix; *iz* may be a copula and *korvan* the predicate — potentially the second nerubian sentence with partial semantic content |
 | -azj | Agentive or locative suffix (mirrors *Azj-* prefix) | *Takazj* | **Moderate** — phonological identity with *Azj-* confirmed by official IPA; single attestation as suffix |
 | -arash | Possibly "lord/ruler" (parallels *-arak* with /ʃ/) | *Anub'arash* (Scarab Lord) | **Very Low** — single attestation; parallels *-arak* in *Anub'arak* |
 | -akan | Uncertain | *Vul'akan* | **Very Low** — single attestation; parallels *-et'kan* in *Anub'et'kan* |
@@ -193,7 +205,7 @@ This parallels the attested Tol'vir phrases (*Kadesh* = "Swing", *Osadi* = "Stri
 | -nan | Uncertain | *Rasha'nan* | **Very Low** — single attestation |
 | -veza | Uncertain | *Ky'veza* | **Very Low** — single attestation; Ky'veza is actually an ethereal, so *-veza* may be an ethereal morpheme, not nerubian |
 | -venth | Uncertain | *Xanventh* | **Very Low** — single attestation |
-| Ix- / Y- | Possibly "chosen" or "first" (if Old God substrate) | *Ix'zek*, *Y'tekhi* | **Very Low** — initial apostrophe forms may reflect Shath'Yar influence |
+| Ix- / Y- | Possibly "chosen" or "first" (if Old God substrate) | *Ix'zek*, *Ix'lar*, *Y'tekhi*, *A'zak* | **Very Low** — initial apostrophe forms may reflect Shath'Yar substrate; *Y'tekhi* underwent Old Blood ascension (Old God transformation) |
 
 ## 5. The *Azj-* / *Nazj-* Connection
 

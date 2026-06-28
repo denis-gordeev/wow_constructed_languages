@@ -283,10 +283,10 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Ban | Will (noun); will/shall (auxiliary) | Moldy Diary | Dual function: noun "will/determination" and future auxiliary verb. See also Modal Verbs section |
 | De | The | Moldy Diary | Confirmed definite article; extensively attested in Midnight dialogue and Moldy Diary chant (*De nazdo*, *De alai*) |
 | Den | He | Moldy Diary | Also used as verb suffix *-den* = "him" |
-| Fa'da | Father | Children's Week quest | — |
+| Fa'da | Father | Children's Week quest | *Fa'* + *-da* (kinship suffix); **cross-family cognate with Darnassian *An'da* and Thalassian *Ann'da*** — see grammar.md Investigation 6 |
 | Hida | Must | Moldy Diary | Modal verb expressing obligation. See also Modal Verbs section |
 | Ko | We | Hastily-Scribbled Note, Scrap of Singed Paper | — |
-| Ma'da | Mother | Children's Week quest, Nazmir Visitor's Guide | Also used as a term of respect by male blood trolls for females |
+| Ma'da | Mother | Children's Week quest, Nazmir Visitor's Guide | Also used as a term of respect by male blood trolls for females; *Ma'* + *-da* (kinship suffix); **cross-family cognate with Darnassian *Min'da* and Thalassian *Minn'da*** — see grammar.md Investigation 6 |
 | Mo | My (possessive) | Hastily-Scribbled Note, Scrap of Singed Paper | In *mo keke* = "my child". Reduced form of *Mon* (I/me) |
 | Moi | We (sentence-initial) | Moldy Diary | — |
 | Midi | We (sentence-medial) | Moldy Diary | — |

@@ -70,20 +70,35 @@
 - [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data — **NOT YET AVAILABLE**: Patch 12.1.5 scheduled for Autumn 2026; no PTR data yet
-- [ ] Investigate Darnassian *-relos* agentive morpheme — two attestations in *Belor'relos* ("The Suncaller") and *Anu'relos* (fiery somnowl); Low–Moderate confidence for *-relos* = "caller" (see grammar.md Investigation 5); requires additional *-relos* compounds for confirmation
+- [x] Investigate Darnassian *-relos* agentive morpheme — **SIGNIFICANTLY UPDATED**: Third attestation from *elen'relos* (Belor'relos trinket flavor text); confidence upgraded from Low–Moderate to Moderate; agentive suffix comparison table added; double /r/ gemination observation added; see Darnassian grammar.md Investigation 5
 
 ## Next Actions
 
-- [ ] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
-- [ ] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
-- [ ] Investigate Thalassian *-da* kinship suffix — **SIGNIFICANTLY UPDATED**: Darnassian cognates now confirmed (*An'da*/*Ann'da*, *Min'da*/*Minn'da*, *Shal'nar*/*Shal'na*); *-da*/*-do* register alternation identified in Darnassian (informal vs. formal); Low–Moderate confidence for register analysis; see Darnassian grammar.md Investigation 2
-- [ ] Investigate Thalassian *Selama* battle cry variants — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; three hypotheses proposed (template pattern, variable morpheme boundary, Blizzard inconsistency); Moderate confidence for template pattern; *amor'anore* may be phonological blend of *ashal'anore* and *am'oronor*
+- [x] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
+- [x] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
+- [x] Investigate Thalassian *-da* kinship suffix — **SIGNIFICANTLY UPDATED**: Darnassian cognates now confirmed (*An'da*/*Ann'da*, *Min'da*/*Minn'da*, *Shal'nar*/*Shal'na*); *-da*/*-do* register alternation identified in Darnassian (informal vs. formal); 2×2 kinship paradigm hypothesis added (*-da*/*-do* × *-na*/*-nar*); Low–Moderate confidence for register analysis; see Darnassian grammar.md Investigation 2
+- [x] Investigate Thalassian *Selama* battle cry variants — **SIGNIFICANTLY UPDATED**: Analysis added to grammar.md Investigation 2; three hypotheses proposed (template pattern, variable morpheme boundary, Blizzard inconsistency); Moderate confidence for template pattern; *amor'anore* may be phonological blend of *ashal'anore* and *am'oronor*; *Bin dorei am'ovel* analyzed as potential second attestation of *am'* pronoun (Low–Moderate confidence)
 - [x] Cross-reference new Thalassian data with Darnassian and elven-comparative.html — **DONE**: Added Sets 9–11 and Correspondence 5 to elven-comparative.html; *Shindu*/*Sindu* cognate proposed (Low–Moderate confidence) with /s/→/ʃ/ palatalization; *Thas*/*Thalas* root connection proposed (Low confidence); *arkhana* likely Thalassian innovation (Very Low cognate confidence); updated comparative wordlist and reconstruction tables — **UPDATED Round 3**: Added Sets 12–14 (*anu* definite article, *tal/talah* death, *Elu-* Elune root in Thalassian) and Correspondences 6–7 (geminate simplification, *-ah* suffix); *Elun* now attested in 3 languages; *Anu* reclassified as shared Darnassian–Thalassian grammatical morpheme
 - [ ] Verify *Shindu*/*Sindu* cognate by searching for additional /s/→/ʃ/ correspondence pairs in Thalassian vs. Darnassian — requires more cognate data; *Shal'nar*/*Shal'na* pair does not involve /s/→/ʃ/ but confirms cognate methodology
 - [ ] Investigate whether *Shal'* in *Shal'na* (aunt) is etymologically connected to Shalassian *Shal* (twilight/arcane) — **SIGNIFICANTLY UPDATED**: Darnassian *Shal'nar* = "aunt" now confirmed, making *Shal'* a confirmed Darnassian–Thalassian cognate pair; triple cognate with Shalassian *Shal* remains speculative; semantic shift "twilight/shadow" → "aunt" would require kinship metaphor
 - [ ] Investigate additional elven cognate candidates from new analysis — Sets 15–18 (*falah/fallah* balance/breaking, *dal* fortune/goodness, *shan'* honored, *finel* the last) identified but require more data for confirmation; Low–Moderate confidence for all
-- [ ] Investigate nerubian *tak-* element — five attestations in combat phrases and one place name (*Tak-Rethan*); Low–Moderate confidence for genuine morpheme; may mean "strike/attack" or be a combat imperative
-- [ ] Research nerubian *Shabtir bakh sokhen* syntax — first confirmed translation provides SOV/SVO evidence; needs additional translated phrases to determine word order with confidence
+- [x] Investigate nerubian *tak-* element — **SIGNIFICANTLY UPDATED**: Scroll text *tikk* identified as potential geminated/register variant of *tak*, providing sixth attestation bridging combat and ritual contexts; *tak-*/**-tak* dual distribution (prefix and suffix) parallels *Azj-*/**-azj*; Low–Moderate confidence upgraded; see nerubian grammar.md
+- [x] Research nerubian *Shabtir bakh sokhen* syntax — **SIGNIFICANTLY UPDATED**: *Kahet iz korvan* analyzed as second nerubian sentence with partial semantic content; three syntactic analyses proposed (Subject-Copula-Predicate, Topic-Marker-Statement, Vocative-Preposition-Location); word order evidence consistent with subject-initial; see nerubian grammar.md
+- [ ] Investigate *-qiraj* decomposition as *-qir* + *-azj* — analysis added to alien-comparative.html; if confirmed, *Azj-*/**-azj* would be the first Aqir morpheme with reflexes in all three descendant languages (nerubian, qiraji, naga); Low–Moderate confidence; requires additional data for confirmation
+- [ ] Test *N'-* prefix as fourth Aqir substrate morpheme — analysis added to alien-comparative.html; *N'-* (Shath'Yar "void/absence") may have reflexes in naga *Nazj-* (*N-* + *Azj-*) and nerubian *Nezar'Azret* (*Ne-* + *zar*); Very Low–Low confidence; Egyptian design aesthetic confound for *Nezar-*
+- [ ] Map initial-apostrophe nerubian names by context — four names (*Y'tekhi*, *A'zak*, *Ix'lar*, *Ix'zek*) may reflect Shath'Yar substrate; *Y'tekhi* underwent Old Blood transformation; analysis added to nerubian grammar.md; Very Low confidence; testable with new data
+- [ ] Investigate Zandali *Ma'* ↔ Darnassian *Min'* sound correspondence — if *-da* is a shared morpheme, the "mother" prefix may show regular sound change (*Min'* → *Ma'* via nasal coda loss, or *Ma'* → *Min'* via nasal epenthesis); Low confidence; requires additional cognate pairs to confirm
+
+## Completed This Round (2026-06-28, Round 5)
+
+- [x] Audit warcraft.wiki.gg for new language data: checked Darnassian, Thalassian, Zandali, and nerubian wiki pages; most data already in repository
+- [x] Add 5 new nerubian untranslated combat phrases from pre-TWW NPCs: *Auum na-l ak-k-k-k, isshhh.* (Anub'arak), *F-lakkh shir!* (Anub'arak), *Hush-tak Hee-tah!* (Krik'thir), *Shhhad ak kereeesshh chak-k-k!* (Elder Nadox), *Uunak-hissss tik-k-k-k-k!* (Anub'arak)
+- [x] Add Darnassian confirmed phrase: *Ru shallora enudoril* = "I anoint these caretakers of the wild" (Sean Copeland Twitter; Voice of Elune)
+- [x] Add Darnassian confirmed proper names: *Shen'dralar* = "Those Who Remain Hidden", *Shalla'tor* = "Shadow Render", *Tal'doren* = "The wild home"
+- [x] Add Darnassian untranslated phrases: *Anu dunah thalore. Iseradune banthalos* (Sentinels, Ashenvale), *Ash'therod nethanas* (Sentinels, Ashenvale)
+- [x] Add Darnassian Investigation 6: *-da* kinship suffix as Troll–Elven cognate — first confirmed grammatical morpheme shared between Zandali (*Fa'da*, *Ma'da*) and Darnassian/Thalassian (*An'da*, *Min'da*, *Ann'da*, *Minn'da*); three hypotheses (shared inheritance, baby-talk convergence, borrowing); Low–Moderate confidence for shared inheritance
+- [x] Add Zandali Investigation 6: *-da* kinship suffix as cross-family cognate with elven languages; updated *-da* loa suffix table entry; added *Fa'da*/*Ma'da* cross-references to vocabulary.md
+- [x] Update README.md: add Zandali–Elven *-da* kinship suffix discovery to Relationships section
 
 ## Completed This Round (2026-06-26, Round 4)
 
@@ -466,6 +481,30 @@
 - [x] Move completed investigations from Next Actions: *ney* ↔ *-ne* (DONE), *Weta/Watha* agreement (DONE), *Noa* dual usage (DONE), patch 12.1.0 PTR check (DONE)
 - [x] Sync zandali/vocabulary.html and description.html with updated .md files
  - [x] Sync 8 language description.html files with updated description.md files: ethereal, nerubian, vrykul, drust, haranir, qiraji, earthen, gnomish — added Overview, Phonological Features, and Writing System sections; updated navigation bars
+
+## Completed This Round (2026-06-28)
+
+- [x] Add third *-relos* attestation from *Enae elen'relos!* (Belor'relos trinket flavor text) to Darnassian grammar.md Investigation 5 — confidence upgraded from Low–Moderate to Moderate; three compounds now form a coherent set (*Belor'relos* = sun-caller, *Anu'relos* = the-caller, *elen'relos* = star/divine-caller)
+- [x] Add agentive suffix comparison table to Darnassian grammar.md: *-relos* (caller, Moderate), *-anir* (? in *Alash'anir*, Very Low), *-ethil* (? in *Irana'ethil*, Very Low), *-dorei* (children/people of, High)
+- [x] Add double /r/ gemination observation to Darnassian grammar.md: *Belor'relos* (double /r/) vs. *Belore'dorei* (single /r/); may mark agentive vs. descriptive compounding distinction
+- [x] Add 2×2 kinship paradigm hypothesis to Darnassian grammar.md Investigation 2: Parent (informal *-da*, formal *-do*) × Collateral (informal *-na*, formal *-nar*); Low–Moderate confidence
+- [x] Add *tikk* ↔ *tak* connection to nerubian grammar.md: scroll text *tikk* identified as potential geminated/register variant of *tak*, providing sixth attestation bridging combat and ritual contexts; three phonological hypotheses (register variation, grammatical inflection, morphological derivation)
+- [x] Add *tak-*/**-tak* dual distribution analysis to nerubian grammar.md: parallels *Azj-*/**-azj*; if both morphemes can occupy prefix or suffix position, this is a significant grammatical discovery
+- [x] Add *Kahet iz korvan* syntax analysis to nerubian grammar.md: three analyses proposed (Subject-Copula-Predicate, Topic-Marker-Statement, Vocative-Preposition-Location); potentially the second nerubian sentence with partial semantic content
+- [x] Add initial-apostrophe nerubian names analysis to nerubian grammar.md: four names (*Y'tekhi*, *A'zak*, *Ix'lar*, *Ix'zek*) may reflect Shath'Yar substrate; *Y'tekhi* underwent Old Blood transformation; Very Low confidence
+- [x] Add *Bin dorei am'ovel* analysis to Thalassian grammar.md Investigation 2: potential second attestation of *am'* pronoun from *am'oronor*; Low–Moderate confidence
+- [x] Add *-qiraj* decomposition analysis to alien-comparative.html: if *-qiraj* = *-qir* + *-azj*, then *Azj-*/**-azj* is the first Aqir morpheme with reflexes in all three descendant languages (nerubian, qiraji, naga); shared /ɑːʒ/ sequence across all three languages; Low–Moderate confidence
+- [x] Add *N'-* prefix cross-language analysis to alien-comparative.html: *N'-* (Shath'Yar "void/absence") may have reflexes in naga *Nazj-* (*N-* + *Azj-*) and nerubian *Nezar'Azret* (*Ne-* + *zar*); potential fourth Aqir substrate morpheme; Very Low–Low confidence
+- [x] Update alien-comparative.html comparative wordlist: *deep/realm* row updated with qiraji *-azj* suffix form; *negation/void* row updated with naga and nerubian potential reflexes; *self-name in toponym* row updated with *-qiraj* decomposition note
+- [x] Update alien-comparative.html summary: three new findings added (*-qiraj* decomposition, initial-apostrophe substrate, *tikk* ↔ *tak* connection)
+- [x] Sync darnassian/grammar.html with grammar.md (Investigation 5 expansion, Investigation 2 paradigm, last updated date)
+- [x] Sync nerubian/grammar.html with grammar.md (*tikk* ↔ *tak*, *Kahet iz korvan*, initial-apostrophe names, limitations section)
+- [x] Sync thalassian/grammar.html with grammar.md (*Bin dorei am'ovel* analysis in Investigation 2)
+- [x] Sync darnassian/description.html with description.md (updated -relos confidence)
+- [x] Sync nerubian/description.html with description.md (updated *tak-* attestation count)
+- [x] Sync nerubian/vocabulary.html with vocabulary.md (updated *tak-*, *Kahet*, *Ix-/Y-* entries)
+- [x] Mark completed TODO items: *-relos* investigation (upgraded to Moderate), *-da* kinship suffix (2×2 paradigm added), *Selama* variants (*am'* pronoun analysis), *tak-* element (sixth attestation), *Shabtir bakh sokhen* syntax (*Kahet iz korvan* analysis)
+- [x] Add new TODO items: *-qiraj* decomposition, *N'-* prefix cross-language analysis, initial-apostrophe nerubian names
 
 ## Completed This Round (2026-06-24, Round 3)
 

@@ -276,9 +276,24 @@ Darnassian has two kinship-related suffixes: *-da* and *-do*:
 
 The alternation *Min'da* (Mama) vs. *Minn'do* (Mother) parallels the English "Mommy" vs. "Mother" distinction. The *-do* suffix appears in all formal titles (*Shan'do*, *Nahlen'do*, *Minn'do*), while *-da* appears only in familiar/childish kinship terms (*An'da*, *Min'da*).
 
-This analysis supports and refines the Thalassian grammar.md Investigation 1 hypothesis that *-da* is a kinship suffix. In Darnassian, the distinction is clearer: *-da* = familiar kinship, *-do* = formal/honorific. The vowel alternation /ɑ/ ↔ /o/ may mark the register distinction productively.
+This analysis supports and refines the Thalassian grammar.md Investigation 1 hypothesis that *-da* is a kinship suffix. In Darnassian, the distinction is clearer: *-da* = familiar kinship, *-do* = formal/honorific. The vowel alternation /ɑ/ ↔ /o/ may mark the register distinction productively. **Cross-family connection**: Zandali *Fa'da* = "Father" and *Ma'da* = "Mother" share the *-da* suffix, making this potentially the first confirmed grammatical morpheme shared between the troll and elven language families — see Investigation 6 for full analysis.
 
 **Assessment**: Moderate confidence. The pattern is internally consistent across five attested forms, but the corpus remains small.
+
+**Extended hypothesis: 2×2 kinship paradigm**
+
+If *-nar* in *Shal'nar* (aunt) represents *-na* + *-r*, the final /r/ could mark the formal register of collateral kinship — completing a 2×2 paradigm:
+
+| | Informal | Formal |
+|---|---|---|
+| **Parent** | *-da* (*An'da*, *Min'da*) | *-do* (*Minn'do*, *Shan'do*, *Nahlen'do*) |
+| **Collateral** | *-na* (*Shal'na* in Thalassian) | *-nar* (*Shal'nar* in Darnassian) (?) |
+
+Under this analysis, *Shal'nar* = "formal aunt" (cf. *Minn'do* = "formal mother"), and the Darnassian/Thalassian difference in the collateral form (*Shal'nar* vs. *Shal'na*) reflects a register distinction rather than a sound change: Darnassian uses the formal collateral form (*-nar*) as the default, while Thalassian uses the informal (*-na*).
+
+This paradigm is testable: if additional collateral kinship terms are discovered, they should end in *-na* (informal) or *-nar* (formal). The Darnassian untranslated phrase *Ana duna thera* (Tyrande) contains *duna* which could decompose as *du* + *-na* (informal collateral kinship?), but this is extremely speculative.
+
+**Assessment**: Low–Moderate confidence for the 2×2 paradigm. The main weakness is that *-nar* is attested only once, and the final /r/ could alternatively be a case marker, gender marker, or a separate morpheme unrelated to register. However, the paradigm makes a clear, falsifiable prediction about future collateral kinship terms.
 
 ### Investigation 3: World Tree Naming Pattern Resolved
 
@@ -310,21 +325,128 @@ This also aligns with the *-dorei* ethnonym pattern, where *-ei* marks a plural/
 
 **Assessment**: Low confidence. One attestation is insufficient to confirm the paradigm, but this is the most plausible analysis given the data.
 
-### Investigation 5: The *-relos* Element in *Belor'relos* and *Anu'relos*
+### Investigation 5: The *-relos* Element — Third Attestation from *elen'relos*
 
-Two newly documented proper names share the element *-relos*:
+Three attested forms share the element *-relos*:
 
-| Name | Translation | Analysis |
-|------|-------------|----------|
+| Name/Phrase | Translation | Analysis |
+|-------------|-------------|----------|
 | Belor'relos | The Suncaller | *Belor-* (from *belore* "sun") + *-relos* |
 | Anu'relos | (Fiery somnowl) | *Anu'* (definite article/subject marker) + *-relos* |
+| elen'relos | (untranslated, in *Enae elen'relos!*) | *elen-* (?) + *-relos* |
 
-**Hypothesis 1: *-relos* = "caller"**
+The third attestation comes from the Belor'relos trinket flavor text: *Enae elen'relos!* While the phrase is untranslated, the morpheme boundary is clear: *elen* + *-relos*. The element *elen* may relate to *Elune* or the elven root *el-* ("star/divine"), yielding *elen'relos* = "divine-caller" or "star-caller." If so, the three *-relos* compounds would form a coherent set:
 
-If *Belor'relos* = "The Suncaller," then *-relos* most naturally glosses as "caller" or "summoner." *Belor-* is clearly related to *belore* ("the sun," confirmed in Thalassian). The compound would be *belor* (sun) + *-relos* (caller) = "suncaller." This would make *Anu'relos* = "the caller" or "the one who calls" — a fitting name for a somnowl (an owl-like creature associated with calling/crying in the night).
+| Compound | First Element | *-relos* |
+|----------|---------------|----------|
+| Belor'relos | *belor* (sun) | caller → "Sun-caller" |
+| Anu'relos | *anu'* (the) | caller → "The caller" |
+| elen'relos | *elen* (star/divine?) | caller → "Star-caller" / "Divine-caller" |
+
+**Hypothesis 1: *-relos* = "caller" (agentive suffix)**
+
+If *Belor'relos* = "The Suncaller," then *-relos* most naturally glosses as "caller" or "summoner." *Belor-* is clearly related to *belore* ("the sun," confirmed in Thalassian). The compound would be *belor* (sun) + *-relos* (caller) = "suncaller." This would make *Anu'relos* = "the caller" or "the one who calls" — a fitting name for a somnowl (an owl-like creature associated with calling/crying in the night). The third attestation *elen'relos* = "star-caller" or "divine-caller" would be consistent with this pattern.
+
+With three independent attestations, *-relos* = "caller" becomes the first attested Darnassian agentive morpheme with Moderate confidence.
 
 **Hypothesis 2: *-relos* = "fire/light"**
 
-An alternative reading treats *-relos* as a light/fire element, making *Belor'relos* = "sun-fire" or "sun-light" (a tautological compound emphasizing solar radiance) and *Anu'relos* = "the fiery one." This is less satisfying for "suncaller" but aligns with the somnowl's fiery nature.
+An alternative reading treats *-relos* as a light/fire element, making *Belor'relos* = "sun-fire" or "sun-light" (a tautological compound emphasizing solar radiance) and *Anu'relos* = "the fiery one." This is less satisfying for "suncaller" but aligns with the somnowl's fiery nature. Under this reading, *elen'relos* = "star-fire" or "divine-light" — still coherent, but the semantic range is narrower.
 
-**Assessment**: Low–Moderate confidence for Hypothesis 1. The English gloss "The Suncaller" strongly supports *-relos* = "caller," making this the first attested Darnassian agentive morpheme. However, the gloss may be a localization rather than a literal translation, and two attestations provide limited evidence.
+**Additional observations:**
+
+1. **Double /r/ in *Belor'relos***: The form *Belor'relos* has a doubled /r/ at the morpheme boundary (*belor* + *relos*), while *Belore'dorei* (Child of the Sun) has a single /r/ boundary. The gemination could mark a morphological distinction — agentive compounding (*-relos*) vs. descriptive/relational compounding (*-dorei*). If the double /r/ is morphologically conditioned, this would be the first evidence for morphologically conditioned gemination in Darnassian.
+
+2. **Agentive suffix comparison**: Darnassian may have multiple agentive suffixes with different semantic scopes:
+
+| Suffix | Example | Proposed Meaning | Confidence |
+|--------|---------|------------------|------------|
+| *-relos* | *Belor'relos*, *Anu'relos*, *elen'relos* | "caller/summoner" | Moderate (3 attestations) |
+| *-anir* | *Alash'anir* ("venom and storm") | ? (possibly "bringer" or "bearer") | Very Low |
+| *-ethil* | *Irana'ethil* ("Shield against the Shadow") | ? (possibly "diminished one" or "warden") | Very Low |
+| *-dorei* | *Kaldorei*, *Quel'dorei* | "children/people of" | High (shared with Thalassian) |
+
+If *-relos*, *-anir*, and *-ethil* are all agentive suffixes, Darnassian would have a rich agentive morphology system. However, only *-relos* has more than one attestation supporting its analysis.
+
+**Assessment**: Moderate confidence for Hypothesis 1 (*-relos* = "caller"). The third attestation from *elen'relos* significantly strengthens the agentive analysis. The gloss "The Suncaller" provides direct support, and the three compounds form a coherent set with *-relos* consistently in agentive position. Hypothesis 2 remains possible but is less well-supported.
+
+### Investigation 6: The *-da* Suffix as a Troll–Elven Cognate — First Shared Grammatical Morpheme
+
+The *-da* kinship suffix, previously analyzed as an elven-internal feature (see Investigation 2), now has direct parallels in **Zandali** — the troll language. This would make *-da* the first confirmed grammatical morpheme shared between the elven and troll language families.
+
+#### Evidence Table
+
+| Language | Form | Translation | Notes |
+|----------|------|-------------|-------|
+| Darnassian | *An'da* | Papa, Father | Seeds of Faith; informal register |
+| Darnassian | *Min'da* | Mama | Seeds of Faith; informal register |
+| Darnassian | *Minn'do* | Mother | More formal; *-do* register variant |
+| Thalassian | *Ann'da* | Papa, Father | Descent (novel); geminate /nn/ vs. Darnassian |
+| Thalassian | *Minn'da* | Mama, Mother | Descent (novel) |
+| **Zandali** | **Fa'da** | **Father** | Children's Week quest |
+| **Zandali** | **Ma'da** | **Mother** | Children's Week quest; also honorific for females |
+
+#### Structural Analysis
+
+All three languages form kinship terms with the pattern **[initial element] + *-da***:
+
+| Initial Element | Darnassian | Thalassian | Zandali |
+|-----------------|-----------|------------|---------|
+| "Father" prefix | *An'* | *Ann'* | *Fa'* |
+| "Mother" prefix | *Min'* | *Minn'* | *Ma'* |
+| Kinship suffix | *-da* (informal) / *-do* (formal) | *-da* | *-da* |
+
+The *-da* suffix is identical in all three languages. The initial elements differ but show systematic patterns:
+
+1. **"Father" element**: *An'* / *Ann'* / *Fa'* — Darnassian and Thalassian share the *An'*/*Ann'* root (with Thalassian gemination), while Zandali uses *Fa'*. The shift *An'* → *Fa'* could reflect either semantic drift or different compounding strategies in the two language families.
+
+2. **"Mother" element**: *Min'* / *Minn'* / *Ma'* — Darnassian and Thalassian share *Min'*/*Minn'* (again with Thalassian gemination), while Zandali uses *Ma'*. The form *Ma'* is a plausible reduced form of *Min'*/*Minn'* via loss of the nasal coda: *\*min-da* → *\*mi-da* → *ma-da*. Alternatively, *Ma'* could be the proto-form, with Darnassian/Thalassian innovating nasalization.
+
+3. **Register alternation**: Darnassian has *-da* (informal) vs. *-do* (formal), as in *Min'da* (Mama) vs. *Minn'do* (Mother). This alternation is not attested in Zandali or Thalassian.
+
+#### Hypotheses
+
+**Hypothesis A: Shared inheritance from Proto-Troll-Elven**
+
+If night elves descended from dark trolls (confirmed by *The Art of Midnight*, pg. 125), the *-da* kinship suffix could be inherited from the proto-troll-elven language spoken before the two lineages diverged ~16,000 years ago. Under this analysis:
+
+- Proto-Troll-Elven *\*-da* = kinship suffix
+- Zandali retained *\*-da* without modification
+- Darnassian developed *-da*/*-do* register alternation
+- Thalassian innovated gemination of preceding consonants
+
+This is the most historically grounded analysis, directly supported by the dark troll → night elf lineage confirmed in canon.
+
+**Hypothesis B: Independent baby-talk convergence**
+
+Cross-linguistically, /ma/ and /da/ or /ba/ are the most common baby-talk syllables for "mother" and "father" (Jakobson 1960). The *-da* suffix could reflect convergent nursery-word formation in both language families, not shared inheritance. Under this analysis, the phonological similarity is coincidental — driven by the universal tendency for infant-directed speech to use labial and alveolar consonants with open vowels.
+
+This hypothesis accounts for the universal /da/ pattern but does not explain why both families use *-da* specifically as a **suffix** attached to a prefix, rather than as an independent word. The shared compounding pattern ([prefix] + *-da*) is more specific than mere phonological convergence would predict.
+
+**Hypothesis C: Darnassian borrowing from Zandali**
+
+Early night elves (dark trolls) could have borrowed *-da* from the surrounding troll languages when they developed their own kinship terminology. Under this analysis, *-da* entered Darnassian as a borrowing, not an inherited morpheme.
+
+This is possible but less parsimonious than Hypothesis A, since it requires an additional step (borrowing) when direct inheritance is available given the confirmed lineage.
+
+#### Implications
+
+If *-da* is a shared Proto-Troll-Elven morpheme (Hypothesis A), this would have major implications:
+
+1. **First confirmed grammatical morpheme shared across the troll-elven divide**: Previous analyses found no confirmed grammatical morphemes shared between Zandali and the elven languages, despite the known biological relationship. *-da* would be the first.
+
+2. **Supports dark troll origin theory**: The shared morpheme provides linguistic evidence for the biological origin of night elves from dark trolls, complementing the lore evidence from *The Art of Midnight*.
+
+3. **Predicts additional shared morphemes**: If *-da* survived 16,000 years of divergence, other deeply entrenched morphemes (e.g., the *-dorei*/*-dore* pattern, basic vocabulary) may also show cognates across the two families.
+
+4. **Zandali *Ma'da* ↔ Darnassian *Min'da***: The phonological relationship between Zandali *Ma'* and Darnassian *Min'* could be the first identified regular sound correspondence between the two families: either *\*min-* → *\*ma-* (nasal coda loss in Zandali) or *\*ma-* → *\*min-* (nasal epenthesis in Darnassian).
+
+#### Assessment
+
+| Hypothesis | Plausibility | Notes |
+|------------|-------------|-------|
+| Shared inheritance from Proto-Troll-Elven | **Moderate** | Directly supported by dark troll → night elf lineage; shared compounding pattern is more specific than phonological convergence predicts |
+| Independent baby-talk convergence | **Low–Moderate** | Accounts for universal /da/ pattern but not shared suffix compounding |
+| Darnassian borrowing from Zandali | **Low** | Possible but less parsimonious than inheritance |
+
+**Confidence: Low–Moderate** for *-da* as a shared Proto-Troll-Elven morpheme. The evidence is suggestive but not conclusive — the universal baby-talk tendency makes it difficult to distinguish shared inheritance from convergence. The strongest argument for inheritance is the **shared compounding pattern** ([prefix] + *-da*), which is more grammatically specific than mere phonological similarity.

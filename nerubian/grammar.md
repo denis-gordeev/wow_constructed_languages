@@ -420,6 +420,54 @@ The *-rasha* element in *Tak'rasha na* parallels *Rasha'nan* (a raid boss name),
 
 **Confidence: Very Low** for the specific meaning of *tak*; **Low–Moderate** for *tak* being a genuine morpheme (five attestations).
 
+#### The *tikk* ↔ *tak* Connection: Scroll Text Evidence
+
+The nerubian scroll text begins with *Unhhh-tikk-a-shisss*. The element *tikk* is phonologically very close to *tak*:
+
+| Form | Context | Phonological Shape |
+|------|---------|--------------------|
+| *Tak'izik* | Combat phrase | /tak/ |
+| *Tak'na* | Combat phrase | /tak/ |
+| *Tak kat'taj* | Combat phrase | /tak/ |
+| *Tak'rasha na* | Combat phrase | /tak/ |
+| *Aza'tak* | Combat phrase (suffix position) | /tak/ |
+| *tikk-a-shisss* | Scroll text (ritual/incantation) | /tɪk/ (geminated?) |
+
+If *tikk* = geminated or emphatic form of *tak*, then the *tak* element has **six attestations** spanning both combat and ritual contexts. The phonological difference (/tak/ vs. /tɪk/) could reflect:
+
+1. **Register variation**: Combat register uses /tak/ (open vowel /a/ for emphasis), ritual/formal register uses /tɪk/ (reduced vowel /ɪ/ in connected speech)
+2. **Grammatical inflection**: *tikk* = past/perfective form of *tak* (with gemination marking aspect)
+3. **Morphological derivation**: *tikk-* = intensified form (*takk* → *tikk* via vowel raising)
+
+Additionally, *Sohk-a* in the scroll text (*Sohk-a tik hiss a-k-k-k*) parallels *Tak'na* structurally: both are CVC + linking vowel *-a-*. If *Sohk* and *Tak* belong to the same class of short imperative/verb elements, nerubian may have a systematic pattern of **CVC + linking vowel** verb forms.
+
+**Confidence: Low–Moderate** for the *tikk* ↔ *tak* connection; **Low–Moderate** for *tak* as a genuine morpheme (upgraded from five to six attestations if the connection is accepted).
+
+#### The *tak-*/**-tak* Dual Distribution
+
+The *tak* element appears in both prefix position (*Tak'izik*, *Tak'na*, *Tak kat'taj*, *Tak'rasha na*) and suffix position (*Aza'tak*). This dual distribution exactly parallels the *Azj-*/**-azj* morpheme, which appears as a prefix in *Azj-Kahet* and *Azjol-Nerub* and as a suffix (hypothetically) in *Ahn'qiraj* (see alien-comparative.html). If both morphemes can occupy either position with different functions (prefix = verb/imperative, suffix = nominal/relational), this would be a significant grammatical discovery about nerubian morphology.
+
+### Speculative: *Kahet iz korvan* — Second Nerubian Sentence with Partial Semantic Content
+
+The untranslated Kaheti NPC phrase *Kahet iz korvan* is potentially the second nerubian sentence with partial semantic content, after *Shabtir bakh sokhen*. If *Kahet* is the standalone form of the suffix *-kahet* (which appears in *Azj-Kahet* and *Ahn'kahet*), then *Kahet* = "kingdom" as an independent word rather than a bound suffix.
+
+Three syntactic analyses are possible:
+
+**Analysis 1: *Kahet* = subject; *iz* = copula; *korvan* = predicate**
+> "The kingdom is [predicate]." If *iz* = copula ("is/are"), this would be a simple equational sentence, establishing nerubian as a copula language. *korvan* would then mean something like "eternal," "strong," or another kingdom-appropriate predicate.
+
+**Analysis 2: *Kahet* = topic; *iz* = discourse marker; *korvan* = statement**
+> If *iz* is a topic marker or discourse particle rather than a copula, the phrase would mean "As for the kingdom, [we] [verb]." This would be consistent with a topic-prominent language structure.
+
+**Analysis 3: *Kahet* = vocative; *iz* = preposition; *korvan* = location**
+> If *Kahet* is a vocative (addressing the kingdom) and *iz* = "in" or "to," the phrase would mean "Kingdom, [we go] to [korvan]." This would make *korvan* a place name or directional term.
+
+The element *kor-* does not appear elsewhere in the nerubian corpus. The element *-van* does not appear elsewhere either. Neither *korvan* nor its subcomponents match any known nerubian morpheme.
+
+**Word order evidence**: If Analysis 1 is correct, the sentence structure would be Subject-Copula-Predicate, consistent with the subject-initial order observed in *Shabtir bakh sokhen*. Two subject-initial sentences would strengthen the hypothesis that nerubian is consistently subject-initial (either SVO or SOV).
+
+**Confidence: Very Low** for any specific analysis; **Low** for *Kahet* being the independent form of *-kahet*.
+
 ### Other Observations
 
 - Word order cannot be determined with confidence beyond the single confirmed sentence
@@ -482,6 +530,38 @@ This shared pattern may reflect:
 
 The similarity is suggestive but cannot establish a genetic relationship.
 
+### Initial-Apostrophe Names: Potential Shath'Yar Substrate
+
+Four nerubian proper names feature initial apostrophes — a pattern characteristic of Shath'Yar (*N'Zoth*, *N'raqi*, *K'thir*):
+
+| Name | Context | Notes |
+|------|---------|-------|
+| *Y'tekhi* | Quartermaster | Underwent ascension (Old Blood transformation) |
+| *A'zak* | Reclaimer (Azjol-Nerub) | Upper Kingdom position |
+| *Ix'lar* | Underlord (Eastern Plaguelands) | Crypt lord title |
+| *Ix'zek* | Dungeon boss (the Gnarled) | *Ix-* element matches *Ix'lar* |
+
+In contrast, Shath'Yar initial apostrophes appear in:
+- *N'Zoth*, *N'raqi* — Old God and servant names
+- *K'thir* — Faceless ones
+- *Il'gynoth* — Heart of Corruption
+
+**Hypothesis: Initial apostrophe marks Old God substrate vocabulary in nerubian**
+
+If nerubian names with initial apostrophes are Shath'Yar loanwords or substrate forms, they should correlate with Old God-influenced contexts. The evidence is mixed:
+
+- *Y'tekhi* underwent "ascension" — confirmed Old Blood/Old God transformation — supporting the hypothesis
+- *Ix'zek* ("the Gnarled") and *Ix'lar* ("the Underlord") have crypt lord/undead associations, which could involve Old God influence through the Scourge connection
+- *A'zak* is a Reclaimer in the Upper Kingdom — less clearly Old God-associated
+
+**Alternative: Initial apostrophe is a native nerubian naming convention**
+
+If the initial apostrophe is simply a nerubian orthographic pattern (perhaps marking honorific or archaic names), it need not reflect Shath'Yar influence. However, the rarity of initial apostrophes in nerubian (4 out of ~22 personal names) vs. their ubiquity in Shath'Yar makes the substrate hypothesis more plausible.
+
+Notably, the *Ix-* element appears in two names (*Ix'lar*, *Ix'zek*), plus the non-apostrophe name *Ixit* (Seer Ixit). If *Ix-* is a shared initial element with a consistent meaning, it could be either a native nerubian prefix or a Shath'Yar loan element.
+
+**Confidence: Very Low** for the Shath'Yar substrate hypothesis; **Low** for the observation that initial apostrophe is a marked pattern in nerubian naming. The hypothesis is testable: if additional initial-apostrophe nerubian names are discovered in Old God-associated contexts, the correlation would strengthen.
+
 ## Limitations
 
 The nerubian corpus is extremely small but has recently expanded:
@@ -499,6 +579,7 @@ No verb paradigm, case system, or full syntactic structure is known. The confirm
 5. *-ar* faction suffix (low–moderate confidence, 6 attestations)
 6. *-rek* / *-urek* suffix (low confidence)
 7. *Rak-* toponymic prefix (low–moderate confidence, 3 attestations)
-8. *tak-* combat/imperative element (low–moderate confidence, 5 attestations in combat phrases)
+8. *tak-* combat/imperative element (low–moderate confidence, 5–6 attestations; scroll text *tikk* may be related)
+9. Initial-apostrophe names (*Y'tekhi*, *A'zak*, *Ix'lar*, *Ix'zek*) — potential Shath'Yar substrate (very low confidence)
 
 The confirmed translation of *Shabtir bakh sokhen* provides the first evidence of nerubian syntax (subject-initial word order) and vocabulary (*shabtir* = "servant", *bakh* = "bows to", *sokhen* = "master/authority"), though sample size remains extremely limited.

@@ -374,6 +374,21 @@ The three variants may reflect different Blizzard writers using slightly differe
 
 **Confidence: Moderate** for the template pattern (Hypothesis A). The three variants consistently place *Selama* first and follow it with an apostrophe-marked compound. The variation between *ashal*, *am'*, and *amor* likely reflects grammatical variation (preposition vs. pronoun) rather than random inconsistency, but Hypothesis C cannot be ruled out. Hypothesis B (variable morpheme boundary) is the most linguistically interesting but requires more data to confirm.
 
+#### Additional Evidence: *Bin dorei am'ovel* and the *am'* Pronoun
+
+The untranslated phrase *Bin dorei am'ovel* (spoken by Prince Taldaram in Ahn'kahet: The Old Kingdom) may provide a **second attestation of the *am'* pronoun** identified in Variant 2 (*am'oronor*):
+
+- If *am'* = 1st person plural pronoun ("we"), then *am'ovel* = "we [verb]" where *-ovel* is the verb
+- *dorei* = "children/people" (confirmed), so *Bin dorei* = "[?] people" (with *Bin* unknown)
+- The full phrase would be: "[?] people, we [verb]" — a plausible combat declaration
+
+If *am'* is confirmed in two independent phrases (*am'oronor* and *am'ovel*), this would:
+1. Confirm *am'* as a genuine Thalassian pronoun meaning "we"
+2. Strengthen the decomposition of *am'oronor* as *am'* + *oronor* (we + endure)
+3. Support the template pattern (Hypothesis A) by showing *am'* functions consistently as a pronoun across different contexts
+
+**Confidence: Low–Moderate** for *am'* as a pronoun. The *Bin dorei am'ovel* phrase is untranslated, so the analysis rests on structural parallel with *am'oronor*.
+
 ---
 
 ### Investigation 3: Thalassian–Darnassian Cognate Candidates

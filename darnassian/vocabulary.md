@@ -119,6 +119,7 @@ Phrases attested in Warcraft III voice lines, WoW RPG sourcebooks, and novelizat
 | Shaha lor'ma | /ˈʃɑhɑ lɔrˈmɑ/ | Thank you | Christie Golden (Twitter); War Crimes novel; one of few confirmed conversational phrases |
 | Shu dalas na | /ʃu ˈdɑlɑs nɑ/ | Heavy are our hearts | Hearthstone: Voyage to the Sunken City |
 | Shanna melor'ne adala fal | /ˈʃɑnɑ mɛˈlɔrnɛ ɑˈdɑlɑ fɑl/ | The truth is a guiding light | Curse of the Worgen; full sentence with multiple morphemes |
+| Ru shallora enudoril | /ru ʃɑˈlɔrɑ ɛˈnuːdɔrɪl/ | I anoint these caretakers of the wild | Sean Copeland (Twitter); spoken by the Voice of Elune; rare confirmed first-person singular utterance (*Ru* = "I") |
 
 ## Confirmed Proper Names with Translations
 
@@ -141,6 +142,9 @@ Phrases attested in Warcraft III voice lines, WoW RPG sourcebooks, and novelizat
 | Sunstrider | /ˈsʌnˌstrɪdər/ | He who walks the day | Warcraft Encyclopedia; also attested as Thalassian — shared elven dynasty name |
 | Belor'relos | /ˌbɛlɔrˈrɛlɔs/ | The Suncaller | Trinket from Tindral Sageswift (Amirdrassil raid); *Belor-* likely from *belore* (sun) + *-relos* (caller); parallels Thalassian *Belore'dorei* (Child of the Sun); also appears in phrase *Enae elen'relos!* (flavor text) |
 | Anu'relos | /ˌɑnuˈrɛlɔs/ | (Fiery somnowl) | Pet/mount name; *Anu'* prefix parallels *Anu'dorini*, *Anu'dora*; *-relos* element shared with *Belor'relos*, suggesting *-relos* = "caller" or "fire/light" |
+| Shen'dralar | /ʃɛnˈdrɑlɑr/ | Those Who Remain Hidden | Chronicle Volume 1; Highborne faction that remained in Eldre'Thalas |
+| Shalla'tor | /ʃɑlɑˈtɔr/ | Shadow Render | Flashback (novel); one of the Twin Blades of Azzinoth |
+| Tal'doren | /tɑlˈdɔrɛn/ | The wild home | Tal'doren, the Wild Home quest; *Tal* + *'doren*; parallels *Thalas* = "home" in Thalassian |
 
 ## Place Names
 
@@ -169,12 +173,14 @@ Phrases attested in Warcraft III voice lines, WoW RPG sourcebooks, and novelizat
 | Anu'dora! | Tyrande Whisperwind | Warcraft III / Heroes of the Storm / Siege of Orgrimmar |
 | Anu Dorah | Tel'anor memorial plaques | Suramar; used to close inscriptions, accompanied by "I/We remember" |
 | Anu dorini ash'ka | Tyrande Whisperwind | In-game: The Power of Elune |
+| Anu dunah thalore. Iseradune banthalos | Sentinels in Ashenvale | *The Spirits of Ashenvale* (novel); spying on Warsong clan during the Third War |
 | Anu therador mali | Tyrande Whisperwind | Warcraft III / Heroes of the Storm |
 | Arama sh'nala fasima nemelia boranna... manoria fesala maranor... mal'nala fal!! | Belysra Starbreeze / Tyrande | Curse of the Worgen; incantation calling down the moon's power |
 | Ash'al theradas | Maiev Shadowsong / Sira Moonwarden / Tyrande | Warcraft III / In Darkest Night / Battle for Darkshore / The Power of Elune |
 | Ashbalanol | Wardens | Warcraft III |
 | ASH ROHK ILISAR! THANDAE! | Tyrande Whisperwind | In-game: The Power of Elune |
 | Ashre thoraman | Tyrande Whisperwind | Warcraft III |
+| Ash'therod nethanas | Sentinels in Ashenvale | *The Spirits of Ashenvale* (novel); spying on Warsong clan during the Third War |
 | Ash'thero danador | Malfurion Stormrage | Warcraft III / Heroes of the Storm |
 | Bathel'daelune | Wardens | Warcraft III |
 | Deronica | Demon Hunters | Warcraft III |
