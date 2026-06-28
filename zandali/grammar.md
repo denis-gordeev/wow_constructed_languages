@@ -888,6 +888,20 @@ The strongest argument for shared inheritance (rather than independent baby-talk
 
 **Confidence: Low–Moderate** for *-da* as a shared Proto-Troll-Elven morpheme. Universal baby-talk tendency makes it difficult to distinguish shared inheritance from convergence. See Darnassian grammar.md Investigation 6 for the full cross-family analysis with all hypotheses.
 
+#### Additional Zandali–Elven Cognate Candidates
+
+Investigation 6 identified *-da* as the first potential shared morpheme. Further analysis (see Darnassian grammar.md Investigation 7 for full details) has identified three additional candidates:
+
+| Candidate | Zandali | Elven | Confidence | Key Problem |
+|-----------|---------|-------|------------|-------------|
+| *\*ala-* "bright/burning" | *Alai* "fire/flame" | *alah* "light/blessed" | Low–Moderate | Only root matches; /ala/ could arise independently |
+| *na* relational preposition | *na* "in/to/of" | *na*/*no* preposition | Low–Moderate | Short CV prepositions universally common |
+| *Ma'/Min'* "mother" | *Ma'* | *Min'*/*Minn'* | Low | Counterexamples show /a/ shared in other morphemes; not a regular sound change |
+
+The *Ma'/Min'* correspondence is now assessed as **likely not a regular sound change**, as counterexamples exist: *na* and *-da* both have /a/ in both families, indicating the alternation is specific to the "mother" word rather than reflecting a systematic sound law.
+
+The overall pattern — multiple weak cognate signals converging across independent morphemes — is consistent with deep genetic relationship at ~16,000 years of divergence, where most shared morphology has been erased by time.
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar remain unattested and should not be assumed:

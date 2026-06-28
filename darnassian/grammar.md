@@ -450,3 +450,76 @@ If *-da* is a shared Proto-Troll-Elven morpheme (Hypothesis A), this would have 
 | Darnassian borrowing from Zandali | **Low** | Possible but less parsimonious than inheritance |
 
 **Confidence: Low–Moderate** for *-da* as a shared Proto-Troll-Elven morpheme. The evidence is suggestive but not conclusive — the universal baby-talk tendency makes it difficult to distinguish shared inheritance from convergence. The strongest argument for inheritance is the **shared compounding pattern** ([prefix] + *-da*), which is more grammatically specific than mere phonological similarity.
+
+### Investigation 7: Additional Zandali–Elven Cognate Candidates
+
+Investigation 6 identified *-da* as the first potential shared morpheme between the troll and elven language families. This investigation examines additional cognate candidates that could strengthen (or weaken) the case for genetic relationship.
+
+#### Candidate A: Zandali *Alai* "fire/flame" ↔ Elven *alah* "light"
+
+| | Zandali | Darnassian | Thalassian |
+|---|---------|-----------|------------|
+| **Form** | *Alai* /ˈɑlɑɪ/ | *alah* /ˈɑlɑ/ | *alah* /ˈɑlɑ/ |
+| **Meaning** | Fire, flame | Light / blessed | Light |
+| **Source** | Moldy Diary (confirmed) | *Ishnu-alah*, *Thandae-alah* | *Anar'alah*, *Thas'alah* |
+
+The root *\*ala-* "bright/burning" is phonologically identical across both families. The differing suffixes are independently motivated:
+- Zandali: *\*ala-* + *-'ai* (collective) → *Alai* "fires/flames"
+- Elven: *\*ala-* + *-ah* (derivational extension) → *alah* "light/blessed"
+
+Zandali Investigation 4 independently identifies *ala-* as a "fire/burning" root within Zandali (*alai* vs. *alanke*), confirming it as a genuine morpheme. The semantic distance is minimal: "fire/flame" ↔ "light" are core associates.
+
+**Problem**: /a/ is the dominant vowel in both languages, so /ala/ could arise independently. Fire and light are universally associated concepts.
+
+**Confidence: Low–Moderate** for shared root *\*ala-* "bright/burning".
+
+#### Candidate B: Zandali *na* "in/to/of" ↔ Elven *na/no* preposition system
+
+| | Zandali | Darnassian | Thalassian |
+|---|---------|-----------|------------|
+| **Form** | *na* /na/ | *na* (in untranslated phrases) | *na* /na/, *no* /no/ |
+| **Meaning** | "in; to; of" (confirmed) | Uncertain | *na* = particle; *no* = "to, all" |
+
+Both families have a prepositional particle *na* serving connective/relational functions. Zandali *na* covers locative ("in"), allative ("to"), and genitive ("of") — the same functional range that Thalassian *no* partially covers. Shared grammatical morphemes are stronger evidence of genetic relationship than shared vocabulary.
+
+**Extended analysis**: Both families also have *no* as a relational particle:
+- Zandali *no* in "X no Y" loa naming (*Elortha no Shadra*, *Eraka no Kimbul*, *Ueetay no Mueh'zala*)
+- Thalassian *no* in *Tal anu'men no Sin'dorei*
+
+The probability of two independently developed languages having BOTH *na* and *no* as prepositional particles is lower than having just one. However, short CV prepositions with /n/ are cross-linguistically extremely common.
+
+**Problem**: The Darnassian *na* is not confirmed in meaning — it appears only in untranslated phrases. Short CV prepositions are universally common.
+
+**Confidence: Low–Moderate** for shared *na*; **Low** for *na/no* pair as structural parallel.
+
+#### Candidate C: Zandali *Ma'* ↔ Elven *Min'/Minn'* — Testing Regularity
+
+The *Ma'/Min'* correspondence was initially proposed as a potential regular sound change (Investigation 6, point 4). Testing against other potential pairs reveals counterexamples:
+
+| Zandali | Elven | /a/ in both? | Regularity |
+|---------|-------|-------------|------------|
+| *Ma'* "mother" | *Min'*/*Minn'* "mother" | No | Matches predicted /a/ ↔ /i/ + nasal |
+| *na* "in/to/of" | *na* particle | **Yes** | Counterexample: /a/ in both |
+| *-da* kinship suffix | *-da* kinship suffix | **Yes** | Counterexample: /a/ in both |
+| *Fa'* "father" | *An'*/*Ann'* "father" | Different consonants | Not testable |
+
+The counterexamples show that the *Ma'/Min'* alternation does NOT reflect a regular sound change applying across the lexicon. Instead, it is more likely either:
+1. **A specific development in the "mother" word only**: The nasal element in *Min'* may be an elven innovation specific to the nursery word, or *Ma'* may be a Zandali reduction specific to the nursery word
+2. **Conditioned sound change**: The change could apply only before the apostrophe boundary (glottal stop), affecting *Ma'* but not *-da* (which follows rather than precedes the apostrophe). This is speculative but not impossible
+3. **Independent baby-talk formation**: The /ma/ ↔ /mina/ alternation is attested in real-world nursery words across unrelated language families
+
+**Confidence: Low** for *Ma'/Min'* as a regular sound correspondence (downgraded from initial Low–Moderate assessment due to counterexamples).
+
+#### Assessment: Zandali–Elven Cognate Candidates
+
+| Candidate | Correspondence | Confidence | Key Problem |
+|-----------|---------------|------------|-------------|
+| *-da* kinship suffix | Shared suffix | Low–Moderate | Baby-talk convergence possible |
+| *\*ala-* "bright/burning" | Shared root | Low–Moderate | Convergent association; only root matches |
+| *na* preposition | Shared grammatical morpheme | Low–Moderate | Short CV prepositions universally common |
+| *na/no* pair | Structural parallel | Low | Functional mapping imperfect |
+| *Ma'/Min'* "mother" | Conditioned sound change | Low | Counterexamples show irregularity |
+
+**Overall assessment**: The strongest case for genetic relationship comes from the **convergence of multiple weak signals** rather than any single strong cognate. Three independent morphemes (*-da*, *\*ala-*, *na*) with Low–Moderate confidence each, plus the *Ma'/Min'* correspondence (now assessed as likely irregular), provide a pattern consistent with deep genetic relationship at ~16,000 years of divergence. No single cognate is conclusive, but the accumulation of shared features is more than would be expected by chance alone.
+
+**Confidence: Low–Moderate** that Zandali and the elven languages share at least some cognate morphemes inherited from Proto-Troll-Elven; **Very Low** for any specific sound correspondence being regular.

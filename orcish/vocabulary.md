@@ -45,6 +45,7 @@ All entries below are attested in World of Warcraft in-game dialogue, NPC speech
 | Saurfang | /ˈsɑʊrfɑŋ/ | — | Components unknown |
 | Lok'osh | /lɔkˈɔʃ/ | — | Components unknown |
 | Nagrand | /ˈnɑgrɑnd/ | "Land of winds" or "land of spirits" | Place name on Draenor; uncertain etymology |
+| Nagrand | /ˈnɑgrɑnd/ | "Land of winds" or "land of spirits" | Place name on Draenor; uncertain etymology |
 
 ## Uncertain / Partially Attested Words
 

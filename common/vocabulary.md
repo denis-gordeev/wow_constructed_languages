@@ -160,6 +160,9 @@ Based on the observation that humans are "runt" vrykul and that Common has under
 | Case system | Possible traces (*-inn*) | Lost; analytic word order | Common likely uses word order rather than case marking |
 | Stress | Initial syllable | Variable; may shift | English-style stress patterns may have developed |
 | Vowel system | /a e i o u/ + /y/ | /a e i o u/ (loss of /y/) | The front rounded vowel /y/ in Vrykul names would be unrounded to /i/ in Common |
+| Place naming | *-heim*, *-garde*, *-bron* | Borrowed Vrykul names; Common compounds | Hybrid system |
+
+**Key insight:** The Vrykul → Common transition is one of the best-documented language change processes in the Warcraft universe, despite the limited direct evidence. The *Tirisfal* place name provides direct evidence that Vrykul compounds were adopted into Common as unanalyzed units — the morpheme boundaries were lost. The *-garde* suffix in *Stromgarde* shows a Vrykul morpheme surviving in active use, though likely no longer recognized as a foreign element. These two examples illustrate the general pattern of Vrykul → Common language change: morphological simplification with fossilized preservation of some Vrykul elements.
 
 ## Relationship to Other Languages
 

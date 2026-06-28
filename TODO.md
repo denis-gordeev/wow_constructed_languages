@@ -87,7 +87,22 @@
 - [ ] Investigate *-qiraj* decomposition as *-qir* + *-azj* — analysis added to alien-comparative.html; if confirmed, *Azj-*/**-azj* would be the first Aqir morpheme with reflexes in all three descendant languages (nerubian, qiraji, naga); Low–Moderate confidence; requires additional data for confirmation
 - [ ] Test *N'-* prefix as fourth Aqir substrate morpheme — analysis added to alien-comparative.html; *N'-* (Shath'Yar "void/absence") may have reflexes in naga *Nazj-* (*N-* + *Azj-*) and nerubian *Nezar'Azret* (*Ne-* + *zar*); Very Low–Low confidence; Egyptian design aesthetic confound for *Nezar-*
 - [ ] Map initial-apostrophe nerubian names by context — four names (*Y'tekhi*, *A'zak*, *Ix'lar*, *Ix'zek*) may reflect Shath'Yar substrate; *Y'tekhi* underwent Old Blood transformation; analysis added to nerubian grammar.md; Very Low confidence; testable with new data
-- [ ] Investigate Zandali *Ma'* ↔ Darnassian *Min'* sound correspondence — if *-da* is a shared morpheme, the "mother" prefix may show regular sound change (*Min'* → *Ma'* via nasal coda loss, or *Ma'* → *Min'* via nasal epenthesis); Low confidence; requires additional cognate pairs to confirm
+- [ ] Investigate Zandali *Ma'* ↔ Darnassian *Min'* sound correspondence — **SIGNIFICANTLY UPDATED**: Analysis shows this is likely NOT a regular sound change; counterexamples exist (*na* and *-da* have /a/ in both families). The *Ma'/Min'* alternation is specific to the "mother" word and may reflect baby-talk formation or conditioned change before glottal stop. Three additional Zandali–Elven cognate candidates identified: *ala-* "bright/burning" (Low–Moderate), *na* preposition (Low–Moderate), *na/no* pair (Low). See Darnassian grammar.md Investigation 7 for full analysis
+
+## Completed This Round (2026-06-28, Round 6)
+
+- [x] Full HTML-MD sync audit across all 30 language directories: identified 7 directories with substantive content gaps and 8 with title mismatches
+- [x] Fix Haranir vocabulary.html: add detailed *-ar* loanword analysis with arguments for/against (4 each), nerubian *-ar* faction table (5 entries), and expanded Greenspeaker/Thornspeaker Parallel section with Key Observations (6 points) and Connection Scenarios table (4 scenarios)
+- [x] Fix Orcish vocabulary.html: add Notes section (5 items), Nagrand entry in Proper Names table, and nav link
+- [x] Fix Orcish vocabulary.md: add Nagrand entry to Proper Names table
+- [x] Fix Common vocabulary.md: add Key insight note after Sound Changes section (Vrykul → Common language change pattern), add extra Sound Changes row (Place naming: *-heim*, *-garde*, *-bron*)
+- [x] Fix Nature vocabulary.md: add Cross-Cultural Druidic Vocabulary table (7 concepts across 3 languages), add *Apa'ro* entry to Tauren Nature Terms table
+- [x] Add Darnassian Investigation 7: Additional Zandali–Elven Cognate Candidates — three new candidates identified (*ala-* "bright/burning" Low–Moderate, *na* preposition Low–Moderate, *Ma'/Min'* testing regularity Low); *Ma'/Min'* downgraded to Low confidence as likely not a regular sound change due to counterexamples
+- [x] Add Cross-Family Cognate Candidates section to elven-comparative.html: 4 candidates table with assessment paragraph
+- [x] Add Additional Zandali–Elven Cognate Candidates subsection to Zandali grammar.md Investigation 6: 3-candidate summary table with *Ma'/Min'* assessment update
+- [x] Sync Zandali grammar.html with updated Investigation 6 (Additional Cognate Candidates table)
+- [x] Sync Darnassian grammar.html with Investigation 7
+- [x] Add *Alai* ↔ *alah* cross-family cognate cross-reference to Zandali vocabulary.md and Darnassian vocabulary.md
 
 ## Completed This Round (2026-06-28, Round 5)
 

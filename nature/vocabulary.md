@@ -45,6 +45,7 @@ No invented words are included. All entries are attested from in-game dialogue, 
 | An'she | The Sun | Tauren sun deity; central to Sunwalker druidism |
 | Mu'sha | The Moon (Elune) | Tauren name for the moon goddess |
 | Lo'sho | Earth-related term | (uncertain) meaning |
+| Apa'ro | /ˈɑpɑroʊ/ | The white stag / Malorne | Taur-ahe name for the Ancient of the Hunt |
 
 ## Darnassian Nature Terms
 
@@ -90,3 +91,15 @@ The "language of nature" or "Druidic" is not attested as a distinct constructed 
 The closest analogue to a "nature language" in WoW is the communication between druids and nature spirits, which is depicted as an intuitive or magical understanding rather than a verbal language. The Emerald Dream may have its own form of communication, but this is not attested in linguistic terms.
 
 Some Darnassian vocabulary (tel "earth", falah "balance", drassil "crown") is deeply tied to druidic concepts and may represent the closest thing to a "druidic lexicon" in WoW canon. These are Darnassian words, however, not a separate language.
+
+### Cross-Cultural Druidic Vocabulary
+
+| Concept | Night Elf (Darnassian) | Tauren (Taur-ahe) | Troll (Zandali) |
+|---------|----------------------|-------------------|-----------------|
+| Teacher | Shan'do | (uncertain) | (uncertain) |
+| Student | Thero'shan | (uncertain) | (uncertain) |
+| Moon deity | Elune / Isha | Mu'sha | (uncertain) |
+| Sun deity | An'she (borrowed?) | An'she | (uncertain) |
+| Nature spirits | Ancients, Wisps | (uncertain) | Loa |
+| Balance | Falah | (uncertain) | (uncertain) |
+| Earth | Tel | (uncertain) | (uncertain) |

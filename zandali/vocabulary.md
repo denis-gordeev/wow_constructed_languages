@@ -221,7 +221,7 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 
 | Word | Meaning | Source | Notes |
 |------|---------|--------|-------|
-| Alai | Fire, flame | Moldy Diary | Also appears in compound *Alai-nazdo* ("fire-season"). Used for both singular "flame" and plural "flames" (*De alai* = "The flames" in chant) — no morphological plural marking |
+| Alai | Fire, flame | Moldy Diary | Also appears in compound *Alai-nazdo* ("fire-season"). Used for both singular "flame" and plural "flames" (*De alai* = "The flames" in chant) — no morphological plural marking. Shared root with elven *alah* "light/blessed" — potential cross-family cognate; see grammar.md Investigation 6 |
 | Alanke | Fire (in ritual context?) | Moldy Diary | In *Untoh de alanke tono* = "Keep the fire burning"; may share root *ala-* with *Alai* — see grammar.md Investigation 4 for analysis of *alanke* vs. *alai* |
 | Dazdooga | Fire | *Blood of the Highborne* | Synonym or dialectal variant of *Alai* |
 | E'ko | Life energy within all living things | Witch Doctor Mau'ari quests | Also described as "da power dat each creature possesses" |
