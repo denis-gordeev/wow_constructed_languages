@@ -120,6 +120,9 @@ Phrases attested in Warcraft III voice lines, WoW RPG sourcebooks, and novelizat
 | Shu dalas na | /ʃu ˈdɑlɑs nɑ/ | Heavy are our hearts | Hearthstone: Voyage to the Sunken City |
 | Shanna melor'ne adala fal | /ˈʃɑnɑ mɛˈlɔrnɛ ɑˈdɑlɑ fɑl/ | The truth is a guiding light | Curse of the Worgen; full sentence with multiple morphemes |
 | Ru shallora enudoril | /ru ʃɑˈlɔrɑ ɛˈnuːdɔrɪl/ | I anoint these caretakers of the wild | Sean Copeland (Twitter); spoken by the Voice of Elune; rare confirmed first-person singular utterance (*Ru* = "I") |
+| Ande'thoras-ethil | /ˌɑndɛ θɔˈrɑs ˈɛθɪl/ | May your troubles be diminished | Warcraft Encyclopedia; a farewell; *Ande* = imperative particle + *thoras* = "troubles" + *ethil* = "diminished" |
+| Anu'dorini Talah | /ˌɑnuˈdɔrɪnɪ ˈtɑlɑh/ | Let my will be known | Warcraft III (Malfurion); Voice of Elune; Vault of the Wardens opening; *Anu* = subject marker + *dorini* = "my will" + *Talah* = "be known" |
+| Bandu Thoribas | /ˈbɑndu θɔˈriːbɑs/ | Prepare to fight | Warcraft Encyclopedia; a challenge to an enemy; *Bandu* = imperative "prepare" + *Thoribas* = "to fight" |
 
 ## Confirmed Proper Names with Translations
 
@@ -162,6 +165,46 @@ Phrases attested in Warcraft III voice lines, WoW RPG sourcebooks, and novelizat
 | Nazjatar | /nɑzˈdʒɑːtɑr/ | (city/kingdom name) | Underwater kingdom; etymology uncertain |
 | Val'sharah | /vɑlˈʃɑrɑ/ | Possibly "vale of twilight/light" | Legion zone; etymology uncertain |
 | Dire Maul (Eldre'Thalas) | /ˈɛldrɛθɑlɑs/ | Possibly "home of the Highborne" | Former Highborne city; "Thalas" may parallel Thalassian "home" |
+| Al'ameth | /ɑlˈɑmɛθ/ | (lake) | Lake in southeastern Teldrassil; *Al'* prefix |
+| Aldrassil | /ɑlˈdrɑsɪl/ | (tree) | Inhabited tree in northeastern Teldrassil; *-drassil* = "crown" |
+| Althalaxx | /ɑlˈθɑlɑks/ | (tower) | Highborne tower in Darkshore; pre-Sundering |
+| Ameth'Aran | /ɑˈmɛθ ɑˈrɑn/ | (city) | Former night elven city in Darkshore; *Aran* = "town" |
+| Anora | /ɑˈnɔrɑ/ | (hollow) | Underground ley station facility in Suramar |
+| Ara-Hinam | /ˌɑrɑˈhiːnɑm/ | (village) | Destroyed night elven village |
+| Arauk-Nashal | /ˌɑrɔkˈnɑʃɑl/ | (location) | On the Broken Isles |
+| Ash'theran | /ɑʃˈθɛrɑn/ | (enclave) | Large night elf enclave in northeastern Val'sharah |
+| Astranaar | /ˌɑstrɑˈnɑr/ | (town) | Night elven town in Ashenvale; *-naar* suffix |
+| Ban'ethil | /bɑnˈɛθɪl/ | (barrow den) | Central Teldrassil |
+| Ban'Thallow | /bɑnˈθɑloʊ/ | (barrow den) | Near Starfall Village, Winterspring |
+| Constellas | /kɑnˈstɛlɑs/ | (settlement) | Former night elven settlement in Felwood |
+| Daral'nir | /dɑˈrɑlnɪr/ | (great tree) | Within the Emerald Dream; calms enraged beings |
+| Dolanaar | /doʊˈlɑnɑr/ | (town) | Night elven town in central Teldrassil; *-naar* suffix |
+| Dor'Danil | /dɔrˈdɑnɪl/ | (barrow den) | Eastern Ashenvale |
+| Eldre'Thalas | /ˈɛldrɛθɑlɑs/ | Dire Maul | Former Highborne city; "Thalas" may parallel Thalassian "home" |
+| Eldre'thar | /ˈɛldrɛθɑr/ | (ruins) | Highborne city in Sishir Canyon, Stonetalon Mountains |
+| Elune'ara | /ɛˈluːnˈɑrɑ/ | (lake) | Lake in Moonglade; *Elune* + *'ara* |
+| Elune'eth | /ɛˈluːnˈɛθ/ | (district) | Part of Meredil, Suramar; possibly connected to Shal'Aran |
+| Ethel Rethor | /ˈɛθɛl ˈrɛθɔr/ | (tower) | Tower in western Desolace |
+| Izal-Shurah | /ɪˈzɑl ˈʃuːrɑh/ | (library) | Great Highborne library in Suramar |
+| Kel'balor | /kɛlˈbɑlɔr/ | (facility) | Underground facility near Crimson Thicket, Suramar |
+| Llothien | /ˈloʊθiːɛn/ | (city/highlands) | Ruined night elf city and highlands in Azsuna |
+| Loreth'Aran | /ˌlɔrɛθˈɑrɑn/ | (ruin) | Night elven ruin on Bloodmyst Isle; *Aran* = "town" |
+| Morlos'Aran | /mɔrˈloʊsɑrɑn/ | (city) | Former night elven city in Felwood; *Aran* = "town" |
+| Nar'thalas | /nɑrˈθɑlɑs/ | (city) | Ruined night elf city with academy in Azsuna; *-thalas* suffix |
+| Nendis | /ˈnɛndɪs/ | (seaport) | Former night elf seaport on coast of northern Azshara |
+| Nor'Danil | /nɔrˈdɑnɪl/ | (wellspring) | Wellspring site in Azsuna |
+| Nordressa | /nɔrˈdrɛsɑ/ | (ruins) | Night elf ruins in Azshara; *Nor* = "heavens" |
+| Oneiros | /oʊˈnaɪrɒs/ | (ruins) | Night elven ruins in northern Feralas |
+| Rhut'van | /ˈruːtvɑn/ | (mountain) | Mountain range and road in Azsuna |
+| Sardor | /ˈsɑrdɔr/ | (island) | Island off the Feralas coast |
+| Sar'theris | /sɑrˈθɛrɪs/ | (beach) | Beach on the coast of Desolace |
+| Shala'nir | /ʃɑlɑˈnɪr/ | (druid grove) | Large grove at base of Shaladrassil in Val'sharah; *Shal* root |
+| Shandaral | /ʃɑnˈdɑrɑl/ | (ruined city) | Ruined city in Crystalsong Forest |
+| Sylvanaar | /sɪlˈvɑnɑr/ | (town) | Night elven town in Blade's Edge Mountains; *-naar* suffix; possible connection to "sylvan" (woods) |
+| Thal'dranath | /θɑlˈdrɑnɑθ/ | (region) | Original name of the Broken Shore; *Thal* + *'dranath* |
+| Thelserai | /θɛlˈsɛrɑɪ/ | (temple) | Ruined Highborne temple in Shimmering Expanse |
+| Zarkhenar | /zɑrˈkɛnɑr/ | (city) | Ruined city and ley-siphoning facility in Azsuna |
+| Zin-Malor | /zɪn mɑˈlɔr/ | (temple) | Temple in Eldarath; *Zin* = "glory" |
 
 ## Untranslated Phrases
 

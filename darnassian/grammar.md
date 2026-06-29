@@ -83,10 +83,15 @@ Two imperative formulas are attested:
 
 1. **Andu + [complement]**: Andu-falah-dor ("Let balance be restored")
 2. **Tor + [complement]**: Tor ilisar'thera'nal ("Let our enemies beware")
+3. **Ande + [complement]**: Ande'thoras-ethil ("May your troubles be diminished") — farewell form
 
-Both `Andu` and `Tor` function as jussive/imperative particles meaning "let." This suggests Darnassian may differentiate types of imperative (hortative vs. directive, or formal vs. informal), but the sample is too small to confirm.
+Both `Andu` and `Tor` function as jussive/imperative particles meaning "let." The variant `Ande` (in *Ande'thoras-ethil*) may reflect a different mood (optative/wish vs. hortative), a formal register, or phonological conditioning before *thoras*. This suggests Darnassian may differentiate types of imperative (hortative vs. directive, or formal vs. informal), but the sample is too small to confirm.
 
 **Direct command form**: `Ash karath` ("Do it / Make it so") — a separate imperative construction without a jussive particle, possibly a direct second-person command.
+
+**Additional imperative**: `Bandu Thoribas` ("Prepare to fight") — *Bandu* is morphologically similar to *Andu*/*Ande* and may share the same jussive root with a different prefix vowel or initial consonant alternation; alternatively, *Bandu* may be a distinct imperative verb form. The *Bu*/*Du* element in both *Bandu* and *Andu* may carry the core imperative meaning.
+
+**War cry construction**: `Anu'dorini Talah` ("Let my will be known") — *Anu'* + *dorini* ("my will") + *Talah* ("be known"); this uses *Anu'* as a sentence-initial subject marker rather than a jussive particle, providing evidence for subject-initial word order in declarative/performative utterances.
 
 **Expanded greeting/blessing pattern**: *Ishnu-alah* and *Ishnu-dal-die* (from Warcraft III) introduce a third greeting formula alongside *Elune-adore* and *Fandu-dath-belore*. The *Ishnu-* root appears to function as a blessing/wish particle, followed by a hyphen-separated complement (like *Elune-adore*). This reinforces the pattern: **[Deity/Blessing root] + hyphen + [complement]**.
 
@@ -523,3 +528,32 @@ The counterexamples show that the *Ma'/Min'* alternation does NOT reflect a regu
 **Overall assessment**: The strongest case for genetic relationship comes from the **convergence of multiple weak signals** rather than any single strong cognate. Three independent morphemes (*-da*, *\*ala-*, *na*) with Low–Moderate confidence each, plus the *Ma'/Min'* correspondence (now assessed as likely irregular), provide a pattern consistent with deep genetic relationship at ~16,000 years of divergence. No single cognate is conclusive, but the accumulation of shared features is more than would be expected by chance alone.
 
 **Confidence: Low–Moderate** that Zandali and the elven languages share at least some cognate morphemes inherited from Proto-Troll-Elven; **Very Low** for any specific sound correspondence being regular.
+
+### Investigation 8: Toponymic Morphemes — *Aran*, *-naar*, *-thalas*
+
+The expanded Darnassian place name corpus (34 additional proper nouns from warcraft.wiki.gg) reveals several recurring toponymic morphemes:
+
+| Morpheme | Attestations | Inferred Meaning | Confidence |
+|----------|-------------|-------------------|------------|
+| *Aran* | Ameth'Aran, Bashal'Aran, Loreth'Aran, Morlos'Aran | "Town / settlement" | Moderate (4 independent attestations; confirmed by wiki speculation) |
+| *-naar* | Astranaar, Dolanaar, Sylvanaar | "Town / settlement" | Moderate (3 independent attestations; parallel to *Aran*) |
+| *-thalas* | Eldre'Thalas, Nar'thalas, Quel'Thalas (Thalassian) | "Home / realm" | Moderate–High (confirmed in Thalassian *Quel'Thalas* = "High Home") |
+| *-dor* | Dor'Danil, Nor'Danil | Uncertain; possibly "earth" or a locative | Low (only 2 attestations) |
+| *Al-* / *Al'* | Al'ameth, Althalaxx, Aldrassil | Possibly "high" or "noble" (shared with *Quel*) | Very Low (could be coincidental) |
+
+**Aran vs. -naar**: The forms *Aran* and *-naar* both appear to mean "town/settlement" but differ phonologically. Three hypotheses:
+
+1. **Allomorphy**: *Aran* and *-naar* are phonologically conditioned variants of the same morpheme. The vowel change /ɑ/ ↔ /ɑː/ and consonant metathesis /r...n/ ↔ /n...r/ could reflect dialectal or historical variation
+2. **Distinct morphemes**: *Aran* = "town" and *-naar* = "dwelling/place" with overlapping but distinct semantics
+3. **Historical development**: *Aran* is the older form; *-naar* results from a sound change /aran/ → /ɑːnɑr/ → /nɑr/ in suffix position, with the initial vowel absorbed into the preceding syllable
+
+**Assessment**: Hypothesis 1 (allomorphy) is preferred at Low–Moderate confidence. The shared /r/ and /n/ consonants and the semantic overlap make coincidence unlikely, but the phonological relationship is not straightforward. The toponymic distribution (*Aran* as free form, *-naar* as bound suffix) is consistent with a single morpheme that underwent phonological reduction in suffix position.
+
+**Cross-elven significance**: *-thalas* "home/realm" is shared with Thalassian (*Quel'Thalas* = "High Home"), confirming it as a Proto-Elven toponymic morpheme. *Aran* "town" is attested only in Darnassian place names and may be a Darnassian innovation or a Proto-Elven morpheme lost in the other daughter languages.
+
+**New proper noun observations from expanded corpus**:
+
+- *Elune'ara* (lake in Moonglade) and *Elune'eth* (district in Suramar) extend the *Elune-* prefix pattern to place names, confirming *Elune* as a productive toponymic element
+- *Shala'nir* (druid grove) contains the *Shal* root also found in *Shal'nar* (aunt), *Shal'na* (Thalassian "aunt"), *Shaladrassil*, and Shalassian *Shal* (twilight/arcane)
+- *Nar'thalas* contains *-thalas* ("home") and *Nar-* which may connect to *Nar'valas* ("View of Unending Stars")
+- *Thal'dranath* (original name of Broken Shore) contains *Thal* "home" + *'dranath*, possibly related to *-drassil* "crown" or a distinct morpheme

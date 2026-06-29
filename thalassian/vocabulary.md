@@ -112,7 +112,7 @@ Phrases with confirmed Blizzard translations from the Warcraft Encyclopedia, in-
 | Anar endal'dor | /ˈɑnɑr ˈɛndɑlˌdɔr/ | *Possibly "Light guide you"* | *[uncertain] Uncertain translation* |
 | Selama am'oronor! | /sɛˈlɑmɑ ɑmˈɔrɔnɔr/ | *Justice [we] endure!* | High Nethermancer Zerevor / Lady Liadrin; see grammar.md Investigation 2 for variant analysis |
 | Selama amor'anore! | /sɛˈlɑmɑ ɑmɔrˈɑnɔrɛ/ | *Justice for our people!* | Gathios the Shatterer; see grammar.md Investigation 2 for variant analysis |
-| Band'or shorel'aran | /bɑnˈdɔr ʃɔˈrɛlˌɑrɑn/ | *Prepare to say farewell* | Commander Sarannis (Chinese WoW translation) |
+| Band'or shorel'aran | /bɑnˈdɔr ʃɔˈrɛlˌɑrɑn/ | Prepare to say farewell | Commander Sarannis; **confirmed** by Chinese WoW official translation (previously uncertain) |
 
 ## Confirmed Compound Names with Translations
 
@@ -270,3 +270,13 @@ Phrases attested in-game or in official sources without confirmed Blizzard trans
 | Shorel'aran | Shorel + ' + aran | Uncertain internal morphemes |
 | Bal'a dash | Bal + ' + a + dash | Uncertain internal morphemes |
 | Selama ashal'anore | Selama + ashal + ' + anore | Justice + for + People |
+
+## RPG and Speculative Etymology
+
+Entries from the Warcraft RPG (non-canon) and speculative etymology from official sources.
+
+| Word | Translation | Source / Notes |
+|------|-------------|----------------|
+| Quel'Zaram | High blade | RPG (*Lands of Conflict*, pg. 172); non-canon; *Quel* = "high" + *Zaram* = "blade" |
+| Ronae | Peaceful | RPG (*Lands of Conflict*, pg. 19); non-canon; combined with Dwarven *lorn* and Common *daer* to create "Lordaeron" |
+| Sylvanas | Named for the woods / a love for living things | *Sylvanas* novel chapter 4 / *Elegy* part 4; implies a Thalassian word similar to English "sylvan" (woods); also attested in Darnassian toponym *Sylvanaar* |

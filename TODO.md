@@ -88,6 +88,25 @@
 - [ ] Test *N'-* prefix as fourth Aqir substrate morpheme — analysis added to alien-comparative.html; *N'-* (Shath'Yar "void/absence") may have reflexes in naga *Nazj-* (*N-* + *Azj-*) and nerubian *Nezar'Azret* (*Ne-* + *zar*); Very Low–Low confidence; Egyptian design aesthetic confound for *Nezar-*
 - [ ] Map initial-apostrophe nerubian names by context — four names (*Y'tekhi*, *A'zak*, *Ix'lar*, *Ix'zek*) may reflect Shath'Yar substrate; *Y'tekhi* underwent Old Blood transformation; analysis added to nerubian grammar.md; Very Low confidence; testable with new data
 - [ ] Investigate Zandali *Ma'* ↔ Darnassian *Min'* sound correspondence — **SIGNIFICANTLY UPDATED**: Analysis shows this is likely NOT a regular sound change; counterexamples exist (*na* and *-da* have /a/ in both families). The *Ma'/Min'* alternation is specific to the "mother" word and may reflect baby-talk formation or conditioned change before glottal stop. Three additional Zandali–Elven cognate candidates identified: *ala-* "bright/burning" (Low–Moderate), *na* preposition (Low–Moderate), *na/no* pair (Low). See Darnassian grammar.md Investigation 7 for full analysis
+- [ ] Fix HTML-MD sync gaps across all 30 language directories — **COMPREHENSIVE AUDIT COMPLETE**: Every directory has some sync gaps; worst are mogu vocabulary.html (34.4% coverage), taur-ahe vocabulary.html (43.3%), nature vocabulary.html (50.3%), shalassian vocabulary.html (53.6%), titan vocabulary.html (57.2%); most common missing content: categorized vocabulary tables, investigation/analysis sections, phonology tables, reliability notes; see audit results for full details
+- [ ] Investigate Darnassian *Aran* vs *-naar* toponymic allomorphy — three hypotheses proposed (allomorphy preferred, Low–Moderate confidence); both mean "town/settlement" but differ phonologically; see Darnassian grammar.md Investigation 8
+- [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — *Ande'thoras-ethil* introduces a third imperative particle *Ande*; may reflect optative mood, formal register, or phonological conditioning; see Darnassian grammar.md imperative constructions
+
+## Completed This Round (2026-06-29, Round 7)
+
+- [x] Add 3 new Darnassian confirmed translations from wiki: *Ande'thoras-ethil* = "May your troubles be diminished" (farewell), *Anu'dorini Talah* = "Let my will be known" (war cry), *Bandu Thoribas* = "Prepare to fight" (challenge)
+- [x] Add 34 new Darnassian proper nouns from wiki: place names including *Astranaar*, *Dolanaar*, *Nar'thalas*, *Shandaral*, *Sylvanaar*, *Shala'nir*, *Elune'ara*, *Elune'eth*, *Thal'dranath*, *Llothien*, etc.
+- [x] Add Darnassian Investigation 8: Toponymic Morphemes — *Aran*, *-naar*, *-thalas*; 5 morphemes identified with confidence ratings; *Aran* vs *-naar* allomorphy analysis (3 hypotheses); cross-elven significance of *-thalas*; expanded corpus observations
+- [x] Update Darnassian grammar.md imperative constructions: add *Ande* variant, *Bandu Thoribas* additional imperative, *Anu'dorini Talah* war cry construction
+- [x] Update Darnassian attestation summary: phrases 8+ → 11+, confirmed morphemes 8+ → 10+ (added *Aran*, *-naar*), place names 9 → 43+, investigations 5 → 6
+- [x] Upgrade Thalassian *Band'or shorel'aran* from uncertain to confirmed (Chinese WoW official translation)
+- [x] Add Thalassian RPG and Speculative Etymology section: *Quel'Zaram* = "High blade", *Ronae* = "Peaceful", *Sylvanas* etymology from Windrunner novel
+- [x] Comprehensive HTML-MD sync audit of all 30 language directories: identified coverage gaps across all directories
+- [x] Sync Darnassian vocabulary.html with new entries (3 confirmed phrases + 34 place names)
+- [x] Sync Darnassian grammar.html with new content (Investigation 8, expanded imperative constructions)
+- [x] Sync Darnassian description.html with updated attestation summary
+- [x] Sync Thalassian vocabulary.html with Band'or shorel'aran upgrade
+- [x] Update README.md Darnassian attestation level with expanded data
 
 ## Completed This Round (2026-06-28, Round 6)
 

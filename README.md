@@ -6,7 +6,7 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 
 | Language | Speakers | Folder | Attestation Level |
 |----------|----------|--------|-------------------|
-| Darnassian | Night Elves (Kaldorei) | [darnassian/](darnassian/) | Moderate — ~30-35 items; 28+ confirmed translations from wiki primer including 4 kinship terms (with confirmed Thalassian cognates), 14 confirmed proper names, first confirmed verb conjugation (*Aria* = "we face"), 30+ untranslated phrases; World Tree naming pattern fully resolved |
+| Darnassian | Night Elves (Kaldorei) | [darnassian/](darnassian/) | Moderate — ~30-35 items; 28+ confirmed translations from wiki primer including 4 kinship terms (with confirmed Thalassian cognates), 11+ attested phrases with translations, 14 confirmed proper names, first confirmed verb conjugation (*Aria* = "we face"), 43+ place names, 30+ untranslated phrases; World Tree naming pattern fully resolved; toponymic morphemes *Aran*/*-naar* (town) and *-thalas* (home) identified |
 | Thalassian | Blood Elves, High Elves, Void Elves | [thalassian/](thalassian/) | Moderate — 20+ confirmed phrases with official translations, 20+ untranslated phrases, 7 confirmed compound decompositions, 3 kinship terms, 30+ proper names; expanded via Warcraft Encyclopedia, Sean Copeland translations, and novelizations |
 | Draenei | Draenei (exiled Eredar) | [draenei/](draenei/) | Low — mostly place names |
 | Orcish | Orcs | [orcish/](orcish/) | Moderate — well-known phrases |

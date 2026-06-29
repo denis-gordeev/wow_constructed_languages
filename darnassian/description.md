@@ -122,14 +122,14 @@ The in-game script on Darnassian signage does not consistently map to romanized 
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Attested phrases (with translations) | 8+ | *Elune-adore*, *Andu-falah-dor*, *Ash karath*, *Tor ilisar'thera'nal*, *Fandu-dath-belore?*, *Sindu-fallah-nor*, *Ishnu-alah*, *Ishnu-dal-die* |
-| Confirmed morphemes | 8+ | *Kal* (star), *dor/drassil* (crown), *Tel* (earth), *Nor* (heavens), *Zin* (glory), *dorei* (children of), *Quel* (noble), *shan* (honored/learner) |
+| Attested phrases (with translations) | 11+ | *Elune-adore*, *Andu-falah-dor*, *Ash karath*, *Tor ilisar'thera'nal*, *Fandu-dath-belore?*, *Sindu-fallah-nor*, *Ishnu-alah*, *Ishnu-dal-die*, **Ande'thoras-ethil** (farewell), **Anu'dorini Talah** (war cry), **Bandu Thoribas** (challenge) |
+| Confirmed morphemes | 10+ | *Kal* (star), *dor/drassil* (crown), *Tel* (earth), *Nor* (heavens), *Zin* (glory), *dorei* (children of), *Quel* (noble), *shan* (honored/learner), *Aran* (town), *-naar* (town/settlement) |
 | Inferred morphemes | 4+ | *Andu/Tor* (imperative), *Endu* (negative), *ilisar* (enemies), *adore* (bless) |
-| Attested place names | 9 | *Darnassus*, *Teldrassil*, *Nordrassil*, *Vordrassil*, *Andrassil*, *Shaladrassil*, *Zin-Azshari*, *Suramar*, *Nazjatar* |
+| Attested place names | 43+ | *Darnassus*, *Teldrassil*, *Nordrassil*, *Vordrassil*, *Andrassil*, *Shaladrassil*, *Zin-Azshari*, *Suramar*, *Nazjatar* + 34 additional from wiki (including *Astranaar*, *Dolanaar*, *Nar'thalas*, *Shandaral*, *Sylvanaar*, etc.) |
 | Attested personal names/titles | 7+ | *Kaldorei*, *Quel'dorei*, *Shan'do*, *Thero'shan*, *Ban'dinoriel*, **Belor'relos** (The Suncaller), **Anu'relos** (fiery somnowl) |
 | Uncertain words | 4 | *Xil'varu*, *Ma'thor*, *Asha'man*, *Alah* |
 | Attested sentences with full glosses | 0 | No Darnassian sentences have confirmed word-by-word translations |
-| Open linguistic investigations | 5 | Kinship cognates, *-da*/*-do* register alternation, World Tree naming, first verb conjugation, **-relos agentive morpheme** (Moderate confidence, 3 attestations including *elen'relos*) |
+| Open linguistic investigations | 6 | Kinship cognates, *-da*/*-do* register alternation, World Tree naming, first verb conjugation, *-relos* agentive morpheme (Moderate confidence, 3 attestations), **Toponymic morphemes *Aran*/*-naar*** (Low–Moderate confidence) |
 
 ## References
 
