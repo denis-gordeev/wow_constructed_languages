@@ -32,6 +32,7 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 | Amir | /ɑˈmɪr/ | Harmony | [inferred] from Amirdrassil = "Crown of Harmony" |
 | And | /ɑnd/ | Snow | [inferred] from Andrassil = "Crown of the Snow" |
 | Vor | /vɔr/ | Broken | [inferred] from Vordrassil = "Broken Crown" |
+| Ethil | /ˈɛθɪl/ | Diminished / Warded | [inferred] from *Ande'thoras-ethil* ("May your troubles be diminished"); confirmed in farewell phrase; also in *Irana'ethil* ("Shield against the Shadow") and *Ban'ethil* (barrow den); see grammar.md Investigation 11 |
 
 ## Kinship Terms
 
@@ -138,7 +139,7 @@ Phrases attested in Warcraft III voice lines, WoW RPG sourcebooks, and novelizat
 | Bel'ameth | /bɛlˈɑmɛθ/ | The arms of the Goddess | New Moon quest; *Bel'* + *'ameth*; *Bel-* may connect to Thalassian *belore* (sun) or be a separate root |
 | Ellemayne | /ˌɛlɛˈmɑjnɛ/ | Reaver | Flashback (novel); one of the Twin Blades of Azzinoth |
 | Elun'dris | /ɛˈluːnˌdrɪs/ | The Eye of Elune | Chronicle Volume 1; *Elun* (Elune) + *'dris* (eye) |
-| Irana'ethil | /ˌɪrɑnɑˈɛθɪl/ | Shield against the Shadow | World of Warcraft: Exploring Azeroth: Kalimdor; *-ethil* may connect to Thalassian *ethil* ("diminished") or be a separate root |
+| Irana'ethil | /ˌɪrɑnɑˈɛθɪl/ | Shield against the Shadow | World of Warcraft: Exploring Azeroth: Kalimdor; *-ethil* may connect to Thalassian *ethil* ("diminished") or be a separate root; see grammar.md Investigation 11 |
 | Jai'alator | /ˌdʒɑɪˈɑlɑtɔr/ | Noble blade of Elune | Stormrage (novel) |
 | Lathar'Lazal | /ˌlɑθɑrˈlɑzɑl/ | Seat of the Sky | Exploring Azeroth: Kalimdor |
 | Nar'valas | /nɑrˈvɑlɑs/ | View of Unending Stars | Exploring Azeroth: Kalimdor |

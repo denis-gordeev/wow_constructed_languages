@@ -89,8 +89,27 @@
 - [ ] Map initial-apostrophe nerubian names by context — four names (*Y'tekhi*, *A'zak*, *Ix'lar*, *Ix'zek*) may reflect Shath'Yar substrate; *Y'tekhi* underwent Old Blood transformation; analysis added to nerubian grammar.md; Very Low confidence; testable with new data
 - [ ] Investigate Zandali *Ma'* ↔ Darnassian *Min'* sound correspondence — **SIGNIFICANTLY UPDATED**: Analysis shows this is likely NOT a regular sound change; counterexamples exist (*na* and *-da* have /a/ in both families). The *Ma'/Min'* alternation is specific to the "mother" word and may reflect baby-talk formation or conditioned change before glottal stop. Three additional Zandali–Elven cognate candidates identified: *ala-* "bright/burning" (Low–Moderate), *na* preposition (Low–Moderate), *na/no* pair (Low). See Darnassian grammar.md Investigation 7 for full analysis
 - [x] Fix HTML-MD sync gaps across all 30 language directories — **COMPLETED Round 8**: 5 worst directories fixed (mogu 34.4%→~90%, taur-ahe 43.3%→~95%, nature 50.3%→~90%, shalassian 53.6%→~90%, titan 57.2%→~90%); remaining 25 directories audited — all in sync or only minor intro gaps (sethrak, since fixed); added missing beings (Toat, Molthor, Daakara to mogu), 14 missing morphemes to mogu Roots & Morphemes table, Gloss columns to mogu Clan/Dynasty/Artifact tables, dynasty note, MOTHER row and expanded Notes to titan, missing English title entries to shalassian, -ka morpheme to taur-ahe, full Notes section to nature; fixed orcish duplicate Nagrand entry
-- [ ] Investigate Darnassian *Aran* vs *-naar* toponymic allomorphy — three hypotheses proposed (allomorphy preferred, Low–Moderate confidence); both mean "town/settlement" but differ phonologically; see Darnassian grammar.md Investigation 8
-- [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — *Ande'thoras-ethil* introduces a third imperative particle *Ande*; may reflect optative mood, formal register, or phonological conditioning; see Darnassian grammar.md imperative constructions
+- [ ] Investigate Darnassian *Aran* vs *-naar* toponymic allomorphy — **SIGNIFICANTLY UPDATED Round 10**: elven-comparative.html Set 6 now includes 4 Darnassian *Aran* attestations and 3 *-naar* attestations; *Aran* confirmed as Darnassian–Shalassian cognate (Moderate–High confidence); *-naar* allomorphy hypothesis maintained (Low–Moderate); see Darnassian grammar.md Investigation 8
+- [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
+
+## Completed This Round (2026-06-30, Round 10)
+
+- [x] Update elven-comparative.html Set 6 (*-aran*) with 4 Darnassian attestations (*Ameth'Aran*, *Bashal'Aran*, *Loreth'Aran*, *Morlos'Aran*) and *-naar* allomorphy analysis; confidence upgraded from Medium–Low to Moderate–High
+- [x] Add elven-comparative.html Set 19: *ther-* / *thero-* cross-elven battle/warning cognate (Darnassian *thera*, Nazja *thero*, *-tharei*; Low–Moderate confidence)
+- [x] Add elven-comparative.html Set 20: *-ethil* "diminished/warded" morpheme (Darnassian 3 attestations, Thalassian shared phrase; Moderate confidence)
+- [x] Deepen elven-comparative.html *Andu*/*Ande* correspondence with *Bandu* analysis — three-form imperative paradigm with proposed prefix × vowel matrix
+- [x] Update elven-comparative.html comparative wordlist with *Aran*/*-naar*, *ther-*, *-ethil* entries
+- [x] Update elven-comparative.html probable reconstructions table with *aran/-naar*, *ther-*, *-ethil* entries
+- [x] Update elven-comparative.html shared grammar table with *Aran* and *-ethil* as inherited Proto-Elven features
+- [x] Add Darnassian grammar.md Investigation 10: *ther-* cross-elven battle cognate analysis
+- [x] Add Darnassian grammar.md Investigation 11: *-ethil* "diminished/warded" morpheme analysis
+- [x] Add Darnassian grammar.md Investigation 12: imperative paradigm (*Andu*/*Ande*/*Bandu*) analysis
+- [x] Update Darnassian grammar.md imperative constructions section with cross-reference to Investigation 12
+- [x] Sync Darnassian grammar.html with Investigations 10–12
+- [x] Update Darnassian description.md attestation summary: investigations count 7 → 10
+- [x] Sync Darnassian description.html with updated investigation count
+- [x] Add *Ethil* noun entry to Darnassian vocabulary.md
+- [x] Update Darnassian vocabulary.md *Irana'ethil* entry with Investigation 11 cross-reference
 
 ## Completed This Round (2026-06-30, Round 9)
 

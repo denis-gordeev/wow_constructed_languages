@@ -89,7 +89,7 @@ Both `Andu` and `Tor` function as jussive/imperative particles meaning "let." Th
 
 **Direct command form**: `Ash karath` ("Do it / Make it so") — a separate imperative construction without a jussive particle, possibly a direct second-person command.
 
-**Additional imperative**: `Bandu Thoribas` ("Prepare to fight") — *Bandu* is morphologically similar to *Andu*/*Ande* and may share the same jussive root with a different prefix vowel or initial consonant alternation; alternatively, *Bandu* may be a distinct imperative verb form. The *Bu*/*Du* element in both *Bandu* and *Andu* may carry the core imperative meaning.
+**Additional imperative**: `Bandu Thoribas` ("Prepare to fight") — *Bandu* is morphologically similar to *Andu*/*Ande* and may share the same jussive root with a different prefix vowel or initial consonant alternation; alternatively, *Bandu* may be a distinct imperative verb form. The *Bu*/*Du* element in both *Bandu* and *Andu* may carry the core imperative meaning. See Investigation 10 for expanded paradigm analysis.
 
 **War cry construction**: `Anu'dorini Talah` ("Let my will be known") — *Anu'* + *dorini* ("my will") + *Talah* ("be known"); this uses *Anu'* as a sentence-initial subject marker rather than a jussive particle, providing evidence for subject-initial word order in declarative/performative utterances.
 
@@ -609,3 +609,115 @@ The form is identical and both languages use it in apostrophe-marked compounds. 
 The form is phonologically distinctive (two syllables, medial /n/, final /ɛl/), making coincidental similarity less likely. If both mean "the last," this would be a cognate with stable semantics — a rarer and more significant type. See elven-comparative.html Set 18.
 
 **Confidence: Low–Moderate**
+
+### Investigation 10: The *ther-* Root — Cross-Elven Battle/Warning Cognate
+
+The element *ther-* / *thero-* appears in battle-related contexts across Darnassian and Nazja, suggesting a Proto-Elven root meaning "beware/battle/strife."
+
+#### Evidence Table
+
+| Language | Form | Context | Source |
+|----------|------|---------|--------|
+| Darnassian | *thera'nal* | *Tor ilisar'thera'nal* ("Let our enemies beware") | Warcraft III / WoW |
+| Darnassian | *Ash'theran* | Place name (night elf enclave in Val'sharah) | Legion zone |
+| Nazja | *thero* | *Ash-thero-sauguine!* (Myrmidon battle cry) | WC3 / Broken Isles |
+| Nazja | *A-thero* | *Athero bath'rilas!* (Sea Witch incantation) | WC3 |
+| Nazja | *-tharei* | *Osh'bala-tharei* (Siren voice line) | WC3 |
+
+The Darnassian form *thera'nal* is the most informative: in the confirmed translation "Let our enemies beware," *thera* carries the "beware" meaning and *'nal* may be a verbal suffix or mood marker. The Nazja forms consistently appear in combat contexts — *Ash-thero-sauguine!* is a battle cry, *Athero bath'rilas!* is a Sea Witch incantation, and *Osh'bala-tharei* is a Siren voice line.
+
+The place name *Ash'theran* combines the *Ash-* element (also in *Ash karath* "do it", *Ash'therod nethanas*) with *-theran*, possibly "place of strife" or "battle enclave."
+
+#### Phonological Consistency
+
+The root shows a consistent shape *therV-* across both languages:
+- Darnassian: *thera-* (with /a/ vowel)
+- Nazja: *thero-* (with /o/ vowel) and *tharei-* (with /a/ + suffix)
+
+The vowel alternation /e/ ~ /o/ ~ /a/ may reflect ablaut or phonological development in the naga vocal apparatus. The dental fricative /θ/ and liquid /r/ are stable across both languages.
+
+#### Problem: *Thero* in *Thero'shan* ("Beloved Student")
+
+Darnassian *Thero* in *Thero'shan* ("Beloved Student") appears semantically incompatible with "beware/battle." Three explanations:
+
+1. **Homophonous morphemes**: *ther-* "beware/battle" and *thero* "beloved" are unrelated forms that happen to share phonological shape. This is cross-linguistically common.
+2. **Semantic extension**: "Beloved" could derive from "one who strives/struggles" — a student who strives is beloved. This would require a semantic chain *beware → strive → beloved*, which is tenuous.
+3. **Different derivation**: *Thero'shan* may decompose differently than assumed. If *thero* ≠ "beloved" but rather "striver" and *shan* = "honored," then *Thero'shan* = "honored striver" rather than "beloved student."
+
+#### Cross-Elven Significance
+
+If *ther-* "beware/battle" is a Proto-Elven root, it represents one of the few vocabulary cognates shared between Darnassian and Nazja (alongside *adore*, *zin*, *-dorei*, and *elun-*). The retention of this root in Nazja — a language that has diverged dramatically from Darnassian due to 10,000 years of underwater isolation and physiological transformation — suggests it was a high-frequency item in the military/warrior register of Proto-Elven.
+
+See elven-comparative.html Set 19 for the full comparative analysis.
+
+**Confidence: Low–Moderate** for *ther-* as a cross-elven root "beware/battle/strife" (4+ attestations across 2 languages with consistent semantics); **Very Low** for connecting *Thero* "beloved" to the same root.
+
+### Investigation 11: The *-ethil* Element — "Diminished / Warded"
+
+The element *-ethil* appears in three Darnassian proper names and one shared Darnassian–Thalassian phrase, making it a potential Proto-Elven morpheme.
+
+#### Evidence Table
+
+| Form | Translation | Context | Language |
+|------|-------------|---------|----------|
+| *Ande'thoras-ethil* | "May your troubles be diminished" | Farewell/blessing | Darnassian + Thalassian |
+| *Irana'ethil* | "Shield against the Shadow" | Title/compound name | Darnassian |
+| *Ban'ethil* | (barrow den in Teldrassil) | Place name | Darnassian |
+
+In *Ande'thoras-ethil*, *ethil* is confirmed as "diminished/lessened" from the official translation. The morpheme boundary is clear: *thoras* = "troubles" + *ethil* = "diminished."
+
+In *Irana'ethil* ("Shield against the Shadow"), *-ethil* may mean "that which diminishes [the shadow]" → "shield/ward." This semantic extension — from "diminished" to "that which diminishes" — is a natural agentive derivation, similar to how English "reducer" derives from "reduce."
+
+*Ban'ethil* (barrow den) is more opaque. If *Ban-* relates to *Bandu* (imperative "prepare") or *Ban'dinoriel* ("Gatekeeper"), then *Ban'ethil* could mean "ward of preparation" — a fitting name for a barrow den where druids enter a diminished state of hibernation.
+
+#### Morphological Status
+
+If *-ethil* is a genuine suffix meaning "diminished," it would be the first attested Darnassian suffix with a confirmed semantic gloss other than *-dorei* and the kinship suffixes. Its appearance in the shared Darnassian–Thalassian phrase *Ande'thoras-ethil* confirms it as Proto-Elven, not a Darnassian innovation.
+
+See elven-comparative.html Set 20 for the full comparative analysis.
+
+**Confidence: Moderate** for *-ethil* as a genuine Darnassian morpheme (3 attestations, confirmed gloss in one); **Low–Moderate** for the semantic analysis "diminished → warded/shielded."
+
+### Investigation 12: The Imperative Paradigm — *Andu*, *Ande*, *Bandu*
+
+The three attested imperative forms *Andu*, *Ande*, and *Bandu* share the consonantal core *-ndV* and may constitute a systematic paradigm — the most grammatically rich subsystem identified in Darnassian.
+
+#### Three-Form Analysis
+
+| Form | Context | Translation | Morphological Shape |
+|------|---------|-------------|---------------------|
+| *Andu* | *Andu-falah-dor* | "Let balance be restored" | *A-* + *-ndu* |
+| *Ande* | *Ande'thoras-ethil* | "May your troubles be diminished" | *A-* + *-nde* |
+| *Bandu* | *Bandu Thoribas* | "Prepare to fight" | *Ba-* + *-ndu* |
+
+#### Proposed Paradigm
+
+Two axes of variation emerge:
+
+1. **Prefix**: *A-* vs. *Ba-* — may mark person or emphasis
+2. **Vowel**: *-ndu* vs. *-nde* — may mark mood (jussive vs. optative)
+
+| | Jussive (*-ndu*) | Optative (*-nde*) |
+|---|---|---|
+| **Unmarked (*A-*)** | *Andu* ("let") | *Ande* ("may") |
+| **Emphatic/2nd person (*Ba-*)** | *Bandu* ("prepare!") | *(not attested)* |
+
+This paradigm makes a clear prediction: a fourth form **Bande** should exist, meaning "May you..." (2nd person optative). While unattested, the systematic gap is expected given the tiny corpus.
+
+#### Alternative Analyses
+
+1. **Vowel gradation marks mood only**: *-ndu* = jussive/imperative, *-nde* = optative. The *A-*/*Ba-* difference is then phonological or coincidental rather than morphological. Under this analysis, *Bandu* is simply a variant of *Andu* with emphatic *B-* prefixation.
+
+2. **The core is *-nd-***: If the root is simply *-nd-* meaning "command/imperative," then the surrounding vowels and consonants are affixes: *A-nd-u*, *A-nd-e*, *Ba-nd-u*. This parallels the *-dorei*/*-drassil* vowel alternation pattern already identified in World Tree names.
+
+3. ***Bandu* is unrelated**: *Andu* and *Ande* may be cognate forms (with regular sound change *u* > *e* in Thalassian), while *Bandu* is a completely different word that coincidentally shares the *-ndu* sequence.
+
+#### Assessment
+
+| Analysis | Plausibility | Notes |
+|----------|-------------|-------|
+| Systematic paradigm (prefix × vowel) | **Low–Moderate** | Internally consistent but rests on 3 forms; 4th form predicted but unattested |
+| Vowel gradation marks mood only; *A-*/**Ba-* is emphatic | **Low–Moderate** | Simpler analysis; *Ba-* prefix has no other attestation |
+| *Andu*/*Ande* are cognates; *Bandu* is unrelated | **Low** | *-ndu* consonantal core is distinctive; coincidence is possible but not preferred |
+
+**Confidence: Low–Moderate** for a systematic imperative paradigm. The strongest evidence is the shared *-ndV* core across all three forms, which is phonologically distinctive enough that coincidence is unlikely. However, the paradigm's specific structure (prefix × vowel) remains speculative with only three data points.
