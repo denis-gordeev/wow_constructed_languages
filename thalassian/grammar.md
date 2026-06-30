@@ -441,7 +441,7 @@ Additionally, both words co-occur with *fallah* / *falah*:
 - Thalassian: *Shindu fallah na* ("They are breaking through")
 - Darnassian: *Sindu-fallah-nor* (uncertain meaning)
 
-If cognate, *fallah* / *falah* would also be a shared root — but the Darnassian *falah* is glossed as "balance" (in *Andu-falah-dor* "Let balance be restored") while the Thalassian *fallah* is glossed as "breaking through." These meanings are semantically distant, though one could hypothesize a root meaning "disruption/overturning" that gave "balance" (restoring disruption) in Darnassian and "breaking through" in Thalassian.
+If cognate, *fallah* / *falah* would also be a shared root — but the Darnassian *falah* is glossed as "balance" (in *Andu-falah-dor* "Let balance be restored") while the Thalassian *fallah* is glossed as "breaking through." These meanings are semantically distant, though one could hypothesize a root meaning "disruption/overturning" that gave "balance" (restoring disruption) in Darnassian and "breaking through" in Thalassian. This *falah/fallah* pair is now documented as a speculative cognate in its own right (elven-comparative.html Set 15), as the phonological similarity is strong regardless of the *sindu/shindu* cognate question.
 
 **Confidence: Low–Moderate** for cognacy. The phonological regularity of /s/ → /ʃ/ before /i/ is typologically expected, and the co-occurrence with *fallah/falah* adds circumstantial support. However, the semantic gap (Darnassian "sleep/fallen" vs. Thalassian "failing/breaking") and the limited corpus prevent firm conclusions. If this cognate pair is confirmed, it would represent the first attested regular sound change between Darnassian and Thalassian beyond the *Andu/Ande* correspondence.
 
@@ -470,3 +470,7 @@ If cognate, *fallah* / *falah* would also be a shared root — but the Darnassia
 | Battle cry template | Selama + phrase | Moderate — three variants; see Investigation 2 |
 | *Shindu* ↔ Darnassian *Sindu* | Possible cognate with /s/→/ʃ/ palatalization | Low–Moderate — see Investigation 3 |
 | *Thas* ↔ Darnassian *Tha-* | Possible shared root "forest/home" | Low — see Investigation 3 |
+| *fallah* ↔ Darnassian *falah* | "breaking through" ↔ "balance"; semantic divergence from shared root "disruption" | Low–Moderate — see elven-comparative.html Set 15 |
+| *Dal* ↔ Darnassian *dal* | Same form "fortune/goodness" in both | Low–Moderate — see elven-comparative.html Set 16 |
+| *shan* ↔ Darnassian *shan* | Unknown meaning ↔ "honored"; identical form and compounding pattern | Low — see elven-comparative.html Set 17 |
+| *finel* ↔ Darnassian *Finel* | Unknown ↔ "the last"; distinctive form | Low–Moderate — see elven-comparative.html Set 18 |

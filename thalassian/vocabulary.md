@@ -15,7 +15,7 @@ All entries are attested in World of Warcraft in-game dialogue, NPC speech, ques
 | Thoras | /ˈθɔrɑs/ | Troubles, Burdens | Ande'thoras-ethil ("May your troubles be diminished") |
 | Anar | /ˈɑnɑr/ | By (preposition); possibly also "light" | Anar'alah belore — anar = "by" |
 | Malanorei | /mɑlɑˈnɔrɛɪ/ | Travelers, Wanderers | Bal'a dash, malanorei ("Greetings, traveler") |
-| Dal | /dɑl/ | *Possibly "fortune" or "goodness"* | *[uncertain] Possibly in Ishnu-dal-die (if cross-language)* |
+| Dal | /dɑl/ | *Possibly "fortune" or "goodness"* | *[uncertain] Possibly in Ishnu-dal-die (if cross-language); potential cognate with Darnassian *dal* — see elven-comparative.html Set 16* |
 | Shindu | /ˈʃɪndu/ | Failing, Breaking | Shindu fallah na ("They are breaking through"); Shindu sin'dorei ("Failing children of the blood"); from *Lament of the Highborne*; see grammar.md Investigation 3 for possible Darnassian cognate *Sindu* |
 | Selama | /sɛˈlɑmɑ/ | Justice | Selama ashal'anore ("Justice for our people"); Warcraft Encyclopedia |
 | Tal | /tɑl/ | Death | Tal anu'men no Sin'dorei ("Death to all who oppose the children of the blood") |
@@ -191,7 +191,7 @@ Phrases attested in-game or in official sources without confirmed Blizzard trans
 | Scintilas | /sɪnˈtɪlɑs/ | Waterfall in Eversong Woods | Eversong zone |
 | Falthrien | /ˈfɑlθriɛn/ | Arcane academy on Sunstrider Isle | Starting zone |
 | Shalandis | /ʃɑˈlɑndɪs/ | Island off Ghostlands coast | Ghostlands zone |
-| Shan'dor | /ʃɑnˈdɔr/ | Runestone in Eversong Woods | Eversong zone |
+| Shan'dor | /ʃɑnˈdɔr/ | Runestone in Eversong Woods; *shan* possibly cognate with Darnassian *shan* "honored" (elven-comparative.html Set 17) | Eversong zone |
 | Falithas | /ˈfɑlɪθɑs/ | Runestone in Eversong Woods | Eversong zone |
 
 ### Sunwell Gates
@@ -240,7 +240,7 @@ Phrases attested in-game or in official sources without confirmed Blizzard trans
 | Silversun Compact | — | Faction (Midnight) | Alliance of Sunreavers and Silver Covenant formed by Aethas Sunreaver and Vereesa Windrunner after the Battle of the Darkwell. Portmanteau of "Silver" (Silver Covenant) + "Sun" (Sunreavers; cf. *belore* = "sun"). Common-language compound, not Thalassian, but culturally significant — the "sun" element echoes *belore*, the Thalassian word for "sun" |
 | Darkwell | — | Corrupted Sunwell (Midnight) | The Sunwell after L'ura fired a void beam into it, corrupting it. Common-language name ("Dark" + "Well"). The most significant desecration of the holiest site in Thalassian culture. Fully documented in [Shath'Yar vocabulary](../shath-yar/vocabulary.md). The Darkwell was later purified and renamed the Dawnwell |
 | Dawnwell | — | Purified Sunwell (Midnight) | The renamed Sunwell after leaders from each elven faction offered a piece of their heritage to purify the Darkwell. The name uses Common/English "Dawn" + "Well" but is culturally significant: "Dawn" symbolizes the new era of elven unity. No Thalassian form of "Dawnwell" is attested; if one existed, it might contain *belore* (sun) — e.g., *Belore'thalas* ("Sun-well" → "Dawn-well") — but this is speculative |
-| Shan'dorah | /ʃɑnˈdɔrɑ/ | Ren'dorei camp in K'aresh | Ghosts of K'aresh (Midnight) |
+| Shan'dorah | /ʃɑnˈdɔrɑ/ | Ren'dorei camp in K'aresh; *shan* possibly cognate with Darnassian *shan* "honored" (elven-comparative.html Set 17) | Ghosts of K'aresh (Midnight) |
 | Belo'ren | /bɛˈlɔˌrɛn/ | Phoenix child of Al'ar, guarding the Sunwell | Midnight expansion |
 
 ### Additional Proper Names (Uncertain Morphemic Content)

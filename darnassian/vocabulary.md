@@ -25,7 +25,7 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 | Fandu | /ˈfɑndu/ | Who (interrogative) | [inferred] from Fandu-dath-belore |
 | Dath | /dɑθ/ | Goes / approaches | [inferred] from Fandu-dath-belore |
 | Lura | /ˈluːrɑ/ | Sea | Hearthstone: Voyage to the Sunken City |
-| Finel | /fɪˈnɛl/ | The last | Elegy (novel); appears in *Torel na finel* |
+| Finel | /fɪˈnɛl/ | The last | Elegy (novel); appears in *Torel na finel*; potential cognate with Thalassian *finel* (elven-comparative.html Set 18) |
 | Denalore | /ˌdɛnɑˈlɔrɛ/ | Oblivion, devastation | Hearthstone: Voyage to the Sunken City |
 | Dris | /drɪs/ | Eye | [inferred] from Elun'dris ("Eye of Elune") |
 | Dwarf | /dwɔrf/ | Originally a derogatory night elven word for earthen | The Sundering (novel); rare case of Darnassian→Common borrowing |
@@ -67,7 +67,7 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 | Thero | /ˈθɛrɔ/ | Beloved | [inferred] from Thero'shan |
 | Shan | /ʃɑn/ | Honored | [inferred] from Shan'do |
 | Ru'shem | /ruˈʃɛm/ | Cursed / Damned | Attested imprecation |
-| Falah | /ˈfɑlɑ/ | Balance / equilibrium | [inferred] from Andu-falah-dor; may be nominal |
+| Falah | /ˈfɑlɑ/ | Balance / equilibrium | [inferred] from Andu-falah-dor; may be nominal; potential cognate with Thalassian *fallah* "breaking through" (elven-comparative.html Set 15) |
 
 ## Verbs / Particles
 

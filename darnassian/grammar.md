@@ -557,3 +557,55 @@ The expanded Darnassian place name corpus (34 additional proper nouns from warcr
 - *Shala'nir* (druid grove) contains the *Shal* root also found in *Shal'nar* (aunt), *Shal'na* (Thalassian "aunt"), *Shaladrassil*, and Shalassian *Shal* (twilight/arcane)
 - *Nar'thalas* contains *-thalas* ("home") and *Nar-* which may connect to *Nar'valas* ("View of Unending Stars")
 - *Thal'dranath* (original name of Broken Shore) contains *Thal* "home" + *'dranath*, possibly related to *-drassil* "crown" or a distinct morpheme
+
+### Investigation 9: Additional Elven Cognate Candidates (Sets 15–18)
+
+Four additional cognate candidates have been identified through cross-referencing Darnassian and Thalassian vocabulary. These are documented as Sets 15–18 in elven-comparative.html and require more data for confirmation.
+
+#### Candidate A: *falah* / *fallah* — "balance" / "breaking through"
+
+| | Darnassian | Thalassian |
+|---|-----------|------------|
+| **Form** | *falah* /ˈfɑlɑ/ | *fallah* /ˈfɑlɑ/ |
+| **Meaning** | "balance" (in *Andu-falah-dor*) | "breaking through" (in *Shindu fallah na*) |
+| **Attestation** | 1 confirmed phrase | 2 phrases (*Shindu fallah na*, *Sindu-fallah-nor*) |
+
+The phonological form is nearly identical, differing only in gemination of /l/. The semantic divergence is explained by a unified root meaning "disruption/overturning": Darnassian retains the result sense ("balance" = the restored state), Thalassian retains the action sense ("breaking through"). The root co-occurs with *sindu/shindu* in both languages, strengthening the cognate hypothesis through shared syntagmatic context. See elven-comparative.html Set 15.
+
+**Confidence: Low–Moderate**
+
+#### Candidate B: *dal* — "fortune / goodness"
+
+| | Darnassian | Thalassian |
+|---|-----------|------------|
+| **Form** | *dal* /dɑl/ | *Dal* /dɑl/ |
+| **Meaning** | Possibly "fortune" (in *Ishnu-dal-die*) | Possibly "fortune" or "goodness" |
+| **Attestation** | 1 phrase (*Ishnu-dal-die*) | Vocabulary entry (cross-references Darnassian phrase) |
+
+The same form appears in both languages with the same proposed meaning. If *Ishnu-dal-die* is a shared elven farewell formula, *dal* would be the second shared vocabulary item in that phrase (after *Ishnu*). However, *dal* is a short CVC form and the meaning is uncertain in both languages. See elven-comparative.html Set 16.
+
+**Confidence: Low–Moderate**
+
+#### Candidate C: *shan* — "honored" / unknown
+
+| | Darnassian | Thalassian |
+|---|-----------|------------|
+| **Form** | *shan* /ʃɑn/ | *shan* /ʃɑn/ |
+| **Meaning** | "honored" (in *Shan'do*) or "learner" (in *Thero'shan*) | Unknown (in *Shan'dor*, *Shan'dorah*, untranslated *shanal*, *shan're*) |
+| **Attestation** | 2 confirmed titles | 2 proper nouns + 2 untranslated phrases |
+
+The form is identical and both languages use it in apostrophe-marked compounds. Nazja also shows *Shan* as a personal name element. Without a confirmed Thalassian gloss, the cognate hypothesis rests on form and compounding pattern alone. See elven-comparative.html Set 17.
+
+**Confidence: Low**
+
+#### Candidate D: *finel* — "the last"
+
+| | Darnassian | Thalassian |
+|---|-----------|------------|
+| **Form** | *Finel* /fɪˈnɛl/ | *finel* (in *Endala finel endal!*) |
+| **Meaning** | "the last" (confirmed, Elegy novel) | Unknown (untranslated phrase) |
+| **Attestation** | 1 confirmed noun + 1 phrase (*Torel na finel*) | 1 untranslated phrase |
+
+The form is phonologically distinctive (two syllables, medial /n/, final /ɛl/), making coincidental similarity less likely. If both mean "the last," this would be a cognate with stable semantics — a rarer and more significant type. See elven-comparative.html Set 18.
+
+**Confidence: Low–Moderate**

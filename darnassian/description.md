@@ -129,7 +129,7 @@ The in-game script on Darnassian signage does not consistently map to romanized 
 | Attested personal names/titles | 7+ | *Kaldorei*, *Quel'dorei*, *Shan'do*, *Thero'shan*, *Ban'dinoriel*, **Belor'relos** (The Suncaller), **Anu'relos** (fiery somnowl) |
 | Uncertain words | 4 | *Xil'varu*, *Ma'thor*, *Asha'man*, *Alah* |
 | Attested sentences with full glosses | 0 | No Darnassian sentences have confirmed word-by-word translations |
-| Open linguistic investigations | 6 | Kinship cognates, *-da*/*-do* register alternation, World Tree naming, first verb conjugation, *-relos* agentive morpheme (Moderate confidence, 3 attestations), **Toponymic morphemes *Aran*/*-naar*** (Low–Moderate confidence) |
+| Open linguistic investigations | 7 | Kinship cognates, *-da*/*-do* register alternation, World Tree naming, first verb conjugation, *-relos* agentive morpheme (Moderate confidence, 3 attestations), Toponymic morphemes *Aran*/*-naar* (Low–Moderate confidence), **Additional elven cognate candidates Sets 15–18** (*falah/fallah*, *dal*, *shan*, *finel*) |
 
 ## References
 
