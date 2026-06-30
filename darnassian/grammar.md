@@ -367,7 +367,7 @@ An alternative reading treats *-relos* as a light/fire element, making *Belor're
 | Suffix | Example | Proposed Meaning | Confidence |
 |--------|---------|------------------|------------|
 | *-relos* | *Belor'relos*, *Anu'relos*, *elen'relos* | "caller/summoner" | Moderate (3 attestations) |
-| *-anir* | *Alash'anir* ("venom and storm") | ? (possibly "bringer" or "bearer") | Very Low |
+| *-anir* / *-nir* | *Alash'anir* ("venom and storm"), *Shala'nir*, *Daral'nir* | ? (possibly "bringer" or "bearer"; or "people/ones of" — see Investigation 13) | Very Low |
 | *-ethil* | *Irana'ethil* ("Shield against the Shadow") | ? (possibly "diminished one" or "warden") | Very Low |
 | *-dorei* | *Kaldorei*, *Quel'dorei* | "children/people of" | High (shared with Thalassian) |
 
@@ -721,3 +721,107 @@ This paradigm makes a clear prediction: a fourth form **Bande** should exist, me
 | *Andu*/*Ande* are cognates; *Bandu* is unrelated | **Low** | *-ndu* consonantal core is distinctive; coincidence is possible but not preferred |
 
 **Confidence: Low–Moderate** for a systematic imperative paradigm. The strongest evidence is the shared *-ndV* core across all three forms, which is phonologically distinctive enough that coincidence is unlikely. However, the paradigm's specific structure (prefix × vowel) remains speculative with only three data points.
+
+### Investigation 13: Hara'ni–Elven Cognate Candidates — Deep Genetic Relationship
+
+The Haranir are confirmed to descend from dark trolls/night elves (*The Art of Midnight*, pg. 125): "those who would eventually become the haranir split from them and journeyed deep below the ground." This makes Hara'ni a **deeply divergent branch of the proto-troll/elven language family**, separated by ~16,000 years of independent development. While 16,000 years typically erases cognate recognition beyond the most deeply entrenched morphemes, several candidates warrant investigation.
+
+#### Candidate A: *-nir* Collective Suffix
+
+| | Hara'ni | Darnassian |
+|---|---------|-----------|
+| **Form** | *-nir* /-nɪr/ | *-anir* /-ɑnɪr/ or *-nir* /-nɪr/ |
+| **Proposed meaning** | "people" / collective ethnonym | "bringer/bearer" / agentive (Very Low confidence) |
+| **Attestations** | *Haranir* (the people) | *Alash'anir* ("venom and storm"), *Shala'nir* (druid grove), *Daral'nir* (great tree) |
+
+The suffix appears in both languages as a nominal suffix in proper names. In Hara'ni, *-nir* is the collective ethnonym suffix (*Haranir* = "the Hara-people"). In Darnassian, *-anir* / *-nir* appears in three place/proper names but has no confirmed gloss — the current analysis (Investigation 5) proposes "bringer" or "bearer" at Very Low confidence.
+
+If *-nir* is a Proto-Troll-Elven collective suffix meaning "people/ones of":
+- *Haranir* = "the Hara-people" (consistent with confirmed ethnonym function)
+- *Alash'anir* = "the ones of venom and storm" (consistent with confirmed translation "venom and storm" as a compound name for a being/place characterized by venom and storm)
+- *Shala'nir* = "the twilight-ones" or "the Shal-people" (if *Shala* relates to *Shal* = "twilight/shadow")
+- *Daral'nir* = "the Daral-ones" (gloss unknown)
+
+The variation *-anir* vs. *-nir* in Darnassian could reflect epenthetic /a/ before the suffix when the preceding morpheme ends in a consonant cluster, or the /a/ could belong to the preceding element (*Alash'a* + *-nir* rather than *Alash'* + *-anir*).
+
+**Phonological consistency**: The core *-nir* /-nɪr/ is identical in both languages. No sound change is needed to derive one from the other.
+
+**Problem**: The semantic gloss is uncertain in Darnassian. "Bringer/bearer" and "people/ones" are semantically distinct (though "the ones who bring/bear" could connect them). The Darnassian sample size is only three names with no confirmed gloss for the suffix itself.
+
+**Confidence: Low–Moderate** for *-nir* as a shared Proto-Troll-Elven collective suffix. The phonological match is exact and the morphological function (nominal suffix in proper names) is consistent, but the semantic gap and small sample size limit confidence.
+
+#### Candidate B: *Har'* "village" ↔ *Aran* / *-naar* "town/settlement"
+
+| | Hara'ni | Darnassian |
+|---|---------|-----------|
+| **Form** | *Har'* /har/ | *Aran* /ɑrɑn/, *-naar* /nɑːr/ |
+| **Confirmed meaning** | "village" (4 attestations) | "town/settlement" (4 *Aran* + 3 *-naar* attestations; Moderate–High confidence) |
+| **Attestations** | *Har'alnor*, *Har'athir*, *Har'kuai*, *Har'mara* | *Ameth'Aran*, *Bashal'Aran*, *Loreth'Aran*, *Morlos'Aran*, *Astranaar*, *Dolanaar*, *Sylvanaar* |
+
+Both morphemes mean "settlement" — the semantic match is exact. The phonological correspondence requires explanation:
+
+1. **Initial /h/ loss in Darnassian**: If Proto-Troll-Elven *\*harVn* meant "settlement," Darnassian could have lost the initial /h/ (one of the most common sound changes cross-linguistically) to yield *\*arVn* → *Aran*. Initial /h/ is extremely rare in Darnassian (only one attested word, *Hinduli* in an untranslated phrase, begins with /h/), while Hara'ni has very high /h/ frequency (6+/30 names). This asymmetry is consistent with systematic /h/ loss in the elven branch.
+
+2. **Vowel reduction in Hara'ni**: *Har'* represents a reduced form (loss of final vowel and nasal, with glottal stop compensating), while *Aran* preserves the full form.
+
+3. **The *-naar* variant**: If *Aran* /ɑrɑn/ → *-naar* /nɑːr/ through metathesis and vowel lengthening in suffix position (as proposed in Investigation 8), then both Darnassian forms derive from *\*harVn*.
+
+**Proposed sound change**: Proto-Troll-Elven *\*haran* "settlement" → Hara'ni *Har'* (reduction) vs. Darnassian *Aran* (initial /h/ loss).
+
+**Problem**: The /h/ → ∅ change, while typologically common, is not independently confirmed in the elven sound change repertoire. The single attestation of initial /h/ in Darnassian (*Hinduli*) could indicate that initial /h/ was retained in some words, making the /h/ → ∅ change sporadic rather than systematic. Additionally, /h/ in medial position survives in Darnassian (*Ara-Hinam*, *Izal-Shurah*).
+
+**Confidence: Low–Moderate** for *Har'* ↔ *Aran* as a shared Proto-Troll-Elven morpheme. The semantic match is exact and the /h/ → ∅ sound change is typologically natural, but the correspondence is not independently confirmed by other /h/-initial cognate pairs.
+
+#### Candidate C: *Aln-* "deep/source" ↔ Proto-Troll-Elven *\*ala-* "bright/burning/essence"
+
+| | Hara'ni | Zandali | Darnassian/Thalassian |
+|---|---------|---------|----------------------|
+| **Form** | *Aln-* /æln/ | *Alai* /ˈɑlɑɪ/ | *alah* /ˈɑlɑ/ |
+| **Meaning** | "deep/source/rift/essence" | "fire/flame" | "light/blessed" |
+| **Confidence** | Moderate–High | Confirmed | Confirmed |
+
+The *\*ala-* root is already identified as a potential Proto-Troll-Elven cognate (Investigation 7, Candidate A) with Low–Moderate confidence. The Hara'ni form *Aln-* adds a third reflex of this root, but with a critical difference: the extra *-n* and the divergent semantics.
+
+If *\*ala-* = "essence/potency" in Proto-Troll-Elven:
+- Zandali: *ala-* → *Alai* "fire/flame" (active potency)
+- Darnassian/Thalassian: *ala-* → *alah* "light/blessed" (visible potency)
+- Hara'ni: *ala-* + *-n* nominalizer → *Aln-* "deep/source/essence" (hidden/source potency)
+
+The *-n* in *Aln-* could be a Hara'ni-specific nominalizing or locative suffix fossilized onto the root, similar to how Darnassian adds *-ah* to form *alah*. Under this analysis, the shared root is *\*ala-* and the suffixes are language-specific innovations.
+
+The semantic specialization — "fire" in Zandali, "light" in elven, "source/essence" in Hara'ni — is consistent with divergent evolution from a root meaning "potency/essence": the surface-dwelling Zandali and elves associated potency with visible phenomena (fire, light), while the subterranean Haranir associated it with hidden depth.
+
+**Problem**: The *-n* in *Aln-* could be integral to the root rather than a suffix. If *Aln* is an indivisible morpheme, the relationship to *\*ala-* is phonologically weaker (/æln/ vs. /ɑlɑ/). The semantic gap ("essence" vs. "fire/light") is also significant, though explainable through metaphorical extension.
+
+**Confidence: Very Low–Low** for *Aln-* as a reflex of *\*ala-*. The shared /al-/ onset and the coherent semantic framework (if *\*ala-* = "essence") are suggestive, but the extra *-n* and the semantic divergence make this a weak candidate.
+
+#### Candidate D: *-mara* "balance" ↔ Zandali *-mara*
+
+| | Hara'ni | Zandali |
+|---|---------|-----------|
+| **Form** | *-mara* /mɑːrə/ | *-mara* /-mɑrə/ (in proper names) |
+| **Confirmed meaning** | "balance" (in *Har'mara* = Village of Balance) | Unknown (no confirmed gloss) |
+| **Attestations** | 1 confirmed | *Shaol'mara* (Zandalari outpost, Isle of Thunder), *Kul'amara* (Witherbark chieftain, Midnight) |
+
+The form *-mara* is phonologically identical in both languages and appears in proper names in both. If *-mara* = "balance" in Zandali as well:
+- *Shaol'mara* = "balance of Shaol" or "Shaol-balance"
+- *Kul'amara* = "balance of Kul" or "Kul-balance" (with *-amara* being an extended form)
+
+However, *-mara* is not identified as a productive Zandali morpheme, and the two Zandali attestations have no confirmed translations. The coincidence of a common CVCCV sequence /mara/ in two related languages could be accidental.
+
+**Confidence: Very Low** for *-mara* as a shared Proto-Troll morpheme. The phonological match is exact but the semantic evidence from Zandali is absent, and /mara/ is a common syllable pattern.
+
+#### Assessment: Hara'ni–Elven Cognate Candidates
+
+| Candidate | Correspondence | Confidence | Key Strength | Key Weakness |
+|-----------|---------------|------------|--------------|--------------|
+| *-nir* collective suffix | Shared suffix | Low–Moderate | Exact phonological match; consistent function in proper names | Semantic gap ("people" vs. "bringer/bearer"); small sample |
+| *Har'* ↔ *Aran* "settlement" | Shared root with /h/ loss | Low–Moderate | Exact semantic match; /h/ → ∅ is typologically natural | Not independently confirmed; sporadic rather than systematic /h/ loss |
+| *Aln-* ↔ *\*ala-* "essence" | Shared root with *-n* suffix | Very Low–Low | Coherent semantic framework; /al-/ onset shared | Extra *-n* unexplained; semantic gap significant |
+| *-mara* "balance" | Shared suffix | Very Low | Exact phonological match | No Zandali semantic evidence; /mara/ is a common syllable |
+
+**Overall assessment**: The convergence of multiple weak signals — *-nir* (suffix), *Har'/Aran* (root), *\*ala-/Aln-* (root) — is consistent with deep genetic relationship at ~16,000 years of divergence, where most shared morphology has been erased. The strongest individual candidate is *-nir* (phonologically exact, morphologically consistent), followed by *Har'/Aran* (semantically exact but phonologically requiring an unconfirmed sound change). No single cognate is conclusive, but the pattern is more than would be expected by chance alone for languages separated by 16,000 years.
+
+**Critical test**: If additional Hara'ni–Elven cognate pairs can be identified that share the /h/ → ∅ correspondence (Hara'ni initial /h/ ↔ Elven zero), this would significantly strengthen the *Har'/Aran* analysis and the overall case for cognate identification. Conversely, if no such pairs are found despite expanded data, the /h/ frequency difference is likely a Hara'ni innovation rather than an Elven loss.
+
+**Confidence: Low–Moderate** that at least one of these candidates (*-nir* or *Har'/Aran*) reflects a genuine Proto-Troll-Elven cognate; **Very Low** for any specific candidate being individually confirmed.

@@ -902,6 +902,17 @@ The *Ma'/Min'* correspondence is now assessed as **likely not a regular sound ch
 
 The overall pattern — multiple weak cognate signals converging across independent morphemes — is consistent with deep genetic relationship at ~16,000 years of divergence, where most shared morphology has been erased by time.
 
+#### Additional Hara'ni Cognate Candidates
+
+Since the Haranir are confirmed to descend from dark trolls/night elves (*The Art of Midnight*, pg. 125), Hara'ni is a deeply divergent branch of the same proto-troll/elven family. Two additional cognate candidates involve Zandali–Hara'ni correspondences:
+
+| Candidate | Zandali | Hara'ni | Confidence | Key Problem |
+|-----------|---------|---------|------------|-------------|
+| *-mara* suffix | *-mara* in *Shaol'mara*, *Kul'amara* (no confirmed gloss) | *-mara* = "balance" (confirmed in *Har'mara*) | Very Low | No Zandali semantic evidence; /mara/ is a common syllable |
+| *\*ala-* / *Aln-* | *Alai* "fire/flame" (confirmed) | *Aln-* "deep/source/essence" (Moderate–High) | Very Low–Low | Extra *-n* in Hara'ni; semantic gap significant |
+
+Full analysis in darnassian/grammar.md Investigation 13.
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar remain unattested and should not be assumed:

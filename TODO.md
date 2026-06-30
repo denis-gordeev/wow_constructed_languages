@@ -70,6 +70,8 @@
 - [ ] Add audio pronunciation guide links — **BLOCKED**: Blizzard has never published an official pronunciation guide for constructed languages
 - [ ] Investigate *-naxx*/*-nax* suffix: *x* = /x/ (velar fricative) or /ks/ — requires Blizzard phonological guidance or additional data
 - [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data — **NOT YET AVAILABLE**: Patch 12.1.5 scheduled for Autumn 2026; no PTR data yet
+- [ ] Investigate Hara'ni–Elven cognate *-nir* ↔ Darnassian *-anir*/*-nir* — Low–Moderate confidence; requires additional attestations or confirmed gloss for Darnassian *-anir* suffix to confirm "people/ones of" interpretation; see Darnassian grammar.md Investigation 13 Candidate A
+- [ ] Investigate Hara'ni–Elven cognate *Har'* "village" ↔ Darnassian *Aran*/*-naar* "town/settlement" — Low–Moderate confidence; requires additional /h/-initial ↔ zero-onset cognate pairs to independently confirm the /h/ → ∅ sound change; see Darnassian grammar.md Investigation 13 Candidate B
 - [x] Investigate Darnassian *-relos* agentive morpheme — **SIGNIFICANTLY UPDATED**: Third attestation from *elen'relos* (Belor'relos trinket flavor text); confidence upgraded from Low–Moderate to Moderate; agentive suffix comparison table added; double /r/ gemination observation added; see Darnassian grammar.md Investigation 5
 
 ## Next Actions
@@ -91,6 +93,20 @@
 - [x] Fix HTML-MD sync gaps across all 30 language directories — **COMPLETED Round 8**: 5 worst directories fixed (mogu 34.4%→~90%, taur-ahe 43.3%→~95%, nature 50.3%→~90%, shalassian 53.6%→~90%, titan 57.2%→~90%); remaining 25 directories audited — all in sync or only minor intro gaps (sethrak, since fixed); added missing beings (Toat, Molthor, Daakara to mogu), 14 missing morphemes to mogu Roots & Morphemes table, Gloss columns to mogu Clan/Dynasty/Artifact tables, dynasty note, MOTHER row and expanded Notes to titan, missing English title entries to shalassian, -ka morpheme to taur-ahe, full Notes section to nature; fixed orcish duplicate Nagrand entry
 - [ ] Investigate Darnassian *Aran* vs *-naar* toponymic allomorphy — **SIGNIFICANTLY UPDATED Round 10**: elven-comparative.html Set 6 now includes 4 Darnassian *Aran* attestations and 3 *-naar* attestations; *Aran* confirmed as Darnassian–Shalassian cognate (Moderate–High confidence); *-naar* allomorphy hypothesis maintained (Low–Moderate); see Darnassian grammar.md Investigation 8
 - [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
+
+## Completed This Round (2026-06-30, Round 11)
+
+- [x] Add Investigation 13 to Darnassian grammar.md: Hara'ni–Elven Cognate Candidates — first systematic cognate analysis between Hara'ni and the elven/troll languages; 4 candidates identified (*-nir* collective suffix Low–Moderate, *Har'/Aran* settlement root Low–Moderate, *Aln-*/\*ala-* root Very Low–Low, *-mara* suffix Very Low); proposed /h/ → ∅ sound change in elven branch; overall assessment: Low–Moderate confidence that at least one candidate reflects genuine Proto-Troll-Elven cognate
+- [x] Add Hara'ni deeply divergent branch section to elven-comparative.html — 4 cognate candidates table (H1–H4) with confidence ratings; cross-referenced with Darnassian grammar.html Investigation 13; nav link added
+- [x] Add Potential Cognates with Elven and Troll Languages section to haranir/grammar.md — 4 candidates with cross-references to Darnassian grammar.md Investigation 13; implications paragraph; updated Limitations section
+- [x] Add Additional Hara'ni Cognate Candidates subsection to Zandali grammar.md Investigation 6 — 2-row table (*-mara*, *\*ala-/Aln-*) with cross-reference
+- [x] Update Darnassian grammar.md agentive suffix comparison table: expanded *-anir* row to include *-nir* variant forms and Investigation 13 cross-reference
+- [x] Update Darnassian description.md: investigations count 10 → 11; added Hara'ni–Elven cognate candidates to investigation summary
+- [x] Sync darnassian/grammar.html with grammar.md (Investigation 13, updated agentive suffix table)
+- [x] Sync darnassian/description.html with description.md (investigation count and summary)
+- [x] Sync haranir/grammar.html with grammar.md (Potential Cognates section, updated Limitations)
+- [x] Sync zandali/grammar.html with grammar.md (Additional Hara'ni Cognate Candidates)
+- [x] Update elven-comparative.html last-updated date to round 11
 
 ## Completed This Round (2026-06-30, Round 10)
 

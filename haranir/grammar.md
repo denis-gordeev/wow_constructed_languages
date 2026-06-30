@@ -407,6 +407,38 @@ The following Xhosa phonological features are NOT directly observable in either 
 
 **Overall Confidence: Moderate** that the shared Xhosa accent reflects genuine proto-troll phonological features rather than mere production convenience, given: (1) the confirmed genetic relationship between Haranir and dark trolls/night elves, (2) the multiple shared phonological features consistent with a Xhosa-like substrate, (3) the same voice actor (Ike Amadi) voicing both a Haranir and a Darkspear troll, and (4) the systematic phonological differences that are explicable as post-divergence innovations.
 
+### Potential Cognates with Elven and Troll Languages
+
+Despite 16,000+ years of independent development, several potential cognate candidates have been identified through systematic comparison of Hara'ni morphemes with the elven and Zandali morpheme inventories. Full analysis is in darnassian/grammar.md Investigation 13; this section summarizes the candidates.
+
+#### Candidate A: *-nir* Collective Suffix ↔ Darnassian *-anir* / *-nir*
+
+Hara'ni *-nir* (collective ethnonym, in *Haranir* = "the Hara-people") matches Darnassian *-anir* / *-nir* (agentive suffix in three proper names: *Alash'anir* "venom and storm", *Shala'nir*, *Daral'nir*). The core form *-nir* /-nɪr/ is phonologically identical in both languages. If *-nir* is a Proto-Troll-Elven collective suffix meaning "people/ones of," both languages preserve it in proper name formation — productively in Hara'ni, frozen in Darnassian archaic place names.
+
+**Confidence: Low–Moderate** — see darnassian/grammar.md Investigation 13, Candidate A.
+
+#### Candidate B: *Har'* "village" ↔ Darnassian *Aran* / *-naar* "town/settlement"
+
+Both morphemes mean "settlement" with an exact semantic match. The phonological correspondence requires initial /h/ loss in Darnassian: Proto-Troll-Elven *\*harVn* → Hara'ni *Har'* (reduction) vs. Darnassian *Aran* (initial /h/ loss). The /h/ → ∅ change is typologically common, and Darnassian has very few initial /h/ words compared to Hara'ni's high /h/ frequency, but the sound change is not independently confirmed.
+
+**Confidence: Low–Moderate** — see darnassian/grammar.md Investigation 13, Candidate B.
+
+#### Candidate C: *Aln-* "deep/source" ↔ Proto-Troll-Elven *\*ala-* "essence/brightness"
+
+The *\*ala-* root is already identified as a potential Proto-Troll-Elven cognate between Zandali *Alai* ("fire/flame") and elven *alah* ("light/blessed"). Hara'ni *Aln-* could represent *\*ala-* + *-n* nominalizer, with semantic specialization to "hidden/source potency" in the subterranean Haranir. The extra *-n* and semantic gap ("deep/source" vs. "fire/light") make this the weakest candidate.
+
+**Confidence: Very Low–Low** — see darnassian/grammar.md Investigation 13, Candidate C.
+
+#### Candidate D: *-mara* "balance" ↔ Zandali *-mara*
+
+Hara'ni *-mara* = "balance" (confirmed in *Har'mara* = Village of Balance) is phonologically identical to Zandali *-mara* in *Shaol'mara* (Zandalari outpost) and *Kul'amara* (Witherbark chieftain). However, *-mara* has no confirmed gloss in Zandali, and /mara/ is a common syllable pattern.
+
+**Confidence: Very Low** — see darnassian/grammar.md Investigation 13, Candidate D.
+
+#### Implications
+
+If even one of these candidates is confirmed (particularly *-nir* or *Har'/Aran*), it would provide the **first linguistic evidence** (as opposed to lore evidence) for the Haranir's descent from the proto-troll/elven population. The strongest path to confirmation is discovering additional cognate pairs that share the proposed /h/ → ∅ correspondence, which would independently validate the *Har'/Aran* analysis.
+
 ## Limitations
 
 - **No complete Hara'ni sentences are attested.** All Haranir NPCs speak Common in-game.
@@ -419,6 +451,6 @@ The following Xhosa phonological features are NOT directly observable in either 
 - **The *-ia* feminine suffix is effectively disproven.** Wiki gender data confirms Ruia and On'hiea are male, while only Ney'leia is female. The *-ia* ending cannot be a feminine marker.
 - **Morta'ka is an Elemental**, not a Haranir, but was likely named by the Haranir. This means *-ka* may apply to non-Haranir entities designated by Haranir naming conventions.
 - **The Derelict Mural** in Harandar (Nordrassil Roots) contains only Common/English text. The alpha version used "the Goddess" and "lesser trollkind" but no Hara'ni vocabulary. The live version was toned down.
-- **The Haranir's unique biological origin** ("not really elves, not really trolls") means there are no obvious cognate languages to compare with.
+- **The Haranir's unique biological origin** ("not really elves, not really trolls") means there are no obvious cognate languages to compare with. However, four potential cognate candidates with elven and troll languages have been identified (see §Potential Cognates above); none are confirmed.
 - **The Haranir lived on Mount Hyjal before migrating to Harandar** after 16,000 BDP — this extreme antiquity means any related languages may have diverged beyond recognition.
 - **The alpha build mural text** (which depicted Haranir as progenitors of all trollkind) was **changed at launch** to depict a "split" in Haranir society. The alpha text is no longer canon and did not contribute any Hara'ni vocabulary. This resolves the open question about whether the mural contained additional Hara'ni words — it did not survive into the released game.
