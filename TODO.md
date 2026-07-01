@@ -97,6 +97,20 @@
 - [ ] Investigate Darnassian *Aran* vs *-naar* toponymic allomorphy — **SIGNIFICANTLY UPDATED Round 10**: elven-comparative.html Set 6 now includes 4 Darnassian *Aran* attestations and 3 *-naar* attestations; *Aran* confirmed as Darnassian–Shalassian cognate (Moderate–High confidence); *-naar* allomorphy hypothesis maintained (Low–Moderate); see Darnassian grammar.md Investigation 8
 - [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 
+## Completed This Round (2026-07-01, Round 13)
+
+- [x] Add stress assignment pattern to Thalassian grammar.md: trochaic for disyllabic, penultimate for trisyllabic+, heavy-syllable attraction exception (*Alann*); documented as Phonological Pattern 9
+- [x] Add apostrophe phonotactic constraint to Thalassian grammar.md: pre-apostrophe morphemes never end in oral stops; only sonorants, vowels, or /s/; documented as Phonological Pattern 10
+- [x] Add stress assignment pattern to Darnassian grammar.md: trochaic for disyllabic, penultimate for trisyllabic+; exceptions (*Ru'shem*, *Finel*, *Amir*, *Shan'do*, *Thero'shan*, *Ama'shan*); suffix-driven stress attraction (*-dorei*, *-drassil*); documented as Phonological Pattern 9
+- [x] Add apostrophe phonotactic tendency to Darnassian grammar.md: ~97% constraint against oral stop endings before apostrophe; one counterexample (*Rhut'van*); documented as Phonological Pattern 10
+- [x] Add penultimate stress and pre-apostrophe sonorant constraint as inherited Proto-Elven features to elven-comparative.html
+- [x] Fix vulpera/vocabulary.html sync gap: restored observed consonants list (/k/, /r/, /ʃ/, /g/, /z/, /s/) replacing generic "limited consonant inventory" text
+- [x] Fix elven-comparative.html: add missing `<nav>` opening tag for bottom navigation
+- [x] Fix titan-forged-comparative.html: remove duplicate bottom navigation section
+- [x] Add "Last updated" date to example-sentences.html
+- [x] Sync thalassian/grammar.html with grammar.md (Phonological Patterns 9–10)
+- [x] Sync darnassian/grammar.html with grammar.md (Phonological Patterns 9–10)
+
 ## Completed This Round (2026-07-01, Round 12)
 
 - [x] Add Investigation 4 to Shath'Yar grammar.md: Syntactic Pattern Analysis — first systematic syntactic analysis of any WoW constructed language; coded 19+ phrases for word order; established SVO as dominant declarative order (Moderate–High confidence); identified V-initial order in imperative/exclamatory clauses; analyzed auxiliary verb system (*agth* obligative, *gag* emphatic, *qi'*/*wgah* simple future); documented negation allomorphy (*maq* vs. *noq*); mapped clause combining strategies; identified capitalization as prosodic grammar (8+ SHOUTED forms); produced comprehensive syntactic profile table with 10 features

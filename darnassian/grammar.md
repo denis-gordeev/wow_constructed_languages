@@ -207,6 +207,10 @@ Notes:
 
 8. **Apostrophe as morpheme boundary (not phonological)**: Apostrophes in Darnassian orthography mark morpheme boundaries (*Quel'dorei*, *Shan'do*), not glottal stops or phonological processes. This contrasts with Zandali, where apostrophes likely represent glottal stops.
 
+9. **Stress assignment by word length**: Disyllabic words show consistent initial (trochaic) stress (*Andu*, *Alah*, *Falah*, *Sindu*, *An'da*, *Min'da*, *Ethil*, *Fandu*, *Dorei*), while trisyllabic and longer words show penultimate stress (*Kaldorei*, *Teldrassil*, *Darnassus*, *Azshari*, *Amirdrassil*, *Bel'ameth*). Exceptions include iambic disyllabics (*Ru'shem*, *Finel*, *Amir*, *Shan'do*) and two trisyllabic words with ultimate stress (*Thero'shan*, *Ama'shan*), both ending in the suffix *-shan* which may attract stress. The suffixes *-dorei* and *-drassil* consistently attract penultimate stress regardless of the prefix, consistent with modifier-head compounding where the head carries primary stress.
+
+10. **Apostrophe phonotactic tendency**: Pre-apostrophe morphemes overwhelmingly end in sonorants (nasals: *Shan'*, *An'*, *Min'*; liquids: *Quel'*, *Belor'*, *Sar'*; vowels: *Ru'*, *Asha'*, *Alara'*) or fricatives (/*ʃ*/: *Alash'*, *Ash'*). Across 30+ apostrophe-containing words, only one counterexample exists: *Rhut'van* (pre-apostrophe /t/, an oral stop). This ~97% tendency mirrors the stricter constraint in Thalassian and suggests a shared Proto-Elven phonotactic constraint against morpheme boundaries after oral stops.
+
 ### Comparison with Daughter Languages
 
 | Feature | Darnassian | Thalassian | Shalassian | Nazja |

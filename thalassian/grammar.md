@@ -237,6 +237,10 @@ Note: /b/, /k/, /g/, /p/, /z/, /f/, /v/, /dʒ/ appear primarily in proper names 
 
 8. **Word-final /ʃ/**: The only attested fricative in word-final position is /ʃ/ in *dash* ("greetings"). This is unusual within the elven family and may be a phonotactic innovation or an archaic retention.
 
+9. **Stress assignment by word length**: Disyllabic words show consistent initial (trochaic) stress (*Alah*, *Anar*, *Shindu*, *Felo*, *Fallah*, *Ethil*, *Shala*, *Anu*, *Ande*, *Dorei*), while trisyllabic and longer words show penultimate stress (*Belore* be-LO-re, *Selama* se-LA-ma, *Arkhana* ar-KHA-na, *Malanorei* ma-la-NO-rei). The sole exception is *Alann* (a-LANN), where the heavy CVC coda of the final syllable attracts stress. This trochaic-to-penult shift by word length is consistent across the attested corpus.
+
+10. **Apostrophe phonotactic constraint**: In every attested compound, the morpheme *before* the apostrophe never ends in an oral stop (/p, b, t, d, k, g/). Pre-apostrophe endings are exclusively sonorants (nasals: *Sin'*, *Ann'*, *Kim'*; liquids: *Quel'*, *Anar'*, *Bal'*, *Shal'*, *Fal'*; vowels: *Felo'*, *Belore'*, *Belo'*) or the fricative /s/ (*Thas'*). This suggests a phonotactic constraint against placing morpheme boundaries after oral stops, consistent with the language's sonorant-heavy word-ending preference (Pattern 7 above).
+
 ### Comparison with Darnassian Phonology
 
 | Feature | Darnassian | Thalassian |
