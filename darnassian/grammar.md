@@ -825,3 +825,60 @@ However, *-mara* is not identified as a productive Zandali morpheme, and the two
 **Critical test**: If additional Hara'ni–Elven cognate pairs can be identified that share the /h/ → ∅ correspondence (Hara'ni initial /h/ ↔ Elven zero), this would significantly strengthen the *Har'/Aran* analysis and the overall case for cognate identification. Conversely, if no such pairs are found despite expanded data, the /h/ frequency difference is likely a Hara'ni innovation rather than an Elven loss.
 
 **Confidence: Low–Moderate** that at least one of these candidates (*-nir* or *Har'/Aran*) reflects a genuine Proto-Troll-Elven cognate; **Very Low** for any specific candidate being individually confirmed.
+
+### Investigation 14: *-ah* as Proto-Elven Derivational Suffix
+
+Three independent cognate sets show a recurrent *-ah* /-ɑ/ suffix attached to CVC or CV roots, producing extended forms in both Darnassian and Thalassian. This investigation tests whether *-ah* is a unified Proto-Elven derivational morpheme rather than a coincidental phonological pattern.
+
+#### Evidence Table: *-ah* Suffix Pairs
+
+| Base form | + *-ah* | Base meaning | Extended meaning | Languages | Cognate Set |
+|-----------|---------|--------------|-----------------|-----------|-------------|
+| *tal* | *talah* | "death" | "death" (extended/verbal?) | Both Darnassian & Thalassian | Set 13 |
+| *al* (root) | *alah* | "light" (root) | "light/blessed" | Both Darnassian & Thalassian | Sets 1, 9 |
+| *fal* (root) | *falah* / *fallah* | "disruption" (root) | "balance/breaking" | Both Darnassian & Thalassian | Set 15 |
+
+The elven-comparative.html Correspondence 7 notes the *-ah* pattern at Low confidence, observing that "the pattern is suggestive but could be coincidental given the frequency of /a/ in elven word-final position." However, the pattern has not been tested systematically.
+
+#### Productivity Test: Distribution of *-ah*
+
+If *-ah* is a genuine derivational suffix, it should show consistent morphological behavior. Key observations:
+
+1. **Attachment to CVC/CV roots only**: All three examples attach to monosyllabic roots (*tal*, *al*, *fal*). No *-ah* suffix is observed on polysyllabic bases. This restriction is consistent with a derivational suffix that creates extended or "completed" forms of short roots.
+
+2. **Semantic consistency**: In all three pairs, *-ah* creates an extended or nominalized form:
+   - *tal* "death" → *talah* "death" (possibly "the state of death" or verbal "to die")
+   - *al* "light root" → *alah* "light/blessed" (possibly "the radiance" or "that which is light")
+   - *fal* "disruption root" → *falah*/*fallah* "balance/breaking" (possibly "that which disrupts")
+
+   This is consistent with a **nominalizer or stative resultative** suffix: *-ah* converts a root denoting a quality or action into a noun denoting the instantiation or state of that quality. Cross-linguistically, this is a common derivational pathway (cf. Arabic *-a* feminine/abstract suffix, Proto-Indo-European *-eh₂* feminine/abstract suffix).
+
+3. **No semantic change in *tal* → *talah***: The fact that *talah* means the same as *tal* ("death") is consistent with a resultative/stative suffix that adds grammatical weight without semantic shift — similar to how English "darkness" adds *-ness* to "dark" without changing the core meaning.
+
+4. **Distribution vs. other known suffixes**: The three confirmed Darnassian/Thalassian suffixes are:
+   - *-dorei* = "children/people of" (High confidence)
+   - *-ethil* = "diminished/warded" (Moderate confidence, Set 20)
+   - *-ah* = ??? (proposed: nominalizer/stative resultative)
+
+   If *-ah* is confirmed, it would be the third confirmed Proto-Elven derivational morpheme. The three suffixes would form a coherent system: *-dorei* derives agentive nouns, *-ethil* derives stative adjectives, and *-ah* derives abstract/stative nouns.
+
+#### Nazja Evidence
+
+If *-ah* is Proto-Elven, Nazja should preserve it. Nazja has no confirmed *-ah* suffix pairs, but several Nazja words end in *-ah*:
+
+- *Nazj*atar (not *-ah*; *-atar* is the suffix)
+- *Akkor*ok (no *-ah*)
+
+The absence of clear *-ah* pairs in Nazja is expected given Nazja's extremely limited confirmed vocabulary. The absence is not counterevidence.
+
+#### Alternative Analyses
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Productive derivational suffix | *-ah* = nominalizer/stative resultative; attaches to CVC/CV roots to form abstract nouns | **Low–Moderate** |
+| Phonological coincidence | /a/ is the most frequent vowel in elven languages; word-final /a/ + /h/ is a common sequence that could arise independently | **Low–Moderate** |
+| Frozen compounding element | *-ah* was once a separate root (possibly meaning "state/being") that fused with preceding elements in Proto-Elven, surviving only in these three fossilized forms | **Low** |
+
+The phonological coincidence analysis is weakened by the observation that the *-ah* forms are morphologically paired with base forms lacking *-ah* (*tal*/*talah*, *al*/*alah*, *fal*/*falah*). If word-final /-ah/ were purely accidental, we would not expect it to systematically correspond to shorter cognate forms.
+
+**Confidence: Low–Moderate** for *-ah* as a Proto-Elven derivational suffix. The three independent cognate pairs are consistent with a unified analysis, and the semantic coherence (nominalizer/stative resultative) is typologically natural. However, the small sample (3 pairs) and the frequency of /a/ in word-final position leave open the possibility of coincidence. If additional *-ah* pairs are identified (e.g., a root *X* with both *X* and *Xah* attested), confidence would increase significantly.

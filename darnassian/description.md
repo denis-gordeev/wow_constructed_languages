@@ -129,7 +129,7 @@ The in-game script on Darnassian signage does not consistently map to romanized 
 | Attested personal names/titles | 7+ | *Kaldorei*, *Quel'dorei*, *Shan'do*, *Thero'shan*, *Ban'dinoriel*, **Belor'relos** (The Suncaller), **Anu'relos** (fiery somnowl) |
 | Uncertain words | 4 | *Xil'varu*, *Ma'thor*, *Asha'man*, *Alah* |
 | Attested sentences with full glosses | 0 | No Darnassian sentences have confirmed word-by-word translations |
-| Open linguistic investigations | 11 | Kinship cognates, *-da*/*-do* register alternation, World Tree naming, first verb conjugation, *-relos* agentive morpheme (Moderate confidence), Toponymic morphemes *Aran*/*-naar* (Low–Moderate confidence), Additional elven cognate candidates Sets 15–18 (*falah/fallah*, *dal*, *shan*, *finel*), *ther-* cross-elven battle cognate (Set 19, Low–Moderate), *-ethil* "diminished/warded" morpheme (Set 20, Moderate), imperative paradigm *Andu*/*Ande*/*Bandu* (Low–Moderate), Hara'ni–Elven cognate candidates (*-nir*, *Har'/Aran*, *Aln-*, *-mara*; Low–Moderate to Very Low) |
+| Open linguistic investigations | 12 | Kinship cognates, *-da*/*-do* register alternation, World Tree naming, first verb conjugation, *-relos* agentive morpheme (Moderate confidence), Toponymic morphemes *Aran*/*-naar* (Low–Moderate confidence), Additional elven cognate candidates Sets 15–18 (*falah/fallah*, *dal*, *shan*, *finel*), *ther-* cross-elven battle cognate (Set 19, Low–Moderate), *-ethil* "diminished/warded" morpheme (Set 20, Moderate), imperative paradigm *Andu*/*Ande*/*Bandu* (Low–Moderate), Hara'ni–Elven cognate candidates (*-nir*, *Har'/Aran*, *Aln-*, *-mara*; Low–Moderate to Very Low), *-ah* Proto-Elven derivational suffix (Low–Moderate) |
 
 ## References
 

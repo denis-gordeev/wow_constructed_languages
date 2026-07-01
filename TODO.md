@@ -73,6 +73,9 @@
 - [ ] Investigate Hara'ni–Elven cognate *-nir* ↔ Darnassian *-anir*/*-nir* — Low–Moderate confidence; requires additional attestations or confirmed gloss for Darnassian *-anir* suffix to confirm "people/ones of" interpretation; see Darnassian grammar.md Investigation 13 Candidate A
 - [ ] Investigate Hara'ni–Elven cognate *Har'* "village" ↔ Darnassian *Aran*/*-naar* "town/settlement" — Low–Moderate confidence; requires additional /h/-initial ↔ zero-onset cognate pairs to independently confirm the /h/ → ∅ sound change; see Darnassian grammar.md Investigation 13 Candidate B
 - [x] Investigate Darnassian *-relos* agentive morpheme — **SIGNIFICANTLY UPDATED**: Third attestation from *elen'relos* (Belor'relos trinket flavor text); confidence upgraded from Low–Moderate to Moderate; agentive suffix comparison table added; double /r/ gemination observation added; see Darnassian grammar.md Investigation 5
+- [ ] Investigate Shath'Yar auxiliary verb system — **SIGNIFICANTLY UPDATED Round 12**: Three-way auxiliary distinction proposed (*agth* obligative, *gag* emphatic, *qi'*/*wgah* simple future); Low–Moderate confidence for functional distinction; see Shath'Yar grammar.md Investigation 4
+- [ ] Investigate Shath'Yar negation allomorphy (*maq* vs *noq*) — **SIGNIFICANTLY UPDATED Round 12**: *maq* appears with 3rd person subject, *noq* with 1st person; person-conditioned allomorphy or verbal vs. copular negation; Low–Moderate confidence; see Shath'Yar grammar.md Investigation 4
+- [ ] Investigate Proto-Elven *-ah* derivational suffix — **SIGNIFICANTLY UPDATED Round 12**: Systematic analysis added as Darnassian Investigation 14; three cognate pairs (*tal*/*talah*, *al*/*alah*, *fal*/*falah*) analyzed as nominalizer/stative resultative; Low–Moderate confidence; see Darnassian grammar.md Investigation 14 and elven-comparative.html Correspondence 7
 
 ## Next Actions
 
@@ -93,6 +96,20 @@
 - [x] Fix HTML-MD sync gaps across all 30 language directories — **COMPLETED Round 8**: 5 worst directories fixed (mogu 34.4%→~90%, taur-ahe 43.3%→~95%, nature 50.3%→~90%, shalassian 53.6%→~90%, titan 57.2%→~90%); remaining 25 directories audited — all in sync or only minor intro gaps (sethrak, since fixed); added missing beings (Toat, Molthor, Daakara to mogu), 14 missing morphemes to mogu Roots & Morphemes table, Gloss columns to mogu Clan/Dynasty/Artifact tables, dynasty note, MOTHER row and expanded Notes to titan, missing English title entries to shalassian, -ka morpheme to taur-ahe, full Notes section to nature; fixed orcish duplicate Nagrand entry
 - [ ] Investigate Darnassian *Aran* vs *-naar* toponymic allomorphy — **SIGNIFICANTLY UPDATED Round 10**: elven-comparative.html Set 6 now includes 4 Darnassian *Aran* attestations and 3 *-naar* attestations; *Aran* confirmed as Darnassian–Shalassian cognate (Moderate–High confidence); *-naar* allomorphy hypothesis maintained (Low–Moderate); see Darnassian grammar.md Investigation 8
 - [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
+
+## Completed This Round (2026-07-01, Round 12)
+
+- [x] Add Investigation 4 to Shath'Yar grammar.md: Syntactic Pattern Analysis — first systematic syntactic analysis of any WoW constructed language; coded 19+ phrases for word order; established SVO as dominant declarative order (Moderate–High confidence); identified V-initial order in imperative/exclamatory clauses; analyzed auxiliary verb system (*agth* obligative, *gag* emphatic, *qi'*/*wgah* simple future); documented negation allomorphy (*maq* vs. *noq*); mapped clause combining strategies; identified capitalization as prosodic grammar (8+ SHOUTED forms); produced comprehensive syntactic profile table with 10 features
+- [x] Add Investigation 14 to Darnassian grammar.md: *-ah* as Proto-Elven Derivational Suffix — analyzed three cognate pairs (*tal*/*talah*, *al*/*alah*, *fal*/*falah*) as potential nominalizer/stative resultative suffix; productivity test (CVC/CV root attachment, semantic consistency, distribution vs. other suffixes); Nazja evidence assessment; three alternative hypotheses; Low–Moderate confidence
+- [x] Update Shath'Yar grammar.md word order section: changed from "predominantly SOV or VSO" to "predominantly SVO" with cross-reference to Investigation 4
+- [x] Update Darnassian description.md attestation summary: investigations count 11 → 12; added *-ah* Proto-Elven derivational suffix
+- [x] Update Shath'Yar description.md attestation summary: added Open linguistic investigations row (4 items)
+- [x] Update elven-comparative.html Correspondence 7: upgraded confidence from Low to Low–Moderate; added cross-reference to Darnassian grammar.md Investigation 14
+- [x] Sync Shath'Yar grammar.html with grammar.md (Investigation 4, updated word order section, updated nav)
+- [x] Sync Darnassian grammar.html with grammar.md (Investigation 14, updated nav)
+- [x] Sync Darnassian description.html with description.md (investigation count 11 → 12)
+- [x] Sync Shath'Yar description.html with description.md (new investigations row)
+- [x] Verify HTML-MD sync for all Round 11 files: all confirmed in sync
 
 ## Completed This Round (2026-06-30, Round 11)
 

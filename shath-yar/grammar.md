@@ -130,7 +130,7 @@ The confirmed translations now provide enough data for preliminary syntactic ana
 
 ### Word Order
 
-Shath'Yar appears to use **predominantly SOV or VSO** order, with significant flexibility:
+Shath'Yar appears to use **predominantly SVO** order in declarative clauses, with verb-initial order in imperative/exclamatory clauses — see Investigation 4 for full systematic analysis:
 
 1. **VSO pattern**: *Sk'shuul agth vorzz N'Zoth naggwa'fssh* = "Your deaths shall sing of N'Zoth's unending glory" (Subject *Sk'shuul* + Auxiliary *agth* + Verb *vorzz* + Object)
 2. **Possessor-Possessed**: *N'Zoth yyqzz* = "N'Zoth's throne" (Possessor + Possessed noun)
@@ -277,3 +277,204 @@ The confirmed translations reveal three variant forms for the 2nd person singula
 The allophonic analysis is the most parsimonious. *iilth* /iːlθ/ with a long vowel could be reduced to *ilith* /ilθ/ in faster speech (Yor'sahj's battle cry), while the whispered aquatic speech of Vol'zith could produce the geminate /lː/ in *illith*. The geminate consonant in *illith* is consistent with Shath'Yar's pattern of sibilant reinforcement and gemination in whispered/hissed speech (*Ssra'thik*, *fhssh*).
 
 **Confidence: Moderate** for allophonic variation conditioned by speech register and speaker type. The distribution is not random — *iilth* appears with N'raqi commanders (standard), *illith* with an aquatic entity (whispered register), and *ilith* in a single battle cry (fast speech reduction). However, the sample is too small to confirm the pattern.
+
+### Investigation 4: Syntactic Pattern Analysis — Word Order, Auxiliaries, and Clause Structure
+
+With 56+ confirmed phrases, Shath'Yar has by far the richest attested corpus of any WoW constructed language. This investigation systematically analyzes word order, the auxiliary verb system, negation, and clause combining across the confirmed translations.
+
+#### Word Order Coding
+
+Phrases are classified by their syntactic structure. Only phrases where subject, verb, and object can be identified with Moderate confidence or higher are coded. Ambiguous or too-idiomatic phrases are excluded.
+
+##### SVO (Subject-Verb-Object)
+
+| Phrase | S | V | O | Source |
+|--------|---|---|---|--------|
+| *Sk'magg yawifk hoq* | Sk'magg | yawifk | hoq | Zon'ozz |
+| *Sk'shgn eqnizz hoq* | Sk'shgn | eqnizz | hoq | Zon'ozz |
+| *Sk'uuyat guulphg hoq* | Sk'uuyat | guulphg | hoq | Zon'ozz |
+| *Ywaq puul skshgn* | Ywaq | puul | skshgn | Volazj |
+| *Ak yar qi'lwhuk h'iwn* | Ak yar | qi'-lwhuk | h'iwn | Anglepoint |
+
+All five SVO phrases follow the pattern **NP-Verb-NP** with no auxiliary intervening. Four of five use a pronoun subject (*Sk'-* = "your N", *Ywaq* = "they", *Ak* = "our"). This is the dominant order for simple transitive clauses.
+
+##### S-Aux-V-O (Subject-Auxiliary-Verb-Object)
+
+| Phrase | S | Aux | V | O | Source |
+|--------|---|-----|---|---|--------|
+| *Sk'shuul agth vorzz N'Zoth naggwa'fssh* | Sk'shuul | agth | vorzz | N'Zoth naggwa'fssh | Zon'ozz |
+| *Sk'tek agth nuq N'Zoth yyqzz* | Sk'tek | agth | nuq | N'Zoth yyqzz | Zon'ozz |
+| *Sk'yahf agth huqth N'Zoth qornaus* | Sk'yahf | agth | huqth | N'Zoth qornaus | Zon'ozz |
+
+All three S-Aux-V-O phrases use *agth* as the auxiliary, all from Zon'ozz. The auxiliary occupies a fixed position between subject and verb.
+
+##### S-V (Subject-Verb, Intransitive)
+
+| Phrase | S | V | Source |
+|--------|---|---|--------|
+| *UULL lwhuk H'IWN* | UULL | lwhuk | Yor'sahj |
+| *Uulg'ma zyqtahg yrr* | (Uulg'ma zyqtahg) | yrr? | Mythrax |
+| *Y'za qam yyqzz* | Y'za | qam yyqzz? | Anglepoint |
+
+##### S-Copula-Pred (Subject-Copula-Predicate)
+
+| Phrase | S | Copula | Predicate | Source |
+|--------|---|--------|-----------|--------|
+| *Ak'agthshi ma uhnish* | Ak'agthshi | ma | uhnish | Yor'sahj |
+| *Ywaq ma phgwa'cul hnakf* | Ywaq | ma | phgwa'cul hnakf | Volazj |
+| *Ywaq ma shg'fhn* | Ywaq | ma | shg'fhn | Volazj |
+| *Iilth ma paf'qi'ag sk'halahs* | Iilth | ma | paf'qi'ag sk'halahs | Kaahrj |
+| *Fssh qam ak'agathShi Fssh qam h'iwn* | Fssh | qam | ak'agathShi / h'iwn | Maw of Madness |
+
+Copular clauses consistently place *ma* between subject and predicate, identical to SVO order with the copula in the verb slot.
+
+##### S-Neg-V (Subject-Negation-Verb)
+
+| Phrase | S | Neg | V | Source |
+|--------|---|-----|---|--------|
+| *Ywaq maq oou* | Ywaq | maq | oou | Volazj |
+| *Ywaq maq ssaggh* | Ywaq | maq | ssaggh | Volazj |
+
+Negation with *maq* occupies the same position as the copula — between subject and verb.
+
+##### V-Imperative / Exclamatory
+
+| Phrase | Structure | Source |
+|--------|-----------|--------|
+| *KYTH ag'xig yyg'far IIQAATH ONGG* | V S O (imperative) | Yor'sahj |
+| *Gul'kafh an'shel* | V PP (imperative) | Volazj |
+| *Gul'kafh an'qov N'Zoth* | V PP (imperative) | Zon'ozz |
+| *Puul qi'plahf ni oou bormax* | V-? (imperative) | Mythrax |
+| *Xith wgah* | V Aux (exclamatory) | Mythrax |
+| *Qam oou iilth ez i awtgsshu amun on'ma* | V S PP (imperative) | G'huun |
+
+Imperative and exclamatory clauses frequently show **verb-initial** order. This is expected pragmatically — commands and exclamations foreground the action. Three *Gul'kafh* imperatives consistently place the verb first.
+
+##### Possessor-Possessed
+
+| Phrase | Possessor | Possessed | Source |
+|--------|-----------|-----------|--------|
+| *N'Zoth yyqzz* | N'Zoth | yyqzz | Zon'ozz |
+| *N'Zoth naggwa'fssh* | N'Zoth | naggwa'fssh | Zon'ozz |
+| *N'Zoth qornaus* | N'Zoth | qornaus | Zon'ozz |
+| *N'Zoth iiyoq* | N'Zoth | iiyoq | Kaahrj |
+| *yeh'glu Shath'Yar* | Shath'Yar | yeh'glu | Yor'sahj |
+| *yeh'glu zuq* | (zuq) | yeh'glu | Volazj |
+
+Possessor consistently precedes possessed noun — the same order as Modifier-Noun (*Shath'Yar* = "Old Gods", Adj + N).
+
+#### Word Order Summary
+
+| Clause Type | Order | Count | Notes |
+|-------------|-------|-------|-------|
+| Simple transitive | SVO | 5 | No auxiliary; pronoun subjects |
+| Transitive with auxiliary | S-Aux-V-O | 3 | All with *agth* |
+| Copular | S-Copula-Pred | 5 | *ma* = copula in verb position |
+| Negated intransitive | S-Neg-V | 2 | *maq* in verb position |
+| Intransitive | SV | 3 | — |
+| Imperative/exclamatory | V-initial | 6 | Pragmatically fronted |
+| Possessive NP | Possessor-Possessed | 6 | Consistent; parallels Adj-N |
+
+**Dominant order**: Shath'Yar is primarily **Subject-Verb-Object** in declarative clauses, with negation and the copula occupying the verb position between subject and predicate. Imperative/exclamatory clauses show verb-initial order, which is a pragmatic fronting rather than a distinct grammatical order.
+
+**Confidence: Moderate–High** for SVO as the basic declarative word order. The evidence from 19 codable phrases is consistent, with no counterexamples showing SOV or VSO in simple declarative clauses.
+
+#### The Auxiliary Verb System
+
+Four future/irrealis markers appear in the confirmed corpus:
+
+| Marker | Type | Position | Evidence | Confidence |
+|--------|------|----------|----------|------------|
+| *agth* | Auxiliary | Between S and V | 3 attestations (Zon'ozz) | **Moderate–High** |
+| *gag* | Auxiliary | Before V | 3+ attestations (Yor'sahj, Yogg-Saron, Armageddon) | **Moderate** |
+| *qi'* | Prefix | On verb | 3+ attestations | **High** |
+| *wgah* | Auxiliary | Before V | 5+ attestations (Mythrax, G'huun, Storm's End) | **Moderate** |
+
+##### Functional Distribution
+
+| Marker | Appears in | Translation pattern | Proposed function |
+|--------|-----------|--------------------|--------------------|
+| *agth* | *Sk'shuul agth vorzz* = "Your deaths **shall** sing" | Translates as "shall" | Obligative future; bound to speaker's authority |
+| *gag* | *Gag vwah gag yyqzz* = "You **will** all drown" | Translates as "will" | Volitional/emphatic future; speaker's intent |
+| *qi'* | *qi'uothk* = "**will** drown" | Translates as "will" | Simple future; morphological tense marker |
+| *wgah* | *I wgah far'al* = "I **will** reduce" | Translates as "will" | Simple future (auxiliary variant) |
+
+The coexistence of *qi'* (prefix) and *wgah* (auxiliary) for simple future is unusual. Two analyses are possible:
+
+1. **Register variation**: *qi'* appears on verbs in ritual/formal speech (boss combat phrases), while *wgah* appears in direct speech. This predicts that *qi'* and *wgah* should not co-occur in the same sentence.
+
+2. **Grammatical distinction**: *qi'* marks irrealis/future aspect on the verb itself, while *wgah* is an auxiliary that carries tense independently, allowing *wgah* + *qi'-verb* for double-marked future. However, no phrase attests this combination.
+
+The obligative *agth* is the most clearly distinct marker — it consistently translates as "shall" (not "will") and appears only in the Zon'ozz phrases that make prophetic declarations about N'Zoth's glory.
+
+**Confidence: Low–Moderate** for the functional distinction among auxiliaries. The data suggests a three-way distinction (obligative *agth*, emphatic *gag*, simple future *qi'*/*wgah*), but the sample is too small and the English translations too idiomatic to confirm this analysis.
+
+#### Negation: *maq* vs. *noq*
+
+Two negation words appear in the confirmed corpus:
+
+| Negation | Phrase | Translation | Context |
+|----------|--------|-------------|---------|
+| *maq* | *Ywaq maq oou* | "They do not die" | Declarative, 3rd person |
+| *maq* | *Ywaq maq ssaggh* | "They do not live" | Declarative, 3rd person |
+| *noq* | *Y'za noq mah* | "I am not the first" | Declarative, 1st person |
+| *noq* | *Y'za noq ormz* | "I am not the last" | Declarative, 1st person |
+
+Distribution: *maq* appears with 3rd person subject (*Ywaq*), *noq* appears with 1st person subject (*Y'za*). This could reflect:
+
+1. **Person-conditioned allomorphy**: *maq* = negation with 3rd person, *noq* = negation with 1st/2nd person. This pattern exists in some natural languages (e.g., Arabic verbal negation *lam* vs. *mā*).
+2. **Copular vs. verbal negation**: *noq* negates a copular construction (*Y'za noq mah* = "I am-not the-first"), while *maq* negates a lexical verb (*Ywaq maq oou* = "They not die"). The semantic difference (copular vs. verbal) rather than person could be the conditioning factor.
+3. **Phonological variant**: *noq* may be *n-* + *-oq* where *n-* is a 1st person prefix and *-oq* is the negation root, while *maq* is the unmarked negation. The /n/ in *noq* would then parallel the /n/ in *N'Zoth* and *N'raqi* as a first-person or self-referential marker.
+
+**Confidence: Low–Moderate** for person-conditioned allomorphy. The distribution (2 *maq* with *Ywaq*, 2 *noq* with *Y'za*) is perfectly clean but has only four data points.
+
+#### Clause Combining
+
+Several phrases contain multiple clauses, revealing connective strategies:
+
+| Connective | Example | Function |
+|------------|---------|----------|
+| *zz* "and" | *worg zz oou* = "fades and dies" | Coordinates verbs |
+| *zz* "and" | *erh'ongg thoq shanDai h'lwn* = "choke... for [eternity]" (uncertain) | — |
+| *ni* "and/to" | *far'al zuq ni shn* = "reduce you to ash" | May introduce purpose/result |
+| *ni* "and" | *on'ma yeh'glu zuq* = "existence is the blood of life" | — |
+| Clause juxtaposition | *Iilth vwah, uhn'agth fhssh za* = "Where one falls, many shall take its place" | No overt connective; parataxis |
+| *yrr* (unknown) | *N'Zoth vra zz shfk qwor ga'halahs agthu* | May mark subordinate clause |
+
+The connective *zz* = "and" is the only confirmed clause-combining element, appearing between coordinated verbs. The particle *ni* may serve as a complementizer or purpose marker but has too few attestations to confirm. Most multi-clause phrases use simple juxtaposition without overt connectives.
+
+#### Capitalization as Prosodic Grammar
+
+SHOUTED words in confirmed translations consistently correspond to English intensifiers or emphasized elements:
+
+| Shath'Yar | English | Intensifier type |
+|-----------|---------|-----------------|
+| OOU KAAXTH SHUUL | DIE A THOUSAND DEATHS | Verbal emphasis |
+| PH'MAGG | ENDLESS TORMENT | Adjectival emphasis |
+| PHQUATHI | THE DESTROYER | Nominal emphasis/title |
+| H'IWN | ALL | Quantifier emphasis |
+| KSSH'GA | BLEAKEST DEPTHS | Superlative emphasis |
+| ag'THYZAK | RECLAIM | Verbal emphasis |
+| IIQAATH ONGG | CURSED EARTH | Adjectival emphasis |
+| KYTH | SEE | Imperative emphasis |
+
+Shath'Yar uses prosodic emphasis (capitalized forms) where English uses separate intensifier words or superlative morphology. This is consistent with a language that marks emphasis through phonological means (volume, intensity) rather than morphological means. The pattern is productive: any word class (verb, noun, adjective, quantifier) can receive prosodic emphasis.
+
+**Confidence: Moderate–High** for capitalization as prosodic grammar rather than mere stylistic choice. The systematic correspondence between Shath'Yar capitalization and English intensifiers/superlatives across 8+ phrases is too consistent to be coincidental.
+
+#### Summary: Shath'Yar Syntactic Profile
+
+| Feature | Analysis | Confidence |
+|---------|----------|------------|
+| Basic word order | SVO (declarative), V-initial (imperative) | Moderate–High |
+| Copula position | Between S and Pred (verb position) | Moderate–High |
+| Negation position | Between S and V (verb position) | Moderate–High |
+| Possessor-Possessed | Possessor precedes Possessed | High |
+| Modifier-Noun | Modifier precedes Noun | High |
+| Auxiliary position | Between S and V | Moderate–High |
+| Future marking | Three-way system: *agth* (obligative), *gag* (emphatic), *qi'*/*wgah* (simple) | Low–Moderate |
+| Negation allomorphy | *maq* (3rd person) vs. *noq* (1st person) — or verbal vs. copular | Low–Moderate |
+| Clause combining | Primarily paratactic; *zz* = "and" coordinates VPs | Low–Moderate |
+| Prosodic emphasis | Capitalization = grammatical intensifier | Moderate–High |
+
+**Overall**: Shath'Yar is a consistent SVO language with rigid NP ordering (Possessor-Possessed, Modifier-Noun) and a fixed auxiliary position between subject and verb. The negation and copula occupy the same structural position as auxiliaries. The most significant grammatical discovery is the three-way auxiliary distinction (*agth* vs. *gag* vs. *qi'*/*wgah*) and the systematic use of prosodic emphasis as a grammatical intensifier — a feature rarely found in natural languages but consistent with Shath'Yar's non-human, tentacular vocal apparatus.

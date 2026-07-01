@@ -90,6 +90,7 @@ Shath'Yar writing appears on in-game objects including the **Banner of the Black
 | Speculative dictionary entries | 70+ | Derived from cross-referencing confirmed phrases with translations |
 | Confirmed pronouns | 6 | y'za, hoq, iilth, ywaq, ag, ak |
 | Confirmed grammatical markers | 3+ | sk- (possessive), qi' (future), maq (negation) |
+| Open linguistic investigations | 4 | *za* "place" vs. "my" (Low–Moderate), *ma* copula vs. "millennia" (Moderate), *iilth*/*ilith*/*illith* pronoun variants (Moderate), Syntactic pattern analysis — SVO word order, auxiliary system, negation, prosodic grammar (Moderate–High) |
 
 ## Reliability Notes
 
