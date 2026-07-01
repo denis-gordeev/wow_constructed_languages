@@ -2,7 +2,9 @@
 
 ## Overview
 
-Darnassian is the language of the Night Elves (*Kaldorei*), one of the oldest and most storied races in Azeroth. It is an elven language spoken primarily by the Night Elf people of Teldrassil, Darnassus, and their settlements across Kalimdor. The language serves as a vehicle for druidic tradition, religious devotion to Elune, and the cultural identity of a people who trace their lineage back over ten thousand years.
+Darnassian is the language of the Night Elves (*Kaldorei*), one of the oldest and most storied races in Azeroth. It is also known as *Darnassae* (attested in *The Sundering* novel). It is an elven language spoken primarily by the Night Elf people of Teldrassil, Darnassus, and their settlements across Kalimdor. The language serves as a vehicle for druidic tradition, religious devotion to Elune, and the cultural identity of a people who trace their lineage back over ten thousand years.
+
+Blizzard has internally developed a grammatical template for Darnassian (confirmed by the Warcraft wiki, ref. [12]), meaning the language follows systematic rules rather than being randomly generated — though these internal rules have not been published.
 
 ## Speakers
 
@@ -123,13 +125,13 @@ The in-game script on Darnassian signage does not consistently map to romanized 
 | Category | Count | Examples |
 |----------|-------|----------|
 | Attested phrases (with translations) | 11+ | *Elune-adore*, *Andu-falah-dor*, *Ash karath*, *Tor ilisar'thera'nal*, *Fandu-dath-belore?*, *Sindu-fallah-nor*, *Ishnu-alah*, *Ishnu-dal-die*, **Ande'thoras-ethil** (farewell), **Anu'dorini Talah** (war cry), **Bandu Thoribas** (challenge) |
-| Confirmed morphemes | 10+ | *Kal* (star), *dor/drassil* (crown), *Tel* (earth), *Nor* (heavens), *Zin* (glory), *dorei* (children of), *Quel* (noble), *shan* (honored/learner), *Aran* (town), *-naar* (town/settlement) |
+| Confirmed morphemes | 10+ | *Kal* (star), *dor/drassil* (crown), *Tel* (earth), *Nor* (heavens), *Zin* (glory), *dorei* (children of), *Quel* (noble), *shan* (honored/learner), *Aran* (town — 7 attestations), *-naar* (town/settlement — 4 attestations) |
 | Inferred morphemes | 4+ | *Andu/Tor* (imperative), *Endu* (negative), *ilisar* (enemies), *adore* (bless) |
-| Attested place names | 43+ | *Darnassus*, *Teldrassil*, *Nordrassil*, *Vordrassil*, *Andrassil*, *Shaladrassil*, *Zin-Azshari*, *Suramar*, *Nazjatar* + 34 additional from wiki (including *Astranaar*, *Dolanaar*, *Nar'thalas*, *Shandaral*, *Sylvanaar*, etc.) |
+| Attested place names | 75+ | *Darnassus*, *Teldrassil*, *Nordrassil*, *Vordrassil*, *Andrassil*, *Shaladrassil*, *Zin-Azshari*, *Suramar*, *Nazjatar* + 66 additional from wiki (Astranaar, Bashal'Aran, Satyrnaar, Quel'Dormir, Rut'theran, Vashj'ir, etc.) |
 | Attested personal names/titles | 7+ | *Kaldorei*, *Quel'dorei*, *Shan'do*, *Thero'shan*, *Ban'dinoriel*, **Belor'relos** (The Suncaller), **Anu'relos** (fiery somnowl) |
 | Uncertain words | 4 | *Xil'varu*, *Ma'thor*, *Asha'man*, *Alah* |
 | Attested sentences with full glosses | 0 | No Darnassian sentences have confirmed word-by-word translations |
-| Open linguistic investigations | 12 | Kinship cognates, *-da*/*-do* register alternation, World Tree naming, first verb conjugation, *-relos* agentive morpheme (Moderate confidence), Toponymic morphemes *Aran*/*-naar* (Low–Moderate confidence), Additional elven cognate candidates Sets 15–18 (*falah/fallah*, *dal*, *shan*, *finel*), *ther-* cross-elven battle cognate (Set 19, Low–Moderate), *-ethil* "diminished/warded" morpheme (Set 20, Moderate), imperative paradigm *Andu*/*Ande*/*Bandu* (Low–Moderate), Hara'ni–Elven cognate candidates (*-nir*, *Har'/Aran*, *Aln-*, *-mara*; Low–Moderate to Very Low), *-ah* Proto-Elven derivational suffix (Low–Moderate) |
+| Open linguistic investigations | 15 | (1) Kinship cognates, (2) *-da*/*-do* register alternation, (3) World Tree naming, (4) first verb conjugation, (5) *-relos* agentive morpheme (Moderate confidence), (6) *-da* Troll–Elven cognate, (7) Additional Zandali–Elven cognate candidates (*ala-*, *na*, *Ma'/Min'*), (8) Toponymic morphemes *Aran*/*-naar* (7 attestations, Moderate–High confidence), (9) Additional elven cognate candidates Sets 15–18 (*falah/fallah*, *dal*, *shan*, *finel*), (10) *ther-* cross-elven battle cognate (Set 19), (11) *-ethil* "diminished/warded" morpheme (Set 20, Moderate), (12) imperative paradigm *Andu*/*Ande*/*Bandu*, (13) Hara'ni–Elven cognate candidates (*-nir*, *Har'/Aran*, *Aln-*, *-mara*), (14) *-ah* Proto-Elven derivational suffix, (15) *Thas* toponymic morpheme — cross-elven "forest" element |
 
 ## References
 

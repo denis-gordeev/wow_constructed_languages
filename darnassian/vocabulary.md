@@ -206,6 +206,38 @@ Phrases attested in Warcraft III voice lines, WoW RPG sourcebooks, and novelizat
 | Thelserai | /θɛlˈsɛrɑɪ/ | (temple) | Ruined Highborne temple in Shimmering Expanse |
 | Zarkhenar | /zɑrˈkɛnɑr/ | (city) | Ruined city and ley-siphoning facility in Azsuna |
 | Zin-Malor | /zɪn mɑˈlɔr/ | (temple) | Temple in Eldarath; *Zin* = "glory" |
+| Arcan'dor | /ˈɑrkɑnˌdɔr/ | (arcane tree) | Arcane-infused tree in Suramar; *Arcan* + *'dor* |
+| Bashal'Aran | /bɑˈʃɑlɑrɑn/ | (ruin) | Ruined night elven city in Darkshore; *Aran* = "town" (4th attestation) |
+| Beth'mora | /bɛθˈmɔrɑ/ | (location) | Night elven location |
+| Biel'aran | /biˈɛlɑrɑn/ | (village) | Night elven village; *Aran* element |
+| El'dranil | /ɛlˈdrɑnɪl/ | (location) | Night elven location |
+| Fal'adora | /fɑlɑˈdɔrɑ/ | (location) | Night elven location; *Fal* root |
+| Falathim | /ˈfɑlɑθɪm/ | (port) | Night elven port in Teldrassil |
+| Falfarren | /fɑlˈfɑrɛn/ | (river) | River in Ashenvale |
+| Faronaar | /fɑˈroʊnɑr/ | (fortress) | Legion fortress on the Broken Shore |
+| Isildien | /ɪˈsɪldiɛn/ | (ruins) | Night elven ruins in Feralas |
+| Jademir | /ˈdʒeɪdmɪr/ | (lake) | Lake in Moonglade |
+| Kal'delar | /kɑlˈdɛlɑr/ | (village) | Night elven village in Azsuna; *Kal* = "star" |
+| Kel'Theril | /kɛlˈθɛrɪl/ | (city) | Ruined Highborne city in Winterspring |
+| Lariss | /ˈlɑrɪs/ | (location) | Night elven location in Azsuna |
+| Lithduin | /ˈlɪθdwɪn/ | (river) | River in Val'sharah |
+| Lornesta | /lɔrˈnɛstɑ/ | (location) | Night elven location |
+| Mathystra | /mɑˈθɪstrɑ/ | (ruins) | Ruined night elven city in Azshara |
+| Mazthoril | /mɑzˈθɔrɪl/ | (caverns) | Caverns in Winterspring; Highborne ruins |
+| Mennar | /ˈmɛnɑr/ | (village) | Night elven village in Azshara |
+| Meredil | /ˈmɛrɛdɪl/ | (district) | District in Suramar |
+| Ordil'Aran | /ˈɔrdɪlɑrɑn/ | (ruin) | Night elven ruin in Darkshore; *Aran* = "town" (5th attestation) |
+| Quel'Dormir | /kwɛlˈdɔrmɪr/ | (gardens) | Highborne gardens in Nazjatar; *Quel* = "noble/high" |
+| Rut'theran | /rʊˈθɛrɑn/ | (village) | Village at base of Teldrassil; *ther* root |
+| Satyrnaar | /sɑˈtɪrnɑr/ | (camp) | Satyr camp in Ashenvale; *-naar* suffix (4th attestation) |
+| Shal'Aran | /ʃɑlˈɑrɑn/ | (fallback) | Nightfallen refuge in Suramar; *Shal* root + *Aran* = "town" (6th attestation) |
+| Talrendis | /tɑlˈrɛndɪs/ | (point) | Night elven point in Azshara |
+| Tel'anor | /tɛlˈɑnɔr/ | (graveyard) | Night elven graveyard in Suramar |
+| Tethris Aran | /ˈtɛθrɪs ɑrɑn/ | (ruin) | Night elven ruin in Darkshore; *Aran* = "town" (7th attestation) |
+| Thas'talah | /θɑsˈtɑlɑ/ | (glade) | Night elven glade; *Thas* = "forest" (parallels Thalassian *Thas'alah*) |
+| Vashj'elan | /vɑʃˈiːlɑn/ | (location) | Naga-occupied location; *Vashj* element |
+| Vashj'ir | /vɑʃˈiːr/ | (zone) | Underwater zone; *Vashj* element |
+| Zoram | /ˈzɔrɑm/ | (strand) | Zoram Strand in Ashenvale |
 
 ## Untranslated Phrases
 

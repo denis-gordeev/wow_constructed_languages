@@ -405,12 +405,12 @@ Several Thalassian words have potential Darnassian cognates that were not includ
 |----------|------|---------|-------|
 | Thalassian | *Thas* | Thas'alah ("Light of the Forest"), Thas'dorah ("Valor of the Forest") | Forest |
 | Thalassian | *Thalas* | Quel'Thalas ("High Home/Kingdom") | Home, Kingdom |
-| Darnassian | — | No standalone *Thas* or *Thalas* attested | — |
+| Darnassian | *Thas* | Thas'talah (night elven glade) | Forest |
 | Shalassian | *Thal-* | Thalyssra (proper name; uncertain) | Possibly "home" |
 
-**Analysis**: *Thas* and *Thalas* share the initial consonant cluster /θɑ/. If *Thalas* decomposes as *Tha-* + *-las*, then *Thas* could represent a reduced form of the same root: *Thalas* → *Thas* via apocope of /lɑs/ → /s/. Alternatively, *Thas* and *Thalas* are distinct roots that happen to share /θɑ/. The semantic proximity ("forest" vs. "home/kingdom") is suggestive — an elven "home" defined by forest — but not conclusive.
+**Analysis**: *Thas* and *Thalas* share the initial consonant cluster /θɑ/. If *Thalas* decomposes as *Tha-* + *-las*, then *Thas* could represent a reduced form of the same root: *Thalas* → *Thas* via apocope of /lɑs/ → /s/. Alternatively, *Thas* and *Thalas* are distinct roots that happen to share /θɑ/. The semantic proximity ("forest" vs. "home/kingdom") is suggestive — an elven "home" defined by forest — but not conclusive. **Updated Round 14**: Darnassian *Thas'talah* (night elven glade) now attests *Thas* in Darnassian, strengthening the cross-elven cognate hypothesis; see Darnassian grammar.md Investigation 15.
 
-**Confidence: Low** for cognacy. The shared /θɑ/ onset could reflect a common elven phonological pattern rather than etymological relatedness.
+**Confidence: Low–Moderate** for cognacy (upgraded from Low). The Darnassian attestation of *Thas* in *Thas'talah* confirms the morpheme exists beyond Thalassian, supporting Proto-Elven inheritance.
 
 #### Candidate 2: *arkhana* (magic) ↔ cross-elven comparison
 
@@ -473,7 +473,7 @@ If cognate, *fallah* / *falah* would also be a shared root — but the Darnassia
 | Conjunction *Rea* | "And" (coordinating) | Low — one attestation |
 | Battle cry template | Selama + phrase | Moderate — three variants; see Investigation 2 |
 | *Shindu* ↔ Darnassian *Sindu* | Possible cognate with /s/→/ʃ/ palatalization | Low–Moderate — see Investigation 3 |
-| *Thas* ↔ Darnassian *Tha-* | Possible shared root "forest/home" | Low — see Investigation 3 |
+| *Thas* ↔ Darnassian *Thas* | Forest (now cross-elven; Darnassian *Thas'talah*) | Low–Moderate — see Investigation 3; upgraded from Low (Round 14) |
 | *fallah* ↔ Darnassian *falah* | "breaking through" ↔ "balance"; semantic divergence from shared root "disruption" | Low–Moderate — see elven-comparative.html Set 15 |
 | *Dal* ↔ Darnassian *dal* | Same form "fortune/goodness" in both | Low–Moderate — see elven-comparative.html Set 16 |
 | *shan* ↔ Darnassian *shan* | Unknown meaning ↔ "honored"; identical form and compounding pattern | Low — see elven-comparative.html Set 17 |
