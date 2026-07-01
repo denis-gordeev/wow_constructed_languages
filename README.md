@@ -9,17 +9,17 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 | Darnassian | Night Elves (Kaldorei) | [darnassian/](darnassian/) | Moderate — ~30-35 items; 28+ confirmed translations from wiki primer including 4 kinship terms (with confirmed Thalassian cognates), 11+ attested phrases with translations, 14 confirmed proper names, first confirmed verb conjugation (*Aria* = "we face"), 43+ place names, 30+ untranslated phrases; World Tree naming pattern fully resolved; toponymic morphemes *Aran*/*-naar* (town) and *-thalas* (home) identified |
 | Thalassian | Blood Elves, High Elves, Void Elves | [thalassian/](thalassian/) | Moderate — 20+ confirmed phrases with official translations, 20+ untranslated phrases, 7 confirmed compound decompositions, 3 kinship terms, 30+ proper names; expanded via Warcraft Encyclopedia, Sean Copeland translations, and novelizations |
 | Draenei | Draenei (exiled Eredar) | [draenei/](draenei/) | Low — mostly place names |
-| Orcish | Orcs | [orcish/](orcish/) | Moderate — well-known phrases |
+| Orcish | Orcs | [orcish/](orcish/) | Low–Moderate — well-known phrases (Lok'tar ogar, etc.); ~2 dozen attested words; no full sentences or verb paradigms; better described as a naming language |
 | Zandali | Trolls (all tribes) | [zandali/](zandali/) | Moderate — creole + naming patterns |
-| Taur-ahe | Tauren | [taur-ahe/](taur-ahe/) | Low — mostly deity names |
+| Taur-ahe | Tauren | [taur-ahe/](taur-ahe/) | Low–Moderate — 18+ confirmed translations, 3 full phrases, 10+ inferred morphemes; apostrophe-joined compounds well-attested |
 | Dwarven | Dwarves | [dwarven/](dwarven/) | Low — mostly place names |
 | Shath'Yar | Old Gods and their servants | [shath-yar/](shath-yar/) | Moderate — 56+ confirmed phrases with official translations, 2 confirmed single-word translations, 6 confirmed pronouns, speculative dictionary with 70+ entries; inspired by Lovecraft's R'lyehian |
-| Kalimag | Elementals | [kalimag/](kalimag/) | Very Low — mostly proper names |
-| Shalassian | Nightborne (Shal'dorei) | [shalassian/](shalassian/) | Low — derived from Darnassian |
+| Kalimag | Elementals | [kalimag/](kalimag/) | Low–Moderate — 2 confirmed/semi-confirmed translations, 5+ attested phrases, Frostmourne inscription, 4 confirmed dialects (Ignan/Aquan/Terran/Auran), 8+ inferred morphemes |
+| Shalassian | Nightborne (Shal'dorei) | [shalassian/](shalassian/) | Low — 2 confirmed morphemes, 5 inferred morphemes, 0 attested sentences; "-dorei" compound pattern confirmed across 3 elven languages; well-established Darnassian relationship |
 | Gutterspeak | Forsaken (Undead) | [gutterspeak/](gutterspeak/) | Very Low — corrupted Common |
 | Pandaren | Pandaren | [pandaren/](pandaren/) | Very Low — proper names only |
 | Vulpera | Vulpera | [vulpera/](vulpera/) | Extremely Low — proper names only |
-| Eredun/Demonic | Man'ari Eredar, Burning Legion | [eredun/](eredun/) | Low — names + Draenei cognates |
+| Eredun/Demonic | Man'ari Eredar, Burning Legion | [eredun/](eredun/) | Low–Moderate — numerous demon names, warlock spell incantations, confirmed *Man'ari* = "wrong/corrupt"; Draenei cognates; no complete sentences |
 | Mogu | Mogu (stone constructs) | [mogu/](mogu/) | Very Low — proper names only |
 | Sethrak | Sethrak (serpent people) | [sethrak/](sethrak/) | Extremely Low — proper names only |
 | Nature/Druidic | Druids of all races | [nature/](nature/) | Not a distinct language — vocabulary from Darnassian and Taur-ahe |
@@ -31,7 +31,7 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 | Gnomish | Gnomes (Mechagnome descendants) | [gnomish/](gnomish/) | Extremely Low — proper names only, no attested phrases or sentences |
 | Common | Humans (Vrykul descendants) | [common/](common/) | Extremely Low — rendered as English in-game; only Vrykul-origin place names provide distinct linguistic evidence |
 | Earthen | Titan-forged stone beings (Dwarven progenitors) | [earthen/](earthen/) | Extremely Low — proper names and place names only, no attested phrases (The War Within) |
-| Nerubian | Nerubians (spider-people of Azj-Kahet) | [nerubian/](nerubian/) | Low — proper names and place names; **one confirmed translation** (*Shabtir bakh sokhen* = "The servant bows to the master's authority"); 9 untranslated combat/greeting phrases; unique touch-and-scent writing system with pheromones; potential Aqir substrate (The War Within); *Azj-* prefix confirmed in Aqir empire name *Azj'Aqir* |
+| Nerubian | Nerubians (spider-people of Azj-Kahet) | [nerubian/](nerubian/) | Low — 1 confirmed translation, 9 untranslated phrases, ~16 personal names, ~8 place names; unique touch-and-scent writing system with pheromones; potential Aqir substrate (The War Within); *Azj-* prefix confirmed in Aqir empire name *Azj'Aqir* |
 | Qiraji | Qiraji (insectoid servants of C'Thun) | [qiraji/](qiraji/) | Extremely Low — proper names and place names only, no attested phrases; Aqir-descended language sharing *Ahn-* morpheme with nerubian |
 | Ethereal / Broker | Ethereals and Brokers (energy beings from K'aresh) | [ethereal/](ethereal/) | Very Low — 20+ proper names and 9 place names, no attested phrases; potential *-esh* locative suffix in *K'aresh* and *Tazavesh*; Arabic-inspired naming pattern; TBC, Legion, BfA, and TWW data; Nexus-Princess Ky'veza reclassified from nerubian |
 | Nerglish (Murloc/Jinyu/Ankoan/Kobyss) | Murlocs, Jinyu, Ankoan, Kobyss | [nerglish/](nerglish/) | Variable — Nerglish has iconic vocalizations and 2 self-designations (*gmmmlmrmrgmg*, *Mmmurlok*); Jinyu have 30+ proper names and 1 attested word (*Onoho* = "Deep Shadow"); Ankoan have 5 proper names; Kobyss show linguistic regression with only 3–5 Common words ("Animate bones", "Devour", "Violence") — the only known case of language loss in WoW |

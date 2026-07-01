@@ -97,6 +97,22 @@
 - [x] Fix HTML-MD sync gaps across all 30 language directories — **COMPLETED Round 8**: 5 worst directories fixed (mogu 34.4%→~90%, taur-ahe 43.3%→~95%, nature 50.3%→~90%, shalassian 53.6%→~90%, titan 57.2%→~90%); remaining 25 directories audited — all in sync or only minor intro gaps (sethrak, since fixed); added missing beings (Toat, Molthor, Daakara to mogu), 14 missing morphemes to mogu Roots & Morphemes table, Gloss columns to mogu Clan/Dynasty/Artifact tables, dynasty note, MOTHER row and expanded Notes to titan, missing English title entries to shalassian, -ka morpheme to taur-ahe, full Notes section to nature; fixed orcish duplicate Nagrand entry
 - [ ] Investigate Darnassian *Aran* vs *-naar* toponymic allomorphy — **SIGNIFICANTLY UPDATED Round 14**: *Aran* now has 7 attestations (added Ordil'Aran, Shal'Aran, Tethris Aran); *-naar* now has 4 attestations (added Satyrnaar); allomorphy confidence upgraded from Low–Moderate to Moderate; *Aran* confidence upgraded to Moderate–High; see Darnassian grammar.md Investigation 8
 - [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
+- [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — MD files consistently have more table rows than HTML counterparts
+
+## Completed This Round (2026-07-01, Round 15)
+
+- [x] Fix broken links in HTML files: drust/vocabulary.html `titan-forged-comparative.html` → `../titan-forged-comparative.html`; nerubian/grammar.html `alien-comparative.html` → `../alien-comparative.html`; earthen/vocabulary.html `../nerglish/` → `../nerglish/vocabulary.html`; vrykul/description.html and vocabulary.html `../drust/` → `../drust/description.html` and `../drust/vocabulary.html`
+- [x] Fix broken anchors in alien-comparative.html: add `id="greenspeaker"` and `id="nerubian-proximity"` to haranir/vocabulary.html heading elements
+- [x] Fix README attestation level mismatches: Kalimag Very Low → Low–Moderate; Taur-ahe Low → Low–Moderate; Orcish Moderate → Low–Moderate; Eredun Low → Low–Moderate; Nerubian wording streamlined; Shalassian "derived from Darnassian" → actual attestation data
+- [x] Add Pandaren example sentences to example-sentences.html (6 sentences: Pn1–Pn6)
+- [x] Add Vulpera example sentences to example-sentences.html (4 sentences: Vp1–Vp4)
+- [x] Fix Nerglish omission from example-sentences.html warning texts (2 of 3 warning blocks were missing Nerglish and Pandaren/Vulpera)
+- [x] Fix elven-comparative.html nav/heading mismatch: "Speculative Sets 15–20" → "Speculative Sets 15+"; heading updated to match
+- [x] Sync Zandali vocabulary.html with vocabulary.md: added Alai cross-family cognate note, split Fa'da/Ma'da Source+Notes cells, added Notes column to Confirmed Phrases table; fixed grammar.html Investigation 6 CSS class
+- [x] Sync Darnassian vocabulary.html with vocabulary.md: added Alah cross-family cognate note; synced grammar.html Investigation 11 with full MD content
+- [x] Sync Thalassian vocabulary.html: fixed duplicate nav link; synced grammar.html Summary table with 4 missing cognate rows and Thas confidence upgrade
+- [x] Sync Common vocabulary.html with vocabulary.md: updated section titles, added 2 missing rows to Inherited Vrykul Morphemes table
+- [x] Full HTML-MD sync audit of all 30 language directories; cross-reference consistency audit of 5 comparative HTML files and example-sentences.html; attestation level consistency audit of README.md vs description.md files
 
 ## Completed This Round (2026-07-01, Round 14)
 
