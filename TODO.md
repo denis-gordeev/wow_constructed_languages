@@ -97,7 +97,37 @@
 - [x] Fix HTML-MD sync gaps across all 30 language directories — **COMPLETED Round 8**: 5 worst directories fixed (mogu 34.4%→~90%, taur-ahe 43.3%→~95%, nature 50.3%→~90%, shalassian 53.6%→~90%, titan 57.2%→~90%); remaining 25 directories audited — all in sync or only minor intro gaps (sethrak, since fixed); added missing beings (Toat, Molthor, Daakara to mogu), 14 missing morphemes to mogu Roots & Morphemes table, Gloss columns to mogu Clan/Dynasty/Artifact tables, dynasty note, MOTHER row and expanded Notes to titan, missing English title entries to shalassian, -ka morpheme to taur-ahe, full Notes section to nature; fixed orcish duplicate Nagrand entry
 - [ ] Investigate Darnassian *Aran* vs *-naar* toponymic allomorphy — **SIGNIFICANTLY UPDATED Round 14**: *Aran* now has 7 attestations (added Ordil'Aran, Shal'Aran, Tethris Aran); *-naar* now has 4 attestations (added Satyrnaar); allomorphy confidence upgraded from Low–Moderate to Moderate; *Aran* confidence upgraded to Moderate–High; see Darnassian grammar.md Investigation 8
 - [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
-- [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — MD files consistently have more table rows than HTML counterparts
+- [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
+
+## Completed This Round (2026-07-02, Round 16)
+
+- [x] Full HTML-MD sync audit of all 15 listed directories (vocabulary, grammar, description)
+- [x] Fix broken anchor link: thalassian/vocabulary.html `#midnight` → added `id="midnight"` to Midnight Expansion heading
+- [x] Fix mogu/vocabulary.html sync gaps: added Wai noun row, expanded intro paragraph, expanded Chinese localization note, restored full gloss detail in Nouns table, expanded Proper Names notes (Lei Shen, Ra-den, Mogu'shan, etc.), expanded Roots & Morphemes with Chinese pinyin and full evidence, reordered Morphemic Decompositions
+- [x] Fix taur-ahe/vocabulary.html: restored "multiple sources:" prefix in Lo'Gosh notes, restored /tɔːrəhoʊ/ pronunciation in Taurajo
+- [x] Fix taur-ahe/grammar.html: added "or 'greetings'" to Nechi owachi, added "amen" resemblance note to Theia-shoush ahmen
+- [x] Fix ethereal/vocabulary.html: 8 text expansions (Salhadaar lore, Domanaar notes, naming analysis paragraphs, Devouring Host description)
+- [x] Fix earthen/vocabulary.html: restored truncated "*Dungard* may contain" prefix in Dungard Ironcutter row
+- [x] Fix shalassian/description.html: expanded truncated reliability note
+- [x] Fix orcish/vocabulary.html: expanded intro paragraph to full MD text
+- [x] Fix orcish/grammar.html: added missing `<h4 id="possible-analyses">` and `<h4 id="assessment">` headings
+- [x] Fix orcish/description.html: added missing `id` attributes to 4 h3 headings
+- [x] Fix nazja/grammar.html: restored missing "in the name *Priestess* and" in /p/ consonant note
+- [x] Add Darnassian Phonological Pattern 11 (Post-apostrophe consonant preference): ~90%+ consonant-initial post-apostrophe elements; vowel-initial rare, limited to *Elune* theophoric names
+- [x] Update Darnassian Phonological Pattern 10: added cross-language significance — pre-apostrophe sonorant constraint identified as elven innovation, absent from Zandali and Orcish
+- [x] Add Thalassian Phonological Pattern 11 (/ʃ/ initial dominance): /ʃ/ far exceeds /s/ word-initially; mirrors Darnassian pattern
+- [x] Update Thalassian Phonological Pattern 10: added cross-language significance — constraint identified as elven innovation
+- [x] Add Zandali Phonological Pattern 9 (/z/ initial preference): /z/ is most common word-initial consonant, typologically unusual
+- [x] Add Zandali Phonological Pattern 10 (/a/-monovocalic morpheme tendency): many morphemes exclusively /a/-voweled; weak height-harmony tendency
+- [x] Add Zandali Phonological Pattern 11 (Pre-apostrophe phonotactic permissiveness): contrast with elven constraint; Zandali preserves older permissive pattern
+- [x] Add Zandali Phonological Pattern 12 (Compound stress directionality): modifier-initial stress contrasts with elven head stress
+- [x] Add Orcish Phonological Pattern 8 (Back-vowel harmony tendency): /a/ and /o/ co-occurrence in morphemes
+- [x] Add Orcish Phonological Pattern 9 (Pre-apostrophe phonotactic permissiveness): mirrors Zandali, contrasts with elven innovation
+- [x] Add Shath'Yar Phonological Pattern 10 (Apostrophe directional asymmetry): initial = prefix, medial = compound boundary
+- [x] Add Shath'Yar Phonological Pattern 11 (/q/ sound symbolism): uvular stop concentrated in primordial/grammatical vocabulary
+- [x] Update elven-comparative.html: reclassified pre-apostrophe sonorant constraint as elven innovation (upgraded confidence Low–Moderate → Moderate); added head-stressed compounding as inherited Proto-Elven feature; added stress directionality contrast with Zandali; added pre-apostrophe constraint to innovations table
+- [x] Sync all 5 grammar.html files with updated grammar.md counterparts
+- [x] Full broken link audit: 1 broken link found and fixed (thalassian/vocabulary.html #midnight anchor)
 
 ## Completed This Round (2026-07-01, Round 15)
 

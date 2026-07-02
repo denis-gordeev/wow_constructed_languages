@@ -174,6 +174,10 @@ Notes:
 
 7. **Sound symbolism**: The harsh, percussive phonology aligns with orcish cultural values — strength, directness, combat readiness. The prevalence of stops and gutturals over fricatives and approximants reflects this aesthetic. Compare Darnassian, which favors liquids and sibilants, producing a melodic quality matching night elf culture.
 
+8. **Back-vowel harmony tendency**: Many Orcish morphemes show co-occurring /a/ and /o/: *Lok'tar* (o-a), *ogar* (o-a), *Mak'gora* (a-o-a), *Kosh'harg* (o-a), *Throm-ka* (o-a), *Aka'Magosh* (a-a-o), *Grommash* (o-a). Both /o/ and /a/ are back vowels, and their co-occurrence within morphemes is far more frequent than /o/-/i/ or /a/-/u/ mixing. Front vowels (/i/, /e/) are rare and tend to appear in isolation (*Kek*, e-only). This suggests a weak back-vowel harmony domain where /a/ and /o/ are the dominant vowels.
+
+9. **Pre-apostrophe phonotactic permissiveness**: Unlike the elven languages (Darnassian, Thalassian), which show a near-categorical constraint against oral stops before the apostrophe (~97% sonorant/fricative/vowel only), Orcish freely permits oral stops: *Lok'* /k/, *Mak'* /k/, *Gol'* /l/. This mirrors Zandali's similar permissiveness (*Lok'*, *Mak'*, *Zeb'*, *Krag'*) and contrasts with the elven innovation, suggesting that the pre-apostrophe sonorant constraint is an areal feature limited to the elven branch.
+
 ### Comparison with Darnassian Phonology
 
 | Feature | Orcish | Darnassian |

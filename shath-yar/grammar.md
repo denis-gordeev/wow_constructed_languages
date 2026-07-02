@@ -35,6 +35,10 @@
 8. **Non-human vocal anatomy**: Initial clusters (vw-, ss-, fh-) and complex codas (-gth, -ssh) exceed typical human syllable constraints, suggesting tentacular or multi-valved vocal apparatus
 9. **Capitalization as prosody**: SHOUTED words in confirmed translations (OOU KAAXTH SHUUL = "DIE A THOUSAND DEATHS"; PH'MAGG = "ENDLESS TORMENT") suggest prosodic emphasis — Shath'Yar may use volume/intensity marking where English uses intensifiers
 
+10. **Apostrophe directional asymmetry**: Initial apostrophes (*N'Zoth*, *C'Thun*, *K'thir*, *Y'Shaarj*) mark prefix-like elements that are always C + glottal stop, functioning as morphological prefixes (e.g., *N'* = "void/absence"). Medial apostrophes (*Shath'mag*, *Il'gynoth*, *Sk'yahf*) mark compounding boundaries between two content morphemes. This two-type apostrophe system — initial = prefix boundary, medial = compound boundary — is not documented in any other WoW constructed language and may reflect the agglutinative morphology of a non-human language.
+
+11. **/q/ sound symbolism**: The uvular stop /q/ appears exclusively in semantically "deep" or "primordial" vocabulary: *Ywaq* (they), *maq* (not/negation), *N'raqi* (void creature type), *qi'* (future tense), *qoth* (vessel). This concentration in fundamental grammatical and existential concepts may reflect sound symbolism — uvular stops for abyssal/primordial semantic domains — consistent with the language's association with the Void and Old Gods.
+
 ## Morphology
 
 ### Pronoun System (Confirmed)

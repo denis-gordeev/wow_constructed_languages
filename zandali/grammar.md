@@ -360,6 +360,14 @@ This is consistent with Common (English) influence and typical of pidgin/creole 
 
 8. **Sibilant distribution**: /ʃ/ (sh) appears in *Gurubashi, Shadra, Shirakess, Hash'ey* but is less common than in Nazja. /z/ appears primarily in *Zul, Zandalar, Zul'jin, Nazmir* — concentrated in the *Z-* initial pattern.
 
+9. **/z/ initial preference**: /z/ is the most common word-initial consonant in Zandali (*Zul*, *Zandalar*, *Zul'jin*, *Zanza*, *Zabra*, *Zeb'*, *Zul'brin*, *Zul'Marosh*, *Zin*, *Zul'Dare*, *Zul'arek*, *Zabra'jin*). This is typologically unusual — /z/ is rarely the most frequent word-initial consonant in natural languages — and may reflect sound symbolism or a historical phonological process that fronted an earlier *s-* to *z-* in initial position.
+
+10. **/a/-monovocalic morpheme tendency**: Many Zandali morphemes contain only /a/ across all syllables: *Zal*, *Gar*, *rak*, *Atal*, *tan*, *kal*, *nash*, *bala*, *mah*, *man*, *shar*, *tal*, *zal*. This extends beyond the general /a/ dominance noted in Pattern 1 — many morphemes are exclusively /a/-voweled, a pattern shared with Hara'ni (*Har'*, *Aln'*, *-mara*). Morphemes with /o/ tend to co-occur with /a/ (*Zul'do*, *Dokani*, *Kosh*), while morphemes with /i/ tend to be /i/-monovocalic (*Jin*, *Zin*, *Shiri*, *Ni*), suggesting a weak height-harmony tendency where low vowels co-occur with low vowels and high vowels with high vowels.
+
+11. **Pre-apostrophe phonotactic permissiveness**: Unlike the elven languages (Darnassian, Thalassian), which show a near-categorical constraint against oral stops before the apostrophe (~97% sonorant/fricative/vowel only), Zandali freely permits oral stops before the apostrophe: *Lok'* /k/, *Mak'* /k/, *Zeb'* /b/, *Krag'* /g/, *Thresh'* /ʃ/. This contrast is significant given the confirmed genetic relationship between troll and elven languages (see Darnassian grammar.md Investigation 6) — it suggests the sonorant-only pre-apostrophe constraint is an **elven innovation**, not inherited from Proto-Troll-Elven, with Zandali preserving the older, more permissive pattern.
+
+12. **Compound stress directionality**: Zandali compound names appear to place stress on the **first element** (the modifier): *ZUL'gurub*, *ZUL'aman*, *ZUL'drak*, *ZUL'farrak*, *ATAL'ai*, *SEN'jin*, *VOL'jin*. This contrasts with the elven languages, which stress the **head** (second/post-apostrophe element): *Quel'THALas*, *Sin'DOrei*, *Thas'ALah* (see elven-comparative.html). This stress directionality difference is a significant structural divergence between the troll and elven branches, and may reflect different compound structures: modifier-prominent (troll) vs. head-prominent (elven).
+
 ### Creole vs. Native Phonology
 
 A phonological distinction exists between the creole register and native Zandali names:
