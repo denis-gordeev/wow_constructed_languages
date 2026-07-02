@@ -41,26 +41,35 @@ The suffix is productive and may be cognate with similar suffixes across WoW lan
 | Approximants | | | | ɾ | j | | |
 | Laterals | | | | l | | | |
 
-### Notable Phonological Features
+### Vowel Inventory
 
-- **Heavy syllables:** Names tend toward CVC.CVC patterns (Archimonde, Magtheridon), suggesting a preference for consonant-heavy phonotactics — a phonological reflection of the language's association with harsh, commanding power.
-- **Rhotic prominence:** /r/ is extremely frequent, appearing in nearly every attested name and word (Eredar, Draenor, Sargeras, Mannoroth, etc.).
-- **Apostrophe-adjacent sounds:** Apostrophes often appear between consonant-final and vowel-initial elements (Man'ari, Sha'tar), or between two consonant clusters (Kil'jaeden).
-- **Guttural consonants:** /k/, /g/, and possibly /x/ (represented as *kh*) are frequent, giving the language a resonant, sometimes harsh quality.
+| | Front | Central | Back |
+|---|---|---|---|
+| Close | i | | u |
+| Mid | e | | o |
+| Open | | a | |
 
-### Vowel System
+Observed diphthongs may be present (e.g., the *ai* in *Man'ari*, the *ei* in *Draenei*).
 
-Observed vowels include /a/, /e/, /i/, /o/, /u/. Diphthongs may be present (e.g., the *ai* in *Man'ari*, the *ei* in *Draenei*).
+### Phonological Patterns
 
-### Consonant Clusters
+1. **Heavy syllables**: Names tend toward CVC.CVC patterns (Archimonde, Magtheridon), suggesting a preference for consonant-heavy phonotactics — a phonological reflection of the language's association with harsh, commanding power.
 
-Eredun/Draenei permits complex consonant clusters, particularly in medial and final positions:
+2. **Rhotic prominence**: /r/ is extremely frequent, appearing in nearly every attested name and word (Eredar, Draenor, Sargeras, Mannoroth, etc.).
 
-- *Shattrath*: /ʃtr/, /θr/
-- *Auchindoun*: /xtʃ/, /nd/
-- *Krokul*: /kr/
+3. **Apostrophe-adjacent sounds**: Apostrophes often appear between consonant-final and vowel-initial elements (Man'ari, Sha'tar), or between two consonant clusters (Kil'jaeden).
 
-This suggests a syllable structure permitting onsets of up to three consonants.
+4. **Guttural consonants**: /k/, /g/, and possibly /x/ (represented as *kh*) are frequent, giving the language a resonant, sometimes harsh quality.
+
+5. **-oth /ɔθ/ as a Pit Lord name suffix**: Three Pit Lord/demonic names end in -oth: *Mannoroth*, *Xoroth*, *Azzinoth*. This -oth pattern does not appear in Eredar names, Dreadlord names, or Draenei names. It may be: (a) an Eredun morpheme meaning "lord" or "destroyer" used specifically for Pit Lords, (b) a borrowing from the Pit Lords' native language, or (c) a phonological template for names of immense destructive beings.
+
+6. **Dreadlord vs. Eredar name phonology split**: Dreadlord names (*Mal'Ganis*, *Tichondrius*, *Varimathras*, *Balnazzar*, *Detheroc*) show a distinct phonological profile from Eredar names (*Archimonde*, *Kil'jaeden*): Dreadlord names have more sibilants and more complex codas (-is, -as, -ar, -oc), while Eredar names have more rhotics and more open syllables. This supports the note that "not all demon names are Eredun" — the Nathrezim likely have their own language with different phonological constraints.
+
+7. **Name-length bimodality**: Eredun vocabulary shows a striking bimodal length distribution — short words (1–2 syllables: *Fel*, *Argus*, *Krokul*, *Man'ari*) and long names (3–4 syllables: *Sargeras*, *Archimonde*, *Kil'jaeden*, *Magtheridon*). There are essentially no 2-syllable proper names and no 3+ syllable common nouns. This suggests that Eredun proper names are formed with specific suffixal morphology (-eros, -monde, -jaeden) that adds syllables, while base vocabulary is phonologically compact.
+
+8. **Consonant cluster tolerance**: Eredun permits complex consonant clusters, particularly in medial and final positions: *Shattrath* (/ʃtr/, /θr/), *Auchindoun* (/xtʃ/, /nd/), *Krokul* (/kr/). This suggests a syllable structure permitting onsets of up to three consonants.
+
+9. **Nasal + stop sequences at compound-internal boundaries**: Multiple names show medial nasal+stop sequences: *Mannoroth*, *Archimonde*, *Kil'jaeden*. The pattern of nasals before homorganic stops at syllable boundaries is consistent with compound-internal juncture, where the nasal may be a linking element or case marker.
 
 ## Syntax
 

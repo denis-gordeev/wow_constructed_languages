@@ -41,6 +41,14 @@ Grammar rules below are **inferred from attested examples only**. The Ethereal l
 
 6. **Vowel distribution**: Names favor /a/ and /e/ heavily, with /i/ and /u/ less common. /o/ is rare. This pattern partially overlaps with nerubian and Nazja vowel distributions.
 
+7. **Long vowel + coronal sonorant word-ending pattern**: An extremely consistent pattern across ethereal names: word-final sequences of long vowel + coronal sonorant (/l/, /n/, /r/): *-aar* (*Salhadaar*), *-aan* (*Razaan*, *Durzaan*), *-aal* (*Bilaal*, *Zarhaal*). The long vowel is always /ɑː/ (written *-aa-*), and the following consonant is always a coronal sonorant. This mirrors Arabic phonotactics where word-final /VːC/ sequences with coronal consonants are common and covers the majority of non-compound ethereal names with 3+ syllables.
+
+8. **Z-initial name frequency**: An unusually high proportion of ethereal names begin with /z/: *Zovex*, *Zarhaal*, *Zo'Shuul*, *Zo'ardaz*, *Zo'ya* (Zo'- prefix), plus names spelled with X that are pronounced /z/ (*Xiraxis* /zɪˈræksɪs/, *Xevozz* /ˈzɛvɒz/). Combined, /z/ appears in ~6–8 of ~40+ ethereal names — a rate of ~15–20%, far above the cross-linguistic average. This may reflect a Blizzard design choice (Z evokes "energy/arcane" thematically) or a genuine ethereal phonological preference.
+
+9. **Post-vocalic /ʃ/ in word-final/near-final position**: /ʃ/ appears disproportionately in the final or penultimate syllable of ethereal names, typically after a vowel: *K'aresh* /kəˈrɛʃ/ (final /ʃ/), *Tazavesh* /tɑːˈzɑːvɛʃ/ (final /ʃ/), *Gava'xi* /ɡɑːˈvɑːʃi/ (final /ʃi/), *Xan-Sallish* /zænˈsælɪʃ/ (final /ʃ/). The pattern is strongest in place names (*K'aresh*, *Tazavesh* — both end in *-esh* /ɛʃ/). The *-esh* locative suffix is itself an instance of this broader phonological tendency.
+
+10. **Open final syllable preference**: Ethereal names (excluding Domanaar) overwhelmingly end in open syllables or vowel+sonorant sequences — rarely in voiceless stops: open syllable (*Ve'nari* /-ri/, *Ky'veza* /-zə/, *Nari* /-ri/), vowel+sonorant (*Salhadaar* /-dɑːr/, *Bilaal* /-lɑːl/, *Razaan* /-zɑːn/). Voiceless-stop-final names like *Zovex* /-vɛks/ are rare exceptions. This contrasts sharply with nerubian (voiceless stop finals dominant) and reinforces the "soft, flowing" quality of ethereal names vs. the "hard, clicking" quality of nerubian names.
+
 ### Comparison with Other "Alien" WoW Languages
 
 | Feature | Ethereal | Nerubian | Qiraji | Shath'Yar |

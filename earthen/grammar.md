@@ -35,6 +35,16 @@ Grammar rules below are **inferred from attested examples only**. The Earthen la
 
 5. **Syllable structure**: Names tend toward (C)(C)V(C)(C), allowing complex onsets and codas: *Baelgrim* /beɪl.ɡrɪm/ (CVC.CCVC), *Gundargaz* /ɡʊn.dɑːr.ɡæz/ (CVC.CVCCVC), *Adelgonn* /ə.dɛl.ɡɒn/ (V.CVCCVC).
 
+6. **Near-total sibilant absence in personal names**: No Earthen personal name contains a sibilant /s/, /z/, /ʃ/, /ʒ/ in any position, with the marginal exception of *Merrix*'s final /ks/ cluster. Names like *Baelgrim*, *Adelgonn*, *Brinthe*, *Eirich*, *Lufsela*, *Kothilde*, *Olbarig*, *Vokmar*, *Grelka*, *Leikaroc*, *Adland*, *Dungard*, *Goggeroc* are all sibilant-free. This contrasts sharply with Nazja's sibilant-dense names and even with Dwarven names (which occasionally have /s/). The sibilant ban may reflect the Earthen's origin as stone beings — sibilants require precise tongue articulation that may not have been relevant to beings of living stone.
+
+7. **Obstruent-final name preference (vs. elven sonorant-final)**: Earthen personal names overwhelmingly end in obstruents: -m (*Baelgrim*), -x (*Merrix*), -θ (*Brinthe*), -k (*Leikaroc*, *Goggeroc*), -d (*Adland*, *Dungard*). This contrasts with the elven family's sonorant-final preference (-ei, -an, -ra, -a) and suggests a fundamentally different phonological aesthetic — "hard endings" for beings of stone.
+
+8. **Name-initial voiced stop preference**: A disproportionate number of Earthen personal names begin with voiced stops: **B**aelgrim /b/, **B**rinthe /b/, **G**relka /ɡ/, **G**oggeroc /ɡ/, **D**ungard /d/. The voiced-stop preference may reflect a phonological substrate from Titan, where initial voicing served a grammatical or semantic function.
+
+9. **Bimorphemic compound name productivity**: A high proportion of Earthen personal names are transparently bimorphemic: *Bael+grim*, *Dun+gard*, *Gogge+roc*, *Leikar+oc*. This contrasts with Dwarven names, which are typically monomorphemic (*Magni*, *Muradin*, *Brann*, *Moira*). The compound productivity in Earthen naming suggests that the Earthen → Dwarven transition involved not just phonological simplification (loss of /θ/, cluster reduction) but also morphological simplification (loss of compound naming patterns in favor of atomic names).
+
+10. **Medial /r/ as compound-internal syllable boundary**: Multiple place and personal names show /r/ in the coda of a non-final syllable, marking a compound-internal boundary: *Dornogal* (Dorn- + -ogal), *Gundargaz* (Gundar- + -gaz), *Dungard* (Dun- + -gard). The /r/ consistently appears before a velar consonant in the following onset. This pattern suggests /r/ may serve as a phonological "joint" in compounds, possibly reflecting an epenthetic or linking /r/ at morpheme boundaries — a pattern not shared by other titan-forged languages.
+
 ### Comparison with Dwarven Phonology
 
 | Feature | Earthen | Dwarven | Analysis |

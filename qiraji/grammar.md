@@ -56,6 +56,16 @@ Grammar rules below are **inferred from attested examples only**. The Qiraji lan
     - CVC.CVC: *Ossirian*
     - CVC.CVC.CVC: *Kurinnaxx*
 
+10. **Heavy syllable preference**: Qiraji names favor phonologically heavy syllables (CVV, CVC) over light syllables (CV): *Rajaxx* CVC-VCC (two heavy syllables), *Kurinnaxx* CV-CVC-CVCC (three heavy syllables), *Ossirian* VCC-CV-CVVC (heavy-heavy-superheavy), *Ahn'qiraj* VCC-CV-CVVC (heavy-heavy-superheavy), *Sarsarun* CVC-CVC-CVC (all heavy). Light CV syllables are rare in qiraji names, contrasting with Hara'ni and ethereal where CV syllables are common. This "weighty" quality may reflect the Egyptian aesthetic.
+
+11. **Short name constraint (max ~3 syllables)**: Qiraji personal names are systematically shorter than nerubian names, with a hard ceiling of ~3 syllables: 1 syllable (*Zod*, *Moam*), 2 syllables (*Rajaxx*, *Ashi*, *Zora*), 3 syllables (*Kurinnaxx*, *Ossirian*, *Sarsarun*, *Ka'ark*). Nerubian names routinely reach 4+ syllables (*Anub'rekhan*, *Anub'et'kan*). The constraint may reflect a phonological simplification from Aqir — qiraji shortened names while nerubian elaborated them through compounding.
+
+12. **Word-final nasal or vowel preference**: Unlike nerubian (voiceless obstruent finals dominant), qiraji names favor final nasals or vowels: nasal-final (*Ossirian* /n/, *Moam* /m/), vowel-final (*Ashi* /i/, *Zora* /ə/, *He'al-ie* /iː/), /ks/-final (*Rajaxx*, *Kurinnaxx* — but these may reflect the *-naxx*/*-axx* suffix specifically). If both languages descend from Aqir, one possible reconstruction is that Aqir allowed both types of finals, and the daughter languages specialized in opposite directions — nerubian favoring voiceless stops, qiraji favoring nasals and vowels.
+
+13. **/ɑ/ dominance in stressed syllables**: From the IPA, stressed syllables in qiraji names disproportionately contain the low vowel /ɑ/: *Ahn'qiraj* /ˈɑːn.kiˌɹɑːʒ/ (primary stress on /ɑː/), *Rajaxx* /ˈrædʒɑːks/ (secondary stress on /ɑː/). The preference for low vowels in stressed positions is typologically natural (low vowels are perceptually more salient) and reinforces the "deep, resonant" quality of qiraji names. This parallels the Egyptian phonological aesthetic where /ɑ/ is the most frequent vowel.
+
+14. **Medial /r/ prominence (vs. nerubian final /r/)**: The rhotic /r/ in qiraji appears predominantly in medial position within roots and morphemes (*Kurinnaxx*, *Ahn'qiraj*, *Sarsarun*, *Ka'ark*), rather than as a productive suffix like nerubian's *-ar* / *-arak*. This is a genuine divergence between the two Aqir-descended languages: qiraji uses /r/ within roots, nerubian deploys /r/ as a grammatical suffix marker.
+
 ### Comparison with Nerubian Phonology
 
 | Feature | Qiraji | Nerubian | Inference |

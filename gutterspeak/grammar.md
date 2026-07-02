@@ -25,6 +25,16 @@ Gutterspeak is classified as a separate language in World of Warcraft game mecha
 - When the Forsaken took the Undercity, they adopted this pre-existing underground language as their official language
 - This means Gutterspeak predates the Forsaken as an organized speech variety
 
+## Phonology
+
+Gutterspeak has no independently attested phonology. As a register of Common with minor Dwarven and Thalassian influence, its phonological features would be derivable from the source languages:
+
+1. **Total phonological opacity**: Gutterspeak is unique among WoW constructed languages in having no unique phonological material. Its existence as a "language" is entirely game-mechanical — it was created to prevent cross-faction communication, not developed as a constructed language. This makes it the only WoW language defined purely by exclusion (not-Common) rather than by positive phonological content.
+
+2. **Confirmed mixed substrate**: Common + "little bits of Dwarven and Thalassian" (confirmed — *World of Warcraft Battle Chest Guide*). Any phonological features would be derivable from the source languages: from Common, likely Germanic/Romance phonotactics; from Dwarven, possible guttural consonants and /θ/; from Thalassian, possible sibilant features and liquid-heavy syllables.
+
+3. **Language comprehension loss as phonological evidence**: Dan Golthas's quote ("they drove me out of the village, screaming in a language I could no longer understand") suggests the Forsaken transformation may alter phonological perception. If Forsaken cannot understand Common they once spoke, this implies either altered auditory processing, cognitive language faculty damage, or a sociolinguistic shift where Common speakers modified their speech when addressing Forsaken.
+
 ## Potential Distinguishing Features
 
 ### Archaic Retention

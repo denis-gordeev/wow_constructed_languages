@@ -77,6 +77,16 @@ The /ʒ/ phoneme, previously thought rare in nerubian, is now confirmed in the m
    - CCVCC: *Vrrix*
    - CVC'CVC: *Krix'vizk*
 
+8. **Word-final voiceless obstruent preference**: Nerubian names overwhelmingly end in voiceless stops or fricatives — /k/, /ks/, /θ/, /ʃ/ — and almost never in vowels or voiced stops: /k/-final (*Nizrek*, *Ansurek*, *Ix'zek*), /ks/-final (*Ulgrax*, *Ovi'nax*, *Vrrix*), /θ/-final (*Xanventh*, *Krik'thir*), /ʃ/-final (*Anub'arash*, *Rasha'nan*, *Tuten'kash*). This contrasts sharply with Hara'ni (open syllables) and ethereal (vowel+sonorant endings). The pattern gives nerubian its distinctive "hard, clicking" quality — consistent with arachnid vocalization.
+
+9. **Name-length bimodality**: Two distinct clusters exist with almost no intermediates — short simplex names (2 syllables, no apostrophe: *Izo*, *Kriz*, *Vrrix*, *Kilix*, *Ixit*, *Sikran*) and long compound names (3–4 syllables, with apostrophe: *Anub'arak*, *Anub'rekhan*, *Anub'azal*, *Krix'vizk*, *Rasha'nan*, *Ovi'nax*). The gap is notable — there are almost no 2-syllable compound names or 3-syllable simplex names. The short names may be abbreviated/rank names, while the long names are full ceremonial compounds.
+
+10. **Stress placement: initial in simplices, rightward in compounds**: From IPA transcriptions, simplex names show overwhelmingly initial stress (*Nizrek*, *Ulgrax*, *Sikran*, *Izo*, *Vrrix*, *Hadronox*), while compound names shift stress rightward toward the second element (*Anub'arak*, *Ix'zek*). This suggests a compound stress rule: each morpheme retains its own stress, with the rightmost element receiving primary stress — a typologically common pattern.
+
+11. **Consonant echo across morpheme boundaries**: Several compound names repeat the same consonant phoneme on both sides of the apostrophe boundary: *Krix'vizk* (/k/ in initial and final position), *Rak-Zakaz* (/k/ appears three times — *R**ak***-Z**ak**az*), *Vorus'arak* (/r/ in both elements). The /k/ echo is the strongest pattern, appearing in 3+ names. This may reflect a phonological harmony constraint or an echo-reduplication process where the second element partially mirrors the first.
+
+12. **Rhotic as a suffix marker**: The phoneme /r/ appears in a disproportionate number of suffix positions: *-ar* faction suffix (*Anub'ar*, *Hath'ar*, *Nerub'ar*, *Ahn'kahar*), *-thir* (*Krik'thir*, *Nox'tir*), *-lar* (*Ix'lar*), *-arak* (*Anub'arak*, *Vorus'arak*). This contrasts with /r/'s rarity in name-initial position (only *Rasha'nan*, *Rak-* prefix). The pattern suggests /r/ carries morphological weight in suffix position — possibly marking collective, agentive, or rank functions.
+
 ## Morphology
 
 ### Compounding with Apostrophe Boundary

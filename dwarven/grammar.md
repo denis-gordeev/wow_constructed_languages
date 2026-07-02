@@ -176,3 +176,32 @@ The Dwarven element *Dun* (attested in *Dun Morogh*, *Dun Modr*, *Bael'dun*) is 
 | Coincidence: *Durn-* is unrelated to *Dun* | Medium | Always a possibility with a single data point |
 
 **Confidence: Low–Medium** for a Dwarven *Dun* → Common *Durn* connection. The geographic and cultural context (Dwarven–Human alliance, proximity of Durnholde to Dwarven lands) supports borrowing, but the phonological mechanism is not well-attested and a coincidental or independent Common etymology is equally plausible.
+
+## Investigation: Vrykul–Dwarven Gender-Correlated Final Vowel Pattern
+
+Both Vrykul and Dwarven show a pattern where feminine names disproportionately end in /a/:
+
+| Language | /a/-final feminine names | Total feminine names | Ratio | Non-/a/ feminine names |
+|----------|-------------------------|---------------------|-------|------------------------|
+| Vrykul | Svala, Helya, Hyrja, Fjola, Danica, Agatha, Arthura, Brynja, Daschla, Kyra, Signe, Skyja, Skolla, Valkyra | ~17 | ~76% | Seyla, Liv, Sif |
+| Dwarven | Moira, Lufsela | ~2–3 | ~67–100% | (very small sample) |
+
+### Three Hypotheses
+
+1. **Inherited from Titan**: If the Titan language had a gender-correlated final vowel system, both Vrykul and Dwarven could have independently preserved it through the Titan → Earthen/Vrykul descent chain. This would be the most linguistically interesting explanation but requires assuming Titan had this feature (no direct evidence).
+
+2. **Shared Norse design inspiration**: Blizzard designed both Vrykul and Dwarven names with Old Norse/Germanic aesthetics, where /a/-final feminine names are a well-known convention (cf. Old Norse *Sigríðr*, *Þóra*, *Helga*; modern Scandinavian *Inga*, *Astrid*, *Freya*). This is the most parsimonious explanation and does not require in-universe linguistic inheritance.
+
+3. **Genuine linguistic inheritance via Vrykul → Dwarven contact**: If the Vrykul–Dwarven naming pattern reflects genuine in-universe language contact rather than design convergence, the /a/ = feminine marker would have been transmitted from Vrykul to Dwarven during their long cohabitation in the titan-forged halls. This is possible but requires assuming Dwarven names preserve a Vrykul borrowing pattern.
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| Inherited from Titan | Very Low | No evidence Titan had gender markers; would require independent preservation in both branches |
+| Shared Norse design inspiration | Moderate–High | Most parsimonious; matches real-world naming conventions Blizzard drew from |
+| Vrykul → Dwarven contact transmission | Low | Possible but requires Dwarven naming to preserve a Vrykul feature despite divergent phonology |
+
+The Dwarven sample is too small (only 2–3 feminine names) to confirm the pattern independently. If future Dwarven feminine names also end in /a/, the case for genuine inheritance (hypotheses 1 or 3) would strengthen. Currently, **shared Norse design inspiration (hypothesis 2) is the most likely explanation**.
+
+**Confidence: Low–Moderate** that the gender-correlated final vowel reflects genuine linguistic inheritance rather than design convergence.

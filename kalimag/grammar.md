@@ -34,6 +34,18 @@
   - Flowing syllables: Neptulon, Thunderaan
   - Short ritual words: Reth, Tas, Ko, Ma
 
+### Phonological Patterns
+
+1. **Dialect-specific phonotactics: Ignan CVC vs. Aquan polysyllabic**: The Molten Core runes (Ignan dialect) are uniformly CVC monosyllables: *Kress*, *Mohn*, *Blaz*, *Zeth*, *Mazj*, *Koro*, *Theri*. In contrast, the Aquan phrases show polysyllabic flowing forms: *kilagrin*, *tadrom*, *aasrugel*, *korsul*. This suggests a fundamental phonotactic split: Ignan favors harsh, compact monosyllables (consistent with the "forceful" description), while Aquan favors longer, vowel-richer forms (consistent with water's flowing quality).
+
+2. **Reduplication as a grammatical device**: "Reth Reth Reth" = "Burn burn burn" shows complete reduplication for emphatic imperative plural. The phrase "Ma krin drinor zoln drinor" shows partial reduplication where "drinor" appears twice with "zoln" intervening, suggesting reduplication may be a productive grammatical device marking distributive, iterative, or emphatic meaning.
+
+3. **Fricative-final word preference**: Many Kalimag words end in fricatives: -sh (*Cyruush*, *Fahss*), -s (*Ragnaros*, *Kress*, *Sulfuras*, *aasrugel*, *korsul*), -th (*Zeth*), -z (*Blaz*). This contrasts with the elven languages (where names end in vowels or sonorants) and may reflect the "primal, forceful" quality — fricatives provide a sustained, breath-heavy word ending that could mimic elemental sounds (hissing fire, rushing wind).
+
+4. **/r/ as a cross-dialect lexical constant**: The phoneme /r/ appears in virtually every attested Kalimag word across all dialects: *Ragnaros*, *Therazane*, *Reth*, *aer'rohgmar*, *drinor*, *korsul*, *Arathar*, *Rethfuras*. While Eredun is noted for rhotic prominence, Kalimag's /r/ density is comparable but distributed differently — /r/ appears in ritual words, names, and functional vocabulary alike, suggesting /r/ is lexically pervasive across all word classes.
+
+5. **CV functional word template**: The short functional/grammatical words follow a strict CV template: *ma* (1st person pronoun), *ko* (locative/interrogative), *tas* (demonstrative?), *tu* (particle). This contrasts with the CVC ritual words (*Reth*, *Kress*, *Blaz*) and the polysyllabic content words (*shodru'ga*, *kilagrin*). The three-way phonological split — CV grammar words, CVC ritual words, polysyllabic content words — suggests Kalimag encodes word class phonologically: shorter = more grammatical, longer = more lexical.
+
 ## Morphology
 
 ### Apostrophe Compounding
