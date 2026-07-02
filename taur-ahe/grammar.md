@@ -40,6 +40,22 @@ Based on attested words, Taur-ahe appears to use the following consonants (infer
 - Camp Taurajo is pronounced /tɔːrəhoʊ/ (as in Navajo), not /tɔːrədʒoʊ/
 - This suggests the orthographic "j" represents /h/ in at least some contexts
 
+### Phonological Patterns
+
+1. **CV/CVC syllable structure**: Simple morphemes follow CV or CVC patterns: *An*, *she*, *Mu*, *Lo*, *Ish*, *Taur*. This contrasts with the polysyllabic compound names created by apostrophe-joining (*Lakota'mani*, *Ish-ne-alo*). The base syllable template is CV(C), with no complex onset clusters in simple morphemes.
+
+2. **Apostrophe compounding as dominant morphology**: Taur-ahe uses apostrophe-joined compounding more productively than any other WoW language with comparable attestation. At least 10 confirmed compounds use apostrophes (*An'she*, *Mu'sha*, *Apa'ro*, *Taur-ahe*, *Lo'Gosh*, *Lakota'mani*, *Lar'korwi*, *Mashan'she*, *Una'fe*, *Mawat'aki*), plus 2 multi-apostrophe compounds (*Chouk'taga'loush*, *Nag'grada'baash*). The apostrophe consistently marks a morpheme boundary between two meaningful elements.
+
+3. **/h/ from /j/ phonological development**: Camp Taurajo is pronounced /tɔːrəhoʊ/ with /h/ rather than /dʒ/, reflecting Navajo-influenced phonology. This suggests that orthographic "j" represents /h/ in Taur-ahe, either as a regular sound change from an earlier /j/ (palatal approximant → glottal fricative) or as a direct representation of /h/ in the writing system. This /j/ → /h/ development is attested in several Amerindian languages and is consistent with Blizzard's design inspiration.
+
+4. **Open syllable preference in names**: The majority of simple morphemes end in vowels: *An*, *Mu*, *she*, *Lo*, *Taur*, *Ish*, *ro*, *sha*. Closed-syllable morphemes are less common (*-mani*, *-gosh*, *-korwi*). This open-syllable preference is consistent with the Amerindian phonological aesthetic and contrasts with the obstruent-final preference of languages like nerubian and Earthen.
+
+5. **/ʃ/ (sh) prominence**: The phoneme /ʃ/ appears in at least 5 attested forms: *An'she*, *Mu'sha*, *Mashan'she*, *Ishamuhale*, *Shu'halo*. This is an unusually high concentration of /ʃ/ for a language with only ~18 confirmed translations. The prominence of /ʃ/ may reflect Blizzard's design choice for a "soft, spiritual" phonological quality, consistent with the tauren's peaceful, nature-oriented culture.
+
+6. **Disyllabic compound name optimum**: The most common compound name length is two syllables (2 morphemes × 1 syllable each): *An'she*, *Mu'sha*, *Una'fe*, *Lo'Gosh*. Longer compounds (*Lakota'mani* 5 syllables, *Ishamuhale* 4 syllables, *Chouk'taga'loush* 4 syllables) tend to be proper names for legendary beings or Spirit Walker incantations, suggesting that everyday vocabulary favors shorter compounds while ritual/mythological vocabulary allows longer forms.
+
+7. **Reduplicated -sha/-she element in celestial vocabulary**: The element *-sha*/*-she* appears in 3 celestial terms: *Mu'sha* (the Moon), *An'she* (the Sun), *Mashan'she* (the Loom of the Earth Mother). In *Mashan'she*, the *-she* element recurs from *An'she*, suggesting *-she* = "celestial body" or "eye of the Earth Mother" rather than *she* = "sun" specifically. The form *Isha* in *Isha Awak* ("Deep Doom") may contain the same root with a different vowel, or may be coincidental.
+
 ## Morphology
 
 ### Compounding via Apostrophe
@@ -142,3 +158,83 @@ With the discovery of full attested phrases, some syntactic analysis is now poss
 ## Limitations
 
 Taur-ahe grammar remains largely unreconstructed. While the expanded corpus provides 18+ confirmed translations and 3 attested phrases, no verb paradigm, case system, or detailed syntax can be established. The compounding pattern via apostrophe is the best-attested grammatical feature. All morpheme decompositions beyond confirmed translations are speculative.
+
+## Open Linguistic Investigations
+
+### Investigation 1: *An-* — Definite Article or Celestial Honorific?
+
+The element *An-* appears in one confirmed compound and one inferred compound:
+
+| Word | Translation | *An-* analysis |
+|------|-------------|----------------|
+| *An'she* | The Sun | *An* = "the" (definite article) or *An* = "celestial" (honorific) |
+| *Mashan'she* | The Loom of the Earth Mother | *An* absent; only *-she* recurs |
+
+#### Analysis
+
+If *An* = "the" (definite article), then *An'she* = "the [celestial body]" and *Mashan'she* = "[loom]-[celestial body]" without the article — a plausible semantic difference ("the Sun" vs. "loom of the Earth Mother"). However, if *An* = "celestial" or "holy", then *An'she* = "celestial-[eye/body]" and *Mashan'she* = "[loom]-[celestial body]" where the *An* prefix is omitted because the loom is not itself celestial.
+
+The absence of *An-* from *Mu'sha* (the Moon) weakens the definite article analysis — if *An* = "the", we would expect *An'Mu'sha* or *Mu'she* with the same article. Instead, *Mu'she* = "the Moon" without *An-*, suggesting either that the article is optional or that *An-* is not an article at all.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Definite article | *An* = "the", optionally used before celestial nouns | **Low** |
+| Celestial prefix | *An* = "celestial/holy", marking sacred entities | **Low–Moderate** |
+| Unique to *An'she* | *An* has no independent morphological status; *An'she* is an indivisible proper name | **Moderate** |
+
+**Confidence: Low–Moderate** for any specific analysis. The single attestation of *An-* as a distinct element makes all hypotheses speculative. The most parsimonious reading is that *An'she* is an indivisible name, but the structural parallel with *Mashan'she* (shared *-she*) suggests some morphological decomposition is real.
+
+### Investigation 2: *Ish-* — Semantic Range of a Recurrent Morpheme
+
+The element *Ish-* appears in three attested words:
+
+| Word | Translation | Context |
+|------|-------------|---------|
+| *Isha Awak* | Deep Doom | Creature name; *Isha* + *Awak* |
+| *Ishamuhale* | Speartooth | Creature name; *Ish* + *amu* + *hale*? |
+| *Ish-ne-alo* | (part of greeting) | Greeting phrase; *Ish* + *ne* + *alo* |
+
+#### Analysis
+
+If *Ish-* is a genuine morpheme, it has the broadest attested semantic range of any Taur-ahe element. In *Isha Awak* = "Deep Doom", *Ish-* relates to depth, darkness, or doom. In *Ishamuhale* = "Speartooth", the connection to "deep/doom" is opaque. In the greeting *Ish-ne-alo*, the meaning is entirely unknown.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| "Deep/shadow" root | *Ish-* = "deep/shadow/underworld"; *Isha Awak* = "deep doom"; *Ishamuhale* = "shadow-spear-tooth" | **Low–Moderate** |
+| "Sacred/ancient" root | *Ish-* = "sacred/ancient/powerful"; used in names for formidable creatures | **Low** |
+| Coincidental | *Ish-* in these three words is not a shared morpheme; the phonological similarity is accidental | **Low–Moderate** |
+
+**Confidence: Very Low–Low** for *Ish-* as a genuine morpheme. The semantic inconsistency across attestations is the main obstacle. The *Isha Awak* = "Deep Doom" gloss provides the strongest evidence for *Ish-* = "deep", but the other attestations do not clearly support this.
+
+### Investigation 3: *-ahe* — "Language/Speech" Marker?
+
+The suffix *-ahe* appears in the language name *Taur-ahe* and nowhere else in the attested corpus:
+
+| Word | Translation | Decomposition |
+|------|-------------|---------------|
+| *Taur-ahe* | The tauren language | *Taur* + *-ahe* |
+
+#### Analysis
+
+If *-ahe* = "speech/language/tongue", then *Taur-ahe* = "People-speech" or "Earth-language", parallel to *Shu'halo* = "the Tauren" (the people). This would create a productive naming pattern where [people]-ahe = "[people]'s language" — a typologically common pattern (cf. English "English", "French").
+
+However, *-ahe* has only one attestation, making it impossible to confirm productivity. The name *Taur-ahe* could equally be an indivisible proper name with no internal morphology.
+
+**Confidence: Very Low–Low** for *-ahe* as a productive suffix. A single attestation cannot confirm a morpheme.
+
+### Investigation 4: *-mani* — "Force/Shaker" Morpheme?
+
+The element *-mani* appears in two words:
+
+| Word | Translation | *-mani* analysis |
+|------|-------------|------------------|
+| *Lakota'mani* | Earthshaker | *-mani* = "shaker/force" |
+| *Awak'mani* | (untranslated) | *-mani* = ? |
+
+#### Analysis
+
+If *Lakota'mani* = "Earthshaker", then *-mani* may mean "shaker", "force", or "hand" (the agent that shakes). In *Awak'mani*, *Awak* also appears in *Isha Awak* ("Deep Doom"), so *Awak'mani* could mean "doom-shaker" or "doom-force" — semantically coherent if *-mani* = "force/shaker".
+
+The word *mani* also resembles Lakota *mání* = "to walk/go", but this may be a coincidence of Blizzard's Amerindian-inspired design rather than a genuine etymological connection.
+
+**Confidence: Low–Moderate** for *-mani* as a genuine morpheme meaning "shaker/force". Two attestations with one confirmed translation provide weak but not negligible evidence.

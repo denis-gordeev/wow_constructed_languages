@@ -46,6 +46,16 @@
 
 5. **CV functional word template**: The short functional/grammatical words follow a strict CV template: *ma* (1st person pronoun), *ko* (locative/interrogative), *tas* (demonstrative?), *tu* (particle). This contrasts with the CVC ritual words (*Reth*, *Kress*, *Blaz*) and the polysyllabic content words (*shodru'ga*, *kilagrin*). The three-way phonological split — CV grammar words, CVC ritual words, polysyllabic content words — suggests Kalimag encodes word class phonologically: shorter = more grammatical, longer = more lexical.
 
+6. **Apostrophe compounding parallels Shath'Yar**: Kalimag apostrophe names fall into two types matching the Shath'Yar apostrophe directional asymmetry (see Shath'Yar grammar.md Phonological Pattern 10). Initial-apostrophe names (*Al'Akir*) parallel Shath'Yar initial apostrophe as prefix boundary (*N'Zoth*, *C'Thun*). Medial-apostrophe names (*Ko'gun*, *Sho'ravon*, *Suz'ahn*, *Shodru'ga*) parallel Shath'Yar medial apostrophe as compound boundary (*Shath'mag*, *Il'gynoth*). This two-type apostrophe system — initial = prefix, medial = compound — independently recurs in Kalimag, nerubian, and qiraji (see alien-comparative.html), suggesting it may be a Blizzard design convention for "primordial/non-mortal" languages rather than an in-universe shared feature.
+
+7. **/θ/ prevalence parallels Shath'Yar**: The phoneme /θ/ appears in multiple Kalimag forms: *Therazane*, *Theri*, *Rethfuras*, *thoq* (preposition, if Kalimag). Shath'Yar shows /θ/ in over half of attested forms (*C'Thun*, *K'thir*, *Shath*, *Il'gynoth*, *uhn'agth*). This shared /θ/ prevalence across two languages associated with primordial forces (elementals and Old Gods) may reflect Blizzard's design choice for "ancient/primordial" phonology, or may represent an in-universe substrate feature from the earliest cosmic languages.
+
+8. **Ignan vs. Aquan vowel distribution**: Ignan (fire) words concentrate low and front vowels: /a/ and /e/ dominate (*Reth*, *Kress*, *Blaz*, *Mazj*, *Koro*, *Theri*, *bromo*, *Ragnaros*). Aquan (water) words show more high and back vowels: /i/ and /u/ appear frequently (*kilagrin*, *aasrugel*, *korsul*, *tadrom*, *zoern*). This vowel quality split — "harsh" low/front vowels for fire, "flowing" high/back vowels for water — is typologically expected for elemental language design and may reflect deliberate Blizzard phonological symbolism.
+
+9. **Consonant gemination in ritual vocabulary**: The Molten Core runes include potential gemination markers: *Kress* (ss = geminated /s/), *Mazj* (possibly /zʲ/ or /z.dʒ/). The Water elemental phrase *aasrugel* begins with geminated /aː/. Geminated consonants and vowels in ritual/formal vocabulary parallel Shath'Yar's sibilant reinforcement (*Ssra'thik*, *fhssh*) and suggest that lengthening is a cross-dialect grammatical device — marking emphasis, ritual register, or lexical category.
+
+10. **Name length as elemental rank indicator**: The Elemental Lords have the longest names (Ragnaros 3 syllables, Therazane 3, Neptulon 3, Al'Akir 3+), while lesser elementals have shorter names (Reth 1, Kress 1, Blaz 1) or compound names of 2-3 syllables (Ko'gun 2, Sho'ravon 3). This name-length hierarchy — longer names for higher-ranking entities — parallels the pattern in Shath'Yar (where Old God names are 2-3 syllables while servant names can be shorter) and may reflect a shared Blizzard design principle for hierarchical naming in non-mortal languages.
+
 ## Morphology
 
 ### Apostrophe Compounding
@@ -137,3 +147,129 @@ These are highly speculative etymologies and may simply be proper names without 
 ## Limitations
 
 Kalimag grammar is largely unreconstructed. While the expanded corpus provides several attested phrases (some with confirmed translations), the word-by-word analysis of most phrases remains speculative. The identification of "reth" = "burn" is the strongest morpheme-level finding. The four-dialect structure is confirmed by lore but the differences between dialects are unattested. The Frostmourne inscription proves Kalimag has a full writing system capable of expressing complex sentences, but the original Kalimag text of the inscription is not recorded — only the Common translation survives.
+
+## Open Linguistic Investigations
+
+### Investigation 1: *ma* — First-Person Pronoun or Grammatical Particle?
+
+The element *ma* appears in three attested contexts:
+
+| Context | Phrase | Translation | Proposed Gloss |
+|---------|--------|-------------|----------------|
+| Sentence-initial (Aquan) | *Ma reth bromo zoln kilagrin...* | (untranslated) | *ma* = "I" (1st person pronoun) |
+| Sentence-initial (Aquan) | *Ma krin drinor zoln drinor* | (untranslated) | *ma* = "I" (1st person pronoun) |
+| Sentence-initial (Aquan) | *Ma krin kan aasrugel korsul* | (untranslated) | *ma* = "I" (1st person pronoun) |
+| Sentence-internal (Ignan) | *T ma suz'ahn reth* | (untranslated) | *ma* = particle? |
+| Sentence-internal (Ignan) | *T ma fiilrok tadrom* | (untranslated) | *ma* = particle? |
+| Ignan phrase | *A gi kras tor shodru'ga bromo!* | "I am from the elemental plane!" | *ma* absent; "A" may = "I" |
+
+#### Analysis
+
+If the Curse of Tongues translation "I am from the elemental plane!" is accurate, "A" (not "ma") corresponds to "I". This creates a conflict: the Aquan phrases use sentence-initial *ma* where a first-person pronoun is expected, but the Ignan phrase uses "A" for "I".
+
+Three hypotheses:
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Dialect split | *ma* = Aquan "I", *a* = Ignan "I" — different dialects use different pronouns | **Low–Moderate** |
+| *ma* ≠ pronoun | *ma* is a topic marker, focus particle, or clause-initial element, not a pronoun; "A" in the Ignan phrase is the true pronoun | **Low–Moderate** |
+| Curse of Tongues imprecision | The Curse of Tongues translation is idiomatic, not word-for-word; "A gi kras" may not map to "I am from" | **Moderate** |
+
+The sentence-internal *ma* in "T ma suz'ahn reth" and "T ma fiilrok tadrom" weakens the pronoun analysis — a pronoun would be unexpected between "T" and a content word. *ma* may be a grammatical particle (copula, topic marker, or focus element) rather than a pronoun.
+
+**Confidence: Low–Moderate** for *ma* as a first-person pronoun. The Aquan distribution is consistent with a pronoun, but the Ignan evidence contradicts it, and the sentence-internal position suggests a grammatical particle instead.
+
+### Investigation 2: *krin* — Verb, Copula, or Auxiliary?
+
+The element *krin* appears in five attested contexts:
+
+| Context | Phrase | Translation | Proposed Gloss |
+|---------|--------|-------------|----------------|
+| Aquan speech | *Ma krin drinor zoln drinor* | (untranslated) | *krin* = verb? |
+| Aquan speech | *Ma krin kan aasrugel korsul* | (untranslated) | *krin* = verb? |
+| Ignan speech | *Tas krin ko.* | (hearthstone question) | *krin* = verb? |
+| Ignan speech | *Tas krin tu roath ko krin?* | (hearthstone question) | *krin* = verb? |
+| Ignan speech | *T krin os nuk talsa reth krin shone...* | (untranslated) | *krin* = verb? |
+
+#### Analysis
+
+The distribution of *krin* is unusual for a simple verb:
+
+1. *krin* appears in both Aquan and Ignan dialects, suggesting it is a cross-dialect core vocabulary item
+2. *krin* appears in both questions (*Tas krin ko*) and statements (*Ma krin drinor*)
+3. *krin* can appear sentence-finally (*ko krin?*) and sentence-medially (*Ma krin drinor*)
+
+The flexibility of position suggests *krin* may be a copula or auxiliary rather than a content verb. In the hearthstone question, "Tas krin ko" could mean "Is [this] your [hearth]?" where *krin* = "is/are" (copula). The final *krin* in "ko krin?" would then be a clause-final copula, which is typologically common in SOV languages.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Copula | *krin* = "is/are" — basic equational/identificational verb | **Low–Moderate** |
+| Auxiliary | *krin* = tense/aspect auxiliary marking ongoing or realis action | **Low** |
+| Content verb | *krin* = "want/need/have" — a modal-like content verb | **Low** |
+
+**Confidence: Low–Moderate** for *krin* as a copula. The cross-dialect, cross-sentence-type distribution is consistent with a grammatical rather than lexical element, but the data is too limited to confirm.
+
+### Investigation 3: *-os* / *-on* / *-an* — Dialect-Marked Suffixes or Coincidental Name Endings?
+
+Three name-forming endings appear in Kalimag proper names:
+
+| Suffix | Names | Dialect Association |
+|--------|-------|-------------------|
+| *-os* | Ragnaros | Ignan (fire) |
+| *-on* | Neptulon | Aquan (water) |
+| *-an* | Thunderaan, Therazane | Auran (air) / Terran (earth) |
+
+#### Analysis
+
+The suffix distribution maps cleanly onto dialect boundaries: *-os* with fire, *-on* with water, *-an* with air/earth. If genuine, this would be a morphological marker of elemental affiliation — the only such grammatical feature attested in Kalimag.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Dialect-marked suffixes | *-os* = Ignan, *-on* = Aquan, *-an* = Auran/Terran — each dialect has a characteristic name-forming suffix | **Low** |
+| Coincidental endings | The endings are phonologically natural word-final sequences that happen to differ across names; no morphological significance | **Moderate** |
+| Rank/title suffix | The endings mark "lord/ruler" across all dialects, with phonological variation rather than semantic distinction | **Low–Moderate** |
+
+The main weakness of the dialect-marking hypothesis is the extremely small sample: only 4 names have these endings, and the names themselves may simply be Blizzard's creative choices without morphological decomposition. The *-os* in Ragnaros could be coincidental (the name may be indivisible).
+
+**Confidence: Very Low–Low** for dialect-marked suffixes. The clean distribution is suggestive but the sample is far too small and the alternative (coincidence) is equally plausible.
+
+### Investigation 4: Dialect Phonotactic Split — Systematic Ignan vs. Aquan Analysis
+
+Lore confirms four Kalimag dialects (Ignan, Aquan, Terran, Auran), and the attested corpus provides enough data to begin characterizing at least two:
+
+| Feature | Ignan (Fire) | Aquan (Water) |
+|---------|-------------|---------------|
+| Syllable structure | CVC monosyllables dominant | Polysyllabic flowing forms |
+| Vowel quality | /a/, /e/ dominant | /i/, /u/ frequent |
+| Name length | Bimodal: 1-syllable runes or 3-syllable lord names | Consistently 2-3 syllables |
+| Consonant clusters | Moderate (Ragnaros, Rethfuras) | Simpler (korsul, tadrom) |
+| Reduplication | *Reth Reth Reth* (triple) | *drinor...drinor* (distant) |
+| Fricative frequency | High (Blaz, Zeth, Kress, Mazj) | Moderate (aasrugel) |
+| Attested forms | Kress, Mohn, Blaz, Zeth, Mazj, Koro, Theri, Reth, Rethfuras, Ragnaros | kilagrin, tadrom, aasrugel, korsul, zoern, fraht |
+
+Terran and Auran dialects have too few attested forms for systematic comparison. *Therazane* (earth) and *Thunderaan* (air) may represent their respective dialects, but single names cannot establish phonotactic patterns.
+
+The Ignan-Aquan split is the best-attested dialectal contrast in any WoW constructed language. However, it remains uncertain whether this split reflects genuine in-universe grammatical differences or Blizzard's aesthetic design choices for fire vs. water elemental speech.
+
+**Confidence: Low–Moderate** for the phonotactic split as a genuine linguistic feature rather than design aesthetic.
+
+### Investigation 5: *zoln* — Conjunction, Adverb, or Grammatical Particle?
+
+The element *zoln* appears twice in the same Aquan passage:
+
+| Context | Phrase | Position | Proposed Gloss |
+|---------|--------|----------|----------------|
+| Aquan | *Ma reth bromo zoln kilagrin...* | Between "bromo" and "kilagrin" | conjunction? |
+| Aquan | *Ma krin drinor zoln drinor* | Between first and second "drinor" | conjunction? |
+
+In *Ma krin drinor zoln drinor*, *zoln* appears between two identical verbs, suggesting it may coordinate or modify the reduplicated verb. If *drinor* = some verb and *zoln* = "and/also/yet", the phrase could mean "I [verb] and [verb]" or "I [verb] but [verb]".
+
+In *Ma reth bromo zoln kilagrin*, *zoln* appears between two content words (*bromo* and *kilagrin*), again suggesting a coordinating or modifying function.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Conjunction | *zoln* = "and/also" — coordinates phrases or clauses | **Low–Moderate** |
+| Adverb | *zoln* = "also/again/yet" — modifies the second element | **Low** |
+| Grammatical particle | *zoln* = focus/emphasis marker between clause constituents | **Low** |
+
+**Confidence: Very Low–Low** for any specific function of *zoln*. The identical position between content words in two different phrases suggests grammatical rather than lexical status, but the data is insufficient to determine its function.

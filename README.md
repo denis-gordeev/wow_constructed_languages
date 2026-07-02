@@ -11,10 +11,10 @@ Grammatical descriptions and vocabulary compilations for the constructed languag
 | Draenei | Draenei (exiled Eredar) | [draenei/](draenei/) | Low — mostly place names |
 | Orcish | Orcs | [orcish/](orcish/) | Low–Moderate — well-known phrases (Lok'tar ogar, etc.); ~2 dozen attested words; no full sentences or verb paradigms; better described as a naming language |
 | Zandali | Trolls (all tribes) | [zandali/](zandali/) | Moderate — creole + naming patterns |
-| Taur-ahe | Tauren | [taur-ahe/](taur-ahe/) | Low–Moderate — 18+ confirmed translations, 3 full phrases, 10+ inferred morphemes; apostrophe-joined compounds well-attested |
+| Taur-ahe | Tauren | [taur-ahe/](taur-ahe/) | Low–Moderate — 18+ confirmed translations, 3 full phrases, 10+ inferred morphemes; apostrophe-joined compounds well-attested; 7 phonological patterns, 4 open linguistic investigations |
 | Dwarven | Dwarves | [dwarven/](dwarven/) | Low — mostly place names |
-| Shath'Yar | Old Gods and their servants | [shath-yar/](shath-yar/) | Moderate — 56+ confirmed phrases with official translations, 2 confirmed single-word translations, 6 confirmed pronouns, speculative dictionary with 70+ entries; inspired by Lovecraft's R'lyehian |
-| Kalimag | Elementals | [kalimag/](kalimag/) | Low–Moderate — 2 confirmed/semi-confirmed translations, 5+ attested phrases, Frostmourne inscription, 4 confirmed dialects (Ignan/Aquan/Terran/Auran), 8+ inferred morphemes |
+| Shath'Yar | Old Gods and their servants | [shath-yar/](shath-yar/) | Moderate — 56+ confirmed phrases with official translations, 2 confirmed single-word translations, 6 confirmed pronouns, speculative dictionary with 70+ entries; 40+ syntactically codable phrases confirming SVO order; inspired by Lovecraft's R'lyehian |
+| Kalimag | Elementals | [kalimag/](kalimag/) | Low–Moderate — 2 confirmed/semi-confirmed translations, 5+ attested phrases, Frostmourne inscription, 4 confirmed dialects (Ignan/Aquan/Terran/Auran), 8+ inferred morphemes, 10 phonological patterns, 5 open linguistic investigations |
 | Shalassian | Nightborne (Shal'dorei) | [shalassian/](shalassian/) | Low — 2 confirmed morphemes, 5 inferred morphemes, 0 attested sentences; "-dorei" compound pattern confirmed across 3 elven languages; well-established Darnassian relationship |
 | Gutterspeak | Forsaken (Undead) | [gutterspeak/](gutterspeak/) | Very Low — corrupted Common |
 | Pandaren | Pandaren | [pandaren/](pandaren/) | Very Low — proper names only |
