@@ -79,6 +79,10 @@
 
 ## Next Actions
 
+- [ ] Add phonological pattern analysis to remaining under-analyzed languages: Shalassian (6 new patterns identified), Nazja, Eredun, Kalimag, Gutterspeak, Earthen, Nerubian, Qiraji, Ethereal, Hara'ni — all have vocabulary data sufficient for at least 3-5 new phonological patterns
+- [ ] Investigate Shalassian–Darnassian phonological conservatism: Shalassian retains most Darnassian phonological features; quantify degree of innovation vs. conservatism
+- [ ] Add cross-language stress pattern comparison to README.md Relationships section (Vrykul/Dwarven initial stress vs. Tol'vir penultimate stress vs. Elven penultimate stress)
+- [ ] Investigate Vrykul–Dwarven gender-correlated final vowel pattern: both show /a/ = feminine; is this inherited from Titan, shared Norse design inspiration, or genuine linguistic inheritance?
 - [x] Investigate *-aru* participial suffix — *wa'aru* ("fearing") may contain *wa'* + *-aru* (gerundive); compare with *-ura* collective suffix — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 2; vowel metathesis relationship proposed (Low–Moderate confidence); requires additional gerundive/collective forms for confirmation
 - [x] Investigate *alanke* vs *alai* — two words for "fire" in the same chant (*De alai weta-den* vs *Untoh de alanke tono*); are they synonyms, different registers, or different grammatical forms? — **PARTIALLY DONE**: Analysis added to grammar.md Investigation 4; shared root *ala-* = "fire/burning" confirmed; *-i* and *-nke* suffixes have unknown functions; requires more data to resolve
 - [x] Investigate Thalassian *-da* kinship suffix — **SIGNIFICANTLY UPDATED**: Darnassian cognates now confirmed (*An'da*/*Ann'da*, *Min'da*/*Minn'da*, *Shal'nar*/*Shal'na*); *-da*/*-do* register alternation identified in Darnassian (informal vs. formal); 2×2 kinship paradigm hypothesis added (*-da*/*-do* × *-na*/*-nar*); Low–Moderate confidence for register analysis; see Darnassian grammar.md Investigation 2
@@ -98,6 +102,20 @@
 - [ ] Investigate Darnassian *Aran* vs *-naar* toponymic allomorphy — **SIGNIFICANTLY UPDATED Round 14**: *Aran* now has 7 attestations (added Ordil'Aran, Shal'Aran, Tethris Aran); *-naar* now has 4 attestations (added Satyrnaar); allomorphy confidence upgraded from Low–Moderate to Moderate; *Aran* confidence upgraded to Moderate–High; see Darnassian grammar.md Investigation 8
 - [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
+
+## Completed This Round (2026-07-02, Round 17)
+
+- [x] Full HTML-MD sync audit of all 95 HTML files; identified 20 issues across 10 files
+- [x] Fix HIGH: 6 missing sub-section headers in darnassian/grammar.html (Possible Analyses, Phonological Consistency, Problem: Thero in Thero'shan, Cross-Elven Significance, Three-Form Analysis, Proposed Paradigm)
+- [x] Fix MEDIUM: Expanded condensed Thero'shan content in darnassian/grammar.html from single sentence to full three-explanation analysis with detailed paragraphs
+- [x] Fix LOW: Restored missing qualifying phrases in drust/grammar.html (French comparison in nasal loss, "geographically distant" in Sethrak argument)
+- [x] Fix LOW: Fixed "Tenir" → "Tenvir" typo in common/vocabulary.md; synced "Inherited Vrykul Morphemes in Common Place Names" header in common/vocabulary.html; fixed "Proper Names (with possible morphemic content)" header in orcish/vocabulary.html; fixed "Vowel system" row label in common/vocabulary.html
+- [x] Add Tol'vir Phonological Patterns (7 patterns): penultimate stress confirmed from IPA (resolves stated uncertainty), no initial consonant clusters, /a/ overwhelming dominance, voiceless stop word-final codas, vowel-initial words common, post-vocalic /x/ (kh) pattern, three-syllable name optimum
+- [x] Add Vrykul Phonological Patterns (5 patterns): gender-correlated word-final vowel (/a/ = feminine), consonant-initial exclusivity, /r/ near-universality (~75%+ of names), initial /s/ and /h/ dominance, sonorant-containing medial clusters
+- [x] Add Draenei Phonological Patterns (6 patterns): Naaru naming sub-pattern (C/V'VCV constraint), word-final /r/ in place names, consonant-initial preference, apostrophe dual function (Naaru phonological vs. Draenei morphological), medial open syllable preference, vowel length indication via doubling
+- [x] Add Dwarven Phonological Patterns (4 patterns): initial stress with heavy-syllable attraction (including Adelgonn exception), word-final consonant preference (~83%), consonant-initial dominance, binary compounding in place names
+- [x] Add cross-language phonological comparison rows to titan-forged-comparative.html Sound Correspondences table (stress pattern, initial consonant clusters, vowel-initial words, word-final consonant preference)
+- [x] Sync all modified grammar.html files (tolvir, vrykul, draenei, dwarven) with updated grammar.md counterparts
 
 ## Completed This Round (2026-07-02, Round 16)
 

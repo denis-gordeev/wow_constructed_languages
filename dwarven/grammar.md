@@ -44,6 +44,14 @@ Vowel length is contrastive for back vowels: long /ɑː/ (*Algar* /-ɡɑːr/, *G
 
 8. **Diphthongs /aɪ/ and /eɪ/ occur in stressed syllables**: *Eirich* /ˈaɪrɪk/, *Baelgrim* /ˈbeɪlɡrɪm/. These may alternatively be analyzed as vowel+glide sequences /aj/, /ej/.
 
+9. **Initial stress with heavy-syllable attraction**: Most names confirm initial stress (/ˈbeɪlɡrɪm/, /ˈbrɪnθə/, /ˈɡʊndɑːrɡæz/, /ˈskɑːrdɪn/, /ˈdɔːrnəɡɑːl/, /ˈmɛrɪks/, /ˈlʊfsɛlə/), but *Adelgonn* /əˈdɛlɡɒn/ is a clear exception with schwa-initial syllable and stress on the second syllable. The generalization may be: **primary stress falls on the initial heavy syllable** (where "heavy" = contains a full vowel, not schwa). This is consistent with Germanic stress typology and distinguishes Dwarven from Tol'vir (penultimate stress). **Confidence: Medium–High**
+
+10. **Word-final consonant preference**: Approximately 83% of Dwarven/Earthen names end in consonants. The few vowel-final names (*Moira*, *Lufsela*) are both feminine, which may indicate a gender-marker pattern parallel to Vrykul. Consonant codas favor nasals (-n, -m) and fricatives (-z, -s, -x, -θ) over stops. **Confidence: Medium**
+
+11. **Consonant-initial dominance**: Every attested Dwarven/Earthen word begins with a consonant. The velar stops /k/ and /ɡ/ are particularly common in onset position, especially in "guttural" vocabulary associated with the Titan substrate (*Khaz*, *Gundargaz*). This parallels Vrykul's consonant-initial exclusivity. **Confidence: Medium–High**
+
+12. **Binary compounding in place names**: Dwarven place names consistently use binary compounding: two roots combined to form a toponym (*Dun Morogh*, *Grim Batol*, *Khaz Modan*, *Bael'dun*, *Khaz Algar*). No three-element native compounds are attested. This differs from Vrykul (which allows three-element compounds like *Mordvigbjorn*) and Shalassian (which allows recursive compounding like *Tel'anor'ien*). The binary constraint may be a genuine Dwarven phonotactic limit on compound length. **Confidence: Medium**
+
 ### Notes on Marginal and Uncertain Phonemes
 
 - **/p/**: Not attested in any Dwarven or Earthen word. Its absence may be an accident of the small corpus rather than a true inventory gap; most Germanic languages possess /p/.

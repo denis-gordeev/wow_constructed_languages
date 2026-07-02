@@ -45,7 +45,7 @@ Hallowfall is a vast underground cavern in Khaz Algar, settled by the Arathi exp
 | Dunelle's Kindness | — | Arathi personal name (*Dunelle*) + Common possessive + Common noun |
 | Sina's Yearning | — | Arathi personal name (*Sina*) + Common possessive + Common noun |
 | Tanir's Ascent | — | Arathi personal name (*Tanir*) + Common possessive + Common noun |
-| Tenir's Ascent | — | Arathi personal name (*Tenvir*) + Common possessive + Common noun |
+| Tenvir's Ascent | — | Arathi personal name (*Tenvir*) + Common possessive + Common noun |
 | The Orphanage | — | Common name; located in Mereldar |
 | Priory of the Sacred Flame | — | Common compound; Arathi religious site |
 

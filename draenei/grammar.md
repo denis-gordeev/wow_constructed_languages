@@ -100,6 +100,20 @@ No data available. Place names with heavy final syllables (e.g., *Auchindoun*, *
 4. The sequence /sha/ appears in multiple words related to light (*Sha'tar*, *Shattrath*), suggesting it may be a phonologically stable root.
 5. The apostrophe may represent a glottal stop /ʔ/, which would create a phonotactic boundary between vowels or vowel-initial and consonant-final morphemes.
 
+### Phonological Patterns
+
+6. **Naaru naming sub-pattern**: All five Naaru names (*A'dal*, *K'ure*, *K'ara*, *M'uru*, *O'ros*) share a distinctive pattern: a single consonant or vowel + apostrophe + 2-3 character element beginning with a vowel. This is a highly constrained phonological sub-pattern distinct from Draenei compound words. The apostrophe in Naaru names is likely phonological (a glottal stop or prosodic feature) rather than morphological, as the initial elements are too short to be meaningful morphemes. This supports the hypothesis that Naaru names may not follow Draenei morphological rules. **Confidence: High**
+
+7. **Word-final /r/ in place names**: Six place names end in /r/ (*Draenor*, *Karabor*, *Telredor*, *Xenedar*, *Elodor*, *Aldor*), far exceeding other final consonants. This correlates with the *-or* toponymic suffix but extends beyond it: *-ar* in *Karabor*, *Xenedar*, and *Vindicaar* suggests a broader pattern of sonorant-final toponymic suffixes. **Confidence: Medium**
+
+8. **Consonant-initial preference**: Of ~25+ attested words, the overwhelming majority begin with consonants (*Draenei*, *Karabor*, *Shattrath*, *Telredor*, *Man'ari*, etc.). Vowel-initial words are primarily Naaru names (*O'ros*) or possible loanwords (*Argus*). This may reflect a phonotactic constraint against onsetless syllables at word boundaries, consistent with the complex initial clusters the language permits. **Confidence: Medium**
+
+9. **Apostrophe dual function**: The apostrophe serves fundamentally different functions in Naaru names vs. Draenei compound words. In Naaru names, the apostrophe likely marks a phonological feature (glottal stop). In Draenei compounds (*Man'ari*, *Sha'tar*, *Oshu'gun*), it marks a morphological boundary between full morphemes. This dual function must be distinguished in any phonological analysis. **Confidence: High**
+
+10. **Medial open syllable preference**: Medial syllables in Draenei words are overwhelmingly open (ending in vowels): *Ka-ra-bor* (CV.CV.CVC), *Te-lre-dor* (CVC.CV.CVC), *Vi-n-di-caar* (CVC.CV.CVVC). Closed medial syllables occur mainly at morpheme boundaries (*Tel-red-or*) or in clusters (*Shat-trath*). This suggests a phonotactic preference for open syllables word-internally, with consonant clusters concentrated at morpheme junctures. **Confidence: Medium**
+
+11. **Vowel length indication via doubling**: Draenei orthography uses vowel doubling to indicate long vowels: *Krokuun* (double /u/), *Vindicaar* (double /a/). This suggests vowel length is phonemically contrastive, parallel to the Vrykul vowel length pattern. **Confidence: Medium**
+
 ## Summary of Confidence
 
 | Feature | Confidence | Reason |

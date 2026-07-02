@@ -38,6 +38,18 @@ Based on attested forms, likely similar to Old Norse:
 
 - Primary stress appears to fall on the first syllable in most words, consistent with Old Norse/Germanic patterns: **Y**miron, **Ut**garde, **Val**halas, **Sko**vald.
 
+### Phonological Patterns
+
+1. **Gender-correlated word-final vowel**: Feminine names overwhelmingly end in /a/ (~13 of 17 female names: Svala, Helya, Hyrja, Fjola, Hildana, Danica, Agatha, Arthura, Brynja, Daschla, Kyra, Signe, Skyja, Skolla, Valkyra). Masculine names overwhelmingly end in consonants (~10 of 12 male names: Skovald, Hrothgar, Ymiron, Bjorn, Halof, Kreug, Algar, Ingvar). This parallels Old Norse and Germanic naming conventions and may reflect a productive phonological gender marker. **Confidence: High**
+
+2. **Consonant-initial exclusivity**: Every attested Vrykul proper name begins with a consonant or consonant cluster. Not a single name begins with a vowel. Even names like *Eyir* and *Eirich* begin with /ɛɪ/, which may be analyzed as /j/-initial. This is consistent with Old Norse phonotactic preference but appears to be categorical in the Vrykul corpus. **Confidence: High**
+
+3. **/r/ near-universality**: /r/ appears in approximately 75%+ of all attested proper names, in onset (Ragnar, Rodin), medial (Ymiron, Skovald, Hrothgar, Bjarngrim, Ingvar), and coda (Algar, Hrothgar, Skarvald, Varkul) positions. No other consonant approaches this frequency. /r/ is the single most defining consonant of the Vrykul phonological identity. **Confidence: High**
+
+4. **Initial /s/ and /h/ dominance**: /s/-initial and /h/-initial names together account for nearly half of all attested proper names (Sk-, Sv-, St-, Si-, Sj- + Hr-, Ha-, He-, Hy-, Hu-). This creates a distinctive auditory profile: the language "sounds" sibilant and breathy at its onset, consistent with Old Norse phonotactics. **Confidence: Medium–High**
+
+5. **Sonorant-containing medial clusters**: Nearly all attested medial consonant clusters in Vrykul contain a sonorant (/l/ or /r/): -lg- (Valgarde), -ld- (Skarvald, Skovald), -rn- (Bjarngrim), -rv- (Skarvald), -lv- (Nifflevar). Clusters of two obstruents without an intervening sonorant are rare or unattested, suggesting a phonotactic constraint requiring sonorant "bridges" in medial clusters. **Confidence: Medium**
+
 ## Morphology
 
 ### Nouns
