@@ -74,7 +74,7 @@
 - [ ] Investigate Hara'ni–Elven cognate *Har'* "village" ↔ Darnassian *Aran*/*-naar* "town/settlement" — Low–Moderate confidence; requires additional /h/-initial ↔ zero-onset cognate pairs to independently confirm the /h/ → ∅ sound change; see Darnassian grammar.md Investigation 13 Candidate B
 - [x] Investigate Darnassian *-relos* agentive morpheme — **SIGNIFICANTLY UPDATED**: Third attestation from *elen'relos* (Belor'relos trinket flavor text); confidence upgraded from Low–Moderate to Moderate; agentive suffix comparison table added; double /r/ gemination observation added; see Darnassian grammar.md Investigation 5
 - [ ] Investigate Shath'Yar auxiliary verb system — **SIGNIFICANTLY UPDATED Round 21**: Three-way auxiliary distinction proposed (*agth* obligative, *gag* emphatic, *qi'*/*wgah* simple future); extended coding adds *gag* S-Aux-V-PP evidence (*Uulwi ifis halahs gag erh'ongg w'ssh*); Low–Moderate confidence for functional distinction; see Shath'Yar grammar.md Investigation 4
-- [ ] Investigate Shath'Yar negation allomorphy (*maq* vs *noq*) — **SIGNIFICANTLY UPDATED Round 22**: Potential fourth and fifth negation elements identified (*sythn* "cannot", *nuq* "no more", *Naza* "not one") from newly coded phrases; if confirmed, negation system may be more complex than three-way; all Very Low–Low confidence; see Shath'Yar grammar.md Investigation 4 Fourth Extension
+- [ ] Investigate Shath'Yar negation allomorphy (*maq* vs *noq*) — **SIGNIFICANTLY UPDATED Round 23**: Potential fourth and fifth negation elements identified (*sythn* "cannot", *nuq* "no more", *Naza* "not one", *En'* negative existential copula) from newly coded phrases; if confirmed, negation system may be more complex than three-way; *En'* would complete copula paradigm alongside affirmative *ma*; all Very Low–Low confidence except *En'* at Low–Moderate; see Shath'Yar grammar.md Investigation 4 and Investigation 5
 - [ ] Investigate Proto-Elven *-ah* derivational suffix — **SIGNIFICANTLY UPDATED Round 21**: Cross-referenced with Darnassian Investigation 15; *Thas'talah* = "forest of death" provides new attestation context for *-ah* (*tal* + *-ah*); structural parallel with Thalassian *Thas'alah* (*al* + *-ah*) supports productive compounding pattern; see Darnassian grammar.md Investigation 14
 
 ## Next Actions
@@ -120,15 +120,24 @@
 - [x] Sync all modified HTML files with updated .md counterparts (zandali grammar/description/vocabulary, shath-yar grammar/description, darnassian grammar)
 - [x] Update README.md Shath'Yar attestation: 55+ → 63+ syntactically codable phrases
 
+## Completed This Round (2026-07-03, Round 23)
+
+- [x] Code 14 additional Shath'Yar confirmed phrases syntactically — expanded corpus from 63+ to 77+ codable phrases; new patterns: temporal fronting PP-S-V (*Uulg'ma, ag qam* = "After millennia, we have returned"), potential negative existential copula *En'* (*En'othk uulg'shuul* = "There is no light after death"), juxtaposed relative clauses (*Mh'za uulwi skshgn kar* = "Only a place where even shadows fear to go"), SVO + appositive (*H'iwn zaix Shuul'wah, PHQUATHI!*), PP-V-O locative fronting with imperative (*Shkul an'zig qvsakf KSSH'GA, ag'THYZAK agthu!*), S-Neg-V exclamatory with SHOUTED negation (*IIYOQ NEL'OTHK AR'AFGH!*)
+- [x] Add Shath'Yar Investigation 5 update: potential fourth negation element *En'* (negative existential copula) — if confirmed, *En'* would complete the copula paradigm alongside affirmative *ma* = "is/are", contrasting with particle *og* = "no"; *En'* occupies predicate position (like copula *ma*), *og* occupies pre-nominal position (like a particle); Low–Moderate confidence
+- [x] Add *En'* and *othk* to Shath'Yar speculative dictionary
+- [x] Add Zandali Investigation 6B update: *no* vs *na* functional split — systematic comparison table showing complementary distribution (*na* in common-noun contexts, *no* in loa-title contexts exclusively); three analyses evaluated (distinct particles, vowel-conditioned allomorphy, functional split from common ancestor); functional split preferred at Low–Moderate confidence; phonological conditioning not supported
+- [x] Update Darnassian Investigation 8 with quantitative confirmation — complete inventory verified: 8 *Aran* (all consonant-final stems, 100%) + 4 native *-naar* (all vowel-final stems, 100%) + 1 borrowed *-naar* (Satyrnaar); phonological conditioning is exceptionless across 12 native attestations; Fisher's exact test p < 0.01
+- [x] Update Shath'Yar description.md and README.md attestation: 63+ → 77+ syntactically codable phrases
+
 ## Next Actions
 
-- [ ] Code remaining uncoded Shath'Yar confirmed phrases — approximately 25+ phrases remain uncoded (mostly complex multi-clausal sentences, interrogatives, and fragments); see Shath'Yar grammar.md Investigation 4
-- [ ] Investigate Shath'Yar potential negation expansion — *sythn* ("cannot"), *nuq* ("no more"), *Naza* ("not one") may expand negation system beyond three-way; all Very Low–Low confidence; requires additional data; see Shath'Yar grammar.md Investigation 4 Fourth Extension
+- [ ] Code remaining uncoded Shath'Yar confirmed phrases — approximately 15+ phrases remain uncoded (mostly complex multi-clausal sentences from Mote of Cosmic Truth and long Volazj/Kaahrj phrases); see Shath'Yar grammar.md Investigation 4
+- [ ] Investigate Shath'Yar potential negation expansion — *sythn* ("cannot"), *nuq* ("no more"), *Naza* ("not one"), *En'* (negative existential copula?), *NEL'OTHK* (SHOUTED negative modal) may expand negation system beyond three-way; see Shath'Yar grammar.md Investigation 4 and Investigation 5
+- [ ] Test *En'* as negative existential copula — search for additional *En'* + [noun] constructions in uncoded phrases; if confirmed, *En'* completes copula paradigm with affirmative *ma*
 - [ ] Investigate Zandali *Bwon'* death prefix further — search for additional attestations in NPC names or loa terminology; test against blood troll combat vocalizations
-- [ ] Investigate Zandali *no* vs *na* functional split — if both serve genitive functions, what conditions the choice? Is *no* restricted to loa/champion titles while *na* serves common nouns?
 - [ ] Cross-reference Zandali *no* connective with elven-comparative.html — add to cross-family cognate candidates table if confidence improves
-- [ ] Search for additional vowel-final + *Aran* counterexamples in Darnassian place name data — further test the phonological conditioning hypothesis
 - [ ] Investigate Zandali *Ma'/Min'* conditioned by glottal stop — counterexamples (*na*, *-da*) lack preceding apostrophe; if /a/→/i/ only before /ʔ/, the sound change is testable
+- [ ] Investigate Shath'Yar *gul'kafh* polysemy — "gaze" in imperative contexts vs. possible "begin/spread" in declarative context (*Oou gul'kafh lal lwhuk!* = "The outbreak has begun!")
 
 ## Completed This Round (2026-07-03, Round 21)
 

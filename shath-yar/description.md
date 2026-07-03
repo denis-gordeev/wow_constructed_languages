@@ -2,7 +2,7 @@
 
 ## Overview
 
-Shath'Yar is the language of the Old Gods and their servants — one of the oldest languages in the Warcraft universe, predating all mortal languages on Azeroth. It is spoken (or projected) by the Old Gods themselves (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj), their faceless servants (N'raqi, K'thir), and likely the Aqir and Qiraji in some form. The language is inspired by **R'lyehian** from H.P. Lovecraft's Cthulhu Mythos and shares its alien, maddening quality. Unlike most WoW constructed languages, Shath'Yar now has **56+ confirmed translated phrases** with official Blizzard translations and **63+ syntactically codable phrases**, making it one of the better-attested WoW constructed languages despite its intentionally opaque design.
+Shath'Yar is the language of the Old Gods and their servants — one of the oldest languages in the Warcraft universe, predating all mortal languages on Azeroth. It is spoken (or projected) by the Old Gods themselves (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj), their faceless servants (N'raqi, K'thir), and likely the Aqir and Qiraji in some form. The language is inspired by **R'lyehian** from H.P. Lovecraft's Cthulhu Mythos and shares its alien, maddening quality. Unlike most WoW constructed languages, Shath'Yar now has **56+ confirmed translated phrases** with official Blizzard translations and **77+ syntactically codable phrases**, making it one of the better-attested WoW constructed languages despite its intentionally opaque design.
 
 ## Speakers
 

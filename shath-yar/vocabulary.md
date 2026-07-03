@@ -402,6 +402,8 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | vwahuhn | reckoning | *ak'uq shg'cul vwahuhn* = "our power beyond reckoning" | **Low–Moderate** |
 | zaix | praise | *H'iwn zaix Shuul'wah* = "All praise Deathwing"; *wgah zaix* = "will echo/praise" | **Low–Moderate** |
 | og | no/not (existential negation) | *Og h'iwn* = "No light"; *Og vormos* = "No escape" | **Low–Moderate** — existential/nominal negation distinct from verbal *maq*/*noq*; see grammar.md Investigation 5 |
+| En' | there is not / is not (negative existential copula) | *En'othk uulg'shuul* = "There is no light after death"; *En'* + *othk* = "there is not light" | **Low–Moderate** — parallels affirmative copula *ma* = "is/are"; occupies predicate position unlike particle *og*; see grammar.md Investigation 5 |
+| othk | light | *En'othk* = "no light" (*En'* + *othk*) | **Low** — single attestation; decomposition not confirmed |
 
 ## Investigation: *domanaar* and the *-aar* Suffix
 

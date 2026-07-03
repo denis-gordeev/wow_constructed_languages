@@ -970,6 +970,33 @@ The dedicatory interpretation is particularly appealing in the loa context: *Elo
 
 **Confidence: Low–Moderate** for any single hypothesis. Three attestations is the minimum for identifying a pattern; the dedicatory/cognate interpretation is the most semantically coherent but requires more data to confirm. Cross-referenced with Darnassian grammar.md Investigation 7 for the broader Zandali–Elven cognate analysis.
 
+#### *no* vs *na* Functional Split — Updated Round 23
+
+The coexistence of two relational particles (*na* and *no*) in Zandali raises the question of whether they are functionally distinct or contextually conditioned variants. The evidence now allows a more precise comparison:
+
+| Feature | *na* | *no* |
+|---------|------|------|
+| **Attestation count** | 5+ (confirmed sentences + chant) | 3 (loa names only) + 1 untranslated |
+| **Syntactic position** | Pre-nominal (before noun) | Between two proper nouns |
+| **Confirmed functions** | Locative "in", allative "to", genitive "of" | Unknown (loa-name connective only) |
+| **Argument types** | Common nouns and proper nouns | Proper nouns (titles + loa names) exclusively |
+| **Occurs in confirmed sentences** | Yes (*Tokobo'ne na Amani'Zar*) | No |
+| **Occurs in loa titles** | No | Yes (*Elortha no Shadra*) |
+| **Semantic range** | Broad (3+ functions) | Narrow (1 context) |
+| **Vowel** | /a/ | /o/ |
+
+Three possible analyses of the *na*/*no* relationship:
+
+1. **Distinct particles**: *na* and *no* are unrelated particles that happen to share the /n/ consonant. *na* = general relational preposition (locative/allative/genitive), *no* = specialized loa-title connective (dedicatory/vocative). This is the most parsimonious analysis given the different syntactic distributions and non-overlapping contexts.
+
+2. **Vowel-conditioned allomorphy**: *na* and *no* are allomorphs conditioned by the phonological environment. The /a/ ~ /o/ alternation could reflect vowel harmony with the following syllable: *na* before /a/-initial words (*na Amani'Zar*, *na Jan'alai*), *no* before /o/- or /u/-initial words. Counterexample: *no Shadra* — *Shadra* does not begin with /o/ or /u/. Also, *na roa* and *na sho* show *na* before non-/a/ vowels. Phonological conditioning is not supported.
+
+3. **Functional split from common ancestor**: Proto-Troll-Elven *\*na*/*\*no* was a single relational particle that split into two specialized forms in Zandali: *na* retained the spatial/relational functions (locative, allative, genitive), while *no* specialized for dedicatory/vocative use in ritual/loa contexts. The semantic specialization would parallel the development of ritual registers in natural languages, where common prepositions acquire specialized meanings in religious contexts. This is consistent with the dedicatory interpretation of *no* (*Elortha no Shadra* = "Elortha dedicated to Shadra"), which is semantically narrower than the spatial *na*.
+
+**Assessment**: Analysis (1) is the most parsimonious but least interesting. Analysis (3) is the most linguistically plausible — functional split from a common ancestor is a well-attested pathway — but requires assuming a Proto-Troll-Elven particle that is not directly attested. The fact that *na* and *no* show **complementary distribution** (*na* in common-noun contexts, *no* in loa-title contexts) supports functional specialization rather than random variation.
+
+**Confidence: Low–Moderate** for functional split from common ancestor. The complementary distribution is clean but has only 8 total data points across both particles. The dedicatory specialization of *no* is consistent with the loa-worship cultural context but cannot be confirmed without additional attestations of *no* in non-loa contexts.
+
 #### *Akunda* as Potential *-da* Evidence Beyond Kinship
 
 The loa name *Akunda* (Loa of Storms/Thoughts, BfA Vol'dun) presents an opportunity to test whether *-da* extends beyond kinship. Three decompositions are possible:
