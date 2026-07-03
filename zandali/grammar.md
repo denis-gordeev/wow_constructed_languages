@@ -916,7 +916,7 @@ Since the Haranir are confirmed to descend from dark trolls/night elves (*The Ar
 
 | Candidate | Zandali | Hara'ni | Confidence | Key Problem |
 |-----------|---------|---------|------------|-------------|
-| *-mara* suffix | *-mara* in *Shaol'mara*, *Kul'amara* (no confirmed gloss) | *-mara* = "balance" (confirmed in *Har'mara*) | Very Low | No Zandali semantic evidence; /mara/ is a common syllable |
+| *-mara* suffix | *-mara* in *Shaol'mara*, *Kul'amara* (no confirmed gloss) | *-mara* = "balance" (confirmed in *Har'mara*) | Low–Moderate | **Updated Round 20**: Two Zandali attestations now provide circumstantial support; *Shaol'mara* = Zandalari outpost (Isle of Thunder) and *Kul'amara* = Witherbark chieftain (Midnight); if *-mara* = "balance", then *Shaol'mara* = "[Shaol]-balance" (outpost of balance?) and *Kul'amara* = "[Kul]-balance" (balance-chieftain?); the Zandali *-mara* has no confirmed gloss in Zandali itself, but the Hara'ni *-mara* = "balance" is confirmed (Har'mara = Village of Balance); the cross-family phonological identity with consistent compound position (suffix after apostrophe) is notable; /mara/ is a common syllable but the systematic suffix position in both families strengthens the cognate hypothesis; upgraded from Very Low to Low–Moderate |
 | *\*ala-* / *Aln-* | *Alai* "fire/flame" (confirmed) | *Aln-* "deep/source/essence" (Moderate–High) | Very Low–Low | Extra *-n* in Hara'ni; semantic gap significant |
 
 Full analysis in darnassian/grammar.md Investigation 13.

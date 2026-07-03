@@ -879,12 +879,7 @@ If *-ah* is a genuine derivational suffix, it should show consistent morphologic
 
 #### Nazja Evidence
 
-If *-ah* is Proto-Elven, Nazja should preserve it. Nazja has no confirmed *-ah* suffix pairs, but several Nazja words end in *-ah*:
-
-- *Nazj*atar (not *-ah*; *-atar* is the suffix)
-- *Akkor*ok (no *-ah*)
-
-The absence of clear *-ah* pairs in Nazja is expected given Nazja's extremely limited confirmed vocabulary. The absence is not counterevidence.
+If *-ah* is Proto-Elven, Nazja should preserve it. However, Nazja provides one tentative *-ah* reflex: the *Nazj-*/*Nazja* pair (Round 20). The CVC root *Nazj-* is independently attested in 5+ compounds (*Nazjatar*, *Naz'jar*, *Nazeshi*, *Nazjak*), and the language name *Nazja* may decompose as *Nazj-* + *-ah* → *Nazja* (with regular h-loss in open final syllable). Semantically, this yields root "deep/naga" → nominalized "that which is naga / the naga tongue" — a coherent derivation for a language name. However, the *-a* in *Nazja* could equally be a thematic vowel or part of an indivisible proper name, and no second *-ah* pair exists in Nazja to provide converging evidence. The RPG form *Dallah* (silence spell) explicitly ends in *-ah* but is non-canon and lacks an attested root. **Confidence: Low–Moderate** for *Nazj/Nazja* as a genuine *-ah* reflex
 
 #### Alternative Analyses
 

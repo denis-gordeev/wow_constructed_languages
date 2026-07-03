@@ -134,7 +134,7 @@ The confirmed translations now provide enough data for preliminary syntactic ana
 
 ### Word Order
 
-Shath'Yar appears to use **predominantly SVO** order in declarative clauses, with verb-initial order in imperative/exclamatory clauses — see Investigation 4 for full systematic analysis (40+ codable phrases):
+Shath'Yar appears to use **predominantly SVO** order in declarative clauses, with verb-initial order in imperative/exclamatory clauses — see Investigation 4 for full systematic analysis (43+ codable phrases):
 
 1. **VSO pattern**: *Sk'shuul agth vorzz N'Zoth naggwa'fssh* = "Your deaths shall sing of N'Zoth's unending glory" (Subject *Sk'shuul* + Auxiliary *agth* + Verb *vorzz* + Object)
 2. **Possessor-Possessed**: *N'Zoth yyqzz* = "N'Zoth's throne" (Possessor + Possessed noun)
@@ -449,7 +449,7 @@ The connective *zz* = "and" is the only confirmed clause-combining element, appe
 
 #### Extended Syntactic Coding (Additional Phrases)
 
-The initial coding covered 19 phrases from Zon'ozz, Yor'sahj, and Anglepoint sources. The following additional confirmed phrases can be syntactically coded, expanding the corpus to 40+ codable phrases:
+The initial coding covered 19 phrases from Zon'ozz, Yor'sahj, and Anglepoint sources. The following additional confirmed phrases can be syntactically coded, expanding the corpus to 43+ codable phrases:
 
 ##### Additional SVO (Simple Transitive)
 
@@ -503,6 +503,9 @@ However, an alternative analysis: *qam* in this phrase may not be negation but t
 | *Ywaq mwual'gyos gag prfakt sjabba zuq* | Ywaq | mwual'gyos | gag prfakt sjabba zuq | Armageddon |
 | *Za uul og nuq i fssh zz oou iiyoq* | Za uul og nuq | (copula implied) | i fssh zz oou iiyoq | Storm's End |
 | *Ul basha krix* | Ul | (implied) | basha krix | Zek'voz |
+| *ULL vera skish!!* | ULL | vera | skish | Vol'zith |
+
+*ULL vera skish!!* = "You are mine!" — *ULL* (SHOUTED) is an emphatic pronoun "you" (parallel to *iilth* but prosodically emphasized); *vera* = copula or verb "are"; *skish* = possessive "mine" (related to *sk-* possessive series). Fits the established S-Copula-Pred pattern. Confidence: Low–Moderate (morpheme assignments speculative but pattern is well-attested).
 
 The Armageddon phrases extend the copular construction to non-boss sources, confirming that *ma* = copula is not restricted to raid boss dialogue.
 
@@ -514,6 +517,9 @@ The Armageddon phrases extend the copular construction to non-boss sources, conf
 | *Oou vwahuHn ag'xig shfk zuq!* | S-Neg-V-O (exclamatory) | G'huun |
 | *Zuq ag'xig bormaz ag'thyzak!* | S-Neg-V-O (exclamatory) | G'huun |
 | *Ug' crish zul Thraxas!* | S-Aux-V (exclamatory) | Zek'voz |
+| *Kulaq w'ajj, hwa-ksh brraglac!* | V-Adv, S-V (biclausal: imperative + declarative) | Armageddon |
+
+*Kulaq w'ajj, hwa-ksh brraglac!* = "Tremble now, for the slumberer awakens!" — Biclausal: first clause is imperative V-Adv (*Kulaq* = "Tremble", *w'ajj* = "now"); second clause is declarative S-V (*hwa-ksh* = "the slumberer", *brraglac* = "awakens"). The imperative clause follows the established V-initial pattern; the declarative clause follows S-V order. Confidence: Low (morpheme assignments mostly speculative; structural analysis based on translation mapping).
 
 The G'huun exclamatory phrases (*Oou vwahuHn ag'xig shfk zuq!* = "The titans cannot save you!") show that S-Neg-V order can appear in exclamatory contexts without verb-fronting — unlike the *agth*-based S-Aux-V-O phrases from Zon'ozz. This suggests that verb-fronting in imperatives is not absolute but pragmatically conditioned.
 
@@ -527,20 +533,29 @@ The G'huun exclamatory phrases (*Oou vwahuHn ag'xig shfk zuq!* = "The titans can
 
 *Yeh'glu N'Zoth* = "blood of N'Zoth" confirms the Possessor-Possessed order with *N'Zoth* as possessor, consistent with the previously coded examples.
 
+##### Locative Fronting (PP-V-S)
+
+| Phrase | PP | V | S | Source |
+|--------|----|---|---|--------|
+| *Skitsh qi'uthik illith!* | Skitsh | qi'-uthik | illith | Vol'zith |
+
+*Skitsh qi'uthik illith!* = "Beneath the tides, your truth awaits." — *Skitsh* = locative PP "beneath the tides"; *qi'* = future prefix; *uthik* = verb "await"; *illith* = "you" (confirmed pronoun variant). This is a locative-fronted construction: PP-V-S, parallel to how imperatives front the verb. The locative PP occupies sentence-initial position, followed by the verb and then the subject — a fronting strategy that parallels imperative verb-fronting. Confidence: Low–Moderate (individual morpheme assignments are speculative but the structure fits established patterns).
+
 #### Updated Word Order Summary
 
 | Clause Type | Order | Previous Count | Updated Count | Notes |
 |-------------|-------|---------------|---------------|-------|
 | Simple transitive | SVO | 5 | 10 | Strongest pattern; no counterexamples |
 | Transitive with auxiliary | S-Aux-V-O | 3 | 7 | *agth* and *wgah* both confirmed |
-| Copular | S-Copula-Pred | 5 | 8 | Extended to non-boss sources |
+| Copular | S-Copula-Pred | 5 | 9 | Extended to non-boss sources |
 | Negated | S-Neg-V | 2 | 2 | Still only *maq*/*noq* examples |
 | Intransitive | SV | 3 | 3 | — |
-| Imperative/exclamatory | V-initial | 6 | 10 | S-initial also possible in exclamatory |
+| Imperative/exclamatory | V-initial | 6 | 11 | S-initial also possible in exclamatory; includes biclausal |
 | Possessive NP | Possessor-Possessed | 6 | 8 | Consistently confirmed |
+| Locative fronting | PP-V-S | 0 | 1 | Low–Moderate confidence; parallels imperative fronting |
 | Aux-Neg-V | S-Aux-Neg-V | 0 | 1 | Very Low confidence; only 1 attestation |
 
-**Updated confidence: High** for SVO as the basic declarative word order. The expanded corpus (40+ codable phrases, 10 SVO examples, zero counterexamples in simple declarative clauses) provides robust evidence.
+**Updated confidence: High** for SVO as the basic declarative word order. The expanded corpus (43+ codable phrases, 10 SVO examples, zero counterexamples in simple declarative clauses) provides robust evidence.
 
 #### Capitalization as Prosodic Grammar
 
@@ -565,7 +580,7 @@ Shath'Yar uses prosodic emphasis (capitalized forms) where English uses separate
 
 | Feature | Analysis | Confidence |
 |---------|----------|------------|
-| Basic word order | SVO (declarative), V-initial (imperative) | **High** (40+ codable phrases; 10 SVO examples; zero counterexamples) |
+| Basic word order | SVO (declarative), V-initial (imperative) | **High** (43+ codable phrases; 10 SVO examples; zero counterexamples) |
 | Copula position | Between S and Pred (verb position) | Moderate–High |
 | Negation position | Between S and V (verb position) | Moderate–High |
 | Possessor-Possessed | Possessor precedes Possessed | High |
@@ -574,6 +589,7 @@ Shath'Yar uses prosodic emphasis (capitalized forms) where English uses separate
 | Future marking | Three-way system: *agth* (obligative), *gag* (emphatic), *qi'*/*wgah* (simple) | Low–Moderate |
 | Negation allomorphy | *maq* (3rd person) vs. *noq* (1st person) — or verbal vs. copular | Low–Moderate |
 | Clause combining | Primarily paratactic; *zz* = "and" coordinates VPs | Low–Moderate |
+| Locative fronting | PP-V-S (parallel to imperative verb-fronting) | Low–Moderate |
 | Prosodic emphasis | Capitalization = grammatical intensifier | Moderate–High |
 
-**Overall**: Shath'Yar is a consistent SVO language with rigid NP ordering (Possessor-Possessed, Modifier-Noun) and a fixed auxiliary position between subject and verb. The negation and copula occupy the same structural position as auxiliaries. The expanded syntactic coding (40+ codable phrases) upgrades confidence in SVO as the basic word order from Moderate–High to High. The most significant grammatical discoveries are the three-way auxiliary distinction (*agth* vs. *gag* vs. *qi'*/*wgah*), the systematic use of prosodic emphasis as a grammatical intensifier, and the person-conditioned negation allomorphy (*maq* vs. *noq*) — features rarely found in natural languages but consistent with Shath'Yar's non-human, tentacular vocal apparatus.
+**Overall**: Shath'Yar is a consistent SVO language with rigid NP ordering (Possessor-Possessed, Modifier-Noun) and a fixed auxiliary position between subject and verb. The negation and copula occupy the same structural position as auxiliaries. The expanded syntactic coding (43+ codable phrases) upgrades confidence in SVO as the basic word order from Moderate–High to High. The most significant grammatical discoveries are the three-way auxiliary distinction (*agth* vs. *gag* vs. *qi'*/*wgah*), the systematic use of prosodic emphasis as a grammatical intensifier, locative fronting (PP-V-S) parallel to imperative verb-fronting, and the person-conditioned negation allomorphy (*maq* vs. *noq*) — features rarely found in natural languages but consistent with Shath'Yar's non-human, tentacular vocal apparatus.
