@@ -284,7 +284,7 @@ The allophonic analysis is the most parsimonious. *iilth* /iːlθ/ with a long v
 
 ### Investigation 4: Syntactic Pattern Analysis — Word Order, Auxiliaries, and Clause Structure
 
-With 56+ confirmed phrases, Shath'Yar has by far the richest attested corpus of any WoW constructed language. This investigation systematically analyzes word order, the auxiliary verb system, negation, and clause combining across the confirmed translations.
+With 56+ confirmed phrases, Shath'Yar has by far the richest attested corpus of any WoW constructed language. This investigation systematically analyzes word order, the auxiliary verb system, negation, and clause combining across the confirmed translations. 63+ phrases have been syntactically coded as of Round 22.
 
 #### Word Order Coding
 
@@ -731,3 +731,80 @@ The discovery of *og* as existential negation resolves a minor puzzle: the Storm
 No other WoW constructed language attests a three-way negation system. Darnassian uses a single negation strategy (ablaut *Andu*/*Endu* or prefix), Zandali uses pre-verbal *wa-*, and Orcish has no confirmed negation morpheme. The existential vs. verbal negation distinction is typologically common (English "there is no X" vs. "I do not X"; French *ne...pas* vs. *pas de*), but the person-conditioned verbal negation (*maq* vs. *noq*) is typologically rare and may reflect Shath'Yar's non-human grammar.
 
 **Overall**: Shath'Yar is a consistent SVO language with rigid NP ordering (Possessor-Possessed, Modifier-Noun) and a fixed auxiliary position between subject and verb. The negation and copula occupy the same structural position as auxiliaries. The expanded syntactic coding (55+ codable phrases) upgrades confidence in SVO as the basic word order from Moderate–High to High. The most significant grammatical discoveries are the three-way auxiliary distinction (*agth* vs. *gag* vs. *qi'*/*wgah*), the three-way negation system (*og* existential vs. *maq* verbal 3rd person vs. *noq* verbal 1st person), the systematic use of prosodic emphasis as a grammatical intensifier, locative fronting (PP-V-S / PP-S-V) parallel to imperative verb-fronting, and case distinction in the pronoun system (*iilth* nominative vs. *ilfah* accusative) — features rarely found in natural languages but consistent with Shath'Yar's non-human, tentacular vocal apparatus.
+
+#### Fourth Extension: Additional Confirmed Phrases (Round 22)
+
+The following confirmed phrases were not coded in previous rounds. They expand the syntactic corpus from 55+ to 63+ codable phrases.
+
+##### Additional SV (Subject-Verb, Intransitive)
+
+| Phrase | S | V | Source |
+|--------|---|---|--------|
+| *Hoq sshoq'meg thoq wotH'gl* | Hoq sshoq'meg | (thoq) wotH'gl | Storm's End |
+| *Y'za sythn oou* | Y'za | sythn oou? | Kaahrj |
+
+*Hoq sshoq'meg thoq wotH'gl* = "The forgotten king returns" (third clause of *Og h'iwn Og vormos Hoq sshoq'meg thoq wotH'gl*) — *Hoq sshoq'meg* = "the forgotten king" (complex NP subject; *hoq* = "the/this"); *thoq wotH'gl* = "returns" (possibly compound verb *thoq* + *wotH'gl* or *thoq* = verb "returns" + *wotH'gl* = adverb). Pattern: SV. The first two clauses (*Og h'iwn*, *Og vormos*) were coded as Neg-N; this third clause is the main clause. Confidence: Low–Moderate (subject NP is complex but SV structure is well-attested).
+
+*Y'za sythn oou* = "I cannot die" (second clause of *Yeh'glu N'Zoth okom hoq... Y'za sythn oou...*) — *Y'za* = "I" (confirmed 1st person pronoun); *sythn* = "cannot" (negation + auxiliary or negative modal); *oou* = "die" (verb, same as *oou* in *Ywaq maq oou* = "They do not die"). If *sythn* = negative modal "cannot", this is S-Neg-V with a different negation element than *maq*/*noq*. Alternatively, *sythn* = verb "cease/stop" with *oou* = object "death", giving SVO "I stop death". Pattern: S-Neg-V or SVO. Confidence: Low–Moderate (structural ambiguity between S-Neg-V and SVO; *sythn* is a previously unattested morpheme).
+
+##### Additional SVO (Simple Transitive)
+
+| Phrase | S | V | O | Source |
+|--------|---|---|---|--------|
+| *Ywaq ongg an'qov i lal halahs nuq* | Ywaq ongg an'qov | (serves) | i lal halahs nuq | Mythrax/G'huun |
+
+*Ywaq ongg an'qov i lal halahs nuq* = "Your husk serves a new master now" — *Ywaq ongg an'qov* = "your husk" (complex NP subject; *ywaq* = "your"; *ongg* = "earth/body"; *an'qov* = "hull/husk"); *i lal halahs nuq* = "a new master now" (object NP). The verb "serves" is implied but has no overt Shath'Yar correspondent — either (a) the verb is zero/omitted (pro-drop in context), or (b) one of the elements in the subject or object NP functions as the verb. If *an'qov* = "serves" (verb) rather than "husk" (noun), the structure would be SVO with *Ywaq ongg* = "your body" (subject), *an'qov* = "serves" (verb), *i lal halahs nuq* = "a new master now" (object). Pattern: SVO (with ambiguous verb identification). Confidence: Low (verb position is unclear; zero verb is typologically unusual but attested in pro-drop languages).
+
+##### Additional S-V-O (Simple Transitive, Vol'zith)
+
+| Phrase | S | V | O | Source |
+|--------|---|---|---|--------|
+| *Bwixki amala zal qulllll* | Bwixki | amala | zal qulllll | Vol'zith |
+
+*Bwixki amala zal qulllll* = "I will await you... in the dark" — *Bwixki* = "I" (1st person pronoun variant, or proper name); *amala* = "will await" (verb with future/modal component; *a-* may be future/modal prefix); *zal qulllll* = "you... in the dark" (object + locative). Pattern: S-Aux-V-O or SVO. The geminate /l/ in *qulllll* suggests prosodic emphasis (cf. Investigation 4 capitalization pattern), possibly marking "deep darkness" or "the deepest dark". Confidence: Very Low–Low (morpheme assignments mostly speculative; *Bwixki* as pronoun is unconfirmed).
+
+##### S-V (Exclamatory, Zek'voz)
+
+| Phrase | S | V/Copula | Source |
+|--------|---|---------|--------|
+| *N'Zoth iiyoq raz'tal'vsak!* | N'Zoth iiyoq | raz'tal'vsak | Kaahrj |
+
+*N'Zoth iiyoq raz'tal'vsak!* = "The will of N'Zoth is made manifest!" — *N'Zoth iiyoq* = "the will of N'Zoth" (Possessor-Possessed NP, cf. *N'Zoth iiyoq* from Kaahrj coded in Possessor-Possessed); *raz'tal'vsak* = "is made manifest" (complex verb or copula + predicate). If *raz'tal'vsak* is a single verb, the pattern is SV. If it decomposes as copula + predicate (*raz'* = "is", *tal'vsak* = "manifest"), the pattern is S-Copula-Pred. Pattern: SV or S-Copula-Pred. Confidence: Very Low–Low (internal structure of *raz'tal'vsak* is unknown).
+
+##### Additional Biclausal
+
+| Phrase | Clause 1 | Clause 2 | Source |
+|--------|----------|----------|--------|
+| *Iilth vwah, uhn'agth fhssh za* | V-O (conditional?) | S-Aux-V-O | Volazj |
+| *Oou oou ryiu nuq Yrr par'okoth yrr vorzz* | S-Neg-V | S-V ... Conj V | Deep Watcher |
+
+*Iilth vwah, uhn'agth fhssh za* = "Where one falls, many shall take its place" — First clause: *Iilth* = "you" (subject); *vwah* = "fall" (verb) — SV or V-O. Second clause: *uhn'agth* = "many" (subject, or *uhn'* = "many" + *agth* = auxiliary "shall"); *fhssh* = "take" (verb); *za* = "its place" (object). Pattern: biclausal [SV], [S-Aux-V-O] or [SV], [S-V-O]. The first clause may be conditional ("where one falls" = "if one falls"), making this a conditional-consequential construction. *uhn'agth* could also be *uhn'* (quantifier "many") + *agth* (obligative auxiliary), giving S-Aux-V-O for the second clause — consistent with the established S-Aux-V-O pattern. Confidence: Low–Moderate (conditional interpretation is plausible; second clause structure fits established patterns).
+
+*Oou oou ryiu nuq Yrr par'okoth yrr vorzz* = "We slumber no more! We rise... as he rises!" — First clause: *Oou oou* = "we" (1st person plural pronoun, possibly reduplicated for emphasis); *ryiu* = "slumber" (verb); *nuq* = "no more" (temporal/aspectual negation, distinct from *maq*/*noq*). Second clause: *Yrr* = connective "and/so"; *par'okoth* = "rise" (verb); *yrr* = repeated connective; *vorzz* = "as he rises" or "he rises" (parallel verb). Pattern: biclausal [S-V-Neg/Adv], [Conj-V-Conj-V]. The particle *nuq* differs from established negation *maq*/*noq*/*og* — if *nuq* = "no more" (aspectual/terminative negation), Shath'Yar may have a four-way negation system. Alternatively, *nuq* = "now" (temporal adverb), giving "We slumber now" — but this contradicts the English "no more." Confidence: Very Low–Low (morpheme assignments highly speculative; *nuq* vs. *noq* phonological similarity may indicate related form).
+
+##### Additional Neg-N (Existential)
+
+| Phrase | Neg | N | Translation | Source |
+|--------|-----|---|-------------|--------|
+| *Naza bul rexil qalic ul'* | Naza? | bul rexil qalic ul' | "Not a single worthy trait among you" | Zek'voz |
+
+*Naza bul rexil qalic ul'* = "Not a single worthy trait among you" — If *Naza* = negation "not", this would be a Neg-NP construction parallel to *Og h'iwn* = "No light". However, *Naza* could also be the subject NP "not one" (a negative quantifier), with *bul rexil qalic ul'* as a predicate. The construction is nominal/existential without a verb, consistent with the Neg-N pattern. If *Naza* = "not/no", it would be a fourth negation element alongside *og*, *maq*, *noq* — but the phonological form is distinct from all three. More likely: *Naza* = negative quantifier "not one/none" (a compound of *na-* + *-za* or an independent form). Pattern: NegQuant-NP (negative quantifier construction). Confidence: Very Low (single attestation; unclear whether *Naza* is negation or negative quantifier).
+
+#### Updated Word Order Summary (Round 22)
+
+| Clause Type | Order | Previous Count | Updated Count | Notes |
+|-------------|-------|---------------|---------------|-------|
+| Simple transitive | SVO | 12 | 13 | Added *Ywaq ongg an'qov* (Low confidence) |
+| Transitive with auxiliary | S-Aux-V-O | 8 | 8 | No new additions |
+| S-Aux-V-PP | S-Aux-V-PP | 1 | 1 | No new additions |
+| Copular | S-Copula-Pred | 10 | 11 | Added *N'Zoth iiyoq raz'tal'vsak* (Very Low–Low confidence) |
+| Negated (verbal) | S-Neg-V | 2 | 3 | Added *Y'za sythn oou* (Low–Moderate confidence; *sythn* = new negation element?) |
+| Negated (existential) | Neg-N | 2 | 3 | Added *Naza bul rexil qalic ul'* (Very Low confidence) |
+| Intransitive | SV | 6 | 8 | Added *Hoq sshoq'meg* and *Y'za sythn oou* |
+| Imperative/exclamatory | V-initial | 13 | 13 | No new additions |
+| Possessive NP | Possessor-Possessed | 9 | 9 | No new additions |
+| Locative fronting | PP-V-S / PP-S-V | 2 | 2 | No new additions |
+| Aux-Neg-V | S-Aux-Neg-V | 1 | 1 | No new additions |
+| Biclausal | Various | 3 | 5 | Added *Iilth vwah* and *Oou oou ryiu nuq* |
+
+**Updated total: 63+ codable phrases.** Confidence remains **High** for SVO as the basic declarative word order. The new phrases reveal potential additional negation elements (*sythn*, *nuq*, *Naza*) that may expand the negation system beyond the current three-way analysis, but all have Very Low–Low confidence and require additional data for confirmation.

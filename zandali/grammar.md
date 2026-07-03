@@ -368,6 +368,14 @@ This is consistent with Common (English) influence and typical of pidgin/creole 
 
 12. **Compound stress directionality**: Zandali compound names appear to place stress on the **first element** (the modifier): *ZUL'gurub*, *ZUL'aman*, *ZUL'drak*, *ZUL'farrak*, *ATAL'ai*, *SEN'jin*, *VOL'jin*. This contrasts with the elven languages, which stress the **head** (second/post-apostrophe element): *Quel'THALas*, *Sin'DOrei*, *Thas'ALah* (see elven-comparative.html). This stress directionality difference is a significant structural divergence between the troll and elven branches, and may reflect different compound structures: modifier-prominent (troll) vs. head-prominent (elven).
 
+13. **CV'CV naming template for Amani NPCs**: The Midnight Amani NPC names show a strikingly uniform phonological template: **CV'(C)CV(C)** with an apostrophe marking the morpheme boundary. Of 14 attested Amani'Zar Village NPCs, 9 follow this template exactly: *An'jali*, *Tak'za*, *Dar'rak*, *Ich'loka*, *Jon'noki*, *Ri'kari*, *Tal'rin*, *Tal'zi*, *Zak'kash*. The pre-apostrophe element is typically CV or CVC (1–2 syllables), while the post-apostrophe element is typically CV(C) or CVCV (1–2 syllables). The 5 exceptions are longer names without apostrophes (*Vikovu*, *Iklani*, *Kagara*, *Namaji*, *Pakarri*, *Tavikko*), which may reflect different naming traditions (non-Amani origin, honorific additions, or compound names where the boundary has been lost). The CV'CV template contrasts with the *Zul'X* and *Jin'X* naming patterns (which use known prefix morphemes) and may reflect a productive personal-naming compounding strategy where both elements contribute semantic content rather than one being a title prefix.
+
+14. **Blood troll phonological divergence**: The three attested blood troll combat vocalizations (*Gachaga*, *Guzincha*, *Pohkiza*) show phonological features distinct from standard Zandali: (1) trisyllabic structure with medial /g/ or /z/ (*Ga-cha-ga*, *Gu-zin-cha*, *Poh-ki-za*), (2) heavier use of /g/ and /k/ than typical Zandali (which prefers /z/, /l/, /r/), (3) consistent /a/ or /i/ in final syllable. However, with only three data points — all combat vocalizations rather than proper vocabulary — this divergence may reflect (a) G'huun/Old God corruption altering speech patterns, (b) a distinct dialect of Zandali spoken by blood trolls, or (c) combat-specific exclamatory phonology that differs from everyday speech. **Confidence: Very Low** for genuine phonological divergence; the data is too limited and contextually narrow.
+
+15. ***-ara/ari/aru* vowel alternation family**: Three Zandali suffixes share the consonantal skeleton *-r-* with different vowels, forming a potential morphological alternation family: *-ari* (tribal suffix, as in *Zandalari*), *-ara* (place-name ending, as in *Maisara*, *Shaol'mara*, *Kul'amara*, *Har'mara*), and *-aru* (participial suffix, as in *wa'aru* "fearing"). If these are related, the vowel alternation would parallel the verbal ablaut system (Patterns A–D) where vowel changes mark grammatical function. The proposed correspondence: *-ari* = tribal/ethnic affiliation, *-ara* = locative/place, *-aru* = participial/verbal. However, the relationship is complicated by *-ashi* (Gurubashi) and *-aki* (Farraki), which also mark tribal affiliation but do not share the *-r-* consonant. The *-ara/ari/aru* family may represent a genuine morphological pattern, or the shared /r/ may be coincidental given /r/'s high frequency in Zandali (Pattern 5). **Confidence: Very Low–Low** for a genuine vowel-alternation family; the phonological similarity is suggestive but the functional differences and competing forms (*-ashi*, *-aki*) weaken the analysis.
+
+16. **/a/-dominance hierarchy by morpheme type**: The overwhelming /a/ dominance noted in Pattern 1 is not uniform across morpheme types. A hierarchy emerges: **place names > common nouns > personal names > loa names**. Place names and common nouns show the highest /a/ concentration (*Zandalar*, *Nazmir*, *Alai*, *nazdo*, *roa*, *keke*, *Atal*, *Zal*), with many morphemes being exclusively /a/-voweled (Pattern 10). Personal names show moderate /a/ but with more /i/, /o/, and /e/ (*Rastakhan*, *Talanji*, *Vol'jin*, *Sen'jin*). Loa names show the most phonological diversity, with /i/, /u/, /e/, and /o/ much more prominent (*Hir'eek*, *Pa'ku*, *Krag'wa*, *Gonk*, *Rezan*, *Kimbul*, *Sethraliss*). This hierarchy may reflect (a) age of the vocabulary — loa names may preserve older, pre-/a/-dominance phonology, while place names and common nouns have undergone /a/-dominated sound changes; or (b) register — loa names may require a distinctive, less /a/-dominated phonology as a marker of the sacred/profane distinction. **Confidence: Low–Moderate** for the hierarchy itself (the distribution is observable); Very Low for the age vs. register explanation.
+
 ### Creole vs. Native Phonology
 
 A phonological distinction exists between the creole register and native Zandali names:
@@ -920,6 +928,67 @@ Since the Haranir are confirmed to descend from dark trolls/night elves (*The Ar
 | *\*ala-* / *Aln-* | *Alai* "fire/flame" (confirmed) | *Aln-* "deep/source/essence" (Moderate–High) | Very Low–Low | Extra *-n* in Hara'ni; semantic gap significant |
 
 Full analysis in darnassian/grammar.md Investigation 13.
+
+### Investigation 6B: *no* Connective in Loa Names
+
+Three loa are attested with a **"no" connective particle** between a title/descriptor element and the loa name:
+
+| Name | Loa | Decomposition | Notes |
+|------|-----|---------------|-------|
+| *Elortha no Shadra* | Spider loa | *Elortha* + *no* + *Shadra* | *Elortha* may be a title or descriptor |
+| *Eraka no Kimbul* | Tiger loa | *Eraka* + *no* + *Kimbul* | *Eraka* may be a title or descriptor |
+| *Ueetay no Mueh'zala* | Sandfury death loa | *Ueetay* + *no* + *Mueh'zala* | *Ueetay* may be a title or descriptor |
+
+This is the **first evidence of a second preposition/particle** beyond *na*, and the pattern is not previously documented in WoW linguistics.
+
+#### Comparison with *na* and Thalassian *no*
+
+| Particle | Language | Attested Function | Example |
+|----------|----------|-------------------|---------|
+| *na* | Zandali | Locative ("in/to"), genitive ("of") | *Na roa na Jan'alai* = "In [heart] of [Jan'alai]" |
+| *no* | Zandali | Unknown; appears only in loa names | *Elortha no Shadra* |
+| *No* | Thalassian | "To/all" | *Al diel shala* (no *no*), *Bash'a no falor talah!* = "Taste the chill of true death!" |
+
+Thalassian *No* = "to" or "all" (from *Bash'a no falor talah!* = "Taste the chill of true death!"), which is phonologically identical to Zandali *no*. If Zandali *no* and Thalassian *No* reflect the same Proto-Troll-Elven particle, this would be the **second confirmed grammatical particle shared across the troll-elven divide** (after *-da*).
+
+However, the functional match is imperfect: Thalassian *No* = "to/all" in an imperative context, while Zandali *no* appears only between a title and a loa name. The semantic gap between "to/all" and a loa-name connective is significant.
+
+#### Four Hypotheses
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| **Genitive connective** | *no* = "of" — "Elortha of Shadra" (servant/champion of the loa). The first element is a title/descriptor, the second is the loa name, and *no* marks the relationship. This parallels the genitive *na* = "of" but with different syntactic distribution (*no* between two proper nouns vs. *na* between common noun and possessor) | **Low–Moderate** — semantically coherent but requires *no* and *na* to be distinct genitive particles |
+| **Vocative/appositional** | *no* = "called/named" — "Elortha, [who is] Shadra." The first element is a title, the second is the loa's true name, and *no* marks apposition | **Low** — no other evidence for a vocative/appositional particle in Zandali |
+| **Possessive/classifier** | *no* = belonging to / property of. "Elortha, belonging to Shadra" — marks the loa as the possessor of the title/aspect. This would make *no* a relational particle marking the loa as the authority/entity that empowers the title-bearer | **Low–Moderate** — consistent with the loa-worship structure where aspects belong to loa |
+| **Cognate with Thalassian *No*** | Zandali *no* = Thalassian *No* = "to/for" — "Elortha for Shadra" (dedicated to Shadra). If *no* = "to/for", then *Elortha no Shadra* = "Elortha [dedicated] to Shadra" — a dedicatory or service construction. This would make *no* a dative/benefactive particle, paralleling the allative/dative functions of Thalassian *No* | **Low–Moderate** — phonological identity and shared genetic family support cognacy, but functional gap between "to/for" and loa-name connective is bridgeable via dedicatory construction |
+
+#### Assessment
+
+The genitive and cognate hypotheses are the strongest. If *no* = genitive "of", it would complement *na* (which also serves as genitive but in a different syntactic frame: [Possessed] *na* [Possessor] vs. [Title] *no* [Loa]). If *no* = "to/for" (cognate with Thalassian), it would provide the second confirmed cross-family particle shared between troll and elven languages.
+
+The dedicatory interpretation is particularly appealing in the loa context: *Elortha no Shadra* = "Elortha [dedicated] to Shadra" (a priest/champion devoted to the spider loa), *Eraka no Kimbul* = "Eraka [dedicated] to Kimbul" (a champion devoted to the tiger loa), *Ueetay no Mueh'zala* = "Ueetay [dedicated] to Mueh'zala" (a devotee of the death loa). This parallels the *Atal* = "devoted" morpheme: *Atal'ai* = "Devoted Ones" and *Elortha no Shadra* = "Elortha devoted to Shadra" — the same concept expressed through two different morphological strategies (prefix vs. particle).
+
+**Confidence: Low–Moderate** for any single hypothesis. Three attestations is the minimum for identifying a pattern; the dedicatory/cognate interpretation is the most semantically coherent but requires more data to confirm. Cross-referenced with Darnassian grammar.md Investigation 7 for the broader Zandali–Elven cognate analysis.
+
+#### *Akunda* as Potential *-da* Evidence Beyond Kinship
+
+The loa name *Akunda* (Loa of Storms/Thoughts, BfA Vol'dun) presents an opportunity to test whether *-da* extends beyond kinship. Three decompositions are possible:
+
+| Decomposition | Morphemes | Implication |
+|---------------|-----------|-------------|
+| *Akun* + *-da* | *Akun* (unknown root) + *-da* (suffix) | If *-da* = same suffix as in *Fa'da*/*Ma'da*, then *-da* extends beyond kinship to a "spirit/being classifier" — *Akunda* = "[Akun]-spirit" or "spirit-being [Akun]" |
+| *A-* + *kunda* | *A-* (prefix) + *kunda* (root) | *A-* could be a spirit/classifier prefix; *kunda* = unknown root |
+| Monomorphemic | *Akunda* = single unanalyzable form | The CV.CV.CV pattern is consistent with monomorphemic trisyllabic loa names (*Sethraliss* is longer but also monomorphemic) |
+
+If *Akunda* = *Akun* + *-da*, this would significantly impact the *-da* kinship suffix analysis (Investigation 6):
+
+1. **Extends *-da* beyond kinship**: *-da* would no longer be restricted to parent terms but would function as a "spirit/being classifier" or "entity suffix" — broader than the kinship-specific interpretation
+2. **Counters baby-talk convergence**: If *-da* is a productive spirit/being classifier in Zandali and also appears in elven kinship terms, the shared morpheme is less likely to be coincidental baby-talk formation and more likely to reflect genuine shared inheritance — the *-da* suffix would have a grammatical function beyond the /da/ nursery words common cross-linguistically
+3. **Semantic shift prediction**: If *-da* = "being/spirit" in Proto-Troll-Elven, then elven *-da* in kinship terms (*An'da*, *Min'da*) would reflect a specialized development: "being [who is] father/mother" → "father/mother"
+
+However, the decomposition *Akun* + *-da* is not forced by the phonology. The CV.CV.CV syllable pattern (*A.kun.da*) is equally consistent with a monomorphemic trisyllabic name, and no other Zandali word contains the root *Akun*. The risk of false decomposition is significant.
+
+**Confidence: Very Low–Low** for *Akunda* = *Akun* + *-da*. The decomposition is phonologically plausible but has no supporting evidence beyond the /da/ ending. Adding this analysis to the *-da* investigation as a testable hypothesis: if future Zandali vocabulary reveals the root *Akun* as an independent morpheme (e.g., in compound names or with a confirmed gloss), the *Akunda* = *Akun* + *-da* decomposition would gain significant support and could upgrade *-da* confidence from Low–Moderate to Moderate.
 
 ### Investigation 7: *Bwon'* Death Prefix
 
