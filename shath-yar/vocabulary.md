@@ -286,6 +286,7 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | ag | we | *Ak'agthshi ma uhnish* = "Our numbers are endless"; *Ag'rr hazz ak'yel* = "We will reforge" | **High** |
 | ak | our | *Ak'agthshi ma uhnish* = "Our numbers are endless" | **High** |
 | ilfah | you | *Yu'gaz yog'ghyl ilfah* = "Your faithful servant" | **Moderate** |
+| ilfah | you (accusative) | *Yu'gaz yog'ghyl ilfah* = "Your faithful servant has failed you" | **Low–Moderate** — distinct from nominative *iilth*; if confirmed, Shath'Yar has case-marked pronouns |
 | ilith | you | *Ilith qi'uothk shn'ma* = "You will drown" | **Moderate** |
 
 ### Possessive Prefix
@@ -400,6 +401,7 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | uq | power | *Uq naggwa* = "Power unrelenting" | **Low–Moderate** |
 | vwahuhn | reckoning | *ak'uq shg'cul vwahuhn* = "our power beyond reckoning" | **Low–Moderate** |
 | zaix | praise | *H'iwn zaix Shuul'wah* = "All praise Deathwing"; *wgah zaix* = "will echo/praise" | **Low–Moderate** |
+| og | no/not (existential negation) | *Og h'iwn* = "No light"; *Og vormos* = "No escape" | **Low–Moderate** — existential/nominal negation distinct from verbal *maq*/*noq*; see grammar.md Investigation 5 |
 
 ## Investigation: *domanaar* and the *-aar* Suffix
 

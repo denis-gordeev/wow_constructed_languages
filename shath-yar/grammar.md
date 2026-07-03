@@ -541,21 +541,122 @@ The G'huun exclamatory phrases (*Oou vwahuHn ag'xig shfk zuq!* = "The titans can
 
 *Skitsh qi'uthik illith!* = "Beneath the tides, your truth awaits." — *Skitsh* = locative PP "beneath the tides"; *qi'* = future prefix; *uthik* = verb "await"; *illith* = "you" (confirmed pronoun variant). This is a locative-fronted construction: PP-V-S, parallel to how imperatives front the verb. The locative PP occupies sentence-initial position, followed by the verb and then the subject — a fronting strategy that parallels imperative verb-fronting. Confidence: Low–Moderate (individual morpheme assignments are speculative but the structure fits established patterns).
 
-#### Updated Word Order Summary
+#### Third Extension: Additional Confirmed Phrases (Round 21)
+
+The following confirmed phrases were not coded in previous rounds. They expand the syntactic corpus from 43+ to 55+ codable phrases.
+
+##### Additional SVO (Simple Transitive)
+
+| Phrase | S | V | O | Source |
+|--------|---|---|---|--------|
+| *Shgla'yos plahf mh'naus* | Shgla'yos | plahf | mh'naus | Volazj |
+| *Sk'woth'gl yu'gaz yog'ghyl ilfah* | Sk'woth'gl yu'gaz | yog'ghyl | ilfah | Yor'sahj |
+
+*Shgla'yos plahf mh'naus* = "They who dine on lost souls know only hunger" — *Shgla'yos* = complex NP "they who dine on lost souls" (relative clause functioning as subject); *plahf* = "know"; *mh'naus* = "only hunger". Pattern: SVO with complex subject NP. Confidence: Low–Moderate (internal structure of *Shgla'yos* is unclear but SVO word order is consistent with established pattern).
+
+*Sk'woth'gl yu'gaz yog'ghyl ilfah* = "Your faithful servant has failed you" (from *Ez, Shuul'wah! Sk'woth'gl yu'gaz yog'ghyl ilfah!*) — *Sk'woth'gl yu'gaz* = "your faithful servant" (complex NP; *sk'* = possessive prefix + *woth'gl* + *yu'gaz*); *yog'ghyl* = "has failed"; *ilfah* = "you" (accusative). Note: *ilfah* appears to be an accusative form of "you", distinct from nominative *iilth*, confirming case distinction in the pronoun system. Confidence: Low–Moderate (*ilfah* as accusative "you" has one other attestation in the speculative dictionary; complex subject NP).
+
+##### Additional S-V-PP (Intransitive with Locative)
+
+| Phrase | S | V | PP | Source |
+|--------|---|---|----|--------|
+| *Il'zarq N'Zoth phgwa an'zig* | Il'zarq N'Zoth | phgwa | an'zig | Kaahrj |
+| *Aglathrax hig' thrixa* | Aglathrax | hig' | thrixa | Vol'zith |
+| *Xul krass qi' UN skush* | Xul | krass | (qi' UN skush) | Vol'zith |
+
+*Il'zarq N'Zoth phgwa an'zig* = "The voice of N'Zoth whispers from the deeps" — *Il'zarq N'Zoth* = "the voice of N'Zoth" (Possessor-Possessed NP); *phgwa* = "whispers" (verb, same root as *phgwa'cul* = "whisper on the shivering wind"); *an'zig* = "from the deeps" (locative PP with *an-* = directional prefix, consistent with *an'shel* = "into the void" and *an'qov* = "into the heart"). Pattern: S-V-PP, extending the SV pattern with a post-verbal locative complement. Confidence: Moderate (structural pattern clear; *an-* directional prefix consistent across three attestations).
+
+*Aglathrax hig' thrixa* = "I reside within your lungs!" — *Aglathrax* = "I" (1st person pronoun variant, or proper name used as pronoun); *hig'* = "reside"; *thrixa* = "within your lungs" (locative PP). Pattern: S-V-PP. Confidence: Low–Moderate (*Aglathrax* as pronoun is speculative but the S-V-PP structure is well-attested).
+
+*Xul krass qi' UN skush* = "Blood pours forth in the depths" — *Xul* = "Blood" (subject); *krass* = "pours forth" (verb); *qi' UN skush* = "in the depths" (locative PP). Note: *qi'* here may not be the future prefix but part of the locative phrase (*qi'* as directional preposition "in/into"). If *qi'* = "in", this phrase lacks future marking entirely. Pattern: S-V-PP. Confidence: Low (morpheme assignments mostly speculative; *qi'* may have dual function as future prefix and locative preposition, which would be typologically unusual but not impossible).
+
+##### Additional S-Aux-V-O (with *qi'*)
+
+| Phrase | S | Aux | V | O | Source |
+|--------|---|-----|---|---|--------|
+| *Sk'yahf qi'magg luk sshoq anagg'qen* | Sk'yahf | qi' | magg | luk sshoq anagg'qen | Kaahrj |
+
+*Sk'yahf qi'magg luk sshoq anagg'qen* = "Your soul will wander roads that twist in endless spirals" — *Sk'yahf* = "your soul(s)"; *qi'* = future prefix; *magg* = "wander" (note: if *magg* = "wander" here vs. *magg* = "suffering/torment" in *sk'magg* = "your suffering", this would be two homophonous morphemes; alternatively, *magg* could have a broader meaning "to experience [suffering/wandering]"); *luk sshoq anagg'qen* = "roads that twist in endless spirals" (complex object NP). Pattern: S-Aux-V-O. Confidence: Low (homophonous *magg* issue; complex object NP).
+
+##### S-Aux-V-PP (with *gag*)
+
+| Phrase | S | Aux | V | PP | Source |
+|--------|---|-----|---|----|--------|
+| *Uulwi ifis halahs gag erh'ongg w'ssh* | Uulwi ifis halahs | gag | erh'ongg | w'ssh | Yogg-Saron |
+
+*Uulwi ifis halahs gag erh'ongg w'ssh* = "The shadow of my corpse will choke this land for all eternity" — *Uulwi* = "shadow"; *ifis* = "of my" (1st person possessive; see Investigation 1); *halahs* = "corpse/body" (Possessor-Possessed-Noun NP: "the shadow of my corpse"); *gag* = emphatic future auxiliary "will"; *erh'ongg* = "choke"; *w'ssh* = "for all eternity" (temporal PP). Pattern: S-Aux-V-PP, confirming *gag* as an auxiliary between subject and verb. This is the longest single-clause Shath'Yar sentence with a clear syntactic decomposition. Confidence: Moderate–High (well-attested morphemes *uulwi*, *ifis*, *halahs*, *gag*; structural pattern consistent with S-Aux-V-O/PP).
+
+##### PP-S-V (Locative Fronting, Variant)
+
+| Phrase | PP | S | V | Source |
+|--------|----|---|---|--------|
+| *Mg'uulwi N'Zoth, eth'razzqi worg zz oou* | Mg'uulwi N'Zoth | eth'razzqi | worg zz oou | Kaahrj |
+
+*Mg'uulwi N'Zoth, eth'razzqi worg zz oou* = "In the writhing shadow of N'Zoth, all light fades and dies" — *Mg'uulwi N'Zoth* = "In the writhing shadow of N'Zoth" (locative PP; *Mg'* = locative prefix "in"); *eth'razzqi* = "all light" (subject); *worg zz oou* = "fades and dies" (compound verb with *zz* = "and"). Pattern: PP-S-V, an alternative to the previously coded PP-V-S locative fronting. The fronted locative precedes S-V rather than V-S, suggesting locative fronting places the PP before the clause but does not otherwise disrupt SVO order within the clause. This supports an analysis where locative fronting is a pragmatic operation (topic fronting) rather than a syntactic rearrangement. Confidence: Low–Moderate (morpheme assignments for *Mg'uulwi* and *eth'razzqi* are speculative; *worg zz oou* = "fades and dies" is consistent with *zz* = "and" coordination).
+
+##### S-Aux-V / S-Aux-V-O (with *wgah*, biclausal)
+
+| Phrase | S | Aux | V | O | Source |
+|--------|---|-----|---|---|--------|
+| *Oou wgah yyqZz uhnish guu'lal* | Oou | wgah | yyqZz | uhnish guu'lal | Soggoth |
+| *Qwor wgah za kaaxth* | Qwor | wgah | za | kaaxth | Soggoth |
+
+*Oou wgah yyqZz uhnish guu'lal / Qwor wgah za kaaxth* = "The deep one's prison weakens. None will be spared!" — First clause: S(*Oou*)-Aux(*wgah*)-V(*yyqZz*)-O(*uhnish guu'lal*) = "The deep one's prison weakens" (or: *Oou* = subject "it/they", *wgah* = "will", *yyqZz* = "weakens", *uhnish guu'lal* = "the deep one's prison" as fronted object?). Second clause: S(*Qwor*)-Aux(*wgah*)-V(*za*)-O(*kaaxth*) = "None will be spared" (*Qwor* = "none/no one"; *wgah* = "will"; *za* = "be spared" or "place"; *kaaxth* = "thousand/all"). Pattern: S-Aux-V-O for both clauses. Confidence: Low–Moderate (individual morpheme assignments are speculative; structural pattern S-Aux-V consistent with established evidence).
+
+##### Neg-N (Existential/Nominal Negation) — New Pattern
+
+| Phrase | Neg | N | Translation | Source |
+|--------|-----|---|-------------|--------|
+| *Og h'iwn* | Og | h'iwn | "No light" | Storm's End |
+| *Og vormos* | Og | vormos | "No escape" | Storm's End |
+
+*Og h'iwn Og vormos Hoq sshoq'meg thoq wotH'gl* = "No light. No escape. The forgotten king returns." — *Og* appears before nouns in a nominal/existential negation construction: Neg + N = "no [N]". This contrasts with verbal negation *maq*/*noq* which appears between subject and verb (S-Neg-V). *Og* may be homophonous with *ongg* = "earth/land" (*IIQAATH ONGG* = "CURSED EARTH"); the shorter form *Og* (without geminate /ŋ/) may reflect a different morpheme or a phonologically reduced form. If *Og* is a genuine existential negation particle, Shath'Yar has a three-way negation system: *og* (existential/nominal), *maq* (verbal, 3rd person), *noq* (verbal, 1st person). See Investigation 5 for full analysis. Pattern: Neg-N. Confidence: Low–Moderate for *Og* as existential negation.
+
+##### Additional V-Imperative
+
+| Phrase | Structure | Source |
+|--------|-----------|--------|
+| *W'oq uhn'agth ez qam Shandai!* | V + S-Voc + V (compound imperative) | G'huun |
+| *Gag vwah gag yyqzz ez hoz shAth'yar plahf* | Aux-V-Aux-V-PP | Maw of Madness |
+
+*W'oq uhn'agth ez qam Shandai!* = "Come, servants of rot. Consume!" — *W'oq* = "Come" (imperative verb); *uhn'agth* = "servants" (vocative subject; same *uhn'agth* as "many shall" in *uhn'agth fhssh za* = "many shall take its place" — here apparently used as a noun "servants"); *ez* = vocative particle "O" (same as *Ez, Shuul'wah* = "O, Deathwing"); *qam* = "Consume" (imperative verb; or "return" in imperative sense); *Shandai* = "of rot/eternity" (complement). Pattern: V + S-Voc + V, a compound imperative with two verb phrases. Confidence: Low (*qam* = "return" vs. "consume"; *Shandai* = "of rot" vs. "of eternity/ancient").
+
+*Gag vwah gag yyqzz ez hoz shAth'yar plahf* = "You will all drown in the lightless abyss" — *Gag* = emphatic future auxiliary; *vwah* = "drown/feel" (verb); *gag* = repeated emphatic auxiliary; *yyqzz* = "throne/abyss" (noun, or second verb "drown"?); *ez hoz shAth'yar plahf* = "in the lightless abyss" (locative PP). The doubled *gag* is unique — no other phrase repeats an auxiliary. Two analyses: (1) *gag* + *vwah* = "will drown" + *gag* + *yyqzz* = "will [descend to] throne" = compound future verb; (2) *gag* is emphatic and reduplicated for prosodic effect, with *vwah gag yyqzz* = "will [emphatic] drown/abyss" as a single verbal complex. Pattern: Aux-V-Aux-V-PP or Aux-[V Aux V]-PP. Confidence: Very Low–Low (doubled *gag* is unique and unexplained).
+
+##### Additional S-Copula-Pred (with *ma*)
+
+| Phrase | S | Copula | Predicate | Source |
+|--------|---|--------|-----------|--------|
+| *Ma sk'magg ni arwi* | Ma sk'magg | (ni?) | arwi | Deep Watcher |
+
+*Ma sk'magg ni arwi* = "The eye sees all!" (from *Ma sk'magg ni arwi Ma zzof ag ez uulwi*) — The morpheme analysis is problematic: *sk'magg* = "your suffering" elsewhere, making *Ma sk'magg* = "is your suffering" which doesn't match "The eye sees all". Alternative: *Ma* = demonstrative/definite particle "the", *sk'magg* = "eye" (a different morpheme from *sk'* + *magg*), *ni* = "sees" (verb), *arwi* = "all" (object). The second analysis requires *sk'magg* to have two unrelated meanings, which is unlikely. A third possibility: *Ma* = copula, *sk'magg* = subject, *ni* = verb "sees", *arwi* = "all" — but this would give S-Copula-V-O which has no parallel. Most probable: the translation is highly idiomatic and does not map morpheme-by-morpheme. If *ni* = "sees" (verb), the structure could be S(*Ma sk'magg*)-V(*ni*)-O(*arwi*) = SVO with *Ma* as definite article. Confidence: Very Low for individual morpheme assignments; Low for SVO structural pattern.
+
+##### Biclausal: V-O / S-Copula-Pred
+
+| Phrase | Clause 1 | Clause 2 | Source |
+|--------|----------|----------|--------|
+| *Vwah oou kaaxth zz ywaq iiyoq / Ag'xig fhssh I on'ma* | V-O (imperative/question) | S-Copula-Pred | G'huun |
+
+*Vwah oou kaaxth zz ywaq iiyoq Ag'xig fhssh I on'ma* = "Feel the twitch in your spine? That is where I exist." — First clause: V(*Vwah*)-O(*oou kaaxth zz ywaq iiyoq*) = "Feel the twitch in your spine?" (imperative or interrogative; *vwah* = "feel/drown"); second clause: S(*Ag'xig fhssh*)-Copula(*I*)-Pred(*on'ma*) = "That is where I exist" (*Ag'xig fhssh* = "that [is]"; *I* = "I"; *on'ma* = "exist/existence"; or S(*I*)-Copula-Pred(*on'ma*) with *Ag'xig fhssh* = locative PP "where"). The second clause is consistent with the established S-Copula-Pred pattern. Confidence: Low (biclausal parsing is uncertain; morpheme assignments mostly speculative).
+
+#### Updated Word Order Summary (Round 21)
 
 | Clause Type | Order | Previous Count | Updated Count | Notes |
 |-------------|-------|---------------|---------------|-------|
-| Simple transitive | SVO | 5 | 10 | Strongest pattern; no counterexamples |
-| Transitive with auxiliary | S-Aux-V-O | 3 | 7 | *agth* and *wgah* both confirmed |
-| Copular | S-Copula-Pred | 5 | 9 | Extended to non-boss sources |
-| Negated | S-Neg-V | 2 | 2 | Still only *maq*/*noq* examples |
-| Intransitive | SV | 3 | 3 | — |
-| Imperative/exclamatory | V-initial | 6 | 11 | S-initial also possible in exclamatory; includes biclausal |
-| Possessive NP | Possessor-Possessed | 6 | 8 | Consistently confirmed |
-| Locative fronting | PP-V-S | 0 | 1 | Low–Moderate confidence; parallels imperative fronting |
+| Simple transitive | SVO | 10 | 12 | Extended with complex subject NPs |
+| Transitive with auxiliary | S-Aux-V-O | 7 | 8 | Added *qi'* prefix example |
+| S-Aux-V-PP | S-Aux-V-PP | 0 | 1 | *gag* auxiliary with locative complement |
+| Copular | S-Copula-Pred | 9 | 10 | Extended to Deep Watcher source |
+| Negated (verbal) | S-Neg-V | 2 | 2 | Still only *maq*/*noq* examples |
+| Negated (existential) | Neg-N | 0 | 2 | *Og* + Noun = "no [N]"; new pattern |
+| Intransitive | SV | 3 | 6 | Extended with S-V-PP variants |
+| Imperative/exclamatory | V-initial | 11 | 13 | Added compound imperative |
+| Possessive NP | Possessor-Possessed | 8 | 9 | *Il'zarq N'Zoth* = "voice of N'Zoth" |
+| Locative fronting | PP-V-S / PP-S-V | 1 | 2 | Both PP-V-S and PP-S-V attested |
 | Aux-Neg-V | S-Aux-Neg-V | 0 | 1 | Very Low confidence; only 1 attestation |
+| Biclausal | Various | 2 | 3 | Added V-O / S-Copula-Pred |
 
-**Updated confidence: High** for SVO as the basic declarative word order. The expanded corpus (43+ codable phrases, 10 SVO examples, zero counterexamples in simple declarative clauses) provides robust evidence.
+**Updated confidence: High** for SVO as the basic declarative word order. The expanded corpus (55+ codable phrases, 12 SVO examples, zero counterexamples in simple declarative clauses) provides robust evidence. The new existential negation pattern (*Og* + N) extends the negation system beyond verbal *maq*/*noq*.
 
 #### Capitalization as Prosodic Grammar
 
@@ -580,16 +681,53 @@ Shath'Yar uses prosodic emphasis (capitalized forms) where English uses separate
 
 | Feature | Analysis | Confidence |
 |---------|----------|------------|
-| Basic word order | SVO (declarative), V-initial (imperative) | **High** (43+ codable phrases; 10 SVO examples; zero counterexamples) |
+| Basic word order | SVO (declarative), V-initial (imperative) | **High** (55+ codable phrases; 12 SVO examples; zero counterexamples) |
 | Copula position | Between S and Pred (verb position) | Moderate–High |
-| Negation position | Between S and V (verb position) | Moderate–High |
+| Negation position | Verbal: between S and V; Existential: before noun | Moderate–High |
 | Possessor-Possessed | Possessor precedes Possessed | High |
 | Modifier-Noun | Modifier precedes Noun | High |
 | Auxiliary position | Between S and V | Moderate–High |
 | Future marking | Three-way system: *agth* (obligative), *gag* (emphatic), *qi'*/*wgah* (simple) | Low–Moderate |
-| Negation allomorphy | *maq* (3rd person) vs. *noq* (1st person) — or verbal vs. copular | Low–Moderate |
+| Negation system | Three-way: *og* (existential), *maq* (verbal 3rd person), *noq* (verbal 1st person) | Low–Moderate |
+| Pronoun case | Nominative *iilth* vs. accusative *ilfah* | Low–Moderate |
 | Clause combining | Primarily paratactic; *zz* = "and" coordinates VPs | Low–Moderate |
-| Locative fronting | PP-V-S (parallel to imperative verb-fronting) | Low–Moderate |
+| Locative fronting | PP-V-S and PP-S-V (pragmatic topic fronting) | Low–Moderate |
 | Prosodic emphasis | Capitalization = grammatical intensifier | Moderate–High |
 
-**Overall**: Shath'Yar is a consistent SVO language with rigid NP ordering (Possessor-Possessed, Modifier-Noun) and a fixed auxiliary position between subject and verb. The negation and copula occupy the same structural position as auxiliaries. The expanded syntactic coding (43+ codable phrases) upgrades confidence in SVO as the basic word order from Moderate–High to High. The most significant grammatical discoveries are the three-way auxiliary distinction (*agth* vs. *gag* vs. *qi'*/*wgah*), the systematic use of prosodic emphasis as a grammatical intensifier, locative fronting (PP-V-S) parallel to imperative verb-fronting, and the person-conditioned negation allomorphy (*maq* vs. *noq*) — features rarely found in natural languages but consistent with Shath'Yar's non-human, tentacular vocal apparatus.
+### Investigation 5: Three-Way Negation System — *og*, *maq*, *noq*
+
+The confirmed translations reveal three distinct negation elements, each with different syntactic distribution and possibly different semantic function:
+
+| Negation | Position | Context | Examples |
+|----------|----------|---------|----------|
+| *maq* | S-Neg-V (preverbal) | Verbal negation, 3rd person subject | *Ywaq maq oou* = "They do not die"; *Ywaq maq ssaggh* = "They do not live" |
+| *noq* | S-Neg-V (preverbal) | Verbal negation, 1st person subject | *Y'za noq mah* = "I am not the first"; *Y'za noq ormz* = "I am not the last" |
+| *og* | Neg-N (prenoun) | Existential/nominal negation | *Og h'iwn* = "No light"; *Og vormos* = "No escape" |
+
+#### Analysis
+
+The three negation elements show complementary distribution:
+
+1. **Verbal negation** uses *maq* or *noq*, placed between subject and verb — occupying the same structural position as the copula *ma* and the auxiliaries *agth*/*wgah*. The choice between *maq* and *noq* appears to be conditioned by person (3rd vs. 1st), though the copular vs. verbal distinction remains an alternative (see Investigation 4).
+
+2. **Existential/nominal negation** uses *og*, placed before a noun without a verb — producing a standalone negative NP meaning "no [N]". This is typologically common: many languages distinguish verbal negation ("I do not eat") from existential negation ("There is no food").
+
+3. The formal similarity between *og* (existential negation) and *ongg* ("earth/land" in *IIQAATH ONGG* = "CURSED EARTH") may be coincidental. If *ongg* = "earth" and *og* = "no/not", they are likely homophonous morphemes with different syntactic distributions. A connection via semantic extension ("earth/ground" → "nothingness/absence") is theoretically possible but speculative.
+
+#### Three Hypotheses
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Three distinct negation elements | *og* = existential, *maq* = verbal (3rd person), *noq* = verbal (1st person) — a split negation system conditioned by both syntactic context and person | **Low–Moderate** — the three elements have complementary distribution but only 6 total data points |
+| Two negation elements + homophony | *og* = existential negation; *maq*/*noq* = verbal negation (with person-conditioned allomorphy or copular vs. verbal distinction); *og* ≠ *ongg* | **Moderate** — cleanest analysis; separates existential from verbal negation without requiring *og* = *ongg* |
+| *og* = *ongg* with grammaticalization | "earth/ground" → "nothingness" → "no/not" via semantic bleaching; *maq*/*noq* remain verbal negation | **Very Low** — the semantic jump from "earth" to "no" is not attested in natural language grammaticalization pathways |
+
+The discovery of *og* as existential negation resolves a minor puzzle: the Storm's End phrase *Og h'iwn Og vormos* has no verb, unlike all previously coded phrases. The Neg-N pattern explains these as standalone negative NPs rather than defective clauses.
+
+**Confidence: Low–Moderate** for a three-way negation system. The existential *og* is supported by only 2 data points, but the complementary distribution with verbal *maq*/*noq* is clean. If *og* is confirmed by additional attestations, Shath'Yar would have one of the most elaborate negation systems of any WoW constructed language.
+
+#### Cross-Language Comparison
+
+No other WoW constructed language attests a three-way negation system. Darnassian uses a single negation strategy (ablaut *Andu*/*Endu* or prefix), Zandali uses pre-verbal *wa-*, and Orcish has no confirmed negation morpheme. The existential vs. verbal negation distinction is typologically common (English "there is no X" vs. "I do not X"; French *ne...pas* vs. *pas de*), but the person-conditioned verbal negation (*maq* vs. *noq*) is typologically rare and may reflect Shath'Yar's non-human grammar.
+
+**Overall**: Shath'Yar is a consistent SVO language with rigid NP ordering (Possessor-Possessed, Modifier-Noun) and a fixed auxiliary position between subject and verb. The negation and copula occupy the same structural position as auxiliaries. The expanded syntactic coding (55+ codable phrases) upgrades confidence in SVO as the basic word order from Moderate–High to High. The most significant grammatical discoveries are the three-way auxiliary distinction (*agth* vs. *gag* vs. *qi'*/*wgah*), the three-way negation system (*og* existential vs. *maq* verbal 3rd person vs. *noq* verbal 1st person), the systematic use of prosodic emphasis as a grammatical intensifier, locative fronting (PP-V-S / PP-S-V) parallel to imperative verb-fronting, and case distinction in the pronoun system (*iilth* nominative vs. *ilfah* accusative) — features rarely found in natural languages but consistent with Shath'Yar's non-human, tentacular vocal apparatus.

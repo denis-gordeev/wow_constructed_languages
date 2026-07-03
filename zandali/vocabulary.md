@@ -323,10 +323,10 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Wa'aru po | Fearing the dark | Hastily-Scribbled Note, Scrap of Singed Paper |
 | Watha-nekan | Cleanse us | Moldy Diary |
 | Weta-den | Cleanse him | Moldy Diary |
-| Shan'aten | Ashen pine | Moldy Diary | Commonly mistranslated as "Shadowpine" |
-| Basengo | Slashed tree | Moldy Diary | Commonly mistranslated as "Witherbark" |
-| Bwon'tulak | Death singer | Blood in the Tides quest | — |
-| Shera Ali'kh | Death's Hand | Zandalarian Shadow Talisman quest | — |
+| Shan'aten | Ashen pine (Moldy Diary; commonly mistranslated as "Shadowpine") | Moldy Diary |
+| Basengo | Slashed tree (Moldy Diary; commonly mistranslated as "Witherbark") | Moldy Diary |
+| Bwon'tulak | Death singer | Blood in the Tides quest |
+| Shera Ali'kh | Death's Hand | Zandalarian Shadow Talisman quest |
 
 ## Exclamations
 
@@ -640,4 +640,6 @@ These morpheme decompositions are proposed by the wiki community. None are offic
 | Zandalari | May be superlative of "Zandalar" meaning "holiest" | Making Zandalari trolls the "holiest trolls" due to their deep reverence for the loa | Very Low — speculative etymology |
 | -shi | Possibly role/elite suffix | Amani'shi (elite Amani force) | Very Low — single attestation |
 | Zufli | "Baby Witch" (RPG, non-canon) | Derogatory for female witch doctors; corruption of *Zul'* prefix | Very Low — RPG only; some females have taken it as a mark of pride |
+| Bwon' | "Death" / "Deceased" | Bwonsamdi (Loa of Death), Bwon'tulak ("Death singer") | Low–Moderate — two attestations with consistent semantics; /bw/ onset cluster is rare in Zandali; see grammar.md Investigation 7 |
+| tulak | "Singer" | Bwon'tulak ("Death singer") | Very Low — single attestation; confirmed translation from wiki |
 | Kaz'kah | "Death Totem" (RPG, non-canon) | — | Very Low — RPG only |

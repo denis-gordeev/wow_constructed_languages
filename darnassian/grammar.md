@@ -542,18 +542,19 @@ The expanded Darnassian place name corpus (34 additional proper nouns from warcr
 | Morpheme | Attestations | Inferred Meaning | Confidence |
 |----------|-------------|-------------------|------------|
 | *Aran* | Ameth'Aran, Bashal'Aran, Loreth'Aran, Morlos'Aran, Ordil'Aran, Shal'Aran, Tethris Aran | "Town / settlement" | Moderate–High (7 independent attestations; confirmed by wiki speculation; also in Biel'aran) |
-| *-naar* | Astranaar, Dolanaar, Sylvanaar, Satyrnaar | "Town / settlement" | Moderate (4 independent attestations; parallel to *Aran*) |
+| *-naar* | Astranaar, Dolanaar, Sylvanaar, Satyrnaar, Faronaar | "Town / settlement" | Moderate–High (5 independent attestations; parallel to *Aran*) |
 | *-thalas* | Eldre'Thalas, Nar'thalas, Quel'Thalas (Thalassian) | "Home / realm" | Moderate–High (confirmed in Thalassian *Quel'Thalas* = "High Home") |
 | *-dor* | Dor'Danil, Nor'Danil | Uncertain; possibly "earth" or a locative | Low (only 2 attestations) |
 | *Al-* / *Al'* | Al'ameth, Althalaxx, Aldrassil | Possibly "high" or "noble" (shared with *Quel*) | Very Low (could be coincidental) |
 
-**Aran vs. -naar**: The forms *Aran* and *-naar* both appear to mean "town/settlement" but differ phonologically. Seven attestations of *Aran* and four of *-naar* make this one of the best-attested Darnassian morphemes. Three hypotheses:
+**Aran vs. -naar**: The forms *Aran* and *-naar* both appear to mean "town/settlement" but differ phonologically. Seven attestations of *Aran* and five of *-naar* make this one of the best-attested Darnassian morphemes. Four hypotheses:
 
 1. **Allomorphy**: *Aran* and *-naar* are phonologically conditioned variants of the same morpheme. The vowel change /ɑ/ ↔ /ɑː/ and consonant metathesis /r...n/ ↔ /n...r/ could reflect dialectal or historical variation
 2. **Distinct morphemes**: *Aran* = "town" and *-naar* = "dwelling/place" with overlapping but distinct semantics
 3. **Historical development**: *Aran* is the older form; *-naar* results from a sound change /aran/ → /ɑːnɑr/ → /nɑr/ in suffix position, with the initial vowel absorbed into the preceding syllable
+4. **Phonologically conditioned allomorphy**: *-naar* appears only after vowel-final stems (Astra-, Dola-, Sylva-, Satyr-, Faro-) while *Aran* appears after consonant-final stems (Ameth', Bashal', Loreth', Morlos', Ordil', Shal') or as a separate word (Tethris Aran). This distribution is consistent with phonological conditioning: *-naar* is the form after vowels, *Aran* is the form after consonants. This is a cleaner analysis than the metathesis/vowel-lengthening story in Hypotheses 1 and 3, as it predicts the allomorph distribution without invoking ad hoc sound changes
 
-**Assessment**: Hypothesis 1 (allomorphy) is preferred at Moderate confidence (upgraded from Low–Moderate). The seven attestations of *Aran* and four of *-naar* make coincidence unlikely, and the shared /r/ and /n/ consonants and the semantic overlap are compelling. The phonological relationship is not straightforward, but the toponymic distribution (*Aran* as free form, *-naar* as bound suffix) is consistent with a single morpheme that underwent phonological reduction in suffix position.
+**Assessment**: Hypothesis 4 (phonologically conditioned allomorphy) is now preferred at Moderate confidence, as it accounts for the distribution of *Aran* vs. *-naar* without ad hoc sound changes. The seven attestations of *Aran* and five of *-naar* make coincidence unlikely, and the phonological conditioning (vowel-final → *-naar*, consonant-final → *Aran*) is exceptionless in the current corpus. Hypothesis 1 (general allomorphy) remains viable but is less explanatory. Overall investigation confidence is upgraded to **Moderate–High** given the clean phonological conditioning pattern.
 
 **Cross-elven significance**: *-thalas* "home/realm" is shared with Thalassian (*Quel'Thalas* = "High Home"), confirming it as a Proto-Elven toponymic morpheme. *Aran* "town" is attested only in Darnassian place names and may be a Darnassian innovation or a Proto-Elven morpheme lost in the other daughter languages.
 
@@ -568,6 +569,7 @@ The expanded Darnassian place name corpus (34 additional proper nouns from warcr
 - *Shal'Aran* (Nightfallen refuge in Suramar) is the 6th attestation of *Aran*; the *Shal* root here overlaps with Shalassian *Shal* (twilight/arcane), raising the possibility that *Shal'Aran* = "twilight town" rather than a separate morpheme
 - *Tethris Aran* (ruin in Darkshore) is the 7th attestation of *Aran*; the space rather than apostrophe is unusual and may reflect a different compounding pattern or a Common-language interpolation
 - *Satyrnaar* (satyr camp in Ashenvale) is the 4th attestation of *-naar*; the *Satyr* element may be a Common borrowing rather than native Darnassian
+- *Faronaar* (Legion fortress on the Broken Shore) is the 5th attestation of *-naar*; the Broken Shore was originally the night elven region *Thal'dranath*, making Faronaar a plausible night elven place name ending in *-naar*. Crucially, the stem *Faro-* is vowel-final, consistent with the Hypothesis 4 phonological conditioning pattern (*-naar* after vowels)
 - *Quel'Dormir* (Highborne gardens in Nazjatar) contains *Quel* = "noble/high" + *'Dormir* (unknown morpheme, possibly related to "sleep/dream")
 - *Rut'theran* (village at base of Teldrassil) contains the *ther* root also found in *Thero'shan* and *ilisar'thera'nal*
 - *Thas'talah* (night elven glade) contains *Thas* = "forest" (parallels Thalassian *Thas'alah* "Light of the Forest")
@@ -893,17 +895,30 @@ The phonological coincidence analysis is weakened by the observation that the *-
 
 **Confidence: Low–Moderate** for *-ah* as a Proto-Elven derivational suffix. The three independent cognate pairs are consistent with a unified analysis, and the semantic coherence (nominalizer/stative resultative) is typologically natural. However, the small sample (3 pairs) and the frequency of /a/ in word-final position leave open the possibility of coincidence. If additional *-ah* pairs are identified (e.g., a root *X* with both *X* and *Xah* attested), confidence would increase significantly.
 
+**Cross-reference**: *Thas'talah* (Investigation 15) provides another attestation context for the *-ah* suffix: if *talah* = *tal* "death" + *-ah* (nominalizer), then *Thas'talah* = "forest of death" is semantically coherent and adds to the *talah* attestation count. The structural parallel with Thalassian *Thas'alah* (*al* + *-ah*) further supports *-ah* as a productive nominalizer in the compounding pattern [*toponymic morpheme* + *nominalized root*].
+
 ### Investigation 15: The *Thas* Toponymic Morpheme — Cross-Elven "Forest" Element
 
 The expanded Darnassian place name corpus reveals *Thas* as a toponymic morpheme meaning "forest/woodland", previously attested only in Thalassian:
 
 | Language | Attestation | Context | Gloss |
 |----------|------------|---------|-------|
-| Darnassian | *Thas'talah* | Night elven glade | *Thas* = "forest" + *'talah* (unknown) |
+| Darnassian | *Thas'talah* | Night elven glade | *Thas* = "forest" + *'talah* = *tal* "death" + *-ah* (nominalizer) → "forest of death" |
 | Thalassian | *Thas'alah* | "Light of the Forest" | *Thas* = "forest" + *'alah* = "light" |
 | Thalassian | *Thas'dorah* | "Valor of the Forest" | *Thas* = "forest" + *'dorah* = "valor" |
 
 If *Thas* is genuinely Darnassian (not a Thalassian borrowing), it would confirm the morpheme as Proto-Elven rather than a Thalassian innovation. The name *Thas'talah* appears in an exclusively night elven context (no blood elf association), supporting native Darnassian usage.
+
+**Cross-reference with Investigation 14 (*-ah* suffix)**: The element *'talah* in *Thas'talah* is not opaque — it connects to the *-ah* nominalizer analyzed in Investigation 14. If *talah* = *tal* "death" + *-ah* (nominalizer), then *Thas'talah* = "forest of death" or "death-forest" — a semantically coherent name for a glade (cf. the "dark" or "haunted" connotations of many forested areas in WoW). This provides a complete translation for *Thas'talah* and an additional attestation context for the *-ah* suffix.
+
+**Structural parallel with Thalassian**: Both *Thas'talah* and Thalassian *Thas'alah* = "Light of the Forest" follow the same compounding pattern: *Thas'* + [*X*-ah form], where *X* is a root nominalized by *-ah*. This is consistent with a productive compounding pattern: [toponymic morpheme] + [nominalized root].
+
+| Compound | Pattern | Root *X* | *X* + *-ah* | Full Gloss |
+|----------|---------|-----------|-------------|------------|
+| *Thas'talah* | *Thas'* + *tal-ah* | *tal* "death" | *talah* "death" (nominalized) | "forest of death" |
+| *Thas'alah* | *Thas'* + *al-ah* | *al* "light" | *alah* "light/blessed" (nominalized) | "forest of light" / "Light of the Forest" |
+
+This parallel significantly strengthens both the *Thas* analysis and the *-ah* suffix analysis: two independent morphemes are supported by the same structural evidence.
 
 The relationship between *Thas* "forest" and *Thalas* "home/realm" is noteworthy: both begin with /θ/ + vowel + alveolar consonant + vowel + sibilant. Three hypotheses:
 
@@ -911,4 +926,4 @@ The relationship between *Thas* "forest" and *Thalas* "home/realm" is noteworthy
 2. **Thas as compound element**: *Thas* = *Thal* + *-as* where *Thal* relates to *Thalas* and *-as* is an unknown suffix
 3. **Coincidental similarity**: The phonological similarity is accidental; *Thas* "forest" and *Thalas* "home" are unrelated
 
-**Confidence: Low–Moderate** for *Thas* as a Darnassian toponymic morpheme. The Darnassian attestation (*Thas'talah*) is a single example, and the morpheme could be a Thalassian borrowing rather than a native cognate. However, the Thalassian evidence (2 independent compounds) is strong, and the cross-elven distribution would be consistent with Proto-Elven inheritance.
+**Confidence: Moderate** for *Thas* as a Darnassian toponymic morpheme (upgraded from Low–Moderate). The cross-reference with Investigation 14 provides a complete translation for *Thas'talah* ("forest of death"), and the structural parallel with Thalassian *Thas'alah* ("Light of the Forest") demonstrates a productive compounding pattern [*Thas'* + nominalized root]. While the Darnassian attestation remains a single example, the morpheme could be a Thalassian borrowing rather than a native cognate; however, the coherent semantics and cross-elven distribution are consistent with Proto-Elven inheritance.

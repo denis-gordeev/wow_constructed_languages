@@ -921,6 +921,31 @@ Since the Haranir are confirmed to descend from dark trolls/night elves (*The Ar
 
 Full analysis in darnassian/grammar.md Investigation 13.
 
+### Investigation 7: *Bwon'* Death Prefix
+
+Two Zandali names contain the element *Bwon'*:
+
+| Name | Context | Proposed Decomposition |
+|------|---------|----------------------|
+| *Bwonsamdi* | Loa of Death | *Bwon'* + *samdi* |
+| *Bwon'tulak* | "Death singer" | *Bwon'* + *tulak* |
+
+**Analysis**: *Bwon'* appears to be a death-related prefix meaning "death" or "deceased." In *Bwonsamdi* (the most prominent death loa), *Bwon'* + *samdi* = "death-[samdi]" where *samdi* may be a name or title element (possibly related to the real-world Haitian Vodou loa *Baron Samedi*, confirming deliberate Blizzard design inspiration). In *Bwon'tulak* = "Death singer" (a confirmed translation from the wiki), *Bwon'* + *tulak* = "death-[tulak]" where *tulak* = "singer."
+
+**Phonological note**: The /bw/ onset cluster is rare in Zandali (the language generally avoids complex onset clusters). This unusual phonotactics could indicate: (1) *Bwon'* is a borrowing from another language family, (2) the /bw/ cluster is specifically associated with death/void vocabulary (sound symbolism), or (3) *Bwon'* reflects an archaic Proto-Troll form that preserved a cluster lost elsewhere.
+
+**Three hypotheses**:
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Productive death prefix | *Bwon'* = "death" as a genuine Zandali morpheme used in compounding; parallels *Zul'* = "great" and *Atal'* = "devoted" as prefix elements | **Low–Moderate** (2 attestations with consistent semantics) |
+| Name-specific element | *Bwon'* appears only in names associated with Bwonsamdi's domain and is not productive outside death/loa nomenclature; similar to how *Baron* in "Baron Samedi" is not a general French prefix | **Low** |
+| Borrowed from Shath'Yar substrate | The /bw/ cluster and death semantics could reflect Shath'Yar influence on Zandali death vocabulary; *Bwon'* may derive from the same conceptual domain as Shath'Yar *shuul* = "death" | **Very Low** (no phonological correspondence between *Bwon'* and *shuul*; /bw/ is not characteristic of Shath'Yar) |
+
+Also note the connection between *Bwon'* and the broader pattern of death-related morphemes across WoW languages: compare Darnassian *tal* = "death", Shath'Yar *shuul* = "death", and Zandali *Bwon'* = "death" — if any of these reflect shared Proto-Troll-Elven vocabulary, it would have significant implications for the dark troll → night elf origin theory.
+
+**Confidence: Low–Moderate** for *Bwon'* as a genuine Zandali death prefix. Two attestations with consistent semantics is the minimum for identifying a morpheme; additional attestations in non-loa names would strengthen the analysis.
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar remain unattested and should not be assumed:
