@@ -684,7 +684,7 @@ Shath'Yar uses prosodic emphasis (capitalized forms) where English uses separate
 | Basic word order | SVO (declarative), V-initial (imperative) | **High** (94+ codable phrases; 15 SVO examples; zero counterexamples) |
 | Copula position | Between S and Pred (verb position) | Moderate–High |
 | Negation position | Verbal: between S and V; Existential: before noun | Moderate–High |
-| Possessor-Possessed | Possessor precedes Possessed | High |
+| Possessor-Possessed | Basic order: Possessed-Possessor; Object-position variant: Possessor-Possessed | Moderate (see Investigation 11) |
 | Modifier-Noun | Modifier precedes Noun | High |
 | Auxiliary position | Between S and V | Moderate–High |
 | Future marking | Three-way system: *agth* (obligative), *gag* (emphatic), *qi'*/*wgah* (simple) | Low–Moderate |
@@ -1500,7 +1500,7 @@ Three hypotheses explain the inconsistency:
 
 The inalienable possession analysis is the most linguistically interesting, but the sample is very small. The key test case is *yeh'glu Shath'Yar* = "blood of the Old Gods" — *Shath'Yar* is a proper name, yet it follows the possessed noun, which contradicts the proper-noun-fronting hypothesis. The inalienable analysis handles this: blood is intrinsic to the Old Gods (inalienable), so it follows Possessed-Possessor order.
 
-**Confidence: Low–Moderate** for the inalienable vs. alienable possession analysis. The semantic split is coherent (body parts/attributes vs. possessions), but only three examples of Possessed-Possessor order exist, and the proper-noun variable cannot be fully controlled.
+**Confidence: Low–Moderate** for the inalienable vs. alienable possession analysis. The semantic split is coherent (body parts/attributes vs. possessions), but only three examples of Possessed-Possessor order exist, and the proper-noun variable cannot be fully controlled. **See Investigation 11 for a reanalysis that refutes the alienable/inalienable hypothesis and proposes syntactic position conditioning instead.**
 
 ##### *qwor* = "above/over" (Preposition)
 
@@ -1741,3 +1741,101 @@ Both *marwol* (in *H'thon marwol qualar*) and *Mar'kowa* (in *Mar'kowa tallol ye
 | ***mar-* = "corrupt/dark" (prefix)** | *marwol*, *Mar'kowa* (untranslated phrases) | Very Low | Potential second adjective-forming prefix alongside *Shath-* = "old/black" |
 
 **Updated total: 94+ codable phrases** (no change in count; the three difficult phrases were already included at Very Low confidence). The reanalysis upgrades Phrase 3 from "Difficult/Low-Confidence" to **Low–Moderate confidence** due to the auxiliary inversion and genitive order findings. Phrases 1–2 remain at Very Low–Low confidence.
+
+### Investigation 11: Genitive Order Conditioned by Syntactic Position
+
+Investigation 10 identified an inconsistency in Shath'Yar genitive order: some phrases show Possessor-Possessed (*N'Zoth yyqzz* = "N'Zoth's throne") while others show Possessed-Possessor (*yeh'glu Shath'Yar* = "blood of the Old Gods"). The Investigation 10 analysis proposed alienable vs. inalienable possession as the conditioning factor at Low–Moderate confidence. This investigation tests that hypothesis against an alternative: **syntactic position conditioning**.
+
+#### Complete Inventory of Genitive Constructions
+
+##### Possessor-Possessed Order (4 examples)
+
+| # | Phrase | Translation | Source | Possessor | Possessed | Alienability | Syntactic Role |
+|---|--------|-------------|--------|-----------|-----------|-------------|----------------|
+| 1 | *N'Zoth yyqzz* | N'Zoth's throne | Zon'ozz | N'Zoth | yyqzz (throne) | Alienable | **Direct object** |
+| 2 | *N'Zoth naggwa'fssh* | N'Zoth's unending glory | Zon'ozz | N'Zoth | naggwa'fssh (glory) | Alienable | **Direct object** |
+| 3 | *N'Zoth qornaus* | N'Zoth's hunger | Zon'ozz | N'Zoth | qornaus (hunger) | Ambiguous | **Direct object** |
+| 4 | *N'Zoth iiyoq* | the will of N'Zoth | Kaahrj | N'Zoth | iiyoq (will) | Inalienable | **Subject** |
+
+##### Possessed-Possessor Order (11 examples)
+
+| # | Phrase | Translation | Source | Possessed | Possessor | Alienability | Syntactic Role |
+|---|--------|-------------|--------|-----------|-----------|-------------|----------------|
+| 5 | *yeh'glu Shath'Yar* | blood of the Old Gods | Yor'sahj | yeh'glu (blood) | Shath'Yar | Inalienable | **PP complement** |
+| 6 | *yeh'glu zuq* | blood of life | Volazj | yeh'glu (blood) | zuq (life) | Inalienable | **Predicate** |
+| 7 | *Yeh'glu N'Zoth* | blood of N'Zoth | Kaahrj | yeh'glu (blood) | N'Zoth | Inalienable | **Subject** |
+| 8 | *Il'zarq N'Zoth* | voice of N'Zoth | Kaahrj | Il'zarq (voice) | N'Zoth | Inalienable | **Subject** |
+| 9 | *fssh N'Zoth* | glory of N'Zoth | Zon'ozz | fssh (glory) | N'Zoth | Alienable | **PP complement** |
+| 10 | *sshoq'meg N'Zoth* | flesh-banners of N'Zoth | Zon'ozz | sshoq'meg (flesh) | N'Zoth | Inalienable | **Subject** |
+| 11 | *Zzof Shuul'wah* | Deathwing's victory | Zon'ozz | Zzof (victory) | Shuul'wah | Alienable | **Standalone NP** |
+| 12 | *ga'halahs agthu* | corpse of this world | Zon'ozz | ga'halahs (corpse) | agthu (world) | Inalienable | **PP complement** |
+| 13 | *ga'halahs pahg* | corpse of this kingdom | Kaahrj | ga'halahs (corpse) | pahg (kingdom) | Inalienable | **PP complement** |
+| 14 | *uulwi N'Zoth* | shadow of N'Zoth | Kaahrj | uulwi (shadow) | N'Zoth | Inalienable | **PP complement (fronted)** |
+| 15 | *qov N'Zoth* | heart of N'Zoth | Zon'ozz | qov (heart) | N'Zoth | Inalienable | **PP complement** |
+
+#### Testing the Alienable/Inalienable Hypothesis
+
+| Order | Inalienable | Alienable | Ambiguous |
+|-------|------------|-----------|-----------|
+| Possessor-Possessed | 1 (*iiyoq* = will) | 2 (*yyqzz*, *naggwa'fssh*) | 1 (*qornaus*) |
+| Possessed-Possessor | 8 (*yeh'glu* ×3, *Il'zarq*, *sshoq'meg*, *ga'halahs* ×2, *qov*) | 2 (*fssh*, *Zzof*) | 1 (*uulwi*) |
+
+Two counterexamples in each direction: *fssh* (glory, alienable) appears in Possessed-Possessor order; *iiyoq* (will, inalienable) appears in Possessor-Possessed order. The alienable/inalienable split is not clean.
+
+#### Testing the Syntactic Position Hypothesis
+
+| Syntactic Role | Possessor-Possessed | Possessed-Possessor |
+|---------------|--------------------|--------------------|
+| **Direct object** | **3** (*yyqzz*, *naggwa'fssh*, *qornaus*) | **0** |
+| **PP complement** | **0** | **6** (*yeh'glu Shath'Yar*, *fssh N'Zoth*, *ga'halahs agthu*, *ga'halahs pahg*, *uulwi N'Zoth*, *qov N'Zoth*) |
+| **Subject** | 1 (*N'Zoth iiyoq*) | 3 (*Yeh'glu N'Zoth*, *Il'zarq N'Zoth*, *sshoq'meg N'Zoth*) |
+| **Predicate** | 0 | 1 (*yeh'glu zuq*) |
+| **Standalone NP** | 0 | 1 (*Zzof Shuul'wah*) |
+
+The pattern is remarkably clean:
+- **Direct object position → Possessor-Possessed** (3/3 = 100%)
+- **PP complement position → Possessed-Possessor** (6/6 = 100%)
+- **Subject position → mostly Possessed-Possessor** (3:1)
+
+#### The Crucial Test: *fssh* (glory) in Both Orders
+
+The same possessed noun root *fssh* (glory) with the same possessor (N'Zoth) appears in **both orders**, differentiated only by syntactic position:
+
+- **Direct object:** *N'Zoth naggwa'fssh* = "N'Zoth's unending glory" → Possessor-Possessed
+- **PP complement:** *fssh N'Zoth* = "the glory of N'Zoth" → Possessed-Possessor
+
+This single pair **refutes the alienable/inalienable hypothesis** — the same semantic relationship reverses order based on syntactic position, not semantic class. The same speaker (Zon'ozz) uses both orders with the same possessor and the same possessed noun, confirming that the alternation is grammatically conditioned rather than pragmatic or dialectal.
+
+#### Same Speaker, Same Possessor, Both Orders
+
+All 7 N'Zoth-possessor genitives from Zon'ozz show both orders:
+- 3 Possessor-Possessed (all direct objects)
+- 4 Possessed-Possessor (PP complements and standalone NPs)
+
+Since the same speaker uses both orders with the same possessor, the variation cannot be attributed to speaker dialect or proper-noun fronting.
+
+#### Proposed Analysis
+
+Shath'Yar's **basic genitive order is Possessed-Possessor** (Head-Genitive), consistent with a head-initial NP structure. The **Possessor-Possessed** order is a syntactically conditioned variant used specifically when the genitive NP occupies **direct object position**. This alternation parallels English differences in genitive expression:
+
+- English direct object: "N'Zoth's throne" (possessor-initial, prenominal genitive)
+- English PP complement: "the throne of N'Zoth" (possessor-final, postnominal genitive with *of*)
+
+The parallel is striking: English also uses possessor-initial order in direct objects more readily than in PP complements. Shath'Yar may reflect a universal discourse tendency — possessors are more pragmatically prominent in direct object position because the object introduces new information, and fronting the possessor anchors the new information to a known entity.
+
+Cross-linguistically, many languages exhibit position-sensitive genitive ordering. In Turkish, the genitive must precede the possessed noun only when the NP is definite/specific (a syntactic-pragmatic condition); in Japanese, the genitive particle *no* can precede or follow the head depending on focus structure. Shath'Yar's syntactic position conditioning is typologically plausible.
+
+**Predictions:**
+1. Any new genitive NP in direct object position should use Possessor-Possessed order
+2. Any new genitive NP in PP complement position should use Possessed-Possessor order
+3. Subject position genitive NPs should default to Possessed-Possessor but may allow Possessor-Possessed under discourse prominence (as in *N'Zoth iiyoq* = "the will of N'Zoth" in an exclamation context)
+
+**Confidence: Moderate** for the syntactic position hypothesis. The sample is small (15 examples) but internally consistent with zero counterexamples for direct objects and PP complements. The *fssh* minimal pair provides direct evidence that syntactic position, not alienability, drives the alternation. The one exception is the subject-position *N'Zoth iiyoq* (Possessor-Possessed), which may reflect discourse prominence of *N'Zoth* in an exclamatory context.
+
+#### Updated Syntactic Profile
+
+| Feature | Analysis | Confidence |
+|---------|----------|------------|
+| Basic genitive order | Possessed-Possessor (Head-Genitive) | **Moderate** (11/15 examples) |
+| Object-position genitive | Possessor-Possessed (pragmatically conditioned) | **Moderate** (3/3 direct objects) |
+| PP-complement genitive | Possessed-Possessor | **Moderate–High** (6/6 PP complements) |

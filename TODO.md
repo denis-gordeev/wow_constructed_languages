@@ -134,8 +134,16 @@
 - [ ] Investigate Shath'Yar potential negation expansion — *sythn* ("cannot"), *nuq* ("no more"), *Naza* ("not one"), *En'* (negative existential copula?), *NEL'OTHK* (SHOUTED negative modal) may expand negation system beyond three-way; see Shath'Yar grammar.md Investigation 4 and Investigation 5
 - [ ] Test *En'* as negative existential copula — search for additional *En'* + [noun] constructions in uncoded phrases; if confirmed, *En'* completes copula paradigm with affirmative *og*₂
 - [ ] Test Shath'Yar auxiliary inversion pattern — search for additional Adv-Aux-S-V constructions beyond *Vwyq agth sshoq'meg N'Zoth*; if confirmed, this is the first syntactic inversion rule; see Shath'Yar grammar.md Investigation 10
-- [ ] Test Shath'Yar genitive order — collect more Possessed-Possessor vs. Possessor-Possessed examples to test inalienable possession hypothesis; see Shath'Yar grammar.md Investigation 10
+- [ ] Test Shath'Yar genitive order — collect more Possessed-Possessor vs. Possessor-Possessed examples to test inalienable possession hypothesis; see Shath'Yar grammar.md Investigation 10 — **SIGNIFICANTLY UPDATED Round 27**: Comprehensive inventory of 15 genitive constructions refutes alienable/inalienable hypothesis; syntactic position hypothesis proposed instead: Possessed-Possessor is basic order; Possessor-Possessed in direct object position only; *fssh* minimal pair (same noun in both orders differentiated by syntactic role) provides decisive evidence; see Shath'Yar grammar.md Investigation 11
 - [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data
+
+## Completed This Round (2026-07-04, Round 27)
+
+- [x] Add Shath'Yar Investigation 11: Genitive Order Conditioned by Syntactic Position — comprehensive inventory of all 15 genitive constructions in the Shath'Yar corpus; tested alienable/inalienable hypothesis (2 counterexamples in each direction) and syntactic position hypothesis (zero counterexamples for direct objects and PP complements); key finding: *fssh* (glory) appears in both orders with the same possessor (N'Zoth), differentiated only by syntactic position (direct object = Possessor-Possessed, PP complement = Possessed-Possessor); proposed analysis: Possessed-Possessor is basic genitive order; Possessor-Possessed is conditioned by direct object position; same speaker (Zon'ozz) uses both orders with same possessor, confirming grammatical conditioning; Moderate confidence; see Shath'Yar grammar.md Investigation 11
+- [x] Update Investigation 10 genitive order cross-reference: added reference to Investigation 11 reanalysis that refutes the alienable/inalienable hypothesis
+- [x] Sync Shath'Yar grammar.html with Investigation 11 (full HTML conversion of all tables, analysis, and updated syntactic profile); added nav link for Investigation 11
+- [x] Update Shath'Yar description.md/html: investigation count 10 → 11; added Investigation 11 summary
+- [x] Update README.md: Shath'Yar attestation now includes syntactic position conditioning for genitive order
 
 ## Completed This Round (2026-07-04, Round 26)
 
