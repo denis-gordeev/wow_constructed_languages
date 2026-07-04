@@ -688,7 +688,7 @@ Shath'Yar uses prosodic emphasis (capitalized forms) where English uses separate
 | Modifier-Noun | Modifier precedes Noun | High |
 | Auxiliary position | Between S and V | Moderate–High |
 | Future marking | Three-way system: *agth* (obligative), *gag* (emphatic), *qi'*/*wgah* (simple) | Low–Moderate |
-| Negation system | Multi-way: *og* (existential particle), *maq* (verbal 3rd person), *noq* (verbal 1st person), *En'* (negative existential copula?), *sythn* (negative modal "cannot"?), *NEL'OTHK* (negative modal SHOUTED?) | Low–Moderate for three-way core; Very Low–Low for extensions |
+| Negation system | Multi-way: *og*₁ (existential particle), *maq* (verbal 3rd person), *noq* (verbal 1st person), *En'* (negative existential copula?), *sythn* (negative modal "cannot"?), *NEL'OTHK* (negative modal SHOUTED?); *og*₂ (affirmative existential "there is"?) homophonous with *og*₁ negation — see Investigation 8 | Low–Moderate for three-way core; Very Low–Low for extensions; Low for *og*₂ |
 | Pronoun case | Nominative *iilth* vs. accusative *ilfah* | Low–Moderate |
 | Pragmatic fronting | Locative, temporal, and wh-fronting (PP-V-S, PP-S-V, PP-V-O, Wh-Copula-Pred); all are topic fronting, not syntactic rearrangement | Low–Moderate |
 | Relative clauses | Juxtaposed, no overt relativizer | Very Low–Low |
@@ -716,6 +716,8 @@ The three negation elements show complementary distribution:
 2. **Existential/nominal negation** uses *og*, placed before a noun without a verb — producing a standalone negative NP meaning "no [N]". This is typologically common: many languages distinguish verbal negation ("I do not eat") from existential negation ("There is no food").
 
 3. The formal similarity between *og* (existential negation) and *ongg* ("earth/land" in *IIQAATH ONGG* = "CURSED EARTH") may be coincidental. If *ongg* = "earth" and *og* = "no/not", they are likely homophonous morphemes with different syntactic distributions. A connection via semantic extension ("earth/ground" → "nothingness/absence") is theoretically possible but speculative.
+
+4. **Homophony with affirmative *og*₂**: The morpheme *og* also appears in affirmative contexts (*Shuul og i agthu* = "There is a great truth") where it cannot mean "no" — see Investigation 8 for full analysis. If *og*₂ = "there is" (affirmative existential copula), then *og*₁ (negation) and *og*₂ (existential) are homophonous morphemes that form part of a larger copula/existential paradigm alongside *ma* (predicative copula) and *En'* (negative existential).
 
 #### Three Hypotheses
 
@@ -1216,3 +1218,109 @@ The idiomatic translation hypothesis (2) is the most parsimonious. If *sythn* = 
 However, the dual function hypothesis (1) cannot be ruled out. If *sythn* has grammaticalized different meanings before different complement types, this would parallel English "going to" (future intention before verbs: "going to eat" vs. progressive before adjectives: "going mad"). The difference is that English "going to" has a unifiable core meaning ("movement toward"), while *sythn* = "cannot" and *sythn* = "becoming" lack an obvious shared core.
 
 **Confidence: Low–Moderate** for the idiomatic translation hypothesis (*sythn* = "cannot" throughout). Additional attestations of *sythn* in different syntactic contexts would help resolve this.
+
+### Investigation 8: *og* Homophony — Existential Negation vs. Affirmative Existential
+
+The morpheme *og* appears in six attested contexts with apparently incompatible semantics — two clearly negative and one clearly affirmative. This creates a significant homophony problem.
+
+#### Complete Attestation Table
+
+| # | Phrase | Translation | *og* Context | Proposed Gloss |
+|---|--------|-------------|--------------|----------------|
+| 1 | *Og h'iwn* | "No light" | Standalone Neg-N phrase | *og* = "no" (existential negation) |
+| 2 | *Og vormos* | "No escape" | Standalone Neg-N phrase | *og* = "no" (existential negation) |
+| 3 | *Shuul og i agthu yrr sk'uuyat uulwi* | "There is a great and terrible truth at the beginning of all things" | Affirmative sentence-initial | *og* = "there is" (existential copula) or "in/at" (preposition) |
+| 4 | *Gag yoh'ghyl og hoq uul'gwa gag Ez yyqzz huqth* | "You struggle at the surface... but He waits below" | Clause-internal | *og* = "at/on" (preposition) or "no" (negation) |
+| 5 | *Za uul og nuq i fssh zz oou iiyoq ez oou gul'kafh anagg* | "My fall is but a beat in the heart of the infinite abyss" | Clause-internal | *og* = "is" (copula) or "in" (preposition) |
+| 6 | *Log'loth og shandai* | (untranslated) | Unknown | — |
+
+#### The Problem
+
+Attestations 1–2 unambiguously show *og* = existential negation "no", producing standalone negative NPs (*Og* + N = "no [N]"). Attestation 3 unambiguously requires an **affirmative** reading — *Shuul og i agthu* must mean "There IS a great truth", not "There is NO great truth." If *og* were exclusively a negation particle, attestation 3 would contradict the translation. The conflict is irresolvable under a single-meaning analysis.
+
+Attestation 5 is also problematic for a negation reading: *Za uul og nuq* = "My fall is but a beat" is affirmative — "My fall is NOT a beat" would contradict the English.
+
+#### Five Hypotheses
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| **Two homophonous morphemes: *og*₁ = negation, *og*₂ = existential copula** | *og*₁ = "no" in Neg-N phrases (attestations 1–2); *og*₂ = "there is" in affirmative existential constructions (attestation 3). This creates a four-element existential system: *ma* (predicative copula "is/are"), *og*₂ (affirmative existential "there is"), *En'* (negative existential "there is not"), *og*₁ (existential negation particle "no") | **Low–Moderate** — typologically plausible; creates an elegant copula paradigm; but only one clear attestation of *og*₂ |
+| **Two homophonous morphemes: *og*₁ = negation, *og*₂ = locative preposition** | *og*₁ = "no" in Neg-N phrases; *og*₂ = "in/at" as a locative preposition. Attestation 3: "Death/truth IN all things" → idiomatic "There is a great truth in all things." Attestation 5: "My fall [in] the abyss" | **Low–Moderate** — typologically plausible; avoids positing an affirmative copula identical to negation; but the locative reading of attestation 3 is less natural than the existential reading |
+| **Three homophonous morphemes** | *og*₁ = "no" (negation), *og*₂ = "there is" (existential copula), *og*₃ = "in/at" (preposition) — each form is an independent morpheme | **Very Low–Low** — three-way homophony is typologically unlikely |
+| **Highly idiomatic translation** | *og* = negation throughout; the English translations are so idiomatic that the apparent affirmative readings are misleading. *Shuul og i agthu* literally = "Death NO [i agthu]" but idiomatically = "There is a great truth" via some unknown rhetorical convention | **Very Low** — requires Shath'Yar to use negation to express affirmation, which is typologically rare and pragmatically incoherent for the Mote of Cosmic Truth sermon |
+| **Blizzard inconsistency** | The translations are inconsistent; *og* has no coherent meaning across contexts | **Low** — possible but dismissive; the corpus shows high internal consistency elsewhere |
+
+#### Analysis
+
+The two-homophonous-morpheme analysis is the most defensible. The key question is whether *og*₂ is an existential copula or a locative preposition:
+
+**Evidence for existential copula (*og*₂ = "there is")**:
+- Attestation 3: *Shuul og i agthu* = "There is a great truth" — the existential copula reading is the most natural: "There-exists [a] great truth at the beginning of all things"
+- Attestation 5: *Za uul og nuq* = "My fall is but a beat" — the copula reading works: "My fall [is] [but] a beat"
+- Creates an elegant copula paradigm with *En'*: *og*₂ = "there is" (affirmative existential) vs. *En'* = "there is not" (negative existential), paralleling *ma* = "is" (affirmative predicative) vs. *maq*/*noq* (verbal negation)
+- Typologically common: many languages distinguish predicative copulas from existential constructions (English: "The sky is blue" vs. "There is a sky"; Spanish: *es* vs. *hay*; Mandarin: *shì* vs. *yǒu*)
+
+**Evidence for locative preposition (*og*₂ = "in/at")**:
+- Attestation 4: *og hoq uul'gwa* in "You struggle at the surface" — the locative reading is more natural than the existential: "at [the] surface" or "at me [on] the surface"
+- Attestation 5: *za uul og nuq* = "My fall [in] the abyss [of] a beat" — locative reading is coherent
+- Attestation 6: *Log'loth og shandai* = "Children [at/in] eternity" — locative is coherent (if *Log'loth* = "children" as in *Log'loth w'oq Ongg!* = "Children, come and feed!")
+
+**Assessment**: The existential copula reading is more elegant grammatically (completing the copula paradigm), while the locative reading is more natural for attestations 4 and 6. A hybrid analysis — where *og*₂ functions as both existential copula and locative preposition — is typologically plausible: English "there" serves both functions ("There is a cat" = existential; "The cat is there" = locative), and Chinese *zài* (在) functions as both existential and locative.
+
+If *og*₂ = "there is" (existential) with secondary locative function "in/at", this would unify attestations 3–5 under a single morpheme with a core meaning of "existence/presence in a location" that extends to both existential and locative contexts.
+
+#### Proposed Shath'Yar Copula/Existential System
+
+If both *og*₂ and *En'* are confirmed, Shath'Yar would have a four-way copula/existential system:
+
+| Function | Element | Position | Example |
+|----------|---------|----------|---------|
+| Affirmative predicative copula | *ma* | Between S and Pred | *Ywaq ma phgwa'cul* = "They are the whisper" |
+| Affirmative existential | *og*₂ | Before N (predicate position) | *Shuul og i agthu* = "There is a great truth" |
+| Negative existential copula | *En'* | Before N (predicate position) | *En'othk* = "There is no light" (*En'* + *othk*) |
+| Existential negation particle | *og*₁ | Before N (particle position) | *Og h'iwn* = "No light" |
+
+The affirmative existential *og*₂ and the negative existential *En'* would form a direct paradigmatic pair ("there is" vs. "there is not"), while the predicative copula *ma* and the verbal negation *maq*/*noq* form a different paradigmatic pair. The existential negation particle *og*₁ (*Og h'iwn* = "No light") occupies a different structural position — forming bare negative NPs rather than full clauses — and is homophonous with *og*₂.
+
+This system is typologically natural: many languages distinguish predicative copulas from existential constructions and have different negation strategies for each (cf. Spanish *es*/*no es* vs. *hay*/*no hay*; Finnish *on*/*ei ole* vs. *on*/*ei ole* with different word order).
+
+**Confidence: Low–Moderate** for *og*₂ as a genuine morpheme distinct from *og*₁. The affirmative attestation (3) clearly requires a non-negation reading, but only one context provides unambiguous evidence. Additional attestations of *og* in affirmative contexts would strengthen the analysis. The relationship between *og*₂ and *En'* (affirmative vs. negative existential) is especially significant — if confirmed, it would resolve the *og* homophony and complete the copula paradigm simultaneously.
+
+### Investigation 9: *-ka* — Privative Suffix in Shath'Yar?
+
+The word *mazzka* in *Poq'yith mazzka awan ki uhnish'philfgsh* = "The crooked serpent with no eyes is watching from the endless sky" may contain a privative suffix *-ka* = "without". If *mazz* = "eye" and *-ka* = "without", then *mazzka* = "eyeless" = "without eyes", and the phrase *Poq'yith mazzka* = "the crooked eyeless serpent".
+
+#### Alternative Decompositions
+
+| Decomposition | Meaning | Assessment |
+|---------------|---------|------------|
+| *mazz* + *-ka* = "eye" + "without" | "Eyeless / without eyes" | **Low** — only 1 attestation; *mazz* unattested elsewhere |
+| *mazzk* + *-a* = [stem] + noun suffix | "Eyeless-one" or compound adjective | **Low** — *-a* noun suffix unattested in Shath'Yar |
+| *mazzka* = monomorphemic | "Eyeless" as a single lexical item | **Low–Moderate** — most conservative analysis; no morphological decomposition required |
+
+#### Cross-Language *-ka* Comparison
+
+The phonological sequence *-ka* appears as a potential suffix across multiple WoW constructed languages, raising the question of whether these reflect genuine cognates or Blizzard design convergence:
+
+| Language | Form | Proposed Function | Attestations | Confidence |
+|----------|------|-------------------|-------------|------------|
+| Shath'Yar | *-ka* | Privative "without" | 1 (*mazzka*) | Low |
+| Hara'ni | *-ka* / *-kah* | Agentive/personification "entity of [X]" | 3 (*Shul'ka*, *Morta'ka*, *Lu'kah*) | Low–Moderate |
+| Zandali | *-aka* | "Daughter of" (filiation) | 1+ (*Ohgan'aka*) | Moderate |
+| Zandali | *-kah* | "Mask/totem" (speculative) | 2 (*Rush'kah*, *Kaz'kah*) | Very Low |
+| Orcish | *-ka* | "Meeting/to you" (uncertain) | 1 (*Throm-ka*) | Low |
+| Nerubian | *-kahet* | "Kingdom/realm" | 2 (*Ahn'kahet*, *Azj-Kahet*) | Moderate–High |
+| Taur-ahe | *-ka* | Diminutive? (uncertain) | 2 (*Arikara*, *Owatanka*) | Very Low |
+| Darnassian | *-ka* | Unknown (untranslated *ash'ka*) | 1 | Very Low |
+
+The cross-language distribution suggests *-ka* is a widespread derivational element in Blizzard's naming conventions. However, the semantic functions differ significantly across families:
+- **Shath'Yar** (alien/Old God): privative "without"
+- **Hara'ni** (deeply divergent elven/troll): agentive/personification
+- **Zandali** (troll): filiation/kinship
+- **Nerubian** (Aqir-descended): place/kingdom
+
+Genuine cognacy is most plausible within the troll family (Hara'ni and Zandali), where *-ka* may reflect Proto-Troll inheritance. The Shath'Yar *-ka* is unlikely to be cognate with troll-family *-ka* — Shath'Yar has no confirmed genetic relationship with any mortal language, and the semantic divergence (privative vs. agentive) is substantial. The nerubian *-kahet* may contain *-ka-* as a historical element, but the additional *-het* suffix makes the connection uncertain.
+
+**Assessment**: The *-ka* in *mazzka* most likely reflects either (a) a genuine Shath'Yar privative suffix with no cross-family cognates, or (b) a monomorphemic lexical item "eyeless" that happens to end in *-ka*. Without additional attestations of *-ka* as a privative in Shath'Yar, the analysis remains speculative. The cross-language *-ka* pattern is more likely Blizzard design convergence (a productive syllable used in suffix-like positions across many WoW naming systems) than evidence of genetic relationship across the alien/troll/Aqir language families.
+
+**Confidence: Very Low–Low** for *-ka* as a genuine privative suffix in Shath'Yar. The single attestation is insufficient to establish a morpheme — *mazzka* may simply be a monomorphemic word meaning "eyeless" or "blind." The cross-language comparison does not support cognacy given the semantic and genetic distances involved.

@@ -401,7 +401,8 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | uq | power | *Uq naggwa* = "Power unrelenting" | **Low–Moderate** |
 | vwahuhn | reckoning | *ak'uq shg'cul vwahuhn* = "our power beyond reckoning" | **Low–Moderate** |
 | zaix | praise | *H'iwn zaix Shuul'wah* = "All praise Deathwing"; *wgah zaix* = "will echo/praise" | **Low–Moderate** |
-| og | no/not (existential negation) | *Og h'iwn* = "No light"; *Og vormos* = "No escape" | **Low–Moderate** — existential/nominal negation distinct from verbal *maq*/*noq*; see grammar.md Investigation 5 |
+| og₁ | no/not (existential negation) | *Og h'iwn* = "No light"; *Og vormos* = "No escape" | **Low–Moderate** — existential/nominal negation distinct from verbal *maq*/*noq*; see grammar.md Investigation 5 |
+| og₂ | there is (affirmative existential copula) / in/at (locative) | *Shuul og i agthu* = "There is a great truth"; *Za uul og nuq* = "My fall is but a beat" | **Low** — homophonous with *og*₁ negation; required by affirmative contexts in Mote of Cosmic Truth and Storm's End phrases; see grammar.md Investigation 8 |
 | En' | there is not / is not (negative existential copula) | *En'othk uulg'shuul* = "There is no light after death"; *En'* + *othk* = "there is not light" | **Low–Moderate** — parallels affirmative copula *ma* = "is/are"; occupies predicate position unlike particle *og*; see grammar.md Investigation 5 |
 | othk | light | *En'othk* = "no light" (*En'* + *othk*) | **Low** — single attestation; decomposition not confirmed |
 
