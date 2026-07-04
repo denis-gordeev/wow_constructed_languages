@@ -383,7 +383,7 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | mah | first | *qi mah'shar* = "be the first" | **Low–Moderate** |
 | ormz | last | *Y'za noq ormz* = "I am not the last" | **Low–Moderate** |
 | aqev | mad | *Iilth sythn aqev* = "You are going mad" | **Low–Moderate** |
-| sythn | cannot / becoming | *Y'za sythn oou* = "I cannot die" | **Low–Moderate** |
+| sythn | cannot / becoming | *Y'za sythn oou* = "I cannot die"; *Iilth sythn aqev* = "You are going mad" | **Low–Moderate** — primary meaning likely "cannot"; *Iilth sythn aqev* may be idiomatic for "You cannot resist madness" → "You are going mad"; see grammar.md Investigation 7 |
 | uhn | many | *uhn'agth* = "many shall" | **Low** |
 | uhnish | endless | *Ak'agthshi ma uhnish* = "Our numbers are endless" | **Low–Moderate** |
 | qwaz | this | *qwaz...* = "this..." | **Low** |
@@ -393,7 +393,7 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | wah | wing | *Shuul'wah* = "Death-wing" | **Moderate** |
 | erh | choke | *erh'ongg* = "choke [for eternity]"; root of *erh'ongg* | **Low–Moderate** |
 | fash | betrayal | *Uhn'agh Fash* = "the Darkest Betrayal" (dagger name) | **Low–Moderate** |
-| gul'kafh | gaze | *Gul'kafh an'shel* = "Gaze into the void"; *Gul'kafh an'qov N'Zoth* = "Gaze into the heart of N'Zoth" | **Moderate–High** |
+| gul'kafh | gaze | *Gul'kafh an'shel* = "Gaze into the void"; *Gul'kafh an'qov N'Zoth* = "Gaze into the heart of N'Zoth"; *Oou gul'kafh lal lwhuk!* = "The outbreak has begun!"; *...ywaq gul'kafh* = "...your inconsequence" | **Moderate–High** for "gaze" as primary meaning; idiomatic extensions to "manifest/begin" and deverbal noun "that which is gazed upon/nothingness"; see grammar.md Investigation 6 |
 | tek | skull(s) | *sk'tek* = "your skulls"; *Sk'tek agth nuq* = "Your skulls shall adorn" | **Moderate** |
 | uuyat | agony | *sk'uuyat* = "your agony"; *Sk'uuyat guulphg hoq* = "Your agony sustains me" | **Moderate** |
 | shel | void | *an'shel* = "into the void" | **Low–Moderate** |

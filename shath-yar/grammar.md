@@ -134,7 +134,7 @@ The confirmed translations now provide enough data for preliminary syntactic ana
 
 ### Word Order
 
-Shath'Yar appears to use **predominantly SVO** order in declarative clauses, with verb-initial order in imperative/exclamatory clauses — see Investigation 4 for full systematic analysis (77+ codable phrases):
+Shath'Yar appears to use **predominantly SVO** order in declarative clauses, with verb-initial order in imperative/exclamatory clauses — see Investigation 4 for full systematic analysis (94+ codable phrases):
 
 1. **VSO pattern**: *Sk'shuul agth vorzz N'Zoth naggwa'fssh* = "Your deaths shall sing of N'Zoth's unending glory" (Subject *Sk'shuul* + Auxiliary *agth* + Verb *vorzz* + Object)
 2. **Possessor-Possessed**: *N'Zoth yyqzz* = "N'Zoth's throne" (Possessor + Possessed noun)
@@ -284,7 +284,7 @@ The allophonic analysis is the most parsimonious. *iilth* /iːlθ/ with a long v
 
 ### Investigation 4: Syntactic Pattern Analysis — Word Order, Auxiliaries, and Clause Structure
 
-With 56+ confirmed phrases, Shath'Yar has by far the richest attested corpus of any WoW constructed language. This investigation systematically analyzes word order, the auxiliary verb system, negation, and clause combining across the confirmed translations. 77+ phrases have been syntactically coded as of Round 23.
+With 56+ confirmed phrases, Shath'Yar has by far the richest attested corpus of any WoW constructed language. This investigation systematically analyzes word order, the auxiliary verb system, negation, and clause combining across the confirmed translations. 94+ phrases have been syntactically coded as of Round 24.
 
 #### Word Order Coding
 
@@ -681,7 +681,7 @@ Shath'Yar uses prosodic emphasis (capitalized forms) where English uses separate
 
 | Feature | Analysis | Confidence |
 |---------|----------|------------|
-| Basic word order | SVO (declarative), V-initial (imperative) | **High** (55+ codable phrases; 12 SVO examples; zero counterexamples) |
+| Basic word order | SVO (declarative), V-initial (imperative) | **High** (94+ codable phrases; 15 SVO examples; zero counterexamples) |
 | Copula position | Between S and Pred (verb position) | Moderate–High |
 | Negation position | Verbal: between S and V; Existential: before noun | Moderate–High |
 | Possessor-Possessed | Possessor precedes Possessed | High |
@@ -690,11 +690,12 @@ Shath'Yar uses prosodic emphasis (capitalized forms) where English uses separate
 | Future marking | Three-way system: *agth* (obligative), *gag* (emphatic), *qi'*/*wgah* (simple) | Low–Moderate |
 | Negation system | Multi-way: *og* (existential particle), *maq* (verbal 3rd person), *noq* (verbal 1st person), *En'* (negative existential copula?), *sythn* (negative modal "cannot"?), *NEL'OTHK* (negative modal SHOUTED?) | Low–Moderate for three-way core; Very Low–Low for extensions |
 | Pronoun case | Nominative *iilth* vs. accusative *ilfah* | Low–Moderate |
-| Pragmatic fronting | Locative and temporal PP fronting (PP-V-S, PP-S-V, PP-V-O); both are topic fronting, not syntactic rearrangement | Low–Moderate |
+| Pragmatic fronting | Locative, temporal, and wh-fronting (PP-V-S, PP-S-V, PP-V-O, Wh-Copula-Pred); all are topic fronting, not syntactic rearrangement | Low–Moderate |
 | Relative clauses | Juxtaposed, no overt relativizer | Very Low–Low |
-| Clause combining | Primarily paratactic; *zz* = "and" coordinates VPs | Low–Moderate |
+| Clause combining | Primarily paratactic; *zz* = "and" coordinates VPs and NPs | Low–Moderate |
 | Locative fronting | PP-V-S and PP-S-V (pragmatic topic fronting) | Low–Moderate |
 | Prosodic emphasis | Capitalization = grammatical intensifier | Moderate–High |
+| Interrogative formation | Wh-fronting for wh-questions; intonation/disjunction for polar questions (no overt interrogative particle) | Very Low–Low |
 
 ### Investigation 5: Three-Way Negation System — *og*, *maq*, *noq*
 
@@ -984,3 +985,234 @@ Confidence: **Low–Moderate** for analysis (1) (negative existential copula *En
 3. **Juxtaposed relative clauses** in *Mh'za uulwi skshgn kar* = "Only a place where even shadows fear to go" — no overt relativizer, consistent with Shath'Yar's paratactic clause combining strategy.
 
 4. **SVO + Appositive** pattern in *H'iwn zaix Shuul'wah, PHQUATHI!* — titles and epithets follow the SVO core as appositive NPs, consistent with the Modifier-Noun and Possessor-Possessed ordering rules.
+
+#### Sixth Extension: Additional Confirmed Phrases (Round 24)
+
+The following confirmed phrases were not coded in previous rounds. They expand the syntactic corpus from 77+ to 94+ codable phrases.
+
+##### Additional S-Aux-V-O (with *qi'*)
+
+| Phrase | S | Aux | V | O | Source |
+|--------|---|-----|---|---|--------|
+| *Sk'yahf qi'plahf PH'MAGG!* | Sk'yahf | qi' | plahf | PH'MAGG | Yor'sahj |
+| *Ilith qi'uothk shn'ma yeh'glu Shath'Yar!* | Ilith | qi' | uothk | shn'ma yeh'glu Shath'Yar | Yor'sahj |
+
+*Sk'yahf qi'plahf PH'MAGG!* = "Your soul will know ENDLESS TORMENT!" — *Sk'yahf* = "your soul(s)" (subject; confirmed possessive prefix *sk-* + *yahf* = "soul"); *qi'* = future prefix; *plahf* = "know" (verb, confirmed); *PH'MAGG* = "ENDLESS TORMENT" (object, SHOUTED for prosodic emphasis; same *magg* root as *sk'magg* = "your suffering"). Pattern: S-Aux-V-O. Confidence: Moderate–High (well-attested morphemes; structure clear).
+
+*Ilith qi'uothk shn'ma yeh'glu Shath'Yar!* = "You will drown in the blood of the Old Gods!" (from *Ilith qi'uothk shn'ma yeh'glu Shath'Yar! H'IWN IILTH!*) — *Ilith* = "you" (subject; variant of *iilth*, see Investigation 3); *qi'uothk* = "will drown" (*qi'* future + *uothk* = "drown"); *shn'ma yeh'glu Shath'Yar* = "in the blood of the Old Gods" (complex PP; *yeh'glu* = "blood" confirmed, *Shath'Yar* = possessor). The second clause *H'IWN IILTH!* = "ALL OF YOU!" is an exclamatory NP with SHOUTED pronouns. Pattern: S-Aux-V-PP + Exclamatory NP. Confidence: Moderate–High.
+
+##### Additional S-V-PP
+
+| Phrase | S | V | PP | Source |
+|--------|---|---|----|--------|
+| *Poq'yith mazzka awan ki uhnish'philfgsh.* | Poq'yith mazzka | awan | ki uhnish'philfgsh | Kaahrj |
+
+*Poq'yith mazzka awan ki uhnish'philfgsh.* = "The crooked serpent with no eyes is watching from the endless sky." — *Poq'yith mazzka* = "the crooked eyeless serpent" (complex NP subject; *mazzka* = "eyeless/with-no-eyes" — if *mazz* = "eye" and *-ka* = privative suffix "without", this provides potential evidence for a privative *-ka* in Shath'Yar); *awan* = "is watching" (verb; note: *awan* may also appear in *Al'ksh syq iir awan?* = "Is this real or an illusion?" where it could mean "illusion" — possible homophony, or *awan* = "watch/perceive" with "illusion" = "that which is perceived"); *ki* = "from" (preposition); *uhnish'philfgsh* = "the endless sky" (*uhnish* = "endless" + *'philfgsh* = "sky"). Pattern: S-V-PP. Confidence: Low–Moderate (most morphemes unattested elsewhere; S-V-PP structure well-established).
+
+##### Additional Interrogative (Wh-Fronting and Polar Question)
+
+| Phrase | Type | Structure | Source |
+|--------|------|-----------|--------|
+| *Hul bala miz rilakich...* | Wh-question | Wh-Copula-Pred | Zek'voz |
+| *Al'ksh syq iir awan?* | Polar question | NP-Conj-NP | Kaahrj |
+
+*Hul bala miz rilakich...* = "How is this... possible..." — *Hul* = "how" (interrogative wh-word, fronted); *bala miz* = "is this" (copula + demonstrative); *rilakich* = "possible" (predicate adjective). The ellipsis indicates trailing off. Pattern: Wh-Copula-Pred (interrogative with wh-fronting). This is the **first confirmed interrogative construction** in Shath'Yar. The wh-fronting is consistent with Shath'Yar's general fronting patterns (imperative V-fronting, locative/temporal PP-fronting). Confidence: Low–Moderate (wh-fronting consistent with established patterns; individual morpheme assignments speculative).
+
+*Al'ksh syq iir awan?* = "Is this real or an illusion?" — *Al'ksh* = "this/real"; *syq* = "real/is"; *iir* = "or" (disjunctive conjunction); *awan* = "illusion". Pattern: NP-Conj-NP (polar question with disjunction, no overt interrogative particle). The absence of an interrogative particle contrasts with the wh-question *Hul bala miz rilakich* which fronts *Hul* = "how". Shath'Yar may form polar questions by intonation alone. Confidence: Very Low–Low (morpheme assignments speculative; polar question interpretation consistent with translation).
+
+##### Additional S-Copula-Pred (with *sythn*)
+
+| Phrase | S | Aux/Copula | Pred | Source |
+|--------|---|-----------|------|--------|
+| *Iilth sythn aqev* | Iilth | sythn | aqev | Kaahrj |
+| *ak'uq shg'cul vwahuhn* | ak'uq | (implied *ma*) | shg'cul vwahuhn | Yor'sahj |
+
+*Iilth sythn aqev... aqev... aqev...* = "You are going mad... mad... mad..." — *Iilth* = "you" (subject, confirmed); *sythn* = "are becoming/are going" (auxiliary/copula); *aqev* = "mad" (predicative adjective, confirmed). Reduplication for emphasis, paralleling *Vormos! Vormos! Vormos!* Pattern: S-Copula-Pred with reduplication. **Key finding**: *sythn* here appears to mean "are becoming" rather than "cannot" (as in *Y'za sythn oou* = "I cannot die") — see Investigation 7. Confidence: Low–Moderate.
+
+*ak'uq shg'cul vwahuhn* = "our power beyond reckoning" (second clause of *Ak'agthshi ma uhnish, ak'uq shg'cul vwahuhn!*) — *ak'uq* = "our power" (*ak* = "our" + *'uq* = "power", cf. *Uq naggwa* = "Power unrelenting"); *shg'cul vwahuhn* = "beyond reckoning" (predicate). The copula *ma* is implied/omitted, paralleling the first clause which has the explicit copula. Pattern: S-Pred (copula omitted in coordinated clause). Confidence: Low–Moderate.
+
+##### Additional S-Adv-V-O (Triclausal, Kaahrj)
+
+| Phrase | Clause Structure | Source |
+|--------|-----------------|--------|
+| *Shath'mag vwyq shu et'agthu, Shath'mag sshk ye! Ag'rr hazz ak'yel ksh ga'halahs pahg!* | Triclausal | Kaahrj |
+
+*Shath'mag vwyq shu et'agthu* = "The Black Empire once ruled this pitiful world" — *Shath'mag* = "The Black Empire" (subject); *vwyq* = "once" (temporal adverb; same as *Vwyq agth sshoq'meg*); *shu* = "ruled" (verb); *et'agthu* = "this pitiful world" (*et'* = "this"? + *agthu* = "world"). Pattern: S-Adv-V-O. Confidence: Low–Moderate (*shu* and *et'* unattested elsewhere).
+
+*Shath'mag sshk ye!* = "and it will do so again!" — *Shath'mag* = subject (repeated); *sshk* = auxiliary "will" or adverb "again"; *ye* = "do so again" or verb. Pattern: S-Aux-V. Confidence: Very Low–Low (*sshk* and *ye* unattested).
+
+*Ag'rr hazz ak'yel ksh ga'halahs pahg!* = "We will reforge our dread citadels atop the fly-blown corpse of this kingdom!" — *Ag'rr* = "We will" (*Ag* = "we" + *'rr* = future/intentional); *hazz* = "reforge"; *ak'yel* = "our dread citadels" (*ak* = "our" + *'yel*); *ksh* = "atop"; *ga'halahs pahg* = "the fly-blown corpse of this kingdom" (*ga'* + *halahs* = "corpse" + *pahg* = "kingdom"). Pattern: S-Aux-V-O-PP. Confidence: Low (most morphemes unattested; structure consistent with established patterns).
+
+##### Additional S-V-O-Conj-O-PP
+
+| Phrase | S | V | O | Conj | O | PP | Source |
+|--------|---|---|---|------|---|----|--------|
+| *Krz'ek fhn'z agash zz maqdahl or'kaaxth'ma amqa!* | Krz'ek | fhn'z | agash | zz | maqdahl | or'kaaxth'ma amqa | Kaahrj |
+
+*Krz'ek fhn'z agash zz maqdahl or'kaaxth'ma amqa!* = "Your pitiful kind will know only despair and sorrow for a hundred thousand millennia to come!" — *Krz'ek* = "Your pitiful kind" (subject); *fhn'z* = "will know" (verb); *agash zz maqdahl* = "despair and sorrow" (O-Conj-O; *zz* = "and" confirmed); *or'kaaxth'ma amqa* = "for a hundred thousand millennia to come" (*kaaxth* = "thousand" confirmed, *'ma* = temporal "millennia" confirmed, *amqa* = "to come"). Pattern: S-V-O-Conj-O-PP. This is the **first attestation of *zz* = "and" coordinating two nouns** rather than two verbs (*worg zz oou* = "fades and dies"). Confidence: Low–Moderate.
+
+##### Additional S-Aux-V-O (with *agth* and *kyth*)
+
+| Phrase | S | Aux | V | O | Source |
+|--------|---|-----|---|---|--------|
+| *Zuq agth kyth ongg oou uovssh* | Zuq | agth | kyth | ongg oou uovssh | Mote of Cosmic Truth |
+
+*Zuq agth kyth ongg oou uovssh* = "You have seen into the beyond" (first sentence of *Zuq agth kyth ongg oou uovssh Nuq zuq lwhuk qi'uothk far'al aq zaix hnakf lal*) — *Zuq* = "you" (subject); *agth* = auxiliary; *kyth* = "seen" (verb, confirmed); *ongg oou uovssh* = "into the beyond" (object/PP). Note: if *agth* = obligative "shall" (as in *Sk'shuul agth vorzz* = "Your deaths shall sing"), the English "You have seen" may reflect the **prophetic perfect** — a typologically common feature of prophetic/apocalyptic language where future events are described as already accomplished because they are inevitable. This would be fitting for Shath'Yar, the language of the Old Gods. Pattern: S-Aux-V-O. Confidence: Low–Moderate (*agth* as obligative with prophetic perfect reading is plausible; *kyth* = "seen" well-attested).
+
+*Nuq zuq lwhuk qi'uothk far'al aq zaix hnakf lal* = "Now you shall perceive things as they truly are" — *Nuq* = "now"; *zuq* = "you"; *lwhuk* = "perceive/devour"; *qi'uothk* = future + verb; *far'al aq zaix hnakf lal* = "as they truly are" (complex complement). Pattern: Adv-S-V-Comp. Confidence: Very Low–Low.
+
+##### Additional Complex Multi-Clausal
+
+| Phrase | Structure | Source |
+|--------|-----------|--------|
+| *H'thon thyzz Agth ma iiqaath zuq wgah puul uhn'agth yrr zuq wgah uulg'ma* | Excl NP + Temp + S-Aux-V-O + Conj-S-Aux-V | Mote of Cosmic Truth |
+
+*H'thon thyzz* = "Errant flesh!" (exclamatory NP). *Agth ma iiqaath zuq* = "When it awakens" (temporal clause; *ma* = copula in temporal/subordinate function, *iiqaath* = "cursed/awakened"). *wgah puul uhn'agth yrr* = "you will know eternity" (*wgah* = "will", *puul* = "drink/know"). *zuq wgah uulg'ma* = "and you will tremble" (*zuq* = "and/you", *wgah* = "will"). Pattern: [Excl NP] + [Temporal clause] + [S-Aux-V-O] + [Conj-S-Aux-V]. Confidence: Very Low–Low.
+
+##### Longest Confirmed Phrase (Mote of Cosmic Truth)
+
+| Phrase | Structure | Source |
+|--------|-----------|--------|
+| *Shuul og i agthu yrr sk'uuyat uulwi ma oou sshoq'met ez nuq far'al I zz nuq al'tha Ssaggh ni za an'zig yrr puul ywaq gul'kafh* | Multi-clausal (3+ clauses) | Mote of Cosmic Truth |
+
+This is the longest confirmed Shath'Yar sentence at 21 words. The English translation breaks into three sentences:
+
+1. *Shuul og i agthu yrr sk'uuyat uulwi* = "There is a great and terrible truth at the beginning of all things" — *Shuul* = "great/death"; *og* = "is there" (existential copula?) or "in/at" (preposition); *i agthu* = "a truth/all things"; *yrr sk'uuyat uulwi* = "terrible/beginning of all things". The morpheme *og* presents a significant ambiguity: if *og* = existential negation "no" (as in *Og h'iwn*), the phrase should mean "There is no..." contradicting the translation. Three resolutions: (a) *og* is homophonous — negation particle "no" and existential copula "there is"; (b) *og* = locative preposition "in/at"; (c) the English translation is highly idiomatic. Confidence: Very Low.
+
+2. *ma oou sshoq'met ez nuq far'al* = "I am its herald" — *ma* = copula "am"; *oou sshoq'met* = "herald"; *ez nuq far'al* = "its/for eternity". Confidence: Very Low.
+
+3. *I zz nuq al'tha Ssaggh ni za an'zig yrr puul ywaq gul'kafh* = "Listen to my sermon, and know your infinite inconsequence" — *I* = imperative "Listen"; *zz* = "and"; *nuq* = "now/more"; *Ssaggh* = "sermon/life"; *ni* = "and/to"; *za* = "my"; *puul* = "know/drink"; *ywaq gul'kafh* = "your [inconsequence/gaze]". This provides the **fourth attestation of *gul'kafh*** — see Investigation 6. If *gul'kafh* = "gaze" here, "your infinite gaze" is semantically awkward; if *gul'kafh* = deverbal noun "that which is gazed upon/nothingness", it fits. Confidence: Very Low.
+
+##### Additional NP Fragments and Vocatives
+
+| Phrase | Structure | Source |
+|--------|-----------|--------|
+| *Ez, Shuul'wah!* | Vocative NP | Yor'sahj |
+| *GAZ SKSHGN!* | Exclamatory NP or V-O imperative | Kaahrj |
+| *H'IWN IILTH!* | Exclamatory NP | Yor'sahj |
+| *Uq naggwa...* | Exclamatory NP | Anglepoint |
+| *Thoq fssh N'Zoth!* | PP (not a full clause) | Zon'ozz |
+
+*GAZ SKSHGN!* = "A SERVANT OF FEAR!" — *GAZ* = "servant" or "gaze" (SHOUTED); *SKSHGN* = "fear" (SHOUTED). If *gaz* = noun "servant", exclamatory NP; if *gaz* = verb "gaze", V-O imperative "Gaze [at] fear!" The noun reading parallels *gaz* = "servant" in the speculative dictionary. Confidence: Low.
+
+*Uq naggwa...* = "Power unrelenting..." — *Uq* = "Power" (confirmed); *naggwa* = "unrelenting" (adjective; same root as *naggwa'fssh* = "unending glory"). Pattern: Exclamatory NP (no verb).
+
+*Thoq fssh N'Zoth!* = "For the glory of N'Zoth!" — *Thoq* = "for" (preposition, confirmed); *fssh N'Zoth* = "the glory of N'Zoth" (Possessor-Possessed NP). Pattern: PP.
+
+##### Additional V-Adv (Fragmentary)
+
+| Phrase | Structure | Source |
+|--------|-----------|--------|
+| *Uovssh thyzz... qwaz...* | V-Adv (trailing) | Zon'ozz |
+
+*Uovssh thyzz... qwaz...* = "To have waited so long... for this..." — *Uovssh* = "waited"; *thyzz* = "long"; *qwaz* = "this". Pattern: V-Adv (fragmentary).
+
+##### Three Juxtaposed Minimal Clauses
+
+| Phrase | Structure | Source |
+|--------|-----------|--------|
+| *Ugalazul bwrxil' qu rax.* | [SV] + [SV] + [S-Copula-Pred] | Vol'zith |
+
+*Ugalazul bwrxil' qu rax.* = "Darkness roots. Pestilence spreads. The doorway is open." — Three minimal juxtaposed clauses: (1) *Ugalazul* = "Darkness roots" (SV with incorporated verb); (2) *bwrxil'* = "Pestilence spreads" (SV, single word); (3) *qu rax* = "The doorway is open" (S-Copula-Pred). Each English sentence is rendered by 1–2 Shath'Yar words — the most compressed clause-to-word ratio in the corpus. Confidence: Very Low.
+
+##### Difficult/Low-Confidence Phrases
+
+| Phrase | Translation | Source | Notes |
+|--------|-------------|--------|-------|
+| *Oou thyzz lal ak'uq qwaz Zuq shkul ma sk'tek...* | "The contagion... has taken root within you..." | G'huun | Multiple PP elements; verb identification uncertain; *oou* as noun "contagion" |
+| *Oou zuq agthu qwor arwi* | "The key... turns once more." | G'huun | *oou* as noun "key"; verb unclear |
+| *Vwyq agth sshoq'meg N'Zoth vra zz shfk qwor ga'halahs agthu* | "Once more shall the twisted flesh-banners of N'Zoth chitter and howl above the fly-blown corpse of this world" | Zon'ozz | Complex NP subject; coordinated verb phrase *vra zz shfk* |
+
+These phrases are included for completeness but have Very Low confidence. The primary value is in preserving the data for future analysis.
+
+#### Updated Word Order Summary (Round 24)
+
+| Clause Type | Order | Previous Count | Updated Count | Notes |
+|-------------|-------|---------------|---------------|-------|
+| Simple transitive | SVO | 15 | 15 | No new additions |
+| Transitive with auxiliary | S-Aux-V-O | 9 | 12 | Added *Sk'yahf qi'plahf*, *Ilith qi'uothk*, *Zuq agth kyth* |
+| S-Aux-V-PP | S-Aux-V-PP | 1 | 1 | No new additions |
+| Copular | S-Copula-Pred | 12 | 14 | Added *Iilth sythn aqev*, *ak'uq shg'cul vwahuhn* |
+| Negated (verbal) | S-Neg-V | 4 | 4 | No new additions |
+| Negated (existential) | Neg-N | 3 | 3 | No new additions |
+| NegCop-N-PP | NegCop-N-PP | 1 | 1 | No new additions |
+| Intransitive | SV | 9 | 9 | No new additions |
+| S-V-PP | S-V-PP | 6 | 7 | Added *Poq'yith mazzka awan ki uhnish'philfgsh* |
+| S-Adv-V-O | S-Adv-V-O | 0 | 1 | *Shath'mag vwyq shu et'agthu* (Low–Moderate) |
+| S-V-O-Conj-O-PP | S-V-O-Conj-O-PP | 0 | 1 | *Krz'ek fhn'z agash zz maqdahl or'kaaxth'ma amqa* |
+| Interrogative (wh) | Wh-Copula-Pred | 0 | 1 | *Hul bala miz rilakich* |
+| Interrogative (polar) | NP-Conj-NP | 0 | 1 | *Al'ksh syq iir awan?* |
+| Imperative/exclamatory | V-initial | 13 | 13 | No new additions |
+| Possessive NP | Possessor-Possessed | 10 | 10 | No new additions |
+| Locative fronting | PP-V-S / PP-S-V / PP-V-O | 3 | 3 | No new additions |
+| Temporal fronting | PP-S-V (temporal) | 1 | 1 | No new additions |
+| Aux-Neg-V | S-Aux-Neg-V | 1 | 1 | No new additions |
+| Biclausal | Various | 8 | 9 | Added *H'thon thyzz Agth ma iiqaath...* (Very Low–Low) |
+| Triclausal | Various | 0 | 2 | Kaahrj phrases (Low–Moderate and Low confidence) |
+| Exclamatory NP | NP (no verb) | 2 | 5 | Added *GAZ SKSHGN!*, *H'IWN IILTH!*, *Uq naggwa* |
+| Complex NP + relative clause | NP + RC (juxtaposed) | 1 | 1 | No new additions |
+| Vocative | NP + Voc particle | 0 | 1 | *Ez, Shuul'wah!* |
+| PP fragment | Preposition + NP | 0 | 1 | *Thoq fssh N'Zoth!* |
+| V-Adv fragment | V + Adv | 0 | 1 | *Uovssh thyzz... qwaz...* |
+| Multi-clausal (3+ clauses) | Various | 0 | 2 | Mote of Cosmic Truth phrases (Very Low confidence) |
+
+**Updated total: 94+ codable phrases.** Confidence remains **High** for SVO as the basic declarative word order. Key new findings:
+
+1. **First confirmed interrogative constructions**: Wh-fronting in *Hul bala miz rilakich* = "How is this... possible..." and polar question with disjunction in *Al'ksh syq iir awan?* = "Is this real or an illusion?" Wh-fronting is consistent with Shath'Yar's general fronting strategy.
+
+2. **First noun coordination with *zz***: *agash zz maqdahl* = "despair and sorrow" extends *zz* = "and" from verb coordination (*worg zz oou* = "fades and dies") to noun coordination.
+
+3. ***gul'kafh* fourth attestation** in the Mote of Cosmic Truth sermon — see Investigation 6 for polysemy analysis.
+
+4. ***sythn* dual function** — "cannot" before verbs (*Y'za sythn oou* = "I cannot die") vs. progressive "are becoming" before adjectives (*Iilth sythn aqev* = "You are going mad") — see Investigation 7.
+
+5. **Prophetic perfect** reading for *agth* — *Zuq agth kyth* = "You have seen" may reflect prophetic perfect (obligative "shall see" rendered as accomplished fact), fitting for Old God language.
+
+6. **Potential privative suffix *-ka*** in *mazzka* = "eyeless" (*mazz* + *-ka* "without"), if confirmed.
+
+### Investigation 6: *gul'kafh* — "Gaze" vs. "Begin/Spread" (Polysemy)
+
+The morpheme *gul'kafh* appears in four attested contexts with apparently incompatible meanings:
+
+| Context | Phrase | Translation | Proposed Gloss |
+|---------|--------|-------------|----------------|
+| Imperative | *Gul'kafh an'shel* | "Gaze into the void" | *gul'kafh* = "gaze" (verb) |
+| Imperative | *Gul'kafh an'qov N'Zoth* | "Gaze into the heart of N'Zoth" | *gul'kafh* = "gaze" (verb) |
+| Declarative | *Oou gul'kafh lal lwhuk!* | "The outbreak has begun!" | *gul'kafh* = "has begun/spread" (verb) |
+| Nominal? | *...ywaq gul'kafh* | "...your infinite inconsequence" | *gul'kafh* = "inconsequence/nothingness" (noun) |
+
+#### Four Hypotheses
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Homophonous morphemes | *gul'kafh*₁ = "gaze", *gul'kafh*₂ = "begin/spread", *gul'kafh*₃ = "inconsequence" — three unrelated forms | **Low** — three-way homophony is unlikely |
+| Semantic extension: "project/extend outward" | *gul'kafh* = "to project outward"; "gaze" = "project perception outward"; "spread" = "project outward into the world"; "inconsequence" = "that which extends into nothing" | **Low–Moderate** |
+| **Idiomatic translation: *gul'kafh* consistently = "gaze"** | "The outbreak has gazed [forth]" = "has manifested/revealed itself" → "has begun"; "your [gaze]" = "your [perceived nothingness]" → "inconsequence" | **Moderate** — most parsimonious; "gaze" → "manifest" is natural in a Void language |
+| Blizzard inconsistency | The translations are inconsistent; *gul'kafh* has no coherent meaning | **Low–Moderate** |
+
+The idiomatic translation hypothesis (3) is the most parsimonious. In a language associated with the Void and Old Gods — entities for which perception and reality are intertwined — "to gaze" as the primary meaning with idiomatic extensions to "manifest" and "reveal" is semantically coherent. *Oou gul'kafh lal lwhuk!* = "The outbreak has gazed [forth]!" = "The outbreak has manifested!" = "The outbreak has begun!" The nominal use could reflect a deverbal noun "that which is gazed upon" → "inconsequence/nothingness" (what one perceives when gazing into the Void).
+
+**Confidence: Moderate** for *gul'kafh* = "gaze" as the primary meaning with idiomatic extensions to "manifest/begin" and deverbal noun "that which is gazed upon/nothingness."
+
+### Investigation 7: *sythn* — "Cannot" vs. "Are Becoming" (Dual Function)
+
+The morpheme *sythn* appears in two confirmed contexts with apparently incompatible meanings:
+
+| Context | Phrase | Translation | Proposed Gloss |
+|---------|--------|-------------|----------------|
+| Before verb | *Y'za sythn oou* | "I cannot die" | *sythn* = "cannot" (negative modal) |
+| Before adjective | *Iilth sythn aqev* | "You are going mad" | *sythn* = "are becoming" (progressive) |
+
+#### Three Hypotheses
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Dual function by complement type | *sythn* = "cannot" before verbs, *sythn* = "are becoming" before adjectives — grammatically conditioned | **Low–Moderate** — parallels English "going to" (future vs. progressive) |
+| **Idiomatic translation: *sythn* consistently = "cannot"** | *Iilth sythn aqev* literally = "You cannot [resist] madness" → idiomatic "You are going mad" | **Low–Moderate** — preserves single meaning; consistent with wiki's note on idiomatic translations |
+| Homophonous morphemes | *sythn*₁ = "cannot", *sythn*₂ = "are becoming" — two unrelated forms | **Low** — possible but unparsimonious |
+
+The idiomatic translation hypothesis (2) is the most parsimonious. If *sythn* = "cannot" throughout, *Iilth sythn aqev* = "You cannot [resist] madness" = "You cannot help going mad" → idiomatic "You are going mad." The Shath'Yar expression "cannot resist madness" maps to the English "going mad" — both describe the same state from different perspectives. This is consistent with the wiki's explicit warning that Shath'Yar translations are idiomatic rather than literal.
+
+However, the dual function hypothesis (1) cannot be ruled out. If *sythn* has grammaticalized different meanings before different complement types, this would parallel English "going to" (future intention before verbs: "going to eat" vs. progressive before adjectives: "going mad"). The difference is that English "going to" has a unifiable core meaning ("movement toward"), while *sythn* = "cannot" and *sythn* = "becoming" lack an obvious shared core.
+
+**Confidence: Low–Moderate** for the idiomatic translation hypothesis (*sythn* = "cannot" throughout). Additional attestations of *sythn* in different syntactic contexts would help resolve this.

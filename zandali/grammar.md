@@ -1042,6 +1042,8 @@ Also note the connection between *Bwon'* and the broader pattern of death-relate
 
 **Confidence: Low–Moderate** for *Bwon'* as a genuine Zandali death prefix. Two attestations with consistent semantics is the minimum for identifying a morpheme; additional attestations in non-loa names would strengthen the analysis.
 
+**Update (Round 24)**: No additional attestations of *Bwon'* have been found in the Zandali corpus. Notably, other death-related Zandali proper names use different morphemes for "death": *Shera Ali'kh* = "Death's Hand" (using *Shera* for "death", not *Bwon'*) and *Kaz'kah* = "Death Totem" (RPG, non-canon; using *Kaz'* for "death"). *Mueh'zala*, Bwonsamdi's father and Loa of Death/Sunset, also does not use *Bwon'*. This distribution suggests *Bwon'* may be restricted to Bwonsamdi's specific onomastic domain rather than being a general Zandali "death" prefix — *Bwonsamdi* and *Bwon'tulak* may be names within Bwonsamdi's naming convention, not productive Zandali compounds. This weakens the "productive death prefix" hypothesis (downgraded from Low–Moderate to **Low**) and strengthens the "name-specific element" hypothesis (upgraded from Low to **Low–Moderate**).
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar remain unattested and should not be assumed:
