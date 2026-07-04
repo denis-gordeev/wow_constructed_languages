@@ -405,6 +405,11 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | og₂ | there is (affirmative existential copula) / in/at (locative) | *Shuul og i agthu* = "There is a great truth"; *Za uul og nuq* = "My fall is but a beat" | **Low** — homophonous with *og*₁ negation; required by affirmative contexts in Mote of Cosmic Truth and Storm's End phrases; see grammar.md Investigation 8 |
 | En' | there is not / is not (negative existential copula) | *En'othk uulg'shuul* = "There is no light after death"; *En'* + *othk* = "there is not light" | **Low–Moderate** — parallels affirmative copula *ma* = "is/are"; occupies predicate position unlike particle *og*; see grammar.md Investigation 5 |
 | othk | light | *En'othk* = "no light" (*En'* + *othk*) | **Low** — single attestation; decomposition not confirmed |
+| qwor | above / over | *qwor ga'halahs agthu* = "above the fly-blown corpse of this world"; *qwor arwi* = "once more / over again" | **Low–Moderate** — two independent attestations with consistent spatial meaning; see grammar.md Investigation 10 |
+| lal | new (adjective) / perfective aspect "has" | *i lal halahs nuq* = "a new master now"; *Oou gul'kafh lal lwhuk!* = "The outbreak has begun!" (if *lal* = perfective) | **Low** — dual function: adjective "new" (Low–Moderate) and perfective particle "has" (Low); may reflect grammaticalized perfective from adjective; see grammar.md Investigation 10 |
+| arwi | all / entirety / again | *Ma sk'magg ni arwi* = "The eye sees all"; *qwor arwi* = "once more / over again" | **Low** — dual function as nominal quantifier and adverbial; see grammar.md Investigation 10 |
+| ga' | rotting / corrupted | *ga'halahs* = "fly-blown corpse" (*ga'* + *halahs* = "corpse"); may derive from *ga* in *N'Zoth ga zyqtahg* = "The will of N'Zoth corrupts" | **Low** — deverbal adjective from *ga* = "corrupt"; see grammar.md Investigation 10 |
+| mar- | corrupt / dark (prefix) | *marwol* in *H'thon marwol qualar* (untranslated); *Mar'kowa* (untranslated) — both in corruption-related contexts | **Very Low** — only from untranslated phrases; potential second adjective-forming prefix alongside *Shath-* = "old/black"; see grammar.md Investigation 10 |
 
 ## Investigation: *domanaar* and the *-aar* Suffix
 

@@ -133,10 +133,20 @@
 
 - [ ] Investigate Shath'Yar potential negation expansion — *sythn* ("cannot"), *nuq* ("no more"), *Naza* ("not one"), *En'* (negative existential copula?), *NEL'OTHK* (SHOUTED negative modal) may expand negation system beyond three-way; see Shath'Yar grammar.md Investigation 4 and Investigation 5
 - [ ] Test *En'* as negative existential copula — search for additional *En'* + [noun] constructions in uncoded phrases; if confirmed, *En'* completes copula paradigm with affirmative *og*₂
-- [x] Investigate Zandali *Ma'/Min'* conditioned by glottal stop — **DEFINITIVELY FALSIFIED Round 25**: 59 Zandali words with /a/ before apostrophe (42% of all apostrophe words); /a/ is the most common pre-apostrophe vowel; *Fa'da* "Father" and *Atal'ai* are direct counterexamples; hypothesis is impossible given the data; *Ma'/Min'* assessed as independent baby-talk formation (Very Low confidence for sound correspondence)
-- [x] Test potential privative suffix *-ka* in Shath'Yar — **COMPLETED Round 25**: Only 1 attestation (*mazzka* = "eyeless"); cross-language comparison shows *-ka* in 8 WoW languages with divergent semantics (privative, agentive, filiation, place); Shath'Yar *-ka* most likely monomorphemic or Blizzard design convergence; Very Low–Low confidence; see Shath'Yar grammar.md Investigation 9
-- [x] Investigate *og* homophony — **COMPLETED Round 25**: Added Investigation 8 to Shath'Yar grammar.md; *og*₁ = "no" (existential negation, 2 attestations) vs. *og*₂ = "there is" / "in/at" (affirmative existential copula or locative, 1+ attestations); homophony required by affirmative context in Mote of Cosmic Truth; proposed four-way copula/existential system (*ma*, *og*₂, *En'*, *og*₁); Low–Moderate confidence
+- [ ] Test Shath'Yar auxiliary inversion pattern — search for additional Adv-Aux-S-V constructions beyond *Vwyq agth sshoq'meg N'Zoth*; if confirmed, this is the first syntactic inversion rule; see Shath'Yar grammar.md Investigation 10
+- [ ] Test Shath'Yar genitive order — collect more Possessed-Possessor vs. Possessor-Possessed examples to test inalienable possession hypothesis; see Shath'Yar grammar.md Investigation 10
 - [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data
+
+## Completed This Round (2026-07-04, Round 26)
+
+- [x] Add Shath'Yar Investigation 10: Reanalysis of Difficult/Low-Confidence Phrases — full syntactic and morphemic analysis of three previously coded phrases: (1) *Oou thyzz lal ak'uq qwaz Zuq shkul ma sk'tek...* = "The contagion... has taken root within you..." (biclausal; Very Low–Low), (2) *Oou zuq agthu qwor arwi* = "The key... turns once more" (S-V-Adv; Very Low–Low), (3) *Vwyq agth sshoq'meg N'Zoth vra zz shfk qwor ga'halahs agthu* = "Once more shall the twisted flesh-banners of N'Zoth chitter and howl..." (Adv-Aux-S-[V-Conj-V]-Prep-NP; Low–Moderate); key new findings: **auxiliary inversion under temporal fronting** (first syntactic inversion rule in Shath'Yar), **Possessed-Possessor as alternative genitive order** (possible inalienable possession distinction), **qwor = "above/over"** (first spatial preposition beyond *thoq* and *an-*); also analyzed partially coded Storm's End phrase (*thoq shanDai h'lwn* = "for all eternity") and 9 untranslated phrases with partial analysis (Drak'thul phrase *Qor'naus'agth lwhuk* = "Endless hunger shall devour" at Low–Moderate confidence; near-duplicate Yogg-Saron phrase at Moderate–High; *mar-* = "corrupt/dark" prefix from two untranslated phrases at Very Low)
+- [x] Add 6 new speculative dictionary entries to Shath'Yar vocabulary.md/html: *qwor* = "above/over" (Low–Moderate), *lal* = "new"/perfective (Low), *arwi* = "all/entirety/again" (Low), *ga'* = "rotting/corrupted" (Low), *mar-* = "corrupt/dark" prefix (Very Low), plus updated *othk* entry
+- [x] Fix Shath'Yar grammar.html navigation: add missing links to Investigation 8 and Investigation 9
+- [x] Fix Shath'Yar vocabulary.html navigation: add missing "Vocabulary" self-link
+- [x] Update Shath'Yar description.md/html: investigation count 7 → 10; add Investigation 10 summary
+- [x] Update README.md: Shath'Yar attestation now includes auxiliary inversion and *qwor* preposition; speculative dictionary 70+ → 75+ entries
+- [x] Sync Shath'Yar grammar.html with Investigation 10 content (full HTML conversion of all tables, headers, and analysis)
+- [x] Sync Shath'Yar vocabulary.html with new speculative dictionary entries
 
 ## Completed This Round (2026-07-04, Round 25)
 
@@ -170,7 +180,7 @@
 
 ## Next Actions
 
-- [ ] Code remaining uncoded Shath'Yar confirmed phrases — approximately 8-10 phrases remain uncoded (mostly Vol'zith, Zek'voz, and complex biclausal phrases); see Shath'Yar grammar.md Investigation 4
+- [ ] Code remaining uncoded Shath'Yar confirmed phrases — all 94+ confirmed phrases now coded at varying confidence levels; the three most difficult phrases were reanalyzed in Investigation 10 (Round 26); any future coding depends on new data
 - [ ] Investigate Zandali *Bwon'* death prefix further — search for additional attestations in NPC names or loa terminology; test against blood troll combat vocalizations
 - [ ] Investigate Zandali *no* connective in loa names (*Elortha no Shadra*, *Eraka no Kimbul*, *Ueetay no Mueh'zala*) — function (genitive, vocative, possessive?) and cross-family comparison with Thalassian *no* = "to/all"; see Zandali grammar.md Investigation 6B — **COMPLETED Round 22**: Full Investigation 6B added with four hypotheses; dedicatory/cognate interpretation preferred at Low–Moderate confidence; cross-family comparison with Thalassian *No* = "to/all"
 - [ ] Test Darnassian *Aran*/*-naar* phonological conditioning hypothesis — search for vowel-final + *Aran* or consonant-final + *-naar* counterexamples in place name data — **COMPLETED Round 22**: *Satyrnaar* identified as sole counterexample (consonant-final *Satyr-* takes *-naar*); Common-borrowing explanation proposed; if set aside, conditioning is exceptionless across 12 native attestations; see Darnassian grammar.md Investigation 8

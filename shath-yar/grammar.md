@@ -1324,3 +1324,420 @@ Genuine cognacy is most plausible within the troll family (Hara'ni and Zandali),
 **Assessment**: The *-ka* in *mazzka* most likely reflects either (a) a genuine Shath'Yar privative suffix with no cross-family cognates, or (b) a monomorphemic lexical item "eyeless" that happens to end in *-ka*. Without additional attestations of *-ka* as a privative in Shath'Yar, the analysis remains speculative. The cross-language *-ka* pattern is more likely Blizzard design convergence (a productive syllable used in suffix-like positions across many WoW naming systems) than evidence of genetic relationship across the alien/troll/Aqir language families.
 
 **Confidence: Very Low–Low** for *-ka* as a genuine privative suffix in Shath'Yar. The single attestation is insufficient to establish a morpheme — *mazzka* may simply be a monomorphemic word meaning "eyeless" or "blind." The cross-language comparison does not support cognacy given the semantic and genetic distances involved.
+
+### Investigation 10: Reanalysis of Difficult/Low-Confidence Phrases
+
+The Sixth Extension listed three phrases as "Difficult/Low-Confidence." This investigation provides fuller syntactic and morphemic analysis of each, plus reanalysis of a partially coded Storm's End phrase and previously uncoded confirmed phrases from the corpus.
+
+#### Phrase 1: *Oou thyzz lal ak'uq qwaz Zuq shkul ma sk'tek...* = "The contagion... has taken root within you..."
+
+**Word-by-word decomposition:**
+
+| Word | Proposed Gloss | Evidence/Reasoning | Confidence |
+|------|---------------|-------------------|------------|
+| *Oou* | "the contagion" (noun, subject) | *oou* = "die" (verb) → "death/decay" (noun) → "contagion"; same extension as *Oou gul'kafh lal lwhuk!* = "The outbreak has begun!" where *Oou* = "the outbreak/contagion" | Low–Moderate |
+| *thyzz* | "has taken root" (verb) | *thyzz* = "long" (*Uovssh thyzz* = "waited so long") → "to be deeply established" → "to take root"; semantic extension from "long/deep" to "rooted/established" | Low |
+| *lal* | perfective aspect "has" | *lal* appears in *Oou gul'kafh lal lwhuk!* = "The outbreak has begun!" — if *gul'kafh* = "gaze/manifest" and *lal* = perfective "has", then *gul'kafh lal* = "has manifested" = "has begun"; also in *Ywaq ongg an'qov i lal halahs nuq* = "Your husk serves a new master now" where *lal* may = "new" (adjective) — see alternative analysis below | Low |
+| *ak'uq* | "root/core" (noun, object) | *ak'uq* = "our power" in *ak'uq shg'cul vwahuhn* = "our power beyond reckoning"; here, either homophonous noun "root/core" or reinterpretation: *a-* (directional prefix, parallel to *an-* = "into") + *k'uq* = "root/depth" | Very Low–Low |
+| *qwaz* | "this" (demonstrative) | *qwaz* = "this" (speculative dictionary; *Uovssh thyzz... qwaz...* = "waited so long... for this...") | Low–Moderate |
+| *Zuq* | "you" (pronoun) | *zuq* = "you" (pronoun, established in multiple phrases) | Moderate–High |
+| *shkul* | "within/from" (preposition) | *Shkul an'zig* = "From its depths" — *shkul* = directional preposition "from/within" | Low–Moderate |
+| *ma* | "is" (copula) or connective | *ma* = copula "is/are" (established); here may connect the two clauses | Moderate (for *ma* = copula) |
+| *sk'tek* | "your skull(s)" (noun) | *sk'* = "your" (prefix) + *tek* = "skull" (confirmed); idiomatic extension "within your skull" = "within you" | Moderate for morphemes; Low for idiomatic extension |
+
+**Syntactic analysis (biclausal):**
+
+Clause 1: *Oou thyzz lal ak'uq qwaz* = "The contagion has taken root [in] this core"
+
+| S | V | Asp | O/PP | Dem |
+|---|---|-----|------|-----|
+| *Oou* | *thyzz* | *lal* | *ak'uq* | *qwaz* |
+| "the contagion" | "taken root" | "has" | "core/root" | "this" |
+
+Clause 2: *Zuq shkul ma sk'tek* = "[within] your skull" → idiomatic "within you"
+
+| S | Prep | Cop | Pred |
+|---|------|-----|------|
+| *Zuq* | *shkul* | *ma* | *sk'tek* |
+| "you" | "from/within" | "is" | "your skull" |
+
+**Alternative analysis of *lal*:** If *lal* = "new" (adjective) rather than perfective aspect, then *lal ak'uq* = "new core/root" and the phrase becomes: *Oou thyzz* = "the contagion has taken root" (S-V with *thyzz* incorporating the perfective sense), *lal ak'uq qwaz* = "[in] this new core", *Zuq shkul ma sk'tek* = "within your skull/being." The adjective reading is supported by *i lal halahs nuq* = "a new master now" (if *lal* = "new"). However, the perfective reading is supported by *Oou gul'kafh lal lwhuk* = "The outbreak has gazed [manifested] [perfective] devouring" = "has begun." Both readings are plausible; *lal* may have dual function (adjective "new" + perfective particle "has"), paralleling other Shath'Yar polysemous morphemes.
+
+**Overall confidence: Very Low–Low.** The biclausal structure is plausible and consistent with established patterns (S-V-Adv/O, S-Prep-Cop-Pred), but individual morpheme assignments remain speculative. The primary difficulty is *ak'uq* — if it means "our power" (established), the phrase doesn't parse; if it means "root/core" (new meaning), it requires positing homophony. The *lal* perfective/adjective ambiguity also reduces confidence.
+
+**New morphemes proposed:**
+- *lal* = perfective aspect "has" (Low confidence) OR adjective "new" (Low–Moderate confidence)
+- *thyzz* (verbal) = "to take root" (Low confidence; extension of adjective "long")
+
+---
+
+#### Phrase 2: *Oou zuq agthu qwor arwi* = "The key... turns once more."
+
+**Word-by-word decomposition:**
+
+| Word | Proposed Gloss | Evidence/Reasoning | Confidence |
+|------|---------------|-------------------|------------|
+| *Oou* | "the" (definite marker) or modifier "dark/death" | *oou* has multiple noun meanings (death, contagion, titans); here it may function as an attributive modifier "dark/that which opens" before *zuq*, forming a compound subject | Low |
+| *zuq* | "key" (noun, head of subject NP) | *zuq* = "life" or "you" (established); "key" is a new meaning — semantic extension: "that which opens/unlocks life" = "key"; in Old God cosmology, the key to power IS life force | Very Low–Low |
+| *agthu* | "turns" (verb) | *agthu* = "world" (noun, established); verbal form "to turn/rotate" (a world rotates/turns); zero-derivation from noun to verb | Low |
+| *qwor* | "above/over" (preposition) | *qwor* appears in Phrase 3: *qwor ga'halahs agthu* = "above the fly-blown corpse of this world"; here in *qwor arwi* = "over again" → "once more" | Low–Moderate |
+| *arwi* | "again/entirety" (adverb/quantifier) | *arwi* in *Ma sk'magg ni arwi* = "The eye sees all!" — if *arwi* = "all/entirety", then *qwor arwi* = "over entirely" = "once more"; "all" and "again" are semantically linked ("all over again") | Low |
+
+**Syntactic analysis (S-V-Adv):**
+
+| S | V | PP→Adv |
+|---|---|--------|
+| *Oou zuq* | *agthu* | *qwor arwi* |
+| "the key" | "turns" | "once more / over again" |
+
+The compound subject *Oou zuq* = "the key" parallels other Shath'Yar compound nouns where a modifier precedes the head (*Shath'Yar* = "old" + "gods", *Shuul'wah* = "death" + "wing"). Here *oou* = modifier "dark/opening" + *zuq* = head noun "key/life-force."
+
+**Alternative analysis (S-V-O-Adv):**
+
+| S | V | O | Adv |
+|---|---|---|-----|
+| *Oou* | *zuq* | *agthu* | *qwor arwi* |
+| "the key" | "turns" | "the world" | "once more" |
+
+If *zuq* = verb "turns" (NEW verbal meaning; extension of "life" → "to turn/animate") and *agthu* = noun "world" (established), the structure becomes S-V-O-Adv = "The key turns the world once more." This is consistent with SVO but requires an unattested verbal meaning for *zuq* and produces a transitive reading ("turns the world") where the English is intransitive ("turns once more").
+
+**Alternative analysis (S-Aux-V-Adv):**
+
+| S | Aux | V | Adv |
+|---|-----|---|-----|
+| *Oou* | *zuq* | *agthu* | *qwor arwi* |
+| "the key" | ??? | "turns" | "once more" |
+
+If *zuq* = auxiliary (previously unattested function), this parallels S-Aux-V-Adv. But *zuq* has no established auxiliary function.
+
+**Assessment:** The S-V-Adv analysis (*Oou zuq* = compound subject "the key", *agthu* = verb "turns", *qwor arwi* = adverbial "once more") is the most structurally coherent, but requires three new morphemic claims: (1) *zuq* = "key", (2) *agthu* = verb "turns", (3) *qwor arwi* = "once more." Each has Low confidence individually.
+
+**Overall confidence: Very Low–Low.** The phrase resists clean morphemic mapping. The most significant element is *qwor*, which receives independent confirmation from Phrase 3 as a spatial preposition "above/over."
+
+**New morphemes proposed:**
+- *agthu* (verbal) = "to turn/rotate" (Low confidence; zero-derived from noun "world")
+- *qwor* = "above/over" (Low–Moderate confidence; confirmed by Phrase 3)
+- *arwi* = "again/entirety" (Low confidence; also in Deep Watcher phrase)
+
+---
+
+#### Phrase 3: *Vwyq agth sshoq'meg N'Zoth vra zz shfk qwor ga'halahs agthu* = "Once more shall the twisted flesh-banners of N'Zoth chitter and howl above the fly-blown corpse of this world"
+
+This is the most analytically productive of the three difficult phrases — it contains several established morphemes and reveals new grammatical patterns.
+
+**Word-by-word decomposition:**
+
+| Word | Proposed Gloss | Evidence/Reasoning | Confidence |
+|------|---------------|-------------------|------------|
+| *Vwyq* | "once" (temporal adverb) | *Shath'mag vwyq shu et'agthu* = "The Black Empire once ruled this pitiful world" — *vwyq* = "once" (established) | **High** |
+| *agth* | "shall" (obligative auxiliary) | *Sk'shuul agth vorzz* = "Your deaths shall sing" — *agth* = obligative "shall" (established) | **High** |
+| *sshoq'meg* | "twisted flesh-banners" (compound noun) | *sshoq'* + *'meg* = compound; *sshoq'* may relate to *ssh* (flesh) + *oq'* (twisted); *'meg* = suffix/plural or "banner" | Low (compound internal structure unknown) |
+| *N'Zoth* | proper name (possessor) | — | **High** |
+| *vra* | "chitter" (verb) | NEW; insectoid chittering sound — fitting for N'Zoth's servants | Low |
+| *zz* | "and" (coordinator) | *worg zz oou* = "fades and dies" — *zz* = "and" (established) | **High** |
+| *shfk* | "howl" (verb) | NEW; howling/wailing sound | Low |
+| *qwor* | "above/over" (preposition) | Also in Phrase 2 (*qwor arwi* = "once more / over again"); here *qwor* precedes NP *ga'halahs agthu* = "above the corpse of this world" | Low–Moderate |
+| *ga'halahs* | "fly-blown corpse" (compound noun) | *ga'* + *halahs* where *halahs* = "corpse/body" (**High**); *ga'* = "fly-blown/rotting" (modifier, NEW) | Moderate–High for *halahs*; Low for *ga'* |
+| *agthu* | "this world" (noun) | *agthu* = "world" (established: *ag'THYZAK agthu* = "we RECLAIM this world") | **High** |
+
+**Syntactic analysis:**
+
+| Adv | Aux | S | V₁ | Conj | V₂ | Prep | NP |
+|-----|-----|---|-----|------|-----|------|-----|
+| *Vwyq* | *agth* | *sshoq'meg N'Zoth* | *vra* | *zz* | *shfk* | *qwor* | *ga'halahs agthu* |
+| "once" | "shall" | "flesh-banners of N'Zoth" | "chitter" | "and" | "howl" | "above" | "corpse of this world" |
+
+**Structure: Adv-Aux-S-[V-Conj-V]-Prep-NP**
+
+##### Auxiliary Inversion under Temporal Fronting (New Pattern)
+
+The most significant grammatical discovery in this phrase is the **Aux-S-V order** (*agth sshoq'meg N'Zoth vra zz shfk*) instead of the established S-Aux-V order (*Sk'shuul agth vorzz*). The auxiliary *agth* precedes the subject *sshoq'meg N'Zoth*, inverting the usual Subject-Auxiliary order.
+
+This inversion is triggered by the fronted temporal adverb *Vwyq* = "once." Compare with the non-fronted Kaahrj phrase:
+
+- **Non-fronted**: *Shath'mag vwyq shu et'agthu* = S-Adv-V-O — *vwyq* appears after the subject, no auxiliary present
+- **Fronted**: *Vwyq agth sshoq'meg N'Zoth vra zz shfk* = Adv-Aux-S-V — *Vwyq* fronted, *agth* inverted to pre-subject position
+
+This parallels English subject-auxiliary inversion after negative/restrictive fronting:
+
+- "Never **have I** seen such horror" (fronted negative + Aux-S-V)
+- "I **have never** seen such horror" (non-fronted, S-Aux-Neg-V)
+
+Shath'Yar appears to have the same pattern: when a temporal adverb is fronted to sentence-initial position for emphasis, the obligative auxiliary inverts to precede the subject. This is the **first attestation of syntactic inversion** in Shath'Yar.
+
+**Confidence: Low–Moderate** for auxiliary inversion under temporal fronting. The single attestation is consistent with a known typological pattern, but requires additional confirmations. An alternative analysis — that *agth* is incorporated into the subject NP as a modal prefix (*agth-sshoq'meg* = "shall-flesh-banners") — is less parsimonious because *agth* has been consistently analyzed as a free auxiliary in six other phrases.
+
+##### Coordinated Verb Phrase with *zz*
+
+*vra zz shfk* = "chitter and howl" — this extends *zz* = "and" coordination to **verb-verb** pairs. Previously, *zz* coordinated:
+- Verbs: *worg zz oou* = "fades and dies" (VP coordination)
+- Nouns: *agash zz maqdahl* = "despair and sorrow" (NP coordination)
+
+The verb-verb coordination confirms *zz* as a **general-purpose coordinator** that can join any two like-category elements (V-Conj-V, N-Conj-N).
+
+##### Genitive Order: Possessor-Possessed vs. Possessed-Possessor
+
+This phrase reveals a **previously unnoticed inconsistency** in Shath'Yar genitive order:
+
+**Established Possessor-Possessed** (from the grammar.md coding):
+- *N'Zoth yyqzz* = "N'Zoth's throne" = Possessor + Possessed
+- *N'Zoth naggwa'fssh* = "N'Zoth's unending glory" = Possessor + Possessed
+- *N'Zoth qornaus* = "N'Zoth's hunger" = Possessor + Possessed
+- *N'Zoth iiyoq* = "the will of N'Zoth" = Possessor + Possessed
+
+**Apparent Possessed-Possessor** (surface order contradicts established pattern):
+- *sshoq'meg N'Zoth* = "flesh-banners of N'Zoth" — surface order is Possessed (*sshoq'meg*) + Possessor (*N'Zoth*)
+- *yeh'glu Shath'Yar* = "blood of the Old Gods" — surface order is Possessed (*yeh'glu*) + Possessor (*Shath'Yar*), but the grammar.md codes Shath'Yar as Possessor (line 365), implicitly acknowledging the reversal
+- *ga'halahs agthu* = "corpse of this world" — surface order is Possessed (*ga'halahs*) + Possessor (*agthu*)
+
+Three hypotheses explain the inconsistency:
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| **Alienable vs. inalienable possession** | Possessor-Possessed for alienable (throne, glory, hunger — things that belong to N'Zoth); Possessed-Possessor for inalienable (flesh-banners, blood, corpse — things intrinsic to the possessor). Typologically attested in many languages. | **Low–Moderate** — coherent semantic split; "flesh-banners" and "blood" are body parts/attributes (inalienable), while "throne" and "glory" are possessions (alienable) |
+| **Proper noun fronting** | When the possessor is a proper name (*N'Zoth*), it is fronted for pragmatic prominence regardless of the underlying genitive order; when the possessor is a common noun (*Shath'Yar*, *agthu*), it follows the possessed. | **Low** — *Shath'Yar* is also a proper name, yet it follows the possessed in *yeh'glu Shath'Yar* |
+| **Genitive order is free/variable** | Shath'Yar does not have a fixed genitive order; both orders are grammatical, with pragmatic factors determining placement. | **Low–Moderate** — simplest analysis; consistent with Shath'Yar's general pragmatic flexibility (fronting, topic-comment structures) |
+
+The inalienable possession analysis is the most linguistically interesting, but the sample is very small. The key test case is *yeh'glu Shath'Yar* = "blood of the Old Gods" — *Shath'Yar* is a proper name, yet it follows the possessed noun, which contradicts the proper-noun-fronting hypothesis. The inalienable analysis handles this: blood is intrinsic to the Old Gods (inalienable), so it follows Possessed-Possessor order.
+
+**Confidence: Low–Moderate** for the inalienable vs. alienable possession analysis. The semantic split is coherent (body parts/attributes vs. possessions), but only three examples of Possessed-Possessor order exist, and the proper-noun variable cannot be fully controlled.
+
+##### *qwor* = "above/over" (Preposition)
+
+*qwor* appears in two confirmed phrases:
+1. *qwor ga'halahs agthu* = "above the fly-blown corpse of this world" — spatial preposition with NP complement
+2. *qwor arwi* = "once more / over again" (Phrase 2) — spatial "over" + adverb "again" → idiomatic "once more"
+
+This dual attestation makes *qwor* one of the better-supported new morphemes in the difficult phrases. The preposition takes an NP complement in spatial usage and combines with *arwi* in a grammaticalized adverbial expression.
+
+**Confidence: Low–Moderate** for *qwor* = "above/over." Two attestations with consistent spatial meaning; the *qwor arwi* idiom in Phrase 2 provides independent confirmation.
+
+##### *ga'halahs* Decomposition
+
+*ga'halahs* = "fly-blown corpse" decomposes as *ga'* + *halahs* where *halahs* = "corpse/body" (**High** confidence). The element *ga'* may mean:
+- "fly-blown/rotting" (adjective modifier) — fits "fly-blown corpse"
+- "this" (demonstrative) — "this corpse" → "the corpse of this world"
+- *ga* (from *gag* = emphatic future?) — unlikely in nominal context
+
+The *ga'* modifier may be related to *ga* in *N'Zoth ga zyqtahg iilth* = "The will of N'Zoth corrupts you" — if *ga* = "will/corrupts" (verbal), a nominal modifier *ga'* = "corrupted/rotting" would be a coherent deverbal adjective.
+
+**Confidence: Low–Moderate** for *ga'* = "rotting/corrupted" (deverbal adjective from *ga* = "corrupt").
+
+**Overall confidence for Phrase 3: Low–Moderate.** The syntactic structure is clearer than Phrases 1–2 due to more established morphemes. The auxiliary inversion pattern and genitive order inconsistency are the most significant findings.
+
+---
+
+#### Partially Coded Phrase: *Hoq aN'qov huqth erh'ongg thoq shanDai h'lwn* = "The sunken realm welcomes your yawning souls."
+
+The grammar.md (Second Extension) coded only the first four words as SVO: S = *Hoq aN'qov*, V = *huqth*, O = *erh'ongg*. The trailing *thoq shanDai h'lwn* was not analyzed.
+
+**Full word-by-word decomposition:**
+
+| Word | Proposed Gloss | Evidence/Reasoning | Confidence |
+|------|---------------|-------------------|------------|
+| *Hoq* | "me" or definite particle "the" | *hoq* = "me" (accusative, confirmed: *Sk'magg yawifk hoq* = "Your suffering strengthens me"); here may function as definite article "the" (homophonous with pronoun) — "the sunken realm" requires a definite marker | Low–Moderate |
+| *aN'qov* | "sunken realm" (noun) | *a-* + *N'qov*; *N'qov* may relate to *an'qov* = "into the heart" (*N'qov* = "heart/depth" with directional *a-* prefix); "sunken realm" = "the depth/realm below" | Low |
+| *huqth* | "welcomes/sates" (verb) | *huqth* = "sate" (*Sk'yahf agth huqth* = "Your souls shall sate N'Zoth's hunger"); "sate" → "welcome/satisfy" — the realm sates/welcomes the souls | Low–Moderate |
+| *erh'ongg* | "yawning/gaping" (adjective) | *erh'ongg* = "choke" (*gag erh'ongg w'ssh* = "will choke for eternity"); "choke" → "gaping/gaping wide" (a choked throat gapes open) → "yawning" | Low |
+| *thoq* | "for" (preposition) | *Thoq fssh N'Zoth* = "For the glory of N'Zoth" — *thoq* = "for" (established) | **High** |
+| *shanDai* | "eternity/souls" (noun) | *shandai* in the speculative dictionary; *erh'ongg thoq shanDai* = "yawning for eternity" or "yawning [souls] for eternity" | Low |
+| *h'lwn* | "all/many" (quantifier) | Possibly related to *H'IWN* = "ALL"; *h'lwn* = "all/many" as a quantifier modifying *shanDai* | Very Low–Low |
+
+**Revised syntactic analysis (S-V-O-PP):**
+
+| S | V | O | PP |
+|---|---|---|-----|
+| *Hoq aN'qov* | *huqth* | *erh'ongg* | *thoq shanDai h'lwn* |
+| "The sunken realm" | "welcomes" | "the yawning [ones]" | "for all eternity" |
+
+The object *erh'ongg* = "the yawning [ones]" is a substantivized adjective (the yawning dead/souls), and the PP *thoq shanDai h'lwn* = "for all eternity" provides temporal context. The English "your yawning souls" adds a possessive ("your") that has no overt Shath'Yar correspondent — there is no *sk'* prefix. The English translation may be idiomatic, adding "your" for coherence without a Shath'Yar source.
+
+**Alternative analysis of the object:**
+
+If *erh'ongg* = object "choke/death" (noun, not adjective), then the phrase reads: "The sunken realm sates death for all eternity" — the realm consumes/welcomes the dead eternally. This is thematically coherent for a "sunken realm" (the underwater domain of N'Zoth's servants).
+
+**Confidence: Low.** The analysis extends established morphemes to new meanings (*erh'ongg* = "yawning", *huqth* = "welcomes") and requires *hoq* to function as a definite article (previously unattested). The PP *thoq shanDai h'lwn* is consistent with established prepositional phrases.
+
+---
+
+#### Previously Uncoded Confirmed Phrases
+
+Systematic comparison of vocabulary.md against the grammar.md coding reveals no additional confirmed phrases that were completely omitted from the systematic coding. All 94+ phrases in the confirmed phrase tables have been at least partially coded. The only gap was the *thoq shanDai h'lwn* tail of the Storm's End phrase, analyzed above.
+
+---
+
+#### Untranslated Phrases: Partial Analysis Using the Speculative Dictionary
+
+The following untranslated phrases can be partially analyzed using the established speculative dictionary. All analyses are **Very Low–Low confidence** unless otherwise noted.
+
+##### *Athu'gag magg'naggwa. Qor'naus'agth lwhuk. Lilth gag'huqth'hoq.* (Drak'thul, Weathered Relic)
+
+This three-sentence phrase is the most analytically productive untranslated passage:
+
+| Sentence | Decomposition | Proposed Literal | Proposed Idiomatic |
+|----------|--------------|-----------------|-------------------|
+| *Athu'gag magg'naggwa* | *Athu'* + *gag* + *magg* + *naggwa* | "[?] will suffering unending" | "Unending torment will [come]" |
+| *Qor'naus'agth lwhuk* | *qor* + *naus* + *agth* + *lwhuk* | "endless hunger shall devour" | "Endless hunger shall devour" |
+| *Lilth gag'huqth'hoq* | *Lilth* (= *iilth* variant?) + *gag* + *huqth* + *hoq* | "you will sate me" | "You will sate me" |
+
+The second and third sentences are remarkably well-supported by the speculative dictionary:
+- *qor* = "endless" (Low–Moderate), *naus* = "hunger" (Low–Moderate) → *qor'naus* = "endless hunger" — the same compound appears in *N'Zoth qornaus* = "N'Zoth's hunger" (confirmed)
+- *agth* = "shall" (obligative, **High**), *lwhuk* = "devour" (**High**) → "shall devour"
+- *Lilth* ≈ *iilth* = "you" (Moderate; see Investigation 3 allophonic variants)
+- *gag* = emphatic future "will" (Moderate), *huqth* = "sate" (Moderate), *hoq* = "me" (**High**) → "you will sate me"
+
+The first sentence is less clear: *Athu'* is unattested, but *gag* = "will" and *magg'naggwa* = "unending torment" (*magg* = "suffering/torment" **High** + *naggwa* = "unending" Moderate) are well-supported.
+
+**Confidence: Low–Moderate** for sentences 2–3 (multiple established morphemes); Very Low for sentence 1 (*Athu'* unattested).
+
+##### *Uulwi gag erh'ongg w'ssh/w'ssht.* (Uhn'agh Fash / The Beast Unleashed)
+
+This is nearly identical to the confirmed Yogg-Saron phrase *Uulwi ifis halahs gag erh'ongg w'ssh* = "The shadow of my corpse will choke this land for all eternity." The only differences: (1) *ifis halahs* ("of my corpse") is absent, and (2) a variant *w'ssht* with final /t/ appears in one source.
+
+| Decomposition | Proposed Meaning |
+|--------------|-----------------|
+| *Uulwi* + *gag* + *erh'ongg* + *w'ssh* | "Shadow will choke for eternity" |
+
+Without *ifis halahs*, the phrase lacks "of my corpse" and becomes more general: "Shadow will choke [for all eternity]" rather than "The shadow of my corpse will choke this land for all eternity." The *w'ssht* variant may reflect a phonological or dialectal variant of *w'ssh* = "for eternity."
+
+**Confidence: Moderate–High.** All morphemes are established from the confirmed Yogg-Saron phrase; the absence of *ifis halahs* is the only structural difference.
+
+##### *Log'loth og shandai* (Lycanthoth the Corruptor quest)
+
+| Word | Proposed Gloss | Confidence |
+|------|---------------|------------|
+| *Log'loth* | "Children" | **High** — *Log'loth w'oq Ongg!* = "Children, come and feed!" (confirmed) |
+| *og* | "in/at" (preposition) or existential copula "there is" | Low–Moderate — see Investigation 8 for *og* homophony |
+| *shandai* | "eternity/souls" | Low — speculative dictionary |
+
+Two readings:
+- *og* = preposition "in/at": "Children in eternity" → "Eternal children" or "Children of eternity"
+- *og* = existential copula "there is": "There are children [of] eternity"
+
+Both readings are coherent for a cultist's self-description. The preposition reading is more natural for the word order (N-Prep-N), while the existential reading would create a full clause.
+
+**Confidence: Low.** The morphemes are individually attested but the specific combination is unique.
+
+##### *Al'tha, Al'tha bormaz. Ni bormaz ta'thall?* (Free Your Mind quest)
+
+| Word | Proposed Gloss | Evidence | Confidence |
+|------|---------------|----------|------------|
+| *Al'tha* | "free" | Quest name "Free Your Mind"; also *I zz nuq al'tha* in Mote of Cosmic Truth sermon | Low–Moderate |
+| *bormaz* | "infection/plague" | *Zuq ag'xig bormaz ag'thyzak* = "You cannot escape infection!" (confirmed) | **High** |
+| *Ni* | "and/see" | *Ma sk'magg ni arwi* = "The eye sees all" (*ni* = "sees"?); or *ni* = "and/to" | Low |
+| *ta'thall* | "escape/resist" | Unattested; phonological structure *ta'* + *thall* | Very Low |
+
+Proposed reading: "Free, free [from] plague. And/see [can you] escape [the] plague?" The reduplication *Al'tha, Al'tha* parallels *aqev... aqev...* = "mad... mad..." The second sentence appears to be a rhetorical question: "Can [you] resist infection?"
+
+**Confidence: Very Low–Low.** *bormaz* = "infection" is well-supported; the rest is speculative.
+
+##### *Thoth'al amun Ree'thael vormos! Vormos! Vormos!* (Free Your Mind quest)
+
+| Word | Proposed Gloss | Evidence | Confidence |
+|------|---------------|----------|------------|
+| *vormos* | "escape" | *Og vormos* = "No escape" (confirmed) — *vormos* = "escape" | **High** |
+| *amun* | "maw/mouth" | *Qam oou iilth ez i awtgsshu amun on'ma* = "Let the feast of a thousand maws begin" — *amun* = "maw" | Low–Moderate |
+| *Thoth'al* | "call/summon" | *Thoth* + *'al*; unattested elsewhere | Very Low |
+| *Ree'thael* | unknown proper name or title | Unattested; 9-letter form with apostrophe | Very Low |
+
+The reduplication *Vormos! Vormos! Vormos!* parallels *aqev... aqev... aqev* = "mad... mad... mad..." and *Vormos! Vormos! Vormos!* in the confirmed phrase *Og h'iwn Og vormos Hoq sshoq'meg thoq wotH'gl* = "No light. No escape. The forgotten king returns."
+
+Proposed reading: "[Call/summon] [maw] [Ree'thael]! Escape! Escape! Escape!" — or, given the Quest name "Free Your Mind," possibly: "[?] [maw] [?]! No escape! No escape! No escape!" (interpreting *vormos* as part of a negated construction).
+
+**Confidence: Low.** *vormos* = "escape" is confirmed; the rest is highly speculative.
+
+##### *Bo'al lal arwi C'toth.* (Free Your Mind quest)
+
+| Word | Proposed Gloss | Evidence | Confidence |
+|------|---------------|----------|------------|
+| *Bo'al* | "come/before" | Unattested; *Bo'* + *'al* | Very Low |
+| *lal* | "new" (adjective) or "within" (preposition) | From Phrase 1 analysis | Low |
+| *arwi* | "all/entirety" | From Phrase 2 analysis; also in *Ma sk'magg ni arwi* = "The eye sees all" | Low |
+| *C'toth* | proper name or "void-[entity]" | *C'* initial prefix (cf. *C'Thun*); *toth* = unknown | Very Low |
+
+If *lal* = "new" and *arwi* = "all": "[Come/before] new all [of] C'toth" = "Come to the new entirety of C'toth" — possibly an invocation or summons.
+
+**Confidence: Very Low.** All morpheme assignments are speculative.
+
+##### *Yrr n'lyeth... shuul anagg!* (Yogg-Saron raid)
+
+| Word | Proposed Gloss | Evidence | Confidence |
+|------|---------------|----------|------------|
+| *Yrr* | connective "and/so" | *Oou oou ryiu nuq Yrr par'okoth yrr vorzz* = "We slumber no more! We rise... as he rises!" — *Yrr/yrr* = connective | Low–Moderate |
+| *n'lyeth* | "survive" | *Zuq wgah qam n'lyeth* = "You will not survive!" (confirmed) — *n'lyeth* = "survival/life" | **High** |
+| *shuul* | "death" | *Sk'shuul* = "your deaths"; *Shuul'wah* = "Deathwing" — *shuul* = "death" | **High** |
+| *anagg* | "forever/endless" | *Sk'yahf qi'magg luk sshoq anagg'qen* = "Your soul will wander roads that twist in endless spirals" — *anagg* root = "endless/forever" | Low–Moderate |
+
+Proposed reading: "And [not] survive... death [forever]!" = "And [you shall] not survive... endless death!" — a Yogg-Saron death threat.
+
+**Confidence: Low–Moderate.** *n'lyeth*, *shuul*, and *anagg* are well-attested; *Yrr* as connective is Low–Moderate.
+
+##### *Tulall par'okoth. Far'al, ka'kar.* (Free Your Mind quest)
+
+| Word | Proposed Gloss | Evidence | Confidence |
+|------|---------------|----------|------------|
+| *Tulall* | unknown | Unattested | Very Low |
+| *par'okoth* | "rise" | *Yrr par'okoth yrr vorzz* = "We rise... as he rises!" — *par'okoth* = "rise" | Low–Moderate |
+| *Far'al* | "reduce/destroy" | *I wgah far'al zuq ni shn* = "I will reduce you to ash" — *far'al* = "reduce/destroy" | Low–Moderate |
+| *ka'kar* | "ash/fire" | Unattested; *ka'* + *kar*; *kar* in *Mh'za uulwi skshgn kar* = "Only a place where even shadows fear to go" — *kar* = "go/fear"? or *ka* + *'kar* = "burning" | Very Low |
+
+Proposed reading: "[?] rise. Reduce [to] ash/fire." — possibly a threat or command.
+
+**Confidence: Very Low.** Only *par'okoth* and *far'al* have speculative dictionary support.
+
+##### *Gillari, geth'shar. Gillari, teko'shar.* (Babbling Cultist)
+
+The parallel structure (*X, Y. X, Z.*) with shared *-shar* suffix suggests ritual address:
+
+| Word | Proposed Gloss | Evidence | Confidence |
+|------|---------------|----------|------------|
+| *Gillari* | proper name or title | Repeated in vocative position | Very Low |
+| *-shar* | suffix "one/servant/follower" | Shared between *geth'shar* and *teko'shar* | Low |
+| *geth'* | "faithful/come" | Unattested; possibly related to *geth* = "come"? | Very Low |
+| *teko'* | "dark/another" | Unattested | Very Low |
+
+Proposed reading: "[Gillari], faithful one. [Gillari], dark one." — a ritual or ceremonial address with contrasting epithets.
+
+**Confidence: Very Low.** The *-shar* suffix is a reasonable inference from the parallel structure but has no other attestation.
+
+##### Remaining untranslated phrases with minimal analytic yield
+
+The following phrases lack sufficient recognizable morphemes for meaningful analysis:
+
+| Phrase | Recognizable elements | Assessment |
+|--------|----------------------|------------|
+| *Al'golath mal shal'nel* | None confirmed | Completely opaque |
+| *F'lakh ghet!* | None confirmed | Exclamatory; likely a command |
+| *F'tagh nah'hat! I'mmathan! Sha'lub nahab! Sha'lub nahab!* | Reduplication *nah'hat/nahab*; *Sha'lub* repeated | Ritual chant; possible *nah-* = "arise" root |
+| *H'thon marwol qualar* | *H'thon* = "errant/flesh" (from Mote of Cosmic Truth) | "Errant flesh [is] corrupt form"; *mar-* prefix may = "corrupt" |
+| *Immalanath, yasoth nalarub!!!* | None confirmed | Three exclamation marks; likely a curse or invocation |
+| *Mar'kowa tallol ye'tarin* | *ye'* may relate to *yeh'glu* or *ye* in *Shath'mag sshk ye* | *mar-* prefix (= "corrupt"?) appears in both *marwol* and *Mar'kowa* |
+| *Pwhn'guul i ghawl'fwata ryiu wgah uul'gwan h'iwn guu'lal* | *i* = "I", *ryiu* ≈ "slumber", *wgah* = "will", *h'iwn* = "all" | "I [slumber]... will... all..."; very long phrase with many unknowns |
+| *Shethnoth, ol'goth, grell* | *ol'goth* may relate to *-goth* in *Yogg-Saron* or *ol'* = "great" | Three-word list; possibly ranks or entities |
+| *Shur'nab... shur'nab... Yogg-Saron!* | Reduplication + proper name | Ritual invocation: "[Praise]... [praise]... Yogg-Saron!" |
+| *Xal'atoh* | *Xal'* shared with *Xal'atath* | "Blade/knife [form]" — parallel to *Xal'atath* |
+| *Y'knath k'th'rygg k'yi mrr'ungha gr'mula* | *k'th'* may relate to *K'thir*; *gr'* may relate to *Shath'gral* | Puzzle Box of Yogg-Saron; cryptic prophecy; most alien-sounding phrase |
+
+**Notable cross-phrase pattern: *mar-* = "corrupt/dark"**
+
+Both *marwol* (in *H'thon marwol qualar*) and *Mar'kowa* (in *Mar'kowa tallol ye'tarin*) begin with *mar-*, and both appear in the "Free Your Mind" quest which deals with corruption and mind control. If *mar-* = "corrupt/dark" as a productive prefix, it would join *Shath-* = "old/black" as a second adjective-forming prefix in Shath'Yar.
+
+**Confidence: Very Low.** Only two potential attestations with no confirmed meaning.
+
+---
+
+#### Summary: New Grammatical Patterns from the Reanalysis
+
+| Pattern | Source | Confidence | Significance |
+|---------|--------|------------|--------------|
+| **Auxiliary inversion under temporal fronting** | *Vwyq agth sshoq'meg N'Zoth* = Adv-Aux-S-V (Phrase 3) | Low–Moderate | First attestation of syntactic inversion in Shath'Yar; parallels English subject-auxiliary inversion after negative/restrictive fronting |
+| **Possessed-Possessor as alternative genitive order** | *sshoq'meg N'Zoth*, *yeh'glu Shath'Yar*, *ga'halahs agthu* (Phrase 3) | Low–Moderate | Contradicts established Possessor-Possessed order; may reflect alienable vs. inalienable possession distinction |
+| ***qwor* = "above/over" (spatial preposition)** | Phrase 2 + Phrase 3 | Low–Moderate | First spatial preposition beyond *thoq* = "for" and *an-* = "into"; takes NP complement (*qwor ga'halahs agthu*) |
+| ***lal* = perfective aspect or adjective "new"** | Phrase 1 + *Oou gul'kafh lal lwhuk* + *i lal halahs nuq* | Low | May fill a gap in the aspectual system (no perfective previously identified) |
+| ***oou* as polysemous noun stem** | "contagion" (Phrase 1), "key" (Phrase 2), "death/titans" (established) | Very Low–Low | Core meaning may be "that which opens/transforms/unlocks" — thematically coherent for Void language |
+| ***arwi* = "all/entirety/again" (quantifier)** | Phrase 2 + Deep Watcher phrase | Low | Dual function as nominal quantifier ("all") and adverbial ("again/completely") |
+| **Verb-verb coordination with *zz*** | *vra zz shfk* = "chitter and howl" (Phrase 3) | **Moderate** | Extends *zz* = "and" to general-purpose coordinator (V-Conj-V confirmed alongside N-Conj-N and previously attested V-Conj-V in *worg zz oou*) |
+| ***ga'* = "rotting/corrupted" (deverbal adjective)** | *ga'halahs* = "fly-blown corpse" (Phrase 3) | Low | May derive from *ga* in *N'Zoth ga zyqtahg* = "The will of N'Zoth corrupts" |
+| ***mar-* = "corrupt/dark" (prefix)** | *marwol*, *Mar'kowa* (untranslated phrases) | Very Low | Potential second adjective-forming prefix alongside *Shath-* = "old/black" |
+
+**Updated total: 94+ codable phrases** (no change in count; the three difficult phrases were already included at Very Low confidence). The reanalysis upgrades Phrase 3 from "Difficult/Low-Confidence" to **Low–Moderate confidence** due to the auxiliary inversion and genitive order findings. Phrases 1–2 remain at Very Low–Low confidence.
