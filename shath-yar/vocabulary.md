@@ -410,6 +410,7 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | arwi | all / entirety / again | *Ma sk'magg ni arwi* = "The eye sees all"; *qwor arwi* = "once more / over again" | **Low** — dual function as nominal quantifier and adverbial; see grammar.md Investigation 10 |
 | ga' | rotting / corrupted | *ga'halahs* = "fly-blown corpse" (*ga'* + *halahs* = "corpse"); may derive from *ga* in *N'Zoth ga zyqtahg* = "The will of N'Zoth corrupts" | **Low** — deverbal adjective from *ga* = "corrupt"; see grammar.md Investigation 10 |
 | mar- | corrupt / dark (prefix) | *marwol* in *H'thon marwol qualar* (untranslated); *Mar'kowa* (untranslated) — both in corruption-related contexts | **Very Low** — only from untranslated phrases; potential second adjective-forming prefix alongside *Shath-* = "old/black"; see grammar.md Investigation 10 |
+| ag'xig | cannot (negative modal) | *Zuq ag'xig bormaz* = "You cannot escape"; *Oou vwahuHn ag'xig shfk zuq* = "The titans cannot save you"; *KYTH ag'xig yyg'far* = "SEE how we pour" (if *ag'xig* ≠ "cannot" here) | **Low** — 3 attestations; deontic/dynamic negation "cannot" distinct from propositional *maq*/*noq*; not person-conditioned (appears with 2nd and 3rd person subjects); third attestation may have different function; see grammar.md Investigation 5 |
 
 ## Investigation: *domanaar* and the *-aar* Suffix
 

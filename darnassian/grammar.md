@@ -866,20 +866,39 @@ However, *-mara* is not identified as a productive Zandali morpheme, and the two
 
 **Confidence: Very Low** for *-mara* as a shared Proto-Troll morpheme. The phonological match is exact but the semantic evidence from Zandali is absent, and /mara/ is a common syllable pattern.
 
+#### Candidate E: *Shul'* "shadow" ↔ *Shal* "shadow/twilight" — **NEW Round 29**
+
+| | Hara'ni | Darnassian |
+|---|---------|-----------|
+| **Form** | *Shul'* /ʃʊl/ | *Shal* /ʃɑl/ (in *Shala'nir*, *Shal'Aran*, *Shaladrassil*) |
+| **Confirmed meaning** | "shadow" (in *Shul'ka* = "Hunters of Shadows") | "shadow/twilight" (inferred from *Shal'Aran*, *Shala'nir*, *Shaladrassil*) |
+| **Attestations** | *Shul'ka* = "Hunters of Shadows" | *Shal'Aran* (dark refuge), *Shala'nir* (druid grove), *Shaladrassil* (corrupted world tree) |
+
+The consonantal skeleton /ʃ_l/ is preserved identically in both branches. The vowel difference /ʊ/ ↔ /ɑ/ is explicable via a regular sound change: if the Proto-Troll-Elven vowel was */ɔ/ (mid back rounded), Hara'ni raised it to /ʊ/ while Darnassian lowered it to /ɑ/. Both forms show consistent compounding with other morphemes (*Shul'* + *-ka*, *Shal* + *-Aran*, *Shal* + *-nir*, *Shal* + *-drassil*).
+
+This candidate is significant because it is **independent of the /h/ → ∅ hypothesis** — unlike *Har'/Aran*, this pair requires no unconfirmed sound change. The only change needed is a vowel quality shift, which is one of the most common types of sound change.
+
+**Semantic consistency**: In both languages, the root is associated with darkness and concealment. *Shul'ka* = "shadow-hunters" (Hara'ni warriors who patrol the Rift of Aln). *Shal'Aran* = "shadow-town" or "twilight-refuge" (the Nightborne sanctuary). *Shaladrassil* = "shadow-crown" (a world tree associated with nightmare corruption in Val'sharah, literally "vale of twilight"). *Shala'nir* = "shadow-people/grove" (druid grove at the base of Shaladrassil).
+
+**Problem**: The Darnassian *Shal* meaning is inferred rather than confirmed by explicit translation. Additionally, the Darnassian kinship root *Shal'* in *Shal'nar* ("aunt") and Thalassian *Shal'na* ("aunt") may be a homophonous morpheme; if toponymic *Shal* and kinship *Shal* are the same root, "aunt" would require derivation from "shadow-kin" or "close/dark-kin" via kinship metaphor.
+
+**Confidence: Low–Moderate** for *Shul'* ↔ *Shal* as a shared Proto-Troll-Elven root meaning "shadow/darkness." The consonantal match is exact and the semantics are precise, but the Darnassian meaning is inferred and short CVC forms increase coincidence probability.
+
 #### Assessment: Hara'ni–Elven Cognate Candidates
 
 | Candidate | Correspondence | Confidence | Key Strength | Key Weakness |
 |-----------|---------------|------------|--------------|--------------|
 | *-nir* collective suffix | Shared suffix | Low–Moderate | Exact phonological match; consistent function in proper names | Semantic gap ("people" vs. "bringer/bearer"); small sample |
 | *Har'* ↔ *Aran* "settlement" | Shared root with /h/ loss | Low–Moderate | Exact semantic match; /h/ → ∅ is typologically natural | Not independently confirmed; sporadic rather than systematic /h/ loss |
+| *Shul'* ↔ *Shal* "shadow" | Shared root with vowel shift | Low–Moderate | Exact semantic match "shadow"; identical /ʃ_l/ skeleton | Darnassian meaning inferred; short CVC; possible homophony with kinship *Shal'* |
 | *Aln-* ↔ *\*ala-* "essence" | Shared root with *-n* suffix | Very Low–Low | Coherent semantic framework; /al-/ onset shared | Extra *-n* unexplained; semantic gap significant |
 | *-mara* "balance" | Shared suffix | Very Low | Exact phonological match | No Zandali semantic evidence; /mara/ is a common syllable |
 
-**Overall assessment**: The convergence of multiple weak signals — *-nir* (suffix), *Har'/Aran* (root), *\*ala-/Aln-* (root) — is consistent with deep genetic relationship at ~16,000 years of divergence, where most shared morphology has been erased. The strongest individual candidate is *-nir* (phonologically exact, morphologically consistent), followed by *Har'/Aran* (semantically exact but phonologically requiring an unconfirmed sound change). No single cognate is conclusive, but the pattern is more than would be expected by chance alone for languages separated by 16,000 years.
+**Overall assessment**: The convergence of three plausible cognate pairs — *-nir* (collective suffix), *Har'/Aran* (settlement root), *Shul'/Shal* (shadow root) — across three independent semantic domains (morphology, toponymy, vocabulary) is more than would be expected by chance for languages separated by ~16,000 years. The identification of *Shul'/Shal* is particularly significant because it does not depend on the unconfirmed /h/ → ∅ sound change, providing an independent line of evidence for deep genetic relationship.
 
-**Critical test**: If additional Hara'ni–Elven cognate pairs can be identified that share the /h/ → ∅ correspondence (Hara'ni initial /h/ ↔ Elven zero), this would significantly strengthen the *Har'/Aran* analysis and the overall case for cognate identification. Conversely, if no such pairs are found despite expanded data, the /h/ frequency difference is likely a Hara'ni innovation rather than an Elven loss.
+**Critical test**: If additional Hara'ni–Elven cognate pairs can be identified that share the /h/ → ∅ correspondence (Hara'ni initial /h/ ↔ Elven zero), this would significantly strengthen the *Har'/Aran* analysis and the overall case for cognate identification. A systematic search of all Hara'ni /h/-initial words against Darnassian and Thalassian vowel-initial words found no additional /h/ → ∅ pairs beyond *Har'/Aran*, suggesting that if the correspondence is genuine, it may be limited to this single root or require more data to confirm. Conversely, *Shul'/Shal* provides a second cognate that does not require /h/ → ∅, strengthening the overall case regardless.
 
-**Confidence: Low–Moderate** that at least one of these candidates (*-nir* or *Har'/Aran*) reflects a genuine Proto-Troll-Elven cognate; **Very Low** for any specific candidate being individually confirmed.
+**Confidence: Low–Moderate** that at least two of the three top candidates (*-nir*, *Har'/Aran*, *Shul'/Shal*) reflect genuine Proto-Troll-Elven cognates; **Moderate** confidence that at least one does.
 
 ### Investigation 14: *-ah* as Proto-Elven Derivational Suffix
 
@@ -892,6 +911,7 @@ Three independent cognate sets show a recurrent *-ah* /-ɑ/ suffix attached to C
 | *tal* | *talah* | "death" | "death" (extended/verbal?) | Both Darnassian & Thalassian | Set 13 |
 | *al* (root) | *alah* | "light" (root) | "light/blessed" | Both Darnassian & Thalassian | Sets 1, 9 |
 | *fal* (root) | *falah* / *fallah* | "disruption" (root) | "balance/breaking" | Both Darnassian & Thalassian | Set 15 |
+| *dor* | *dorah* | "crown" | "valor/honor" (nominalized) | Both Darnassian & Thalassian | **NEW Round 29** |
 
 The elven-comparative.html Correspondence 7 notes the *-ah* pattern at Low confidence, observing that "the pattern is suggestive but could be coincidental given the frequency of /a/ in elven word-final position." However, the pattern has not been tested systematically.
 
@@ -921,6 +941,28 @@ If *-ah* is a genuine derivational suffix, it should show consistent morphologic
 
 If *-ah* is Proto-Elven, Nazja should preserve it. However, Nazja provides one tentative *-ah* reflex: the *Nazj-*/*Nazja* pair (Round 20). The CVC root *Nazj-* is independently attested in 5+ compounds (*Nazjatar*, *Naz'jar*, *Nazeshi*, *Nazjak*), and the language name *Nazja* may decompose as *Nazj-* + *-ah* → *Nazja* (with regular h-loss in open final syllable). Semantically, this yields root "deep/naga" → nominalized "that which is naga / the naga tongue" — a coherent derivation for a language name. However, the *-a* in *Nazja* could equally be a thematic vowel or part of an indivisible proper name, and no second *-ah* pair exists in Nazja to provide converging evidence. The RPG form *Dallah* (silence spell) explicitly ends in *-ah* but is non-canon and lacks an attested root. **Confidence: Low–Moderate** for *Nazj/Nazja* as a genuine *-ah* reflex
 
+#### Fourth *-ah* Pair: *dor* → *dorah* — **NEW Round 29**
+
+The root *dor* = "crown" is one of the best-attested Darnassian morphemes, appearing in 5+ World Tree names (*Teldrassil*, *Nordrassil*, *Amirdrassil*, etc. — all *dor* + *-drassil* compounds). The form *dorah* appears in both Darnassian and Thalassian with a consistent semantic extension:
+
+| | Darnassian | Thalassian |
+|---|-----------|------------|
+| **Attestations** | *Anu Dorah* (memorial plaque closing = "I/We remember"); *Tor falah-no dorah* (Malfurion) | *Thas'dorah* ("Valor of the Forest"); *Shan'dorah* (Ren'dorei camp name) |
+
+If *dor* + *-ah* = *dorah*, the semantic shift "crown" → "that which is crowned/honored" → "valor/honor" is coherent. In the memorial context (*Anu Dorah*), *dorah* could mean "remembrance" (that which is honored/crowned in memory). In *Thas'dorah*, "forest's honor" = "valor of the forest" is a clean translation.
+
+**Structural parallel with Investigation 15**: *Thas'dorah* follows the same *Thas'* + [X + *-ah*] compounding pattern as *Thas'talah* and *Thas'alah*:
+
+| Compound | Pattern | Root *X* | *X* + *-ah* | Full Gloss |
+|----------|---------|-----------|-------------|------------|
+| *Thas'talah* | *Thas'* + *tal-ah* | *tal* "death" | *talah* "death" (nom.) | "forest of death" |
+| *Thas'alah* | *Thas'* + *al-ah* | *al* "light" | *alah* "light/blessed" (nom.) | "Light of the Forest" |
+| *Thas'dorah* | *Thas'* + *dor-ah* | *dor* "crown" | *dorah* "valor/honor" (nom.) | "Valor of the Forest" |
+
+This is the **third** compound in this pattern, and *dor* is the first root that does not end in /l/ — demonstrating that *-ah* attaches regardless of root-final consonant, not just to /l/-final roots like the original three pairs (*tal*, *al*, *fal*).
+
+**Additional weaker candidates**: Two further *-ah* pairs were identified but remain below the threshold for inclusion in the evidence table: (1) *shal* "twilight" → *shala* "safe" (Low confidence; semantic shift requires cultural inference), and (2) *ash* → *asha* "blessed/grace" (Low confidence; semantic link between Darnassian "command focus" and Thalassian "blessed" is weak).
+
 #### Alternative Analyses
 
 | Hypothesis | Description | Confidence |
@@ -931,7 +973,7 @@ If *-ah* is Proto-Elven, Nazja should preserve it. However, Nazja provides one t
 
 The phonological coincidence analysis is weakened by the observation that the *-ah* forms are morphologically paired with base forms lacking *-ah* (*tal*/*talah*, *al*/*alah*, *fal*/*falah*). If word-final /-ah/ were purely accidental, we would not expect it to systematically correspond to shorter cognate forms.
 
-**Confidence: Low–Moderate** for *-ah* as a Proto-Elven derivational suffix. The three independent cognate pairs are consistent with a unified analysis, and the semantic coherence (nominalizer/stative resultative) is typologically natural. However, the small sample (3 pairs) and the frequency of /a/ in word-final position leave open the possibility of coincidence. If additional *-ah* pairs are identified (e.g., a root *X* with both *X* and *Xah* attested), confidence would increase significantly.
+**Confidence: Moderate** for *-ah* as a Proto-Elven derivational suffix (upgraded from Low–Moderate). Four independent cognate pairs (*tal/talah*, *al/alah*, *fal/falah*, *dor/dorah*) show consistent morphological behavior: *-ah* attaches to monosyllabic roots to form nominalized/stative nouns. The *dor* → *dorah* pair demonstrates that *-ah* is not restricted to /l/-final roots, significantly weakening the coincidence hypothesis. The semantic coherence (nominalizer/stative resultative) is typologically natural and parallels Arabic *-a* and PIE *-eh₂*. However, the frequency of /a/ in word-final position still leaves a residual possibility of coincidence, and the weaker candidates (*shal/shala*, *ash/asha*) do not independently strengthen the analysis.
 
 **Cross-reference**: *Thas'talah* (Investigation 15) provides another attestation context for the *-ah* suffix: if *talah* = *tal* "death" + *-ah* (nominalizer), then *Thas'talah* = "forest of death" is semantically coherent and adds to the *talah* attestation count. The structural parallel with Thalassian *Thas'alah* (*al* + *-ah*) further supports *-ah* as a productive nominalizer in the compounding pattern [*toponymic morpheme* + *nominalized root*].
 
@@ -955,8 +997,9 @@ If *Thas* is genuinely Darnassian (not a Thalassian borrowing), it would confirm
 |----------|---------|-----------|-------------|------------|
 | *Thas'talah* | *Thas'* + *tal-ah* | *tal* "death" | *talah* "death" (nominalized) | "forest of death" |
 | *Thas'alah* | *Thas'* + *al-ah* | *al* "light" | *alah* "light/blessed" (nominalized) | "forest of light" / "Light of the Forest" |
+| *Thas'dorah* | *Thas'* + *dor-ah* | *dor* "crown" | *dorah* "valor/honor" (nominalized) | "forest of valor" / "Valor of the Forest" |
 
-This parallel significantly strengthens both the *Thas* analysis and the *-ah* suffix analysis: two independent morphemes are supported by the same structural evidence.
+This parallel significantly strengthens both the *Thas* analysis and the *-ah* suffix analysis: two independent morphemes are supported by the same structural evidence. The three-compound paradigm also demonstrates that *-ah* nominalization in this pattern is productive and not limited to a single semantic field (*tal* = death, *al* = light, *dor* = crown).
 
 The relationship between *Thas* "forest" and *Thalas* "home/realm" is noteworthy: both begin with /θ/ + vowel + alveolar consonant + vowel + sibilant. Three hypotheses:
 
@@ -964,4 +1007,4 @@ The relationship between *Thas* "forest" and *Thalas* "home/realm" is noteworthy
 2. **Thas as compound element**: *Thas* = *Thal* + *-as* where *Thal* relates to *Thalas* and *-as* is an unknown suffix
 3. **Coincidental similarity**: The phonological similarity is accidental; *Thas* "forest" and *Thalas* "home" are unrelated
 
-**Confidence: Moderate** for *Thas* as a Darnassian toponymic morpheme (upgraded from Low–Moderate). The cross-reference with Investigation 14 provides a complete translation for *Thas'talah* ("forest of death"), and the structural parallel with Thalassian *Thas'alah* ("Light of the Forest") demonstrates a productive compounding pattern [*Thas'* + nominalized root]. While the Darnassian attestation remains a single example, the morpheme could be a Thalassian borrowing rather than a native cognate; however, the coherent semantics and cross-elven distribution are consistent with Proto-Elven inheritance.
+**Confidence: Moderate–High** for *Thas* as a Darnassian toponymic morpheme (upgraded from Moderate). The three-compound paradigm (*Thas'talah*, *Thas'alah*, *Thas'dorah*) demonstrates a productive compounding pattern [*Thas'* + nominalized root], and the cross-reference with Investigation 14 (*-ah* suffix) provides mutually reinforcing evidence. While the Darnassian attestation remains a single example, the three Thalassian attestations and the structural consistency across all three compounds support Proto-Elven inheritance.

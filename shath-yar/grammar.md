@@ -745,6 +745,32 @@ The distinction between *En'* (copular negation, forming a full clause) and *og*
 
 **Confidence: Low–Moderate** for *En'* as a negative existential copula. The decomposition *En'* + *othk* is phonologically clean and semantically coherent, but the compound noun alternative (*En'othk* = "darkness") cannot be ruled out. Additional attestations of *En'* + [noun] would strongly support the copula analysis.
 
+#### Complete Negation Inventory — **UPDATED Round 29**
+
+A systematic search of the entire Shath'Yar corpus identifies nine potential negation elements with 15 total attestations:
+
+| Element | Type | Position | Attestations | Confidence | Key Examples |
+|---------|------|----------|-------------|------------|--------------|
+| *maq* | Verbal negation (3rd person) | S-Neg-V | 2 | High | *Ywaq maq oou* = "They do not die"; *Ywaq maq ssaggh* = "They do not live" |
+| *noq* | Verbal negation (1st person) | S-Neg-V | 2 | Moderate | *Y'za noq mah* = "I am not the first"; *Y'za noq ormz* = "I am not the last" |
+| *og*₁ | Existential negation particle | Neg-N | 2 | Low–Moderate | *Og h'iwn* = "No light"; *Og vormos* = "No escape" |
+| *En'* | Negative existential copula | Before N (predicate) | 1 | Low–Moderate | *En'othk* = "There is no light" |
+| *sythn* | Negative modal "cannot" | S-Neg-V | 2 | Low–Moderate | *Y'za sythn oou* = "I cannot die"; *Iilth sythn aqev* = "You cannot [resist] madness" |
+| *NEL'OTHK* | Negative modal (SHOUTED) | Unknown | 1 | Very Low–Low | *IIYOQ NEL'OTHK AR'AFGH!* = "IT CANNOT BE CONTAINED!" |
+| *Naza* | Negative quantifier "not one" | NegQuant-NP | 1 | Very Low | *Naza bul rexil qalic ul'* = "Not a single worthy trait" |
+| *nuq* | Aspectual negation "no more"? | Post-V | 1 | Very Low–Low | *Oou oou ryiu nuq* = "We slumber no more" |
+| *ag'xig* | Negative modal "cannot" | Pre-V | 3 | Low | *Zuq ag'xig bormaz* = "You cannot escape"; *Oou vwahuHn ag'xig shfk* = "The titans cannot save you" |
+
+The negation system shows a three-tier structure:
+
+1. **Core propositional negation** (*maq*, *noq*): Negate the truth of a proposition. Person-conditioned allomorphy is perfectly distributed (2 *maq* with *Ywaq* "they", 2 *noq* with *Y'za* "I") but with only 4 data points. **No 2nd-person propositional negation example exists** — the two 2nd-person negative contexts (*Iilth sythn aqev*, *Zuq ag'xig bormaz*) both use specialized negative modals rather than *maq*/*noq*, leaving the person-conditioning hypothesis untestable.
+
+2. **Existential negation** (*og*₁, *En'*): Negate existence. *og*₁ forms bare negative NPs ("no light"); *En'* forms full negative existential clauses ("there is no light"). Together with affirmative *og*₂ (see Investigation 8), these complete a four-way copula/existential paradigm: *ma* (affirmative predicative), *og*₂ (affirmative existential), *En'* (negative existential), *og*₁ (existential negation particle).
+
+3. **Negative modals** (*sythn*, *NEL'OTHK*, *ag'xig*): Express inability or impossibility. These may constitute a separate grammatical category (deontic/dynamic negation: "cannot") distinct from propositional negation (*maq*/*noq*: "do not / am not"). *ag'xig* appears with both 2nd-person (*Zuq*) and 3rd-person (*Oou vwahuHn*) subjects, confirming it is not person-conditioned like *maq*/*noq*.
+
+The *og* homophony (*og*₁ negation vs. *og*₂ affirmative existential/locative) is confirmed by 5 classified attestations: 2 × *og*₁ (negation), 3 × *og*₂ (affirmative), plus 2 untranslated *og* occurrences that remain ambiguous (*Log'loth og shandai*, *Bal'qwari Og Shadar*).
+
 #### Cross-Language Comparison
 
 No other WoW constructed language attests a three-way negation system. Darnassian uses a single negation strategy (ablaut *Andu*/*Endu* or prefix), Zandali uses pre-verbal *wa-*, and Orcish has no confirmed negation morpheme. The existential vs. verbal negation distinction is typologically common (English "there is no X" vs. "I do not X"; French *ne...pas* vs. *pas de*), but the person-conditioned verbal negation (*maq* vs. *noq*) is typologically rare and may reflect Shath'Yar's non-human grammar.

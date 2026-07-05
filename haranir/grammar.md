@@ -443,9 +443,24 @@ Hara'ni *-mara* = "balance" (confirmed in *Har'mara* = Village of Balance) is ph
 
 **Confidence: Very Low** — see darnassian/grammar.md Investigation 13, Candidate D.
 
+#### Candidate E: *Shul'* "shadow" ↔ Darnassian *Shal* "shadow/twilight" — **NEW Round 29**
+
+| | Hara'ni | Darnassian |
+|---|---------|-----------|
+| **Form** | *Shul'* /ʃʊl/ | *Shal* /ʃɑl/ (in *Shala'nir*, *Shal'Aran*, *Shaladrassil*) |
+| **Confirmed meaning** | "shadow" (in *Shul'ka* = "Hunters of Shadows") | "shadow/twilight" (inferred from *Shal'Aran*, *Shala'nir*, *Shaladrassil*) |
+
+The consonantal skeleton /ʃ_l/ is preserved identically in both branches. The vowel difference /ʊ/ ↔ /ɑ/ is explicable as a regular sound change from a Proto-Troll-Elven vowel */ɔ/ (mid back rounded), with Hara'ni raising to /ʊ/ and Darnassian lowering to /ɑ/. This candidate is significant because it does **not** require the /h/ → ∅ sound change — it provides an independent cognate pair with an exact semantic match ("shadow" in both languages).
+
+Semantically consistent compounds: *Shul'ka* = "shadow-hunters" (Hara'ni), *Shala'nir* = "shadow-people/grove" (Darnassian), *Shal'Aran* = "shadow-town/refuge" (Darnassian), *Shaladrassil* = "shadow-crown" (Darnassian world tree).
+
+**Problem**: The Darnassian *Shal* meaning is inferred rather than confirmed. The kinship root *Shal'* in *Shal'nar* ("aunt") may be a homophonous morpheme. Short CVC forms increase coincidence probability.
+
+**Confidence: Low–Moderate** — see darnassian/grammar.md Investigation 13, Candidate E.
+
 #### Implications
 
-If even one of these candidates is confirmed (particularly *-nir* or *Har'/Aran*), it would provide the **first linguistic evidence** (as opposed to lore evidence) for the Haranir's descent from the proto-troll/elven population. The strongest path to confirmation is discovering additional cognate pairs that share the proposed /h/ → ∅ correspondence, which would independently validate the *Har'/Aran* analysis.
+If even one of these candidates is confirmed (particularly *-nir*, *Har'/Aran*, or *Shul'/Shal*), it would provide the **first linguistic evidence** (as opposed to lore evidence) for the Haranir's descent from the proto-troll/elven population. The identification of *Shul'/Shal* is particularly significant because it provides a cognate candidate that does **not** depend on the unconfirmed /h/ → ∅ sound change, offering an independent line of evidence. A systematic search of all Hara'ni /h/-initial words against Darnassian and Thalassian vowel-initial words found no additional /h/ → ∅ pairs beyond *Har'/Aran*, suggesting this correspondence — if genuine — may be limited to a single root or require more data.
 
 ## Limitations
 
