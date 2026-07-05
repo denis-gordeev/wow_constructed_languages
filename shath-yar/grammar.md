@@ -1839,3 +1839,112 @@ Cross-linguistically, many languages exhibit position-sensitive genitive orderin
 | Basic genitive order | Possessed-Possessor (Head-Genitive) | **Moderate** (11/15 examples) |
 | Object-position genitive | Possessor-Possessed (pragmatically conditioned) | **Moderate** (3/3 direct objects) |
 | PP-complement genitive | Possessed-Possessor | **Moderate–High** (6/6 PP complements) |
+
+### Investigation 12: *wgah* vs. *qi'* — Syntactic Position and Complementary Distribution
+
+Investigation 4 proposed that *qi'* and *wgah* both mark simple future, differing only in form (prefix vs. auxiliary). This investigation tests whether the two markers are in complementary distribution, and if so, what conditions the alternation.
+
+#### Complete Attestation Table
+
+##### *qi'* (Future Prefix on Verb)
+
+| # | Phrase | Translation | Verb Root | Subject Person | Speaker | Source |
+|---|--------|-------------|-----------|----------------|---------|--------|
+| 1 | *Ilith qi'uothk shn'ma yeh'glu Shath'Yar!* | "You will drown in the blood of the Old Gods!" | uothk | 2nd | Yor'sahj | Dragon Soul |
+| 2 | *Sk'yahf qi'plahf PH'MAGG!* | "Your soul will know ENDLESS TORMENT!" | plahf | 2nd (possessive) | Yor'sahj | Dragon Soul |
+| 3 | *Sk'yahf qi'magg luk sshoq anagg'qen* | "Your soul will wander roads that twist in endless spirals" | magg | 2nd (possessive) | Kaahrj | Legion |
+| 4 | *Skitsh qi'uthik illith!* | "Beneath the tides, your truth awaits" | uthik | 2nd (possessive) | Vol'zith | BfA |
+| 5 | *Ak yar qi'lwhuk h'iwn* | "Our gods will devour all" | lwhuk | 3rd | Anglepoint | BfA |
+| 6 | *Iilth qi mah'shar fhn oorql N'Zoth!* | "You will be the first..." | mah'shar | 2nd | Kaahrj | Legion |
+
+##### *wgah* (Future Auxiliary)
+
+| # | Phrase | Translation | Verb | Subject Person | Speaker | Source |
+|---|--------|-------------|------|----------------|---------|--------|
+| 1 | *AN'zig wgah qam za zyqtahg* | "G'huun will not be stopped" | qam (neg?) | 3rd | Mythrax | BfA |
+| 2 | *I wgah far'al zuq ni shn* | "I will reduce you to ash" | far'al | 1st | Mythrax | BfA |
+| 3 | *Zuq wgah qam n'lyeth* | "You will not survive" | qam (neg?) | 2nd | Mythrax | BfA |
+| 4 | *Ywaq mh'naus wgah zaix zygtahg* | "Your screams will echo forever" | zaix | 3rd | G'huun | BfA |
+| 5 | *Za awtgsshu wgah uulg'ma ywaq zaix* | "My whispers will liquefy your mind" | uulg'ma | 1st (possessive) | G'huun | BfA |
+| 6 | *Oou wgah yyqZz uhnish guu'lal* | "The deep one's prison weakens" | yyqZz | 3rd | Soggoth | BfA |
+| 7 | *Qwor wgah za kaaxth* | "None will be spared" | za | 3rd (impersonal) | Soggoth | BfA |
+| 8 | *wgah puul uhn'agth yrr* | "you will know eternity" | puul | 2nd | Mote of Cosmic Truth | BfA |
+| 9 | *zuq wgah uulg'ma* | "and you will tremble" | uulg'ma | 2nd | Mote of Cosmic Truth | BfA |
+
+#### Hypothesis Testing
+
+##### Hypothesis 1: Register Variation (Formal *qi'* vs. Direct *wgah*)
+
+*qi'* appears in boss combat phrases (Yor'sahj, Kaahrj, Vol'zith) and ritual contexts (Anglepoint cultists). *wgah* appears in direct speech (Mythrax, G'huun, Soggoth) and the Mote of Cosmic Truth sermon.
+
+**Test**: Does G'huun use both markers? Yes — G'huun uses *qi'* in *Sk'yahf qi'magg luk sshoq anagg'qen* (combat phase) and *wgah* in *Za awtgsshu wgah uulg'ma ywaq zaix* (combat phase). Both are combat phrases from the same boss, undermining the register hypothesis.
+
+**Assessment**: Register variation is **not supported** by the G'huun data. The same speaker uses both markers in comparable discourse contexts.
+
+##### Hypothesis 2: Person Conditioning (*qi'* for 2nd/3rd Person vs. *wgah* for All Persons)
+
+| Person | *qi'* | *wgah* |
+|--------|-------|--------|
+| 1st | 0 | 2 (*I wgah far'al*, *Za awtgsshu wgah*) |
+| 2nd | 4 (*Ilith qi'uothk*, *Sk'yahf qi'plahf*, *Sk'yahf qi'magg*, *Iilth qi mah'shar*) | 3 (*Zuq wgah qam*, *wgah puul*, *zuq wgah uulg'ma*) |
+| 3rd | 1 (*Ak yar qi'lwhuk*) | 4 (*AN'zig wgah qam*, *Ywaq mh'naus wgah zaix*, *Oou wgah yyqZz*, *Qwor wgah za*) |
+
+Both markers appear with 2nd and 3rd person subjects. *wgah* additionally appears with 1st person. The distribution is not complementary by person.
+
+**Assessment**: Person conditioning is **not supported**.
+
+##### Hypothesis 3: Syntactic Position — Prefix vs. Auxiliary as Complementary Strategies
+
+The key formal difference is that *qi'* is a bound prefix on the verb while *wgah* is a free auxiliary preceding the verb. This raises the possibility that the choice is conditioned by syntactic factors — specifically, whether an intervening element appears between the subject and the verb.
+
+**Test**: Do *qi'* phrases allow intervening elements between the subject and the *qi'*-marked verb? No — in all 6 *qi'* attestations, the subject immediately precedes the *qi'*-marked verb (or the *qi'*-marked verb is clause-initial with an implied subject):
+
+- *Ilith qi'uothk* — S-qi'V (no intervening element)
+- *Sk'yahf qi'plahf* — S-qi'V (no intervening element)
+- *Sk'yahf qi'magg* — S-qi'V (no intervening element)
+- *Skitsh qi'uthik* — PP-qi'V (locative fronted, no subject-verb intervening element)
+- *Ak yar qi'lwhuk* — S-qi'V (no intervening element)
+- *Iilth qi mah'shar* — S-qi'V (no intervening element)
+
+**Test**: Do *wgah* phrases require or allow intervening elements? *wgah* itself is an intervening element between the subject and the verb:
+
+- *I wgah far'al* — S-wgah-V
+- *Za awtgsshu wgah uulg'ma* — S-wgah-V
+- *Zuq wgah qam* — S-wgah-V
+- *Ywaq mh'naus wgah zaix* — S-wgah-V
+
+**Key observation**: In *qi'* phrases, the subject directly touches the verb via the prefix. In *wgah* phrases, the auxiliary stands between subject and verb. If *wgah* is needed to carry tense when something blocks the direct prefixation of *qi'*, the two markers would be in complementary distribution based on whether an auxiliary is needed for other grammatical reasons.
+
+However, this raises the question: why would an auxiliary be needed in some sentences but not others? One possibility: *wgah* carries additional grammatical information beyond tense (such as mood, aspect, or negation compatibility) that *qi'* cannot express.
+
+**Notable pattern**: Two of 9 *wgah* attestations involve negation (*wgah qam* = "will not"), while zero *qi'* attestations involve negation. If *qi'* cannot co-occur with negation (because the prefix position is incompatible with a negation element between subject and verb), then *wgah* would be required whenever future tense and negation co-occur. This would predict that Shath'Yar has a **synthetic future** (*qi'*) that alternates with an **analytic future** (*wgah*) in contexts requiring additional grammatical marking.
+
+**Assessment**: Syntactic position conditioning is **Low–Moderate** confidence. The data is consistent with *qi'* as a default future prefix and *wgah* as an auxiliary used when additional grammatical structure (negation, complex NPs, modal nuance) requires a free-standing tense marker. The negation pattern (*wgah qam* × 2, no *qi'* + negation) provides tentative support.
+
+##### Hypothesis 4: *qi'* and *wgah* Are Unrelated Homophonous Future Markers
+
+If *qi'* and *wgah* are historically unrelated markers that both developed future meaning independently, their distribution should show no systematic pattern. The data shows some clustering (G'huun uses both; Mythrax uses only *wgah*; Yor'sahj uses only *qi'*) but no clean complementary distribution.
+
+**Assessment**: Possible but unparsimonious. The coexistence of two unrelated future markers in a language with such a small corpus would be unusual.
+
+#### Summary
+
+| Hypothesis | Evidence | Confidence |
+|------------|----------|------------|
+| Register variation | Undermined by G'huun using both in comparable contexts | **Very Low** |
+| Person conditioning | Both appear with 2nd and 3rd person | **Very Low** |
+| **Syntactic position: default prefix *qi'* vs. auxiliary *wgah* for complex constructions** | *qi'* never appears with intervening elements; *wgah* appears with negation (*wgah qam*); G'huun uses both in comparable discourse contexts | **Low–Moderate** |
+| Unrelated homophonous markers | No systematic distribution; possible but unparsimonious | **Low** |
+
+**Confidence: Low–Moderate** for the syntactic position hypothesis. The key prediction is testable: if new Shath'Yar phrases are discovered, (1) *qi'* should not appear with negation or auxiliary stacking, and (2) *wgah* should appear whenever future tense co-occurs with negation, modal particles, or other elements that require an auxiliary position between subject and verb.
+
+The refined four-way future system would be:
+
+| Marker | Type | Function | Position |
+|--------|------|----------|----------|
+| *qi'* | Prefix | Default future tense | On the verb (S-qi'V-O) |
+| *wgah* | Auxiliary | Future tense in complex constructions (with negation, modals) | Before the verb (S-wgah-Neg-V or S-wgah-V) |
+| *agth* | Auxiliary | Obligative future ("shall") | Between S and V (S-agth-V) |
+| *gag* | Auxiliary | Emphatic future ("WILL!") | Before V, often SHOUTED (S-gag-V or Aux-V) |
+
+This system has a typological parallel in languages that distinguish synthetic and analytic future forms (e.g., French *je chanterai* = synthetic future vs. *je vais chanter* = analytic future with *aller* "go"). Shath'Yar's *qi'* would be the synthetic (prefixal) future and *wgah* the analytic (auxiliary) future, with the choice conditioned by syntactic complexity rather than semantic nuance.
