@@ -912,7 +912,49 @@ The /θ/ in *-athir* / *-ethir* is consistent with both Hara'ni and Darnassian p
 
 **Problem**: The Darnassian meaning of *-athir* is unconfirmed. The spire names have no official translations, and the semantic match rests entirely on the Hara'ni evidence. The /-θɪr/ sequence, while distinctive, is short enough that coincidence remains possible. Additionally, *Lemor'athra* shows *-athra* rather than *-athir*, which could indicate a different morpheme or a grammatical variant.
 
-**Confidence: Low–Moderate** for *-athir* as a shared Proto-Troll-Elven morpheme meaning "memory/remnant." The phonological match is exact (/æθɪr/ in both languages), the semantic match is confirmed in Hara'ni, and the three Nazjatar attestations provide converging evidence. However, the Darnassian meaning is unconfirmed, and the short morpheme length increases coincidence probability. The identification of *Kal'methir* as a Darnassian (not Nazja) form strengthens the cognate analysis by placing *-athir* / *-ethir* in the Darnassian layer.
+#### *-athir* / *-athra* Vowel Alternation — **NEW Round 31**
+
+The three Darnassian attestations of *-athir* show systematic vowel variation that requires explanation:
+
+| Form | Suffix Variant | Final Vowel | Context |
+|------|---------------|-------------|---------|
+| *Alathir* | *-athir* | /ɪ/ (close front) | Spire name |
+| *Kal'methir* | *-ethir* | /ɪ/ (close front) | Kaldorei ruin |
+| *Lemor'athra* | *-athra* | /ə/ (schwa) | Spire name |
+
+Four hypotheses for the *-athir* / *-athra* alternation:
+
+1. **Case marking**: *-athir* = nominative/absolute form; *-athra* = genitive/construct form. If *Alathir* and *Kal'methir* are standalone place names (nominative) and *Lemor'athra* is a possessed compound (*Lemor'* + *-athra* = "Lemor's memory" in construct state), the vowel alternation would mark grammatical case. This parallels Semitic construct-state noun morphology (e.g., Hebrew *davar* "word" vs. *divre* "words-of"). **Low confidence** — only one *-athra* attestation vs. two *-athir* attestations.
+
+2. **Number marking**: *-athir* = singular; *-athra* = plural or collective. If *Lemor'athra* = "memories of Lemor'" (plural) vs. *Alathir* = "memory of Al-" (singular). **Very Low confidence** — no plural morphology is attested elsewhere in Darnassian with this pattern.
+
+3. **Phonological conditioning**: The *-athra* variant may be phonologically conditioned by the preceding consonant cluster. *Lemor'* ends in /r/, which could trigger vowel reduction /ɪ/ → /ə/ and consonant assimilation. However, *Kal'm-* also precedes a consonant cluster and takes *-ethir* (with /ɪ/ retained), weakening this hypothesis. **Very Low confidence**.
+
+4. **Different morpheme**: *-athra* may be a completely different morpheme from *-athir*, with the shared /-θr/ sequence being coincidental. Under this analysis, only *Alathir* and *Kal'methir* contain *-athir* "memory," while *Lemor'athra* contains a different suffix. **Low–Moderate confidence** — the shared /-æθr-/ sequence is distinctive enough that complete independence is not the default assumption.
+
+The *-athir* / *-ethir* alternation (/æ/ vs. /ɛ/ in the prefix vowel) is more easily explained: it may reflect vowel harmony with the preceding syllable (*Al-* → *-athir*; *Kal'm-* → *-ethir*), or it may indicate that the prefix vowel belongs to the first element rather than the suffix (*Al-athir* vs. *Kal'm-ethir*, where *Al-* has /æ/ and *Kal'm-* conditions /ɛ/). **Low–Moderate confidence** for vowel harmony or prefix-vowel analysis.
+
+#### Cross-Family *-thir* Distribution — **NEW Round 31**
+
+The morpheme *-athir* "memory" in Hara'ni/Darnassian shares its core consonantal skeleton /-θɪr/ with suffixes in two other language families, raising the question of whether *-thir* is a widespread areal morpheme or an independent development:
+
+| Language Family | Form | Attestation | Proposed Function | Confidence |
+|-----------------|------|-------------|-------------------|------------|
+| **Hara'ni–Darnassian** | *-athir* /-æθɪr/ | *Har'athir*, *Alathir*, *Kal'methir* | "memory" (confirmed in Hara'ni) | Low–Moderate for cognate |
+| **Nerubian** | *-thir* /-θɪr/ | *Krik'thir* ("the Gatewatcher") | Agentive/rank suffix (gate-watcher) | Low (2 attestations) |
+| **Shath'Yar** | *-thir* /-θɪr/ (in *K'thir*) | *K'thir* ("Servants of the Old Gods") | Possibly part of *K'th* + *-ir* decomposition | Very Low (uncertain decomposition) |
+
+**Assessment**: The alien-comparative.html already notes /θ/ prevalence across Shath'Yar and nerubian as "likely Blizzard design convergence" (Very Low–Low confidence for genuine linguistic connection). The specific *-thir* morpheme distribution does not substantially alter this assessment, for three reasons:
+
+1. **Different morphological status**: In Hara'ni/Darnassian, *-athir* is a derivational suffix meaning "memory." In nerubian, *-thir* is a rhotic-final suffix possibly marking rank/role. In Shath'Yar, *-thir* may not be an independent morpheme at all (the decomposition *K'th* + *-ir* is equally supported). The functions are divergent.
+
+2. **Aqir substrate transmission**: If *-thir* were an Aqir substrate morpheme inherited by both nerubians and the Highborne, we would expect it in qiraji as well — but no qiraji name contains *-thir*. This gap argues against Aqir substrate transmission.
+
+3. **Short morpheme problem**: The sequence /θɪr/ is only three phonemes. Cross-linguistically, /θ/ + high vowel + /r/ is a natural syllable structure that could arise independently, especially in languages where /θ/ is already frequent (Hara'ni, Darnassian, Shath'Yar, nerubian all have /θ/).
+
+**Conclusion**: The *-thir* cross-family distribution is noted as an observation but does not strengthen or weaken the Hara'ni–Darnassian *-athir* cognate candidate. The *-athir* cognate rests on the **confirmed semantic match** ("memory" in Hara'ni) and the **phonologically clean correspondence** with Darnassian spire names, not on cross-family parallels. The nerubian *-thir* and Shath'Yar *K'thir* are most likely independent developments sharing only a common /θ/-heavy phonological aesthetic. **Very Low–Low confidence** for any cross-family *-thir* connection.
+
+**Confidence: Low–Moderate** for *-athir* as a shared Proto-Troll-Elven morpheme meaning "memory/remnant." The phonological match is exact (/æθɪr/ in both languages), the semantic match is confirmed in Hara'ni, and the three Nazjatar attestations provide converging evidence. However, the Darnassian meaning is unconfirmed, the short morpheme length increases coincidence probability, and the *-athra* variant remains unexplained. The identification of *Kal'methir* as a Darnassian (not Nazja) form strengthens the cognate analysis by placing *-athir* / *-ethir* in the Darnassian layer.
 
 #### /h/ Distribution Gradient Across the Elven Family — **NEW Round 30**
 
@@ -936,6 +978,20 @@ This gradient is **exactly as predicted** by the /h/ → ∅ hypothesis: Hara'ni
 
 **Confidence for /h/ → ∅ as a systematic elven sound change**: **Moderate** (upgraded from Low–Moderate). The gradient distribution across five languages is strongly consistent with progressive /h/ loss. The main limitation remains the absence of additional /h/-initial ↔ zero-initial cognate pairs beyond *Har'/Aran*.
 
+#### /h/-Retention Cognate: Hara'ni *Hagar* ↔ Nazja *Haghazed* — **NEW Round 31**
+
+Both Nazja /h/-retentions share their initial /h-ɡ/ onset with a Hara'ni name, potentially representing a shared root preserved by /h/-retention:
+
+| | Hara'ni | Nazja |
+|---|---------|-------|
+| **Form** | *Hagar* /ˈhɑːɡɑːr/ | *Haghazed* /həˈɡɑːzɛd/ |
+| **Meaning** | Elder (personal name) | Rajah/title (Darkcrest tribe) |
+| **Consonant skeleton** | h-ɡ-r | h-ɡ-z-d |
+
+Both are authority-figure names (Elder, Rajah) sharing /h-ɡ/ onset. If the proto-form was *\*hagV-* "elder/leader," the retention of /h/ in both languages would be consistent — these are proper names with high entrenchment, the same category of word that preserved /h/ in Nazja (*Heth'Jatar*, *Haghazed*). After the shared /h-ɡ/ onset, the forms diverge entirely (*-ɑr* vs. *-ɑzɛd*), making the connection speculative.
+
+**Confidence: Very Low** for *Hagar* ↔ *Haghazed* as cognate /h/-retentions. The shared /h-ɡ/ onset and semantic field (authority figures) are suggestive but insufficient to establish a cognate pair. Both are proper names with no confirmed root decomposition, and the divergent endings could indicate completely different morphological structures. This observation is documented primarily as a testable prediction: if additional /h-ɡ/ initial names are discovered in either language, the hypothesis gains traction.
+
 #### Assessment: Hara'ni–Elven Cognate Candidates
 
 | Candidate | Correspondence | Confidence | Key Strength | Key Weakness |
@@ -943,8 +999,7 @@ This gradient is **exactly as predicted** by the /h/ → ∅ hypothesis: Hara'ni
 | *-nir* collective suffix | Shared suffix | Low–Moderate | Exact phonological match; consistent function in proper names | Semantic gap ("people" vs. "bringer/bearer"); small sample |
 | *Har'* ↔ *Aran* "settlement" | Shared root with /h/ loss | **Moderate** (upgraded) | Exact semantic match; /h/ → ∅ now supported by gradient across 5 languages | Only one /h/ ↔ ∅ cognate pair found; could be limited to this root |
 | *Shul'* ↔ *Shal* "shadow" | Shared root with vowel shift | Low–Moderate | Exact semantic match "shadow"; identical /ʃ_l/ skeleton | Darnassian meaning inferred; short CVC; possible homophony with kinship *Shal'* |
-| *-athir* "memory" | Shared suffix | **Low–Moderate** (NEW) | Confirmed semantics in Hara'ni; 3 Darnassian attestations in Nazjatar spire names | Darnassian meaning unconfirmed; short morpheme; *-athra* variant unexplained |
-| *Aln-* ↔ *\*ala-* "essence" | Shared root with *-n* suffix | Very Low–Low | Coherent semantic framework; /al-/ onset shared | Extra *-n* unexplained; semantic gap significant |
+| *-athir* "memory" | Shared suffix | **Low–Moderate** (NEW) | Confirmed semantics in Hara'ni; 3 Darnassian attestations in Nazjatar spire names | Darnassian meaning unconfirmed; short morpheme; *-athra* variant unexplained || *Aln-* ↔ *\*ala-* "essence" | Shared root with *-n* suffix | Very Low–Low | Coherent semantic framework; /al-/ onset shared | Extra *-n* unexplained; semantic gap significant |
 | *-mara* "balance" | Shared suffix | Very Low | Exact phonological match | No Zandali semantic evidence; /mara/ is a common syllable |
 
 **Overall assessment**: The convergence of four plausible cognate pairs — *-nir* (collective suffix), *Har'/Aran* (settlement root), *Shul'/Shal* (shadow root), *-athir* (memory suffix) — across four independent semantic domains (morphology, toponymy, vocabulary, suffix semantics) is more than would be expected by chance for languages separated by ~16,000 years. The /h/ distribution gradient across five elven-family languages (Hara'ni ~20% > Nazja ~4% > Darnassian <1% > Thalassian/Shalassian 0%) independently supports the /h/ → ∅ sound change required by the *Har'/Aran* analysis. The identification of *Shul'/Shal* and *-athir* is particularly significant because neither requires the /h/ → ∅ change, providing independent lines of evidence for deep genetic relationship.
@@ -1000,9 +1055,41 @@ The root *dor* = "crown" is one of the best-attested Darnassian morphemes, appea
 
 | | Darnassian | Thalassian |
 |---|-----------|------------|
-| **Attestations** | *Anu Dorah* (memorial plaque closing = "I/We remember"); *Tor falah-no dorah* (Malfurion) | *Thas'dorah* ("Valor of the Forest"); *Shan'dorah* (Ren'dorei camp name) |
+| **Attestations** | *Anu Dorah* (memorial plaque closing = "I/We remember"); *Tor falah-no dorah* (Malfurion); *Thara dormil dorah* (Priestess of Elune) | *Thas'dorah* ("Valor of the Forest"); *Shan'dorah* (Ren'dorei camp name) |
 
 If *dor* + *-ah* = *dorah*, the semantic shift "crown" → "that which is crowned/honored" → "valor/honor" is coherent. In the memorial context (*Anu Dorah*), *dorah* could mean "remembrance" (that which is honored/crowned in memory). In *Thas'dorah*, "forest's honor" = "valor of the forest" is a clean translation.
+
+#### Third Darnassian Attestation: *Thara dormil dorah* — **NEW Round 31**
+
+The Priestess of Elune phrase *Thara dormil dorah* (Guardians of the Altar quest) provides a **third independent Darnassian attestation** of *dorah*, previously unanalyzed. A second partial phrase from Aurora Skycaller — *Ishnu... Oshalan thara dormil... Anu'dorin...* — confirms *thara dormil* as a recurring Darnassian sub-phrase:
+
+| Phrase | Speaker | Context |
+|--------|---------|---------|
+| *Thara dormil dorah* | Priestess of Elune | Guardians of the Altar quest |
+| *Ishnu... Oshalan thara dormil... Anu'dorin...* | Aurora Skycaller | Fragments of the Past quest |
+
+**Morphological analysis of *thara dormil***:
+- *Thara* — no confirmed gloss; possibly related to *Thandae-alah* (Disturbed Spectres aggro) or a verb form
+- *dormil* — no confirmed gloss; *dor* + *-mil*? Or *dor-* + *-mil* with a different suffix than *-ah*? If *dor* = "crown" and *dormil* = *dor* + *-mil*, then *-mil* would be a second derivational suffix on the same root alongside *-ah* in *dorah*
+
+**Semantic context**: All three Darnassian *dorah* attestations occur in **sacred/ritual** contexts:
+1. *Anu Dorah* — memorial plaque closing (funerary/remembrance ritual)
+2. *Tor falah-no dorah* — Malfurion Stormrage voice line (druidic invocation)
+3. *Thara dormil dorah* — Priestess of Elune voice line (temple/guardianship ritual)
+
+This consistent ritual register suggests *dorah* may specifically denote "remembrance/honor in a sacred context" rather than general "valor." The semantic trajectory *dor* "crown" → *dorah* "that which is crowned/honored in memory" → "remembrance/honor (ritual)" is strengthened by the third attestation, which places *dorah* in a priestly context alongside *thara dormil* — possibly a ritual formula.
+
+**Updated attestation table**:
+
+| Form | Language | Context | Proposed Gloss |
+|------|----------|---------|----------------|
+| *Anu Dorah* | Darnassian | Memorial plaque closing | "[We/Our] remembrance" (funerary) |
+| *Tor falah-no dorah* | Darnassian | Malfurion voice line | "Let balance [be] honored" (druidic) |
+| *Thara dormil dorah* | Darnassian | Priestess of Elune voice line | "[?] [?] remembrance/honor" (priestly) |
+| *Thas'dorah* | Thalassian | "Valor of the Forest" | *Thas* (forest) + *dorah* (valor) |
+| *Shan'dorah* | Thalassian | Ren'dorei camp name | *Shan'* (honored?) + *dorah* (valor) |
+
+**Impact on *-ah* suffix analysis**: The third attestation strengthens the *dor* → *dorah* pair by demonstrating that *dorah* is not limited to two isolated phrases but appears across at least three independent ritual contexts. The consistency of the ritual register across all three Darnassian attestations suggests *dorah* is a genuine lexical item (not a coincidence of /a/-final words), which indirectly supports the *-ah* nominalizer analysis.
 
 **Structural parallel with Investigation 15**: *Thas'dorah* follows the same *Thas'* + [X + *-ah*] compounding pattern as *Thas'talah* and *Thas'alah*:
 
@@ -1041,7 +1128,7 @@ Alternative: *daldorah* may be an indivisible morpheme, or *dal* may not be the 
 
 The phonological coincidence analysis is weakened by the observation that the *-ah* forms are morphologically paired with base forms lacking *-ah* (*tal*/*talah*, *al*/*alah*, *fal*/*falah*). If word-final /-ah/ were purely accidental, we would not expect it to systematically correspond to shorter cognate forms.
 
-**Confidence: Moderate** for *-ah* as a Proto-Elven derivational suffix (upgraded from Low–Moderate). Four independent cognate pairs (*tal/talah*, *al/alah*, *fal/falah*, *dor/dorah*) show consistent morphological behavior: *-ah* attaches to monosyllabic roots to form nominalized/stative nouns. The *dor* → *dorah* pair demonstrates that *-ah* is not restricted to /l/-final roots, significantly weakening the coincidence hypothesis. The semantic coherence (nominalizer/stative resultative) is typologically natural and parallels Arabic *-a* and PIE *-eh₂*. However, the frequency of /a/ in word-final position still leaves a residual possibility of coincidence, and the weaker candidates (*shal/shala*, *ash/asha*) do not independently strengthen the analysis.
+**Confidence: Moderate** for *-ah* as a Proto-Elven derivational suffix (upgraded from Low–Moderate). Four independent cognate pairs (*tal/talah*, *al/alah*, *fal/falah*, *dor/dorah*) show consistent morphological behavior: *-ah* attaches to monosyllabic roots to form nominalized/stative nouns. The *dor* → *dorah* pair demonstrates that *-ah* is not restricted to /l/-final roots, significantly weakening the coincidence hypothesis. The third Darnassian *dorah* attestation (*Thara dormil dorah*, Round 31) strengthens the *dor* → *dorah* pair by confirming *dorah* as a recurring lexical item across three independent ritual contexts. The semantic coherence (nominalizer/stative resultative) is typologically natural and parallels Arabic *-a* and PIE *-eh₂*. However, the frequency of /a/ in word-final position still leaves a residual possibility of coincidence, and the weaker candidates (*shal/shala*, *ash/asha*) do not independently strengthen the analysis.
 
 **Cross-reference**: *Thas'talah* (Investigation 15) provides another attestation context for the *-ah* suffix: if *talah* = *tal* "death" + *-ah* (nominalizer), then *Thas'talah* = "forest of death" is semantically coherent and adds to the *talah* attestation count. The structural parallel with Thalassian *Thas'alah* (*al* + *-ah*) further supports *-ah* as a productive nominalizer in the compounding pattern [*toponymic morpheme* + *nominalized root*].
 

@@ -472,6 +472,8 @@ This candidate is significant because *-athir* has a **confirmed semantic gloss*
 
 **Confidence: Low–Moderate** — see darnassian/grammar.md Investigation 13, Candidate F.
 
+The *-athir* / *-athra* vowel alternation (in *Alathir* vs. *Lemor'athra*) may reflect case marking, number marking, or a different morpheme entirely; see darnassian/grammar.md Investigation 13 for full analysis of four hypotheses. Cross-family *-thir* parallels exist in nerubian (*Krik'thir*, *Nox'tir*) and Shath'Yar (*K'thir*), but these most likely reflect independent /θ/-heavy phonological aesthetics rather than genuine cognate relationships (Very Low–Low confidence for any cross-family *-thir* connection).
+
 #### /h/ Distribution Gradient — **NEW Round 30**
 
 A systematic count of /h/-initial proper names across the elven family reveals a gradient strongly consistent with progressive /h/ loss: Hara'ni (~20%) > Nazja (~4%) > Darnassian (<1%) > Thalassian/Shalassian (0%). This gradient independently supports the *Har'* ↔ *Aran* cognate analysis (Candidate B) by demonstrating that /h/ loss is a systematic elven sound change, not an isolated feature of the *Har'/Aran* pair. The two surviving Nazja /h/-initial names (*Heth'Jatar*, *Haghazed*) can be interpreted as retentions from the pre-divergence Highborne dialect. See darnassian/grammar.md Investigation 13 for full analysis.
