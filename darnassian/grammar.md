@@ -1163,3 +1163,108 @@ The relationship between *Thas* "forest" and *Thalas* "home/realm" is noteworthy
 3. **Coincidental similarity**: The phonological similarity is accidental; *Thas* "forest" and *Thalas* "home" are unrelated
 
 **Confidence: Moderate–High** for *Thas* as a Darnassian toponymic morpheme (upgraded from Moderate). The three-compound paradigm (*Thas'talah*, *Thas'alah*, *Thas'dorah*) demonstrates a productive compounding pattern [*Thas'* + nominalized root], and the cross-reference with Investigation 14 (*-ah* suffix) provides mutually reinforcing evidence. While the Darnassian attestation remains a single example, the three Thalassian attestations and the structural consistency across all three compounds support Proto-Elven inheritance.
+
+### Investigation 16: Systematic Morphemic Analysis of Untranslated Phrases — **NEW Round 32**
+
+The 33 untranslated Darnassian phrases contain a significant number of identifiable morphemes from confirmed translations and place name analysis. This investigation systematically decodes these phrases by known-morpheme extraction, identifying which phrases can be at least partially translated and which contain entirely opaque vocabulary.
+
+#### Highly Decodable Phrases (2+ known morphemes)
+
+| # | Phrase | Known Morphemes | Partial Decoding | Confidence |
+|---|--------|----------------|-----------------|------------|
+| 1 | **Ishnu-talah Kaldorei.** | *Ishnu* "blessings" + *talah* = *tal* "death" + *-ah* (nom.) + *Kaldorei* "Children of the Stars" | "Blessings [of] death, Children of the Stars" — likely a mourning or battle invocation | **Moderate** |
+| 2 | **Zin-al-Elune!** | *Zin* "glory" + *al* "light" root + *Elune* | "Glory of Elune's light!" — parallel to *Zin-Azshari* "Glory of Azshara" | **Moderate–High** |
+| 3 | **Shal myrinan ishnu daldorah** | *Shal* "shadow/twilight" + *ishnu* "blessings" + *dal* "fortune" + *dorah* "valor/honor" (*-ah* nom.) | "Shadow [?], blessings, fortune-and-valor" — *daldorah* analyzed in Investigation 14 | Low–Moderate |
+| 4 | **Tor falah-no dorah** | *Tor* "let" (imperative) + *falah* = *fal* + *-ah* (nom.) "balance" + *dorah* = *dor* + *-ah* "honor" | "Let balance-[?] [be] honored" — three-element imperative construction parallel to *Andu-falah-dor* | **Low–Moderate** |
+| 5 | **Enshu-falah-nah, dorini.** | *falah* "balance" + *dorini* "my will" | "[?] balance-[?], my will" — *Enshu* opaque; *-nah* = *na* + *-ah*? | Low–Moderate |
+| 6 | **Thandae-alah** | *-alah* = *al* "light" + *-ah* (nom.) | "[?]-light/blessed" — confirms *-alah* as independent Darnassian word (not just in *Ishnu-alah*) | Low–Moderate |
+
+#### Moderately Decodable Phrases (1 known morpheme)
+
+| # | Phrase | Known Morpheme(s) | Partial Decoding | Confidence |
+|---|--------|-------------------|-----------------|------------|
+| 7 | **Anu'dora!** | *Anu'* "subject marker" + *dor* "crown" + *-a* | "[Subject-marker] crown-[suffix]!" — *dora* may be *dorah* with h-loss, or *dor* + verbal suffix *-a* (cf. *Aria* 1pl) | Low–Moderate |
+| 8 | **Anu dorini ash'ka** | *Anu* "subject marker" + *dorini* "my will" + *ash* "command focus" | "[Subject] my will [command]-[?]" | Low–Moderate |
+| 9 | **Anu therador mali** | *Anu* "subject marker" + *thera* "beware/battle" (Inv. 10) + *dor* "crown" | "[Subject] beware-crown [?]" — *therador* = *thera* + *dor* compound | Low–Moderate |
+| 10 | **Ash'al theradas** | *Ash* "command focus" + *thera* "beware/battle" (Inv. 10) | "[Command] [battle]-[?]" | Low–Moderate |
+| 11 | **Ash'therod nethanas** | *Ash* "command focus" + *thero* "beware/battle" (Inv. 10) | "[Command] [battle]-[?] [?]" | Low–Moderate |
+| 12 | **Ash'thero danador** | *Ash* "command focus" + *thero* "beware/battle" (Inv. 10) + *dor* "crown" | "[Command] [battle] [?]-crown" — *danador* = *dana* + *dor*? | Low–Moderate |
+| 13 | **ASH ROHK ILISAR! THANDAE!** | *ilisar* "enemies" | "[?] [?] enemies! [?]!" — *ilisar* confirmed from *Tor ilisar'thera'nal* | Low |
+| 14 | **Ana duna thera** | *thera* "beware/battle" (Inv. 10) | "[?] [?] beware" — *duna* may decompose as *du* + *-na* (informal collateral kinship? Inv. 2) | Low |
+| 15 | **Elun'falah shalar.** | *Elun* "Elune" + *falah* "balance" + *Shal* "shadow/twilight" | "Elune's balance, shadow-[?]" — *-ar* in *shalar* may be nominal suffix | Low |
+| 16 | **En'shu falah-nah** | *falah* "balance" | "[Not?] [?] balance-[of]" — *En* could be negative prefix (cf. *Endu*, *Enu*) | Very Low–Low |
+| 17 | **Elun'orin torel!** | *Elun* "Elune" | "Elune-[?] [?]!" | Very Low–Low |
+| 18 | **Sael'ah** | *-ah* (nominalizer, Inv. 14) | "[Sael]-nominalized" — potential fifth *-ah* pair: *Sael* + *-ah* → nominalized form; context: written greeting on Encrypted Sigil | Very Low–Low |
+| 19 | **Shu dales-na** | *na* "of/to" + *dal* "fortune" root? | "[?] fortune-[to/of]" — variant of *Shu dalas na* "Heavy are our hearts"; *dales* ≈ *dalas* with vowel shift? | Very Low–Low |
+| 20 | **Bathel'daelune** | *Elune* at end | "[?]-[?]-Elune" — compound with *Elune* as final element, parallel to *Elun'dris*, *Elun'falah* | Very Low–Low |
+
+#### Potentially Significant for Existing Investigations
+
+**Advancing Investigation 10 (*ther-* root):** Five untranslated phrases contain *thera/thero*, providing new contexts for the battle/beware root:
+
+| Phrase | *ther-* Form | Context | New Information |
+|--------|-------------|---------|-----------------|
+| *Ana duna thera* | *thera* | Tyrande | Sentence-final position; possibly predicative |
+| *Ash'al theradas* | *theradas* | Maiev/Sira/Tyrande | *thera* + *-das* suffix; combat/aggressive context |
+| *Ash'therod nethanas* | *therod* | Sentinels | *thero* + *-d* element; followed by opaque *nethanas* |
+| *Ash'thero danador* | *thero* | Malfurion | *thero* followed by *danador* (contains *dor* "crown") |
+| *Anu therador mali* | *therador* | Tyrande | *thera* + *dor* "crown" compound; *therador* = "battle-crown" or "crown of battle"? |
+
+The form *therador* in *Anu therador mali* is particularly significant: if *thera* = "battle/beware" and *dor* = "crown," then *therador* = "battle-crown" — a compound noun parallel to *Thas'dorah* ("forest-valor"). This would provide the first example of *thera* as a compounding element rather than a standalone word, extending its syntactic range.
+
+The *-das* in *theradas* and the *-d* in *therod* may reflect inflectional suffixes on the *ther-* root, suggesting that *thera/thero* can take suffixes — a morphological detail not previously attested. However, the forms could equally be opaque proper names or compound words with unknown second elements.
+
+**Advancing Investigation 12 (*Andu/Endu* paradigm):** The phrase *Enu thora'serador* potentially contains a third *-ndV*-family form:
+
+| Form | Initial | Root | Context |
+|------|---------|------|---------|
+| *Andu* | *A-* | *-ndu* | "Let" (positive jussive) |
+| *Endu* | *E-* | *-ndu* | "Not" (negative) |
+| *Enu* | *E-* | *-nu* | In *Enu thora'serador* — if *Enu* = *En-* (negative prefix) + *-u* (jussive root) |
+
+If *Enu* is analyzed as *En-* + *-u*, the root *-u* (rather than *-ndu*) could represent a shortened jussive form. Alternatively, *Enu* could be unrelated to *Andu/Endu* — a homophonous particle with a different etymology. The co-occurrence with *thora* (≈ *thoras* "troubles") suggests a reading "Not troubles-[?]" — consistent with the negative prefix analysis. If *thora* = "troubles" (from *Ande'thoras-ethil* "May your troubles be diminished"), then *Enu thora'serador* could mean "Let not troubles [?] [?]" — a jussive-negative construction paralleling *Ande'thoras-ethil*.
+
+**Fifth *-ah* candidate: *Sael'ah***: The phrase *Sael'ah* (written greeting on Encrypted Sigil item) decomposes as *Sael* + *-ah*, following the nominalizer pattern from Investigation 14. If *Sael* is a root, *Sael'ah* would be its nominalized form — a greeting/blessing word comparable to *alah* "light/blessed." However, with only one attestation and no known root meaning, this remains Very Low–Low confidence. The greeting context does parallel *Ishnu-alah* (another blessing/greeting with *-ah* nominalized form).
+
+**Confirmed independent occurrence of *-alah***: The phrase *Thandae-alah* (Disturbed Spectres aggro at Tel'anor) provides a second attestation of *-alah* as an independent Darnassian word, outside of the *Ishnu-alah* greeting. This confirms *-alah* is not limited to the *Ishnu-* greeting formula but can appear as a noun/word in its own right — consistent with the *-ah* nominalizer analysis (*al* "light" + *-ah* → "light/blessed" as a standalone word).
+
+#### Opaque Phrases (no clear known morphemes)
+
+| # | Phrase | Notes |
+|---|--------|-------|
+| 21 | *Aludala* | Entirely opaque |
+| 22 | *Anato retetour* | Entirely opaque; unusual phonology (retetour has French-like structure) |
+| 23 | *Anu dunah thalore. Iseradune banthalos* | *thal* root possible; otherwise opaque; two sentences from Sentinels |
+| 24 | *Arama sh'nala fasima nemelia boranna... manoria fesala maranor... mal'nala fal!!* | Long incantation; *fal* root possible at end; otherwise opaque; Belysra/Tyrande moon-power incantation |
+| 25 | *Ashbalanol* | Entirely opaque |
+| 26 | *Ashre thoraman* | *thor* possibly related to *Thoribas* "to fight"; otherwise opaque |
+| 27 | *Deronica* | Entirely opaque; unusual phonology (Latin-like) |
+| 28 | *Enae elen'relos!* | Analyzed in Investigation 5 (*elen'relos* = "star-caller"); *Enae* opaque |
+| 29 | *Hinduli rethal* | Entirely opaque |
+| 30 | *Ishnu... Oshalan thara dormil... Anu'dorin...* | *Ishnu* "blessings" + *Anu'* subject marker + *dorin* ≈ *dorini* "my will"; *thara dormil* analyzed in Investigation 14; *Oshalan* opaque |
+| 31 | *Thara dormil dorah* | Analyzed in Investigation 14 (*dorah* = honor/remembrance); *thara dormil* opaque |
+
+Note: Several "opaque" phrases still contain one partially identifiable morpheme. *Enae elen'relos!* has *elen'relos* (Investigation 5); *Ishnu... Oshalan thara dormil... Anu'dorin...* has *Ishnu*, *Anu'*, and *dorin*; *Thara dormil dorah* has *dorah*. These are listed in the opaque section because the majority of their morphemes remain unidentified.
+
+#### Summary
+
+Of 33 untranslated phrases:
+- **6** are highly decodable (2+ known morphemes, plausible partial translation)
+- **14** are moderately decodable (1 known morpheme, partial morphemic identification)
+- **13** are opaque (no clear known morphemes, or only 1 morpheme in a long phrase)
+
+The most significant new findings are:
+
+1. ***Ishnu-talah Kaldorei*** is the single most decodable untranslated Darnassian phrase, with three known morphemes yielding a coherent translation: "Blessings [of] death, Children of the Stars." This phrase likely represents a mourning or battle invocation — consistent with its speaker (Lothrius Mooncaller) and context (Balance of Power quest). **Moderate confidence** for this partial translation.
+
+2. ***Zin-al-Elune*** provides a second highly decodable phrase: "Glory of Elune's light!" — following the established *Zin-* "glory" compounding pattern. **Moderate–High confidence**.
+
+3. Five *thera/thero* phrases advance Investigation 10, with *therador* in *Anu therador mali* providing the first evidence of *thera* as a compounding element (*thera* + *dor* "crown" = "battle-crown").
+
+4. *Enu thora'serador* potentially provides a third *-ndV* form supporting the *Andu/Endu* paradigm (Investigation 12), if *Enu* = *En-* (negative prefix) + *-u* (jussive root).
+
+5. *Sael'ah* is a potential fifth *-ah* nominalized form (Investigation 14), though Very Low–Low confidence.
+
+6. *Thandae-alah* confirms *-alah* as an independent Darnassian word outside the *Ishnu-alah* greeting formula.
+
+**Confidence: Low–Moderate** for the overall systematic decoding. The most robust results are the two highly decodable phrases (*Ishnu-talah Kaldorei*, *Zin-al-Elune*) and the extension of Investigation 10 with five new *ther-* attestations. The *Enu* connection to Investigation 12 and the *Sael'ah* connection to Investigation 14 remain speculative but provide testable predictions.
