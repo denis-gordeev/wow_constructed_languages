@@ -61,14 +61,14 @@ Notes:
 
 | Marker | Function | Evidence | Confidence |
 |--------|----------|----------|------------|
-| *qi'* | Future tense prefix | *qi'uothk* = "will drown"; *qi'plahf* = "will know"; *qi'magg* = "will wander" | **High** |
-| *gag* | Auxiliary "will" | *Gag vwah gag yyqzz* = "You will all drown" | **Moderate** |
+| *qi'* | Future tense prefix (neutral, synthetic) | *qi'uothk* = "will drown"; *qi'plahf* = "will know"; *qi'magg* = "will wander" | **High** |
+| *wgah* | Future auxiliary (neutral, analytic) | *I wgah far'al zuq* = "I will reduce you to ash"; *wgah qam* = "will not" | **Moderate** |
+| *agth* | Auxiliary: cosmic inevitability ("shall") | *Sk'shuul agth vorzz* = "Your deaths shall sing" | **Moderate** (see Investigation 14) |
+| *gag* | Auxiliary: speaker-volitional future ("WILL") | *Gag vwah gag yyqzz* = "You will all drown" | **Moderate** (see Investigation 14) |
+| *lal* | Perfective (?) | *Oou gul'kafh lal lwhuk!* = "The outbreak has begun!" | **Low** (see Investigation 14) |
 | *maq* | Negation | *Ywaq maq oou; ywaq maq ssaggh* = "They do not die; they do not live" | **High** |
 
-The relationship between *qi'* and *gag* is unclear:
-- *qi'* appears as a prefix on verbs: *qi' + uothk* = "will drown"
-- *gag* appears as an auxiliary before verbs: *gag vwah* = "will [drown/feel]"
-- They may mark different aspects (e.g., *qi'* = simple future, *gag* = emphatic/volitional future) or different conjugation patterns
+The relationship between *qi'* and *wgah* is analyzed in Investigation 12: *qi'* is the default synthetic future prefix, while *wgah* is the analytic auxiliary used in complex constructions (especially with negation). See Investigation 14 for refined semantics of *agth*, *gag*, and *lal*.
 
 ### Apostrophe as Morpheme Boundary
 
@@ -1974,3 +1974,142 @@ The refined four-way future system would be:
 | *gag* | Auxiliary | Emphatic future ("WILL!") | Before V, often SHOUTED (S-gag-V or Aux-V) |
 
 This system has a typological parallel in languages that distinguish synthetic and analytic future forms (e.g., French *je chanterai* = synthetic future vs. *je vais chanter* = analytic future with *aller* "go"). Shath'Yar's *qi'* would be the synthetic (prefixal) future and *wgah* the analytic (auxiliary) future, with the choice conditioned by syntactic complexity rather than semantic nuance.
+
+### Investigation 13: Productive Noun Incorporation and Derivational Morphology — **NEW Round 33**
+
+Previous investigations have analyzed individual morphological elements in isolation. This investigation identifies a unified morphological strategy: **productive noun incorporation**, where prepositional/prefixal elements incorporate noun objects to form single adverbial units. Additionally, two previously undocumented derivational patterns are identified: zero-derivation between verbs and nouns, and a potential deverbal nominalizer *-uhn*.
+
+#### Productive Noun Incorporation
+
+Three directional/temporal prefixes systematically incorporate their noun objects, producing unified adverbial units marked by the apostrophe:
+
+| Prefix | Function | Incorporated Noun | Result | Translation |
+|--------|----------|-------------------|--------|-------------|
+| *an-* | "into" | *shel* "void" | *an'shel* | "into the void" |
+| *an-* | "into" | *qov* "heart" | *an'qov* | "into the heart" |
+| *an-* | "into" | *zig* "deeps" | *an'zig* | "into/from the deeps" |
+| *uulg'* | "after" | *ma* "millennia" | *uulg'ma* | "after millennia" |
+| *uulg'* | "after" | *shuul* "death" | *uulg'shuul* | "after death" |
+| *Mg'* | "in" | *uulwi* "shadow" | *Mg'uulwi* | "in the shadow" |
+| (?) *erh-* | verb "choke" | *ongg* "earth" | *erh'ongg* | "choke the land" (?) |
+
+The first six examples follow a consistent pattern: [spatial/temporal prefix] + [incorporated noun] = [adverbial PP]. The apostrophe marks the incorporation boundary, identical to its compound-marking function elsewhere in Shath'Yar. This is not mere compounding — the resulting unit functions as a single prepositional phrase, occupying the same syntactic positions as English PPs.
+
+The seventh example (*erh'ongg*) is structurally different: if *erh* is a verb root rather than a prefix, then *erh'ongg* = verb + incorporated object = "choke-earth" = "choke the land." This would be **object incorporation**, a typologically significant morphological process found in polysynthetic languages (e.g., Mohawk *wa'-ke-nakt-a-hninu-* = "I bread-buy" = "I bought bread"). Object incorporation reduces the valence of the verb (the transitive verb *erh* "choke" becomes intransitive by incorporating its object *ongg* "earth").
+
+**Significance**: If object incorporation is confirmed, Shath'Yar would be the first WoW constructed language to exhibit this typologically marked feature. The evidence is currently limited to a single attestation (*erh'ongg*) with an uncertain decomposition.
+
+**Confidence: Moderate–High** for the prepositional noun incorporation pattern (6 clear examples); **Very Low** for object incorporation in *erh'ongg* (1 attestation, uncertain decomposition).
+
+#### Zero-Derivation (Verb ↔ Noun)
+
+Several Shath'Yar roots function as both verbs and nouns with no morphological change, indicating productive zero-derivation:
+
+| Root | Verb Meaning | Noun Meaning | Evidence |
+|------|-------------|-------------|----------|
+| *oou* | "die" | "death/contagion/key/titans" | *oou* = "die" (verb), *Oou* = "the deep one's" / "death" / "contagion" / "key" (noun) across multiple phrases |
+| *magg* | "wander" | "suffering/torment" | *qi'magg* = "will wander" (verb), *sk'magg* = "your suffering" (noun) |
+| *agthu* | "turns" | "world" | *Oou zuq agthu qwor arwi* = "the key turns once more" (verb), *ag'THYZAK agthu* = "we RECLAIM this world" (noun) |
+
+*oou* is the strongest case: it shifts from verb ("die") to noun ("death/contagion/key/titans") purely by syntactic position, with no morphological change. This is zero-derivation (conversion), a common cross-linguistic pattern found in English (*run* = verb/noun, *water* = noun/verb).
+
+**Confidence: Low–Moderate** for zero-derivation as a productive pattern. The *oou* polysemy could alternatively reflect homophony rather than derivation, and *magg* and *agthu* have only two attestations each.
+
+#### Potential Deverbal Nominalizer *-uhn*
+
+Two forms suggest a deverbal nominalization suffix *-uhn*:
+
+| Verb Root | *-uhn* Form | Proposed Derivation | Meaning Shift |
+|-----------|------------|-------------------|---------------|
+| *vwah* "drown/feel" | *vwahuhn* "reckoning" | *vwah* + *-uhn* | Verb → abstract noun ("the feeling/drowning" → "reckoning") |
+| *vwah* "drown/feel" | *vwahuHn* "titans" | *vwah* + *-uhn* (with prosodic emphasis) | Verb → agent noun ("those who feel/drown" → "titans"?) |
+
+If *vwahuHn* in *Oou vwahuHn ag'xig shfk zuq* = "The titans cannot save you!" is *vwah* + *-uhn* with SHOUTED emphasis on the suffix, then *-uhn* derives both abstract nouns ("reckoning" from *vwahuhn*) and agent nouns ("those who feel/drown" → "titans" from *vwahuHn*). The semantic link is coherent: the Old Gods perceive titans as "those who drown/overwhelm" — a pejorative etymology consistent with Shath'Yar's perspective.
+
+The semantic range of *-uhn* would parallel English *-ing* (which forms both verbal nouns "the drowning" and agent nouns "the overwhelming ones") or Arabic *-ūn* (which forms active participles/agent nouns).
+
+**Confidence: Very Low–Low** for *-uhn* as a productive deverbal nominalizer. The two forms (*vwahuhn*, *vwahuHn*) could be coincidental similarities, and the decomposition of *vwahuHn* is uncertain — it may be an indivisible proper noun rather than a derived form.
+
+#### Two-Tier Connective System: *zz* vs. *yrr*
+
+The grammar documents *zz* = "and" as a coordinator. A systematic review reveals that *yrr* functions as a distinct clause-level connective, creating a two-tier connective system:
+
+| Particle | Level | Function | Examples |
+|----------|-------|----------|----------|
+| *zz* | Phrase-level | Coordinates like-category elements (V-V, N-N) | *worg zz oou* = "fade and die", *agash zz maqdahl* = "despair and sorrow" |
+| *yrr* | Clause-level | Links clauses sequentially ("and/so/as") | *Yrr par'okoth yrr vorzz* = "[So] we rise, [and] we sing", *yrr sk'uuyat*, *yrr puul* |
+
+This distinction parallels many natural languages that differentiate phrasal coordination from clausal sequencing (e.g., Japanese *to* vs. *soshite*; Latin *-que* vs. *et*). In Shath'Yar, *zz* joins elements within a clause, while *yrr* connects entire clauses, often with a sequential or consequential nuance.
+
+**Confidence: Low–Moderate** for the two-tier connective system. The *yrr* data is limited to a few attestations, and the glosses are inferred from context rather than confirmed.
+
+### Investigation 14: Refined Auxiliary Semantics — **NEW Round 33**
+
+Investigations 4 and 12 established a four-way future system (*qi'*, *wgah*, *agth*, *gag*) but characterized *agth* and *gag* only as "obligative" and "emphatic." A systematic review of all attestations reveals more precise semantic characterizations for both auxiliaries, and identifies *lal* as a potential perfective marker.
+
+#### *agth* Refined: Cosmic Inevitability (Not Mere Obligation)
+
+The label "obligative" implies deontic necessity — rules that *should* be followed. All five clear *agth* attestations instead mark **cosmic inevitability** — events that *must* come to pass because the cosmic order demands it:
+
+| Phrase | Translation | Context | Inevitability Type |
+|--------|-------------|---------|-------------------|
+| *Sk'shuul agth vorzz* | "Your deaths shall sing" | Prophetic declaration | Cosmic: death is inevitable |
+| *Sk'tek agth nuq N'Zoth yyqzz* | "Your skulls shall adorn" | Prophetic declaration | Cosmic: N'Zoth's victory is ordained |
+| *Sk'yahf agth huqth* | "Your souls shall sate" | Prophetic declaration | Cosmic: hunger is eternal |
+| *Vwyq agth sshoq'meg N'Zoth* | "Once more shall the banners..." | Prophetic declaration | Cosmic: the cycle repeats |
+| *Zuq agth kyth* | "You have seen" (prophetic perfect) | Prophetic vision | Cosmic: past as proof of future |
+
+The fifth attestation (*Zuq agth kyth* = "You have seen") is particularly significant: it uses *agth* with a **past/perfect** meaning rather than a future one. In prophetic language, inevitable futures are described as already accomplished — a phenomenon called the **prophetic perfect** (well-attested in Biblical Hebrew and Classical Arabic). *agth* marks not when an event occurs, but that it is **cosmically determined** — whether viewed from past, present, or future perspective.
+
+This characterization is closer to Greek *déi* ("it is necessary") than to English "must" (deontic obligation). The difference: "must" can be violated (rules can be broken), but cosmic inevitability cannot.
+
+**Confidence: Moderate** for *agth* as cosmic inevitability (upgraded from "obligative").
+
+#### *gag* Refined: Speaker-Volitional Emphatic Future
+
+All six *gag* attestations share a **speaker-volitional** quality — the speaker (or the entity they channel) declares their WILL:
+
+| Phrase | Speaker | Volition Source |
+|--------|---------|----------------|
+| *Uulwi ifis halahs gag erh'ongg* | Yogg-Saron | Speaker's own corpse |
+| *H'iwn iggksh Phquathi gag OOU...* | Yor'sahj | The Destroyer's will |
+| *Gag vwah gag yyqzz* | Maw of Madness | Direct command |
+| *Gag yoh'ghyl og hoq... gag Ez* | Maw of Madness | Contrastive volition |
+| *Ywaq mwual'gyos gag prfakt* | Armageddon | Shadow's nature |
+| *Lilth gag'huqth'hoq* | Drak'thul | Speaker's desire |
+
+*gag* consistently marks **first-person or proximate volitional future** — the speaker declares their WILL. This contrasts with:
+- *agth*: **third-person cosmic necessity** (events that shall happen regardless of will)
+- *qi'*/ *wgah*: **neutral future** (events that will happen)
+
+The doubled *gag* in *Gag vwah gag yyqzz* is not mere emphasis but **coordinated volitional future**: "We WILL [drown] and WILL [descend]" — each *gag* scopes over its own verb, creating parallel volitional declarations.
+
+**Confidence: Moderate** for *gag* as speaker-volitional emphatic future (refined from "emphatic").
+
+#### *lal* as Potential Perfective Marker
+
+The four-way future system (*qi'*, *wgah*, *agth*, *gag*) covers only irrealis/future semantics. The confirmed corpus contains no clear past or perfective marker. *lal* may fill this gap:
+
+| Phrase | Translation | *lal* Function |
+|--------|-------------|----------------|
+| *Oou gul'kafh lal lwhuk!* | "The outbreak has begun!" | Perfective "has" |
+| *Ywaq ongg an'qov i lal halahs nuq* | "Your husk serves a new master now" | Adjective "new"? |
+| *Bo'al lal arwi C'toth* | (untranslated) | Unknown |
+
+If *lal* = perfective "has", it would be the **only confirmed perfective element** in Shath'Yar. The alternative reading ("new") is also plausible, but the two functions could be historically linked: "new" → "newly done" → "has done" — a known grammaticalization pathway (cf. French *venir de* = "just done" from *venir* "to come").
+
+The co-occurrence of *lal* with *lwhuk* "devour/begin" in *Oou gul'kafh lal lwhuk!* is particularly suggestive: the English translation uses present perfect ("has begun"), which is the prototypical context for a perfective marker.
+
+**Confidence: Low** for *lal* as perfective marker. The data is consistent with either a perfective reading or an adjectival "new" reading, and the corpus contains only three *lal* attestations (one untranslated).
+
+#### Updated Auxiliary System
+
+| Marker | Type | Function | Refined Semantics | Confidence |
+|--------|------|----------|-------------------|------------|
+| *qi'* | Prefix | Default future | Neutral future (synthetic) | **High** |
+| *wgah* | Auxiliary | Future in complex constructions | Neutral future (analytic) | **Moderate** |
+| *agth* | Auxiliary | Cosmic inevitability | "shall" — prophetic certainty, not deontic obligation | **Moderate** |
+| *gag* | Auxiliary | Speaker-volitional emphatic | "WILL" — first-person volitional future | **Moderate** |
+| *lal* (?) | Particle/auxiliary | Perfective | "has/has done" — past/perfective aspect | **Low** |
+
+This five-way system (if *lal* is confirmed) would provide Shath'Yar with a complete tense-aspect system: past (*lal*), present (unmarked), and future (four-way distinction by semantic nuance).
