@@ -884,21 +884,74 @@ This candidate is significant because it is **independent of the /h/ → ∅ hyp
 
 **Confidence: Low–Moderate** for *Shul'* ↔ *Shal* as a shared Proto-Troll-Elven root meaning "shadow/darkness." The consonantal match is exact and the semantics are precise, but the Darnassian meaning is inferred and short CVC forms increase coincidence probability.
 
+#### Candidate F: *-athir* "memory/remnant" ↔ Nazja/Darnassian *-athir* / *-athra* / *-ethir* — **NEW Round 30**
+
+| | Hara'ni | Nazja / Darnassian |
+|---|---------|-------------------|
+| **Form** | *-athir* /-æθɪr/ | *-athir* /-æθɪr/, *-athra* /-æθrə/, *-ethir* /-ɛθɪr/ |
+| **Confirmed meaning** | "memory" (in *Har'athir* = Village of Memory) | Unknown (no confirmed gloss) |
+| **Attestations** | *Har'athir* (village; confirmed) | *Alathir* Spire (Nazjatar), *Lemor'athra* Spire (Nazjatar), *Kal'methir* (Kaldorei ruin in Nazjatar) |
+
+The morpheme *-athir* = "memory" is confirmed in Hara'ni by the official translation *Har'athir* = "Village of Memory." Three Nazjatar place names share the same consonantal skeleton /-θɪr/ or /-θrə/:
+
+1. **Alathir Spire** (/æˈlæθɪr/) — decomposable as *Al-* + *-athir*, paralleling *Har'* + *-athir* in Hara'ni. If *Al-* relates to the *\*ala-* "light/essence" root (cf. Investigation 13 Candidate C), *Alathir* could mean "memory of light" or "essence-memory."
+
+2. **Lemor'athra Spire** (/lɛˈmɔːrˌæθrə/) — decomposable as *Lemor'* + *-athra*. The vowel alternation *-athir* / *-athra* (with final /ɪ/ vs. /ə/) could reflect grammatical variation (e.g., case marking, noun class, or dialectal variation between Hara'ni and Nazja/Darnassian).
+
+3. **Kal'methir** (/kælˈmɛθɪr/) — described as a Kaldorei (Darnassian) ruin, making this a **Darnassian** attestation rather than Nazja. The *-ethir* variant (with /ɛ/ instead of /æ/) could reflect Darnassian vowel reduction or a different prefix vowel (*Kal'm-* + *-ethir* vs. *Al-* + *-athir*). If *Kal'* relates to *Kal* = "star" (as in *Kaldorei*), *Kal'methir* could mean "star-memory" or "remnant of the stars."
+
+**Critical context**: These Nazjatar spires predate the Sundering and were built by the Highborne (Kaldorei) empire. This means *Alathir* and *Lemor'athra* are most likely **pre-Sundering Darnassian** place names that were inherited by Nazja when the naga occupied Nazjatar — not Nazja innovations. The Darnassian origin is confirmed for *Kal'methir* (explicitly labeled a Kaldorei ruin) and for other Nazjatar names (*Elun'alor*, *Zin-Azshari*). This makes the cognate analysis a **Hara'ni–Darnassian** comparison rather than Hara'ni–Nazja.
+
+**Phonological consistency**: The core /-θɪr/ is shared across all attestations:
+- Hara'ni: *-athir* /-æθɪr/ (confirmed meaning "memory")
+- Darnassian: *-athir* /-æθɪr/ (in *Alathir*), *-ethir* /-ɛθɪr/ (in *Kal'methir*), *-athra* /-æθrə/ (in *Lemor'athra*)
+
+The /θ/ in *-athir* / *-ethir* is consistent with both Hara'ni and Darnassian phonology (both languages have /θ/), making this cognate phonologically clean — no unexplained sound changes are required.
+
+**Significance**: If *-athir* = "memory" is shared between Hara'ni and Darnassian, it would be the **first confirmed semantic cognate** between the two languages (rather than a purely phonological match with inferred semantics). The meaning "memory" is confirmed in Hara'ni by official translation; if the Darnassian spire names also contain *-athir* meaning "memory," their translations would be coherent: *Alathir* = "memory of light/essence," *Kal'methir* = "memory of the stars."
+
+**Problem**: The Darnassian meaning of *-athir* is unconfirmed. The spire names have no official translations, and the semantic match rests entirely on the Hara'ni evidence. The /-θɪr/ sequence, while distinctive, is short enough that coincidence remains possible. Additionally, *Lemor'athra* shows *-athra* rather than *-athir*, which could indicate a different morpheme or a grammatical variant.
+
+**Confidence: Low–Moderate** for *-athir* as a shared Proto-Troll-Elven morpheme meaning "memory/remnant." The phonological match is exact (/æθɪr/ in both languages), the semantic match is confirmed in Hara'ni, and the three Nazjatar attestations provide converging evidence. However, the Darnassian meaning is unconfirmed, and the short morpheme length increases coincidence probability. The identification of *Kal'methir* as a Darnassian (not Nazja) form strengthens the cognate analysis by placing *-athir* / *-ethir* in the Darnassian layer.
+
+#### /h/ Distribution Gradient Across the Elven Family — **NEW Round 30**
+
+The hypothesis that Darnassian lost initial /h/ (Candidate B: *Har'* ↔ *Aran*) predicts a gradient of /h/ retention across the elven language family. A systematic count of /h/-initial proper names confirms this prediction:
+
+| Language | /h/-initial Names | Total Proper Names | /h/-initial Rate | Assessment |
+|----------|-------------------|-------------------|-------------------|------------|
+| **Hara'ni** | 6+ (*Hagar*, *Hannan*, *Harandar*, *Hara'ni*, *Hawli*, *Habissi*) | ~30 | **~20%** | Very high; /h/ is phonologically salient |
+| **Nazja** | 2 (*Heth'Jatar*, *Haghazed*) | ~45+ | **~4%** | Very low; /h/ is marginal |
+| **Darnassian** | ~1 (*Hinduli* in untranslated phrase) | ~100+ | **<1%** | Near-absent; possible systematic /h/ loss |
+| **Thalassian** | 0 | ~50+ | **0%** | Complete /h/ loss (if ever present) |
+| **Shalassian** | 0 | ~20+ | **0%** | Complete /h/ loss |
+
+This gradient is **exactly as predicted** by the /h/ → ∅ hypothesis: Hara'ni (which diverged earliest, ~16,000 BDP) preserves initial /h/ at high frequency; the elven daughter languages show progressive loss — near-total in Darnassian, total in Thalassian and Shalassian, with Nazja retaining only 2 entrenched proper names.
+
+**Alternative explanations**:
+1. **Blizzard design aesthetics**: Hara'ni names were designed with /h/ to sound "exotic/ancient," while elven names avoided /h/ for aesthetic reasons. This cannot be ruled out, but the gradient pattern (Hara'ni > Nazja > Darnassian > Thalassian/Shalassian) is more consistent with a systematic sound change than random design choices.
+2. **Substrate influence**: Hara'ni /h/ may derive from a subterranean language substrate rather than Proto-Troll-Elven inheritance. However, the confirmed genetic relationship between Haranir and dark trolls/night elves makes shared inheritance more parsimonious.
+
+**Impact on Candidate B**: This gradient **significantly strengthens** the *Har'* ↔ *Aran* cognate analysis. The near-absence of /h/ in Darnassian is no longer an isolated observation but part of a systematic pattern across the entire elven family. The two surviving Nazja /h/-initial names (*Heth'Jatar*, *Haghazed*) can be interpreted as retentions from the pre-divergence Highborne dialect — proper names that resisted the sound change due to entrenchment, parallel to how English retains /h/ in "hound" (from Proto-Germanic *\*hundaz*) despite /h/ loss before front vowels in other words.
+
+**Confidence for /h/ → ∅ as a systematic elven sound change**: **Moderate** (upgraded from Low–Moderate). The gradient distribution across five languages is strongly consistent with progressive /h/ loss. The main limitation remains the absence of additional /h/-initial ↔ zero-initial cognate pairs beyond *Har'/Aran*.
+
 #### Assessment: Hara'ni–Elven Cognate Candidates
 
 | Candidate | Correspondence | Confidence | Key Strength | Key Weakness |
 |-----------|---------------|------------|--------------|--------------|
 | *-nir* collective suffix | Shared suffix | Low–Moderate | Exact phonological match; consistent function in proper names | Semantic gap ("people" vs. "bringer/bearer"); small sample |
-| *Har'* ↔ *Aran* "settlement" | Shared root with /h/ loss | Low–Moderate | Exact semantic match; /h/ → ∅ is typologically natural | Not independently confirmed; sporadic rather than systematic /h/ loss |
+| *Har'* ↔ *Aran* "settlement" | Shared root with /h/ loss | **Moderate** (upgraded) | Exact semantic match; /h/ → ∅ now supported by gradient across 5 languages | Only one /h/ ↔ ∅ cognate pair found; could be limited to this root |
 | *Shul'* ↔ *Shal* "shadow" | Shared root with vowel shift | Low–Moderate | Exact semantic match "shadow"; identical /ʃ_l/ skeleton | Darnassian meaning inferred; short CVC; possible homophony with kinship *Shal'* |
+| *-athir* "memory" | Shared suffix | **Low–Moderate** (NEW) | Confirmed semantics in Hara'ni; 3 Darnassian attestations in Nazjatar spire names | Darnassian meaning unconfirmed; short morpheme; *-athra* variant unexplained |
 | *Aln-* ↔ *\*ala-* "essence" | Shared root with *-n* suffix | Very Low–Low | Coherent semantic framework; /al-/ onset shared | Extra *-n* unexplained; semantic gap significant |
 | *-mara* "balance" | Shared suffix | Very Low | Exact phonological match | No Zandali semantic evidence; /mara/ is a common syllable |
 
-**Overall assessment**: The convergence of three plausible cognate pairs — *-nir* (collective suffix), *Har'/Aran* (settlement root), *Shul'/Shal* (shadow root) — across three independent semantic domains (morphology, toponymy, vocabulary) is more than would be expected by chance for languages separated by ~16,000 years. The identification of *Shul'/Shal* is particularly significant because it does not depend on the unconfirmed /h/ → ∅ sound change, providing an independent line of evidence for deep genetic relationship.
+**Overall assessment**: The convergence of four plausible cognate pairs — *-nir* (collective suffix), *Har'/Aran* (settlement root), *Shul'/Shal* (shadow root), *-athir* (memory suffix) — across four independent semantic domains (morphology, toponymy, vocabulary, suffix semantics) is more than would be expected by chance for languages separated by ~16,000 years. The /h/ distribution gradient across five elven-family languages (Hara'ni ~20% > Nazja ~4% > Darnassian <1% > Thalassian/Shalassian 0%) independently supports the /h/ → ∅ sound change required by the *Har'/Aran* analysis. The identification of *Shul'/Shal* and *-athir* is particularly significant because neither requires the /h/ → ∅ change, providing independent lines of evidence for deep genetic relationship.
 
-**Critical test**: If additional Hara'ni–Elven cognate pairs can be identified that share the /h/ → ∅ correspondence (Hara'ni initial /h/ ↔ Elven zero), this would significantly strengthen the *Har'/Aran* analysis and the overall case for cognate identification. A systematic search of all Hara'ni /h/-initial words against Darnassian and Thalassian vowel-initial words found no additional /h/ → ∅ pairs beyond *Har'/Aran*, suggesting that if the correspondence is genuine, it may be limited to this single root or require more data to confirm. Conversely, *Shul'/Shal* provides a second cognate that does not require /h/ → ∅, strengthening the overall case regardless.
+**Critical test**: If additional Hara'ni–Elven cognate pairs can be identified that share the /h/ → ∅ correspondence (Hara'ni initial /h/ ↔ Elven zero), this would significantly strengthen the *Har'/Aran* analysis and the overall case for cognate identification. A systematic search of all Hara'ni /h/-initial words against Darnassian and Thalassian vowel-initial words found no additional /h/ → ∅ pairs beyond *Har'/Aran*, suggesting that if the correspondence is genuine, it may be limited to this single root or require more data to confirm. The /h/ gradient analysis (Round 30) provides independent support for systematic /h/ loss in the elven branch even without additional cognate pairs.
 
-**Confidence: Low–Moderate** that at least two of the three top candidates (*-nir*, *Har'/Aran*, *Shul'/Shal*) reflect genuine Proto-Troll-Elven cognates; **Moderate** confidence that at least one does.
+**Confidence: Moderate** that at least two of the four top candidates (*-nir*, *Har'/Aran*, *Shul'/Shal*, *-athir*) reflect genuine Proto-Troll-Elven cognates; **Moderate–High** confidence that at least one does.
 
 ### Investigation 14: *-ah* as Proto-Elven Derivational Suffix
 
@@ -962,6 +1015,21 @@ If *dor* + *-ah* = *dorah*, the semantic shift "crown" → "that which is crowne
 This is the **third** compound in this pattern, and *dor* is the first root that does not end in /l/ — demonstrating that *-ah* attaches regardless of root-final consonant, not just to /l/-final roots like the original three pairs (*tal*, *al*, *fal*).
 
 **Additional weaker candidates**: Two further *-ah* pairs were identified but remain below the threshold for inclusion in the evidence table: (1) *shal* "twilight" → *shala* "safe" (Low confidence; semantic shift requires cultural inference), and (2) *ash* → *asha* "blessed/grace" (Low confidence; semantic link between Darnassian "command focus" and Thalassian "blessed" is weak).
+
+#### Potential Compound of Two *-ah* Forms: *daldorah* — **NEW Round 30**
+
+The Celebras incantation *Shal myrinan ishnu daldorah* contains the form *daldorah*, which decomposes as *dal* + *dorah*. Both elements may be *-ah* nominalized forms:
+
+| Element | Base | + *-ah* | Proposed Meaning | Cognate Set |
+|---------|------|---------|-----------------|-------------|
+| *dal* | *dal* | (root only, no *-ah* form attested) | "fortune/goodness" (Set 16) | Elven-comparative.html Set 16 |
+| *dorah* | *dor* | *dorah* | "valor/honor" (nominalized) | Investigation 14, fourth pair |
+
+If *dal* = "fortune/goodness" (a proposed cognate at Low–Moderate confidence, Set 16) and *dorah* = "valor/honor" (Moderate confidence), then *daldorah* would be a compound of two nominalized roots meaning "fortune and valor" or "the goodness of honor." This would be the first attested compound of two *-ah* nominalized forms, demonstrating that *-ah* forms can serve as input to further compounding — a strong indicator of morphological productivity.
+
+Alternative: *daldorah* may be an indivisible morpheme, or *dal* may not be the same root as the proposed cognate *dal* "fortune/goodness." The compound analysis is speculative.
+
+**Confidence: Very Low–Low** for *daldorah* as a compound of *dal* + *dorah* (two *-ah* forms). The individual elements have independent support, but the compound analysis requires both elements to be correct simultaneously, compounding the uncertainty.
 
 #### Alternative Analyses
 

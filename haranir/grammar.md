@@ -152,7 +152,7 @@ The four confirmed village translations provide the first Hara'ni vocabulary ite
 | Suffix | Confirmed Meaning | Notes |
 |--------|-------------------|-------|
 | *-alnor* | "twilight" | May decompose further (*al-* + *-nor*) or be indivisible |
-| *-athir* | "memory" | Possible connection to *Hara'ti* via shared *-th-* / *-t-* consonant |
+| *-athir* | "memory" | Possible connection to *Hara'ti* via shared *-th-* / *-t-* consonant; **cross-family cognate with Darnassian/Nazja *-athir* / *-ethir*** (see below) |
 | *-kuai* | "rain" | Contains /kw/ cluster; likely single morpheme |
 | *-mara* | "balance" | Possible: *mar-* + *-a* or indivisible. Note: *-mara* parallels *Har'mara* = "Village of Balance" |
 
@@ -458,9 +458,27 @@ Semantically consistent compounds: *Shul'ka* = "shadow-hunters" (Hara'ni), *Shal
 
 **Confidence: Low–Moderate** — see darnassian/grammar.md Investigation 13, Candidate E.
 
+#### Candidate F: *-athir* "memory" ↔ Darnassian/Nazja *-athir* / *-ethir* — **NEW Round 30**
+
+| | Hara'ni | Darnassian/Nazja |
+|---|---------|-------------------|
+| **Form** | *-athir* /-æθɪr/ | *-athir* /-æθɪr/, *-ethir* /-ɛθɪr/, *-athra* /-æθrə/ |
+| **Confirmed meaning** | "memory" (in *Har'athir* = Village of Memory) | Unknown (no confirmed gloss) |
+| **Attestations** | *Har'athir* (village; confirmed) | *Alathir* Spire (Nazjatar), *Lemor'athra* Spire (Nazjatar), *Kal'methir* (Kaldorei ruin) |
+
+The morpheme *-athir* = "memory" is confirmed in Hara'ni by the official translation. Three Nazjatar place names share the identical consonantal skeleton /-θɪr/: *Alathir* (/æˈlæθɪr/), *Lemor'athra* (/lɛˈmɔːrˌæθrə/), and *Kal'methir* (/kælˈmɛθɪr/ — a Kaldorei ruin, hence Darnassian rather than Nazja). These spires are pre-Sundering Highborne (Darnassian) constructions, making this a **Hara'ni–Darnassian** cognate candidate rather than Hara'ni–Nazja. The *-athir* / *-athra* vowel alternation may reflect grammatical variation or dialectal difference. The /θ/ is shared by both Hara'ni and Darnassian, making this cognate phonologically clean — no unexplained sound changes are required.
+
+This candidate is significant because *-athir* has a **confirmed semantic gloss** ("memory") in Hara'ni — unlike most cognate candidates where Darnassian meanings are inferred rather than confirmed.
+
+**Confidence: Low–Moderate** — see darnassian/grammar.md Investigation 13, Candidate F.
+
+#### /h/ Distribution Gradient — **NEW Round 30**
+
+A systematic count of /h/-initial proper names across the elven family reveals a gradient strongly consistent with progressive /h/ loss: Hara'ni (~20%) > Nazja (~4%) > Darnassian (<1%) > Thalassian/Shalassian (0%). This gradient independently supports the *Har'* ↔ *Aran* cognate analysis (Candidate B) by demonstrating that /h/ loss is a systematic elven sound change, not an isolated feature of the *Har'/Aran* pair. The two surviving Nazja /h/-initial names (*Heth'Jatar*, *Haghazed*) can be interpreted as retentions from the pre-divergence Highborne dialect. See darnassian/grammar.md Investigation 13 for full analysis.
+
 #### Implications
 
-If even one of these candidates is confirmed (particularly *-nir*, *Har'/Aran*, or *Shul'/Shal*), it would provide the **first linguistic evidence** (as opposed to lore evidence) for the Haranir's descent from the proto-troll/elven population. The identification of *Shul'/Shal* is particularly significant because it provides a cognate candidate that does **not** depend on the unconfirmed /h/ → ∅ sound change, offering an independent line of evidence. A systematic search of all Hara'ni /h/-initial words against Darnassian and Thalassian vowel-initial words found no additional /h/ → ∅ pairs beyond *Har'/Aran*, suggesting this correspondence — if genuine — may be limited to a single root or require more data.
+If even one of these candidates is confirmed (particularly *-nir*, *Har'/Aran*, *Shul'/Shal*, or *-athir*), it would provide the **first linguistic evidence** (as opposed to lore evidence) for the Haranir's descent from the proto-troll/elven population. The identification of *Shul'/Shal* and *-athir* is particularly significant because neither depends on the /h/ → ∅ sound change, providing independent lines of evidence. The /h/ distribution gradient (Round 30) independently supports the /h/ → ∅ change required by *Har'/Aran*, upgrading its confidence to Moderate.
 
 ## Limitations
 
@@ -474,6 +492,6 @@ If even one of these candidates is confirmed (particularly *-nir*, *Har'/Aran*, 
 - **The *-ia* feminine suffix is effectively disproven.** Wiki gender data confirms Ruia and On'hiea are male, while only Ney'leia is female. The *-ia* ending cannot be a feminine marker.
 - **Morta'ka is an Elemental**, not a Haranir, but was likely named by the Haranir. This means *-ka* may apply to non-Haranir entities designated by Haranir naming conventions.
 - **The Derelict Mural** in Harandar (Nordrassil Roots) contains only Common/English text. The alpha version used "the Goddess" and "lesser trollkind" but no Hara'ni vocabulary. The live version was toned down.
-- **The Haranir's unique biological origin** ("not really elves, not really trolls") means there are no obvious cognate languages to compare with. However, four potential cognate candidates with elven and troll languages have been identified (see §Potential Cognates above); none are confirmed.
+- **The Haranir's unique biological origin** ("not really elves, not really trolls") means there are no obvious cognate languages to compare with. However, six potential cognate candidates with elven and troll languages have been identified (see §Potential Cognates above); none are confirmed.
 - **The Haranir lived on Mount Hyjal before migrating to Harandar** after 16,000 BDP — this extreme antiquity means any related languages may have diverged beyond recognition.
 - **The alpha build mural text** (which depicted Haranir as progenitors of all trollkind) was **changed at launch** to depict a "split" in Haranir society. The alpha text is no longer canon and did not contribute any Hara'ni vocabulary. This resolves the open question about whether the mural contained additional Hara'ni words — it did not survive into the released game.

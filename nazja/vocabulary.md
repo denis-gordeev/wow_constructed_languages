@@ -56,11 +56,11 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, u
 | Zanj'ir Terrace | Location in Nazjatar | /zændʒˈɪr/ | Named after the Zanj'ir tribe; includes Zanj'ir Keep and Zanj'ir Wash |
 | Zanj'ir Keep | Fortress in Nazjatar | /zændʒˈɪr/ | Naga stronghold |
 | Elun'alor Temple | Kaldorei ruin in Nazjatar | /ɛˈluːnˈælɔːr/ | Pre-Sundering temple; contains Darnassian morphemes *Elun* + *alor* |
-| Kal'methir | Ruins in Nazjatar | /kælˈmɛθɪr/ | Contains Kaldorei ruin Kal'methir Citadel |
+| Kal'methir | Ruins in Nazjatar | /kælˈmɛθɪr/ | Kaldorei ruin; *-ethir* parallels Hara'ni *-athir* = "memory" (Low–Moderate confidence cognate); *Kal'* may relate to *Kal* = "star" |
 | Nar'anan | Location in Nazjatar | /nɑːrˈænæn/ | — |
 | Thoras'tal Spire | Location in Nazjatar | /ˈθɔːræsˌtæl/ | — |
-| Lemor'athra Spire | Location in Nazjatar | /lɛˈmɔːrˌæθrə/ | — |
-| Alathir Spire | Location in Nazjatar | /æˈlæθɪr/ | — |
+| Lemor'athra Spire | Location in Nazjatar | /lɛˈmɔːrˌæθrə/ | *-athra* suffix parallels Hara'ni *-athir* = "memory" (Low–Moderate confidence cognate) |
+| Alathir Spire | Location in Nazjatar | /æˈlæθɪr/ | *-athir* suffix parallels Hara'ni *-athir* = "memory"; *Al-* may relate to *\*ala-* "light/essence" root |
 | Deepcoil Tunnels / Hatchery | Location in Nazjatar | — | English descriptor |
 | Ranazjar | Naga-inhabited island in Desolace | /ræˈnæzjɑːr/ | Attested Nazja place name |
 | Rethress | Abandoned naga camp in Azshara zone | /ˈrɛθrɛs/ | Attested Nazja place name |
