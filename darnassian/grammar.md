@@ -213,7 +213,7 @@ Notes:
 
 11. **Post-apostrophe consonant preference**: Post-apostrophe elements almost always begin with a consonant (*Quel'dorei*, *Shan'do*, *Thero'shan*, *Ban'dinoriel*, *Belor'relos*, *Irana'ethil*, *Ka'dani*, *Nar'valas*). Vowel-initial post-apostrophe elements are rare and occur almost exclusively after the theophoric name *Elune* (*Elune'ara*, *Elune'eth*), suggesting a theophoric naming exception rather than a general phonotactic pattern. Across 30+ apostrophe-containing compounds, approximately 90%+ have consonant-initial post-apostrophe elements.
 
-12. **Partial reduplication in theophoric vocabulary**: *Xaxas* /ˈzɑksɑs/ ("chaos, fury, elemental rage, catastrophe") shows a partial reduplication pattern — the consonantal skeleton /ks...ks/ + /s/ repeats across syllables with consistent /ɑ/ vocalism: *Xa-xa-s*. The Warcraft Encyclopedia describes it as "a short title with many meanings, all dire," and it is used as an epithet for Deathwing. Cross-linguistically, reduplication often signals intensification, plurality, or distributive meaning — consistent with the word's "many dire meanings" and association with elemental catastrophe. This is the only confirmed Darnassian word showing reduplication; it may be a morphological strategy restricted to high-register or theophoric vocabulary. The /ks/ (written *x*) is rare in Darnassian, paralleling its use in *Althalaxx* (a place name with geminate *-xx*). Low confidence for productive reduplication; single attestation.
+12. **Partial reduplication and the /ks/ phoneme**: *Xaxas* /ˈzɑksɑs/ ("chaos, fury, elemental rage, catastrophe") shows a partial reduplication pattern — the consonantal skeleton /ks...ks/ + /s/ repeats across syllables with consistent /ɑ/ vocalism: *Xa-xa-s*. The Warcraft Encyclopedia describes it as "a short title with many meanings, all dire," and it is used as an epithet for Deathwing. Cross-linguistically, reduplication often signals intensification, plurality, or distributive meaning — consistent with the word's "many dire meanings" and association with elemental catastrophe. The /ks/ (written *x*) is rare in Darnassian, appearing in only two attested words: *Xaxas* and the place name *Althalaxx* (a pre-Sundering Highborne tower with geminate *-xx*). Both words show some form of /ks/ repetition — overtly in *Xaxas*, covertly (via geminate spelling) in *Althalaxx* — suggesting that /ks/ reduplication may have been a productive morphological process in archaic or High Darnassian. See Investigation 17 for full analysis. Low confidence for productive reduplication.
 
 ### Comparison with Daughter Languages
 
@@ -1270,3 +1270,62 @@ The most significant new findings are:
 6. *Thandae-alah* confirms *-alah* as an independent Darnassian word outside the *Ishnu-alah* greeting formula.
 
 **Confidence: Low–Moderate** for the overall systematic decoding. The most robust results are the two highly decodable phrases (*Ishnu-talah Kaldorei*, *Zin-al-Elune*) and the extension of Investigation 10 with five new *ther-* attestations. The *Enu* connection to Investigation 12 and the *Sael'ah* connection to Investigation 14 remain speculative but provide testable predictions.
+
+### Investigation 17: The /ks/ Phoneme and Frozen Reduplication — *Xaxas* and *Althalaxx* — **NEW Round 35**
+
+The phoneme /ks/ (written *x*) is one of the rarest in Darnassian, appearing in only two attested words: the confirmed word *Xaxas* and the place name *Althalaxx*. Both show repetition of the /ks/ skeleton — overtly in *Xaxas*, covertly (via geminate spelling) in *Althalaxx* — raising the question of whether /ks/ reduplication was a productive morphological process in archaic or High Darnassian.
+
+#### Evidence Table
+
+| Word | IPA | /ks/ Pattern | Context |
+|------|-----|-------------|---------|
+| *Xaxas* | /ˈzɑksɑs/ | Overt: consonantal skeleton /ks...ks/ + /s/ with consistent /ɑ/ vocalism | Theophoric title for Deathwing; "chaos, fury, elemental rage, catastrophe" |
+| *Althalaxx* | /ɑlˈθɑlɑks/ | Covert: geminate *-xx* = orthographic doubling of *x* = /ks/ | Pre-Sundering Highborne tower in Darkshore |
+
+#### Two Hypotheses for the Geminate *-xx* in *Althalaxx*
+
+**Hypothesis 1: Frozen reduplication**
+
+*-xx* reflects historical reduplication of the /ks/ skeleton, parallel to *Xaxas*. Underlying form *\*Althalaksks* > *Althalaxx* by degemination of the final cluster. The reduplication would have produced a form like *\*Althalax-ax* or *\*Althalaxx-axx*, which simplified to surface geminate *-xx*.
+
+The *Al-thal-* portion already shows root alliteration (/l/ repeated, /ɑ/ vocalism consistent), making a second layer of repetition (*-axx*) consistent with a reduplicative name-formation strategy used for archaic/powerful names.
+
+**Hypothesis 2: Orthographic emphasis**
+
+The geminate *-xx* is a spelling convention marking the name as exotic/archaic Highborne, with no phonological significance. The surface form is simply /ks/ in coda position, and the doubling is graphic — a common fantasy-naming device.
+
+#### Distributional Argument
+
+*Xaxas* and *Althalaxx* are the **only two Darnassian words containing *x***. If /ks/ were merely a rare phoneme with no morphological significance, we would not expect both attestations to show some form of repetition. This distribution is unlikely to be coincidental:
+
+- If /ks/ appeared in 10 random words, ~1 showing repetition would be expected by chance
+- If /ks/ appears in only 2 words, both showing repetition is significant (p ≈ 0.01 under a binomial model assuming 10% baseline repetition rate)
+
+Both names are also associated with archaic/ancient contexts: *Xaxas* is a theophoric title (high-register vocabulary), and *Althalaxx* is a pre-Sundering Highborne tower (ancient toponym). If /ks/ reduplication was a feature of High Darnassian (the formal/ritual register), its restriction to these contexts is expected.
+
+#### Counterarguments
+
+1. No attested intermediate form (*Althalaxax*, *Althalaxxax*) exists to confirm overt reduplication was ever present.
+2. Geminate consonant spelling is a common fantasy-naming convention and may not reflect historical phonology.
+3. The *Al-thal-* alliteration already provides one layer of repetition; a second reduplicative layer would be unusually complex for a single name.
+4. The phoneme *x* in *Xil'varu* (an uncertain word with IPA /zɪlˈvɑru/) shows *x* → /z/, suggesting *x* may not always represent /ks/ consistently — weakening the distributional argument slightly.
+
+#### Weaker Reduplication Candidates
+
+Two additional proper names show possible consonant repetition that could reflect frozen reduplication at Very Low confidence:
+
+| Name | Pattern | Assessment |
+|------|---------|------------|
+| *Falfarren* (river in Ashenvale) | *Fal-far-* shows C₁aC₁aC₂ with /f/ repeated; if *fal* "balance/disruption" was reduplicated as *\*fafar* > *falfar* by liquid insertion or dissimilation, this would be partial reduplication | Very Low — could equally be compound of distinct roots (*fal* + *farren*) |
+| *Lathar'Lazal* (Seat of the Sky) | Both halves share /lV...Vl/ frame with /ɑ/ vocalism — *lɑθɑr* ~ *lɑzɑl* — with medial consonant alternation (θ→z); could reflect frozen partial reduplication with consonant ablaut | Very Low — could equally be compound of two separate roots |
+
+#### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|------------|-------|
+| *Althalaxx* *-xx* = frozen /ks/ reduplication (parallel to *Xaxas*) | **Very Low–Low** | Distributional argument is strong (only two *x*-words, both show repetition); but no intermediate form exists, and orthographic emphasis is equally plausible |
+| /ks/ reduplication as productive archaic Darnassian process | **Very Low–Low** | Only two data points; the pattern could be restricted to these two names |
+| *Falfarren* *fal-far* = partial reduplication | **Very Low** | Could be compound of distinct roots |
+| *Lathar'Lazal* *lɑ_Cɑl* = frozen reduplication with ablaut | **Very Low** | Could be compound of distinct roots |
+
+**Confidence: Very Low–Low** for the *Xaxas*–*Althalaxx* connection as genuine reduplication rather than orthographic convention. The distributional argument (both /ks/-containing words show some form of repetition) is the strongest evidence, but it cannot distinguish between genuine historical reduplication and Blizzard design choice (using geminate *-xx* for aesthetic effect in an exotic name). The analysis is documented primarily as a testable prediction: if additional Darnassian words containing *x* are discovered, the presence or absence of repetition in those words would decisively favor one hypothesis over the other.

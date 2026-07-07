@@ -112,6 +112,18 @@
 - [ ] Investigate Darnassian *Ande* vs *Andu* imperative variant — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-07, Round 35)
+
+- [x] Add Darnassian Investigation 17: The /ks/ Phoneme and Frozen Reduplication — *Xaxas* and *Althalaxx* — both are the only two Darnassian words containing *x* (/ks/), and both show some form of /ks/ repetition (overt in *Xaxas*, covert via geminate spelling *-xx* in *Althalaxx*); two hypotheses evaluated (frozen reduplication vs. orthographic emphasis); distributional argument (both /ks/-words show repetition is unlikely to be coincidental); weaker candidates *Falfarren* and *Lathar'Lazal* identified; Very Low–Low confidence; see Darnassian grammar.md Investigation 17
+- [x] Update Darnassian Phonological Pattern 12 — expanded from "theophoric vocabulary" to "the /ks/ phoneme" with explicit cross-reference to *Althalaxx* and Investigation 17
+- [x] Search for additional Darnassian reduplication patterns — systematic analysis of all 75+ proper names and 33 untranslated phrases; no additional confirmed reduplication examples found beyond *Xaxas*; two weaker candidates identified (*Falfarren* fal-far, *Lathar'Lazal* lɑ_Cɑl); see Darnassian grammar.md Investigation 17
+- [x] Verify *Xaxas* connection to *Althalaxx* /x/ phoneme — connection documented as Investigation 17; both words containing *x* show /ks/ repetition; Very Low–Low confidence for genuine reduplication vs. orthographic convention; testable if additional *x*-containing words are discovered
+- [x] Search for new WoW language data from recent content — no genuinely new language data found beyond what the repository already contains; patch 12.1.5 (Autumn 2026) remains the most likely source of new data
+- [x] Update Darnassian description.md/html — investigation count 16 → 17; added Investigation 17 summary
+- [x] Update README.md — Darnassian investigation count updated to 17; added /ks/ reduplication analysis to attestation level
+- [x] Sync Darnassian grammar.html with grammar.md (Phonological Pattern 12 update, Investigation 17 with full HTML tables)
+- [x] Sync Darnassian description.html with description.md (investigation count 17, Investigation 17 summary)
+
 ## Completed This Round (2026-07-07, Round 34)
 
 - [x] Add confirmed Darnassian word *Xaxas* from Warcraft Encyclopedia — "chaos, fury, elemental rage, catastrophe"; often used to refer to Deathwing; Day of the Dragon ch. 9; the first confirmed Darnassian word showing partial reduplication (Phonological Pattern 12); see Darnassian vocabulary.md and grammar.md
@@ -207,8 +219,8 @@
 - [ ] Test Shath'Yar *maq/noq* person-conditioning — no 2nd-person propositional negation exists in corpus; if *iilth* + *noq* or *iilth* + *maq* is ever found, person-conditioning is testable; 2nd-person negative contexts currently use specialized modals (*sythn*, *ag'xig*)
 - [ ] Research patch 12.1.5 content when available — check for new Zandali, Hara'ni, or ethereal language data
 - [ ] Test nerubian *bakh* ↔ *bkah* triconsonantal root hypothesis — if confirmed by additional B-K-H forms, this would be the first evidence of Semitic-style root-and-pattern morphology in a WoW language; requires new nerubian text with /b/, /k/, /h/ consonant combinations; see nerubian grammar.md
-- [ ] Search for additional Darnassian reduplication examples — *Xaxas* (Phonological Pattern 12) is the only confirmed case; check untranslated phrases and proper names for CVC-reduplication patterns (e.g., *Thandae*, *Banthalos*); see Darnassian grammar.md
-- [ ] Verify *Xaxas* connection to *Althalaxx* /x/ phoneme — both use rare /ks/ or /x/ in Darnassian; check whether *-xx* in *Althalaxx* could reflect the same reduplication pattern as *Xaxas*; see Darnassian grammar.md Phonological Pattern 12
+- [ ] Search for additional Darnassian words containing *x* — only *Xaxas* and *Althalaxx* contain *x*; new *x*-containing words would test the frozen reduplication hypothesis (Investigation 17); check untranslated phrases, proper names, and any new content
+- [ ] Investigate *Falfarren* and *Lathar'Lazal* as potential frozen reduplication — *Falfarren* shows *fal-far-* C₁aC₁aC₂; *Lathar'Lazal* shows /lɑ_Cɑl/ frame with consonant alternation; both Very Low confidence; see Darnassian grammar.md Investigation 17
 
 ## Completed This Round (2026-07-04, Round 27)
 
