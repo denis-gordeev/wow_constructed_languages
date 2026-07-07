@@ -385,6 +385,65 @@ The confirmed shared Xhosa accent (warcraft.wiki.gg/wiki/Haranir; Amarakk voiced
 
 ### Xhosa-Specific Features Not Reflected in Orthography
 
+#### Morphological Parallels: Hara'ni and Zandali — **NEW Round 36**
+
+Beyond the phonological parallels documented above, Hara'ni and Zandali share several structural morphological features that may reflect Proto-Troll inheritance. This section compares morphological strategies rather than individual morpheme forms.
+
+##### Village-Naming Strategy
+
+Both Hara'ni and Zandali have a dedicated morpheme for "village/settlement" used productively in place names:
+
+| | Hara'ni | Zandali |
+|---|---------|---------|
+| Morpheme | *Har'* = "village" (4 confirmed attestations) | *-watha* = "village/settlement" (8 attestations) |
+| Pattern | Village + Qualifier | Qualifier + Village |
+| Examples | *Har'alnor* = "Village of Twilight", *Har'athir* = "Village of Memory", *Har'kuai* = "Village of Rain", *Har'mara* = "Village of Balance" | *Agol'watha*, *Hiri'watha*, *Shaol'watha*, *Zun'watha*, *Zeb'Watha*, *Dol'watha*, *Tor'Watha*, *Watha'nan* |
+
+**Key structural difference**: Hara'ni places the village morpheme **first** (head-initial compounding: *Har'* + qualifier), while Zandali places it **last** (head-final compounding: qualifier + *-watha*). This aligns with the broader compounding direction documented in the README: elven languages stress the second element (head-initial), while Zandali stresses the first element (modifier-initial). Hara'ni's head-initial village naming thus **aligns with the elven pattern rather than the Zandali pattern**, consistent with Hara'ni being a divergent elven branch (not a troll branch), despite sharing the Xhosa accent with Zandali.
+
+Zandali also has a second village morpheme *Zeb'-* = "forest village" (8 attestations) used as a **prefix** (*Zeb'Watha*, *Zeb'Nowa*, *Zeb'Sora*), which is modifier-initial — consistent with Zandali's modifier-first pattern.
+
+##### Agentive/Designation Suffixes
+
+Both languages use CV suffixes ending in /a/ to designate a person or entity by their quality:
+
+| | Hara'ni | Zandali |
+|---|---------|---------|
+| Suffix | *-ka*/*-kah* (3 attestations) | *-da* (kinship: 2 attestations); *-ey* (agentive: 1 attestation) |
+| Examples | *Shul'ka* = "Hunters of Shadows", *Morta'ka* = "personification of death", *Lu'kah* = painter-storyteller | *Fa'da* = "Father", *Ma'da* = "Mother"; *Hash'ey* = "unifier/champion" |
+
+The phonological forms differ (*-ka* vs *-da*), but the shared structural template — **[root] + CV suffix /Ca/** for agentive/personification — may reflect a Proto-Troll morphological pattern. If Proto-Troll-Elven had a set of agentive suffixes following the template *-Ca* (consonant + /a/), then *-ka*, *-da*, and *-ta* could represent different consonant grades. The Zandali *-da* in kinship terms is already identified as a potential cross-family cognate with Darnassian *An'da*/*Min'da* (see Darnassian grammar.md Investigation 6), so the broader *-Ca* agentive template would extend this pattern to Hara'ni.
+
+However, CV suffixes with /a/ are extremely common cross-linguistically (and in WoW language design), making convergence a strong alternative explanation.
+
+**Confidence: Very Low–Low** for a shared Proto-Troll *-Ca* agentive template. The structural parallel is real but could easily reflect universal design preferences.
+
+##### The *-mara* Correspondence
+
+Hara'ni *-mara* = "balance" (confirmed in *Har'mara*) is phonologically identical to Zandali *-mara* in *Shaol'mara* (Isle of Thunder outpost) and *Kul'amara* (Witherbark chieftain). This is already documented as Candidate D. A deeper morphological analysis reveals:
+
+1. **Structural position**: In Hara'ni, *-mara* appears after the apostrophe as the second element of a compound (*Har'* + *-mara*). In Zandali, *-mara* also appears after the apostrophe as the second element (*Shaol'* + *-mara*, *Kul'* + *-mara*). The identical suffix position in both languages strengthens the cognate hypothesis beyond mere phonological match.
+
+2. **Semantic coherence**: If *-mara* = "balance" in Zandali, *Shaol'mara* could mean "outpost of balance" and *Kul'amara* could mean "chieftain of balance" or "balance-chieftain." Both readings are semantically coherent for their referents (a Zandalari outpost, a Witherbark chieftain).
+
+3. **Alternative: *-mara* as Proto-Troll "balance/harmony"**: If *-mara* is a Proto-Troll-Elven morpheme meaning "balance/harmony", its preservation in both Hara'ni and Zandali after 16,000 years of divergence would be remarkable but not impossible for a culturally central concept. The Haranir's emphasis on balance (their village-naming explicitly includes "balance") and the Zandalari's cultural emphasis on harmony and order make this semantically plausible.
+
+**Confidence: Low–Moderate** for *-mara* as a genuine Hara'ni–Zandali cognate (upgraded from Very Low). The identical structural position (post-apostrophe second element) in both languages adds a morphosyntactic argument beyond the phonological match alone.
+
+##### Compounding Direction as Phylogenetic Marker
+
+The compounding direction difference between Hara'ni and Zandali provides a potential phylogenetic signal:
+
+| Feature | Hara'ni | Zandali | Darnassian/Thalassian |
+|---------|---------|---------|----------------------|
+| Village compounding | Head + Qualifier (*Har'alnor*) | Qualifier + Head (*Agol'watha*) | Head + Qualifier (*Ara*n*) |
+| Stress in compounds | Second element (speculated) | First element (confirmed) | Second element (penultimate) |
+| Apostrophe function | Morpheme boundary | Morpheme boundary + glottal stop | Morpheme boundary only |
+
+Hara'ni's head-initial compounding matches the elven pattern rather than the Zandali pattern. This suggests that despite sharing the Xhosa accent (implying shared phonological substrate), Hara'ni's morphosyntax aligns with the elven branch of the family. This is consistent with the lore: the Haranir descend from dark trolls/night elves, not from the Zandalari troll line. The shared accent may reflect retention of Proto-Troll phonological features that were lost in elven languages but preserved in Hara'ni due to its extreme isolation.
+
+**Confidence: Low–Moderate** for compounding direction as a phylogenetic marker. The pattern is consistent with the known history but the data is limited (only 4 Hara'ni village names with confirmed translations).
+
 The following Xhosa phonological features are NOT directly observable in either name corpus but could be responsible for the perceived "accent":
 
 1. **Click consonants**: Xhosa has three click types (dental /ǀ/, alveolar /ǃ/, lateral /ǁ/). If proto-troll had clicks, they may have been:
@@ -439,9 +498,9 @@ The *\*ala-* root is already identified as a potential Proto-Troll-Elven cognate
 
 #### Candidate D: *-mara* "balance" ↔ Zandali *-mara*
 
-Hara'ni *-mara* = "balance" (confirmed in *Har'mara* = Village of Balance) is phonologically identical to Zandali *-mara* in *Shaol'mara* (Zandalari outpost) and *Kul'amara* (Witherbark chieftain). However, *-mara* has no confirmed gloss in Zandali, and /mara/ is a common syllable pattern.
+Hara'ni *-mara* = "balance" (confirmed in *Har'mara* = Village of Balance) is phonologically identical to Zandali *-mara* in *Shaol'mara* (Zandalari outpost) and *Kul'amara* (Witherbark chieftain). The identical structural position (post-apostrophe second element) in both languages adds a morphosyntactic argument beyond the phonological match — see §Morphological Parallels for detailed analysis.
 
-**Confidence: Very Low** — see darnassian/grammar.md Investigation 13, Candidate D.
+**Confidence: Low–Moderate** — upgraded from Very Low; see darnassian/grammar.md Investigation 13, Candidate D and §Morphological Parallels above.
 
 #### Candidate E: *Shul'* "shadow" ↔ Darnassian *Shal* "shadow/twilight" — **NEW Round 29**
 

@@ -311,9 +311,11 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | maq | not | *Ywaq maq oou; ywaq maq ssaggh* = "They do not die; they do not live" | **High** |
 | plahf | know | *qi'plahf* = "will know"; *shAth'yar plahf* = "abyss know" | **High** |
 | lwhuk | devour | *UULL lwhuk H'IWN* = "The DARKNESS devours ALL" | **High** |
-| nuq | adorn | *Sk'tek agth nuq N'Zoth yyqzz* = "Your skulls shall adorn N'Zoth's writhing throne" | **Moderate** |
+| nuq | adorn / temporal "now" / aspectual "no more" | *Sk'tek agth nuq* = "Your skulls shall adorn"; *Nuq zuq lwhuk* = "Now you shall perceive"; *Oou oou ryiu nuq* = "We slumber no more" — potentially related to *noq* via grammaticalization chain; see grammar.md Investigation 15 | **Moderate** (adorn) / **Low–Moderate** (temporal) / **Very Low–Low** (negation connection) |
 | vorzz | sing | *Sk'shuul agth vorzz* = "Your deaths shall sing" | **Moderate** |
-| qam | return | *Uulg'ma, ag qam* = "After millennia, we have returned" | **Moderate** |
+| qam₁ | return | *Uulg'ma, ag qam* = "After millennia, we have returned"; *Y'za qam yyqzz* = "I return to the writhing throne" | **Moderate** |
+| qam₂ | negation (construction-specific, after *wgah*) | *AN'zig wgah qam* = "will not be stopped"; *Zuq wgah qam n'lyeth* = "You will not survive" | **Low–Moderate** — see grammar.md Investigation 16 |
+| qam₃ | copula "are" / imperative "let/begin" | *Fssh qam ak'agathShi* = "They are redemption"; *Qam oou iilth ez i awtgsshu* = "Let the feast begin" | **Very Low–Low** — see grammar.md Investigation 16 |
 | puul | drink | *Ywaq puul skshgn* = "They drink your fear" | **Moderate** |
 | nuul | dwell | *Yoq'al shn ky ywaq nuul* = "It is the perpetuity in which they dwell" | **Moderate** |
 | kyth | see | *KYTH ag'xig yyg'far* = "SEE how we pour"; *Zuq agth kyth* = "You have seen" | **High** |

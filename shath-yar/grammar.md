@@ -745,29 +745,32 @@ The distinction between *En'* (copular negation, forming a full clause) and *og*
 
 **Confidence: Low–Moderate** for *En'* as a negative existential copula. The decomposition *En'* + *othk* is phonologically clean and semantically coherent, but the compound noun alternative (*En'othk* = "darkness") cannot be ruled out. Additional attestations of *En'* + [noun] would strongly support the copula analysis.
 
-#### Complete Negation Inventory — **UPDATED Round 29**
+#### Complete Negation Inventory — **UPDATED Round 36**
 
-A systematic search of the entire Shath'Yar corpus identifies nine potential negation elements with 15 total attestations:
+A systematic search of the entire Shath'Yar corpus identifies ten potential negation elements with 17 total attestations:
 
 | Element | Type | Position | Attestations | Confidence | Key Examples |
 |---------|------|----------|-------------|------------|--------------|
 | *maq* | Verbal negation (3rd person) | S-Neg-V | 2 | High | *Ywaq maq oou* = "They do not die"; *Ywaq maq ssaggh* = "They do not live" |
 | *noq* | Verbal negation (1st person) | S-Neg-V | 2 | Moderate | *Y'za noq mah* = "I am not the first"; *Y'za noq ormz* = "I am not the last" |
+| *qam*₂ | Construction-specific negation (with *wgah*) | Aux-Neg → fused "will-not" | 2 | Low–Moderate | *wgah qam za zyqtahg* = "will not be stopped"; *wgah qam n'lyeth* = "will not survive" |
 | *og*₁ | Existential negation particle | Neg-N | 2 | Low–Moderate | *Og h'iwn* = "No light"; *Og vormos* = "No escape" |
 | *En'* | Negative existential copula | Before N (predicate) | 1 | Low–Moderate | *En'othk* = "There is no light" |
 | *sythn* | Negative modal "cannot" | S-Neg-V | 2 | Low–Moderate | *Y'za sythn oou* = "I cannot die"; *Iilth sythn aqev* = "You cannot [resist] madness" |
 | *NEL'OTHK* | Negative modal (SHOUTED) | Unknown | 1 | Very Low–Low | *IIYOQ NEL'OTHK AR'AFGH!* = "IT CANNOT BE CONTAINED!" |
 | *Naza* | Negative quantifier "not one" | NegQuant-NP | 1 | Very Low | *Naza bul rexil qalic ul'* = "Not a single worthy trait" |
-| *nuq* | Aspectual negation "no more"? | Post-V | 1 | Very Low–Low | *Oou oou ryiu nuq* = "We slumber no more" |
+| *nuq* | Aspectual negation "no more"? / temporal "now"? | Post-V / clause-initial | 1 (negation) + 2 (temporal) | Very Low–Low | *Oou oou ryiu nuq* = "We slumber no more" (potentially related to *noq*; see Investigation 15) |
 | *ag'xig* | Negative modal "cannot" | Pre-V | 3 | Low | *Zuq ag'xig bormaz* = "You cannot escape"; *Oou vwahuHn ag'xig shfk* = "The titans cannot save you" |
 
-The negation system shows a three-tier structure:
+The negation system shows a four-tier structure:
 
 1. **Core propositional negation** (*maq*, *noq*): Negate the truth of a proposition. Person-conditioned allomorphy is perfectly distributed (2 *maq* with *Ywaq* "they", 2 *noq* with *Y'za* "I") but with only 4 data points. **No 2nd-person propositional negation example exists** — the two 2nd-person negative contexts (*Iilth sythn aqev*, *Zuq ag'xig bormaz*) both use specialized negative modals rather than *maq*/*noq*, leaving the person-conditioning hypothesis untestable.
 
-2. **Existential negation** (*og*₁, *En'*): Negate existence. *og*₁ forms bare negative NPs ("no light"); *En'* forms full negative existential clauses ("there is no light"). Together with affirmative *og*₂ (see Investigation 8), these complete a four-way copula/existential paradigm: *ma* (affirmative predicative), *og*₂ (affirmative existential), *En'* (negative existential), *og*₁ (existential negation particle).
+2. **Construction-specific negation** (*qam*₂): Only appears after the analytic future auxiliary *wgah*, forming a fused negative future *wgah qam* = "will-not" — see Investigation 16 for full analysis.
 
-3. **Negative modals** (*sythn*, *NEL'OTHK*, *ag'xig*): Express inability or impossibility. These may constitute a separate grammatical category (deontic/dynamic negation: "cannot") distinct from propositional negation (*maq*/*noq*: "do not / am not"). *ag'xig* appears with both 2nd-person (*Zuq*) and 3rd-person (*Oou vwahuHn*) subjects, confirming it is not person-conditioned like *maq*/*noq*.
+3. **Existential negation** (*og*₁, *En'*): Negate existence. *og*₁ forms bare negative NPs ("no light"); *En'* forms full negative existential clauses ("there is no light"). Together with affirmative *og*₂ (see Investigation 8), these complete a four-way copula/existential paradigm: *ma* (affirmative predicative), *og*₂ (affirmative existential), *En'* (negative existential), *og*₁ (existential negation particle).
+
+4. **Negative modals** (*sythn*, *NEL'OTHK*, *ag'xig*): Express inability or impossibility. These may constitute a separate grammatical category (deontic/dynamic negation: "cannot") distinct from propositional negation (*maq*/*noq*: "do not / am not"). *ag'xig* appears with both 2nd-person (*Zuq*) and 3rd-person (*Oou vwahuHn*) subjects, confirming it is not person-conditioned like *maq*/*noq*.
 
 The *og* homophony (*og*₁ negation vs. *og*₂ affirmative existential/locative) is confirmed by 5 classified attestations: 2 × *og*₁ (negation), 3 × *og*₂ (affirmative), plus 2 untranslated *og* occurrences that remain ambiguous (*Log'loth og shandai*, *Bal'qwari Og Shadar*).
 
@@ -2113,3 +2116,140 @@ The co-occurrence of *lal* with *lwhuk* "devour/begin" in *Oou gul'kafh lal lwhu
 | *lal* (?) | Particle/auxiliary | Perfective | "has/has done" — past/perfective aspect | **Low** |
 
 This five-way system (if *lal* is confirmed) would provide Shath'Yar with a complete tense-aspect system: past (*lal*), present (unmarked), and future (four-way distinction by semantic nuance).
+
+### Investigation 15: The *nVq* Root — *noq*, *nuq*, and the Negation-Temporal Connection — **NEW Round 36**
+
+The negation inventory (Investigation 5) treats *noq* and *nuq* as unrelated elements: *noq* = propositional negation with 1st person subjects, *nuq* = aspectual negation "no more" (Very Low–Low). However, their phonological similarity — both share the consonantal skeleton *n-q* with only vowel quality differing (/o/ vs /u/) — invites systematic comparison. This investigation evaluates whether *noq* and *nuq* derive from a shared Proto-Shath'Yar root *\*nVq*.
+
+#### Complete *nVq* Attestation Inventory
+
+| Form | Translation Context | Proposed Gloss | Syntactic Position | Source Phrase |
+|------|-------------------|----------------|--------------------|--------------|
+| *noq* | "I am **not** the first" | propositional negation | S-Neg-V (*Y'za noq mah*) | Kaahrj |
+| *noq* | "I am **not** the last" | propositional negation | S-Neg-V (*Y'za noq ormz*) | Kaahrj |
+| *nuq* | "We slumber **no more**" | aspectual/terminative negation | Post-V (*ryiu nuq*) | Deep Watcher |
+| *nuq* | "**Now** you shall perceive" | temporal adverb "now" | Clause-initial (*Nuq zuq*) | Mote of Cosmic Truth |
+| *nuq* | "a new master **now**" | temporal adverb "now" | Clause-final (*halahs nuq*) | G'huun |
+| *nuq* | "Your skulls shall **adorn**" | verb "adorn" | V position (*agth nuq*) | Zon'ozz |
+| *nuq* | "My fall is **but a beat**" | unknown function | After *og* (*og nuq*) | Storm's End |
+| *nuq* | "[for] eternity **more**" | unknown function | After *ez* (*ez nuq far'al*) | Mote of Cosmic Truth |
+
+#### Five Hypotheses
+
+**Hypothesis 1: Allomorphy — *noq* and *nuq* are phonologically conditioned variants of the same negation root**
+
+Vowel alternation /o/ ↔ /u/ marks different negation functions: *noq* = propositional negation "not", *nuq* = terminative negation "no more/not anymore". This parallels Zandali verbal ablaut where vowel quality marks grammatical distinctions (*File/Fele* = "love" SG/PL with /i/ ↔ /e/).
+
+However, *nuq* also appears in non-negation contexts ("now", "adorn"), which weakens a pure negation allomorphy analysis.
+
+**Hypothesis 2: Grammaticalization chain — temporal → aspectual → propositional**
+
+A known cross-linguistic pathway: temporal adverbs grammaticalize into aspectual markers, which then grammaticalize into negation elements. Under this analysis:
+
+1. *\*nuq* = temporal "now/already" (original meaning, preserved in *Nuq zuq lwhuk* = "Now you shall perceive")
+2. *\*nuq* → aspectual "no more" (temporal → terminative: "now [things are different]" → "no longer")
+3. *\*nuq* → *\*noq* = propositional "not" (terminative → general negation, with vowel shift /u/ → /o/ marking the grammaticalization)
+
+This would explain the vowel alternation: the older form *nuq* retained its temporal/aspectual functions, while the innovated form *noq* specialized for propositional negation. The grammaticalization pathway "now" → "no longer" → "not" is typologically attested (cf. French *ne...plus* = "no more" from Latin *plus* = "more", which also yielded negative semantics).
+
+**Hypothesis 3: Independent homophonous morphemes**
+
+*noq* = negation and *nuq* = temporal/verb are unrelated forms that happen to share /n/ and /q/. In a language with Shath'Yar's restricted phonological inventory (few vowels, heavy use of /q/), such coincidences are not unlikely. The vowel difference (/o/ vs /u/) would then be lexically determined, not grammatically conditioned.
+
+**Hypothesis 4: Shared root *\*nVq* with polysemy — "temporal transition"**
+
+The shared semantics could be "temporal transition": *noq* = "not [anymore]" (transition out of a state), *nuq* = "now" (transition into a state), *nuq* = "no more" (transition out of a state). The vowel alternation /o/ vs /u/ could mark the direction of transition: /o/ = exit (negation), /u/ = entry or general (temporal/aspectual). The verb "adorn" in *Sk'tek agth nuq* would then be a separate homophonous form.
+
+**Hypothesis 5: *nuq* as verb "adorn" is the primary form; *noq* derived via vowel lowering**
+
+If *nuq* = verb "adorn/decorate/crown" is the primary meaning (attested in *Sk'tek agth nuq* = "Your skulls shall adorn"), then *noq* could be a phonologically modified form used specifically in negation. Vowel lowering /u/ → /o/ in grammaticalized forms is cross-linguistically attested (cf. English *can* → *could* with /æ/ → /ʊ/ ablaut). Under this analysis, "adorn" → "set in place" → "is not" would require a significant semantic leap and is unlikely.
+
+#### Assessment
+
+| Hypothesis | Description | Confidence | Key Problem |
+|------------|-------------|------------|-------------|
+| Allomorphy | *noq*/*nuq* = negation root with vowel-conditioned functions | **Very Low–Low** | *nuq* in non-negation contexts ("now", "adorn") |
+| Grammaticalization chain | *nuq* "now" → "no more" → *noq* "not" | **Low–Moderate** | Requires assuming current coexistence of multiple stages; *nuq* = "adorn" remains unexplained |
+| Independent homophonous morphemes | Coincidental similarity in restricted phonology | **Low–Moderate** | Explains the data but misses potential systematic connection |
+| Shared root "temporal transition" | *\*nVq* = transition; /o/ = exit, /u/ = entry/general | **Very Low** | Overly abstract; *nuq* = "adorn" remains unexplained |
+| Derivation from verb "adorn" | *nuq* "adorn" → *noq* "not" via grammaticalization | **Very Low** | Semantic gap too large |
+
+The grammaticalization chain hypothesis (H2) is the most promising because it explains the temporal/aspectual/negation range of *nuq* and derives *noq* as a specialized negation form. However, *nuq* = verb "adorn" (in *Sk'tek agth nuq*) remains problematic for all hypotheses that connect *nuq* and *noq*. Two resolutions are possible:
+
+1. *nuq* in *Sk'tek agth nuq* is a **different morpheme** from temporal/aspectual *nuq* — homophonous forms within the same language, which is common in natural languages (cf. English *bank* = financial institution vs. river bank).
+2. *nuq* = "adorn" is a semantic extension of temporal *nuq*: "now" → "present" → "make present/manifest" → "adorn/crown" — but this requires multiple semantic steps with very low confidence.
+
+The grammaticalization chain also makes a **testable prediction**: if *nuq* and *noq* are related, then 2nd-person propositional negation (currently attested with neither *maq* nor *noq*) should use a form derived from the same *nVq* root — either *noq* (extending the 1st-person form to 2nd person) or *naq*/*neq* (a different vowel grade). This prediction can only be tested if a 2nd-person propositional negation example is discovered.
+
+#### Implications for the Negation Inventory
+
+If the grammaticalization chain is correct, the *nuq* entry in the negation inventory (Investigation 5) should be reclassified from "aspectual negation 'no more' (Very Low–Low)" to "temporal/aspectual form of the *\*nVq* root, related to propositional negation *noq*." This would strengthen the negation system's internal coherence by connecting *noq* to a broader grammatical paradigm, but would not change the core three-tier structure.
+
+**Confidence: Low–Moderate** for a genuine connection between *noq* and *nuq* via grammaticalization chain. The phonological similarity (*nVq*) and the semantic gradient ("now" → "no more" → "not") are consistent with a shared origin, but the non-negation function of *nuq* ("adorn") and the limited data (2 *noq* + 6 *nuq* attestations) prevent higher confidence.
+
+### Investigation 16: The *qam* Polysemy — Three Homophonous Morphemes? — **NEW Round 36**
+
+The morpheme *qam* appears in seven attested phrases with at least three distinct translations: "return/have returned", negation after *wgah*, and imperative/copula. This investigation evaluates whether these represent one polysemous morpheme or multiple homophonous forms.
+
+#### Complete *qam* Attestation Inventory
+
+| Phrase | Translation | *qam* Function | Syntactic Context | Source |
+|--------|-------------|----------------|-------------------|--------|
+| *Uulg'ma, ag qam* | "After millennia, we have returned" | verb "return" (perfective) | S-V (*ag* + *qam*) | Zon'ozz |
+| *Y'za qam yyqzz* | "I return to the writhing throne" | verb "return" | S-V-O (*Y'za* + *qam* + *yyqzz*) | Anglepoint |
+| *AN'zig wgah qam za zyqtahg* | "G'huun will not be stopped" | negation (after *wgah*) | Aux-Neg-V (*wgah* + *qam*) | Mythrax |
+| *Zuq wgah qam n'lyeth* | "You will not survive" | negation (after *wgah*) | Aux-Neg-V (*wgah* + *qam*) | Mythrax |
+| *Qam oou iilth ez i awtgsshu amun on'ma* | "Let the feast of a thousand maws begin" | imperative "let/begin" | Clause-initial | G'huun |
+| *W'oq uhn'agth ez qam Shandai* | "Come, servants of rot. Consume!" | imperative "consume/return" | V position | G'huun |
+| *Fssh qam ak'agathShi Fssh qam h'iwn* | "They are redemption. They are truth" | copula "are" or verb | S-V-Pred | Maw of Madness |
+
+#### Three *qam* Morphemes
+
+**qam₁ = "return" (verb)** — 2 attestations
+
+Both attestations are unambiguous: *ag qam* = "we have returned", *Y'za qam yyqzz* = "I return to the writhing throne". The perfective interpretation in *ag qam* ("have returned" rather than "return") is consistent with the perfective particle *lal* (if confirmed; see Investigation 14) or with *qam* inherently conveying completed action. The simpler analysis is that *qam₁* = "return" with perfective semantics built into the verb (a "lexical perfective").
+
+**qam₂ = negation (post-auxiliary particle)** — 2 attestations
+
+Both attestations follow the future auxiliary *wgah*: *wgah qam* = "will not". This is typologically unusual — most languages with auxiliaries and negation place negation before the auxiliary (Neg-Aux-V), not between auxiliary and verb (Aux-Neg-V). Two sub-analyses:
+
+1. *qam* = negation particle licensed specifically by *wgah*: Under this analysis, *wgah qam* forms a discontinuous future-negation construction, paralleling French *ne...pas* where the negation is split. *qam* would not appear as negation without *wgah*.
+
+2. *qam* = same verb "return" with idiomatic negation meaning: *wgah qam* = "will return" → by implicature "will come back [despite opposition]" → interpreted as "will not be stopped". This is a stretch — the English translations are explicitly negative, not idiomatic.
+
+3. *qam* = negation complement of *wgah*, forming a synthetic negative future: *wgah qam* = "will-not" as a single grammatical unit. This parallels English *won't* = *will* + *not* contracted. Under this analysis, *qam* does not appear independently as negation — it is only licensed by *wgah*.
+
+The third sub-analysis is most consistent with the data: *qam*₂ never appears as negation without *wgah*, suggesting it is a construction-specific negation form. This would explain why *maq*/*noq* (not *qam*) handle negation in other syntactic positions.
+
+**qam₃ = copula or imperative** — 3 attestations
+
+In *Fssh qam ak'agathShi* = "They are redemption", *qam* occupies the copula position (between subject *Fssh* and predicate *ak'agathShi*), paralleling *ma* = "is/are" (*Ywaq ma phgwa'cul* = "They are the whisper"). If *qam*₃ = copula, it may be a variant of *ma* with different semantics — perhaps an emphatic or identitative copula ("are precisely" vs. *ma* = "are generally").
+
+In *Qam oou iilth ez i awtgsshu amun on'ma* = "Let the feast of a thousand maws begin", *qam* appears clause-initially, a position associated with imperatives in Shath'Yar (cf. *W'oq* = "Come!"). If *qam*₃ = imperative, the meaning could be "let/begin/commence".
+
+In *W'oq uhn'agth ez qam Shandai* = "Come, servants of rot. Consume!", *qam* appears as the final verb, parallel to the imperative *W'oq* = "Come". The translation "Consume!" is idiomatic; a more literal rendering might be "Return to rot/eternity" if *qam* = "return" (same as *qam*₁).
+
+#### Assessment: One, Two, or Three Morphemes?
+
+| Analysis | Morphemes | Confidence | Key Argument |
+|----------|-----------|------------|--------------|
+| **Three homophonous morphemes** | *qam*₁ "return", *qam*₂ "negation (wgah-specific)", *qam*₃ "copula/imperative" | **Low–Moderate** | Each function appears in a distinct syntactic position; no clear semantic path connects all three |
+| **Two morphemes: qam₁ "return" + qam₂₃ "copula/negation"** | *qam*₁ "return" and *qam*₂₃ = grammaticalized form serving both copula and negation | **Very Low–Low** | Copula and negation functions could be related (cf. *ma* = copula, *maq* = negation, sharing /m/), but the semantic path is unclear |
+| **One polysemous morpheme** | *qam* = "return/come to pass/be" with contextual specialization | **Very Low** | Semantic range too broad for a single morpheme; "return" → "be" → "not" requires too many steps |
+
+The three-morpheme analysis is preferred. The critical observation is that *qam*₂ (negation) only appears after *wgah*, suggesting it is **construction-specific** rather than a general negation particle. This would make Shath'Yar negation even more grammatically structured than previously thought: not only does the language have person-conditioned negation (*maq*/*noq*) and existential negation (*og*₁/*En'*), but it also has a **construction-specific negation** (*qam*) that only co-occurs with the analytic future *wgah*.
+
+If confirmed, the *qam*₂ analysis would resolve a puzzle from Investigation 5: the phrase *AN'zig wgah qam za zyqtahg* = "G'huun will not be stopped" was coded at Very Low–Low confidence for S-Aux-Neg-V because Aux-Neg ordering is typologically unusual. If *wgah qam* = "will-not" is a **single grammatical unit** (a negative future auxiliary, paralleling English *won't*), then the structure is S-[NegAux]-V, which is typologically unremarkable — negation is simply fused into the auxiliary.
+
+#### Connection to *ma*/*maq* Paradigm
+
+If *qam*₃ = copula (paralleling *ma*) and *qam*₂ = negation (paralleling *maq*), then Shath'Yar may have **two copula-negation pairs**:
+
+| Pair | Copula | Negation | Relationship |
+|------|--------|----------|--------------|
+| Primary | *ma* = "is/are" | *maq* = "not" | *ma* + *-q* = *maq*? |
+| Secondary | *qam*₃ = "is (emphatic)" | *qam*₂ = "not (with wgah)" | *qam* + ? = ? |
+
+The formal similarity between *ma*/*maq* (sharing /m/) and *qam*/*qam* (identical form) is intriguing. If *maq* = *ma* + *-q* (copula + negation suffix), then *qam* could be the reverse order *q* + *am* (negation + copula stem), creating a mirror-image pair. This is speculative but would provide a systematic phonological relationship between copulas and their corresponding negations.
+
+**Confidence: Low–Moderate** for three homophonous *qam* morphemes. The strongest result is the construction-specific negation analysis for *qam*₂ (*wgah qam* = "will-not"), which would resolve the Aux-Neg ordering puzzle and add a seventh element to the negation inventory. The copula *qam*₃ analysis is weaker, resting on a single attestation (*Fssh qam ak'agathShi*) that could alternatively be read as *qam*₁ "return" in a metaphorical sense ("They return as redemption").
