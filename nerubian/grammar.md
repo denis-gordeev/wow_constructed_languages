@@ -260,9 +260,11 @@ This dual system parallels real-world writing systems that distinguish between l
 4. **Linking vowel *-a-***: The sequences *tikk-a-shisss* and *Sohk-a* suggest a linking vowel /a/ that connects morphemes within words. This is a morphological feature not visible in proper names (which use apostrophes instead).
 
 5. **Short utterance structure**: The text consists of five short phrases separated by periods. This may reflect:
-   - An incantation or ritual text (formal register)
-   - A list format (itemized information)
-   - Natural nerubian sentence length (if short phrases are the norm)
+    - An incantation or ritual text (formal register)
+    - A list format (itemized information)
+    - Natural nerubian sentence length (if short phrases are the norm)
+
+6. **Potential *bakh* ↔ *bkah* root connection**: The confirmed phrase *Shabtir bakh sokhen* ("The servant bows to the master's authority") contains *bakh* = "bows to" (/bɑx/ or /bɑkh/). The scroll text contains *bkah* in *Na-l bkah a-shisss*. Both forms contain the consonants /b/, /k/, /h/ but in different arrangement: *bakh* (b-a-kh) vs. *bkah* (b-k-a-h). If these share a triconsonantal root, nerubian would have root-and-pattern morphology similar to Semitic languages — different vowel/consonant arrangements of the same root yield different but related meanings. The root *B-K-H* would then generate "bows/submits" (*bakh*) and a related form (*bkah*, possibly "submission" or "prostration"). However, *bakh* could also be disyllabic /bɑ.x/ (two consonants), making the *bkah* connection coincidental. **Confidence: Very Low–Low** for a genuine root connection; the consonant overlap is notable but could be coincidental given the small corpus
 
 ### Potential Morphological Decomposition
 

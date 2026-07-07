@@ -213,6 +213,8 @@ Notes:
 
 11. **Post-apostrophe consonant preference**: Post-apostrophe elements almost always begin with a consonant (*Quel'dorei*, *Shan'do*, *Thero'shan*, *Ban'dinoriel*, *Belor'relos*, *Irana'ethil*, *Ka'dani*, *Nar'valas*). Vowel-initial post-apostrophe elements are rare and occur almost exclusively after the theophoric name *Elune* (*Elune'ara*, *Elune'eth*), suggesting a theophoric naming exception rather than a general phonotactic pattern. Across 30+ apostrophe-containing compounds, approximately 90%+ have consonant-initial post-apostrophe elements.
 
+12. **Partial reduplication in theophoric vocabulary**: *Xaxas* /ˈzɑksɑs/ ("chaos, fury, elemental rage, catastrophe") shows a partial reduplication pattern — the consonantal skeleton /ks...ks/ + /s/ repeats across syllables with consistent /ɑ/ vocalism: *Xa-xa-s*. The Warcraft Encyclopedia describes it as "a short title with many meanings, all dire," and it is used as an epithet for Deathwing. Cross-linguistically, reduplication often signals intensification, plurality, or distributive meaning — consistent with the word's "many dire meanings" and association with elemental catastrophe. This is the only confirmed Darnassian word showing reduplication; it may be a morphological strategy restricted to high-register or theophoric vocabulary. The /ks/ (written *x*) is rare in Darnassian, paralleling its use in *Althalaxx* (a place name with geminate *-xx*). Low confidence for productive reduplication; single attestation.
+
 ### Comparison with Daughter Languages
 
 | Feature | Darnassian | Thalassian | Shalassian | Nazja |

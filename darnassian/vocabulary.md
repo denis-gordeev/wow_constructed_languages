@@ -33,6 +33,7 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 | And | /ɑnd/ | Snow | [inferred] from Andrassil = "Crown of the Snow" |
 | Vor | /vɔr/ | Broken | [inferred] from Vordrassil = "Broken Crown" |
 | Ethil | /ˈɛθɪl/ | Diminished / Warded | [inferred] from *Ande'thoras-ethil* ("May your troubles be diminished"); confirmed in farewell phrase; also in *Irana'ethil* ("Shield against the Shadow") and *Ban'ethil* (barrow den); see grammar.md Investigation 11 |
+| Xaxas | /ˈzɑksɑs/ | Chaos, fury, elemental rage, catastrophe | Warcraft Encyclopedia; Day of the Dragon ch. 9; short title with many dire meanings — "chaos", "fury", "the embodiment of elemental rage, such as found in erupting volcanoes or shattering earthquakes", "elemental fury", "catastrophe"; often used to refer to Deathwing; **partial reduplication** pattern — only confirmed Darnassian word showing reduplication; see grammar.md Phonological Pattern 12 |
 
 ## Kinship Terms
 
@@ -238,6 +239,7 @@ Phrases attested in Warcraft III voice lines, WoW RPG sourcebooks, and novelizat
 | Vashj'elan | /vɑʃˈiːlɑn/ | (location) | Naga-occupied location; *Vashj* element |
 | Vashj'ir | /vɑʃˈiːr/ | (zone) | Underwater zone; *Vashj* element |
 | Zoram | /ˈzɔrɑm/ | (strand) | Zoram Strand in Ashenvale |
+| Aethenar | /ˈɑːθɛnɑr/ | (underground facility) | Underground facility near Moon Guard Stronghold in Suramar |
 
 ## Untranslated Phrases
 
