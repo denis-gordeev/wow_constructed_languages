@@ -48,7 +48,7 @@ Grammar rules below are **inferred from attested examples only**. The Qiraji lan
 
 7. **/ʒ/ phoneme**: Official IPA for *Ahn'qiraj* (/ˈɑːn.kiˌɹɑːʒ/) confirms /ʒ/ in *-qiraj*, matching nerubian *Azj-* = /ɑːʒ/. This was likely an Aqir substrate phoneme inherited by both descendant languages.
 
-8. **Potential reduplication**: *Sarsarun* may contain a reduplicated first syllable (*Sarsa-* + *-run*). Reduplication is common in natural languages for diminutive, intensive, or plural functions. Single attestation; **Very Low** confidence.
+8. **Potential reduplication**: *Sarsarun* contains a reduplicated first syllable (*Sarsa-* + *-run*). Given that *Sarsarun* bears the title "Prince," the intensive interpretation is strongest: *Sar-* (a base form) → *Sarsa-* (intensive reduplication: "great Sar" or "supreme Sar") + *-run*. This parallels Semitic intensive patterns where consonant gemination or syllable reduplication marks intensification (Arabic *qattala* = "he killed intensely" vs. *qatala* = "he killed"). If qiraji naming draws on Semitic-inspired morphology (as the Egyptian aesthetic suggests), the *Sarsa-* reduplication would be an intensive name befitting a royal title. **Confidence: Very Low–Low** — single attestation.
 
 9. **Syllable structure**: Tends toward (C)V(C), simpler than nerubian:
     - CV: *Moam*
@@ -158,6 +158,16 @@ Two qiraji names end in the *-naxx* / *-axx* pattern. If this is a suffix (meani
 
 **Confidence: Very Low.** Only two qiraji attestations and three nerubian attestations; the similarity could be coincidental.
 
+An alternative decomposition treats *-xx* (or *-x* = /x/ velar fricative) as the core suffix, with *-n-* and *-a-* as linking elements: *Kurinnaxx* = *Kurinn-* + *-a-* + *-xx* (stem + linking vowel + rank suffix), *Rajaxx* = *Raj-* + *-a-* + *-xx* (stem + linking vowel + rank suffix). Under this analysis, *-x* = /x/ would be a rank suffix, and the nerubian parallel *-nax* = *-n-* + *-a-* + *-x* would contain the same core suffix with simplified geminate. **Confidence: Very Low** — the decomposition is speculative, but it offers a more elegant account of the *-naxx*/*-axx* alternation than treating them as two separate suffixes.
+
+### The *-un* Suffix
+
+*Sarsarun* ends in *-un*, which is not attested in any other qiraji name. However, *-un* / *-ūn* is a productive plural and noun-forming suffix in Arabic and Hebrew. If qiraji naming draws on Semitic patterns, *-un* could be a title suffix (paralleling Arabic *sultān*, *amīrūn*). The single attestation prevents firm conclusions. **Confidence: Very Low** — single attestation.
+
+### The Colossus Names as Regional/Elemental Designations
+
+The parallel between *Colossus of Ashi* and *Hive'Ashi*, and between *Colossus of Zora* and *Hive'Zora*, suggests that *Ashi* and *Zora* are not personal names but regional or elemental designations. The English "of" in "Colossus of Ashi" may translate a qiraji genitive construction — *Ashi* is a place/element name, and "Colossus of Ashi" = "the Ashi-region Colossus." If so, *Ashi* and *Zora* would be among the few qiraji words with potential semantic content. **Confidence: Moderate** for the structural observation that *Ashi* and *Zora* are place/element designations; **Very Low** for specific glosses.
+
 ## Syntax
 
 - No sentence-level attestation exists
@@ -189,5 +199,7 @@ No verb forms, particles, or syntactic structures are known. The confirmed morph
 1. Apostrophe-marked compounding (high confidence)
 2. Hyphen-marked compounding (moderate confidence; functional distinction from apostrophe unclear)
 3. *Ahn-* prefix (moderate confidence, shared with nerubian)
-4. *-naxx* / *-axx* suffix (very low confidence)
-5. Potential reduplication in *Sarsarun* (very low confidence, single attestation)
+4. *-naxx* / *-axx* suffix (very low confidence; alternative *-xx* core suffix analysis at very low confidence)
+5. Intensive reduplication in *Sarsarun* (very low–low confidence, single attestation; intensive interpretation fits Prince title)
+6. *-un* suffix (very low confidence, single attestation)
+7. *Ashi* / *Zora* as regional/elemental designations (moderate confidence for structural observation)

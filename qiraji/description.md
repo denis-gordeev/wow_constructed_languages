@@ -46,7 +46,7 @@ The qiraji phonological system is reconstructed from proper names. Key features 
 - **Confirmed /ʒ/ phoneme**: Official IPA for *Ahn'qiraj* = /ˈɑːn.kiˌɹɑːʒ/ confirms /ʒ/ in the self-designation *-qiraj*, shared with nerubian *Azj-* = /ɑːʒ/. This phoneme was likely inherited from the Aqir substrate
 - **Geminate consonants**: *Kurinnaxx* shows geminate *-xx-*, which qiraji retains where nerubian simplifies to *-x* (*Ovi'nax*). This may reflect a regular sound correspondence: qiraji preserves Aqir gemination, nerubian simplifies it
 - **Hyphen vs. apostrophe boundary**: A distinctive orthographic feature — *Hive'Ashi* uses apostrophe for compound place names, but *Anubisath* uses no boundary marker. The one nerubian text uses hyphens for grammatical boundaries. This three-way distinction (apostrophe = compound, hyphen = grammatical, no mark = fused) may be a shared Aqir orthographic convention
-- **Reduplication**: Potential reduplication in *Ayamiss* and *Rajaxx* — if the final *-ss* and *-xx* elements are reduplicative, this would be a morphological process shared with Zandali (*Dundun*)
+- **Reduplication**: Potential reduplication in *Sarsarun* — the *Sarsa-* element likely reflects intensive reduplication (befitting a Prince title) rather than diminutive, paralleling Semitic intensive patterns
 - **Vowel distribution**: /a/ dominates heavily (*Ahn'qiraj*, *Rajaxx*, *Ayamiss*, *Moam*). /o/ and /u/ are rare, similar to nerubian
 - **/ks/ (x) frequency**: High in final position (*Rajaxx*, *Kurinnaxx*), paralleling nerubian (*Ulgrax*, *Ovi'nax*)
 
@@ -85,6 +85,8 @@ Aqir (unattested; Old God-created insectoid race)
 | Attested place names | ~6+ | *Ahn'qiraj*, *Hive'Ashi*, *Hive'Zora*, *Hive'Regal*, *Ruins of Ahn'qiraj* |
 | Confirmed morphemes | 0 | No qiraji morpheme has independent confirmation |
 | Inferred morphemes | 3 | *Ahn-* (sacred/old prefix), *-naxx*/*-axx* (role suffix), *Hive-* (place/colony prefix) |
+| Additional patterns | 4 | *-un* suffix (single attestation), *Ashi*/*Zora* as regional/elemental designations, alternative *-xx* core suffix analysis (vs. *-naxx*), intensive reduplication in *Sarsarun* |
+| Morphological patterns identified | 7 | See [grammar.md](grammar.md#limitations) for full list with confidence ratings |
 | Attested phrases with translations | 0 | No qiraji phrases have confirmed translations |
 | Attested sentences with full glosses | 0 | No qiraji sentences are attested |
 

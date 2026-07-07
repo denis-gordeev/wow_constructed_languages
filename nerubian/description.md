@@ -51,6 +51,8 @@ The nerubian phonological system is reconstructed from proper names and one scro
 - **Sibilant density**: Moderate. Names like *Nizrek*, *Krix'vizk*, *Rasha'nan* feature sibilants but less densely than Nazja (*Sira'kess*, *Sassz'ine*)
 - **Apostrophe as morpheme boundary**: Nearly all multi-morpheme names use apostrophes. The scroll text uses hyphens instead, suggesting nerubian orthography distinguishes compound name boundaries (apostrophe) from grammatical morpheme boundaries (hyphen)
 - **Vowel distribution**: Names favor /a/ and /e/, with /i/ common in unstressed syllables. /o/ and /u/ are relatively rare
+- **Pillar-nest fricative-final naming template** (Pattern 13): The three pillar-nest subzones (*Xesh*, *Noth*, *Vosh*) share a consistent CVC template ending in voiceless fricatives, with mid/back vowels — too regular to be accidental
+- ***-thir*/*-tir* suffix** (Pattern 14): *Krik'thir* ("the Gatewatcher") and *Nox'tir* ("Sage/Seer") share a suffix meaning "watcher/guardian," with /θ/ → /t/ alternation possibly reflecting dialectal variation
 
 See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
 
@@ -87,7 +89,8 @@ Unlike the Titan-forged language family (which has confirmed genetic relationshi
 | Attested personal names | ~16+ | *Anub'arak*, *Anub'rekhan*, *Anub'azal*, *Anub'arash*, *Ansurek*, *Arak'nai*, *Nizrek*, *Ulgrax*, *Ovi'nax*, *Ky'veza*, *Krix'vizk*, *Rasha'nan*, *Y'tekhi*, *Takazj*, *Krik'thir*, *Ix'zek* |
 | Attested place names | ~8+ | *Azjol-Nerub*, *Ahn'kahet*, *Azj-Kahet*, *Nerub-ar Palace*, *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz*, *Tak-Rethan* |
 | Confirmed morphemes | 2 | *Anub-* (title/warrior prefix), *-kahet* (kingdom/realm suffix) |
-| Inferred morphemes | 6+ | *Azj-* (deep/domain prefix), *-ar* (brood/collective suffix), *-rek*/*-urek* (title suffix), *-nax* (role suffix), *Rak-* (toponymic prefix), *tak-* (combat/imperative element, 5–6 attestations including possible scroll text *tikk*) |
+| Inferred morphemes | 9+ | *Azj-* (deep/domain prefix), *-ar* (brood/collective suffix), *-rek*/*-urek* (title suffix), *-nax* (role suffix), *Rak-* (toponymic prefix), *tak-* (combat/imperative element, 5–6 attestations), *-kan*/*-akan* (subordinate ruler suffix, 3+ attestations), *-na* (clause-final discourse particle, 3 attestations), *-thir*/*-tir* (watcher/guardian suffix, 2 attestations) |
+| Morphological patterns identified | 12 | See [grammar.md](grammar.md#limitations) for full list with confidence ratings |
 | Attested texts | 1 | Nerubian scroll: "Unhhh-tikk-a-shisss. Kka shir. Na-l bkah a-shisss. Kreesh kik ik ta. Sohk-a tik hiss a-k-k-k." |
 | Confirmed translated phrases | 1 | *Shabtir bakh sokhen* = "The servant bows to the master's authority" |
 | Untranslated combat/greeting phrases | 9 | *Aza cha'tak!*, *Elix tak'na*, *Igitith ik Ansureka!*, *Iki'tash izal*, *Kahet iz korvan*, *Tak'izik!*, *Tak'na*, *Tak kat'taj*, *Tak'rasha na!* |

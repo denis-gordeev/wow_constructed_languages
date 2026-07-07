@@ -49,6 +49,19 @@ Grammar rules below are **inferred from attested examples only**. The Ethereal l
 
 10. **Open final syllable preference**: Ethereal names (excluding Domanaar) overwhelmingly end in open syllables or vowel+sonorant sequences — rarely in voiceless stops: open syllable (*Ve'nari* /-ri/, *Ky'veza* /-zə/, *Nari* /-ri/), vowel+sonorant (*Salhadaar* /-dɑːr/, *Bilaal* /-lɑːl/, *Razaan* /-zɑːn/). Voiceless-stop-final names like *Zovex* /-vɛks/ are rare exceptions. This contrasts sharply with nerubian (voiceless stop finals dominant) and reinforces the "soft, flowing" quality of ethereal names vs. the "hard, clicking" quality of nerubian names.
 
+11. **The *-az* name-ending cluster**: Multiple ethereal names end in *-az*: *Arzda* (/ˈɑːrzdə/), *Araz* (/əˈræz/), *Zo'ardaz*, and *Azir* (/ˈæzɪr/ — with /z/ in medial position). This *-az* ending is phonologically distinct from the documented *-aar* / *-aan* / *-aal* pattern (which uses long vowel + coronal sonorant) and from *-daar* (royal suffix). The *-az* ending consistently uses short /æ/ or /ɑ/ + /z/, creating a sharper, more clipped termination than the flowing *-aar* names. If *-az* is a genuine suffix, it could mark a different social rank or occupational category from the *-daar* (royal) and *-aan* (noble?) endings. The concentration in TWW-era names (*Arzda*, *Araz*) and Midnight-era names (*Zo'ardaz*) vs. absence from TBC-era names may reflect a dialectal or temporal shift. **Confidence: Low–Moderate** for *-az* as a genuine morphological ending; the concentration of 4 attestations is notable but could reflect a Blizzard naming trend.
+
+12. **Bilateral symmetry in apostrophe-marked compounds**: A striking structural regularity: the first element in ethereal compound names is almost always shorter (1 syllable) than the second (1–3 syllables):
+
+    | Pattern | Examples |
+    |---------|----------|
+    | 1+1 | *Khay'ji*, *Mu'fah*, *So'zer*, *Ba'kril*, *Zo'ya* |
+    | 1+2 | *Ve'nari*, *Ky'veza*, *Gava'xi* |
+    | 2+1 | *Heka'tamos*, *Malek'ta*, *Sha'ryth* |
+    | 2+2 | *Hara'samid*, *Hal'hadar* |
+
+    The dominant pattern is **short prefix + longer stem**, consistent with a grammatical structure where the prefix is a determiner, classifier, or grammatical particle (like a definite article or demonstrative), while the stem carries the semantic content. This contrasts with nerubian compounds, which show no such asymmetry (*Anub'azal* is 2+2, *Ovi'nax* is 2+1). **Confidence: Moderate** for the observation; **Low** for the grammatical interpretation.
+
 ### Comparison with Other "Alien" WoW Languages
 
 | Feature | Ethereal | Nerubian | Qiraji | Shath'Yar |
@@ -116,6 +129,38 @@ The ethereal political system uses a hierarchy of Common-language titles:
 - Nexus-Prince ≈ *[name]-[different suffix]* (not attested)
 
 This is entirely speculative but provides a framework for future investigation.
+
+### The Domanaar Gender Suffix System
+
+The Domanaar names show an internally consistent gender suffix system — the most morphologically regular naming subsystem of any "alien" WoW species:
+
+| Gender | Suffix | Attestations |
+|--------|--------|-------------|
+| Masculine | *-ius* | *Nocturnius*, *Degentrius*, *Vidious* (3) |
+| Masculine | *-us* | *Decimus*, *Nullaeus*, *Charonus* (3) |
+| Masculine | *-as* | *Terminas* (1) |
+| Feminine | *-ia* | *Enigmalia* (1) |
+| Feminine | *-arra* | *Nysarra* (1) |
+| Neuter | *-um* | *Severum* (1) |
+
+All attested Domanaar names end in one of these six suffixes, and the three-gender system (masculine, feminine, neuter) with multiple suffix forms per gender is a productive morphological paradigm. This is not merely "Latin-inspired" — it is a **deliberate morphological system** with consistent gender marking across the entire Domanaar subset. The system parallels Latin nominal declension endings (*-us*, *-ius*, *-a*, *-um*) but extends to non-Latin phonological forms (*-as*, *-arra*).
+
+**Confidence: High** for the observation of morphological consistency; **Moderate** for it being a genuine in-universe gender system (vs. Blizzard design convention).
+
+### The Two-Layer Diachronic Naming Hypothesis
+
+The ethereal corpus contains two distinct naming layers, potentially reflecting the species' history:
+
+| Layer | Names | Phonological Character |
+|-------|-------|----------------------|
+| **Pre-transformation (native K'areshi)** | *Krysson*, *Etries*, *Gastalt*, *Dervashna*, *Tingarla* | Diverse phonology: Germanic (*Krysson*, *Gastalt*), Slavic/Indic (*Dervashna*), unknown (*Tingarla*, *Etries*) |
+| **Post-Wasting (ethereal)** | *Salhadaar*, *Haramad*, *Ameer*, *Bilaal*, *Razaan*, *Durzaan* | Arabic-inspired phonology: long vowels, triconsonantal roots, *-aan* endings |
+
+The vocabulary file identifies *Krysson* and *Etries* as "non-Arabic phonology" and "pre-transformation K'areshi names." The city-state names *Gastalt* (Germanic feel), *Dervashna* (Slavic/Indic feel), and *Tingarla* (unknown parallel) also show non-Arabic phonology. This suggests the Arabic-inspired naming convention was **adopted after the ethereal transformation**, possibly reflecting a cultural reinvention following the destruction of K'aresh by Dimensius. The pre-transformation names would preserve the original K'areshi phonological aesthetic.
+
+The ritual term *Tabiqa* (the Oracle communion with K'aresh's Worldsoul) has no obvious Common-language etymology and follows Arabic triconsonantal root patterns (*t-b-q*), but its phonological structure *Ta-bi-qa* with /q/ (rare in other ethereal names) suggests ritual vocabulary may preserve archaic phonological features.
+
+**Confidence: Low–Moderate** — the evidence is suggestive but the sample of confirmed pre-transformation names is tiny (only *Krysson* and *Etries* are explicitly identified as such); **Moderate** for the observation of two distinct naming phonologies.
 
 ## Investigation: The Arabic-Inspired Naming Pattern
 
@@ -245,3 +290,6 @@ No verb forms, particles, or syntactic structures are known. The only confirmed 
 2. *-esh* / *-aresh* suffix (moderate–high confidence — upgraded based on *Reshii* plural analysis; see §14 in vocabulary.md)
 3. *-ii* plural suffix (low–moderate confidence — single attestation in *Reshii*, but confirmed plural artifact set)
 4. Nexus-* title hierarchy (Common-language, not ethereal)
+5. Domanaar gender suffix system (high confidence for morphological consistency; 10 attestations across 6 suffix forms and 3 genders)
+6. *-az* ending cluster (low–moderate confidence — 4 attestations of *-az* name endings, distinct from *-aar*/*-aan* pattern)
+7. Two-layer diachronic naming (low–moderate confidence — pre-transformation vs. post-transformation phonological split)

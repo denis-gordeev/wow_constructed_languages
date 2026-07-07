@@ -77,10 +77,12 @@ The parallel between Sethrak *Sethrak* (*seth* + *rak*) and Draenei *Draenei* (*
 
 ## Key Phonological Features
 
-- **Dental fricative /θ/**: The sound represented by *th* in *Sethrak*, *Sethraliss*, *Korthek*, and *Merektha* is unusually frequent. It may be a characteristic or marked phoneme of the language, potentially associated with serpent-related vocabulary.
+- **Dental fricative /θ/**: The sound represented by *th* in *Sethrak*, *Sethraliss*, *Korthek*, and *Merektha* is unusually frequent. It may be a characteristic or marked phoneme of the language, potentially associated with serpent-related vocabulary. Notably, /θ/ concentrates in culturally central terms — the ethnonym, the Loa name, and the Faithless general — suggesting it may carry semantic weight beyond mere phonological frequency
 - **Rhotic frequency**: /r/ appears in nearly every attested name.
 - **Syllable structure**: Predominantly CVC roots, with 2–3 syllable names common.
 - **Apostrophe**: Attested once (*Jakra'zet*), likely representing a morpheme boundary and/or glottal stop, following Zandali convention.
+- **Devoted vs. Faithless phonological split**: Devoted names (e.g., *Sethraliss*) tend toward flowing, liquid-heavy endings, while Faithless names (*Korthek*, *Korgok*) favor harsher, stop-heavy endings — a potential phonological encoding of faction alignment (very low confidence, sample too small)
+- ***-ek*/*-ok* velar-frame pattern**: *Korthek* and *Korgok* share the prefix *Kor-* and second elements that both end in velar stops with mid vowels (*-thek* /θɛk/, *-gok* /gɒk/), following a C + mid vowel + velar stop template
 
 ## Writing System
 

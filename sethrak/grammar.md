@@ -103,6 +103,14 @@ No data available. Names with heavy penultimate syllables (*Merektha*, *Sethrali
 - Rhotic /r/ is frequent, appearing in nearly every name (Sethrak, Sethraliss, Vorrik, Merektha, Korthek, Korgok).
 - Names tend to be 2–3 syllables, with CVC roots appearing common.
 
+### Phonological Patterns
+
+1. **/θ/ concentration in culturally central terms**: Of the four /θ/-bearing terms, three are culturally central — *Sethrak* (ethnonym, most central), *Sethraliss* (Loa name, most sacred), and *Korthek* (Faithless general, primary antagonist). The non-/θ/ names (*Vorrik*, *Aspix*, *Adderis*, *Teskris*, *Korgok*, *Slivan*) are less culturally prominent. This suggests /θ/ may carry semantic weight in Sethrak — perhaps marking names of cultural significance, ritual importance, or power. **Confidence: Low** — the sample is too small to establish a pattern, but the concentration in culturally central terms is notable.
+
+2. **Potential Devoted vs. Faithless phonological split**: The *-raliss* ending in *Sethraliss* (Devoted Loa) has a flowing, liquid-heavy quality (/rɑːˈlɪs/) that contrasts with the harsher *-thek* / *-gok* endings of Faithless names (*Korthek*, *Korgok*). If Sethrak naming phonologically encodes faction alignment — Devoted names have flowing, liquid-heavy endings while Faithless names have harsher, stop-heavy endings — this would be the first documented case of phonological encoding of faction alignment in a WoW constructed language. **Confidence: Very Low** — the sample is far too small, but the phonological contrast between Devoted and Faithless names is worth monitoring.
+
+3. **The *-ek* / *-ok* velar-stop-frame pattern**: *Korthek* (*Kor* + *thek*) and *Korgok* (*Kor* + *gok*) share the prefix *Kor-* and have second elements that both end in velar stops and contain mid vowels: *-thek* = /θɛk/ and *-gok* = /gɒk/. Both second elements follow the pattern C + mid vowel + velar stop. If *Kor-* = "iron/great" as inferred, *-thek* and *-gok* could be rank or role designations with a shared phonological template. **Confidence: Low** — only two examples, but the structural parallel is striking.
+
 ### Investigation: *Kor-* and Its Potential Relationship to Drust *-kor* and Vrykul *-korn*
 
 The Sethrak *Kor-* element (attested in *Korthek*, *Korgok*) has been compared to the Drust *-kor*/*-kron* element (in *Lorkron*) and the Vrykul *-korn* clan suffix (in *Winterskorn*, *Tideskorn*, *Felskorn*). All three share the phonological shape /kɔr/.
@@ -144,5 +152,8 @@ A remote possibility is that *Kor-* is a very old Azerothian substrate word that
 | Apostrophe = morpheme boundary | Low–Medium | Consistent with Zandali convention; only one attestation (*Jakra'zet*) |
 | *-zet* suffix | Low | Only one attestation |
 | /θ/ as characteristic phoneme | Medium | Appears in 5 of ~10 attested forms; statistically notable |
+| /θ/ concentration in culturally central terms | Low | 3 of 4 /θ/-bearing terms are ethnonym, Loa, or antagonist |
+| Devoted vs. Faithless phonological split | Very Low | Flowing vs. harsh endings correlate with faction; sample too small |
+| *-ek*/*-ok* velar-frame pattern | Low | Only *Korthek* and *Korgok*; but structurally parallel |
 | Word order | None | No sentences attested |
 | Phonological analysis | Low | Based solely on orthography; no phonetic data |

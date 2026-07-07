@@ -36,6 +36,8 @@ Key historical events affecting the language:
 - **Broker dialect**: The language as spoken by brokers. Attested through personal names (*Ve'nari*) and the city name *Tazavesh*. Names tend to be shorter, possibly reflecting a more streamlined mercantile register.
 - **Shadowguard variant**: Void-corrupted ethereals may use a dialect influenced by Shath'Yar phonology, though no clear evidence of this is attested in the name corpus.
 - **Domanaar naming (Midnight)**: The Domanaar — a separate Void species that commands the Devouring Host — use systematically Latin-inspired names (*Pertinax*, *Decimus*, *Nocturnius*, *Averzian*) with zero apostrophe usage, contrasting sharply with the Arabic-inspired, apostrophe-using ethereal naming convention. This likely represents a different language rather than a dialect of the ethereal language. The Domanaar also use the *Imperator* military title rather than the *Nexus-* noble hierarchy.
+- **Domanaar gender suffix system**: Domanaar names show a systematic gender-marking suffix pattern (*-us* masculine, *-a* feminine, *-ix* neuter/void), confirming morphological productivity in Domanaar naming
+- **Two-layer diachronic naming hypothesis**: Ethereal names may reflect two chronological layers — pre-transformation names (before Dimensius) vs. post-transformation names — with potential phonological differences between the strata
 
 ## Phonological Features
 
@@ -47,6 +49,8 @@ The ethereal language's phonology is reconstructed entirely from proper names. K
 - **Long vowels**: *Salhadaar* contains *-aa-* (/ɑː/), which may represent a phonologically significant long vowel marking stress, morpheme boundaries, or semantic distinctions
 - **Apostrophe as morpheme boundary**: *K'aresh* and *Ve'nari* use apostrophes to mark morpheme boundaries, but the convention is less consistent than in nerubian or Shath'Yar — many ethereal names lack apostrophes (*Salhadaar*, *Haramad*, *Azir*)
 - **Vowel distribution**: Names favor /a/ and /e/ heavily, with /i/ and /u/ less common. /o/ is rare
+- ***-az* name-ending cluster** (Pattern 11): Multiple ethereal names end in *-az* (*Arzda*, *Araz*, *Zo'ardaz*), phonologically distinct from the *-aar*/*-aan*/*-aal* pattern — potentially marking a different social rank or occupational category
+- **Bilateral symmetry in compounds** (Pattern 12): Ethereal compound names show a dominant short-prefix + longer-stem pattern (*Khay'ji*, *Ve'nari*, *Gava'xi*), contrasting with nerubian's symmetrical compounding
 
 See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
 

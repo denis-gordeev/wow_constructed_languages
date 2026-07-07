@@ -87,6 +87,18 @@ The /ʒ/ phoneme, previously thought rare in nerubian, is now confirmed in the m
 
 12. **Rhotic as a suffix marker**: The phoneme /r/ appears in a disproportionate number of suffix positions: *-ar* faction suffix (*Anub'ar*, *Hath'ar*, *Nerub'ar*, *Ahn'kahar*), *-thir* (*Krik'thir*, *Nox'tir*), *-lar* (*Ix'lar*), *-arak* (*Anub'arak*, *Vorus'arak*). This contrasts with /r/'s rarity in name-initial position (only *Rasha'nan*, *Rak-* prefix). The pattern suggests /r/ carries morphological weight in suffix position — possibly marking collective, agentive, or rank functions.
 
+13. **Pillar-nest fricative-final naming template**: The three pillar-nest subzones in Azj-Kahet share a tight phonological pattern:
+
+    | Name | IPA | Onset | Vowel | Coda |
+    |------|-----|-------|-------|------|
+    | *Xesh* | /zɛʃ/ | Alveolar fricative | Front mid | Postalveolar fricative |
+    | *Noth* | /nɒθ/ | Alveolar nasal | Back rounded | Dental fricative |
+    | *Vosh* | /vɒʃ/ | Labiodental fricative | Back rounded | Postalveolar fricative |
+
+    All three: (1) end in voiceless fricatives (/ʃ/, /θ/), (2) have mid/back vowels, and (3) are monosyllabic CVC structures. This is too consistent to be accidental — these names appear to follow a **naming template** for pillar-nest designations: [+fricative] onset + [+mid/back] vowel + [+fricative] coda. The fricative-final pattern aligns with the broader nerubian word-final voiceless obstruent preference but is even more restricted (only fricatives, not stops). **Confidence: Moderate** for the pattern observation.
+
+14. **The *-thir* / *-tir* suffix**: Two nerubian names share the element *-thir* / *-tir*: *Krik'thir* ("the Gatewatcher") and *Nox'tir* ("Sage/Seer"). If *-thir* = *-tir* with /θ/ → /t/ alternation (a natural sound change), this is a consistent suffix meaning "watcher" or "guardian" — perfectly fitting the roles of "Gatewatcher" and "Seer." The /θ/ → /t/ alternation could reflect dialectal variation (Northrend *-thir* vs. Khaz Algar *-tir*) or grammatical conditioning. **Confidence: Low** — only two attestations, but the semantic fit is excellent. (Cross-family *-thir* parallels in Hara'ni and Shath'Yar are assessed as independent /θ/-heavy phonological aesthetics at Very Low–Low confidence; see Darnassian grammar.md Investigation 13 Candidate F.)
+
 ## Morphology
 
 ### Compounding with Apostrophe Boundary
@@ -231,6 +243,41 @@ The phonological similarity between *-zek* and *-rek* (voiceless vs. voiced fina
 - Coincidence
 
 [speculative]: If *-zek* and *-rek* are the same suffix with voicing alternation, the distribution could reflect a grammatical distinction (e.g., nominative *-rek* vs. genitive *-zek*, or singular *-rek* vs. plural *-zek*).
+
+### The *-kan* / *-akan* Suffix Family
+
+Multiple nerubian names share the *-kan* ending, with vowel-initial variants suggesting a productive suffix:
+
+| Name | Decomposition | Context | Expansion |
+|------|---------------|---------|-----------|
+| *Anub'et'kan* | *Anub-* + *-et-* + *-kan* | Under-King | WotLK |
+| *Vul'akan* | *Vul'* + *-akan* | Scarab Captain | TWW |
+| *Nerub'enkan* | *Nerub-* + *-enkan* | Crypt fiend | WotLK |
+
+The variation *-kan* / *-akan* / *-enkan* / *-et'kan* suggests a productive suffix with different linking elements:
+
+- *-kan* = base suffix, meaning "subordinate ruler" or "under-lord" (given that *Anub'et'kan* is explicitly titled "Under-King")
+- *-akan* = *-a-* (linking vowel) + *-kan*
+- *-enkan* = *-en-* (different linking element or prefix) + *-kan*
+- *-et'kan* = *-et-* + *-kan* (with apostrophe marking the morpheme boundary)
+
+If confirmed, *-kan* would be the third nerubian title suffix alongside *-arak* ("king/ruler") and *-rek* ("advisor/vizier"), forming a ranked hierarchy: *-arak* (supreme ruler) > *-kan* (subordinate ruler) > *-rek* (advisor).
+
+**Confidence: Low–Moderate** — the phonological variants suggest morphological productivity, but the sample is small (4 attestations including variant forms).
+
+### The *-na* Particle as Clause-Final Discourse Marker
+
+The element *-na* appears in three combat phrases:
+
+| Phrase | Decomposition | Notes |
+|--------|---------------|-------|
+| *Tak'na* | *Tak-* + *-na* | Bound form |
+| *Tak'rasha na* | *Tak-* + *-rasha* + *na* | Free particle |
+| *Elix tak'na* | *Elix* + *tak'* + *-na* | Bound form |
+
+In *Tak'rasha na*, *na* appears as a separate free particle after the verb phrase, not as a bound suffix. This distribution (free vs. bound) is consistent with a **clause-final discourse particle** marking emphasis, completion, or finality — a typologically common pattern (cf. Japanese *-ne*, Mandarin *le*, Yoruba *o*). If *na* is a clause-final particle, it would be the first attested nerubian grammatical particle, providing evidence of nerubian clause structure beyond the single translated sentence.
+
+**Confidence: Low–Moderate** — the free vs. bound distribution is consistent with a clitic that can attach to different hosts, but three attestations are insufficient for firm conclusions.
 
 ## Attested Text Analysis: The Nerubian Scroll
 
@@ -587,11 +634,14 @@ No verb paradigm, case system, or full syntactic structure is known. The confirm
 1. Apostrophe-marked compounding (high confidence)
 2. *Anub-* prefix (high confidence, 8 attestations)
 3. *-kahet* suffix (moderate confidence)
-4. *Azj-*/**-azj* morpheme (high confidence, 4 attestations as prefix + 1 as suffix)
+4. *Azj-*/*-azj* morpheme (high confidence, 4 attestations as prefix + 1 as suffix)
 5. *-ar* faction suffix (low–moderate confidence, 6 attestations)
 6. *-rek* / *-urek* suffix (low confidence)
 7. *Rak-* toponymic prefix (low–moderate confidence, 3 attestations)
 8. *tak-* combat/imperative element (low–moderate confidence, 5–6 attestations; scroll text *tikk* may be related)
-9. Initial-apostrophe names (*Y'tekhi*, *A'zak*, *Ix'lar*, *Ix'zek*) — potential Shath'Yar substrate (very low confidence)
+9. *-kan* / *-akan* suffix (low–moderate confidence, 3+ attestations; "subordinate ruler" meaning)
+10. *-na* clause-final discourse particle (low–moderate confidence, 3 attestations)
+11. *-thir* / *-tir* suffix (low confidence, 2 attestations; "watcher/guardian" meaning)
+12. Initial-apostrophe names (*Y'tekhi*, *A'zak*, *Ix'lar*, *Ix'zek*) — potential Shath'Yar substrate (very low confidence)
 
 The confirmed translation of *Shabtir bakh sokhen* provides the first evidence of nerubian syntax (subject-initial word order) and vocabulary (*shabtir* = "servant", *bakh* = "bows to", *sokhen* = "master/authority"), though sample size remains extremely limited.

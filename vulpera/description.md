@@ -34,11 +34,20 @@ The Vulpera phonological system is reconstructed from only five proper names and
 - **CV/CVC syllable simplicity**: Predominantly short, open syllables (*Kiro*, *Meera*, *Gaz*), without complex consonant clusters — contrasting with neighboring Zandali and Sethrak
 - **Rhotic frequency**: /r/ appears in nearly every name (*Kiro*, *Nisha*, *Meera*, *Serka*), suggesting it is a common consonant in Vulpera phonology
 - **Possible feminine *-a* suffix**: Three of four female names end in *-a* (*Nisha*, *Meera*, *Serka*), while the single clearly male name (*Kiro*) does not — potentially a gender-marking suffix, though extremely speculative with only five data points
+- ***-a*/*-o* binary vowel-gender system**: The *-a* feminine / *-o* masculine alternation forms a consistent binary system paralleling Latin, Russian, and Japanese gender marking. With only five data points this remains speculative, but the pattern is internally consistent
 - **Postalveolar /ʃ/**: Present in *Nisha*, suggesting a palatal consonant inventory
 - **Vowel distribution**: /i/, /e/, and /a/ predominate; /o/ and /u/ are inferred from the ethnonym *Vulpera* but not clearly attested in personal names
 - **No apostrophe usage**: Unlike neighboring Zandali and Sethrak, no Vulpera names contain apostrophes, suggesting a different morphological or orthographic convention
 
 See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
+
+## Possible Zandali Adaptation Hypothesis
+
+Given that Vulpera live in Vol'dun on Zandalar and interact extensively with Zandalari trolls, their personal names could reflect Zandali naming conventions rather than an independent language. All five Vulpera names (*Kiro*, *Nisha*, *Meera*, *Gaz*, *Serka*) follow Zandali phonotactics (simple CV/CVC syllables, /ʃ/ and /r/ prominence, short 2-syllable names). If Vulpera speak a dialect of Zandali rather than a separate language, the personal names would be Zandali names adopted by Vulpera, and the *-a*/*-o* gender alternation would be a Zandali feature rather than an independent innovation.
+
+## Vulpera–Sethrak Areal Convergence
+
+Both species coexist in Vol'dun and share simple CV/CVC syllable structure, high /r/ frequency, prominence of /i/, /e/, /ɑ/ vowels, short 2-syllable names, and a potential *-a* feminine suffix. This convergence is consistent with areal linguistic influence or a shared Blizzard design aesthetic for "small desert-dwelling species."
 
 ## Writing System
 
