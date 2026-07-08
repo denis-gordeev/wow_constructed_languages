@@ -75,6 +75,13 @@ Mogu is a **very poorly attested** constructed language. The known corpus consis
 
 No grammar, syntax, or extended text has been published by Blizzard. No Mogu-language sentences exist. All grammatical inferences are based on morphological decomposition of proper names.
 
+### Open Linguistic Investigations
+
+| Investigation | Topic | Confidence | Key Finding |
+|-------------|-------|------------|-------------|
+| 1 | Name-epithet semantic correspondence via Chinese localization | Low–Moderate | Chinese glosses support 3/8 name-epithet pairs (*Qiang*, *Meng*, *Ming*); 2 pairs contradict (*Feng*, *Xin*); mixed Blizzard design process most likely |
+| 2 | Apostrophe vs. hyphen orthographic distinction | Very Low–Low | 6 compound names (3 apostrophe, 3 hyphen); compound-tightness hypothesis (apostrophe = fused, hyphen = transparent) is most promising but sample too small |
+
 ### What is reliable
 
 - *Lei Shen* is confirmed as "the Thunder King" / "Thunder God" by Blizzard's official translations and lore. Chinese 雷神 confirms *lei* = "thunder" and *shen* = "god/deity."

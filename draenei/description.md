@@ -68,6 +68,13 @@ Draenei is a **poorly attested** constructed language. The known corpus consists
 
 No grammar, syntax, or extended text has been published by Blizzard. All grammatical inferences are based on morphological decomposition of compound words. No sentences with reliable translations exist.
 
+### Open Linguistic Investigations
+
+| Investigation | Topic | Confidence | Key Finding |
+|-------------|-------|------------|-------------|
+| 1 | Naaru naming — phonological sub-system | Moderate (observation); Low–Moderate (hypothesis) | All 5 Naaru names fit (C/V)'V(C)(V) template; distinct from Draenei compound names; likely Naaru self-designations transliterated into Draenei |
+| 2 | *-ari* suffix and *ered* root family | Very Low–Low | *-ari* has only 1 attestation (*Man'ari*); potential connection to *-ar* in *Eredar* via *-ar* + *-i* compound suffix; *ered* root in *Eredar* and *Eredath* may mean "original/first" |
+
 ### What is reliable
 
 - The roots *draen* ("exile/refuge"), *ei* ("ones/people"), and *or* ("world/land") are well-supported by Blizzard's official translations of *Draenei* and *Draenor*.

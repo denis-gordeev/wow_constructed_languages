@@ -80,6 +80,7 @@ The Drust possessed a runic writing system, preserved on the Drust Steles found 
 | Inferred morphemes | 3 | *Gol-* (settlement/place prefix), *Gorak-* (title/name element), *-var* (land/home suffix) |
 | Attested phrases with translations | 0 | No Drust phrases have confirmed translations |
 | Attested sentences with full glosses | 0 | No Drust sentences are attested |
+| Open linguistic investigations | 2 | *-kor* in *Lorkron* vs. Vrykul *-korn* (Low–Medium); *Ath-*/*Athair* Thornspeaker pattern (Very Low–Low) |
 
 ## Reliability Notes
 

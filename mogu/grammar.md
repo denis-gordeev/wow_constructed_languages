@@ -181,3 +181,106 @@ No data available. Based on the romanization, stress may fall on the penultimate
 | Dynasty names as morphemes | Low–Medium | *Shen* and *Qiang* are attested elsewhere; *Wai* is not |
 | Word order | None | No sentences available |
 | Phonological analysis | Low–Medium | Based on orthography + Chinese localization; no phonetic data |
+
+## Investigation 1: The Name-Epithet Pattern — Chinese Localization as Independent Evidence
+
+Eight Mogu names follow the pattern of a short Mogu word followed by an English epithet. The grammar.md §Name-Epithet Pattern section proposes that the Mogu element semantically echoes the English epithet. This investigation tests that hypothesis by comparing each name with its Chinese localization equivalent, which provides an independent semantic anchor.
+
+### Data
+
+| Name | English Epithet | Chinese Character | Chinese Pinyin | Chinese Gloss | Semantic Match to Epithet? |
+|------|----------------|-------------------|----------------|---------------|---------------------------|
+| Qiang | the Merciless | 强 | qiáng | "strong, powerful" | Strong → merciless: plausible extension |
+| Zian | of the Endless Shadow | ? | ? | (no clear Chinese equivalent) | N/A |
+| Meng | the Demented | 猛 | měng | "fierce, violent" | Fierce → demented: partial (both imply intensity/violence) |
+| Xin | the Weaponmaster | 心 | xīn | "heart, mind" | Heart/mind → weaponmaster: weak (tactical mind?) |
+| Feng | the Accursed | 风 | fēng | "wind" | Wind → accursed: no semantic connection |
+| Kuai | the Brigand | 快 | kuài | "fast, swift" | Swift → brigand: weak (brigands must be swift?) |
+| Hai | the Unbreakable | 海 | hǎi | "sea, ocean" | Sea → unbreakable: metaphorical (the sea is relentless) |
+| Ming | the Cunning | 明 | míng | "bright, clear" | Bright → cunning: partial (bright → clever is a common semantic extension) |
+
+### Analysis
+
+**Three tiers of correspondence:**
+
+1. **Strong matches (Chinese gloss → epithet is a plausible semantic extension):** *Qiang* (strong → merciless), *Meng* (fierce → demented), *Ming* (bright → cunning). These three names have Chinese equivalents that map naturally onto their English epithets through well-attested semantic shifts: power → cruelty, ferocity → madness, intelligence → cunning.
+
+2. **Weak/poetic matches (Chinese gloss → epithet requires metaphorical leap):** *Hai* (sea → unbreakable), *Kuai* (swift → brigand). These require a secondary association: the sea as relentless/invincible, or speed as a brigand's attribute.
+
+3. **No match / unmatchable:** *Feng* (wind → accursed), *Xin* (heart/mind → weaponmaster). These names show a clear mismatch between the Chinese character meaning and the English epithet. *Feng* is particularly striking: 风 = "wind" has no semantic connection to "accursed," and the English epithet suggests a meaning closer to 封 (fēng = "to seal/confine") or 疯 (fēng = "mad/crazy").
+
+### Hypotheses
+
+**Hypothesis A: Blizzard designed the names from Chinese, then adapted the epithets.** Under this hypothesis, *Lei Shen* (雷神 = "Thunder God"), *shan* (山 = "mountain"), and *shen* (神 = "god") are the model: the Chinese character determines both the name and the epithet. The mismatches (*Feng*, *Xin*) would represent cases where the English epithet was chosen for gameplay flavor rather than fidelity to the Chinese source.
+
+**Hypothesis B: Blizzard designed the names and epithets independently, with Chinese localization providing a separate translation.** Under this hypothesis, the strong matches (*Qiang*, *Meng*, *Ming*) are coincidental — Blizzard chose common Chinese-sounding syllables for Mogu names and independently chose English epithets for gameplay. The Chinese glosses in this document are retrofitted, not original.
+
+**Hypothesis C: Some names were designed from Chinese (matching the Lei Shen pattern), while others were chosen aesthetically.** This mixed hypothesis accounts for the three tiers: *Qiang*, *Meng*, and *Ming* were deliberately chosen for their Chinese meanings; *Feng*, *Hai*, and *Kuai* were chosen for their sound quality with secondary Chinese associations; *Xin* and *Zian* were chosen purely for aesthetics.
+
+### Assessment
+
+| Hypothesis | Plausibility | Notes |
+|-----------|-------------|-------|
+| A: All names from Chinese, epithets adapted | Low–Medium | Cannot explain *Feng* (wind → accursed) and *Xin* (heart → weaponmaster) mismatches |
+| B: Independent design, coincidental matches | Medium | Explains mismatches but underestimates the strength of the *Lei Shen* Chinese model |
+| C: Mixed — some from Chinese, some aesthetic | **Medium–High** | Best accounts for the three-tier pattern; consistent with Blizzard's typical design process |
+
+**Confidence: Low–Moderate.** The Chinese localization data provides independent evidence that strengthens the name-epithet correspondence for three of eight names (*Qiang*, *Meng*, *Ming*) but weakens it for two (*Feng*, *Xin*). The mixed hypothesis (C) is most likely. The investigation does not confirm the name-epithet pattern as a systematic Mogu naming convention, but it demonstrates that Blizzard drew on Chinese vocabulary for at least some Mogu names, extending the known pattern from *Lei Shen* and *Mogu'shan*.
+
+### Testable Prediction
+
+If additional Mogu names with Chinese character equivalents are discovered (e.g., in future expansion content), Hypothesis C predicts that some will show strong name-epithet correspondence via Chinese while others will not — reflecting Blizzard's mixed design process rather than a systematic Mogu naming convention.
+
+## Investigation 2: Apostrophe vs. Hyphen — Orthographic Marking of Compound Type
+
+Mogu orthography uses both the apostrophe (') and the hyphen (-) to mark morpheme boundaries within compound names. This investigation examines whether the two punctuation marks encode a consistent morphological, phonological, or functional distinction.
+
+### Data
+
+| Name | Punctuation | Elements | Context |
+|------|------------|----------|---------|
+| Mogu'shan | ' (apostrophe) | *Mogu* + *shan* | Place name |
+| Shan'ze | ' (apostrophe) | *shan* + *ze* | Clan name |
+| Lu'lin | ' (apostrophe) | *lu* + *lin* | Celestial being name |
+| Qin-xi | - (hyphen) | *qin* + *xi* | Emperor construct name |
+| Jan-xi | - (hyphen) | *jan* + *xi* | Emperor construct name |
+| Zan-Tien | - (hyphen) | *zan* + *tien* | Clan name |
+
+### Possible Distinctions
+
+**1. Functional distinction (place/being vs. title/clan):**
+- Apostrophe: 1 place name, 1 clan name, 1 being name — no consistent function
+- Hyphen: 2 being+title names, 1 clan name — no consistent function
+- *Shan'ze* (clan) uses apostrophe while *Zan-Tien* (clan) uses hyphen, ruling out a purely functional distinction.
+
+**2. Morphological distinction (equal-weight vs. head+modifier):**
+- Apostrophe compounds show a head-modifier structure: *Mogu'shan* = "Mogu Mountain" (*shan* is the head), *Shan'ze* = "Mountain-ze" (*shan* may be the modifier)
+- Hyphen compounds show more equal-weight elements: *Qin-xi* and *Jan-xi* share the *-xi* suffix (arguably head-initial), *Zan-Tien* shows two equal elements
+- This distinction is not cleanly supported: *Mogu'shan* and *Zan-Tien* both have a head+modifier structure but use different punctuation.
+
+**3. Phonological distinction (vowel boundary vs. consonant boundary):**
+- Apostrophe boundaries: *Mogu'shan* (vowel → consonant: /uː/ → /ʃ/), *Shan'ze* (consonant → consonant: /n/ → /z/), *Lu'lin* (vowel → consonant: /uː/ → /l/)
+- Hyphen boundaries: *Qin-xi* (consonant → consonant: /n/ → /ʃ/), *Jan-xi* (consonant → consonant: /n/ → /ʃ/), *Zan-Tien* (consonant → consonant: /n/ → /t/)
+- No consistent phonological pattern distinguishes the two marks.
+
+**4. Orthographic convention (different development periods):**
+- The apostrophe names (*Mogu'shan*, *Shan'ze*, *Lu'lin*) are from *Mists of Pandaria* (2012)
+- The hyphen names (*Qin-xi*, *Jan-xi*, *Zan-Tien*) are also from *Mists of Pandaria* (2012)
+- Same expansion, ruling out a chronological explanation.
+
+**5. Compound tightness (fused vs. transparent):**
+- Apostrophe may mark tighter, more fused compounds where the morpheme boundary is less transparent phonologically (*Mogu'shan* → /moʊˈɡuːʃɑn/ with stress shift)
+- Hyphen may mark looser, more transparent compounds where each element retains independent stress (*Qin-xi*, *Jan-xi*)
+- This is the most promising hypothesis: the apostrophe marks compounds that have undergone phonological fusion (the boundary may involve elision or stress shift), while the hyphen marks compounds that remain morphologically transparent with clear boundaries.
+
+### Assessment
+
+| Distinction | Plausibility | Notes |
+|------------|-------------|-------|
+| Functional (place vs. title) | Low | *Shan'ze* and *Zan-Tien* are both clans but use different marks |
+| Morphological (head direction) | Low | Not consistently supported |
+| Phonological (boundary type) | Low | No consistent pattern |
+| Development period | Low | All from same expansion |
+| **Compound tightness** | **Low–Moderate** | Best available hypothesis; apostrophe = fused, hyphen = transparent |
+
+**Confidence: Very Low–Low.** The sample size of six compound names (three apostrophe, three hyphen) is too small to establish a consistent pattern. The compound-tightness hypothesis (5) is the most promising but remains speculative. The most conservative interpretation is that Blizzard used both marks interchangeably as morpheme boundary markers, with no consistent in-universe distinction. However, the cross-linguistic parallel is noteworthy: Draenei also uses both apostrophe and hyphen (*Sha'tar* vs. no hyphenated compounds), while Shath'Yar uses only the apostrophe. If Mogu is a Titan-descended language, the dual marking system could reflect Titan orthographic conventions preserved in both Mogu and Draenei.

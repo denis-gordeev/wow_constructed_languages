@@ -82,6 +82,7 @@ The Earthen use a runic writing system directly descended from the Titan script,
 | Inferred morphemes | 3 | *Bael-* (stone/fortress), *-dar* (place suffix, possibly from Titan *-dor*), *-grim* (personal name suffix) |
 | Attested phrases with translations | 0 | No Earthen phrases have confirmed translations |
 | Attested sentences with full glosses | 0 | No Earthen sentences are attested |
+| Open linguistic investigations | 2 | *-oc*/*-roc* suffix (Very Low); *Skar-* element across Earthen/Vrykul (Very Low–Low) |
 
 ## Reliability Notes
 

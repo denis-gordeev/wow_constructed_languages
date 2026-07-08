@@ -200,6 +200,48 @@ Two Earthen names share the element *-oc* / *-roc*:
 
 **Confidence: Very Low.** The *-oc* / *-roc* element is flagged as a potential Earthen morpheme but cannot be confirmed with only two attestations and no clear semantic pattern. If future Earthen names appear with the same ending (e.g., *[name]-roc* or *[name]-oc* in TWW patch content), the case would strengthen significantly.
 
+## Investigation 2: The *Skar-* Element Across Earthen and Vrykul
+
+The element *Skar-* appears in names across two titan-forged languages: Earthen (*Skardyn*) and Vrykul (*Skarvald*, *Voldskar*). This investigation evaluates whether *Skar-* is a shared Titan morpheme inherited by both languages, or whether the phonological similarity reflects Blizzard's shared Norse/Germanic design aesthetic for titan-forged races.
+
+### Data
+
+| Name | Language | IPA | Context | Semantic Field |
+|------|----------|-----|---------|---------------|
+| Skardyn | Earthen | /ˈskɑːrdɪn/ | Earthen corrupted by void magic; hostile, apparently mindless | Corruption, void, darkness |
+| Skarvald | Vrykul | /ˈskɑːrvɑld/ | Vrykul NPC in Howling Fjord | Personal name; no confirmed meaning |
+| Voldskar | Vrykul | /ˈvɒldskɑːr/ | Vrykul NPC/area | Personal name or place name; no confirmed meaning |
+
+### Arguments for a Shared Titan Morpheme
+
+1. **Cross-language distribution:** *Skar-* appears in two titan-forged languages that diverged millennia ago. If both inherited *Skar-* from Titan, the morpheme would predate the Earthen-Vrykul split.
+
+2. **Semantic coherence with corruption/darkness:** *Skardyn* specifically denotes void-corrupted Earthen. If *Skar-* carries a meaning like "dark," "corrupt," or "shadow," this meaning could be inherited from a Titan root. The Vrykul names (*Skarvald*, *Voldskar*) do not have confirmed meanings, but neither contradicts a "dark/corrupt" gloss.
+
+3. **Phonological stability:** The sequence /skɑːr/ is identical across both languages, suggesting either a shared inheritance with no sound change, or independent arrival at the same form.
+
+4. **Titan morpheme precedent:** The *Khaz-* morpheme is confirmed as a shared retention across Titan, Earthen, and Dwarven. *Skar-* could follow the same pattern of retention across descendant languages.
+
+### Arguments Against a Shared Titan Morpheme
+
+1. **Norse/Germanic design aesthetic:** Both *Skarvald* and *Voldskar* are Norse-sounding names typical of Blizzard's Vrykul design. *Skar-* in Vrykul could be derived from Old Norse *skarð* ("notch, gap") or *skarfr* ("cormorant"), common elements in Norse personal names. The Earthen *Skardyn* could independently reflect Blizzard's use of harsh /sk-/ onsets for corrupted titan-forged beings.
+
+2. **Functional mismatch:** *Skardyn* is a racial designation (corrupted Earthen), while *Skarvald* and *Voldskar* are personal names. If *Skar-* were a genuine morpheme meaning "dark/corrupt," one would expect it to appear in Vrykul with a similar function (e.g., a Vrykul word for corrupted kin), not just in personal names.
+
+3. **Small sample size:** Three names across two languages provide only three data points. The /skɑːr/ sequence could be coincidental — initial /sk-/ clusters are common in Norse-inspired naming, and the vowel /ɑ/ is the most frequent vowel in both languages.
+
+4. **Alternative Earthen decomposition:** *Skardyn* could be decomposed as *Skar* + *-dyn* (where *-dyn* parallels *-then* in *Earthen*), *Skard* + *-yn*, or as a monomorphemic borrowing. If *-dyn* = *-then* (people/race suffix), then *Skar-* would need to parallel *Ear-* (earth), which is semantically plausible ("dark" vs. "earth") but phonologically quite different.
+
+### Assessment
+
+| Analysis | Plausibility | Notes |
+|---------|-------------|-------|
+| *Skar-* = shared Titan morpheme ("dark/corrupt/shadow") | Low–Moderate | Semantic coherence with *Skardyn*; no contradiction from Vrykul |
+| *Skar-* = independent Norse-inspired design element | **Moderate–High** | Consistent with Blizzard's design approach; /sk-/ is common in Norse names |
+| *Skar-* = coincidental homophony | Low | Three independent names with identical /skɑːr/ is unlikely to be pure coincidence |
+
+**Confidence: Very Low–Low.** The *Skar-* element could represent a shared Titan morpheme preserved in both Earthen and Vrykul, but the Norse design aesthetic confound is strong. The most likely explanation is that Blizzard independently chose /sk/-initial names for both races as part of their Germanic/Norse aesthetic for titan-forged peoples, with *Skardyn* specifically chosen for its harsh phonological quality to mark corruption. A genuine shared morpheme cannot be ruled out but requires additional evidence — specifically, a Vrykul word using *Skar-* in a non-personal-name context with a "dark/corrupt" meaning.
+
 ## Syntax
 
 - No sentence-level attestation exists
