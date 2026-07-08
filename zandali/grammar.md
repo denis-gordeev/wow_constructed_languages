@@ -1044,6 +1044,75 @@ Also note the connection between *Bwon'* and the broader pattern of death-relate
 
 **Update (Round 24)**: No additional attestations of *Bwon'* have been found in the Zandali corpus. Notably, other death-related Zandali proper names use different morphemes for "death": *Shera Ali'kh* = "Death's Hand" (using *Shera* for "death", not *Bwon'*) and *Kaz'kah* = "Death Totem" (RPG, non-canon; using *Kaz'* for "death"). *Mueh'zala*, Bwonsamdi's father and Loa of Death/Sunset, also does not use *Bwon'*. This distribution suggests *Bwon'* may be restricted to Bwonsamdi's specific onomastic domain rather than being a general Zandali "death" prefix — *Bwonsamdi* and *Bwon'tulak* may be names within Bwonsamdi's naming convention, not productive Zandali compounds. This weakens the "productive death prefix" hypothesis (downgraded from Low–Moderate to **Low**) and strengthens the "name-specific element" hypothesis (upgraded from Low to **Low–Moderate**).
 
+### Investigation 9: The *-watha*/*Watha'* Element — Bidirectional Distribution and the Verb-Noun Connection
+
+The element *watha* appears in two distinct morphological contexts in Zandali:
+
+**As a suffix in place names (8 attestations):**
+
+| Name | Decomposition | Notes |
+|------|---------------|-------|
+| *Agol'watha* | *Agol'* + *-watha* | Hinterlands ruin |
+| *Hiri'watha* | *Hiri'* + *-watha* | Hinterlands ruin |
+| *Shaol'watha* | *Shaol'* + *-watha* | Hinterlands ruin |
+| *Zun'watha* | *Zun'* + *-watha* | Hinterlands ruin |
+| *Zeb'Watha* | *Zeb'* + *Watha* | Eversong Woods |
+| *Tor'Watha* | *Tor'* + *-watha* | Eversong Woods |
+| *Dol'watha* | *Dol'* + *-watha* | Zuldazar |
+| *Nazwatha* | *Naz* + *-watha* | Speculative place name |
+
+**As a prefix (1 attestation):**
+
+| Name | Decomposition | Notes |
+|------|---------------|-------|
+| *Watha'nan* | *Watha'* + *-nan* | Crypts in Zul'Aman (Midnight) |
+
+**As a verb (2 attestations):**
+
+| Form | Function | Notes |
+|------|----------|-------|
+| *Watha* | "Cleanse" (plural) | Moldy Diary; ablaut plural of *Weta* "cleanse" (singular) |
+| *Watha-nekan* | "Cleanse us" | Moldy Diary; *Watha* + *-nekan* suffix |
+
+#### Analysis
+
+The coexistence of *watha* as a place-name element and as a verb meaning "cleanse" is striking. Three hypotheses explain this bidirectional distribution:
+
+**Hypothesis 1: Homophony.** The place-name *-watha* ("village/settlement") and the verb *watha* ("cleanse" plural) are independent words that happen to share the same phonological form. Under this analysis:
+- *-watha* = "village/settlement" (noun suffix, 8 attestations in place names)
+- *watha* = "cleanse" (verb, ablaut plural of *weta*)
+- The phonological similarity is coincidental.
+
+This is the most parsimonious hypothesis but leaves the prefix form *Watha'nan* unexplained — if *-watha* is exclusively a suffix meaning "village", why does it appear as a prefix in *Watha'nan*?
+
+**Hypothesis 2: Verb-to-toponym grammaticalization chain.** The place-name *-watha* derives from the verb *watha* "cleanse" through a grammaticalization pathway: "cleanse" → "purified place" → "settlement/village." Under this analysis:
+- *Watha'nan* = "Cleanse-[nan]" (verb-initial compound, meaning "place of cleansing" or "purification crypts")
+- *Agol'watha* = "[Agol']-cleansing-place" (noun compound where *-watha* shifted from "cleansing" to "settlement")
+- The suffix form *-watha* would be a fossilized result of this grammaticalization: "cleansing place" → "place/settlement" → generic toponymic suffix
+
+The directionality is consistent: the verb *watha* "cleanse" is the base form, and the toponymic use is a derived specialization. The prefix form *Watha'nan* preserves the original verb-initial syntax (V-O: "cleanse-[nan]"), while the suffix form *Agol'watha* reflects a later compounding pattern (modifier-head: "[Agol']-cleansing-place").
+
+**Hypothesis 3: Head directionality alternation.** *Watha* is a single morpheme meaning "settlement/village" that can appear as either head (suffix: *Agol'watha* = "Agol'-settlement") or modifier (prefix: *Watha'nan* = "settlement-[nan]" = "crypt-settlement"). Under this analysis:
+- The bidirectional distribution reflects free word order in compound formation
+- *Watha'nan* and *Agol'watha* use the same morpheme in different compound positions
+- This parallels the *Zeb'-* prefix pattern (*Zeb'Watha*, *Zeb'Nowa*, *Zeb'Sora*) where a place-naming element appears consistently in initial position
+
+However, the *Zeb'-* prefix is always initial (7+ attestations), while *-watha* is overwhelmingly suffixal (8 attestations as suffix vs. 1 as prefix). A single prefix attestation could be an exception rather than evidence of bidirectional distribution.
+
+#### The *Weta/Watha* Ablaut and Its Implications
+
+The ablaut pair *Weta* (singular "cleanse") / *Watha* (plural "cleanse") follows Pattern D (/e/ → /a/), the same pattern as *Kele/Kile* (Pattern B: /e/ → /i/) and *Peran/Poran* (Pattern C: /e/ → /o/). The ablaut is well-established as a genuine singular/plural distinction (see Investigation 1).
+
+If Hypothesis 2 is correct, the grammaticalization from verb *watha* "cleanse" to toponymic *-watha* "settlement" would parallel cross-linguistic patterns where ritual purification is associated with sacred sites (cf. Hebrew *qodesh* "holy/set-apart" applied to places). The crypt context of *Watha'nan* (literally "cleansing-[nan]" = "place of purification") is semantically coherent.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Homophony | *-watha* ("village") and *watha* ("cleanse") are unrelated words | **Low–Moderate** — most parsimonious but fails to explain the prefix form *Watha'nan* and the semantic coherence of "cleansing place" → "settlement" |
+| Grammaticalization chain | *watha* "cleanse" → "cleansed/purified place" → "settlement"; *Watha'nan* preserves the original verb-initial syntax | **Low–Moderate** — explains the bidirectional distribution and the crypt context; typologically plausible but requires assuming semantic shift without direct evidence |
+| Head directionality alternation | *watha* "settlement" appears in both head (suffix) and modifier (prefix) positions | **Low** — 8:1 suffix-to-prefix ratio makes bidirectional distribution unlikely; no other Zandali morpheme shows free head position alternation |
+
+**Confidence: Low–Moderate** for the grammaticalization chain hypothesis. The semantic coherence of "cleansing place" → "settlement" and the prefix form *Watha'nan* in a crypt context are suggestive, but the data is too limited to confirm the pathway. The homophony hypothesis remains competitive. If additional verb-derived toponymic elements are identified in Zandali (e.g., a place name containing a form of *File* "love" or *Peran* "die"), the grammaticalization hypothesis would gain significant support.
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar remain unattested and should not be assumed:

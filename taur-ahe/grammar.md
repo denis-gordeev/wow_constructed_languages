@@ -238,3 +238,51 @@ If *Lakota'mani* = "Earthshaker", then *-mani* may mean "shaker", "force", or "h
 The word *mani* also resembles Lakota *mání* = "to walk/go", but this may be a coincidence of Blizzard's Amerindian-inspired design rather than a genuine etymological connection.
 
 **Confidence: Low–Moderate** for *-mani* as a genuine morpheme meaning "shaker/force". Two attestations with one confirmed translation provide weak but not negligible evidence.
+
+### Investigation 5: The *-sha/-she* Celestial Morpheme
+
+The element *-sha*/*-she* appears in three confirmed celestial terms and one potential cognate:
+
+| Word | Translation | *-sha/-she* Form | Context |
+|------|-------------|-------------------|---------|
+| *An'she* | The Sun | *-she* | Confirmed celestial body |
+| *Mu'sha* | The Moon | *-sha* | Confirmed celestial body |
+| *Mashan'she* | The Loom of the Earth Mother | *-she* | Confirmed celestial/cosmic concept |
+| *Isha* (in *Isha Awak*) | "Deep Doom" | *-sha* (within *Isha*) | Potential cognate; different semantic domain |
+
+#### Analysis
+
+The recurrence of *-sha/-she* in three independent celestial terms strongly suggests a genuine morpheme. The key question is whether *-sha* and *-she* are allomorphs of a single morpheme or independent elements.
+
+**Allomorph analysis:**
+
+| Argument for Allomorphy | Argument Against |
+|------------------------|------------------|
+| *An'she* and *Mu'sha* are a paired celestial set (Sun/Moon), suggesting the morphological structure should be parallel | The vowel alternation /e/ vs. /ɑ/ is large for a conditioned allomorph; typical allomorphy involves /ə/ ↔ ∅ or minor vowel shifts |
+| *Mashan'she* uses the same *-she* form as *An'she*, suggesting *-she* is not specific to the Sun | If *-sha* = *-she*, then *Mu'sha* and *An'she* should be decomposable as *Mu* + *-sha* and *An* + *-she*, but the vowel difference remains unexplained |
+| The /e/ ~ /ɑ/ alternation could reflect vowel harmony with the preceding syllable: *-she* after /n/ (front articulation), *-sha* after /u/ (back articulation) | The sample is too small to confirm vowel harmony; *Mashan'she* has *-she* after a back vowel /ɑ/, which would not be predicted by front-back harmony |
+
+**Semantic analysis:**
+
+If *-sha/-she* = "celestial body" or "eye of the Earth Mother," then:
+- *An'she* = *An* + *-she* = "[An]-celestial body" = "the Sun"
+- *Mu'sha* = *Mu* + *-sha* = "[Mu]-celestial body" = "the Moon"
+- *Mashan'she* = *Mashan* + *-she* = "[loom]-celestial body" = "the Loom of the Earth Mother" (a cosmic weaving metaphor)
+
+This semantic interpretation is consistent with Tauren cosmology, where the Sun and Moon are the "eyes" of the Earth Mother. If *-sha/-she* = "eye," then *An'she* = "An-eye" (Sun-eye) and *Mu'sha* = "Mu-eye" (Moon-eye), with the eyes being the visible manifestations of the Earth Mother's gaze.
+
+**The *Isha* problem:**
+
+The word *Isha* in *Isha Awak* ("Deep Doom") contains the same *-sha* sequence but in a non-celestial context. Two analyses:
+
+1. *Isha* contains the same *-sha* morpheme with extended meaning: "celestial" → "looming/vast/overwhelming" → "doom" (a semantic extension from "that which looms above" to "that which threatens from above")
+
+2. *Isha* is a different word where *-sha* is coincidental; the resemblance to celestial *-sha* is accidental
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Celestial morpheme (*-sha/-she* = "celestial body/eye") | *-sha/-she* marks celestial or divine entities; /e/~/ɑ/ alternation is either free or conditioned by unknown factors | **Moderate** — 3 independent celestial attestations strongly support a genuine morpheme; the allomorphy question remains open |
+| "Eye of the Earth Mother" (*-sha/-she* = "eye") | Specifically = "eye" rather than general "celestial"; consistent with Tauren cosmology of Sun and Moon as the Earth Mother's eyes | **Low–Moderate** — semantically compelling but relies on interpreting *Mashan'she* as a celestial "eye" rather than a general divine concept |
+| Coincidental | *-sha/-she* in *An'she*, *Mu'sha*, *Mashan'she* is not a shared morpheme; each word is indivisible | **Low** — 3 independent celestial terms sharing the same ending is unlikely to be coincidental |
+
+**Confidence: Moderate** for *-sha/-she* as a celestial/divine morpheme. This is the strongest of the Taur-ahe morpheme hypotheses: three independent attestations in a coherent semantic domain (celestial terminology) with a culturally motivated interpretation ("eye of the Earth Mother"). The /e/~/ɑ/ alternation and the *Isha* counterexample prevent a higher confidence rating. If additional celestial terms with *-sha* or *-she* are discovered, confidence could be upgraded to Moderate–High.

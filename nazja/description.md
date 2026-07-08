@@ -137,6 +137,7 @@ See [grammar.md](grammar.md#phonology) for full phonological analysis including 
 | Attested phrases (battle cries) | 5+ | *Be'lemer an-delei*, *Bal lamer zhita*, *Fara dena'lay*, *Ash-thero-sauguine*, *Osh'bala-tharei* |
 | Attested sentences with full glosses | 0 | No Nazja sentences have confirmed word-by-word translations |
 | RPG-attested names (non-canon) | 8+ | Sakrasis, Shezril, Velrash, Zoniss, Anna, Asprah, Charib'dishal, Scilla |
+| Open linguistic investigations | 4 | *-ess/-esh* feminine/tribal pattern (Low–Moderate), *thero/thera* Darnassian cognate (Low–Moderate), sibilant-initial name dominance (Moderate for phonological preference), *Be'*/ *Fara* imperative analysis (Low–Moderate) |
 
 ## Naga Naming Conventions
 

@@ -73,6 +73,7 @@ As with many aspects of Tauren culture, certain Taur-ahe words are influenced by
 | Untranslated proper names | 13+ | Aparaje, Arra'chea, Eche'ro, Mazzranache, etc. |
 | Spirit Walker incantations | 2 | Chouk'taga'loush, Nag'grada'baash |
 | Inferred morphemes | 10+ | An, she, mu, sha, ish, lo, gosh, -mani, -ahe, taur |
+| Open linguistic investigations | 5 | *An-* definite article or honorific (Low–Moderate), *Ish-* semantic range (Very Low–Low), *-ahe* language marker (Very Low–Low), *-mani* force/shaker (Low–Moderate), *-sha/-she* celestial morpheme (Moderate) |
 
 ## Reliability Notes
 

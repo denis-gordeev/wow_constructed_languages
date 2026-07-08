@@ -180,6 +180,186 @@ The following shifts from Darnassian to Nazja are hypothesized based on the comp
 | Vowel /o/, /u/ | Shifted toward /a/, /e/ | Possible underwater acoustic adaptation |
 | Simple onsets | Complex clusters | /sr/, /sk/ onset clusters may reflect naga vocal tract capabilities |
 
+## Open Linguistic Investigations
+
+### Investigation 1: The *-ess/-esh* Feminine/Tribal Name-Final Pattern
+
+Six attested names share the ending *-ess* or *-esh*:
+
+| Name | Role | Gender | Final Element |
+|------|------|--------|---------------|
+| *Sira'kess* | Mistress of the Tides | Female | *-kess* (within compound) |
+| *Idra'kess* | Overseer | Female | *-kess* (within compound) |
+| *Skessesh* | General | Female | *-esh* |
+| *Nazesh* | Tidemistress | Female | *-esh* |
+| *Sarevess* | Lady | Female | *-ess* |
+| *Rethress* | Place name (abandoned camp) | — | *-ess* |
+
+All five personal names are confirmed female naga. The sixth (*Rethress*) is a place name but likely derives from a personal name following the same pattern. The alternation between *-ess* and *-esh* could reflect:
+
+1. **Assimilation to a preceding consonant**: *-esh* after sibilant or palatal stems (*Skess*esh*, Naz*esh*), *-ess* elsewhere (*Sarev*ess*, *Rethr*ess*). However, *Sira'kess* and *Idra'kess* show *-kess* rather than *-kesh* despite preceding /k/ (a velar, not a sibilant), so the conditioning environment is unclear.
+
+2. **Morphologically conditioned allomorphy**: *-esh* in monomorphemic names (*Skessesh*, *Nazesh*), *-ess* in compounds or derived forms. The data is too limited to confirm this.
+
+3. **Phonologically free variation**: The /s/ ~ /ʃ/ alternation (*-ess* /ɛs/ vs. *-esh* /ɛʃ/) may simply reflect individual name variation with no grammatical significance.
+
+The *-kess* suffix in *Sira'kess* and *Idra'kess* (Investigation 3 below) is potentially related: if *-kess* = *k-* + *-ess*, then *-ess*/*-esh* may be the underlying feminine/tribal morpheme, with *-kess* representing a specialized compound form. Under this analysis:
+- *Sira'kess* = *Sira'* + *k-* + *-ess* (where *k-* is a tribal/classifier prefix before the feminine suffix)
+- *Nazesh* = *Naz-* + *-esh* (feminine suffix directly on the stem)
+
+This would make *-ess/-esh* a productive feminine suffix in Nazja — the first such gender-marking morpheme identified in any elven language.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Feminine suffix | *-ess/-esh* = feminine name-forming suffix, marking female naga names | **Low–Moderate** — all 5 personal names are female, but 6 data points is minimal; could reflect cultural naming convention rather than grammatical gender |
+| Tribal suffix | *-ess/-esh* = tribal designation suffix, incidentally associated with female naga because tribal leaders are female | **Low** — does not explain *Sarevess* (a personal name, not a tribal name) or *Rethress* (a place name) |
+| Coincidental | The /ɛs/~/ɛʃ/ ending is a common phonological word-final pattern with no grammatical significance | **Low–Moderate** — the consistent association with female names argues against coincidence, but the sample is too small to rule it out |
+
+**Confidence: Low–Moderate** for *-ess/-esh* as a feminine name-forming suffix. The 5/5 association with female names is striking, but the corpus is too small to confirm grammatical function. If future naga names with *-ess/-esh* endings are confirmed for male naga, this hypothesis would be falsified. The potential connection to *-kess* (Investigation 3) strengthens the analysis if *-kess* = *k-* + *-ess*.
+
+### Investigation 2: The *thero*/*thera* Element and Its Darnassian Connection
+
+The element *thero*/*thera*/*tharei* appears in three attested Nazja phrases:
+
+| Phrase | Context | Element Form |
+|--------|---------|-------------|
+| *Ash-thero-sauguine!* | Myrmidon battle cry | *thero* |
+| *Ash'thero sanguine!* | Harjatan variant | *thero* |
+| *Osh'bala-tharei* | Siren voice line | *tharei* |
+
+In Darnassian, the element *thera* appears in:
+
+| Phrase | Context | Element Form |
+|--------|---------|-------------|
+| *Tor ilisar'thera'nal* | Darnassian warning | *thera* |
+
+#### Analysis
+
+The phonological similarity across all four forms is notable:
+
+| Form | Language | Vowel | Ending | Syllable Structure |
+|------|----------|-------|--------|-------------------|
+| *thero* | Nazja | /e/ | /o/ | CVCV |
+| *tharei* | Nazja | /ɑ/ | /eɪ/ | CVCV |
+| *thera* | Darnassian | /e/ | /ɑ/ | CVCV |
+
+All three share the consonantal skeleton /θVrV/ and all appear in battle-related contexts (Myrmidon battle cries, Siren voice line, Darnassian warning). The semantic consistency — all forms appear in martial/imperative contexts — suggests a shared root meaning "strike," "enemy," "beware," or "war."
+
+#### Vowel Alternation
+
+The vowel alternation *thero* / *tharei* / *thera* could reflect:
+
+1. **Dialectal/register variation**: *thero* in the male Myrmidon register vs. *tharei* in the female Siren register, paralleling the male/female speech distinction proposed in description.md
+2. **Grammatical inflection**: Different vowel grades marking different grammatical categories (tense, mood, person) on a shared verb root
+3. **Different morphemes**: *thero* and *tharei* are not forms of the same word but coincidentally share /θ...r.../
+
+The Darnassian *thera* shares the /e/ vowel with Nazja *thero*, suggesting either: (a) *thero* is the more conservative form, preserving the Darnassian /e/ while *tharei* shows Nazja-specific vowel shift; or (b) *thera* and *thero* share /θer-/ as a common root, with different suffixes (*-a* vs. *-o*).
+
+#### Connection to Darnassian
+
+If *thero* (Nazja) and *thera* (Darnassian) are cognate, this would be a significant finding — one of the few confirmed cognate pairs between Nazja and Darnassian beyond *-dorei*, *adore*, and *Zin-*. The semantic shift from "beware" (Darnassian *thera'nal*) to "strike/attack" (Nazja *Ash-thero-sauguine*) would be coherent: "beware" → "threat" → "attack."
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Cognate with Darnassian *thera* | *thero*/*thera*/*tharei* descend from a Proto-Elven root *\*ther-* meaning "threat/warning/strike"; Darnassian retained the "beware" meaning, Nazja shifted to "strike/attack" | **Low–Moderate** — shared consonantal skeleton and martial context support cognacy, but only one Darnassian attestation and no confirmed gloss for any Nazja form |
+| Independent development | *thero* is a Nazja innovation unrelated to Darnassian *thera*; the phonological similarity is coincidental | **Low–Moderate** — the /θ/ phoneme is marginal in Nazja (retained only in archaic/ritual vocabulary), making a coincidence less likely but still possible |
+| Borrowing from Darnassian | Nazja *thero* was borrowed from Darnassian *thera* as a ritual/martial term, preserving the Darnassian phonology | **Low** — borrowing into a phonologically divergent language should show more adaptation; *thero* has /o/ not /a/ |
+
+**Confidence: Low–Moderate** for *thero* as cognate with Darnassian *thera*. The shared /θVrV/ skeleton, martial context, and marginal /θ/ status in Nazja (suggesting archaic retention) all support cognacy. However, without confirmed glosses for either Nazja form, the connection remains speculative. The *tharei* variant complicates the picture: if *thero* and *tharei* are the same root, the vowel alternation /e/ ~ /ɑ/ requires explanation; if they are different words, the shared /θ...r/ weakens the cognate hypothesis by showing that /θ/ + /r/ is a recurring phonological pattern rather than a unique root.
+
+### Investigation 3: Sibilant-Initial Name Dominance — Phonological Preference or Morphological Template?
+
+Approximately 40% of attested Nazja personal names begin with a sibilant:
+
+| Name | Initial | Sibilant Type |
+|------|---------|---------------|
+| *S'theno* | /s/ | Voiceless alveolar |
+| *Sira'kess* | /s/ | Voiceless alveolar |
+| *Sriss'tiz* | /sr/ | /s/ + /r/ cluster |
+| *Sassz'ine* | /s/ | Voiceless alveolar |
+| *Skar'this* | /sk/ | /s/ + /k/ cluster |
+| *Skessesh* | /sk/ | /s/ + /k/ cluster |
+| *Sarevess* | /s/ | Voiceless alveolar |
+| *Ssathara* | /sː/ | Geminate voiceless alveolar |
+| *Sakrasis* | /s/ | Voiceless alveolar |
+| *Saffsis* | /s/ | Voiceless alveolar |
+
+10 of ~25 personal names (~40%) begin with /s/ or an /s/-initial cluster. By comparison, Darnassian shows ~10–15% sibilant-initial names, and Thalassian shows a similar rate. The 40% rate in Nazja is significantly above the elven-language baseline.
+
+#### Analysis
+
+Two classes of explanation:
+
+**A. Phonological preference**: Nazja phonology favors sibilant-initial words due to the enhanced acoustic salience of sibilants underwater (see description.md §Physiological Phonological Changes). Under this account, sibilant-initial names are more common because they are easier to perceive and produce in the aquatic environment. This is a statistical tendency, not a grammatical rule — non-sibilant-initial names (*Azshara*, *Vashj*, *Naj'entus*, *Kalithresh*) also exist.
+
+**B. Morphological template**: At least some sibilant-initial names follow a productive naming template where the initial sibilant is a morphological element — a prefix or particle with grammatical meaning. Possible template: *S-* + *[name]*, where *S-* = "warrior," "servant," or "naga" as a self-designation prefix.
+
+The morphological template hypothesis can be tested against the data:
+
+| Argument For | Argument Against |
+|-------------|-----------------|
+| Several names show *S-* + recognizable morpheme: *S-ira'kess*, *S-kar'this* | Other sibilant-initial names resist decomposition: *Sassz'ine*, *Saffsis* |
+| The /s/-initial pattern extends across all tribal affiliations, suggesting it transcends individual naming traditions | Non-sibilant names like *Azshara* and *Vashj* are among the most prominent in Nazja lore, suggesting sibilant-initial is not obligatory |
+| The Highborne pre-transformation names (*Azshara*, *Zin-Azshari*, *Vashj*) already show sibilant-adjacent phonology (the RPG notes "Z's and V's"), so the pattern predates the naga transformation | The pre-transformation sibilant pattern involved /z/ and /v/, not /s/ — the modern /s/-initial dominance may be a separate development |
+
+The RPG source (Dark Factions, pg. 13) explicitly notes that sibilant-rich names (*Azshara*, *Zin-Azshari*, *Vashj*) predate the Highborne transformation. This means the sibilant-initial pattern in Nazja has deep roots in the Highborne dialect of Darnassian — it is not solely a post-transformation development. However, the specific /s/-initial dominance (as opposed to /z/ and /ʃ/) may be a Nazja innovation.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Phonological preference | Sibilant-initial names are statistically more common due to underwater acoustic salience; no morphological significance | **Moderate** — explains the pattern without positing unattested morphology; consistent with the RPG's observation that the pattern predates the transformation |
+| Partial morphological template | Some /s/-initial names contain a productive *S-* prefix (e.g., "warrior/servant"); others are phonologically sibilant-initial for acoustic reasons | **Low** — no independent evidence for an *S-* prefix; testable if a sibilant-initial/non-sibilant name pair with identical stems is discovered |
+| Full morphological template | All /s/-initial names contain the *S-* prefix; the 40% rate reflects the proportion of naga who bear this designation | **Very Low** — too many sibilant-initial names resist decomposition; would predict no monomorphemic sibilant-initial names |
+
+**Confidence: Moderate** for phonological preference as the primary explanation. The /s/-initial pattern is most parsimoniously explained as an amplified continuation of the pre-transformation Highborne naming tradition, driven by the acoustic advantages of sibilants in the underwater environment. The morphological template hypothesis remains untestable without additional data showing *S-* + recognizable stem pairs.
+
+### Investigation 4: The *Be'* and *Fara* Initial Elements — Imperative Markers or Content Words?
+
+Two short initial elements appear in imperative/battle cry constructions:
+
+**Be':**
+
+| Phrase | Speaker | Proposed Decomposition |
+|--------|---------|----------------------|
+| *Be'lemer an-delei!* | Lady Vashj | *Be'* + *lemer* + *an* + *delei* |
+| *Be'lanen dalorai!* | Naj'entus | *Be'* + *lanen* + *dalorai* |
+
+**Fara:**
+
+| Phrase | Speaker | Proposed Decomposition |
+|--------|---------|----------------------|
+| *Fara dena'lay!* | Zhahara Darksquall | *Fara* + *dena'lay* |
+
+Additionally, *Bal* in *Bal, lamer zhita!* (Naj'entus) and *Ba'* in *Ba'anthalso-dorei!* (Kalithresh) may be related to *Be'*.
+
+#### Analysis
+
+If *Be'* is an imperative marker (as proposed in the Syntax section), then:
+- *Be'lemer an-delei!* = "[imperative] [lemer] [particle] [delei]"
+- *Be'lanen dalorai!* = "[imperative] [lanen] [dalorai]"
+
+The two phrases share the structure: *Be'* + X + Y, where X and Y are longer content elements. The parallel structure supports *Be'* as a fixed initial element.
+
+However, *Be'* could also be a verb stem meaning "strike," "command," or "come," with the following elements as its arguments. Under this analysis:
+- *Be'lemer an-delei!* = "Strike [lemer] [an-delei]" or "Command [lemer] [an-delei]"
+
+The connection between *Be'*, *Ba'*, and *Bal* is worth exploring:
+
+| Form | Context | Possible Relationship |
+|------|---------|----------------------|
+| *Be'* | Before *lemer*, *lanen* | Base form |
+| *Ba'* | Before *anthalso-dorei* | Vowel alternant (e → a ablaut?) |
+| *Bal* | Before *lamer zhita* | Extended form (*Ba'* + *l* suffix?) |
+
+If *Be'*/*Ba'* show the same /e/ ↔ /a/ ablaut pattern seen in Zandali (cf. *Kele/Kile*, *Weta/Watha*), this could indicate a grammatical alternation — perhaps singular *Be'* vs. plural *Ba'*, or present *Be'* vs. imperative *Ba'*. The *Bal* form with its final /l/ could be *Ba'* + a suffix, or a separate word entirely.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Imperative particle | *Be'* = imperative marker; *Fara* = different imperative marker | **Low–Moderate** — consistent with the parallel structure in two phrases, but having two distinct imperative markers is typologically unusual for a language with such limited attestation |
+| Verb stem | *Be'* = "strike/command/come" (verb); *Fara* = different verb "call/summon" | **Low–Moderate** — more typologically natural; parallels Darnassian V-initial imperative constructions (*Andu-falah-dor*) |
+| Exclamatory particle | *Be'* and *Fara* are discourse particles marking exclamatory or emphatic speech, not specifically imperative | **Low** — no evidence for discourse particles in Nazja |
+
+**Confidence: Low–Moderate** for *Be'* as a verb stem in imperative constructions. The V-initial word order parallels the Darnassian imperative pattern (*Andu-falah-dor*, *Tor ilisar'thera'nal*), which also begins with a verb or particle followed by arguments. The potential *Be'*/*Ba'*/*Bal* paradigm, if genuine, would provide the first evidence of verbal morphology in Nazja. However, the data is too limited to distinguish between the imperative particle and verb stem hypotheses.
+
 ## Limitations
 
 The corpus is extremely small (~15-20 attested phrases, ~50+ proper names). Many "words" are isolated from single contexts, making it impossible to determine:
@@ -187,7 +367,9 @@ The corpus is extremely small (~15-20 attested phrases, ~50+ proper names). Many
 - Whether word order is free or fixed
 - How case, number, or tense are marked (if at all)
 - The full range of pronominal forms
-- Whether *Be'* and *Fara* are truly imperative markers or carry different nuances
-- The relationship between *thero* (in *Ash-thero-sauguine*) and Darnassian *thera* (in *Tor ilisar'thera'nal*) — whether cognate or coincidental
+- Whether *Be'* and *Fara* are truly imperative markers or carry different nuances — see Investigation 4
+- The relationship between *thero* (in *Ash-thero-sauguine*) and Darnassian *thera* (in *Tor ilisar'thera'nal*) — see Investigation 2
 - The meaning of most attested phrases beyond "battle cry" or "invocation"
 - Whether the tribal suffixes *-kess*, *-'ir*, *-tar* are productive morphemes or fossilized name elements
+- Whether *-ess/-esh* is a genuine feminine suffix — see Investigation 1
+- Whether sibilant-initial names reflect a morphological template — see Investigation 3

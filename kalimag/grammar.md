@@ -273,3 +273,50 @@ In *Ma reth bromo zoln kilagrin*, *zoln* appears between two content words (*bro
 | Grammatical particle | *zoln* = focus/emphasis marker between clause constituents | **Low** |
 
 **Confidence: Very Low–Low** for any specific function of *zoln*. The identical position between content words in two different phrases suggests grammatical rather than lexical status, but the data is insufficient to determine its function.
+
+### Investigation 6: Cross-Dialect Lexical Correspondence — *bromo* and *Reth* Across Ignan and Aquan
+
+The attested Kalimag phrases provide a rare opportunity to identify words that appear in multiple dialects, which would confirm cross-dialect lexical identity and constrain the dialectal divergence analysis (Investigation 4).
+
+**Candidate 1: *bromo***
+
+| Dialect | Phrase | Context |
+|---------|--------|---------|
+| Ignan | *A gi kras tor shodru'ga bromo!* | "I am from the elemental plane!" |
+| Aquan | *Ma reth bromo zoln kilagrin...* | (untranslated) |
+
+If *bromo* in both phrases is the same word, this would be the first confirmed cross-dialect content word in Kalimag. However, the Ignan phrase's Curse of Tongues translation ("I am from the elemental plane!") does not provide reliable word-by-word mapping, making it impossible to confirm that *bromo* carries the same meaning in both dialects.
+
+Three analyses:
+
+1. **Same word, same meaning**: *bromo* = "plane/realm" in both dialects. In the Ignan phrase, *bromo* = "plane" (as in "elemental plane"). In the Aquan phrase, *bromo* is one of several content words in an untranslated statement. This is the simplest analysis and consistent with a shared Kalimag vocabulary across dialects.
+
+2. **Same word, dialectal meaning shift**: *bromo* has diverged semantically between Ignan and Aquan, paralleling the phonotactic divergence documented in Investigation 4. Under this analysis, *bromo* might mean "plane/realm" in Ignan but have a different meaning (e.g., "water/flow/current") in Aquan.
+
+3. **Homophony**: The two *bromo* forms are coincidental — different words that happen to share the same phonological shape.
+
+**Candidate 2: *Reth* (Aquan) vs. *Reth* (Ignan)**
+
+| Dialect | Phrase | Context |
+|---------|--------|---------|
+| Ignan | *Reth Reth Reth* | "Burn burn burn" (confirmed) |
+| Ignan | *Rethfuras* | Fiery weapon name |
+| Aquan | *Ma reth bromo zoln kilagrin...* | (untranslated) |
+
+*Reth* = "burn" is confirmed in the Ignan dialect (Medium confidence). Its appearance in the Aquan phrase *Ma reth bromo...* raises the question of whether the Aquan form is the same word. If Aquan *reth* also = "burn", the Aquan phrase begins "I burn [bromo]..." — semantically coherent for a fire elemental's speech (if the Aquan speaker is a fire elemental using Aquan dialect, or a conglomerate speaking multiple dialects). If Aquan *reth* ≠ "burn", it could be a different word (e.g., "seek/travel" or "be/exist") that coincidentally shares the form with Ignan *reth*.
+
+**Implications for dialectal divergence:**
+
+If *bromo* and *reth* are confirmed as cross-dialect cognates (same word, same or similar meaning), this would have two important implications:
+
+1. **Kalimag dialects share core vocabulary**: The phonotactic differences between Ignan and Aquan (Investigation 4) are real, but they do not extend to wholesale lexical replacement. The dialects share a common vocabulary, as expected for dialects of a single language rather than separate languages.
+
+2. **Phonotactic divergence without lexical divergence**: The dialectal differences are primarily phonotactic (CVC vs. polysyllabic, /a/-/e/ vs. /i/-/u/ dominance) rather than lexical. This is consistent with the typology of dialectal variation, where phonological differences typically precede and exceed lexical differences.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Cross-dialect cognates | *bromo* and *reth* are the same words in both dialects, confirming shared core vocabulary | **Low–Moderate** — phonological identity across dialects is suggestive, but without confirmed Aquan glosses, the identity cannot be verified |
+| Dialectal cognates with semantic shift | *bromo* and *reth* are historically the same words but have undergone meaning shifts between dialects | **Low** — no evidence for semantic divergence; the simplest hypothesis is shared meaning |
+| Homophony | The cross-dialect forms are coincidental matches | **Low** — the probability of two independent /bromo/ forms and two independent /reθ/ forms both occurring by coincidence is low |
+
+**Confidence: Low–Moderate** for *bromo* and *reth* as cross-dialect cognates. The phonological identity is the strongest available evidence for shared vocabulary across Kalimag dialects, but the absence of confirmed Aquan translations prevents verification. If future content provides Aquan-to-Common translations, this investigation can be resolved definitively.
