@@ -213,6 +213,20 @@
 | hyld- | ? | Hyldnir, Hyldsmeet | — |
 | -nir | ? (plurals?) | Hyldnir, Hruthnir | —nir (nominal suffix) |
 
+### From Untranslated Phrase Analysis (Investigation 1)
+
+| Morpheme | Inferred Meaning | Evidence | Old Norse Cognate | Confidence |
+|----------|-----------------|----------|-------------------|------------|
+| orm | Serpent / dragon / enemy | *Mjul orm agn gjor!* (Skadi); embedded in *Jormungar* | ormr (serpent, dragon) | High |
+| kval | Torment / anguish | *Mjor na uul kval!* (Skadi the Ruthless) | kvál (torment, agony) | High |
+| fol- | Folk / people / army | *foln* (Haraak foln!), *Folvynn* (two independent phrases) | fólk (folk, people) | Medium |
+| uul | Wolf | *Mjor na uul kval!* (Skadi); independent from *buul* = "lair" (Investigation 2) | úlfr (wolf) | Medium |
+| na | And (reduced nja) | *Mjor na uul kval!* vs. confirmed *nja* | cf. nja (and) | Medium |
+| agn | Terror / fright | *Mjul orm agn gjor!* (Ingvar) | ǫgn (terror, danger) | Low–Medium |
+| gjor | Do / make (imperative) | *Mjul orm agn gjor!* (Ingvar); complicated by Gj→/ʃ/ rule | gjǫra/gøra (to do, make) | Low–Medium |
+| Haraak | Raid / attack! (imperative) | *Haraak foln!* (Thane Banahogg) | herja (to raid, harry) | Medium |
+| marn- | Sea | *marnjar* in *Bolvin umyol marnjar* (Bjarngrim); + confirmed -jar | marr (sea) | Low–Medium |
+
 ## 5. Val'kyr Names
 
 ### Original Val'kyr (Odyn's Servants)

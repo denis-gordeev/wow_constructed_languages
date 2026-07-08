@@ -96,6 +96,7 @@ Orcish has no widely attested writing system in canon. In-game, orcish text is r
 | Attested proper names | 9+ | *Grommash*, *Durotar*, *Orgrimmar*, *Gul'dan*, *Durotan*, *Orgrim*, *Garrosh*, *Saurfang*, *Lok'osh* |
 | Uncertain words | 6 | *Kek*, *Bur*, *Swobu*, *Agra*, *Grombolar*, *Mok-thrarin* |
 | Attested sentences with full glosses | 0 | No Orcish sentences are attested — all surviving examples are interjections, greetings, or compound nouns |
+| Open morphological investigations | 6 | *-osh* suffix (Low–Moderate; 6 words with /oʃ/; *Kosh* connection), *-an/-tar* personal/toponymic suffix pair (Low–Moderate; *Durotan/Durotar* alternation), *gora/ogar* metathesis (Very Low–Low), *Grom-* root productivity (Low–Moderate; 2 attestations), *-mar* toponymic suffix (Very Low–Low; *Orgrimmar* only), *-rand* toponymic suffix (Very Low; *Nagrand* only) |
 
 ## Notes on Reliability
 
