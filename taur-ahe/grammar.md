@@ -286,3 +286,109 @@ The word *Isha* in *Isha Awak* ("Deep Doom") contains the same *-sha* sequence b
 | Coincidental | *-sha/-she* in *An'she*, *Mu'sha*, *Mashan'she* is not a shared morpheme; each word is indivisible | **Low** — 3 independent celestial terms sharing the same ending is unlikely to be coincidental |
 
 **Confidence: Moderate** for *-sha/-she* as a celestial/divine morpheme. This is the strongest of the Taur-ahe morpheme hypotheses: three independent attestations in a coherent semantic domain (celestial terminology) with a culturally motivated interpretation ("eye of the Earth Mother"). The /e/~/ɑ/ alternation and the *Isha* counterexample prevent a higher confidence rating. If additional celestial terms with *-sha* or *-she* are discovered, confidence could be upgraded to Moderate–High.
+
+### Investigation 6: *Lo'* — Wolf/Spirit or Earth-Related Element?
+
+The element *Lo'* appears in two attested Taur-ahe words:
+
+| Word | Translation | Context | Notes |
+|------|-------------|---------|-------|
+| *Lo'Gosh* | Ghost Wolf | Confirmed (multiple sources) | *Lo'* + *Gosh*; "Ghost Wolf" is a confirmed translation |
+| *Lo'sho* | Earth-related term | Uncertain (nature/druidic vocabulary) | Listed in nature/vocabulary.md with uncertain meaning |
+
+#### Analysis
+
+If *Lo'* is a genuine morpheme, it appears in two semantically distinct contexts:
+
+1. **In *Lo'Gosh* ("Ghost Wolf")**: The translation "Ghost Wolf" is confirmed across multiple sources. The standard decomposition is *Lo'* + *Gosh*, where *Gosh* is typically assumed to mean "ghost" or "wolf" and *Lo'* the other element. However, the decomposition is uncertain — see the morphology table below.
+
+2. **In *Lo'sho***: This form appears in the nature/druidic vocabulary as an "earth-related term" with no confirmed translation. If *Lo'* = "wolf/spirit" (from *Lo'Gosh*), then *Lo'sho* = "spirit-[sho]" or "wolf-[sho]" — semantically opaque for an earth-related term. Alternatively, *Lo'* could have a broader meaning that encompasses both spiritual and earthly domains.
+
+#### Decomposition Analysis of *Lo'Gosh*
+
+The confirmed translation "Ghost Wolf" permits multiple decompositions:
+
+| Decomposition | *Lo'* Meaning | *Gosh* Meaning | Consistency with *Lo'sho* |
+|---------------|---------------|----------------|---------------------------|
+| *Lo'* + *Gosh* | "Wolf" | "Ghost/Spirit" | *Lo'sho* = "wolf-[sho]" — semantically opaque for earth term |
+| *Lo'* + *Gosh* | "Ghost/Spirit" | "Wolf" | *Lo'sho* = "spirit-[sho]" — "spirit of the earth" is semantically coherent |
+| *Lo'* + *Gosh* | Undecomposable | Undecomposable | *Lo'Gosh* is a single morpheme; *Lo'* in *Lo'sho* is coincidental |
+
+If *Lo'* = "spirit/ghost" and *Gosh* = "wolf", then:
+- *Lo'Gosh* = "spirit-wolf" = "Ghost Wolf" ✓
+- *Lo'sho* = "spirit-[sho]" — if *-sho* relates to earth/ground (cf. *Sho* = "all" in Zandali, but this is a different language), then *Lo'sho* = "spirit of the earth" — semantically coherent for an earth-related druidic term
+
+The Tauren worldview, where spirits inhabit all natural phenomena, supports *Lo'* = "spirit" as a general animistic prefix: *Lo'Gosh* = "spirit-wolf" (a wolf spirit), *Lo'sho* = "spirit of the earth" (an earth spirit). This would make *Lo'* a spiritual/animistic classifier similar to *An-* (which may mark celestial/divine entities in Investigation 1).
+
+#### Alternative: Independent Homophony
+
+*Lo'* in *Lo'Gosh* and *Lo'* in *Lo'sho* could be different elements that happen to share the same phonological form:
+- *Lo'* in *Lo'Gosh* = "wolf" or "ghost" (specific to the Ghost Wolf myth)
+- *Lo'* in *Lo'sho* = "earth" or "ground" (specific to earth-related vocabulary)
+
+This analysis requires no semantic leap but fails to explain why two different morphemes would share the rare CV' syllable pattern.
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| *Lo'* = "spirit/ghost" (animistic prefix) | *Lo'* marks spiritual/animistic entities; *Lo'Gosh* = "spirit-wolf", *Lo'sho* = "spirit of the earth" | **Low–Moderate** — semantically coherent across both attestations; consistent with Tauren animistic worldview; *Gosh* = "wolf" is the natural complement |
+| *Lo'* = "wolf" (specific) | *Lo'* = "wolf", *Gosh* = "ghost"; *Lo'sho* = "wolf-[sho]" with unknown *-sho* | **Low** — *Lo'sho* as earth term is incompatible with "wolf" meaning without major semantic extension |
+| Independent homophony | *Lo'* in *Lo'Gosh* and *Lo'* in *Lo'sho* are unrelated elements | **Low–Moderate** — most parsimonious but unexplained coincidence in a language with very few attested morphemes |
+
+**Confidence: Low–Moderate** for *Lo'* = "spirit/ghost" as an animistic prefix. The key argument is semantic coherence: *Lo'* = "spirit" works in both *Lo'Gosh* ("spirit-wolf") and *Lo'sho* ("earth-spirit"), and is consistent with the Tauren cosmological framework where all natural phenomena have associated spirits. The main weakness is the very limited data (2 attestations, 1 with uncertain meaning).
+
+### Investigation 7: *Eche'* — Shared Prefix in Animal Names?
+
+Two Taur-ahe words share the initial element *Eche*:
+
+| Word | Translation | Context | Notes |
+|------|-------------|---------|-------|
+| *Echeyakee* | Whitemist | Confirmed | Great cat of the Barrens; named beast |
+| *Eche'ro* | (untranslated) | Proper name | Moth pet/mount in Legion |
+
+#### Analysis
+
+The phonological overlap between *Echeyakee* and *Eche'ro* is striking:
+- *Echeyakee* = *Eche* + *yakee* (or *Eche'* + *yakee*, with apostrophe separating the elements)
+- *Eche'ro* = *Eche* + *'ro* (or *Eche'* + *ro*, with apostrophe separating the elements)
+
+Both words are names for named animals/creatures in the game. If *Eche* or *Eche'* is a genuine morpheme, it would be a prefix or initial compound element in animal names.
+
+#### Decomposition Analysis
+
+**For *Echeyakee* ("Whitemist"):**
+
+| Decomposition | Elements | Semantic Analysis |
+|---------------|----------|-------------------|
+| *Eche'* + *yakee* | *Eche'* (unknown) + *yakee* (unknown) | Two unknown morphemes; "Whitemist" provides no clear semantic decomposition |
+| *Eche* + *yakee* | *Eche* (unknown) + *yakee* (unknown) | Same as above without apostrophe boundary |
+| *E'* + *cheyakee* | *E'* (unknown prefix) + *cheyakee* (unknown) | Less likely; no other Taur-ahe words show *E'* prefix |
+
+The confirmed gloss "Whitemist" does not transparently decompose. If *Eche'* = "white" and *yakee* = "mist", the morpheme boundaries would be clear — but no other Taur-ahe words confirm either element.
+
+**For *Eche'ro* (untranslated):**
+
+| Decomposition | Elements | Notes |
+|---------------|----------|-------|
+| *Eche'* + *ro* | *Eche'* (unknown) + *ro* (unknown) | Apostrophe marks morpheme boundary; *-ro* also appears in *Apa'ro* (Malorne, the white stag) |
+| *Eche* + *'ro* | *Eche* (unknown) + *'ro* (unknown) | Less likely; apostrophe typically follows first element in Taur-ahe |
+
+The *-ro* element in *Eche'ro* may connect to *Apa'ro* (the white stag / Malorne):
+
+| Word | Decomposition | *-ro* Context |
+|------|---------------|---------------|
+| *Apa'ro* | *Apa* + *ro* | White stag (Malorne) — great nature spirit |
+| *Eche'ro* | *Eche'* + *ro* | Moth pet/mount — creature of the wild |
+
+If *-ro* = "creature of the wild" or "great beast", then *Apa'ro* = "[Apa]-creature" and *Eche'ro* = "[Eche']-creature". This would create a productive animal/beast suffix.
+
+However, *Eche'ro* is a Legion-era pet/mount name whose language affiliation is uncertain — it could be Darnassian, Taur-ahe, or a Common rendering. Without confirmed translation or explicit language attribution, *Eche'ro* may not be genuine Taur-ahe.
+
+#### Assessment
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| *Eche'* = shared animal-name prefix | *Eche'* is a genuine Taur-ahe morpheme used in naming significant animals; *Echeyakee* = *Eche'* + *yakee*, *Eche'ro* = *Eche'* + *ro* | **Very Low–Low** — only 2 attestations, 1 untranslated; *Eche'ro*'s language affiliation is uncertain |
+| *Eche* + *-ro* paradigm | *Eche'* relates to *Apa'ro* via shared *-ro* animal suffix; *-ro* = "great beast/creature" | **Very Low** — *-ro* appears in only 2 words across different contexts (ancient stag vs. moth pet); could be coincidental |
+| Coincidental overlap | *Echeyakee* and *Eche'ro* share initial syllables by chance; no genuine morpheme | **Low–Moderate** — given the small Taur-ahe corpus, shared initial syllables could be accidental |
+
+**Confidence: Very Low–Low** for *Eche'* as a genuine shared morpheme. The two attestations provide weak evidence, and *Eche'ro*'s language affiliation is uncertain. The most productive line of inquiry would be confirming whether *Eche'ro* is genuinely Taur-ahe; if it is, the *Eche'* + *-ro* decomposition gains more weight. The potential *-ro* connection to *Apa'ro* is intriguing but requires more data.

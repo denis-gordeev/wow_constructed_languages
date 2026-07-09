@@ -1113,6 +1113,136 @@ If Hypothesis 2 is correct, the grammaticalization from verb *watha* "cleanse" t
 
 **Confidence: Low–Moderate** for the grammaticalization chain hypothesis. The semantic coherence of "cleansing place" → "settlement" and the prefix form *Watha'nan* in a crypt context are suggestive, but the data is too limited to confirm the pathway. The homophony hypothesis remains competitive. If additional verb-derived toponymic elements are identified in Zandali (e.g., a place name containing a form of *File* "love" or *Peran* "die"), the grammaticalization hypothesis would gain significant support.
 
+### Investigation 10: The *-jai* Suffix in Jungle Troll Names
+
+Two suffix forms, *-'ai* and *-jai*, appear in Zandali jungle troll place names from Northern Stranglethorn:
+
+| Name | Decomposition | Context | Notes |
+|------|---------------|---------|-------|
+| *Atal'ai* | *Atal* + *-'ai* | Priests of Hakkar | "Devoted Ones" (confirmed gloss); *-'ai* = collective "ones" |
+| *Kal'ai* | *Kal'* + *-'ai* | Bloodscalp ruin | Northern Stranglethorn; no confirmed gloss |
+| *Ziata'jai* | *Ziata'* + *-jai* | Skullsplitter ruin | Northern Stranglethorn; no confirmed gloss |
+
+The question is whether *-jai* in *Ziata'jai* is the same morpheme as *-'ai* in *Atal'ai* and *Kal'ai*, or a distinct suffix.
+
+#### Hypothesis 1: Glide-Inserted Allomorph of *-'ai*
+
+Under this analysis, *-jai* = /j/ + *-'ai*, where the palatal glide /j/ is inserted phonologically to break the vowel hiatus between *Ziata'* (ending in /a/) and *-'ai* (beginning with /a/). The derivation would be:
+
+\**Ziata'-'ai* → *Ziata'jai* (with /j/ glide insertion between identical vowels)
+
+This is a well-attested cross-linguistic process. Hiatus resolution via glide insertion is found in many languages (cf. French *il y a* → /il.ja/, Spanish *le ha* → *leja* in some dialects). The prediction: *-jai* appears only after vowel-final stems, while *-'ai* appears after consonant-final stems.
+
+| Name | Stem-Final Sound | Suffix Form | Consistent with Glide Insertion? |
+|------|------------------|-------------|----------------------------------|
+| *Atal'ai* | /l/ (consonant) | *-'ai* | Yes — no hiatus |
+| *Kal'ai* | /l/ (consonant) | *-'ai* | Yes — no hiatus |
+| *Ziata'jai* | /a/ (vowel) | *-jai* | Yes — glide breaks /a/+/a/ hiatus |
+
+The three data points are perfectly consistent with phonologically conditioned glide insertion. The prediction would be that any future *-'ai* suffixation to a vowel-final stem would also produce *-jai*.
+
+However, a critical counterargument: the apostrophe itself is already a hiatus-breaking device in Zandali orthography (representing a glottal stop /ʔ/). If the apostrophe already marks a phonological boundary with a glottal stop, glide insertion would be redundant — *\*Ziata'-'ai* = /ziˈa.ta.ʔa.i/ already has a consonant (glottal stop) between the two vowels, making glide insertion unnecessary.
+
+#### Hypothesis 2: Distinct Suffix with Different Semantics
+
+Under this analysis, *-'ai* and *-jai* are independent morphemes:
+
+| Suffix | Proposed Meaning | Attestation |
+|--------|-----------------|-------------|
+| *-'ai* | Collective "ones" | *Atal'ai* ("Devoted Ones"), *Kal'ai* |
+| *-jai* | Tribal/ethnic affiliation | *Ziata'jai* |
+
+The semantic distinction would parallel the tribal suffix system (*-ari*, *-ashi*, *-aki*), where different vowels mark different tribal or social affiliations. If *-'ai* = religious collective ("devoted ones") and *-jai* = tribal designation ("people of"), then *Atal'ai* = "Devoted Ones" (religious) and *Ziata'jai* = "People of Ziata" (tribal/ethnic).
+
+This analysis gains some support from the observation that *Atal'ai* is a religious designation (Hakkar-worshipping priests), while *Ziata'jai* is a place name associated with the Skullsplitter tribe — a secular/tribal context.
+
+#### Hypothesis 3: *-jai* Contains *-j-* Morpheme Plus *-ai*
+
+Under this analysis, *-jai* is decomposable as *-j-* + *-ai*, where *-j-* is a linking or derivational morpheme and *-ai* is the familiar collective suffix. The *-j-* element would parallel *-jin* ("leader/chief"), sharing the initial /dʒ/. If *-j-* = "person/people" (a generic human classifier), then:
+
+- *-jai* = *-j-* (person) + *-ai* (collective) = "persons collectively" = "people of"
+- *Atal'ai* = *Atal* + *-'ai* = "devoted-ones" (without person classifier)
+- *Ziata'jai* = *Ziata'* + *-j-* + *-ai* = "Ziata-people-ones" = "people of Ziata"
+
+This would make *-'ai* a general collective and *-jai* a specifically human/animate collective, paralleling the distinction between English "ones" (general) and "people" (human-specific). The *-j-* element would also connect to the *-jin* suffix ("chief/leader"), suggesting a /dʒ/-initial morpheme family marking human/person reference.
+
+#### Assessment
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| Glide-inserted allomorph | *-jai* = /j/ + *-'ai*, phonologically conditioned by vowel-final stems | **Low–Moderate** — perfectly consistent with 3 data points; weakened by the redundancy with glottal stop at apostrophe |
+| Distinct suffix (tribal vs. religious) | *-'ai* = religious collective, *-jai* = tribal/ethnic designation | **Low** — semantically plausible but single attestation of *-jai* makes functional distinction speculative |
+| *-j-* + *-ai* decomposition | *-jai* = person classifier + collective; parallels *-jin* "chief" | **Very Low–Low** — creative but requires assuming an unattested *-j-* morpheme; connecting *-j-* to *-jin* requires assuming /dʒ/ is the core of *-jin* rather than the full syllable |
+
+**Confidence: Low–Moderate** for *-jai* as a glide-inserted allomorph of *-'ai*. This is the most parsimonious analysis given the current data. The key test: if a future vowel-final stem takes *-'ai* rather than *-jai*, the glide insertion hypothesis is falsified; if a future consonant-final stem takes *-jai*, the distinct suffix hypothesis gains support.
+
+### Investigation 11: *gokinye* — Morphological Decomposition of "Invader/Outsider"
+
+The word *gokinye* ("invader(s); outsider(s)") is confirmed by warcraft.wiki.gg with three Midnight attestations, all in a derogatory context used by forest trolls for foreigners:
+
+| Attestation | Speaker | Context |
+|-------------|---------|---------|
+| "I don't speak to gokinye" | Zul'jan | Initial dismissal of the player |
+| "Good luck, gokinye" | Kinduru | Sarcastic farewell |
+| "And de gokinye" | Zul'jarra | Dismissive reference to outsiders |
+
+The word is a confirmed Zandali common noun (used without capitalization in quest text), making it one of the few Zandali words with multiple textual attestations and a confirmed semantic gloss.
+
+#### Possible Decompositions
+
+Three morphological decompositions are possible:
+
+**Decomposition A: *go* + *kinye***
+
+| Element | Proposed Meaning | Parallels |
+|---------|-----------------|-----------|
+| *go-* | Unknown prefix; possibly negative/derogative | No direct Zandali parallel; *Gonk* (raptor loa) and *gogeh* ("know") share /g/ initial but different semantics |
+| *-kinye* | Unknown root | No direct parallel; *-kin-* resembles English "-kin" (diminutive) but this is likely coincidental |
+
+This decomposition splits at the most natural syllable boundary (CV + CVCV). The initial *go-* could be a derogative or intensifying prefix, making *gokinye* = "go-[outsider]" where *go-* marks hostility. However, no other Zandali words begin with *go-* in a clearly prefixal way.
+
+**Decomposition B: *gok* + *inye***
+
+| Element | Proposed Meaning | Parallels |
+|---------|-----------------|-----------|
+| *gok* | Unknown root | Resembles *Gok* in *Gokinye* (whole word); no independent attestation |
+| *-inye* | Unknown suffix | No parallel in Zandali |
+
+This decomposition produces two elements with no independent support. The *gok* element could potentially relate to *Vog* in the RPG *Vog'yes* shield (non-canon), but RPG data is unreliable.
+
+**Decomposition C: *gokin* + *ye***
+
+| Element | Proposed Meaning | Parallels |
+|---------|-----------------|-----------|
+| *gokin* | Unknown root; possibly "strange/foreign" | Resembles *gogeh* ("know") in sharing /go/ initial; if *gokin* = "not-known" (from *go-* negation + *-kin* "known"), this would be semantically coherent: "invader" = "unknown one" |
+| *-ye* | Agentive or nominal suffix | Directly parallels *-ey* in *Hash'ey* ("unifier") — if *-ye* = *-ey* with vowel lowering or a dialectal variant, then *gokinye* = "[gokin]-one" = "foreign-one" = "outsider" |
+
+This decomposition is the most promising because it connects to an existing morpheme hypothesis: *-ey* (agentive suffix, Investigation on *Hash'ey*). If *-ye* and *-ey* are the same suffix, then:
+
+- *Hash'ey* = *Hash'* + *-ey* = "unite" + "one who" = "unifier"
+- *gokinye* = *gokin* + *-ye* = "foreign/strange" + "one who" = "foreigner/outsider"
+
+The vowel difference (*-ey* vs. *-ye*) could reflect: (a) phonological conditioning (vowel reduction in unstressed syllable), (b) dialectal variation (Amani dialect vs. Zandalari dialect), or (c) different morphological treatment (the *-y-* in *-ye* could be a linking glide similar to the *-j-* proposed in Investigation 10 for *-jai*).
+
+#### Cross-Reference with *-ey* Agentive Suffix
+
+| Word | Decomposition | Suffix Form | Gloss | Notes |
+|------|---------------|-------------|-------|-------|
+| *Hash'ey* | *Hash'* + *-ey* | *-ey* /ei/ | "Unifier" | Confirmed gloss; title |
+| *gokinye* | *gokin* + *-ye* | *-ye* /je/ | "Outsider" | Confirmed gloss; common noun |
+
+If *-ey* and *-ye* are allomorphs, the conditioning factor might be the phonological environment: *-ey* after apostrophe (*Hash'* ends in /ʃ/), *-ye* after consonant or vowel (*gokin* ends in /n/). However, with only two data points, this cannot be confirmed.
+
+#### Assessment
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| *gokin* + *-ye* (agentive) | *gokin* = "foreign/strange", *-ye* = agentive suffix (allomorph of *-ey*) | **Low–Moderate** — connects to existing *-ey* hypothesis; semantically coherent; *gokin* has no independent attestation |
+| *go* + *kinye* (prefix + root) | *go-* = derogative prefix, *kinye* = root | **Very Low** — no supporting evidence for *go-* as a prefix |
+| Monomorphemic | *gokinye* is an unanalyzable root | **Low–Moderate** — most parsimonious; a single morpheme with no internal structure; /go.ki.nje/ is a well-formed Zandali trisyllable |
+
+**Confidence: Low–Moderate** for *gokinye* = *gokin* + *-ye* (agentive decomposition). The connection to *-ey* in *Hash'ey* is the strongest argument — if both words use agentive suffixes, the shared morphological structure would support *-ey/-ye* as a genuine Zandali agentive suffix with two attestations. The root *gokin* = "foreign/strange" remains speculative without independent attestation. The monomorphemic analysis remains competitive.
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar remain unattested and should not be assumed:
