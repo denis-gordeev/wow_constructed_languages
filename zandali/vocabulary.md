@@ -100,7 +100,7 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Pa'ku | Loa of Winds | Proper name |
 | Krag'wa | Loa of Frogs/Earth | Proper name |
 | Gonk | Loa of Raptors | Proper name |
-| Akunda | Loa of Storms/Thoughts | Proper name; potential *Akun* + *-da* decomposition would extend *-da* suffix beyond kinship — see grammar.md Investigation 6B |
+| Akunda | Loa of Storms/Thoughts | Proper name; potential *Akun* + *-da* decomposition would extend *-da* suffix beyond kinship — see grammar.md Investigation 8 |
 | Sethraliss | Loa of Serpents/Lightning | Proper name |
 | Rezan | Loa of Kings | Proper name |
 | Jani | Loa of Scavengers | Proper name |
@@ -120,7 +120,7 @@ This is the **first evidence of a second preposition/particle** beyond *na*, and
 2. **Vocative/appositional**: *no* = "called/named" — "Elortha, [who is] Shadra"
 3. **Possessive**: *no* = belonging to / property of
 
-**Confidence: Low** — three attestations of the pattern, but no official translation of *no* as a particle. If *no* = "to/for" (dedicatory), this would be the **second confirmed cross-family particle** shared between Zandali and the elven languages (after *-da*), paralleling Thalassian *No* = "to/all" — see grammar.md Investigation 6B for full analysis.
+**Confidence: Low** — three attestations of the pattern, but no official translation of *no* as a particle. If *no* = "to/for" (dedicatory), this would be the **second confirmed cross-family particle** shared between Zandali and the elven languages (after *-da*), paralleling Thalassian *No* = "to/all" — see grammar.md Investigation 8 for full analysis.
 
 ## Nouns — Proper Names (Persons)
 

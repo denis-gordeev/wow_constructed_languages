@@ -91,6 +91,7 @@ Tol'vir is a **very poorly attested** constructed language. The known corpus con
 - One exclamation (*Murkash!*)
 - Approximately 25 proper names (personal names, tribe names, place names) without translations
 - The hieroglyphic writing system (confirmed to exist; no complete examples published)
+- **4 open linguistic investigations**: *-et*/*-ep* suffix alternation (Low–Moderate), *Vir'*- water/river classifier prefix (Low–Moderate), *Al'*- definite article hypothesis (Low–Moderate for article; Moderate–High for Blizzard Arabic borrowing), *Kadesh*/*Osadi*/*Satekh* verb paradigm analysis (Very Low–Low)
 
 No grammar, syntax, or extended text in Tol'vir has been published by Blizzard. All grammatical inferences are based on morphological decomposition of proper names and the three attested phrases.
 
@@ -108,7 +109,7 @@ No grammar, syntax, or extended text in Tol'vir has been published by Blizzard. 
 - Whether the place names (Ahmtul, Akhenet, Ankhaten, etc.) are Tol'vir-language names or Titan-language names that the tol'vir adopted. Given that the tol'vir are custodians of titan facilities, many place names may be Titan in origin.
 - The morphological decomposition of tribe names (*Ramkahen*, *Neferset*, *Orsis*, *Amathet*) — no translations are confirmed.
 - Whether *-en* is a productive suffix meaning "settlement" or "place" (Ramkahen, Akhenet, Ankhaten) or coincidental.
-- Whether *-et* / *-ep* are locative suffixes (Amathet, Hamatep, Sahket, Khintaset) or coincidental.
+- Whether *-et* / *-ep* are locative suffixes (Amathet, Hamatep, Sahket, Khintaset) or coincidental — **INVESTIGATED Round 43**: Investigation 1 added; *-et* = locative, *-ep* = honorific functional split preferred at Low–Moderate confidence; *Hamatep* (gate) is critical counterexample
 - The meaning of *Murkash!*, uttered by General Husam in combat.
 
 ### What is unknown

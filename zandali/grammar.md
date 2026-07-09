@@ -929,7 +929,7 @@ Since the Haranir are confirmed to descend from dark trolls/night elves (*The Ar
 
 Full analysis in darnassian/grammar.md Investigation 13.
 
-### Investigation 6B: *no* Connective in Loa Names
+### Investigation 8: *no* Connective in Loa Names
 
 Three loa are attested with a **"no" connective particle** between a title/descriptor element and the loa name:
 

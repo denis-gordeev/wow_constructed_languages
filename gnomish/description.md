@@ -107,6 +107,7 @@ No Gnomish-language sentences, phrases, or texts are attested in canon. All in-g
 | Inferred morphemes | 1 | *Mech-*/*Mekka-* (mechanical creation?; may be Common borrowing) |
 | Attested phrases with translations | 0 | No Gnomish phrases have confirmed translations |
 | Attested sentences with full glosses | 0 | No Gnomish sentences are attested |
+| Open linguistic investigations | 3 | Investigation 1 (*Mekk-*/*Mech-*/*Meka-*/*Mek-* morphophonemic alternation, Low–Moderate for allomorphy; Moderate for orthographic convention), Investigation 2 (*-eregan*/*-agon* toponymic suffix pair, Very Low–Low), Investigation 3 (*Mim-*/*Mekk-* Titan creator vs. creation, Very Low–Low; alliterative naming convention at Moderate–High) |
 
 ## References
 
