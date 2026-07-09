@@ -71,6 +71,83 @@ Observed diphthongs may be present (e.g., the *ai* in *Man'ari*, the *ei* in *Dr
 
 9. **Nasal + stop sequences at compound-internal boundaries**: Multiple names show medial nasal+stop sequences: *Mannoroth*, *Archimonde*, *Kil'jaeden*. The pattern of nasals before homorganic stops at syllable boundaries is consistent with compound-internal juncture, where the nasal may be a linking element or case marker.
 
+## Open Linguistic Investigations
+
+### Investigation 1: The *-oth* Pit Lord Name Suffix
+
+Three Pit Lord/demonic names end in *-oth*:
+
+| Name | Context | Notes |
+|------|---------|-------|
+| *Mannoroth* | Pit Lord, major lore figure | /mænˈɔrɒθ/ |
+| *Xoroth* | World/dimension (Xoroth) | /ˈzɔrɒθ/ |
+| *Azzinoth* | Source of Illidan's twin blades | /æˈziːnɒθ/ |
+
+The *-oth* ending does NOT appear in:
+- Eredar names (*Archimonde*, *Kil'jaeden*, *Velen*)
+- Dreadlord names (*Mal'Ganis*, *Tichondrius*, *Varimathras*)
+- Draenei names (*Maraad*, *Yrel*, *Nobundo*)
+
+Three hypotheses:
+
+| Hypothesis | Description | Assessment |
+|------------|-------------|------------|
+| *-oth* = Eredun morpheme | Meaning "lord" or "destroyer" used specifically for Pit Lords — semantically coherent since all three bearers are associated with destruction | Low–Moderate plausibility — three attestations in the same semantic domain is notable, but *Azzinoth* is not itself a Pit Lord (it's the name of a demon from whose body Illidan's blades were forged) |
+| *-oth* = borrowing from Pit Lords' native language | Pit Lords may have had their own language before joining the Burning Legion | Low–Moderate — the absence of *-oth* in Eredar and Dreadlord names supports a separate origin |
+| *-oth* = phonological template | Blizzard design convention for names of immense destructive beings, not genuine morphology | Moderate — most parsimonious, given that all *-oth* bearers are demonic beings of great power |
+
+**Confidence: Very Low–Low** for *-oth* as a genuine Eredun morpheme; **Low–Moderate** for the observation that *-oth* names form a distinct phonological class within the demon name corpus.
+
+### Investigation 2: Dreadlord vs. Eredar Name Phonology — Two Sub-Languages?
+
+The names of Dreadlords (Nathrezim) and Eredar show systematically different phonological profiles:
+
+| Feature | Eredar Names | Dreadlord Names |
+|---------|-------------|-----------------|
+| Rhotic frequency | Very high (*Sargeras*, *Archimonde*, *Kil'jaeden*, *Velen*) | Low (*Balnazzar*, *Detheroc*, *Mal'Ganis*) |
+| Open syllables | Many (*Sa-rae-ge-ras*, *Ve-len*) | Few (*Bal-naz-zar*, *Ti-chon-dri-us*) |
+| Coda complexity | Simple (*-monde*, *-den*) | Complex (*-as*, *-ar*, *-oc*, *-us*) |
+| Sibilant density | Low | High (*Mal'Ganis*, *Tichondrius*, *Varimathras*) |
+| Name length (syllables) | 3–4 (*Ar-chi-mon-de*, *Kil-jae-den*) | 3–4 (*Bal-naz-zar*, *Va-ri-math-ras*) |
+| /z/ frequency | Low | High (*Balnazzar*, *Detheroc*) |
+| Apostrophe usage | Rare (*Kil'jaeden*) | Common (*Mal'Ganis*, *Nathrezim*) |
+
+The systematic phonological differences suggest two possibilities:
+
+| Hypothesis | Description | Assessment |
+|------------|-------------|------------|
+| Dreadlord names = different language (Nathrezim) | With its own phonological constraints — consistent with lore stating the Nathrezim are a separate demonic species | Moderate–High — lore confirms Nathrezim are a separate species from Eredar, making a separate language likely; the phonological split supports this |
+| Both name types are Eredun | But represent different social registers or dialectal varieties — Eredar names = formal/ceremonial register, Dreadlord names = military/operative register | Low–Low–Moderate — register differences could produce some phonological divergence but the degree observed suggests deeper structural differences |
+
+**Confidence: Moderate–High** for the observation of systematic phonological differences; **Low–Moderate** for Hypothesis 2 as a competing explanation.
+
+### Investigation 3: Name-Length Bimodality and Extended Name Suffixes
+
+Eredun vocabulary shows a striking bimodal length distribution:
+
+- **Short words (1–2 syllables)**: *Fel*, *Argus*, *Krokul*, *Man'ari*, *Draenei*, *Sha'tar*
+- **Long names (3–4 syllables)**: *Sargeras*, *Archimonde*, *Kil'jaeden*, *Magtheridon*
+- **Almost no 2-syllable proper names** and **no 3+ syllable common nouns**
+
+This bimodality suggests that Eredun proper names are formed with specific suffixal morphology that adds syllables to base vocabulary:
+
+| Suffix | Names | Syllables Added |
+|--------|-------|-----------------|
+| *-monde* | *Archimonde* | 2 |
+| *-jaeden* | *Kil'jaeden* | 2 |
+| *-eros* / *-theridon* | *Magtheridon* | 3+ |
+| *-gar* / *-geras* | *Sargeras* | 2 |
+
+Three hypotheses:
+
+| Hypothesis | Description | Assessment |
+|------------|-------------|------------|
+| Extended suffixes = genuine name-forming morphology | *-monde* = "the great/lord", *-jaeden* = "deceiver/the fallen", etc. — productive morphology that transforms short roots into ceremonial names | Low–Moderate — if *Archimonde* = *Arch-* + *-imonde*, the suffix could mean "the [adjective] one" or similar |
+| Extended suffixes = frozen compounds | Second element is an unrecognizable morpheme from an earlier stage of Eredun — once productive but now opaque | Moderate — most parsimonious; compound morphology becoming opaque over time is extremely common in real languages |
+| Bimodality = Blizzard design convention | Short words for common vocabulary, long names for important lore characters, with no genuine morphological explanation | Moderate — design convenience is a strong confound in all WoW language analysis |
+
+**Confidence: Low–Moderate** for the observation of bimodality as linguistically significant (vs. design artifact); **Very Low–Low** for any specific decomposition of the extended suffixes.
+
 ## Syntax
 
 ### Word Order
@@ -93,3 +170,4 @@ Tentative observations:
 - The Draenei corpus provides cognate material but cannot substitute for direct Eredun attestation.
 - Demon names may belong to other demonic languages (Nathrezim, etc.), not Eredun.
 - The Eredar were a highly advanced civilization; their language likely had complex grammar, but no evidence of this survives in the WoW corpus.
+- No formal linguistic investigations were previously documented. **3 open linguistic investigations** have now been added: the *-oth* Pit Lord name suffix, the Dreadlord vs. Eredar name phonology split, and name-length bimodality with extended name suffixes.

@@ -107,6 +107,97 @@ The name *Echomok* (a cavern in Uldaman) may contain a reduplicative element *ec
 
 The exclamation *Kol-tharish*, yelled by Kologarn when killing a player, may decompose as *Kol* + *tharish*, but no glosses are available for either element. It may be a battle cry, a curse, or a ritual phrase. The hyphen suggests a compound.
 
+## Open Linguistic Investigations
+
+### Investigation 1: The *Uld-* Suffixal Paradigm — Functional Encoding of Facility Type
+
+The prefix *Uld-* appears in eight known titan facility names, each with a different suffixal element. The question is whether these suffixes encode the facility's function:
+
+| Facility | Suffix | Function | Pattern |
+|----------|--------|----------|---------|
+| *Ulduar* | *-uar* | Fortress/prison (largest complex) | /uːɑr/ — long vowel + /r/ |
+| *Uldum* | *-um* | Superweapon (origination device) | /ʌm/ — short vowel + nasal |
+| *Uldaman* | *-aman* | Vault (storage of Earthen, Discs) | /ɑmɑn/ — two-syllable |
+| *Uldir* | *-ir* | Research/quarantine facility | /ɪr/ — short vowel + rhotic |
+| *Uldis* | *-is* | Unknown function | /ɪs/ — short vowel + sibilant |
+| *Uldorus* | *-orus* | Keeper facility (Tyrhold) | /ɔrʌs/ — two-syllable with rhotic |
+| *Uldaz* | *-az* | Unknown function | /æz/ — short vowel + sibilant |
+| *Ulderoth* | *-eroth* | Alternate timeline | /ɛrɒθ/ — two-syllable with /θ/ |
+
+Three hypotheses:
+
+1. **Systematic functional encoding**: The suffixes are genuine Titan morphemes encoding facility function. If so:
+   - *-uar* = "fortress/prison" (long vowel + /r/ suggests permanence/defense)
+   - *-um* = "weapon/device" (nasal coda suggests creation/origination)
+   - *-aman* = "vault/repository" (two-syllable suggests enclosed storage)
+   - *-ir* = "research/laboratory" (shared *-ir* suffix with *Aesir*, *Vanir*?)
+   - *-is* = "monitoring/station" (sibilant coda)
+   - *-orus* = "keeper/residence" (rhotic + two syllables, parallel to *Val'kyr*?)
+   - *-az* = "unknown category" (could be related to *-ar* collective suffix?)
+   - *-eroth* = "alternate/projection" (/θ/ coda parallels Eredun *-oth*?)
+
+2. **Phonological templates without morphological significance**: The suffixes are phonologically distinct endings chosen for aesthetic variety rather than functional encoding. The different endings serve to distinguish facilities by name without encoding their function in the morphology.
+
+3. **Partial encoding**: Some suffixes are morphologically meaningful (*-ir* linking to *-ir* "being" → "research facility" as "the place where beings are studied"; *-um* as a nominalizer) while others are simply phonological variants.
+
+Assessment: Hypothesis 1 (Low–Moderate) — the number of distinct suffixes (8) is suspiciously large for pure coincidence, and *-ir* connecting to the *-ir* animate-being suffix is suggestive; however, the proposed semantic glosses are entirely speculative with no confirming evidence; Hypothesis 2 (Moderate) — Blizzard may simply have chosen phonologically distinct endings to make facility names recognizable and unique; Hypothesis 3 (Low–Moderate) — *-ir* is the strongest candidate for a genuine morpheme due to its established meaning as "being/place of beings."
+
+Confidence: Very Low–Low for systematic functional encoding; Low–Moderate for *-ir* as a potentially meaningful suffix in *Uldir*; Moderate for the observation of systematic suffixal variation.
+
+### Investigation 2: The *-ir* / *-vir* Animate-Being Suffix and Its Distribution
+
+The suffix *-ir* appears on three terms for types of titan-forged beings, plus one facility name and possibly one vessel name:
+
+| Name | Category | Decomposition | Suffix Form |
+|------|----------|---------------|-------------|
+| *Aesir* | Storm Giants | *Aes* (storm) + *-ir* | *-ir* |
+| *Vanir* | Earth Giants | *Van* (earth) + *-ir* | *-ir* |
+| *Tol'vir* | Stone cat-people | *Tol* + *-vir* | *-vir* |
+| *Uldir* | Titan facility | *Uld* + *-ir* | *-ir* |
+| *Midnir* | Vessel (of Tyr) | *Mid* + *-nir* | *-nir* |
+
+The variation *-ir* / *-vir* / *-nir* raises the question: are these allomorphs of the same suffix, or different morphemes?
+
+Three hypotheses:
+
+1. **Phonologically conditioned allomorphy**: *-ir* is the base form; *-vir* appears after certain consonants (possibly /l/ in *Tol* triggers epenthetic /v/); *-nir* appears in instrumental/vessel contexts. The /v/ in *Tol'vir* could be epenthetic — a vowel-consonant sequence inserted to break an impermissible cluster (*Tol-ir* → *Tol-v-ir*).
+
+2. **Different morphemes**: *-ir* = "giant/being" (*Aesir*, *Vanir*), *-vir* = "created/forged being" (*Tol'vir* — stone constructs, not born giants), *-nir* = "vessel/instrument" (*Midnir*). The semantic distinction between naturally occurring beings (giants) and constructed beings (stone cat-people) would be typologically natural for a Titan language that distinguishes creation types.
+
+3. **Same suffix with phonological erosion**: All three forms derive from a Proto-Titan *\*-wir* or *\*-nir*, with different daughter languages simplifying differently. *Aesir* and *Vanir* (via Common/Vrykul) lost the initial consonant, while *Tol'vir* (preserved in Uldum) retained it.
+
+Assessment: Hypothesis 1 (Low–Moderate) — epenthetic /v/ after /l/ is phonologically plausible but not strongly supported; Hypothesis 2 (Moderate) — the semantic distinction between born giants and forged constructs is coherent with Titan worldview; the Keeper-created Tol'vir being marked differently from naturally-occurring Aesir/Vanir is compelling; Hypothesis 3 (Very Low–Low) — requires assuming a proto-form without evidence.
+
+Confidence: Low–Moderate for *-ir* as a productive animate-being suffix; Moderate for the observation that *-vir* in *Tol'vir* is phonologically conditioned or semantically distinct from *-ir*; Very Low–Low for specific allomorphy rules.
+
+### Investigation 3: *Revola ruk maez amir* — Syntactic Analysis of the Only Attested Titan Phrase
+
+The only attested multi-word Titan phrase is spoken by Magni Bronzebeard to open the Primordial Observatory door:
+
+> **Revola ruk maez amir**
+
+No official translation exists. Five syntactic analyses are possible:
+
+**Analysis 1: VSO imperative** — *Revola* = verb ("open/reveal"), *ruk* = subject ("the door/gate"), *maez amir* = object ("of the observatory")
+> "Open the gate of the observatory"
+
+**Analysis 2: SOV formulaic** — *Revola* = noun ("vessel/speaker"), *ruk* = modifier ("great/first"), *maez* = verb ("commands/opens"), *amir* = object ("the way")
+> "The First Speaker commands the way"
+
+**Analysis 3: VSO with locative** — *Revola* = verb, *ruk* = direct object, *maez* = preposition ("to/into"), *amir* = locative noun
+> "Reveal [ruk] into [amir]"
+
+**Analysis 4: Noun-verb-noun-modifier template** — *Revola* = noun (speaker/vessel), *ruk* = verb (speaks/acts), *maez* = noun (the way/door), *amir* = adjective (first/great)
+> "The vessel acts [upon] the great way"
+
+**Analysis 5: Fixed ritual formula** — The phrase is an unanalyzable ritual formula, like Latin *open sesame* or *abracadabra*, whose individual words no longer carry independent meaning in the grammar. This is common for "password" phrases across world languages.
+
+The element *amir* is notable: it appears in Arabic as *amīr* ("commander/prince"), but this is likely a design coincidence rather than a genuine morphological connection. The element *maez* has no clear cross-linguistic parallel. *Ruk* could be related to the keeper name *Ra-den* (if *Ra* / *Ruk* = a divine/authoritative element), but this is highly speculative.
+
+Assessment: Analysis 1 (Low–Moderate plausibility for VSO) — VSO is a common word order for ritual/formulaic language; Analysis 5 (Moderate–High) — the phrase functions as a password/ritual formula, making it the most likely to be a fixed expression rather than productive syntax; all other analyses (Very Low–Low) — without a translation, any decomposition is speculative.
+
+Confidence: Very Low for any specific syntactic analysis; Low–Moderate for the observation that this is likely a formulaic/ritual utterance rather than evidence of productive Titan syntax.
+
 ## Syntax
 
 ### Word Order
@@ -219,5 +310,8 @@ If the apostrophe marks morpheme boundaries, stress may fall on the head (final)
 | *-dor* = "land" | Medium | Supported by confirmed gloss of *Kalimdor* |
 | *Khaz* = "forge/shape" | Low | Appears in 3+ names related to crafting, but no gloss confirmed |
 | *Val* = "chosen/valor" | Low | Pattern in Odyn-related terms, but may be Common-language convention |
-| Word order | None | Only one untranslated phrase available |
+| Word order | Very Low (Investigation 3) | Only one untranslated phrase; likely formulaic |
 | Phonological analysis | Low | Based on orthography only; no phonetic data |
+| *-oth* Pit Lord suffix | Very Low–Low | Three attestations in same semantic domain, but all could be design convention |
+| *-ir* / *-vir* animate-being suffix | Low–Moderate | Consistent across *Aesir*, *Vanir*, *Tol'vir*; *-vir* may be conditioned variant |
+| *Revola ruk maez amir* syntax | Very Low | Only one untranslated phrase; likely formulaic |

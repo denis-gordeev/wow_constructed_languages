@@ -105,6 +105,14 @@ No grammar, syntax, or extended text in Titan has been published by Blizzard. Th
 - The meanings of speculative morphemes (*Aes* = "storm," *Van* = "earth," *Gor* = "dark," *Tael* = "flame," *Shalach* = "rend," *Ribal* = "seether," *-ir* = "giant") are inferred, not confirmed.
 - Whether Norse-inspired Keeper names (*Odyn*, *Thorim*, etc.) are the actual Titan-language names or Common-language approximations is unknown.
 
+### Open Linguistic Investigations
+
+| # | Investigation | Confidence |
+|---|---------------|------------|
+| 1 | The *Uld-* suffixal paradigm — functional encoding of facility type | Very Low–Low (systematic encoding); Moderate (observation of suffixal variation) |
+| 2 | The *-ir* / *-vir* animate-being suffix and its distribution | Low–Moderate (productive suffix); Moderate (observation of *-vir* as conditioned variant) |
+| 3 | *Revola ruk maez amir* — syntactic analysis of the only attested Titan phrase | Very Low (specific analysis); Low–Moderate (formulaic/ritual utterance) |
+
 ### What is unknown
 
 - Syntax (word order, case marking, agreement).

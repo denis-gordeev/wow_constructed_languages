@@ -168,6 +168,78 @@ An alternative decomposition treats *-xx* (or *-x* = /x/ velar fricative) as the
 
 The parallel between *Colossus of Ashi* and *Hive'Ashi*, and between *Colossus of Zora* and *Hive'Zora*, suggests that *Ashi* and *Zora* are not personal names but regional or elemental designations. The English "of" in "Colossus of Ashi" may translate a qiraji genitive construction — *Ashi* is a place/element name, and "Colossus of Ashi" = "the Ashi-region Colossus." If so, *Ashi* and *Zora* would be among the few qiraji words with potential semantic content. **Confidence: Moderate** for the structural observation that *Ashi* and *Zora* are place/element designations; **Very Low** for specific glosses.
 
+## Open Linguistic Investigations
+
+### Investigation 1: The *Ahn-* Prefix as Shared Aqir Substrate Morpheme
+
+The prefix *Ahn-* appears in both qiraji and nerubian toponyms with the same structural pattern:
+
+| Name | Language | Function | Inferred Meaning |
+|------|----------|----------|------------------|
+| *Ahn'qiraj* | Qiraji | Major temple/fortress complex | "Sacred [place of the] Qiraj" |
+| *Ahn'kahet* | Nerubian | Dungeon ("The Old Kingdom") | "Old/ancient kingdom" |
+
+The structural parallel is exact: *Ahn-* + apostrophe + second morpheme, in both languages, both referring to a major settlement/structure of deep cultural significance.
+
+If *Ahn-* is a shared Aqir substrate morpheme inherited by both descendant languages, it would be the **second confirmed Aqir substrate morpheme** (after *Azj-* / *Nazj-*). The semantic gloss "old/ancient/sacred" is consistent with both attestations:
+- *Ahn'kahet* = "Old Kingdom" (matches in-game designation)
+- *Ahn'qiraj* = "Ancient Temple" or "Sacred [place of the] Qiraj"
+
+Four hypotheses for the *Ahn-* element:
+
+1. **Shared Aqir morpheme**: *Ahn-* was a genuine Aqir prefix meaning "old/ancient/sacred," inherited by both nerubian and qiraji after the Aqir empire split. This is the most linguistically interesting hypothesis.
+
+2. **Nerubian borrowing into qiraji**: *Ahn-* was originally a nerubian morpheme that was borrowed into qiraji when the Silithus qiraji needed a name for their temple complex. This would require cultural contact between the two species after their divergence.
+
+3. **Qiraji borrowing into nerubian**: The reverse — *Ahn-* was originally a qiraji morpheme borrowed into nerubian. Less likely given that the nerubian *Ahn'kahet* is in Northrend (pre-Scourge), far from Silithus.
+
+4. **Independent development / Blizzard design convention**: Both species independently developed an *Ahn-* element, or Blizzard simply reused the same phonological pattern for both "ancient" place names as a design choice. The Egyptian aesthetic shared by both species makes this a strong confound.
+
+Assessment: Hypothesis 1 (Low–Moderate) — the structural parallel is exact and semantically coherent, but only two attestations exist; Hypothesis 2 (Very Low–Low) — requires unlikely cultural contact between geographically separated species; Hypothesis 3 (Very Low) — even less likely than Hypothesis 2; Hypothesis 4 (Moderate–High) — the shared Egyptian design aesthetic is the strongest alternative explanation.
+
+Confidence: Low–Moderate for *Ahn-* as a shared Aqir substrate morpheme; Moderate–High for the structural parallel being a Blizzard design convention influenced by shared Egyptian aesthetics.
+
+### Investigation 2: The *-naxx* / *-axx* Suffix — Geminate Retention or *-xx* Core Suffix?
+
+Two qiraji names and three nerubian names share the *-naxx* / *-axx* / *-nax* / *-ax* ending:
+
+| Name | Language | Suffix Form |
+|------|----------|-------------|
+| *Kurinnaxx* | Qiraji | *-naxx* |
+| *General Rajaxx* | Qiraji | *-axx* |
+| *Ovi'nax* | Nerubian | *-nax* |
+| *Ulgrax* | Nerubian | *-ax* |
+| *Hadronox* | Nerubian | *-ox* |
+
+The qiraji forms consistently double the final consonant (*-naxx*, *-axx*) while the nerubian forms do not (*-nax*, *-ax*, *-ox*). Two competing analyses exist:
+
+**Analysis A: Geminate retention vs. simplification**
+
+Under this analysis, the Aqir proto-form had a geminate *-xx* /-xː/ (where *x* = /ks/ or /x/). Qiraji retained the geminate (*-naxx*, *-axx*), while nerubian simplified it (*-nax*, *-ax*). This would be the first regular sound correspondence established between two Aqir-descended languages.
+
+If *x* = /ks/: *-naxx* = /næksks/ — phonologically awkward but possible
+If *x* = /x/ (velar fricative): *-naxx* = /næxː/ — phonologically natural geminate fricative
+
+The /x/ interpretation is strongly preferred: geminate fricatives are typologically natural (cf. Arabic *Allah* /ʔalːɑh/ with geminate /l/), while /ksks/ is a highly marked cluster.
+
+**Analysis B: *-xx* core suffix with *-n-* and *-a-* as linking elements**
+
+Under this analysis, the core suffix is *-x* = /x/ (velar fricative), and the *-n-* and *-a-* are linking elements:
+- *Kurinnaxx* = *Kurinn-* + *-a-* + *-xx* (stem + linking vowel + rank suffix)
+- *Rajaxx* = *Raj-* + *-a-* + *-xx* (stem + linking vowel + rank suffix)
+- *Ovi'nax* = *Ovi'* + *-n-* + *-ax* (stem + linking consonant + rank suffix)
+- *Ulgrax* = *Ulgr-* + *-ax* (stem + rank suffix)
+
+This analysis is more elegant in accounting for the *-naxx*/*-axx* alternation: the *-n-* appears when the preceding stem ends in a vowel (*Ovi'* → *Ovi'nax*), and is absent when the stem ends in a consonant (*Ulgr-* → *Ulgrax*). The linking vowel *-a-* appears consistently in qiraji but not in nerubian.
+
+**Assessment:**
+
+Analysis A (Low–Moderate confidence) — the qiraji–nerubian geminate correspondence is consistent and phonologically motivated if *x* = /x/; it would establish the first regular sound correspondence between Aqir-descended languages.
+
+Analysis B (Very Low–Low confidence) — the linking-element decomposition is more elegant but more speculative; it requires assuming *-x* is a rank suffix, which has only circumstantial support.
+
+**Overall confidence: Low–Moderate** for *-naxx*/*-nax* as a genuine shared suffix (whether geminate retention or core suffix); **Moderate** for the observation that qiraji systematically doubles the final consonant where nerubian does not.
+
 ## Syntax
 
 - No sentence-level attestation exists
@@ -203,3 +275,5 @@ No verb forms, particles, or syntactic structures are known. The confirmed morph
 5. Intensive reduplication in *Sarsarun* (very low–low confidence, single attestation; intensive interpretation fits Prince title)
 6. *-un* suffix (very low confidence, single attestation)
 7. *Ashi* / *Zora* as regional/elemental designations (moderate confidence for structural observation)
+
+**2 open linguistic investigations** have been added: the *Ahn-* prefix as shared Aqir substrate morpheme, and the *-naxx*/*-axx* suffix — geminate retention or core suffix analysis.

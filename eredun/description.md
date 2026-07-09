@@ -99,6 +99,14 @@ However, no complete Eredun sentences are attested outside of spell incantations
 - Whether *Mac'Aree* carries a meaning in Eredun (possibly "beloved" or "sanctuary").
 - The phonological analysis, which is based solely on English-language orthography.
 
+### Open Linguistic Investigations
+
+| # | Investigation | Confidence |
+|---|---------------|------------|
+| 1 | The *-oth* Pit Lord name suffix | Very Low–Low |
+| 2 | Dreadlord vs. Eredar name phonology — two sub-languages? | Moderate–High (observation); Low–Moderate (Hypothesis 2) |
+| 3 | Name-length bimodality and extended name suffixes | Low–Moderate (observation); Very Low–Low (decomposition) |
+
 ### What is unknown
 
 - Syntax (word order, case marking, agreement).

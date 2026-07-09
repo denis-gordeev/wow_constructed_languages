@@ -104,6 +104,7 @@ No complete Pandaren sentences are attested. Pandaren NPCs speak Common in-game.
 | Celestial names | 4 | *Chi-Ji*, *Niuzao*, *Xuen*, *Yu'lon* |
 | Confirmed morphemes | 0 | No Pandaren morpheme has independent confirmation |
 | Inferred morphemes | 4 | *-jin* ("way/people"?), *-shui* ("water/flow"?), *-shan* ("mountain/palace"?), *-lao* ("venerable/old"?) |
+| Open linguistic investigations | 1 | *-jin* element — Zandali borrowing or native Pandaren? (Very Low–Low for native; Low–Moderate for borrowing; Moderate–High for design coincidence) |
 | Attested phrases with translations | 0 | No Pandaren phrases have confirmed translations |
 | Attested sentences with full glosses | 0 | No Pandaren sentences are attested |
 

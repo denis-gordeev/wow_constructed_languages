@@ -88,6 +88,7 @@ Aqir (unattested; Old God-created insectoid race)
 | Additional patterns | 4 | *-un* suffix (single attestation), *Ashi*/*Zora* as regional/elemental designations, alternative *-xx* core suffix analysis (vs. *-naxx*), intensive reduplication in *Sarsarun* |
 | Morphological patterns identified | 7 | See [grammar.md](grammar.md#limitations) for full list with confidence ratings |
 | Attested phrases with translations | 0 | No qiraji phrases have confirmed translations |
+| Open linguistic investigations | 2 | *Ahn-* prefix as shared Aqir substrate morpheme (Low–Moderate); *-naxx*/*-axx* suffix — geminate retention or core suffix (Low–Moderate) |
 | Attested sentences with full glosses | 0 | No qiraji sentences are attested |
 
 ## Reliability Notes
