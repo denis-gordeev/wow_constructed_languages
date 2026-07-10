@@ -95,3 +95,6 @@ Shalassian writing is depicted in-game on structures such as Astromancer's Rise.
 | 1 | The *-assian* Suffix | Language-naming morpheme or Common rendering convention? Closely parallels English *-ian/sian*; no native attestation of the suffix | Moderate–High for Common rendering |
 | 2 | The *An-/An'* Prefix | Appears in 6+ phrases across spells, greetings, and combat; invocation/optative marker preferred; potential Darnassian *anar* cognate | Low–Moderate |
 | 3 | The *Fal-* and *Tel-* Root Pair | *Fal-* = "fallen/cursed" (3 attestations); *Tel-* = "deep/far" (5 attestations); possible *Fal-*/falah Darnassian cognate | Moderate for *Fal-*; Low–Moderate for *Tel-* |
+| 4 | The *Rath* Spell Family | *Rath* → *Rath-domaas* → *Rath-anu'tanos*: progressive phonological complexity mirroring spell power; potential *anu* definite article in *Rath-anu'tanos*; only attested derivational paradigm | Low–Moderate |
+| 5 | The *-dora* Suffix | "Grace/thanks" in *Erana-dora* ("thousand-thanks"); *-adora* in *Fal'adora* may show linking vowel; potential Darnassian *-dor*/*-dorah* cognate | Low–Moderate |
+| 6 | *Tor ilisar'thera'nal* | Shared Highborne formula used by Thalyssra; officially Darnassian but "ancient"; *ther-* root extends Set 19 to Shalassian | Moderate for shared formula |

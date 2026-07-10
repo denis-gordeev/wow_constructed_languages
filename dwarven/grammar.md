@@ -341,3 +341,126 @@ This requires no RPG source but leaves *Bael Modan* without a confirmed translat
 | *Bael-* = polysemous "red/earth" | Very Low–Low | Cross-linguistic parallels exist but single morpheme with dual meaning requires more evidence |
 
 **Confidence: Low–Moderate** for either "red" or "stone" as the primary meaning. The resolution depends on whether the RPG translation of *Bael Modan* is accepted as reflecting Blizzard's design intent. The strongest argument for "stone/earth" is *Baelgrim*'s identity as an Earthen (literally stone beings); the strongest argument for "red" is the explicit RPG translation. Testable if a Blizzard source confirms or denies the *Bael Modan* translation, or if a new *Bael-* name appears with a confirmed translation.
+
+## Investigation 4: The *-modan* / *Modr* Toponymic Suffix Relationship
+
+Three Dwarven/Earthen toponyms share the root *Mod-* with divergent endings:
+
+### Evidence Table
+
+| Place Name | Context | Decomposition | Notes |
+|-----------|---------|---------------|-------|
+| *Khaz Modan* | Dwarven homeland (Eastern Kingdoms) | *Khaz* + *Modan* | Confirmed translation: "Mountain of Khaz" |
+| *Thor Modan* | Iron dwarf capital (Grizzly Hills) | *Thor* + *Modan* | Pre-TWW attestation; iron dwarf city |
+| *Dun Modr* | Former Dwarven fortress (Wetlands) | *Dun* + *Modr* | Pre-TWW attestation; abandoned fortress |
+
+### The Allomorphy Question
+
+If *-modan* and *-modr* are allomorphs of the same morpheme, this would be a productive Dwarven toponymic suffix — the third after *-dun* and *-gaz*. The phonological alternation /moʊdæn/ ↔ /moʊdər/ shows:
+
+- Identical onset and nucleus: /m/, /oʊ/, /d/
+- Divergent codas: /æn/ vs. /ər/
+- The /n/ ↔ /r/ alternation parallels the *-an* / *-ar* pattern seen in personal vs. toponymic suffixes in Orcish (*Durotan* / *Durotar*)
+
+### Four Hypotheses
+
+**Hypothesis 1: *-modan* and *-modr* Are Allomorphs of a Toponymic Suffix**
+
+If *-modan* / *-modr* = "mountain" or "kingdom/fortress," the alternation may be phonologically or morphologically conditioned:
+- *-modan* = full form used in two-element compounds (*Khaz Modan*, *Thor Modan*)
+- *-modr* = reduced form used as suffix after *Dun-* (which already provides the "fortress" meaning, making *-modan* redundant in its full form)
+
+The /n/ → /r/ change could reflect a rhoticization process in word-final position after stress shift, or could be analogized from the productive *-dar* / *-dor* suffix. If *-modr* = *-mod* + *-r* (where *-r* is a reduced form of *-dar*), then *Dun Modr* = "Fortress of the Mountain-Land" — a tautological compound parallel to *Khaz Modan* = "Mountain of Khaz."
+
+**Hypothesis 2: *-modan* and *-modr* Are Different Morphemes**
+
+*-modan* = "mountain/kingdom" (as confirmed in *Khaz Modan*) while *Modr* is a proper name element unrelated to *-modan*. The phonological similarity is coincidental, and *Dun Modr* simply means "Modr Fortress" where *Modr* is a person's or clan's name.
+
+**Hypothesis 3: Both Derive from a Shared Root *\*mod-* with Different Suffixes**
+
+*\*mod-an* = "great/central place" (*-an* = place suffix) and *\*mod-r* = "fortress/hold" (*-r* = reduced *-dar* land suffix). The shared root *\*mod-* would mean "great" or "central" — consistent with *Khaz Modan* as the central kingdom of the Dwarves and *Thor Modan* as the iron dwarf capital.
+
+**Hypothesis 4: *-modan* Derives from Titan *-dor* via Regular Sound Change**
+
+If the development chain is *-dor* → *-modor* (with *m-* prefix) → *-modan* (vowel raising /ɔ/ → /æ/), then *-modan* is the Dwarven reflex of the Titan toponymic suffix *-dor*. This would make *-modan* cognate with *-dar* (in *Beledar*, *Mereldar*) and *Dhar-* (prefix form), completing the *-dor* / *-dar* / *Dhar-* / *-modan* allomorph paradigm across the titan-forged family.
+
+| Form | Language | Meaning | Attestations |
+|------|----------|---------|-------------|
+| *-dor* | Titan | Land/realm | *Kalimdor*, *Nordrassil* (base) |
+| *-dar* | Earthen/Dwarven | Land/realm | *Beledar*, *Mereldar*, *Dun Baldar* |
+| *Dhar-* | Earthen (prefix) | Peak/mountain | *Dhar Oztan*, *Dhar Kazhad*, etc. |
+| *-modan* | Dwarven | Mountain/kingdom | *Khaz Modan*, *Thor Modan* |
+| *-modr* | Dwarven (reduced) | Fortress | *Dun Modr* |
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| *-modan*/*-modr* allomorphs | Low–Moderate | /n/ ↔ /r/ alternation parallels Orcish; *Dun Modr* reduction is plausible |
+| Different morphemes | Low | Requires phonological coincidence; less parsimonious |
+| Shared root *\*mod-* | Low–Moderate | Compatible with all three attestations; semantic coherence |
+| *-modan* from Titan *-dor* | Very Low–Low | Requires *m-* prefix insertion and vowel change not independently attested |
+
+**Confidence: Low–Moderate** that *-modan* and *-modr* reflect the same morpheme. The strongest argument is the three independent attestations of *ModVn/ModVr* in toponymic contexts, all meaning "mountain/kingdom/fortress." The weakest is the /n/ ↔ /r/ alternation, which is not independently attested in Dwarven but parallels the Orcish *-an* / *-ar* personal/toponymic alternation. The potential connection to Titan *-dor* is intriguing but requires sound changes not confirmed elsewhere. Testable if a fourth *ModVn/ModVr* toponym is found, or if *-modan* appears in a non-toponymic context.
+
+## Investigation 5: The *-grim* Element Across the Titan-Forged Family
+
+The element *-grim* appears in personal and place names across four titan-forged languages:
+
+### Evidence Table
+
+| Name | Language | Context | Proposed *-grim* Meaning |
+|------|----------|---------|--------------------------|
+| *Baelgrim* | Earthen (TWW) | Stormward (military leader) | "Stone-fierce" or "Red-fierce" (cf. Investigation 3) |
+| *Bjarngrim* | Vrykul (WotLK) | NPC in Howling Fjord | ON *bjǫrn* "bear" + *grímr* "mask/helmet" |
+| *Grim Batol* | Dwarven | Fortress in Wetlands | *Grim* = "dark/stern" (inferred) |
+| *Orgrim* | Orcish | Historical Warchief | *-grim* element (uncertain meaning) |
+
+### Norse/Germanic Design Context
+
+The *-grim* element has clear Old Norse parallels:
+- ON *grímr* = "mask, helmet" (also a byname for Odin)
+- ON *grimmr* = "fierce, grim, cruel"
+- Both forms appear in Norse personal names: *Grimr*, *Asgrimr*, *Hrossþjófrgrimr*
+
+The concentration of *-grim* in Vrykul and Earthen names is consistent with Blizzard's Norse/Germanic design aesthetic for titan-forged races. The question is whether this reflects in-universe linguistic inheritance or out-of-universe design convergence.
+
+### Four Hypotheses
+
+**Hypothesis 1: *-grim* Is a Shared Titan-Forged Morpheme**
+
+*-grim* was a morpheme in the Titan language meaning "fierce/warrior" that was inherited by all titan-forged races:
+- Vrykul *Bjarngrim* = "Bear-fierce" (genuine compound)
+- Earthen *Baelgrim* = "Stone-fierce" (genuine compound)
+- Dwarven *Grim Batol* = "Fierce Hold" (genuine compound)
+- Orcish *Orgrim* = borrowing from Dwarven/Vrykul during the First/Second War
+
+This would make *-grim* the third shared titan-forged morpheme alongside *Khaz* (forge) and *Uld-* (city), and the first shared personal-name element.
+
+**Hypothesis 2: *-grim* Reflects Independent Norse Design Aesthetics**
+
+Blizzard designed names for Vrykul, Earthen, and Dwarven races using Old Norse/Germanic naming conventions, and *-grim* independently appeared in each because it is a common Norse name element. The in-universe similarity is a design artifact, not a linguistic connection. Under this analysis:
+- Each *-grim* is an independent coinage inspired by ON *grímr/grimmr*
+- Orcish *Orgrim* is also Norse-inspired (Orcish names draw from multiple real-world traditions)
+
+**Hypothesis 3: *-grim* Is Shared Only Among Titan-Forged Languages (Excluding Orcish)**
+
+*-grim* is genuinely inherited from Titan in Vrykul, Earthen, and Dwarven, but Orcish *Orgrim* is coincidental or has a different etymology. Orcish has no confirmed genetic relationship to the titan-forged family (Orcs originate from Draenor, not Azeroth). If *Orgrim* = *Or* + *-grim* in Orcish, the *-grim* could be:
+- A borrowing from Dwarven during the First/Second War (Orcs and Dwarves had extensive contact)
+- A coincidental homophone in Orcish
+- Part of a different morphological system (Orcish *-grim* may relate to *Grom-* rather than the Norse *grim*)
+
+**Hypothesis 4: *-grim* Is a Blizzard Internal Naming Template**
+
+Blizzard's naming team uses *-grim* as a template element for "fierce/warrior" characters across all races, similar to how *-dor* is used for "land" in titan-forged names. This is a meta-linguistic pattern rather than an in-universe morpheme, but it may intentionally reflect a shared titan-forged heritage.
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| Shared titan-forged morpheme | Very Low–Low | Requires Orcish borrowing; *-grim* too common in Norse names for confidence |
+| Independent Norse design | Moderate–High | Most parsimonious; matches Blizzard's documented design approach |
+| Shared only among titan-forged (excl. Orcish) | Low–Moderate | More constrained; *Bjarngrim*/*Baelgrim*/*Grim Batol* could reflect shared heritage |
+| Blizzard naming template | Moderate | Consistent with internal design practices; may overlap with Hypothesis 2 |
+
+**Confidence: Moderate–High** that the *-grim* concentration reflects Norse design aesthetics rather than genuine in-universe linguistic inheritance. The strongest argument is the direct ON etymology (*grímr/grimmr*) and Blizzard's well-documented use of Norse naming for titan-forged races. However, **Low–Moderate** confidence for a genuine titan-forged morpheme connection between Vrykul, Earthen, and Dwarven specifically (excluding Orcish) — the structural parallel (*Noun + -grim* in personal names and *Grim + Noun* in place names) is consistent across three languages. The Orcish *Orgrim* is most likely independent or borrowed. Testable if a *-grim* name appears in a titan-forged language with a confirmed translation that contradicts "fierce/warrior."

@@ -356,3 +356,178 @@ The *Fal-* / *falah* correspondence is the most promising: both share /f/ + low 
 ### Assessment
 
 **Confidence: Moderate** for *Fal-* = "fallen/cursed" (3 attestations with consistent semantic context). **Confidence: Low–Moderate** for *Tel-* = "deep/far" (5 attestations but more varied contexts). **Confidence: Very Low–Low** for *Fal-*/falah cognate. The structural productivity of both roots (appearing in names, places, and formulas) is unusual for elven morphemes and may reflect Shalassian-specific innovation under the Nightwell's influence.
+
+## Investigation 4: The *Rath* Spell Family — First Attested Shalassian Derivational Paradigm?
+
+Three attested spell incantations share the *Rath* root, forming a potential derivational paradigm:
+
+### Evidence Table
+
+| Form | Syllables | Spell Function | Speaker | Power Level |
+|------|-----------|---------------|---------|-------------|
+| *Rath* | 1 | Arcane missiles (basic) | First Arcanist Thalyssra | Base |
+| *Rath-domaas* | 2 | Arcane missiles (empowered) | First Arcanist Thalyssra | Enhanced |
+| *Rath-anu'tanos* | 3–4 | Arcane shield explosion | First Arcanist Thalyssra | Maximum |
+
+### Structural Observations
+
+1. **Progressive phonological complexity**: 1 syllable → 2 syllables → 3–4 syllables, mirroring progressive spell power.
+2. **Hyphen marking**: *Rath-domaas* and *Rath-anu'tanos* use hyphens, not apostrophes, to join elements. This contrasts with apostrophe-marked morpheme boundaries in *Shal'dorei*, *Fal'adora*, *Tel'anor*. The hyphen may mark a different type of compounding — perhaps "tighter" or more syntactic than morphological.
+3. **Potential *anu* element**: *Rath-anu'tanos* contains *anu*, which in Darnassian and Thalassian is the definite article ("the"). If *Rath-anu'tanos* = *Rath* + *anu* + *tanos*, the structure could be "strike-the-[explosion]" — a definite noun phrase embedded in a spell formula. However, *anu* in Shalassian has not been independently attested as a definite article.
+4. **All forms spoken by the same speaker**: Thalyssra is the sole attested user of all three *Rath* forms. This may reflect her personal spell vocabulary rather than a productive Shalassian morphological paradigm.
+
+### Three Hypotheses
+
+**Hypothesis 1: *Rath* Is a Productive Spell-Root with Derivational Suffixes**
+
+If *Rath* = "strike/force/arcane bolt," then *-domaas* and *-anu'tanos* are derivational suffixes that modify the base effect:
+- *Rath* = "strike" (base)
+- *Rath-domaas* = "strike-[intensifier]" → "empowered strike"
+- *Rath-anu'tanos* = "strike-the-[explosive]" → "the strike of explosion"
+
+This would make *Rath* the first attested Shalassian verb-like root with a confirmed derivational paradigm. The suffixes *-domaas* and *-tanos* would be the first identified Shalassian derivational morphemes beyond *-dorei* and *-assian*.
+
+**Hypothesis 2: *Rath* Is a Fixed Ritual Formula with Frozen Compounds**
+
+The three *Rath* forms may be frozen ritual formulas learned as fixed units, not productively generated. The suffixes *-domaas* and *-anu'tanos* may have been meaningful in Highborne Darnassian but are no longer decomposable in modern Shalassian. This is parallel to how Latin *abra-cadabra* survives as a fixed formula in English without productive morphology.
+
+**Hypothesis 3: *Rath* Forms Reflect Game Mechanics, Not Linguistics**
+
+The three *Rath* forms may reflect Blizzard's game design (tiered spell names) rather than in-universe linguistics. The progression *Rath* → *Rath-domaas* → *Rath-anu'tanos* mirrors typical game spell tiering (e.g., *Fireball* → *Greater Fireball* → *Meteor Strike*), and the hyphenated forms may simply be Blizzard's naming convention for spell variants.
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| *Rath* = productive spell-root with derivational suffixes | Low–Moderate | Best linguistic analysis; *anu* cross-reference strengthens case |
+| *Rath* = frozen ritual formula | Low–Moderate | Plausible for a magical tradition; parallels real-world ritual language |
+| *Rath* = game mechanics | Moderate | Most parsimonious for game design; does not exclude linguistic analysis |
+
+**Confidence: Low–Moderate** for *Rath* as a genuine derivational paradigm. The strongest argument is the structural consistency (base → base + suffix₁ → base + suffix₂ with progressive power). The weakest is the single-speaker attestation and the possibility of game-mechanic naming. The potential *anu* element in *Rath-anu'tanos* provides a cross-reference to the Darnassian/Thalassian definite article, which would be significant if confirmed. Testable if additional spell families with similar *Root + suffix* patterns are discovered, or if *-domaas* or *-tanos* appear independently.
+
+## Investigation 5: The *-dora* Suffix — "Grace" or "Thanks"?
+
+The element *-dora* appears in two Shalassian words with different compound structures:
+
+### Evidence Table
+
+| Word | Translation | Structure | Notes |
+|------|------------|-----------|-------|
+| *Erana-dora* | "thousand-thanks" (in *Erana-dora isil*) | *Erana* + *-dora* (hyphen-joined) | Confirmed translation: "a thousand thanks upon you" |
+| *Fal'adora* | Temple beneath Falanaar | *Fal'* + *adora* (apostrophe-joined) | No confirmed translation; temple of the fal'dorei |
+
+### Key Observation: *-dora* vs *-adora*
+
+The two attestations show different surface forms: *-dora* (after hyphen) vs *-adora* (after apostrophe). Three structural analyses explain this:
+
+1. **Vowel-initial allomorphy**: *-dora* is the base form; *-adora* includes a linking vowel /a/ inserted when the preceding morpheme ends in a consonant (*Fal* → *Fal'a* + *dora* → *Fal'adora*). After vowel-final *Erana*, no linking vowel is needed (*Erana-dora*).
+
+2. **Different morpheme boundaries**: *Fal'adora* = *Fal'* + *adora*, where *-adora* is the full suffix and *-dora* in *Erana-dora* is a reduced form after the long vowel sequence of *Erana*.
+
+3. **No shared morpheme**: The *-dora* in *Erana-dora* and the *-adora* in *Fal'adora* are different elements that happen to share phonological material.
+
+### Relationship to Darnassian *-dor* / *-dorah*
+
+If *-dora* = "grace/thanks," this could connect to the well-attested Darnassian *-dor* / *-dorah* morpheme family:
+
+| Form | Language | Proposed Meaning | Attestations |
+|------|----------|-----------------|-------------|
+| *-dor* | Darnassian | Crown / world-tree base | *Teldrassil*, *Nordrassil*, *Amirdrassil* |
+| *-dorah* | Darnassian/Thalassian | Honor / valor (nominalized via *-ah*) | *Anu Dorah*, *Thas'dorah*, *Shan'dorah* |
+| *-dora* | Shalassian | Grace / thanks | *Erana-dora*, *Fal'adora* |
+
+If *-dora* derives from *-dor* + *-a* (adjectival suffix), the semantic chain would be: *dor* "crown" → *dorah* "that which is crowned/honored" → *dora* "graced/blessed" → "thanks." This would extend the *-dor* morpheme family into Shalassian with a specialized meaning.
+
+### Cross-Reference: Darnassian *Anu'dora*
+
+The Darnassian exclamation *Anu'dora!* (appearing in memorial/ritual contexts) contains the same *-dora* element. If *Anu'dora* = "The grace!" (parallel to *Anu Dorah* = "The honor"), this would be a fourth attestation of *-dora* across two elven languages — a significant cross-linguistic cognate.
+
+### Three Hypotheses
+
+**Hypothesis 1: *-dora* = "grace/thanks" (shared Shalassian morpheme)**
+
+*-dora* is a genuine Shalassian suffix meaning "grace" or "thanks," appearing after both hyphens and apostrophes. *Erana-dora* = "thousand-grace" and *Fal'adora* = "fallen-grace" (a ruined temple that was once a place of grace). The linking vowel /a/ in *-adora* is phonologically conditioned.
+
+**Hypothesis 2: *-dora* is related to Darnassian *-dor* / *-dorah***
+
+*-dora* in Shalassian derives from Proto-Elven *-dor* via regular sound change (rhotic + vowel → rhotic + vowel, with the final *-a* possibly reflecting the *-ah* suffix). The meaning "grace/thanks" would be a Shalassian semantic innovation from Proto-Elven "crown/honor." This would be the first confirmed *-dor* reflex in Shalassian.
+
+**Hypothesis 3: *-dora* in *Erana-dora* and *Fal'adora* are different elements**
+
+The *-dora* in *Erana-dora* means "thanks" (from the confirmed translation), but *-adora* in *Fal'adora* may be a different morpheme (perhaps "temple" or "sanctuary," related to *-ador* or a different root). The phonological similarity is coincidental.
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| *-dora* = "grace/thanks" (shared morpheme) | Low–Moderate | Best explanation for *Erana-dora* confirmed translation; *Fal'adora* semantic fit is reasonable |
+| *-dora* related to Darnassian *-dor*/*-dorah* | Very Low–Low | Requires assuming *-dor* + *-a* adjectival suffix; semantic shift "crown" → "grace" is plausible but unconfirmed |
+| Different elements (coincidence) | Low | Possible but requires independent origin of phonologically identical element |
+
+**Confidence: Low–Moderate** for *-dora* as a genuine Shalassian morpheme meaning "grace/thanks." The strongest argument is the confirmed translation of *Erana-dora* as "thousand-thanks," which directly implies *-dora* = "thanks" if *Erana* = "thousand." The weakest argument is the *-adora* vs *-dora* alternation, which requires assuming phonological conditioning not independently attested. The potential Darnassian cognate *Anu'dora* provides cross-linguistic support. Testable if a third *-dora* attestation is found, or if *-adora* appears in a non-*Fal* context.
+
+## Investigation 6: *Tor ilisar'thera'nal* — Shared Highborne Formula or Shalassian Phrase?
+
+The phrase *Tor ilisar'thera'nal* is officially classified as Darnassian in-game but is spoken by First Arcanist Thalyssra, leader of the Nightborne. It is described as "ancient." This creates a linguistic puzzle: is it a Darnassian phrase used by a Shalassian speaker, or a shared pre-Sundering formula that belongs to both languages?
+
+### Evidence
+
+| Feature | Analysis |
+|---------|----------|
+| In-game classification | Darnassian (language parser) |
+| Speaker | Thalyssra (Nightborne/Shalassian) |
+| Translation | "Let them beware" / "Beware" (confirmed) |
+| Description | "Ancient" battle cry |
+| Morphological structure | *Tor* + *ilisar* + *thera'nal* (three elements with two apostrophe boundaries) |
+
+### Morphological Decomposition
+
+The confirmed translation "beware" is attributed to *thera'nal*, based on the *ther-* root:
+
+| Element | Proposed Gloss | Cross-References |
+|---------|---------------|-----------------|
+| *Tor* | "by" / emphatic / preposition | Darnassian *Tor falah-no dorah* — *Tor* appears phrase-initial in both |
+| *ilisar* | Unknown (possibly "they" or "all") | No clear cognates; *-isar* may relate to *ilisar* in other contexts |
+| *thera'nal* | "beware" (confirmed) | *ther-* root: Darnassian *thera* ("beware"), Nazja *thero* (battle cries) |
+
+The *ther-* element is documented in elven-comparative.html Set 19 as a cross-elven root meaning "beware/battle/strife," appearing in both Darnassian and Nazja. Its presence in *Tor ilisar'thera'nal* is consistent with this cognate set.
+
+### Three Hypotheses
+
+**Hypothesis 1: Shared Highborne Ritual Formula**
+
+*Tor ilisar'thera'nal* predates the Sundering and was used by the Highborne of Suramar before the city was sealed. Both Darnassian night elves and Shalassian Nightborne preserve it as a ritual battle cry — analogous to how Latin phrases (*Carthago delenda est*, *E pluribus unum*) survive in multiple modern European languages. The in-game "Darnassian" classification reflects the game's language parser, not a linguistic judgment.
+
+Supporting evidence:
+- Thalyssra was a Highborne before the Sundering; she would know pre-Sundering Darnassian
+- The phrase is described as "ancient," suggesting it predates the language split
+- Nightborne culture preserves many Highborne traditions unchanged after 10,000 years of isolation
+- The *ther-* root appears in Darnassian, Nazja, and now potentially Shalassian — consistent with a pre-divergence root
+
+**Hypothesis 2: Genuinely Shalassian Phrase**
+
+The phrase is natively Shalassian and the in-game classification as "Darnassian" is incorrect or reflects the parser's inability to distinguish the two languages. Shalassian and Darnassian share enough vocabulary that the parser would classify Shalassian speech as Darnassian.
+
+Supporting evidence:
+- Thalyssra speaks it in a Shalassian context (Nightborne battle scenario)
+- The *ther-* root could be native to Shalassian via inheritance from Highborne
+- The game's language parser is a game-mechanic overlay, not a linguistic classifier
+
+**Hypothesis 3: Code-Switched Darnassian**
+
+Thalyssra deliberately uses a Darnassian phrase, code-switching into her ancestral language for the battle cry. This would be analogous to a modern Italian speaker using Latin for a formal proclamation.
+
+Supporting evidence:
+- Thalyssra is over 10,000 years old and would know Darnassian
+- Battle cries are commonly delivered in archaic or foreign languages for dramatic effect
+- The in-game "Darnassian" classification may be accurate
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| Shared Highborne formula | Moderate | Best explanation for "ancient" description and cross-language use |
+| Genuinely Shalassian | Low–Moderate | Possible; game parser is not a reliable linguistic classifier |
+| Code-switched Darnassian | Low–Moderate | Plausible but less parsimonious than shared formula |
+
+**Confidence: Moderate** that *Tor ilisar'thera'nal* is a shared Highborne ritual formula preserved in both Darnassian and Shalassian. The strongest argument is the "ancient" description and the fact that it was used by a Highborne (Thalyssra) in a Nightborne context. The *ther-* root provides an independent cross-elven cognate (Set 19) that strengthens the case for pre-divergence inheritance. This would make *ther-* the fourth confirmed Proto-Elven root with reflexes in three or more elven languages (alongside *-dorei*, *Elun-*, and *anu*). Testable if additional shared battle cries or ritual formulas are found in both Darnassian and Shalassian.
