@@ -531,3 +531,186 @@ Supporting evidence:
 | Code-switched Darnassian | Low–Moderate | Plausible but less parsimonious than shared formula |
 
 **Confidence: Moderate** that *Tor ilisar'thera'nal* is a shared Highborne ritual formula preserved in both Darnassian and Shalassian. The strongest argument is the "ancient" description and the fact that it was used by a Highborne (Thalyssra) in a Nightborne context. The *ther-* root provides an independent cross-elven cognate (Set 19) that strengthens the case for pre-divergence inheritance. This would make *ther-* the fourth confirmed Proto-Elven root with reflexes in three or more elven languages (alongside *-dorei*, *Elun-*, and *anu*). Testable if additional shared battle cries or ritual formulas are found in both Darnassian and Shalassian.
+
+## Investigation 7: The Greeting/Farewell System — Register Variation and Morphological Structure
+
+Shalassian has the largest attested formulaic phrase corpus of any WoW elven language: 6 greetings and 4 farewells, all untranslated. This corpus permits analysis of both morphological structure and sociolinguistic register.
+
+### Speaker-Correlated Distribution
+
+A striking pattern emerges when phrases are sorted by speaker status:
+
+**Named characters (elite register):**
+
+| Phrase | Direction | Speakers | Status |
+|--------|-----------|----------|--------|
+| *Anar'amenos* | Greeting | Chief Telemancer Oculeth | High-ranking arcanist |
+| *Aran'arcana* | Greeting / Farewell | First Arcanist Thalyssra, Silgryn, Arcanist Valtrois | Leadership / nobility |
+| *Shal'asan torah* | Greeting | Arcanist Valtrois | High-ranking arcanist |
+| *An'ratha ador* | Farewell | Silgryn, First Arcanist Thalyssra | Leadership / resistance |
+| *Tel'velath* | Farewell | Chief Telemancer Oculeth | High-ranking arcanist |
+
+**Generic Nightborne NPCs (common register):**
+
+| Phrase | Direction | Speakers | Status |
+|--------|-----------|----------|--------|
+| *Ash'thoras denil* | Greeting | Nightborne NPCs | Generic |
+| *Ishnal toreth* | Greeting | Nightborne NPCs | Generic |
+| *Tenu'balah* | Greeting | Nightborne NPCs | Generic |
+| *Kal'theros maldin* | Farewell | Nightborne NPCs | Generic |
+| *Nor'bethos Suramar* | Farewell | Nightborne NPCs | Generic |
+
+The split is near-perfect: named characters use unique or shared-elite phrases, while generic NPCs use a distinct set of common phrases. Only *Aran'arcana* bridges both registers (used by named characters but apparently understood broadly).
+
+### Morphological Structure
+
+**Greetings** show mixed structural patterns:
+
+| Phrase | Structure | Word Count | Apostrophe |
+|--------|-----------|------------|------------|
+| *Anar'amenos* | Compound | 1 | Yes |
+| *Aran'arcana* | Compound | 1 | Yes |
+| *Ash'thoras denil* | Compound + word | 2 | Yes |
+| *Ishnal toreth* | Word + word | 2 | No |
+| *Shal'asan torah* | Compound + word | 2 | Yes |
+| *Tenu'balah* | Compound | 1 | Yes |
+
+**Farewells** prefer two-word phrases:
+
+| Phrase | Structure | Word Count | Apostrophe |
+|--------|-----------|------------|------------|
+| *An'ratha ador* | Compound + word | 2 | Yes |
+| *Kal'theros maldin* | Compound + word | 2 | Yes |
+| *Nor'bethos Suramar* | Compound + proper noun | 2 | Yes |
+| *Tel'velath* | Compound | 1 | Yes |
+
+Key structural observations:
+1. All phrases with apostrophes use the apostrophe as a morpheme boundary, consistent with elven compounding
+2. Farewells strongly prefer two-word phrases (3/4); greetings are more variable
+3. The second word in two-word phrases (*denil*, *toreth*, *torah*, *ador*, *maldin*, *Suramar*) may be a grammatical element (politeness particle, pronoun, or formulaic complement)
+4. *Ishnal toreth* is the only phrase without an apostrophe — either it is monomorphemic with internal structure not marked orthographically, or *ishnal* is an unanalyzed word
+
+### Shared Morphological Elements
+
+Three element families appear across both greetings and farewells:
+
+| Element | Greeting Context | Farewell Context | Proposed Function |
+|---------|-----------------|------------------|-------------------|
+| *-thoras* / *-theros* | *Ash'thoras denil* | *Kal'theros maldin* | "Welcome" / "fare" — social exchange marker |
+| *-bethos* | — | *Nor'bethos Suramar* | Possibly "go" / "watch over" — directional |
+| *-velath* | — | *Tel'velath* | Unknown — farewell-specific |
+
+The *-thoras*/*-theros* alternation is particularly interesting: both appear in formulaic exchange phrases (greeting vs. farewell), and both share the root *thor-* with potential vowel-grade alternation (/o/ vs /e/). If *-thoras* = "welcome" and *-theros* = "fare/travel," the shared root *thor-* could mean "go/come" or "encounter," with the vowel grade distinguishing directionality (incoming vs. outgoing). This would parallel Darnassian *Andu*/*Ande*/*Bandu* (elven-comparative.html), where vowel alternation in a paradigm encodes grammatical function.
+
+### The *Aran'arcana* Bidirectional Phrase
+
+*Aran'arcana* is the only Shalassian phrase attested as both greeting and farewell. The official WoW Twitter account used it as a farewell, while in-game it is heard as a greeting from multiple named characters. This bidirectionality suggests:
+
+1. **General benediction**: *Aran'arcana* may mean something like "sanctuary's arcane [be with you]" — a formula that works equally well at meeting and parting, similar to Hebrew *shalom* or Arabic *salaam*
+2. **Politeness formula**: Like English "good day," the phrase is socially appropriate both when arriving and departing
+3. **Register marker**: *Aran'arcana* is used exclusively by named characters (Thalyssra, Silgryn, Valtrois), suggesting it is a high-register formula not available to common NPCs
+
+### Four Hypotheses
+
+**Hypothesis 1: Elite vs. Common Register Split**
+
+Shalassian greetings and farewells reflect a two-tier register system correlated with social status. Elite Nightborne (arcanists, leadership) use formulaic phrases that invoke specific morphemes (*An-*, *Aran*, *Shal*, *Tel*), while common Nightborne use fixed phrases whose morphological structure is less transparent (*Ash'thoras denil*, *Ishnal toreth*, *Tenu'balah*). The elite register preserves more morphologically transparent compounds; the common register uses more lexicalized or opaque formulas. This is consistent with Nightborne society's extreme stratification (arcane elite vs. Withered underclass).
+
+**Hypothesis 2: Greeting-Specific vs. Farewell-Specific Morphology**
+
+Shalassian distinguishes greetings from farewells through morphological markers. The *-thoras* ending marks greetings (*Ash'thoras denil*) while *-theros* marks farewells (*Kal'theros maldin*), with vowel-grade alternation encoding the directionality of the social exchange. Other morphological pairs may exist but are obscured by the untranslated corpus.
+
+**Hypothesis 3: Blizzard Voice-Line Design, Not Linguistic System**
+
+The greeting/farewell corpus reflects Blizzard's game design process rather than a coherent linguistic system. Voice actors were given varied phrases to avoid repetition, and the distribution across speakers reflects recording sessions rather than sociolinguistic register. The *-thoras*/*-theros* similarity may be coincidental or driven by Blizzard's preference for elven-sounding phonology rather than genuine morphology.
+
+**Hypothesis 4: Ritual vs. Everyday Formulaic Language**
+
+Elite phrases (*Anar'amenos*, *Aran'arcana*, *Shal'asan torah*) are ritual formulas inherited from Highborne ceremonial language, while common phrases (*Ash'thoras denil*, *Ishnal toreth*, *Tenu'balah*) are everyday Shalassian colloquialisms. The split is not register but diachronic layering: elite Nightborne preserve pre-Sundering Highborne formulas, while common Nightborne use post-isolation colloquial Shalassian.
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| Elite vs. common register split | Low–Moderate | Speaker distribution is striking but sample size is small; cannot rule out coincidence |
+| Greeting-specific vs. farewell-specific morphology | Very Low–Low | Only 1 potential pair (*-thoras*/*-theros*); vowel-grade hypothesis requires more evidence |
+| Blizzard voice-line design | Moderate | Most parsimonious explanation for game data; does not exclude partial linguistic system |
+| Ritual vs. everyday diachronic layering | Low–Moderate | Consistent with Highborne cultural preservation; overlaps with register hypothesis |
+
+**Confidence: Low–Moderate** for a genuine register split in the greeting/farewell system. The strongest argument is the near-perfect separation between named-character phrases and generic-NPC phrases, which mirrors Nightborne society's documented stratification. The *-thoras*/*-theros* vowel-grade hypothesis is intriguing but requires additional evidence beyond a single pair. The Blizzard design confound is significant — game voice-line distribution does not guarantee linguistic coherence. Testable if new Shalassian-speaking NPCs are added (elite vs. common phrases should continue the pattern) or if a named Nightborne character uses a "common" phrase (which would falsify the register hypothesis).
+
+## Investigation 8: *E'rath* vs. *Rath* — Defensive/Inversive Prefix *E'-*?
+
+Two Shalassian spell incantations share the *rath* element but differ in both surface form and spell function:
+
+### Evidence Table
+
+| Phrase | Spell Function | Directionality | Speaker |
+|--------|---------------|----------------|---------|
+| *Rath* | Arcane missiles (offensive) | Outward / attacking | First Arcanist Thalyssra |
+| *E'rath omnas* | Arcane shield bubble (defensive) | Inward / protecting | First Arcanist Thalyssra |
+
+The semantic contrast is clear: *Rath* = outgoing force (projectiles), *E'rath omnas* = incoming/inward force (shield). Both are spoken by the same speaker (Thalyssra), eliminating speaker-idiom as a confound.
+
+### Morphological Analysis
+
+If *E'rath* = *E'* + *rath*, then *E'* is a prefix that modifies the root *rath* from offensive to defensive. Three structural analyses:
+
+1. **Prefix + root**: *E'* + *rath* + *omnas*, where *E'* is a derivational prefix and *omnas* is a separate word (possibly "shield" or "protection")
+2. **Different root**: *E'rath* is a monomorphemic word unrelated to *Rath*, and the phonological similarity is coincidental
+3. **Incorporated form**: *E'rath* = *E* + *'rath*, where the apostrophe marks a different morphological boundary from *Rath* (possibly an incorporated pronoun or particle)
+
+### Comparison with Other Shalassian Apostrophe Patterns
+
+| Pattern | Example | Function |
+|---------|---------|----------|
+| Root + suffix (apostrophe) | *Shal'dorei* | Compound |
+| Prefix + root (apostrophe) | *An'ah*, *An'ratha* | Invocation/optative prefix |
+| Root + suffix (hyphen) | *Rath-domaas* | Derivational paradigm |
+| Prefix + root (apostrophe) | *E'rath* | ? |
+
+The *E'* + root pattern parallels *An'* + root (*An'ah*, *An'ratha*), suggesting *E'* is a prefix. The key question is whether *E'* carries semantic content (defensive/inversive) or is a phonological/prosodic element.
+
+### Cross-Elven Comparison
+
+If *E'* = "against" or "defensive," this would be the first attested Shalassian derivational prefix with a clear semantic function. No parallel prefix is attested in Darnassian or Thalassian, suggesting this could be a Shalassian innovation — possibly arising from the Nightborne's extensive magical vocabulary, where prefixing a root to invert its function would be useful for spell casting.
+
+The Darnassian particle *en-* (appearing in *Enu thora'serador*, *En'endal* and discussed in Darnassian grammar.md Investigation 12) provides a potential parallel: *en-* may function as a negating or inversing particle in some Darnassian phrases. If *E'* in Shalassian and *en-* in Darnassian are cognate, this would be another Proto-Elven prefix preserved with modified function. However, the phonological match is imperfect (/ɛ/ vs /ɛn/).
+
+### The *omnas* Element
+
+*omnas* appears only in *E'rath omnas* and has no other attestations. Possible analyses:
+1. *omnas* = "shield" or "protection" (a noun specifying the type of defensive magic)
+2. *omnas* = "surround" or "enclose" (a verb describing the shield's function)
+3. *omnas* is a grammatical particle (imperative marker, aspect marker) with no independent semantic content
+
+Without additional attestations, *omnas* cannot be reliably glossed.
+
+### Four Hypotheses
+
+**Hypothesis 1: *E'* = Defensive/Inversive Prefix**
+
+*E'* is a productive Shalassian derivational prefix that inverts the directionality of a spell root: *rath* (strike outward) → *E'rath* (strike inward / shield). This would be the first confirmed derivational prefix in any elven language with a clearly attested semantic function. The prefix may be productive across spell vocabulary: if other offensive roots (*tel*, *an*) also appear with *E'*, the pattern would be confirmed.
+
+**Hypothesis 2: *E'* = Locative/Enclosing Prefix**
+
+*E'* does not invert the root's function but adds a locative sense: *rath* = "force/strike," *E'rath* = "force that encloses/surrounds." The shield encloses the caster, making "enclosing" the operative concept rather than "defensive." This is semantically narrower than the inversive hypothesis but more typologically plausible — locative prefixes are cross-linguistically common while inversive prefixes are rare.
+
+**Hypothesis 3: *E'rath* Is Monomorphemic**
+
+*E'rath* is a single word unrelated to *Rath*, and the phonological similarity is coincidental. The apparent offensive/defensive semantic pair is a Blizzard design choice (creating paired spell names) rather than evidence of genuine morphology. The apostrophe in *E'rath* marks a different morphological boundary than the initial consonant of *Rath*.
+
+**Hypothesis 4: Blizzard Design Pairing**
+
+*Rath* and *E'rath* are designed as a matched pair by Blizzard (like *Fireball* and *Fire Shield* in standard RPG design), with *E'* added as a phonological variant to distinguish the defensive version. This is linguistically motivated naming rather than evidence of productive morphology.
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| *E'* = defensive/inversive prefix | Very Low–Low | Typologically rare; single attestation pair; most linguistically interesting if confirmed |
+| *E'* = locative/enclosing prefix | Low–Moderate | More typologically plausible; consistent with shield semantics |
+| *E'rath* is monomorphemic | Low | Requires coincidental phonological similarity with functional pairing |
+| Blizzard design pairing | Moderate–High | Most parsimonious for game data; consistent with RPG spell-naming conventions |
+
+**Confidence: Low–Moderate** for *E'* as a genuine derivational prefix (combining locative and inversive hypotheses). The strongest argument is the systematic offensive/defensive pairing of *Rath* vs. *E'rath* spoken by the same character, which is unlikely to be coincidental. The weakest argument is the single attestation pair — one pair cannot establish productivity. The locative/enclosing interpretation is preferred over the pure inversive because locative prefixes are cross-linguistically more common. The Blizzard design confound is significant; RPG spell systems routinely create paired offensive/defensive names. Testable if additional *E'*-initial spell phrases are discovered, or if *E'* appears with other known roots (*E'tel*, *E'shal*) with defensive/enclosing semantics.

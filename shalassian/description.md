@@ -52,6 +52,8 @@ Shalassian writing is depicted in-game on structures such as Astromancer's Rise.
 | *-dora* | (unknown, possibly "thanks" or "grace") | *Erana-dora*, *Fal'adora* | Low |
 | *-ashar* | (unknown, possibly "honor" or "challenge") | *Tal'ashar*, *Anath'ashar* | Low |
 | *Rath* | Strike / force / arcane bolt | *Rath*, *Rath-domaas*, *Rath-anu'tanos* | Low (spell family) |
+| *E'-* | (possibly locative/enclosing or defensive prefix) | *E'rath omnas* | Very Low–Low |
+| *-thora* / *-theros* | (possibly "welcome"/"fare" — social exchange marker) | *Ash'thoras* (greeting), *Kal'theros* (farewell) | Very Low–Low |
 
 ## Relationship to Other Languages
 
@@ -69,7 +71,7 @@ Shalassian writing is depicted in-game on structures such as Astromancer's Rise.
 | Confirmed translations | 5 | *Erana-dora isil* (a thousand thanks), *Tal'ashar* (honor duel), *Shal'dorei* (nightborne), *Ru shanna shal'dorei* (the nightborne will survive), *Quel'vala thonos* (nobility through tradition) |
 | Untranslated phrases | 25+ | *Anar'amenos*, *Aran'arcana*, *Ash'thoras denil*, *Ishnal toreth*, *An'ratha ador*, *Kal'theros maldin*, *Nor'bethos Suramar*, etc. |
 | Confirmed morphemes | 2 | *Shal* (twilight), *-dorei* (children of) |
-| Inferred morphemes | 15+ | *Aran* (sanctuary), *Fal-* (cursed/fallen), *Tel-* (earth/deep), *Kel-*, *Nar-/Nal-*, *An-/An'* (invocation), etc. |
+| Inferred morphemes | 15+ | *Aran* (sanctuary), *Fal-* (cursed/fallen), *Tel-* (earth/deep), *Kel-*, *Nar-/Nal-*, *An-/An'* (invocation), *E'-* (defensive?), *-thora/-theros* (social exchange), etc. |
 | Attested place names (Shalassian) | 15+ | Suramar, Shal'Aran, Falanaar, Tel'anor, Teloth'aran, Kel'balor, Fal'adora, Astravar, etc. |
 | Attested personal names | 40+ | Thalyssra, Elisande, Oculeth, Silgryn, Ly'leth, Valtrois, Vanthir, Victoire, etc. |
 | Attested full sentences | 0 | No continuous Shalassian prose or dialogue is recorded |
@@ -98,3 +100,5 @@ Shalassian writing is depicted in-game on structures such as Astromancer's Rise.
 | 4 | The *Rath* Spell Family | *Rath* → *Rath-domaas* → *Rath-anu'tanos*: progressive phonological complexity mirroring spell power; potential *anu* definite article in *Rath-anu'tanos*; only attested derivational paradigm | Low–Moderate |
 | 5 | The *-dora* Suffix | "Grace/thanks" in *Erana-dora* ("thousand-thanks"); *-adora* in *Fal'adora* may show linking vowel; potential Darnassian *-dor*/*-dorah* cognate | Low–Moderate |
 | 6 | *Tor ilisar'thera'nal* | Shared Highborne formula used by Thalyssra; officially Darnassian but "ancient"; *ther-* root extends Set 19 to Shalassian | Moderate for shared formula |
+| 7 | The Greeting/Farewell System | 6 greetings vs. 4 farewells; elite vs. common register split correlates with speaker status; *-thoras*/*-theros* potential vowel-grade pair; *Aran'arcana* bidirectional | Low–Moderate for register split |
+| 8 | *E'rath* vs. *Rath* | *E'rath omnas* (defensive) vs. *Rath* (offensive); potential *E'* = locative/enclosing prefix; single attestation pair; Blizzard design confound | Low–Moderate for *E'* as prefix |

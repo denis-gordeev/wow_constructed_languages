@@ -112,6 +112,15 @@ These phrases have confirmed in-game or developer-confirmed translations.
 | -thoras | (unknown, possibly "greeting" or "welcome") | Ash'thoras | Low |
 | -bethos | (unknown, possibly "protect" or "watch over") | Nor'bethos | Low |
 | -theros | (unknown, possibly "go" or "fare") | Kal'theros, Tor'theras | Low |
+| -thora / -theros | (possibly "welcome"/"fare" — social exchange marker with vowel-grade alternation) | Ash'thoras (greeting), Kal'theros (farewell) | Very Low–Low |
+| -velath | (unknown, farewell-specific element) | Tel'velath | Very Low |
+| -omnas | (unknown, possibly "shield" or "protection") | E'rath omnas | Very Low |
+| E'- | (unknown, possibly locative/enclosing or defensive prefix) | E'rath omnas | Very Low–Low |
+| -torah | (unknown, possibly formulaic complement in greetings) | Shal'asan torah | Very Low |
+| -denil | (unknown, possibly formulaic complement in greetings) | Ash'thoras denil | Very Low |
+| -maldin | (unknown, possibly formulaic complement in farewells) | Kal'theros maldin | Very Low |
+| -toreth | (unknown, possibly formulaic complement in greetings) | Ishnal toreth | Very Low |
+| -ador | (unknown, possibly formulaic complement in farewells; variant *-adore*) | An'ratha ador | Very Low |
 | Ly'- | (unknown, possibly "moon") | Ly'leth | Low |
 | -stre | (unknown, possibly "star" or "lineage") | Lunastre | Very Low |
 
