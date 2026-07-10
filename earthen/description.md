@@ -76,13 +76,15 @@ The Earthen use a runic writing system directly descended from the Titan script,
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Attested personal names | ~6+ | *Baelgrim*, *Adelgonn*, *Merrix*, *Eirich*, *Lufsela*, *Brinthe* |
-| Attested place names | ~5+ | *The Ringing Deeps*, *Hallowfall*, *Beledar*, *Mereldar*, *Iskaara* |
+| Attested personal names | ~13+ | *Baelgrim*, *Adelgonn*, *Merrix*, *Eirich*, *Lufsela*, *Brinthe*, *Kothilde*, *Olbarig*, *Vokmar*, *Grelka*, *Leikaroc*, *Adland*, *Kordac*, *Flamekeeper Graz* |
+| Attested place names | ~30+ | *Khaz Algar*, *Dornogal*, *Gundargaz*, *Dhar Oztan*, *Dhar Kazhad*, *Dhar Durgaz*, *Dhar Bandar*, *Thul Medran*, *Taelloch*, *Nibelgaz*, *Beledar*, *Mereldar*, *Thraegar Rest*, *Earthenworks* |
 | Confirmed morphemes | 0 | No Earthen morpheme has independent confirmation |
-| Inferred morphemes | 3 | *Bael-* (stone/fortress), *-dar* (place suffix, possibly from Titan *-dor*), *-grim* (personal name suffix) |
+| Inferred morphemes | 5 | *Bael-* (stone/red?), *-dar* (place suffix, possibly from Titan *-dor*), *-grim* (personal name suffix), *Dhar-* (peak/mountain prefix), *-gaz* (mine/excavation suffix) |
 | Attested phrases with translations | 0 | No Earthen phrases have confirmed translations |
 | Attested sentences with full glosses | 0 | No Earthen sentences are attested |
-| Open linguistic investigations | 2 | *-oc*/*-roc* suffix (Very Low); *Skar-* element across Earthen/Vrykul (Very Low–Low) |
+| Skardyn vocalizations | 2 | *Uzuraugh!*, *Hizakh!* (no translations) |
+| Dwarven phrases (shared ancestry) | 7 | *Draig'cyfaill* ("Dragonheart"), *Dwyar'hun* ("Star bow"), *Gwyarbrawden* (ritual), *Khadgar* ("Trust"), *Khaz Modan* ("Mountain of Khaz"), *Magna* ("Protector"), *Bael Modan* ("Red Mountain" — RPG) |
+| Open linguistic investigations | 3 | *-oc*/*-roc* suffix (Very Low); *Skar-* element across Earthen/Vrykul (Very Low–Low); *Dhar-* prefix (Low–Moderate) |
 
 ## Reliability Notes
 

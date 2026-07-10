@@ -9,6 +9,7 @@ body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; ma
 h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
 h2 { color: #2e7d32; margin-top: 2em; }
 h3 { color: #388e3c; margin-top: 1.5em; }
+h4 { color: #43a047; margin-top: 1.2em; }
 table { border-collapse: collapse; width: 100%; margin: 1em 0; }
 th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
 th { background: #e8f5e9; font-weight: bold; }
@@ -39,10 +40,18 @@ Sections:
 <a href="#phonological-patterns">Patterns</a>
 <a href="#comparison-with-other-elven-languages">Comparison</a>
 <a href="#morphology">Morphology</a>
+<a href="#the-an-an-prefix-pattern">An-/An' Prefix</a>
+<a href="#greeting-farewell-pair-analysis">Greeting/Farewell</a>
+<a href="#spell-incantation-morphology">Spell Morphology</a>
+<a href="#the-fal-root">Fal Root</a>
+<a href="#the-tel-root">Tel Root</a>
 <a href="#syntax">Syntax</a>
 <a href="#shared-elven-grammatical-features">Shared Elven Features</a>
 <a href="#limitations">Limitations</a>
 <a href="#investigation-conservatism">Conservatism</a>
+<a href="#investigation-1-assian-suffix">Investigation 1: -assian</a>
+<a href="#investigation-2-an-prefix">Investigation 2: An-/An'</a>
+<a href="#investigation-3-fal-tel-pair">Investigation 3: Fal-/Tel-</a>
 </nav>
 
 <h1>Shalassian Grammar</h1>
@@ -102,15 +111,15 @@ Sections:
   </ul>
 </li>
 
-<li><strong>Dental fricative <span class="ipa">/θ/</span></strong>: Retained from Darnassian. Appears in <em>Thalyssra</em>, <em>Ly'leth</em>, <em>Oculeth</em>. This is a key diagnostic feature distinguishing Shalassian from Nazja (which lost <span class="ipa">/θ/</span>) and confirming its closer relationship to Darnassian and Thalassian.</li>
+<li><strong>Dental fricative <span class="ipa">/θ/</span></strong>: Retained from Darnassian. Appears in <em>Thalyssra</em>, <em>Ly'leth</em>, <em>Oculeth</em>, <em>Thwen</em>, <em>Theryn</em>. This is a key diagnostic feature distinguishing Shalassian from Nazja (which lost <span class="ipa">/θ/</span>) and confirming its closer relationship to Darnassian and Thalassian.</li>
 
-<li><strong>Liquid frequency</strong>: <span class="ipa">/l/</span> and <span class="ipa">/r/</span> are very common, as in all elven languages: <em>Thalyssra</em>, <em>Silgryn</em>, <em>Lunastre</em>, <em>Shal'dorei</em>. This produces the characteristic melodic quality shared across the elven family.</li>
+<li><strong>Liquid frequency</strong>: <span class="ipa">/l/</span> and <span class="ipa">/r/</span> are very common, as in all elven languages: <em>Thalyssra</em>, <em>Silgryn</em>, <em>Lunastre</em>, <em>Shal'dorei</em>, <em>Falanaar</em>, <em>Valtrois</em>. This produces the characteristic melodic quality shared across the elven family.</li>
 
-<li><strong>Sibilant profile</strong>: <span class="ipa">/ʃ/</span> is common (<em>Shal'dorei</em>, <em>Shal'Aran</em>), consistent with Darnassian. Unlike Nazja, Shalassian does not show <span class="ipa">/ʒ/</span> or increased sibilant density, confirming that these are Nazja-specific innovations.</li>
+<li><strong>Sibilant profile</strong>: <span class="ipa">/ʃ/</span> is common (<em>Shal'dorei</em>, <em>Shal'Aran</em>, <em>Shinaris</em>), consistent with Darnassian. Unlike Nazja, Shalassian does not show <span class="ipa">/ʒ/</span> or increased sibilant density, confirming that these are Nazja-specific innovations.</li>
 
-<li><strong>Sonorant-heavy word endings</strong>: As in Darnassian and Thalassian, Shalassian names prefer sonorant endings: <em>-ei</em> (dorei), <em>-an</em> (Aran), <em>-ra</em> (Thalyssra). This is a stable elven family feature.</li>
+<li><strong>Sonorant-heavy word endings</strong>: As in Darnassian and Thalassian, Shalassian names prefer sonorant endings: <em>-ei</em> (dorei), <em>-an</em> (Aran), <em>-ra</em> (Thalyssra). This is a stable elven family feature. Phrase endings also favor sonorants: <em>-os</em> (Nor'bethos), <em>-il</em> (aran'ethil), <em>-ah</em> (An'ah).</li>
 
-<li><strong>Apostrophe as morpheme boundary (not phonological)</strong>: Apostrophes in Shalassian mark morpheme boundaries (<em>Shal'dorei</em>, <em>Shal'Aran</em>, <em>Ly'leth</em>, <em>Tel'anor'ien</em>), not glottal stops or phonological processes. This is consistent with the elven family convention.</li>
+<li><strong>Apostrophe as morpheme boundary (not phonological)</strong>: Apostrophes in Shalassian mark morpheme boundaries (<em>Shal'dorei</em>, <em>Shal'Aran</em>, <em>Ly'leth</em>, <em>Tel'anor</em>), not glottal stops or phonological processes. This is consistent with the elven family convention. Some phrases use spaces between words (<em>Ru shanna shal'dorei</em>) while others run morphemes together with apostrophes (<em>Erana-dora isil</em> uses a hyphen).</li>
 
 <li><strong>Conservative phonology</strong>: Shalassian appears phonologically conservative relative to Darnassian, retaining the core consonant and vowel inventory with minimal innovation. This is consistent with the Nightborne's isolation &mdash; without contact with other languages, the phonological pressure for change would be reduced compared to Thalassian (which had extensive contact with Troll and Common) or Nazja (which underwent physiological transformation).</li>
 
@@ -120,9 +129,15 @@ Sections:
 
 <li><strong>Medial sibilant gemination (-ss-)</strong>: The sequence -ss- appears in <em>Thalyssra</em> and the language name <em>Shalassian</em> itself. This medial geminate <span class="ipa">/sː/</span> is not attested in Darnassian or Thalassian proper names and may represent a Shalassian-specific sound change &mdash; possibly from assimilation of an earlier *-sV-* sequence or compounding with sibilant-initial morphemes. If -yssra is a suffix, the geminate <span class="ipa">/sː/</span> could mark a morpheme boundary.</li>
 
-<li><strong>Vowel hiatus tolerance across morpheme boundaries</strong>: Names like <em>Aran'el</em> and <em>Tel'anor'ien</em> show vowel sequences across apostrophe-marked morpheme boundaries (a-e, o-i) that are not elided or reduced. This suggests Shalassian tolerates hiatus more than Darnassian, where similar sequences might undergo contraction. The three-morpheme <em>Tel'anor'ien</em> (with two apostrophes) shows this tolerance operating recursively.</li>
+<li><strong>Vowel hiatus tolerance across morpheme boundaries</strong>: Names like <em>Tel'anor</em> and phrases like <em>Erana-dora isil</em> show vowel sequences across morpheme boundaries that are not elided or reduced. This suggests Shalassian tolerates hiatus more than Darnassian, where similar sequences might undergo contraction.</li>
 
 <li><strong>Three-syllable personal name norm</strong>: The dominant personal name length is 3 syllables: <em>Tha-lyss-ra</em>, <em>Oc-u-leth</em>, <em>Ar-lu-in</em>, <em>Lu-nas-tre</em>. <em>Elisande</em> (4 syllables) is the exception. This is notably more uniform than Darnassian personal names, which range from 2&ndash;5 syllables. The 3-syllable constraint may reflect a naming convention or prosodic template specific to the Nightborne.</li>
+
+<li class="new"><strong>Phrase-final stress pattern</strong>: Untranslated Shalassian phrases frequently end with stressed final syllables: <em>-menos</em> (Anar'amenos), <em>-denil</em> (Ash'thoras denil), <em>-toreth</em> (Ishnal toreth), <em>-maldin</em> (Kal'theros maldin), <em>-falas</em> (Arash-falas), <em>-falar</em> (Tor'theras falar). This phrase-final stress may indicate that Shalassian is a stress-final language, unlike Darnassian which shows more variable stress placement.</li>
+
+<li class="new"><strong>Hyphen usage in multi-word phrases</strong>: <em>Erana-dora isil</em> uses a hyphen between <em>erana</em> and <em>dora</em> but a space before <em>isil</em>. This suggests that closely bound compound elements are hyphenated while separate words are spaced, a convention not seen in Darnassian or Thalassian.</li>
+
+<li class="new"><strong>Frequency of /n/ in phrase-medial position</strong>: <span class="ipa">/n/</span> appears extremely frequently in the medial portions of Shalassian phrases: <em>Anar'amenos</em>, <em>Aran'arcana</em>, <em>An'anora</em>, <em>Kal'theros</em>, <em>Nor'bethos</em>. This may reflect a grammatical particle or connective function of <span class="ipa">/n/</span> that is invisible in the isolated proper name corpus.</li>
 </ol>
 
 <h3 id="comparison-with-other-elven-languages">Comparison with Other Elven Languages</h3>
@@ -150,24 +165,20 @@ Sections:
 
 <p>The most productive attested morphological pattern is the "-dorei" compound meaning "children of" (confirmed via cross-elven comparison):</p>
 
-<table>
-<thead>
-<tr><th>Word</th><th>Breakdown</th><th>Translation</th></tr>
-</thead>
-<tbody>
-<tr><td>Shal'dorei</td><td>Shal + dorei → twilight + children of</td><td>"Children of the Twilight" <span class="inferred">(inferred)</span></td></tr>
-<tr><td>Kaldorei</td><td>Kal + dorei → star + children of</td><td>"Children of the Stars" (Darnassian)</td></tr>
-<tr><td>Quel'dorei</td><td>Quel + dorei → noble + children of</td><td>"Children of Noble Birth" (Thalassian)</td></tr>
-<tr><td>Sin'dorei</td><td>Sin + dorei → blood + children of</td><td>"Children of the Blood" (Thalassian)</td></tr>
-</tbody>
-</table>
+<ul>
+<li><strong>Shal'dorei</strong> = Shal + dorei &rarr; twilight + children of &rarr; "Children of the Twilight" <span class="inferred">(inferred)</span></li>
+<li><strong>Fal'dorei</strong> = Fal + dorei &rarr; fallen/cursed + children of &rarr; "Children of the Fallen" <span class="inferred">(inferred; spider-cursed elves)</span></li>
+<li><strong>Kaldorei</strong> = Kal + dorei &rarr; star + children of &rarr; "Children of the Stars" (Darnassian)</li>
+<li><strong>Quel'dorei</strong> = Quel + dorei &rarr; noble + children of &rarr; "Children of Noble Birth" (Thalassian)</li>
+<li><strong>Sin'dorei</strong> = Sin + dorei &rarr; blood + children of &rarr; "Children of the Blood" (Thalassian)</li>
+</ul>
 
 <p>This confirms that apostrophe + dorei is a productive compound pattern meaning "children of [X]" across the elven language family.</p>
 
 <h3 id="the-assian-suffix">The "-assian" Suffix</h3>
 
 <ul>
-<li><strong>Shalassian</strong> = Shal + assian → twilight + language/speech <span class="inferred">(inferred)</span></li>
+<li><strong>Shalassian</strong> = Shal + assian &rarr; twilight + language/speech <span class="inferred">(inferred)</span></li>
 <li>This may parallel "-ahe" in Taur-ahe and "-yar" in Shath'Yar as a language-naming suffix <span class="uncertain">(uncertain)</span></li>
 <li>Alternatively, "Shalassian" may be a Common-language rendering of the native name <span class="uncertain">(uncertain)</span></li>
 </ul>
@@ -175,16 +186,86 @@ Sections:
 <h3 id="the-aran-root">The "Aran" Root</h3>
 
 <ul>
-<li><strong>Shal'Aran</strong> = Shal + Aran → twilight + sanctuary → "Twilight Sanctuary" or "Arcane Refuge" <span class="inferred">(inferred)</span></li>
-<li><strong>Aran'el</strong> = Aran + el → sanctuary + of the stars <span class="uncertain">(uncertain)</span></li>
-<li>"Aran" likely means "sanctuary," "home," or "refuge" <span class="inferred">(inferred)</span></li>
-<li>"-el" may be a genitive or modifying suffix <span class="uncertain">(uncertain)</span></li>
+<li><strong>Shal'Aran</strong> = Shal + Aran &rarr; twilight + sanctuary &rarr; "Twilight Sanctuary" or "Arcane Refuge" <span class="inferred">(inferred)</span></li>
+<li><strong>Aran'arcana</strong> = Aran + arcana &rarr; sanctuary + arcane? <span class="inferred">(inferred from greeting/farewell)</span></li>
+<li><strong>Aran'ethil</strong> = Aran + ethil &rarr; possibly "sanctuary is freed" or emotional exclamation <span class="inferred">(inferred from Vanthir's liberation cry)</span></li>
+<li>"Aran" likely means "sanctuary," "home," or "refuge" <span class="inferred">(inferred, moderate confidence, 3 attestations)</span></li>
 </ul>
+
+<h3 id="the-an-an-prefix-pattern">The "An-/An'" Prefix Pattern</h3>
+
+<p>A striking pattern across Shalassian phrases is the <em>An-/An'</em> prefix, appearing in 6+ distinct phrases:</p>
+
+<ul>
+<li><strong>An'ah</strong> &mdash; time stop spell (Thalyssra)</li>
+<li><strong>An'anora</strong> &mdash; frost trap spell (Ly'leth)</li>
+<li><strong>An'ratha</strong> &mdash; farewell (Silgryn, Thalyssra)</li>
+<li><strong>Anar'amenos</strong> &mdash; greeting (Oculeth)</li>
+<li><strong>Anath'ashar</strong> &mdash; battle cry (nightborne mobs)</li>
+<li><strong>Aran'ethil</strong> &mdash; liberation exclamation (Vanthir) &mdash; if <em>Aran</em> = "sanctuary," then <em>An'-ethil</em> may be the operative part</li>
+</ul>
+
+<p>This <em>An-</em> may be:</p>
+<ol>
+<li>An invocation or divine marker (possibly cognate with Darnassian <em>anar</em> "beloved/sun")</li>
+<li>A verbal prefix meaning "may" or "let" (if greetings/farewells are optative)</li>
+<li>A grammatical particle with no direct translation</li>
+</ol>
+
+<h3 id="greeting-farewell-pair-analysis">Greeting/Farewell Pair Analysis</h3>
+
+<p>Shalassian appears to distinguish greetings from farewells morphologically, though the system is not fully transparent:</p>
+
+<p><strong>Greetings</strong>: <em>Anar'amenos</em>, <em>Aran'arcana</em>, <em>Ash'thoras denil</em>, <em>Ishnal toreth</em>, <em>Shal'asan torah</em>, <em>Tenu'balah</em></p>
+
+<p><strong>Farewells</strong>: <em>An'ratha ador</em>, <em>Kal'theros maldin</em>, <em>Nor'bethos Suramar</em>, <em>Tel'velath</em></p>
+
+<p>Several observations:</p>
+<ul>
+<li>Greetings are more numerous (6 vs. 4 attested), suggesting more formal variation</li>
+<li><em>Aran'arcana</em> appears as both greeting and farewell (Valtrois uses it as farewell), suggesting it may be a general benediction</li>
+<li>Farewell phrases tend to be shorter (2 morphemes) while greetings are longer (2-3 morphemes)</li>
+<li><em>Nor'bethos Suramar</em> explicitly includes the city name, suggesting farewells may invoke place or deity</li>
+</ul>
+
+<h3 id="spell-incantation-morphology">Spell Incantation Morphology</h3>
+
+<p>Spell phrases show a distinct pattern from greetings &mdash; they tend to be shorter and more imperative:</p>
+
+<ul>
+<li>Single-word spells: <em>An'ah</em>, <em>Rath</em>, <em>In'alah</em></li>
+<li>Two-morpheme spells: <em>Rath-domaas</em>, <em>An'anora</em>, <em>Tel'vasha</em></li>
+<li>Multi-word spells: <em>An'ratha... an'tal-thandros!</em>, <em>Nar'thalas vas manari</em></li>
+</ul>
+
+<p>The pattern <em>Rath</em> &rarr; <em>Rath-domaas</em> &rarr; <em>Rath-anu'tanos</em> suggests a base incantation (<em>rath</em>) with compounding suffixes that intensify or modify the effect. If <em>rath</em> = "strike" or "force," then <em>-domaas</em> may mean "great/double" and <em>-anu'tanos</em> may mean "explode/outward."</p>
+
+<h3 id="the-fal-root">The "Fal" Root</h3>
+
+<ul>
+<li><strong>Fal'dorei</strong> = Fal + dorei &rarr; spider-cursed elves</li>
+<li><strong>Falanaar</strong> = Fal + anaar? &rarr; the ruined city</li>
+<li><strong>Fal'adora</strong> = Fal + adora &rarr; the temple beneath Falanaar</li>
+</ul>
+
+<p>"Fal" likely relates to the arcan'dor's destruction and the resulting transformation. Possible meanings: "fallen," "cursed," "spider," or "shattered." The semantic connection between the arcan'dor disaster and the fal'dorei transformation supports "fallen/shattered."</p>
+
+<h3 id="the-tel-root">The "Tel" Root</h3>
+
+<ul>
+<li><strong>Tel'anor</strong> = Tel + anor &rarr; Highborne gravesite</li>
+<li><strong>Teloth'aran</strong> = Tel + oth + aran &rarr; ruined area</li>
+<li><strong>Tel'vasha</strong> = Tel + vasha &rarr; teleportation spell</li>
+<li><strong>Tel'velath</strong> = Tel + velath &rarr; farewell phrase</li>
+<li><strong>Tel'arn</strong> = Tel + arn &rarr; High Botanist's name</li>
+</ul>
+
+<p>"Tel" appears in both place names and spell/formula contexts. Possible meanings: "earth" (cognate with Darnassian <em>tal</em>?), "deep," "far," or "beyond." The use in a teleportation spell (<em>Tel'vasha</em>) and farewell (<em>Tel'velath</em>) may support "far/beyond" as the core meaning.</p>
 
 <h3 id="potential-apocope-or-sound-change">Potential Apocope or Sound Change</h3>
 
 <ul>
-<li>"Shal'dorei" → "Shalassian" shows the root "Shal" followed by different suffixes</li>
+<li>"Shal'dorei" &rarr; "Shalassian" shows the root "Shal" followed by different suffixes</li>
 <li>The shift from "-dorei" compounds to "-assian" for the language name may reflect a sound change where intervocalic "d" softened <span class="uncertain">(uncertain)</span></li>
 <li>Alternatively, "-assian" may be an entirely different morpheme from "-dorei" <span class="uncertain">(uncertain)</span></li>
 </ul>
@@ -192,30 +273,28 @@ Sections:
 <h2 id="syntax">Syntax</h2>
 
 <ul>
-<li>No sentence-level attestation exists for Shalassian specifically</li>
-<li>As Shalassian evolved from Darnassian, it likely shares similar syntactic structures <span class="inferred">(inferred)</span>, but this is unconfirmed</li>
-<li>Word order cannot be determined from attested material</li>
+<li>No full sentence-level attestation exists for Shalassian, but the phrase corpus allows limited syntactic inference</li>
+<li><em>Ru shanna shal'dorei</em> = "The nightborne will survive" &mdash; this is a 3-word sentence with potential SOV or VSO order. If <em>ru</em> = future/auxiliary, <em>shanna</em> = survive, <em>shal'dorei</em> = subject, this suggests Aux-V-S order</li>
+<li><em>Erana-dora isil</em> = "A thousand thanks upon you" &mdash; <em>erana-dora</em> may be a compound noun ("thousand-thanks") and <em>isil</em> may mean "upon you"</li>
+<li><em>Quel'vala thonos</em> = "Nobility through tradition" &mdash; <em>quel'vala</em> = nobility, <em>thonos</em> = tradition/through tradition</li>
+<li>Word order cannot be firmly established from only 3 translated sentences</li>
+<li>The frequent <em>An-</em> prefix in both greetings and spell incantations may indicate a verb-initial or optative-first syntax</li>
 </ul>
 
 <h2 id="shared-elven-grammatical-features">Shared Elven Grammatical Features</h2>
 
 <p>Based on the cognate pattern "-dorei" across Darnassian, Thalassian, and Shalassian:</p>
 
-<table>
-<thead>
-<tr><th>Feature</th><th>Description</th><th>Status</th></tr>
-</thead>
-<tbody>
-<tr><td>Ethnonymic compounds</td><td>Elven languages form ethnonymic compounds as [Attribute]'[dorei]</td><td>Confirmed</td></tr>
-<tr><td>Apostrophe as morpheme boundary</td><td>The apostrophe is a consistent morpheme boundary marker in elven languages</td><td>Confirmed</td></tr>
-<tr><td>Modifier-head order</td><td>In compounds, the descriptive element precedes "dorei"</td><td>Confirmed</td></tr>
-</tbody>
-</table>
+<ul>
+<li>Elven languages form ethnonymic compounds as [Attribute]'[dorei] (confirmed)</li>
+<li>The apostrophe is a consistent morpheme boundary marker in elven languages (confirmed)</li>
+<li>Modifier-head order in compounds: the descriptive element precedes "dorei" (confirmed)</li>
+</ul>
 
 <h2 id="limitations">Limitations</h2>
 
 <div class="note">
-Shalassian grammar is attested almost entirely through the "-dorei" compound pattern and the place names Shal'Aran and Suramar. No verb forms, grammatical particles, or sentence structures are known. All morphological analysis beyond the confirmed "-dorei" pattern is speculative.
+Shalassian grammar is attested through 5 translated phrases, 25+ untranslated phrases, and numerous proper names. While this is more substantial than many WoW constructed languages, the corpus has significant gaps: no verb paradigm exists, no grammatical particles are confirmed, and no continuous text is available. All morphological analysis beyond the confirmed "-dorei" pattern and the 5 official translations is speculative but now supported by a much larger phrase corpus for cross-referencing. The greeting/farewell and spell incantation sub-corpora provide the best material for morphological inference.
 </div>
 
 <h2 id="investigation-conservatism">Investigation: Shalassian&ndash;Darnassian Phonological Conservatism</h2>
@@ -229,14 +308,14 @@ Shalassian grammar is attested almost entirely through the "-dorei" compound pat
 <tr><th>Feature</th><th>Darnassian</th><th>Shalassian</th><th>Thalassian</th><th>Nazja</th></tr>
 </thead>
 <tbody>
-<tr><td><span class="ipa">/θ/</span> retention</td><td>✓ (baseline)</td><td>✓ Match</td><td>✓ Match</td><td>✗ Lost</td></tr>
-<tr><td><span class="ipa">/ʒ/</span> absence</td><td>✓</td><td>✓ Match</td><td>✓ Match</td><td>✗ Innovated</td></tr>
-<tr><td><span class="ipa">/dʒ/</span> absence</td><td>✓</td><td>✓ Match</td><td>✓ Match</td><td>✗ Innovated</td></tr>
-<tr><td>Simple onset clusters</td><td>✓</td><td>✓ Match</td><td>✓ Match</td><td>✗ Complex</td></tr>
-<tr><td>Balanced vowels</td><td>✓</td><td>✓ Match</td><td>✓ Match</td><td>✗ Reduced</td></tr>
-<tr><td>Moderate sibilant density</td><td>✓</td><td>✓ Match</td><td>✓ Match</td><td>✗ Very high</td></tr>
-<tr><td>Morpheme-boundary apostrophe</td><td>✓</td><td>✓ Match</td><td>✓ Match</td><td>✓ Match</td></tr>
-<tr><td>Liquid frequency</td><td>✓</td><td>✓ Match</td><td>✓ Match</td><td>✓ Match</td></tr>
+<tr><td><span class="ipa">/θ/</span> retention</td><td>&#10003; (baseline)</td><td>&#10003; Match</td><td>&#10003; Match</td><td>&#10007; Lost</td></tr>
+<tr><td><span class="ipa">/ʒ/</span> absence</td><td>&#10003;</td><td>&#10003; Match</td><td>&#10003; Match</td><td>&#10007; Innovated</td></tr>
+<tr><td><span class="ipa">/dʒ/</span> absence</td><td>&#10003;</td><td>&#10003; Match</td><td>&#10003; Match</td><td>&#10007; Innovated</td></tr>
+<tr><td>Simple onset clusters</td><td>&#10003;</td><td>&#10003; Match</td><td>&#10003; Match</td><td>&#10007; Complex</td></tr>
+<tr><td>Balanced vowels</td><td>&#10003;</td><td>&#10003; Match</td><td>&#10003; Match</td><td>&#10007; Reduced</td></tr>
+<tr><td>Moderate sibilant density</td><td>&#10003;</td><td>&#10003; Match</td><td>&#10003; Match</td><td>&#10007; Very high</td></tr>
+<tr><td>Morpheme-boundary apostrophe</td><td>&#10003;</td><td>&#10003; Match</td><td>&#10003; Match</td><td>&#10003; Match</td></tr>
+<tr><td>Liquid frequency</td><td>&#10003;</td><td>&#10003; Match</td><td>&#10003; Match</td><td>&#10003; Match</td></tr>
 <tr><td><strong>Conservatism score</strong></td><td><strong>Baseline</strong></td><td><strong>8/9 (89%)</strong></td><td><strong>8/9 (89%)</strong></td><td><strong>3/8 (38%)</strong></td></tr>
 </tbody>
 </table>
@@ -256,6 +335,173 @@ Shalassian grammar is attested almost entirely through the "-dorei" compound pat
 </ol>
 
 <p><strong>Confidence: Moderate&ndash;High</strong> that Shalassian is the most conservative elven daughter language. The 89% feature-match with Darnassian is robust across 9 independent features, and the explanation (magical isolation preventing change) is consistent with the lore.</p>
+
+<h2 id="investigation-1-assian-suffix">Investigation 1: The <em>-assian</em> Suffix &mdash; Language-Naming Morpheme or Common Rendering?</h2>
+
+<p>The language name <em>Shalassian</em> contains the suffix <em>-assian</em>, which does not appear in any other attested Shalassian word. Three hypotheses explain its origin:</p>
+
+<h3 id="hypothesis-1-assian-genuine">Hypothesis 1: <em>-assian</em> Is a Genuine Shalassian Language-Naming Suffix</h3>
+
+<p>If <em>-assian</em> is a productive Shalassian morpheme meaning "language of" or "speech of," then <em>Shalassian</em> = <em>Shal</em> + <em>-assian</em> = "Language of the Twilight." This would parallel:</p>
+<ul>
+<li>Darnassian (likely <em>Darnas</em> + <em>-sian</em> or <em>-assian</em>, if the same suffix applies)</li>
+<li>Thalassian (likely <em>Thalas</em> + <em>-sian</em> or <em>-assian</em>)</li>
+<li>Taur-ahe (<em>-ahe</em> language suffix)</li>
+<li>Shath'Yar (<em>-yar</em> language suffix)</li>
+</ul>
+<p>If <em>-assian</em> is genuinely elven, it would be shared across at least Darnassian, Thalassian, and Shalassian &mdash; the first confirmed elven grammatical suffix beyond <em>-dorei</em>.</p>
+
+<p>However, the phonological shape <em>-assian</em> (<span class="ipa">/æsiən/</span>) closely resembles the English suffix <em>-sian</em>/<em>-ian</em> used to form adjectives and language names (Persian, Asian, Prussian). This resemblance may not be coincidental.</p>
+
+<h3 id="hypothesis-2-assian-common">Hypothesis 2: <em>-assian</em> Is a Common-Language Rendering Convention</h3>
+
+<p>The language names <em>Darnassian</em>, <em>Thalassian</em>, and <em>Shalassian</em> may all be Common-language (English) exonyms, not native elven forms. The native names could be <em>Darnassian</em> &rarr; <em>Darnas'dorei</em> (or similar), <em>Thalassian</em> &rarr; <em>Thalas'dorei</em>, and <em>Shalassian</em> &rarr; <em>Shal'dorei</em>. Under this analysis:</p>
+<ul>
+<li><em>Shalassian</em> = Common <em>Shal</em> + English <em>-assian</em> (adjectival suffix)</li>
+<li>The apostrophe-less form (<em>Shalassian</em> vs. <em>Shal'dorei</em>) reflects Common orthography, not Shalassian morphology</li>
+<li>Nightborne would call their language <em>Shal'dorei</em> or another native form, not <em>Shalassian</em></li>
+</ul>
+<p>This is supported by the in-game convention: all three elven language names (<em>Darnassian</em>, <em>Thalassian</em>, <em>Shalassian</em>) share the <em>-assian</em> ending, but no native elven word shows this suffix. The <em>-dorei</em> pattern is the only confirmed native ethnonymic suffix.</p>
+
+<h3 id="hypothesis-3-assian-dorei">Hypothesis 3: <em>-assian</em> Derives from <em>-dorei</em> via Sound Change</h3>
+
+<p>If <em>Shalassian</em> = <em>Shal'dorei</em> + sound change, the development would be:</p>
+<ul>
+<li><em>Shal'dorei</em> &rarr; <em>Shal'assiei</em> (intervocalic <em>d</em> &rarr; zero with compensatory lengthening/vowel change)</li>
+<li><em>Shal'assiei</em> &rarr; <em>Shalassian</em> (final <em>-ei</em> &rarr; <em>-ian</em>, possibly under Common influence)</li>
+</ul>
+<p>This requires assuming a specific sound change (<em>d</em> loss between vowels) that is not independently attested in Shalassian. The <em>-dorei</em> suffix is stable in all other attested compounds (<em>Shal'dorei</em>, <em>Kaldorei</em>, <em>Quel'dorei</em>, <em>Sin'dorei</em>, <em>Fal'dorei</em>), making this hypothesis the least parsimonious.</p>
+
+<h3 id="assessment-assian">Assessment</h3>
+
+<table>
+<thead>
+<tr><th>Hypothesis</th><th>Confidence</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td><em>-assian</em> = genuine language suffix</td><td>Very Low&ndash;Low</td><td>Matches <em>-ian</em>/<em>-sian</em> in English too closely; only 3 attestations, all in language names</td></tr>
+<tr><td><em>-assian</em> = Common rendering convention</td><td>Moderate&ndash;High</td><td>Most parsimonious; <em>-assian</em> follows English adjectival pattern; no native attestation of the suffix</td></tr>
+<tr><td><em>-assian</em> derives from <em>-dorei</em></td><td>Very Low</td><td>Requires unattested sound change; <em>-dorei</em> is stable elsewhere</td></tr>
+</tbody>
+</table>
+
+<p><strong>Confidence: Moderate&ndash;High</strong> that <em>-assian</em> is a Common-language rendering convention rather than a native Shalassian morpheme. The language is likely natively called <em>Shal'dorei</em> or a related form. The strongest argument is the exact parallel with English <em>-ian</em>/<em>-sian</em> adjectival suffix, combined with the absence of <em>-assian</em> from any non-language-name context. Testable if a Nightborne NPC ever refers to their language by a native name rather than "Shalassian."</p>
+
+<h2 id="investigation-2-an-prefix">Investigation 2: The <em>An-/An'</em> Prefix &mdash; Invocation, Optative, or Divine Marker?</h2>
+
+<p>The <em>An-/An'</em> element appears in at least 6 Shalassian phrases across three functional domains:</p>
+
+<h3 id="evidence-table-an">Evidence Table</h3>
+
+<table>
+<thead>
+<tr><th>Phrase</th><th>Function</th><th><em>An-</em> Context</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td><em>An'ah</em></td><td>Time stop spell</td><td>Spell incantation</td><td>Shortest attested Shalassian phrase (2 syllables)</td></tr>
+<tr><td><em>An'anora</em></td><td>Frost trap spell</td><td>Spell incantation</td><td><em>An'</em> + <em>anora</em></td></tr>
+<tr><td><em>An'ratha</em></td><td>Farewell component</td><td>Greeting/farewell</td><td><em>An'</em> + <em>ratha</em>; appears as <em>An'ratha ador</em></td></tr>
+<tr><td><em>Anar'amenos</em></td><td>Greeting</td><td>Greeting/farewell</td><td>Full form <em>Anar'</em> (with vowel) rather than <em>An'</em></td></tr>
+<tr><td><em>Anath'ashar</em></td><td>Battle cry</td><td>Combat</td><td><em>Anath'</em> + <em>ashar</em>; cf. <em>Tal'ashar</em> = "honor duel"</td></tr>
+<tr><td><em>Aran'ethil</em></td><td>Liberation exclamation</td><td>Emotional</td><td>If <em>Aran</em> = "sanctuary," then <em>An'-ethil</em> is the operative part</td></tr>
+</tbody>
+</table>
+
+<h3 id="four-hypotheses-an">Four Hypotheses</h3>
+
+<p><strong>Hypothesis 1: <em>An-</em> = Invocation or Divine Marker</strong></p>
+
+<p><em>An-</em> may prefix phrases that invoke a higher power or sacred authority. This is consistent with its appearance in spell incantations (calling upon arcane power), greetings (invoking divine blessing), and emotional exclamations. If cognate with Darnassian <em>anar</em> ("beloved" or "sun"), <em>An-</em> could specifically invoke Elune or the Nightwell's arcane power.</p>
+
+<p><strong>Hypothesis 2: <em>An-</em> = Optative Verbal Prefix</strong></p>
+
+<p><em>An-</em> may mark optative mood ("may X happen"), which would explain its concentration in greetings (<em>Anar'amenos</em> = "may [you be] beloved"), farewells (<em>An'ratha</em> = "may [you go] well"), and spell commands (<em>An'ah</em> = "may [time] stop"). Optative-initial syntax is cross-linguistically common in ritual and formulaic language.</p>
+
+<p><strong>Hypothesis 3: <em>An-</em> = First-Person Pronoun or Agreement</strong></p>
+
+<p><em>An-</em> could be a first-person pronominal element ("I"), explaining its presence in spell incantations (the caster identifies themselves). However, this would not explain its appearance in battle cries or greetings used by multiple speakers.</p>
+
+<p><strong>Hypothesis 4: <em>An-</em> = Multiple Homophonous Morphemes</strong></p>
+
+<p>The <em>An-</em> in spell incantations, greetings, and battle cries may be different morphemes that happen to share the same phonological shape. The concentration in initial position could reflect Shalassian phonotactics (vowel-initial words are dispreferred) rather than shared morphology.</p>
+
+<h3 id="assessment-an">Assessment</h3>
+
+<table>
+<thead>
+<tr><th>Hypothesis</th><th>Confidence</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td><em>An-</em> = invocation/divine marker</td><td>Low&ndash;Moderate</td><td>Semantically coherent across domains; potential Darnassian <em>anar</em> cognate strengthens case</td></tr>
+<tr><td><em>An-</em> = optative prefix</td><td>Low&ndash;Moderate</td><td>Best explanation for greeting/farewell concentration; cross-linguistic parallels in ritual language</td></tr>
+<tr><td><em>An-</em> = first-person pronoun</td><td>Very Low&ndash;Low</td><td>Does not explain multi-speaker phrases (battle cries, generic greetings)</td></tr>
+<tr><td><em>An-</em> = homophonous morphemes</td><td>Low</td><td>Possible but unproductive; requires coincidence across 6+ phrases</td></tr>
+</tbody>
+</table>
+
+<p><strong>Confidence: Low&ndash;Moderate</strong> for <em>An-</em> as a single functional morpheme, with the optative and invocation hypotheses being the strongest. The potential cognate with Darnassian <em>anar</em> ("beloved/sun") provides independent support. The concentration of <em>An-</em> in phrase-initial position across three functional domains (spells, greetings, combat) argues against coincidence. Testable if additional <em>An-</em> initial phrases are discovered, or if a phrase meaning can be decomposed to isolate <em>An-</em> function.</p>
+
+<h2 id="investigation-3-fal-tel-pair">Investigation 3: The <em>Fal-</em> and <em>Tel-</em> Root Pair &mdash; Fallen/Deep as Shalassian Semantic Axes</h2>
+
+<p>The two most productive newly identified Shalassian roots &mdash; <em>Fal-</em> and <em>Tel-</em> &mdash; appear in parallel structural positions across both place names and formulaic phrases, suggesting they function as semantic anchors in Shalassian spatial vocabulary.</p>
+
+<h3 id="fal-evidence">Fal- Evidence</h3>
+
+<table>
+<thead>
+<tr><th>Word</th><th>Category</th><th>Proposed Gloss</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Fal'dorei</em></td><td>Ethnonym</td><td>"Fallen/Cursed children"</td><td>Spider-cursed former Nightborne</td></tr>
+<tr><td><em>Falanaar</em></td><td>Place name</td><td>"Fallen [place]"</td><td>Ruined Highborne city</td></tr>
+<tr><td><em>Fal'adora</em></td><td>Place name</td><td>"Fallen temple/grace"</td><td>Temple beneath Falanaar; <em>-dora</em> parallels <em>Erana-dora</em></td></tr>
+</tbody>
+</table>
+
+<h3 id="tel-evidence">Tel- Evidence</h3>
+
+<table>
+<thead>
+<tr><th>Word</th><th>Category</th><th>Proposed Gloss</th><th>Notes</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Tel'anor</em></td><td>Place name</td><td>"Deep/far rest"</td><td>Highborne gravesite</td></tr>
+<tr><td><em>Teloth'aran</em></td><td>Place name</td><td>"Deep sanctuary"</td><td>Ruined area; contains <em>aran</em></td></tr>
+<tr><td><em>Tel'vasha</em></td><td>Spell incantation</td><td>"Far strike"</td><td>Teleportation spell (sends target to bottom of Great Sea)</td></tr>
+<tr><td><em>Tel'velath</em></td><td>Farewell phrase</td><td>"Go far/deep"</td><td>Farewell; <em>-velath</em> unknown</td></tr>
+<tr><td><em>Tel'arn</em></td><td>Personal name</td><td>"Deep [one]"</td><td>High Botanist's name</td></tr>
+</tbody>
+</table>
+
+<h3 id="fal-tel-analysis">Analysis</h3>
+
+<p><em>Fal-</em> and <em>Tel-</em> share several structural properties:</p>
+<ol>
+<li>Both appear as the first element in apostrophe-marked compounds (<em>Fal'dorei</em>, <em>Tel'anor</em>)</li>
+<li>Both appear in place names AND formulaic phrases (unlike <em>Shal-</em> which is primarily in ethnonyms/places)</li>
+<li>Both have 3+ attestations, the minimum for morpheme confidence</li>
+</ol>
+
+<p>The semantic contrast is striking: <em>Fal-</em> appears to mark corruption/loss (the fal'dorei are cursed, Falanaar is ruined), while <em>Tel-</em> appears to mark depth/distance (gravesites, teleportation, farewells). Together, they may represent a Shalassian spatial axis: <em>Fal-</em> = "down/lost" (vertical descent into corruption) vs. <em>Tel-</em> = "far/deep" (horizontal or vertical distance without negative connotation).</p>
+
+<h3 id="fal-tel-cognate-candidates">Cognate Candidates</h3>
+
+<table>
+<thead>
+<tr><th>Shalassian</th><th>Darnassian/Thalassian</th><th>Proposed Connection</th><th>Confidence</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Fal-</em></td><td><em>falah</em> ("balance/breaking")</td><td>If <em>fal-</em> = "fallen" and <em>falah</em> = "breaking," shared root meaning "disruption"</td><td>Low&ndash;Moderate</td></tr>
+<tr><td><em>Tel-</em></td><td><em>tal</em> ("death")</td><td>If <em>Tel'</em> = "deep/far" and <em>tal</em> = "death," possible vowel-grade alternation <span class="ipa">/ɛ/</span> &harr; <span class="ipa">/ɑ/</span></td><td>Very Low&ndash;Low</td></tr>
+<tr><td><em>Fal-</em></td><td>Thalassian <em>thalas</em> ("home")</td><td>Phonological similarity but semantic divergence ("fallen" vs. "home"); unlikely</td><td>Very Low</td></tr>
+</tbody>
+</table>
+
+<p>The <em>Fal-</em> / <em>falah</em> correspondence is the most promising: both share /f/ + low vowel + /l/, and both relate to disruption/breaking. If <em>fal-</em> in Shalassian and <em>falah</em> in Darnassian derive from a Proto-Elven root <em>*fal-</em> meaning "to break/fall," this would be a fifth cognate set beyond the four identified in elven-comparative.html (Sets 15&ndash;18). However, the semantics are not precise enough for confirmation.</p>
+
+<h3 id="fal-tel-assessment">Assessment</h3>
+
+<p><strong>Confidence: Moderate</strong> for <em>Fal-</em> = "fallen/cursed" (3 attestations with consistent semantic context). <strong>Confidence: Low&ndash;Moderate</strong> for <em>Tel-</em> = "deep/far" (5 attestations but more varied contexts). <strong>Confidence: Very Low&ndash;Low</strong> for <em>Fal-</em>/falah cognate. The structural productivity of both roots (appearing in names, places, and formulas) is unusual for elven morphemes and may reflect Shalassian-specific innovation under the Nightwell's influence.</p>
 
 </body>
 </html>

@@ -10,12 +10,72 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| Khaz Algar | /kæz ˈælgɑːr/ | *Khaz-* (forge/craft) + *Algar* (uncertain) | Subterranean continent named after the Titan Khaz'goroth. The *Khaz-* element confirms this as a Titan-derived toponym, parallel to *Khaz Modan* (Mountain of Khaz). *Algar* may mean "deep" or "below" or may be a proper name. |
-| Isle of Dorn | /dɔːrn/ | *Dorn-* possibly related to Titan *-dor* (land) | Surface zone. *Dorn* / *Dor-n* could be *-dor* + *-n* suffix. |
-| Dornogal | /ˈdɔːrnəɡɑːl/ | *Dorn-* + *-ogal* (?) | Earthen capital city. *Dorn-* may be the same root as "Isle of Dorn." *-ogal* is unexplained but parallels *-agal* in other titan-forged suffixes. |
-| Gundargaz | /ˈɡʊndɑːrɡæz/ | *Gun-* + *-dar-* + *-gaz* OR *Gundar-* + *-gaz* | Machine Speakers settlement. The *-dar-* element in medial position may reflect *-dor* (land/realm). *-gaz* is unexplained but parallels goblin names (*Gazlowe*) — possible goblin loan. |
+| Khaz Algar | /kæz ˈælgɑːr/ | *Khaz-* (forge/craft) + *Algar* (uncertain) | Subterranean continent named after the Titan Khaz'goroth. The *Khaz-* element confirms this as a Titan-derived toponym, parallel to *Khaz Modan* (Mountain of Khaz). *Algar* may mean "deep" or "below" or may be a proper name. Pronounced /ˈkɑz ˈɑlɡɑɹ/ per official guide. |
+| Isle of Dorn | /dɔːrn/ | *Dorn-* possibly related to Titan *-dor* (land) | Surface zone. *Dorn* / *Dor-n* could be *-dor* + *-n* suffix. Etymology possibly from Watcher Dornic, who ruled the earthen before they rebelled. |
+| Dornogal | /ˈdɔːrnəɡɑːl/ | *Dorn-* + *-ogal* (?) | Earthen capital city, named in honor of watchers Dornic and Galan. *Dorn-* may be the same root as "Isle of Dorn." *-ogal* is unexplained but may incorporate *-gal* from *Galan* (watcher name). |
+| Gundargaz | /ˈɡʊndɑːrɡæz/ | *Gun-* + *-dar-* + *-gaz* OR *Gundar-* + *-gaz* | Machine Speakers settlement in the Ringing Deeps. The *-dar-* element in medial position may reflect *-dor* (land/realm). *-gaz* is unexplained but parallels goblin names (*Gazlowe*) — possible goblin loan. |
 | Ringing Deeps | — | Common/English name | Underground zone. |
 | Hallowfall | — | Common/English name | Underground cavern zone. |
+
+### Khaz Algar Sub-Regions (Isle of Dorn)
+
+| Name | IPA | Analysis | Notes |
+|------|-----|----------|-------|
+| Dhar Oztan | /dɑːr ˈɒztæn/ | *Dhar-* + *Oztan* | Mountain area where first stormrooks were summoned. *Dhar-* appears in four Isle of Dorn toponyms — may be an Earthen place prefix meaning "peak" or "mountain." |
+| Dhar Kazhad | /dɑːr kæzˈhæd/ | *Dhar-* + *Kazhad* | Area near Thunderhead Peak. *Kazhad* may contain *Kaz-* (forge) + *-had* (?). |
+| Dhar Durgaz | /dɑːr ˈdɜːrɡæz/ | *Dhar-* + *Durgaz* | Area in the south of Isle of Dorn. *Durgaz* may be related to *Gundargaz* (both share *-gaz* and *dur-* / *gun-* roots). |
+| Dhar Bandar | /dɑːr ˈbændɑːr/ | *Dhar-* + *Bandar* | Area in the southeast of Isle of Dorn. *-dar* element parallels *-dar* in *Beledar*, *Mereldar*. |
+| Thul Medran | /θʊl ˈmɛdræn/ | *Thul-* + *Medran* | Area near the Three Shields. *Thul-* contains /θ/, linking to Earthen phonology. *Medran* may contain *-dran* related to *-dun*? |
+| Thul (element) | /θʊl/ | Uncertain | Appears in *Thul Medran* and possibly related to Dwarven *Thandol*, *Thelsamar*, *Thelgen*. Contains /θ/, a Titan-retained phoneme. |
+| Golgrin's Reach | — | Common compound + personal name | *Golgrin* may be an Earthen personal name; *-grin* parallels *-grim* in *Baelgrim*. |
+| Mourning Rise | — | Common/English name | Cemetery for the Unbound. |
+| The Proscenium | — | Common/English name | Theater area where earthen gather. |
+| Freywold Village | — | Common compound | Settlement of the Freysworn. |
+| Rambleshire | — | Common compound | Settlement on Isle of Dorn. |
+| Storm's Watch | — | Common compound | Stormrider outpost. |
+| The Orecreg / Opalcreg | — | Common compound | Mining areas. |
+| Skolzgal Mill | /ˈskɒlzɡæl/ | *Skolzgal* (?) | Possibly Earthen toponym; contains /sk/ onset. |
+
+### Khaz Algar Sub-Regions (Ringing Deeps)
+
+| Name | IPA | Analysis | Notes |
+|------|-----|----------|-------|
+| The Earthenworks | — | Common compound | Industrial center of the Ringing Deeps. |
+| Candleslag Quarry | — | Common compound | Mining area; "Candleslag" combines kobold "candle" motif with Earthen industrial term "slag." |
+| Deepforge Golemworks | — | Common compound | Abandoned war golem facility. |
+| Ironhaul Station | — | Common compound | Transport hub. |
+| Taelloch | /ˈteɪlɒx/ or /ˈteɪlɒk/ | Uncertain | Region and mine in Ringing Deeps. *Taelloch* contains the *-loch* element (cf. Dwarven *Loch Modan*), suggesting a Dwarven/Earthen toponym. |
+| Taelloch Mine | — | Common compound | Mine in Taelloch region. |
+| Nibelgaz Mine | /ˈnɪbɛlɡæz/ | *Nibel-* + *-gaz* | Mine in the Ringing Deeps. *-gaz* parallels *Gundargaz* and *Dhar Durgaz*. *Nibel-* may relate to Germanic *Nibelung* (dwarf myth) — possible Blizzard design parallel. |
+| Brunwin's Terrace | — | Common compound + personal name | *Brunwin* may be an Earthen personal name. |
+| Cataract River | — | Common/English name | Underground river. |
+| Shimmermist Falls | — | Common/English name | Waterfall area. |
+| Pillarstone Spire | — | Common compound | Stone spire formation. |
+| Camp Murroch | — | Common compound + personal name | *Murroch* may be an Earthen personal name. |
+| Shadowvein Point/Mine/Power Station/Extraction Site | — | Common compound | Goblin Darkfuse operations area. |
+| The Living Grotto | — | Common compound | Bioluminescent cave passage to Azj-Kahet. |
+| The Rumbling Wastes | — | Common/English name | Unstable geological area. |
+| Obsidian Hollow | — | Common compound | Underground cavern. |
+| The Waterworks | — | Common compound | Earthen water management facility. |
+| Opportunity Point | — | Common compound | Settlement in the south Ringing Deeps. |
+
+### Dornogal Sub-Regions (Capital City)
+
+| Name | IPA | Analysis | Notes |
+|------|-----|----------|-------|
+| The Coreway | — | Common compound | Large tunnel connecting Isle of Dorn to Ringing Deeps. |
+| The Archive | — | Common/English name | Repository where earthen relinquished memories to the Titan Archive. |
+| Foundation Hall | — | Common compound | Central hub of Dornogal with portals. |
+| The Forgegrounds | — | Common compound | Crafting area of Dornogal. |
+| Stoneshaper's Atrium | — | Common compound | Area associated with the Stonebound/Unbound. |
+| Stoneward's Rise | — | Common compound | Area associated with the Stoneward (Adelgonn). |
+| Councilward's Rise | — | Common compound | Area associated with the Councilward (Merrix). |
+| Thraegar Rest | /ˈθreɪɡɑːr rɛst/ | *Thraegar* + Common *Rest* | Area in Dornogal named after the crystallized thraegar beings. *Thraegar* contains /θ/ and may share the *-gar* element with *Dungard* → *-gard*. |
+| Oath Gate | — | Common compound | Entrance to Dornogal's inner city. |
+| Keepers Terrace | — | Common compound | Area honoring the Titan Keepers. |
+| The Lapidarium | — | Latin/English loan | Gem and mineral gallery. |
+| The Kindling Parlor | — | Common compound | Earthen warming area. |
+| Hearthside Suite | — | Common compound | Inn area. |
 
 ### Hallowfall Places (Arathi Settlements with Possible Earthen Morphemes)
 
@@ -24,6 +84,27 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Beledar | /bɛˈlɛdɑːr/ | *Bel-* + *-edar* (?); *-dar* ≈ Titan *-dor* (land/realm) | The immense crystal in Hallowfall's ceiling that acts as an inner sun. The *-dar* ending parallels Titan *-dor* as in *Kalimdor*. If *-dar* = *-dor*, both Hallowfall cities share a Titan-derived toponymic suffix. |
 | Mereldar | /mɛˈrɛldɑːr/ | *Merel-* + *-edar* (?); *-dar* ≈ Titan *-dor* | Arathi city in Hallowfall. Same *-dar* suffix as Beledar. |
 
+### Pre-TWW Dwarven/Earthen Toponyms
+
+| Name | IPA | Analysis | Notes |
+|------|-----|----------|-------|
+| Thor Modan | /θɔːr ˈmoʊdæn/ | *Thor-* + *Modan* | Iron dwarf capital in Grizzly Hills. Parallels *Khaz Modan*; titan-forged toponym. *Thor-* may relate to Vrykul *Thor-* (thunder/god). |
+| Bael Modan | /beɪl ˈmoʊdæn/ | *Bael-* + *Modan* | Titan facility in the Barrens. RPG translation: "Red Mountain." If canon, *Bael-* = "red" (not "stone/earth" as previously inferred), which would change the analysis of *Baelgrim* and *Bael'dun*. |
+| Bael'dun | /beɪlˈdʌn/ | *Bael-* + *dun* | Dwarven digsite in the Barrens and Mulgore. If *Bael-* = "red" (per RPG), then *Bael'dun* = "Red Fortress." If *Bael-* = "stone" (previous inference), then "Stone Fortress." |
+| Angor | /ˈæŋɡɔːr/ | Uncertain | Dark Iron fortress in the Badlands. |
+| Barak Tor'ol | /ˈbæræk tɔːrˈɒl/ | Uncertain | Species of ram from Khaz Modan. |
+| Dun Algaz | /dʌn ˈælɡæz/ | *Dun-* + *Algaz* | Dwarven pass. *-gaz* parallels *Gundargaz*, *Nibelgaz*, *Dhar Durgaz*. |
+| Dun Baldar | /dʌn ˈbɔːldɑːr/ | *Dun-* + *Baldar* | Dwarven base in Alterac Valley. *-dar* parallels *Beledar*, *Mereldar*. |
+| Dun Garok | /dʌn ˈɡærɒk/ | *Dun-* + *Garok* | Dwarven fortress in Hillsbrad. |
+| Dun Mandarr | /dʌn ˈmændɑːr/ | *Dun-* + *Mandarr* | Cave in Winterspring. |
+| Dun Modr | /dʌn ˈmoʊdɜːr/ | *Dun-* + *Modr* | Former dwarven fortress in Wetlands. *Modr* may be related to *Modan*. |
+| Gol'Bolar | /ɡɒlˈboʊlɑːr/ | *Gol-* + *Bolar* | Quarry in Dun Morogh. |
+| Kharanos | /kəˈrɑːnoʊs/ | Uncertain | Dwarven town in Dun Morogh. |
+| Thandol | /ˈθændɒl/ | Uncertain | The dwarven bridge connecting Khaz Modan to Lordaeron. Contains /θ/. |
+| Thelgen | /ˈθɛlɡɛn/ | Uncertain | Cave in the Wetlands. Contains /θ/. |
+| Thelsamar | /ˈθɛlsɑːmɑːr/ | Uncertain | Dwarven town in Loch Modan. Contains /θ/. |
+| Stonehearth | — | Common compound | Earthen settlement in Deepholm. |
+
 ### Titan-Related Terms (Earthen Context)
 
 | Word | Translation | Notes |
@@ -31,11 +112,9 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Uldaman | Titan facility in the Badlands | Where Earthen were shaped; not Earthen-language but directly relevant |
 | Earthen | Titan-created stone beings | English term; Earthen self-designation unknown |
 | The Awakening Machine | Facility for recharging Earthen | Common/English name |
-| Deepforge Golemworks | Abandoned war golem facility | Common/English compound |
-| Coreway | Large access tunnel connecting surface to underground | Common/English compound |
-| Dhar Oztan | /dɑːr ˈɒztæn/ | Location in Khaz Algar where first stormrooks were summoned. Possibly non-Common toponym. The *-Oztan* element is unexplained. |
-| Thor Modan | /θɔːr ˈmoʊdæn/ | Iron dwarf capital in Grizzly Hills. *Thor-* + *Modan*; parallels *Khaz Modan*; titan-forged toponym. |
-| Stonehearth | — | Earthen settlement in Deepholm. Common compound. |
+| The Worldcore | Facility protecting the Worldsoul | Built by the earthen under Titan direction |
+| The Edicts | Titan directives governing earthen behavior | Common/English term |
+| Sector AR-938 | Titan designation for Khaz Algar | Alphanumeric code; not linguistic |
 
 ## 2. People & Proper Names
 
@@ -55,6 +134,13 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Wireweaver Grelka | /ˈɡrɛlkə/ | Machine Speaker | *Grelka* is a personal name; "Wireweaver" is a Common title. |
 | Leikaroc | /ˈleɪkærɒk/ | Earthen NPC | Contains *-oc* / *-roc* element (cf. *Goggeroc*). |
 | Adland | /ˈædlænd/ | Earthen NPC | Contains *-land* element (Common/English?). |
+| Flamekeeper Graz | /ɡræz/ | Earthen NPC (rare) | *Graz* is a personal name; "Flamekeeper" is a Common title. |
+| Kordac | /ˈkɔːrdæk/ | Earthen world boss | Single-element name with *-ac* ending (cf. *-oc* in *Goggeroc*, *Leikaroc* — possible variant of same suffix). |
+| Munderut | /ˈmʌndɛrʌt/ | Earthen (historical) | Name attested in "Munderut's Forgotten Stash" in Nibelgaz Mine. |
+| Brunwin | /ˈbrʊnwɪn/ | Earthen (historical) | Name attested in "Brunwin's Terrace" in Ringing Deeps. Possibly feminine (cf. Germanic *-win* names). |
+| Murroch | /ˈmʌrɒk/ | Earthen | Name attested in "Camp Murroch" in Ringing Deeps. |
+| Durzan | /ˈdɜːrzæn/ | Ramolith (beast) | Name of one of the two mighty ramoliths whose clash summoned the first stormrooks. Not Earthen personal name but an Earthen-given name. |
+| Belzt | /bɛlts/ | Ramolith (beast) | Name of the other ramolith. Not Earthen personal name but an Earthen-given name. |
 
 ### Pre-TWW Earthen Names
 
@@ -80,7 +166,18 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Stonebound | — | English designation; led by the Stoneward |
 | Stormrangers | — | English designation; new branch of Stormriders commissioned by Lufsela |
 | Skardyn | /ˈskɑːrdɪn/ | Earthen corrupted by void magic; the *Skar-* element may relate to Vrykul *Skar-* (cf. *Skarvald*, *Voldskar*) |
-| Thraegar | /ˈθreɪɡɑːr/ | Earthen corrupted by the Worldsoul's influence; crystallized variant |
+| Thraegar | /ˈθreɪɡɑːr/ | Earthen corrupted by the Worldsoul's influence; crystallized variant. *Thraegar* contains /θ/ and the *-gar* element (cf. *Dungard* ~ *-gard*). Name also appears in Dornogal district *Thraegar Rest*. |
+
+### Skardyn Vocalizations
+
+The only attested Skardyn vocalizations come from *Night of the Dragon* (page 17), where a skardyn captured by Rom and his company shouts:
+
+| Phrase | IPA | Context | Notes |
+|--------|-----|---------|-------|
+| Uzuraugh! | /uːˈzʊəraʊɡ/ | Hostile exclamation | May represent corrupted Earthen or void-influenced speech. No translation. |
+| Hizakh! | /hɪˈzæx/ | Hostile exclamation | May represent corrupted Earthen. The *-akh* ending parallels Dwarven parser words (*Azregahn*, etc.). No translation. |
+
+These are the only known Skardyn utterances. Their phonology retains some Dwarven/Earthen features (guttural consonants, /x/ fricative) but also introduces sounds not attested in Earthen (initial /uː/, /z/ in cluster). The limited data makes it impossible to determine whether Skardyn retain any structured language or these are merely aggressive vocalizations.
 
 ### Earthen Leadership Titles
 
@@ -117,11 +214,16 @@ The *-ward* suffix in three of the four titles (Stormward, Councilward, Stonewar
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
-| -ogal | Uncertain (place/city suffix?) | *Dornogal* | **Very Low** — single attestation |
-| -gaz | Uncertain (settlement suffix?) | *Gundargaz* | **Very Low** — single attestation; may be a goblin loan |
+| -ogal | Uncertain (place/city suffix?) | *Dornogal* | **Very Low** — single attestation; may incorporate *-gal* from Watcher *Galan* |
+| -gaz | Uncertain (settlement/mine suffix?) | *Gundargaz*, *Nibelgaz*, *Dhar Durgaz*, *Dun Algaz* | **Low–Moderate** — four attestations across place names; may be goblin loan or native Earthen mine-related morpheme |
 | -dyn | People / race suffix | *Skardyn* (cf. *Earthen* — if *Skardyn* = *Skar-* + *-dyn* replacing *Earthen* = *Ear-* + *-then*) | **Very Low** — if *-dyn* = *-then*, then *Skardyn* is a parallel formation replacing the "earth" root with "dark" root |
 | -rix | Title / rank suffix | *Merrix* | **Very Low** — possible real-world parallel (Latin *-rix*) but no in-universe evidence |
 | -gonn | Uncertain | *Adelgonn* | **Very Low** — single attestation |
+| Dhar- | Peak / mountain (place prefix) | *Dhar Oztan*, *Dhar Kazhad*, *Dhar Durgaz*, *Dhar Bandar* | **Low–Moderate** — four attestations, all as Isle of Dorn toponym prefix; may be related to *-dar* / *-dor* (land/realm) |
+| -loch | Lake / water feature | *Taelloch* (Ringing Deeps), *Loch Modan* (Dwarven) | **Low** — appears in both Earthen and Dwarven toponyms; if genuine morpheme, shared across both languages |
+| Thul- | Uncertain (contains /θ/) | *Thul Medran* (Isle of Dorn), possibly related to *Thandol*, *Thelsamar*, *Thelgen* (Dwarven) | **Very Low** — single Earthen attestation; phonological similarity to Dwarven /θ/-initial words |
+| -ac / -oc | Personal name suffix | *Kordac*, *Goggeroc*, *Leikaroc* | **Very Low** — if *-ac* and *-oc* are variants of the same suffix, three attestations; but semantic pattern unclear |
+| -gaz | Mine / excavation suffix | *Gundargaz* (settlement), *Nibelgaz Mine*, *Dhar Durgaz* (area), *Dun Algaz* (pass) | **Low–Moderate** — four attestations, all associated with mining/excavation areas; may mean "mine" or "dig" |
 
 ## 4. Titan-Earthen Cross-Reference
 
@@ -247,7 +349,52 @@ The mixed human–elven heritage of the Arathi could produce names that combine 
 
 **Confidence: Very Low.** The Arathi naming data is interesting but insufficient for morphological analysis. The primary significance is the *-dar* suffix in place names, which connects to the Earthen/Titan *-dor* morpheme.
 
-## 10. Kobyss and the Murloc/Jinyu/Ankoan Language Family
+## 10. Brann Bronzebeard's Dwarven Sentence
+
+The longest attested Dwarven text is spoken by Brann Bronzebeard when trying to communicate with Horde adventurers (quest: *Speak Orcish, Man!*). No official translation exists, but it contains multiple recognizable morphemes:
+
+**Full text:** *Ruk MogOth red a mogoth ta eft Thros-garE Haldir. Kha gor ruk khaz ta ke ruk hrim eft thros-am-kha ruk kost-um havar go kost. A modoss hine ruk bergum eft thros-am-kha ga eft Haldir ke loch Thon we lo gefrunon ta mitta. Gar Ruk dagUm loch angor-magi ta har ruk!*
+
+### Identified Morphemes
+
+| Element | Known Cognate | Notes |
+|---------|---------------|-------|
+| ruk | — | Repeated 6 times; likely a pronoun or article ("the", "I", "they") |
+| khaz | *Khaz* (forge/craft) | Confirmed morpheme; appears in *Khaz Modan*, *Khaz Algar* |
+| thros | *Thros* (cf. *Thros-gare*, *Thros-am-Kha* from in-game parser) | Also in Drustvar (*Thros, the Blighted Lands*); may be a shared titan-forged word |
+| gar | *Gar* (cf. *Grim Batol-gar*?) | Also appears standalone; may mean "hold" or "fortress" |
+| loch | *Loch* (lake/body of water) | Scottish Gaelic *loch*; also in *Loch Modan*, *Taelloch* |
+| angor | *Angor* (Dark Iron fortress) | Also in *Angor-Magi* (in-game parser word) |
+| haldir | *Haldir* (in-game parser word) | Untranslated; appears twice |
+| kost | — | Appears in *kost-um* and standalone; unknown |
+| havar | — | Unknown |
+| modoss | — | Unknown; may contain *Modan* root |
+| bergum | — | Unknown; Germanic-sounding (*Berg* = mountain) |
+| gefrunon | — | Unknown; may contain *ge-* prefix + root |
+| mitta | — | Unknown |
+| dagUm | — | Unknown |
+| magi | — | Possibly "magic" or "mage" (Common loan?) |
+| ke | — | Likely a particle or preposition |
+| ta | — | Likely a particle or preposition; very frequent |
+| a | — | Likely an article |
+| eft | — | Likely a preposition; repeated 3 times |
+| am | — | Likely a conjunction or particle |
+| we | — | Likely a conjunction ("and"?) |
+
+### Structural Observations
+
+1. **The sentence contains 50+ words**, making it by far the longest Dwarven text. However, it was generated by the in-game language parser (which uses a substitution cipher from Common), so the words may not represent genuine Dwarven vocabulary.
+
+2. **Several morphemes align with known Dwarven/Earthen toponyms**: *khaz*, *loch*, *angor*, *thros*, *gar*. This could indicate that:
+   - The parser incorporates some genuine Dwarven morphemes alongside generated ones
+   - Blizzard designed the parser vocabulary to be consistent with established place names
+   - The alignment is coincidental (the parser vocabulary was designed independently)
+
+3. **The text contains the sequence *thros-am-kha***, which appears twice. If *Thros* is a genuine morpheme (cf. Drust *Thros*), then *thros-am-kha* may be a Dwarven compound or phrase. The *-am-* element could be a conjunction or possessive marker.
+
+4. **Reliability: Very Low.** The in-game "translator" merely makes words look Dwarven — it does not use a genuine dictionary. However, the alignment of parser-generated words with established toponymic morphemes (*khaz*, *loch*, *angor*) suggests Blizzard may have seeded the parser with some genuine roots. These should be treated as **possible** Dwarven vocabulary at best, never as confirmed translations.
+
+## 11. Kobyss and the Murloc/Jinyu/Ankoan Language Family
 
 The kobyss are vicious amphibious creatures native to the Undersea of Khaz Algar, resembling large humanoid anglerfish. They attack the Arathi settlements whenever Beledar shifts into its Void phase, suggesting a connection to Void energy. The full murloc → jinyu → ankoan → kobyss evolutionary chain and all associated linguistic data have been moved to a dedicated directory: **[nerglish/](../nerglish/)**.
 

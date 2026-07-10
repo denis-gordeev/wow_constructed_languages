@@ -33,19 +33,25 @@ Shalassian phonology is inferred to resemble Darnassian and Thalassian: fluid co
 
 ## Writing System
 
-No Shalassian writing system has been depicted in canon. The Nightborne were sealed beneath the Nightwell's shield for 10,000 years, during which they developed a sophisticated arcane civilization — their architecture, ley-weaving, and magical research would presumably require extensive written records, but all in-game Nightborne texts are rendered in Common. Suramar's libraries, the Arcan'dor records, and the Nightborne scholarship referenced in the Legion campaign suggest a literate society, but no native Shalassian script is shown. The Nightborne's deep connection to arcane energy raises the possibility that their writing system incorporates magical glyphs or ley-line patterns, but this is entirely speculative.
+Shalassian writing is depicted in-game on structures such as Astromancer's Rise. The script appears as flowing, arcane-looking glyphs consistent with the elven aesthetic tradition. However, no official transliteration or alphabet chart exists — the writing is purely decorative and cannot be read by players. The Nightborne's 10,000-year isolation under the Nightwell shield preserved a literate civilization with extensive written records (the Arcway contains libraries, the Nighthold houses archives, and Nightborne scholarship is referenced throughout the Suramar campaign). Ancient Nightborne text is described as "so archaic only the oldest elves might be able to read it" (from the [Ancient Nightborne Tome] archaeology item), suggesting the written form has evolved or that very old texts use an archaic orthography that modern Nightborne would struggle with. The Nightborne's deep connection to arcane energy raises the possibility that their writing system incorporates magical glyphs or ley-line patterns, but this is speculative.
 
 ## Attested Morphemes
 
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
-| *Shal-* | Twilight / arcane | *Shal'dorei*, *Shal'Aran*, *Shalassian* | Moderate |
+| *Shal-* | Twilight / arcane / night | *Shal'dorei*, *Shal'Aran*, *Shalassian*, *Shal'asan torah* | Moderate–High |
 | *-dorei* | Children of | Confirmed via Darnassian and Thalassian cognates | High |
-| *Aran* | Sanctuary / home / refuge | *Shal'Aran* | Moderate |
+| *Aran* | Sanctuary / home / refuge | *Shal'Aran*, *aran'arcana*, *aran'ethil* | Moderate |
 | *-assian* | Language / speech suffix | *Shalassian* | Low |
-| *-el* | Of the stars / divine suffix | *Aran'el* | Very Low |
-| *Ly'-* | Possibly "moon" or "night" | *Ly'leth* | Low |
-| *Thal-* | Possibly "home" (cognate with Thalassian *thalas*) | *Thalyssra* | Low |
+| *Fal-* | Fallen / cursed / spider | *Fal'dorei*, *Falanaar*, *Fal'adora* | Moderate |
+| *Tel-* | Earth / deep / far / beyond | *Tel'anor*, *Teloth'aran*, *Tel'vasha*, *Tel'velath*, *Tel'arn* | Moderate |
+| *Kel-* | (unknown, possibly "knowledge" or "tomb") | *Kel'balor*, *Kel'danath* | Low |
+| *Nar- / Nal-* | (unknown, possibly "web" or "weave") | *Nar'thalas*, *Nal'ryssa*, *Nal'tira*, *Nal'asha* | Low |
+| *An- / An'* | Invocation / divine marker / optative | *An'ah*, *An'anora*, *An'ratha*, *Anar'amenos*, *Anath'ashar* | Low |
+| *Thal-* | (unknown, possibly "home" or "arcane") | *Thalyssra*, *Thal'dranath* | Low |
+| *-dora* | (unknown, possibly "thanks" or "grace") | *Erana-dora*, *Fal'adora* | Low |
+| *-ashar* | (unknown, possibly "honor" or "challenge") | *Tal'ashar*, *Anath'ashar* | Low |
+| *Rath* | Strike / force / arcane bolt | *Rath*, *Rath-domaas*, *Rath-anu'tanos* | Low (spell family) |
 
 ## Relationship to Other Languages
 
@@ -60,18 +66,32 @@ No Shalassian writing system has been depicted in canon. The Nightborne were sea
 
 | Category | Count | Examples |
 |----------|-------|----------|
+| Confirmed translations | 5 | *Erana-dora isil* (a thousand thanks), *Tal'ashar* (honor duel), *Shal'dorei* (nightborne), *Ru shanna shal'dorei* (the nightborne will survive), *Quel'vala thonos* (nobility through tradition) |
+| Untranslated phrases | 25+ | *Anar'amenos*, *Aran'arcana*, *Ash'thoras denil*, *Ishnal toreth*, *An'ratha ador*, *Kal'theros maldin*, *Nor'bethos Suramar*, etc. |
 | Confirmed morphemes | 2 | *Shal* (twilight), *-dorei* (children of) |
-| Inferred morphemes | 5 | *Aran* (sanctuary), *-assian* (language), *-el*, *Ly'-*, *Thal-* |
-| Attested place names | 2+ | Suramar, Shal'Aran |
-| Attested personal names | 8+ | Elisande, Thalyssra, Silgryn, Ly'leth, Oculeth, Arluin, Margaux, Lunastre |
-| Attested sentences | 0 | No native Shalassian sentences are recorded |
+| Inferred morphemes | 15+ | *Aran* (sanctuary), *Fal-* (cursed/fallen), *Tel-* (earth/deep), *Kel-*, *Nar-/Nal-*, *An-/An'* (invocation), etc. |
+| Attested place names (Shalassian) | 15+ | Suramar, Shal'Aran, Falanaar, Tel'anor, Teloth'aran, Kel'balor, Fal'adora, Astravar, etc. |
+| Attested personal names | 40+ | Thalyssra, Elisande, Oculeth, Silgryn, Ly'leth, Valtrois, Vanthir, Victoire, etc. |
+| Attested full sentences | 0 | No continuous Shalassian prose or dialogue is recorded |
 
 ## Reliability Notes
 
-- **Limited attestation, but better grounded than most languages in this collection.** The "-dorei" compound pattern is well-attested across three elven languages and can be confirmed through cross-comparison.
+- **Better attested than previously documented.** 25+ untranslated Shalassian phrases exist in-game, spoken by named NPCs with voice acting. These phrases include greetings, farewells, combat incantations, death cries, and ritual formulas. While no full sentences have been officially translated beyond the 5 confirmed phrases, the corpus is substantial for phonological and morphological analysis.
+- **Confirmed translations are rare but reliable.** Only 5 phrases have official translations: *Erana-dora isil*, *Quel'vala thonos*, *Ru shanna shal'dorei*, *Shal'dorei*, and *Tal'ashar*. These provide anchor points for morpheme analysis.
 - "Shal" = "twilight" is inferred from "Shal'dorei" = "Children of the Twilight" and is moderately reliable.
-- "Aran" = "sanctuary" is inferred from "Shal'Aran" and has only one attestation; it is uncertain.
-- "Aran'el" has no confirmed translation.
-- No sentence-level Shalassian is attested in canon sources.
-- The Nightborne in-game speak Common or Darnassian-translated dialogue; distinct Shalassian sentences are not recorded.
-- The relationship between Shalassian and Darnassian is well-established in lore, which provides a stronger foundation for inference than languages with no known relatives.
+- "Aran" = "sanctuary" is supported by *Shal'Aran*, *aran'arcana* (a greeting), and *aran'ethil* (an emotional exclamation), giving three attestations rather than one.
+- The *Fal-* morpheme (in *Fal'dorei*, *Falanaar*, *Fal'adora*) likely means "fallen," "cursed," or "spider" — all three words share the semantic domain of the arcan'dor's destruction transforming elves into spider-creatures.
+- The *Tel-* morpheme (in *Tel'anor*, *Teloth'aran*, *Tel'vasha*, *Tel'velath*) appears in both place names and spell words, suggesting a core meaning like "deep," "far," or "earth."
+- The *An-/An'* prefix appears in 6+ phrases (*An'ah*, *An'anora*, *An'ratha*, *Anar'amenos*, *Anath'ashar*, *Aran'ethil*) and may function as an invocation or divine marker, possibly cognate with Darnassian *anar* (beloved/sun).
+- Nightborne names sometimes use apostrophes as morpheme boundaries (*Ly'leth*, *Tel'anor*), consistent with the elven family's compounding pattern. Some names are clearly French-influenced (*Valtrois*, *Margaux*, *Brigitte*, *Lothaire*, *Victoire*), reflecting the Nightborne's decadent aristocratic culture.
+- The relationship between Shalassian and Darnassian is well-established in lore (confirmed by developer Don Adams as "an offshoot, similar to Thalassian"), which provides a stronger foundation for inference than languages with no known relatives.
+- Ancient Nightborne text is described as "so archaic only the oldest elves might be able to read it," suggesting the written form has changed significantly over 10,000 years.
+
+## Open Linguistic Investigations
+
+| # | Investigation | Summary | Confidence |
+|---|--------------|---------|-----------|
+| — | Shalassian–Darnassian Phonological Conservatism | Shalassian matches Darnassian on 8/9 diagnostic features (89%); most conservative elven daughter language | Moderate–High |
+| 1 | The *-assian* Suffix | Language-naming morpheme or Common rendering convention? Closely parallels English *-ian/sian*; no native attestation of the suffix | Moderate–High for Common rendering |
+| 2 | The *An-/An'* Prefix | Appears in 6+ phrases across spells, greetings, and combat; invocation/optative marker preferred; potential Darnassian *anar* cognate | Low–Moderate |
+| 3 | The *Fal-* and *Tel-* Root Pair | *Fal-* = "fallen/cursed" (3 attestations); *Tel-* = "deep/far" (5 attestations); possible *Fal-*/falah Darnassian cognate | Moderate for *Fal-*; Low–Moderate for *Tel-* |

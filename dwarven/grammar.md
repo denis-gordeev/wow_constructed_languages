@@ -205,3 +205,139 @@ Both Vrykul and Dwarven show a pattern where feminine names disproportionately e
 The Dwarven sample is too small (only 2–3 feminine names) to confirm the pattern independently. If future Dwarven feminine names also end in /a/, the case for genuine inheritance (hypotheses 1 or 3) would strengthen. Currently, **shared Norse design inspiration (hypothesis 2) is the most likely explanation**.
 
 **Confidence: Low–Moderate** that the gender-correlated final vowel reflects genuine linguistic inheritance rather than design convergence.
+
+## Investigation 1: The *-gaz* Suffix — Mine, Excavation, or Settlement?
+
+The element *-gaz* appears in four Khaz Algar place names from The War Within:
+
+### Evidence Table
+
+| Place Name | Context | Association | Notes |
+|-----------|---------|-------------|-------|
+| *Gundargaz* | Machine Speakers settlement | Settlement with industrial function | *Gun-* + *-dar-* + *-gaz*; the *-dar-* element may reflect *-dor* (land) |
+| *Nibelgaz* | Mine in Ringing Deeps | Mining | *Nibel-* + *-gaz*; explicitly a mine |
+| *Dhar Durgaz* | Location in Isle of Dorn | Unclear | *Dhar-* (peak) + *Durgaz*; *Dur-* may relate to *Dorn-* |
+| *Dun Algaz* | Pass from Loch Modan to Wetlands | Mountain pass/fortification | *Dun-* (fortress) + *Al-gaz*; pre-TWW attestation |
+
+### Three Hypotheses
+
+**Hypothesis 1: *-gaz* = "mine" or "excavation"**
+
+Three of four *-gaz* toponyms are associated with mining or excavation: *Nibelgaz* is explicitly a mine, *Gundargaz* is an industrial settlement (Machine Speakers work with machinery), and *Dun Algaz* is a mountain pass (implying excavation through rock). Only *Dhar Durgaz* lacks a clear mining connection. If *-gaz* = "mine/dig," the morpheme would be the first Dwarven/Earthen suffix with a confirmed industrial/economic semantic field.
+
+**Hypothesis 2: *-gaz* = "settlement" or "place"**
+
+All four *-gaz* toponyms name inhabited or significant locations. *-gaz* could be a general place-name suffix, parallel to *-dun* (fortress) and *-modan* (mountain/kingdom). This would make *-gaz* the third confirmed Dwarven toponymic suffix.
+
+**Hypothesis 3: *-gaz* = Blizzard Design Convention**
+
+The *-gaz* ending may reflect Blizzard's internal naming template for TWW Earthen/Dwarven locations, chosen for phonological consistency (guttural /ɡæz/ ending) rather than linguistic meaning. The concentration of *-gaz* in Khaz Algar specifically (3 of 4 attestations) may reflect a zone-specific naming convention.
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| *-gaz* = "mine/excavation" | Low–Moderate | Best semantic fit; 3/4 locations have mining/excavation association |
+| *-gaz* = "settlement/place" | Low | Too broad; *-dun* and *-modan* already fill this role |
+| *-gaz* = design convention | Low–Moderate | Zone concentration (3/4 in Khaz Algar) is suspicious; could reflect naming template |
+
+**Confidence: Low–Moderate** for *-gaz* as a genuine morpheme with "mine/excavation" semantics. The mining association is the strongest argument; the zone concentration in Khaz Algar is the weakest. Testable if additional *-gaz* toponyms are found outside Khaz Algar with mining associations, or if a *-gaz* toponym is found with no mining connection (which would weaken Hypothesis 1).
+
+## Investigation 2: The *Dhar-* Place Prefix and Its Relationship to *-dar/-dor*
+
+Four Isle of Dorn toponyms share the *Dhar-* prefix:
+
+### Evidence Table
+
+| Place Name | Context | Description | Notes |
+|-----------|---------|-------------|-------|
+| *Dhar Oztan* | Isle of Dorn | Mountain where first stormrooks were summoned | Elevated, mountainous |
+| *Dhar Kazhad* | Isle of Dorn | Location | *Kazhad* may contain *Kaz-* (forge) + *-had* |
+| *Dhar Durgaz* | Isle of Dorn | Location | Contains *-gaz* (Investigation 1) |
+| *Dhar Bandar* | Isle of Dorn | Location | *-dar* parallels *Beledar*, *Mereldar* |
+
+All four refer to elevated or mountainous areas on the Isle of Dorn, suggesting *Dhar-* = "peak" or "mountain."
+
+### Relationship to *-dar/-dor*
+
+The titan-forged language family already contains a well-attested *-dor/-dar* morpheme:
+
+| Form | Language | Meaning | Attestations |
+|------|----------|---------|-------------|
+| *-dor* | Titan | Land/realm | *Kalimdor*, *Nordrassil-dor* (?) |
+| *-dar* | Earthen/Titan-forged | Land/realm | *Beledar*, *Mereldar*, *Dun Baldar* |
+| *Dhar-* | Earthen (Isle of Dorn) | Peak/mountain? | *Dhar Oztan*, *Dhar Kazhad*, *Dhar Durgaz*, *Dhar Bandar* |
+
+### Three Hypotheses
+
+**Hypothesis 1: *Dhar-* = *-dar* as Prefix Allomorph**
+
+If *Dhar-* and *-dar* are the same morpheme in different structural positions, then *Dhar-* is the prefix form and *-dar* is the suffix form. This would parallel the *Dun-*/*-dun* alternation in Dwarven (where *Dun* appears as both prefix and suffix). The semantic specialization (*Dhar-* = elevated place, *-dar* = general place) could reflect positional conditioning.
+
+**Hypothesis 2: *Dhar-* Is a Distinct Morpheme from *-dar***
+
+*Dhar-* may be a separate Earthen morpheme meaning "peak" or "summit," unrelated to *-dar* ("land/realm"). The phonological similarity (/dɑːr/ vs. /dɑːr/) would then be coincidental or reflect a shared root with divergent semantics.
+
+**Hypothesis 3: *Dhar-* = *-dor* with Metathesis and Vowel Lengthening**
+
+If *Dhar-* derives from *-dor* via metathesis (*-dor* → *-dro* → *Dhar-*), the vowel lengthening (/ɔ/ → /ɑː/) would accompany the positional shift from suffix to prefix. This is phonologically plausible but requires assuming metathesis that is not otherwise attested in the titan-forged family.
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| *Dhar-* = *-dar* prefix allomorph | Low–Moderate | Structurally parallel to *Dun-*/*-dun*; semantic specialization is plausible |
+| *Dhar-* is distinct from *-dar* | Low | Requires phonological coincidence; less parsimonious |
+| *Dhar-* = *-dor* with metathesis | Very Low | Metathesis not independently attested in titan-forged languages |
+
+**Confidence: Low–Moderate** that *Dhar-* and *-dar* are the same morpheme in different structural positions. The strongest argument is the semantic consistency (all four *Dhar-* toponyms are elevated locations) and the structural parallel with *Dun-*/*-dun*. The weakest argument is the lack of independent evidence for positional allomorphy in the titan-forged family. Testable if a *Dhar-* toponym is found that is NOT elevated (weakening Hypothesis 1) or if a *-dar* suffix is found with specifically elevated meaning (strengthening it).
+
+## Investigation 3: The *Bael-* Element — "Red" or "Stone"?
+
+The *Bael-* element appears in three attested names:
+
+### Evidence Table
+
+| Name | Translation | Source | Canon Status |
+|------|------------|--------|-------------|
+| *Bael'dun* | "Stone Fortress" or "Red Fortress" | In-game location | Canon (place name); translation uncertain |
+| *Baelgrim* | — | Earthen NPC (TWW) | Canon (personal name); no translation |
+| *Bael Modan* | "Red Mountain" | RPG source | Non-canon |
+
+### The Problem
+
+The RPG source translates *Bael Modan* as "Red Mountain," which would make *Bael-* = "red." However, previous analysis inferred *Bael-* = "stone/earth" from *Bael'dun* (if *dun* = fortress, then *Bael'dun* = "Stone Fortress," a tautological compound parallel to *Ironforge*). The two translations are incompatible unless *Bael-* is polysemous or the RPG translation is incorrect.
+
+### Three Hypotheses
+
+**Hypothesis 1: *Bael-* = "red" (RPG Correct)**
+
+If *Bael-* = "red," then:
+- *Bael Modan* = "Red Mountain" (RPG translation, consistent)
+- *Bael'dun* = "Red Fortress" (consistent; red stone or red-painted fortress)
+- *Baelgrim* = "Red-fierce" or "Red-helmet" (consistent; a warrior name)
+
+This requires accepting the RPG translation as canon, which is problematic since the RPG is officially non-canon. However, the RPG was developed with Blizzard oversight and its translations may reflect design intent even if the specific lore is non-canon.
+
+**Hypothesis 2: *Bael-* = "stone/earth" (Previous Inference)**
+
+If *Bael-* = "stone/earth," then:
+- *Bael Modan* = "Stone Mountain" (reasonable; tautological like *Ironforge*)
+- *Bael'dun* = "Stone Fortress" (consistent)
+- *Baelgrim* = "Stone-fierce" (fitting for an Earthen military leader)
+
+This requires no RPG source but leaves *Bael Modan* without a confirmed translation. The tautological compound pattern (Stone Mountain) is cross-linguistically common.
+
+**Hypothesis 3: *Bael-* Has Multiple Meanings**
+
+*Bael-* could be a polysemous root meaning both "red" and "stone/earth" — a natural semantic association since much Dwarven stone (sandstone, laterite) is reddish. This is cross-linguistically attested: Hebrew *adamah* = "earth/ground" ↔ *adom* = "red" share the same triconsonantal root *'-d-m*.
+
+### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| *Bael-* = "red" | Low–Moderate | Supported by RPG; *Baelgrim* = "Red-fierce" fits a warrior; but RPG is non-canon |
+| *Bael-* = "stone/earth" | Low–Moderate | Supported by context (*Baelgrim* is an Earthen); tautological compounds common; no canon confirmation |
+| *Bael-* = polysemous "red/earth" | Very Low–Low | Cross-linguistic parallels exist but single morpheme with dual meaning requires more evidence |
+
+**Confidence: Low–Moderate** for either "red" or "stone" as the primary meaning. The resolution depends on whether the RPG translation of *Bael Modan* is accepted as reflecting Blizzard's design intent. The strongest argument for "stone/earth" is *Baelgrim*'s identity as an Earthen (literally stone beings); the strongest argument for "red" is the explicit RPG translation. Testable if a Blizzard source confirms or denies the *Bael Modan* translation, or if a new *Bael-* name appears with a confirmed translation.
