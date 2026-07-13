@@ -591,37 +591,67 @@ This shared pattern may reflect:
 
 The similarity is suggestive but cannot establish a genetic relationship.
 
-### Initial-Apostrophe Names: Potential Shath'Yar Substrate
+### Initial-Apostrophe Names: Potential Shath'Yar Substrate — Investigation
 
 Four nerubian proper names feature initial apostrophes — a pattern characteristic of Shath'Yar (*N'Zoth*, *N'raqi*, *K'thir*):
 
-| Name | Context | Notes |
-|------|---------|-------|
-| *Y'tekhi* | Quartermaster | Underwent ascension (Old Blood transformation) |
-| *A'zak* | Reclaimer (Azjol-Nerub) | Upper Kingdom position |
-| *Ix'lar* | Underlord (Eastern Plaguelands) | Crypt lord title |
-| *Ix'zek* | Dungeon boss (the Gnarled) | *Ix-* element matches *Ix'lar* |
+#### Context Mapping
 
-In contrast, Shath'Yar initial apostrophes appear in:
-- *N'Zoth*, *N'raqi* — Old God and servant names
-- *K'thir* — Faceless ones
-- *Il'gynoth* — Heart of Corruption
+| Name | IPA | Pre-Apostrophe | Context | Old God Association | Era |
+|------|-----|----------------|---------|---------------------|-----|
+| *Y'tekhi* | /ɪˈtɛki/ | *Y'* (single consonant) | Quartermaster; underwent Old Blood ascension | **Confirmed** — Old Blood transformation is explicitly Old God-derived | TWW |
+| *A'zak* | /əˈzæk/ | *A'* (single vowel) | Reclaimer; Azjol-anak (Upper Kingdom, living resistance) | **Indirect** — living nerubian resistance against Scourge; Azjol-anak preserve older traditions | Pre-TWW |
+| *Ix'lar* | /ɪksˈlɑːr/ | *Ix* (two-consonant cluster) | Underlord; Crypt lord (Eastern Plaguelands) | **Weak** — Scourge undead, not explicitly Old God-associated | Cata/MoP |
+| *Ix'zek* | /ɪksˈzɛk/ | *Ix* (two-consonant cluster) | Dungeon boss ("the Gnarled") | **Weak** — no explicit Old God connection | TWW |
 
-**Hypothesis: Initial apostrophe marks Old God substrate vocabulary in nerubian**
+Additionally, *Seer Ixit* /ˈɪksɪt/ shares the *Ix-* initial element but without an apostrophe, and *Foreseer Xix'amon* has *Xix-* (a sibilant-initial element with apostrophe but not initial-position apostrophe).
 
-If nerubian names with initial apostrophes are Shath'Yar loanwords or substrate forms, they should correlate with Old God-influenced contexts. The evidence is mixed:
+#### Structural Typology: Two Sub-Patterns
 
-- *Y'tekhi* underwent "ascension" — confirmed Old Blood/Old God transformation — supporting the hypothesis
-- *Ix'zek* ("the Gnarled") and *Ix'lar* ("the Underlord") have crypt lord/undead associations, which could involve Old God influence through the Scourge connection
-- *A'zak* is a Reclaimer in the Upper Kingdom — less clearly Old God-associated
+The four initial-apostrophe names split into two structural sub-patterns:
 
-**Alternative: Initial apostrophe is a native nerubian naming convention**
+**Sub-Pattern A: Single-Consonant/Vowel Initial** (*Y'tekhi*, *A'zak*)
+- The pre-apostrophe element is a single segment (consonant or vowel)
+- This exactly matches Shath'Yar initial-apostrophe structure: *N'Zoth*, *N'raqi*, *K'thir*, *Y'shaarj*
+- If substrate, these would be Shath'Yar morphemes preserved as name-initial elements in nerubian
 
-If the initial apostrophe is simply a nerubian orthographic pattern (perhaps marking honorific or archaic names), it need not reflect Shath'Yar influence. However, the rarity of initial apostrophes in nerubian (4 out of ~22 personal names) vs. their ubiquity in Shath'Yar makes the substrate hypothesis more plausible.
+**Sub-Pattern B: *Ix-* Initial** (*Ix'lar*, *Ix'zek*)
+- The pre-apostrophe element *Ix-* /ɪks/ is a two-consonant cluster, not a single segment
+- This does NOT match Shath'Yar structure — Shath'Yar initial apostrophes precede single consonants only
+- *Ix-* is more likely a genuine nerubian prefix or root element, paralleling *Anub-* or *Arak-* as a name-initial morpheme
+- *Seer Ixit* (without apostrophe) suggests *Ix-* can function as an independent name element, not always requiring apostrophe boundary marking
 
-Notably, the *Ix-* element appears in two names (*Ix'lar*, *Ix'zek*), plus the non-apostrophe name *Ixit* (Seer Ixit). If *Ix-* is a shared initial element with a consistent meaning, it could be either a native nerubian prefix or a Shath'Yar loan element.
+#### The *Y'* Element: Shath'Yar Substrate Candidate
 
-**Confidence: Very Low** for the Shath'Yar substrate hypothesis; **Low** for the observation that initial apostrophe is a marked pattern in nerubian naming. The hypothesis is testable: if additional initial-apostrophe nerubian names are discovered in Old God-associated contexts, the correlation would strengthen.
+If *Y'* in *Y'tekhi* reflects Shath'Yar substrate, it parallels the Shath'Yar *Y'* in *Y'shaarj* (an Old God name). The phonological identity (*Y'* = /j/ before apostrophe in both cases) is notable. However, *Y'tekhi* is the only nerubian name with this pattern, making the connection Very Low confidence.
+
+#### The *A'* Element: Possible Aqir Substrate
+
+The *A'* in *A'zak* could reflect an Aqir substrate element rather than Shath'Yar, since *A'zak* holds the title "Reclaimer" in the living nerubian resistance (Azjol-anak) — a group that explicitly rejected Old God influence. If *A'* is an Aqir naming particle (not Shath'Yar), it would represent pre-Old-Gog nerubian naming tradition preserved by the resistance faction.
+
+#### Three Hypotheses
+
+**Hypothesis 1: Initial apostrophe marks Shath'Yar substrate vocabulary**
+
+Nerubian names with initial apostrophes are Shath'Yar loanwords or substrate forms, correlating with Old God-influenced contexts. The strongest case is *Y'tekhi* (confirmed Old Blood transformation), followed by the *Ix'* names (weaker association). *A'zak* is a counterexample unless the Azjol-anak preserved Aqir-era Shath'Yar names from before their rejection of Old God influence.
+
+**Hypothesis 2: *Ix-* is a native nerubian prefix; *Y'* and *A'* are Shath'Yar substrate**
+
+The *Ix'* names reflect a genuine nerubian morphological pattern (a productive prefix meaning "chosen," "first," or an unknown semantic field), while *Y'tekhi* and *A'zak* reflect the Shath'Yar substrate. This mixed analysis explains why *Ix-* appears in both apostrophe-marked (*Ix'lar*, *Ix'zek*) and unmarked (*Ixit*) forms — it is a native element that can be compounded with or without apostrophe boundary marking — while the Shath'Yar forms always require the apostrophe because the pre-apostrophe segment is not a nerubian morpheme.
+
+**Hypothesis 3: Initial apostrophe is a native nerubian naming convention (not substrate)**
+
+The initial apostrophe marks honorific, archaic, or ceremonial names in nerubian, with no Shath'Yar connection. The rarity (4 of ~22 personal names) reflects the restricted use of this naming convention to special-status individuals.
+
+#### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| Shath'Yar substrate (all initial-apostrophe names) | **Very Low** | *Y'tekhi* supports; *A'zak* weakens (resistance context); *Ix'* names do not match Shath'Yar phonological structure |
+| Mixed: *Ix-* = native prefix; *Y'*/**A'** = Shath'Yar substrate | **Very Low–Low** | Best explanation for the structural split between sub-patterns; *Ix-* appearing in both apostrophe-marked and unmarked forms supports native status |
+| Native nerubian convention (no substrate) | **Low** | Possible; the rarity of initial apostrophes vs. their ubiquity in Shath'Yar weakens this |
+
+**Confidence: Very Low** for any specific substrate hypothesis; **Low** for the observation that initial apostrophe is a marked pattern in nerubian naming with two distinct sub-patterns. The hypothesis is testable: if additional initial-apostrophe nerubian names are discovered in Old God-associated contexts (especially with single-consonant pre-apostrophe elements like *N'-*, *K'-*, *Y'-*), the Shath'Yar substrate hypothesis for Sub-Pattern A would strengthen. If additional *Ix'-* names appear without Old God associations, the native-prefix hypothesis for Sub-Pattern B would strengthen.
 
 ## Limitations
 

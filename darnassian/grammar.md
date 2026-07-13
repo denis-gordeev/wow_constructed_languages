@@ -1329,3 +1329,66 @@ Two additional proper names show possible consonant repetition that could reflec
 | *Lathar'Lazal* *lɑ_Cɑl* = frozen reduplication with ablaut | **Very Low** | Could be compound of distinct roots |
 
 **Confidence: Very Low–Low** for the *Xaxas*–*Althalaxx* connection as genuine reduplication rather than orthographic convention. The distributional argument (both /ks/-containing words show some form of repetition) is the strongest evidence, but it cannot distinguish between genuine historical reduplication and Blizzard design choice (using geminate *-xx* for aesthetic effect in an exotic name). The analysis is documented primarily as a testable prediction: if additional Darnassian words containing *x* are discovered, the presence or absence of repetition in those words would decisively favor one hypothesis over the other.
+
+### Investigation 18: The *-dor* / *-dora* / *-dorah* Cross-Elven Morpheme Family — *Anu'dora* and Shalassian *-dora* — **NEW Round 50**
+
+The Darnassian exclamation *Anu'dora!* (Tyrande Whisperwind, Warcraft III / Heroes of the Storm / Siege of Orgrimmar) contains the element *-dora*, which finds a potential cognate in Shalassian *-dora* (confirmed translation: "thanks/grace" from *Erana-dora isil* = "A thousand thanks upon you"). This investigation analyzes *-dora* as part of the broader *-dor* morpheme family already documented in Investigations 3 and 14.
+
+#### The *-dor* Family: Three Suffixal Outcomes
+
+The root *dor* "crown" generates three distinct suffixal forms across the elven language family:
+
+| Form | Decomposition | Proposed Meaning | Language | Attestations |
+|------|---------------|-----------------|----------|-------------|
+| *-dor* | Root | Crown / base | Darnassian | *Teldrassil*, *Nordrassil*, *Amirdrassil*, *Vordrassil*, *Andrassil*, *Arcan'dor* |
+| *-dorah* | *dor* + *-ah* (nominalizer) | Honor / valor / remembrance | Darnassian, Thalassian | *Anu Dorah*, *Tor falah-no dorah*, *Thara dormil dorah*, *Thas'dorah*, *Shan'dorah* |
+| *-dora* | *dor* + *-a* (adjectival/verbal suffix) | Grace / thanks / blessed | Darnassian, Shalassian | *Anu'dora*, *Erana-dora*, *Fal'adora* (with linking vowel) |
+
+The semantic trajectory is coherent: *dor* "crown" → *dorah* "that which is crowned/honored" (nominalized, Investigation 14) → *dora* "graced/blessed" (adjectival). The difference between *-ah* (nominalizer, producing abstract nouns) and *-a* (adjectival/verbal suffix, producing qualities or actions) parallels morphological patterns in natural languages where the same root generates both nominal and adjectival forms through different suffixes.
+
+#### Evidence: *Anu'dora* as Cross-Elven Cognate
+
+The Darnassian exclamation *Anu'dora!* parallels *Anu Dorah!* in both structure and context:
+
+| Phrase | Structure | Context | Proposed Gloss |
+|--------|-----------|---------|----------------|
+| *Anu Dorah* | *Anu* + *Dorah* | Memorial plaque closing | "The honor!" / "We remember!" (funerary) |
+| *Anu'dora* | *Anu'* + *dora* | Tyrande battle exclamation | "The grace!" / "By the grace!" (combat) |
+
+Both phrases use *Anu/Anu'* as a sentence-initial element (subject marker or definite article, per Investigation 16 phrase #7), followed by a *dor*-derived form. The consistent structural parallel across two *dor*-family forms strongly suggests *dora* and *dorah* are morphologically related, not coincidentally similar.
+
+In Investigation 16, *Anu'dora* was partially decoded as "*Anu'* subject marker + *dor* + *-a*" at Low–Moderate confidence, with the note that "*dora* may be *dorah* with h-loss, or *dor* + verbal suffix *-a* (cf. *Aria* 1pl)." The Shalassian evidence now supports the second option: *-dora* = *dor* + *-a* is a distinct morphological form from *-dorah* = *dor* + *-ah*.
+
+#### Shalassian *-dora* Evidence
+
+Shalassian Investigation 5 documents *-dora* in two contexts:
+
+| Word | Translation | Structure | Notes |
+|------|------------|-----------|-------|
+| *Erana-dora* | "thousand-thanks" (in *Erana-dora isil*) | *Erana* + *-dora* (hyphen-joined) | Confirmed translation directly implies *-dora* = "thanks/grace" |
+| *Fal'adora* | Temple beneath Falanaar | *Fal'* + *-adora* (apostrophe-joined) | No confirmed translation; *-adora* = *-a-* (linking vowel) + *dora* |
+
+If *-dora* = "grace/thanks" in Shalassian, and *Anu'dora* = "The grace!" in Darnassian, this would extend the *-dor* family into a fourth elven language with a specialized meaning derived from the "crown" root.
+
+#### The *-a* Suffix: Adjectival or Verbal?
+
+The *-a* suffix in *-dora* could serve multiple grammatical functions:
+
+**Option A: Adjectival suffix.** *dor* "crown" → *dora* "crowned/graced" (adjective), parallel to how *-ah* produces nouns (*dor* → *dorah* "honor"). Under this analysis, *Erana-dora* = "thousand-graced" → "a thousand thanks" (by metonymy: what is graced → thanks).
+
+**Option B: Verbal suffix.** *dor* "crown" → *dora* "to crown/honor" (verb), with *-a* marking a verbal form. Under this analysis, *Anu'dora* = "The crowning!" or "Honor [it]!" — an exhortative or performative utterance. This would parallel the first-person plural *-a* in *Aria* = "we face" (*ari-* + *-a*), though the person/number match is uncertain.
+
+**Option C: *dora* is not decomposable.** *-dora* is an indivisible morpheme meaning "grace/thanks," not further analyzable as *dor* + *-a*. The similarity to *dor* "crown" would be coincidental.
+
+#### Assessment
+
+| Hypothesis | Confidence | Notes |
+|-----------|-----------|-------|
+| *-dora* = *dor* + *-a*, related to *-dor*/*-dorah* family | **Low–Moderate** | Structural parallel with *Anu Dorah* / *Anu'dora* is strong; semantic trajectory "crown" → "grace" is plausible but requires cultural inference |
+| *-dora* is a cross-elven morpheme (Darnassian + Shalassian) | **Low–Moderate** | *Erana-dora* confirmed translation directly supports *-dora* = "thanks/grace"; *Anu'dora* provides independent Darnassian attestation |
+| *-dora* is an indivisible morpheme, coincidentally similar to *-dor* | **Low** | Requires independent origin of phonologically identical *-dora* element in two elven languages; parsimonious only if *-dora* has no etymological connection to *-dor* |
+| *-dora* = *dorah* with h-loss | **Very Low–Low** | *dorah* and *dora* co-occur in Darnassian (*Anu Dorah* vs. *Anu'dora*), making simple h-loss unlikely; the different suffixes (*-ah* vs *-a*) suggest distinct morphological formations |
+
+**Confidence: Low–Moderate** for *-dora* as a cross-elven cognate connecting Darnassian *Anu'dora* and Shalassian *-dora* (from *Erana-dora*). The strongest argument is the structural parallel between *Anu Dorah* and *Anu'dora* — both use *Anu* + a *dor*-derived form — combined with the confirmed Shalassian translation of *-dora* = "thanks/grace." The weakest argument is the *-a* suffix analysis, which requires assuming an unattested adjectival/verbal suffix. The analysis is documented as testable: if *-dora* or *-adora* appears in additional elven-language contexts (Thalassian, Nazja), the cognate hypothesis would strengthen significantly. Conversely, if *-dora* appears only in Shalassian and the single Darnassian *Anu'dora* exclamation, the coincidence hypothesis gains ground.
+
+**Cross-reference**: Shalassian grammar.md Investigation 5; elven-comparative.html (potential addition to *-dor* morpheme family table).
