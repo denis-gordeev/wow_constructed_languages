@@ -543,6 +543,51 @@ A systematic count of /h/-initial proper names across the elven family reveals a
 
 If even one of these candidates is confirmed (particularly *-nir*, *Har'/Aran*, *Shul'/Shal*, or *-athir*), it would provide the **first linguistic evidence** (as opposed to lore evidence) for the Haranir's descent from the proto-troll/elven population. The identification of *Shul'/Shal* and *-athir* is particularly significant because neither depends on the /h/ → ∅ sound change, providing independent lines of evidence. The /h/ distribution gradient (Round 30) independently supports the /h/ → ∅ change required by *Har'/Aran*, upgrading its confidence to Moderate–High. The in-plot confirmation from Hagar (Round 48) that Haranir are the ancestral stock from which both elves and trolls diverged strengthens all cognate candidates by increasing their prior probability — under this model, Hara'ni retention of proto-forms is the expected default rather than something requiring special explanation.
 
+## Open Linguistic Investigations
+
+### Investigation 1: The *-tani* Suffix in *Ruutani* — Species/Race Designation Morpheme?
+
+The Midnight expansion introduced the **ruutani**, a Harandar-native race affected by the Lightbloom. Wikipedia's Midnight article consistently uses "ruutani" as a lowercase common noun, supporting the hypothesis that *Ruutani* is a genuine Hara'ni word rather than a Common-language designation. The morphological analysis of *Ruutani* raises the question of whether *-tani* is a productive suffix.
+
+#### Decomposition Options
+
+| Decomposition | Analysis | Plausibility |
+|---------------|----------|-------------|
+| *Ruu-* + *-tani* | *Ruu-* = unknown root; *-tani* = species/race designation suffix | Low–Moderate — if *-tani* is a suffix, it would be the first species-designation morpheme in Hara'ni |
+| *Ruut-* + *-ani* | *Ruut-* = unknown root; *-ani* = collective suffix (variant of *-ni* with linking vowel *-a-*) | Low–Moderate — *-ani* would parallel *-nir* / *-ni* / *-ti* suffix set with epenthetic *-a-* |
+| *Ruuta-* + *-ni* | *Ruuta-* = unknown root; *-ni* = language/group suffix (as in *Hara'ni*) | Low — requires the long vowel /uː/ to be part of the root, and *-ni* in *Hara'ni* means "language/tongue" which is semantically inconsistent with a species designation |
+| Monomorphemic | *Ruutani* is a single unanalyzable word | Moderate — the default hypothesis when decomposition evidence is lacking |
+
+#### Relationship to *-nir* / *-ni* / *-ti* Suffix Set
+
+The established suffix set (*-nir* = collective, *-ni* = language, *-ti* = faction) could be extended:
+
+| Suffix | Attestation | Proposed Meaning |
+|--------|-------------|------------------|
+| *-nir* | *Haranir* | "people" / collective ethnonym |
+| *-ni* | *Hara'ni* | "language" / "tongue" |
+| *-ti* | *Hara'ti* | "group" / "faction" |
+| *-tani* | *Ruutani* | "species" / "race"? |
+
+If *-tani* belongs to this set, it would fill the "species/race" slot. The phonological relationship *-nir* → *-ni* → *-ti* → *-tani* could reflect a pattern of alveolar consonant + high vowel + optional velar/none, but this is speculative.
+
+Alternatively, *-ani* in *-tani* could be a linking vowel *-a-* + *-ni*, making *Ruutani* = "Ruut-people" or "Ruut-tongue." The epenthetic *-a-* would be phonologically motivated by the consonant cluster */ruːt.niː/ → /ruː.tɑː.niː/.
+
+#### Cross-Linguistic Comparison
+
+The *-tani* element has no confirmed parallel in any other WoW language. The closest candidates are:
+- **Zandali *-ton*/*-tani***: No attested Zandali names end in *-tani*
+- **Darnassian *-ani***: No confirmed Darnassian morpheme matches *-ani* or *-tani*
+- **Nerubian *-ani***: No confirmed nerubian morpheme matches *-ani* or *-tani*
+
+This makes *-tani* potentially unique to Hara'ni.
+
+#### Wikipedia Confirmation
+
+Wikipedia's Midnight article uses "ruutani" consistently as a lowercase common noun (not capitalized as a proper name), which supports the hypothesis that *ruutani* is a genuine Hara'ni common noun (species designation) rather than a proper name rendered in Common. In many languages, species/race names are common nouns — the lowercase usage is consistent with this typological pattern.
+
+**Confidence: Low–Moderate** for *-tani* as a genuine Hara'ni species-designation suffix; Low–Moderate for *-ani* as a variant of *-ni* with linking vowel. The single attestation and lack of additional *-tani* words limits confidence. Requires additional data for confirmation.
+
 ## Limitations
 
 - **No complete Hara'ni sentences are attested.** All Haranir NPCs speak Common in-game.
