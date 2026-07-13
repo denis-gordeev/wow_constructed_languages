@@ -33,6 +33,8 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Scarab Lord Anub'arash | /ɑˈnʊbəˈræʃ/ | Silken Court encounter | *Anub-* + *-arash*. The *-arash* suffix parallels *-arak* but with /ʃ/ ending. |
 | Skeinspinner Takazj | /ˈtɑːkɑːʒ/ | Silken Court encounter | *Tak-* + *-azj*. **Critical**: *-azj* as a suffix mirrors *Azj-* as a prefix — if *Azj-* = "deep/realm," *-azj* could mean "of the deep" or be an agentive suffix. The official pronunciation of *Azj-* is /ɑːʒ/, making *-azj* = /ɑːʒ/ a near-exact match. |
 | Kriz | /ˈkrɪz/ | Nerubian NPC ("the Loyal") | Very short name; possibly a nickname or abbreviated form. |
+| Kej'takaz | /kɛʒˈtɑːkæz/ | Profiteerist (memorial placard) | Apostrophe-marked compound: *Kej'* + *-takaz*; mentioned on memorial placard in Azj-Kahet (warcraft.wiki.gg). *-takaz* parallels *Rak-Zakaz* with the *-az*/*-kaz* ending. |
+| Xevex | /ˈzɛvɛks/ | NPC (memorial placard) | Short name without apostrophe; /ks/-final following the common nerubian pattern (*Ulgrax*, *Ovi'nax*); mentioned on memorial placard in Azj-Kahet (warcraft.wiki.gg). |
 
 ### Pre-TWW Nerubians (Wrath of the Lich King and earlier)
 
@@ -90,6 +92,8 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Rak-Ush | /rækˈʊʃ/ | *Rak-* + *-Ush* | Subzone in Azj-Kahet. *Rak-* prefix appears in three place names. |
 | Kili-zar Arena | /ˈkɪlizɑːr/ | *Kili-* + *-zar* | Arena inside Nerub-ar Palace. |
 | Tak-Rethan | /tækˈrɛθæn/ | *Tak-* + *-Rethan* | Subzone in Azj-Kahet. *Tak-* prefix also in combat phrases (*Tak'izik*, *Tak'na*, *Tak'rasha na*); *-Rethan* contains /θ/. |
+| Rak-Neraz | /rækˈnɛræz/ | *Rak-* + *-Neraz* | Location mentioned on Profiteerist Kej'takaz's memorial placard (warcraft.wiki.gg). Fourth attestation of *Rak-* toponymic prefix. |
+| Pillar-nest Izol | /ˈiːzɒl/ | *Pillar-nest* (Common) + *Izol* | Pillar-nest mentioned on Xevex's memorial placard (warcraft.wiki.gg). Fourth pillar-nest name; ends in voiced lateral /l/ rather than fricative, potentially expanding the pillar-nest naming template. |
 
 ### Pre-TWW: Northrend and Aqir Empire
 
@@ -329,19 +333,20 @@ Three subzones in Azj-Kahet share the initial element *Rak-*:
 | *Rak-Ahat* | *Rak-* + *-Ahat* | Subzone in Azj-Kahet |
 | *Rak-Ush* | *Rak-* + *-Ush* | Subzone in Azj-Kahet |
 | *Rak-Zakaz* | *Rak-* + *Zakaz* | Subzone in Azj-Kahet; *Zakaz* also appears in *Reclaimer A'zak* |
+| *Rak-Neraz* | *Rak-* + *-Neraz* | Location on Profiteerist Kej'takaz's memorial placard (warcraft.wiki.gg); fourth attestation |
 
-Three attestations of the same prefix in toponymic context is significant. If *Rak-* is a nerubian morpheme, it would join *Azj-*, *Ahn-*, and (speculatively) *En-* as a nerubian toponymic prefix:
+Four attestations of the same prefix in toponymic context is significant. If *Rak-* is a nerubian morpheme, it would join *Azj-*, *Ahn-*, and (speculatively) *En-* as a nerubian toponymic prefix:
 
 | Prefix | Attestations | Inferred Meaning | Confidence |
 |--------|-------------|-----------------|------------|
 | *Azj-* | 3 (*Azj-Kahet*, *Azjol-Nerub*, *Azj'Aqir*) | "deep/realm/domain" | High |
 | *Ahn-* | 2 (*Ahn'kahet*, *Ahn'qiraj*) | "old/ancient/sacred" | Medium |
-| *Rak-* | 3 (*Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz*) | Unknown | Low–Moderate |
+| *Rak-* | 4 (*Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz*, *Rak-Neraz*) | Unknown | Low–Moderate |
 | *En-* | 1 (*En'kilah*) | Unknown | Very Low |
 
 *Rak-* appears only in the Khaz Algar dialect (TWW). No *Rak-* toponyms are known from Northrend.
 
-**Confidence: Low–Moderate** for *Rak-* as a genuine nerubian toponymic prefix. Three independent attestations is suggestive, but the meaning is entirely unknown.
+**Confidence: Low–Moderate** for *Rak-* as a genuine nerubian toponymic prefix. Four independent attestations is suggestive, but the meaning is entirely unknown.
 
 ## 8. Phonological Observations
 

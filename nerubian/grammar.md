@@ -87,15 +87,16 @@ The /ʒ/ phoneme, previously thought rare in nerubian, is now confirmed in the m
 
 12. **Rhotic as a suffix marker**: The phoneme /r/ appears in a disproportionate number of suffix positions: *-ar* faction suffix (*Anub'ar*, *Hath'ar*, *Nerub'ar*, *Ahn'kahar*), *-thir* (*Krik'thir*, *Nox'tir*), *-lar* (*Ix'lar*), *-arak* (*Anub'arak*, *Vorus'arak*). This contrasts with /r/'s rarity in name-initial position (only *Rasha'nan*, *Rak-* prefix). The pattern suggests /r/ carries morphological weight in suffix position — possibly marking collective, agentive, or rank functions.
 
-13. **Pillar-nest fricative-final naming template**: The three pillar-nest subzones in Azj-Kahet share a tight phonological pattern:
+13. **Pillar-nest fricative-final naming template**: The pillar-nest subzones in Azj-Kahet share a tight phonological pattern:
 
     | Name | IPA | Onset | Vowel | Coda |
     |------|-----|-------|-------|------|
     | *Xesh* | /zɛʃ/ | Alveolar fricative | Front mid | Postalveolar fricative |
     | *Noth* | /nɒθ/ | Alveolar nasal | Back rounded | Dental fricative |
     | *Vosh* | /vɒʃ/ | Labiodental fricative | Back rounded | Postalveolar fricative |
+    | *Izol* | /ˈiːzɒl/ | Vowel + alveolar fricative | Back rounded | Voiced lateral |
 
-    All three: (1) end in voiceless fricatives (/ʃ/, /θ/), (2) have mid/back vowels, and (3) are monosyllabic CVC structures. This is too consistent to be accidental — these names appear to follow a **naming template** for pillar-nest designations: [+fricative] onset + [+mid/back] vowel + [+fricative] coda. The fricative-final pattern aligns with the broader nerubian word-final voiceless obstruent preference but is even more restricted (only fricatives, not stops). **Confidence: Moderate** for the pattern observation.
+    The first three names share a tight template: (1) end in voiceless fricatives (/ʃ/, /θ/), (2) have mid/back vowels, and (3) are monosyllabic CVC structures. This is too consistent to be accidental — these names appear to follow a **naming template** for pillar-nest designations: [+fricative] onset + [+mid/back] vowel + [+fricative] coda. The fourth name *Izol* (attested on Xevex's memorial placard, warcraft.wiki.gg) breaks the fricative-final pattern with a voiced lateral /l/ coda, but retains the sibilant onset (/z/) and back rounded vowel. *Izol* may represent a different subtype of pillar-nest designation or a dialectal variant. **Confidence: Moderate** for the three-name fricative-final template; **Low** for *Izol*'s relationship to the template.
 
 14. **The *-thir* / *-tir* suffix**: Two nerubian names share the element *-thir* / *-tir*: *Krik'thir* ("the Gatewatcher") and *Nox'tir* ("Sage/Seer"). If *-thir* = *-tir* with /θ/ → /t/ alternation (a natural sound change), this is a consistent suffix meaning "watcher" or "guardian" — perfectly fitting the roles of "Gatewatcher" and "Seer." The /θ/ → /t/ alternation could reflect dialectal variation (Northrend *-thir* vs. Khaz Algar *-tir*) or grammatical conditioning. **Confidence: Low** — only two attestations, but the semantic fit is excellent. (Cross-family *-thir* parallels in Hara'ni and Shath'Yar are assessed as independent /θ/-heavy phonological aesthetics at Very Low–Low confidence; see Darnassian grammar.md Investigation 13 Candidate F.)
 
@@ -223,8 +224,9 @@ Three subzones in Azj-Kahet share the initial element *Rak-*:
 | *Rak-Ahat* | *Rak-* + *-Ahat* |
 | *Rak-Ush* | *Rak-* + *-Ush* |
 | *Rak-Zakaz* | *Rak-* + *Zakaz* |
+| *Rak-Neraz* | *Rak-* + *-Neraz* |
 
-Three attestations make *Rak-* the second-most-attested nerubian toponymic prefix after *Azj-*. Unlike *Azj-* and *Ahn-*, *Rak-* is restricted to the Khaz Algar dialect. Its meaning is unknown.
+Four attestations make *Rak-* the second-most-attested nerubian toponymic prefix after *Azj-*. Unlike *Azj-* and *Ahn-*, *Rak-* is restricted to the Khaz Algar dialect. Its meaning is unknown.
 
 The *Rak-* prefix uses a **hyphen** (not apostrophe) as a boundary marker, unlike the apostrophe convention in *Azj-Kahet* and *Ahn'kahet*. This may reflect a dialectal orthographic difference, or it may indicate that *Rak-* compounds are structurally different from *Azj-*/*Ahn-* compounds.
 
