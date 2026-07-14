@@ -28,6 +28,7 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | K'ara | (name of a Naaru) | Naaru aboard the Exodar (Legion content). |
 | M'uru | (name of a Naaru) | Dark Naaru; captured by Blood Knights in TBC, drained of Light, sacrificed to reignite the Sunwell. Most narratively significant dark Naaru. |
 | O'ros | (name of a Naaru) | Naaru aboard the Exodar (TBC). |
+| L'ura | (name of a Naaru) | Dark naaru. Originally aboard the Xenedar on Mac'Aree (Argus, Legion); corrupted by the Void. Absorbed into Alleria Windrunner during the Argus campaign. Released by Xal'atath during the Midnight Voidspire confrontation; fired a void beam into the Sunwell, corrupting it into the Darkwell. Destroyed by combined elven forces at the Darkwell. Initial-apostrophe name following the naaru naming template: *L'* + *-ura*; see Draenei grammar.md Investigation 1. Sixth attested naaru name. |
 | Naaru | (the beings of Light) | May not be a Draenei word per se; possibly self-designation. |
 
 ## People / Groups

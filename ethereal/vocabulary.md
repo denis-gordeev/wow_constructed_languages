@@ -196,7 +196,7 @@ The *Zo'-* prefix appears in both place names (*Zo'Shuul*) and personal names (*
 |------|-----|----------|-------|
 | Nexus-Point Mid'Ar | — | *Mid'* + *-Ar* | Location in the Voidstorm where Alleria, Lothraxion, Arator, and Decimus went to free T'era. Apostrophe-marked compound. The *-Ar* element is new |
 | Overlook Zo'Shuul | — | *Zo'* + *-Shuul* | Named location on K'aresh. Apostrophe-marked. **First attestation of *Zo'-* prefix** |
-| Shan'dorah | — | *Shan'* + *-dorah* | Trust base location on K'aresh. Apostrophe-marked compound |
+| Shan'dorah | — | *Shan'* + *-dorah* | Trust base location on K'aresh. Apostrophe-marked compound. **Not an ethereal-language name** — this is a Thalassian (elven) compound: *Shan'* (honored?) + *-dorah* (valor/honor), cognate with Darnassian *dorah* (see elven-comparative.html Set 17 and Darnassian grammar.md Investigation 14). The K'aresh Trust coalition includes void elves (Ren'dorei), who presumably named this base in their native language. The elven name on K'aresh constitutes evidence of elven-ethereal cultural contact and linguistic influence, but does not reflect ethereal-language morphology |
 | Reshanor | — | Uncertain | Possibly a subzone on K'aresh. Referenced in a hotfix |
 | Hosaas' Rest | — | *Hosaas* + *'s* (Common possessive) | Named location on K'aresh. "Rest" is Common; *Hosaas* may be an ethereal personal name |
 

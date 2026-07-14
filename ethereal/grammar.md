@@ -293,3 +293,90 @@ No verb forms, particles, or syntactic structures are known. The only confirmed 
 5. Domanaar gender suffix system (high confidence for morphological consistency; 10 attestations across 6 suffix forms and 3 genders)
 6. *-az* ending cluster (low–moderate confidence — 4 attestations of *-az* name endings, distinct from *-aar*/*-aan* pattern)
 7. Two-layer diachronic naming (low–moderate confidence — pre-transformation vs. post-transformation phonological split)
+
+## Investigation 1: The *-hadar* / *-hadaar* Element — Potential Ethereal Morpheme
+
+The names *Hal'hadar* (Midnight ethereal faction) and *Salhadaar* (Nexus-King) share a striking phonological element: *-hadar* vs. *-hadaar*. This section evaluates whether this shared element reflects a genuine ethereal morpheme or coincidental homophony.
+
+### Data
+
+| Name | Decomposition | Context | *-hadVr* Element |
+|------|--------------|---------|------------------|
+| *Hal'hadar* | *Hal'* + *-hadar* | Ethereal faction on Naigtal (Midnight) | *-hadar* |
+| *Salhadaar* | *Salha-* + *-daar* or *Sal-* + *-hadaar* | Nexus-King; former ruler of K'aresh | *-hadaar* |
+
+### Analysis
+
+**Decomposition of *Salhadaar***: The current analysis treats *Salhadaar* as *Salha-* + *-daar* (where *-daar* = potential royal/rank suffix). However, an alternative decomposition is *Sal-* + *-hadaar*, which would align *-hadaar* with *-hadar* as the same morpheme with vowel length alternation (*-hadar* vs. *-hadaar*).
+
+**Phonological correspondence**: If *-hadar* / *-hadaar* is a genuine morpheme:
+- The alternation between *-a-* and *-aa-* would mirror the established ethereal pattern of long vs. short vowel alternation (cf. *-aan* in *Razaan*/*Durzaan* vs. *-an* in other names)
+- The /h/ in *-hadVr* is unusual — /h/ is rare in ethereal names beyond *Haramad*, *Hara'samid*, and *Hal'hadar* itself
+
+**Semantic coherence**: *Hal'hadar* is an ethereal faction on the fungal world Naigtal, and *Salhadaar* is the Nexus-King (former ruler of K'aresh). If *-hadar* / *-hadaar* means "ruler" or "leader" or "authority," this would be semantically coherent for both: *Hal'hadar* = "[Hal']-rulers/authorities" (a faction of leaders) and *Salhadaar* = "[Sal]-ruler" (the supreme ruler).
+
+### Hypotheses
+
+**Hypothesis A: *-hadar* / *-hadaar* is a genuine ethereal morpheme meaning "ruler/authority."** The vowel length alternation (*-hadar* vs. *-hadaar*) could reflect singular vs. collective (one ruler vs. group of rulers), formal vs. informal register, or phonological conditioning.
+
+**Hypothesis B: The shared *-hadVr* element is coincidental.** *Salhadaar* may be *Salha-* + *-daar* (with *-daar* = "abode/house" per Arabic *-dār*), while *Hal'hadar* = *Hal'* + *-hadar* (an unrelated element). Under this analysis, the *-daar* in *Salhadaar* and the *-hadar* in *Hal'hadar* happen to share consonants but are not the same morpheme.
+
+**Hypothesis C: *-hadVr* reflects Arabic design aesthetic.** Arabic *hādara* ("to be present/to preside") and *hadīr* ("present") provide a phonological and semantic parallel: "ruler/presider." If Blizzard chose Arabic-inspired names for both characters, the shared element could be a design coincidence reflecting Arabic root patterns rather than a genuine ethereal morpheme.
+
+### Assessment
+
+| Hypothesis | Plausibility | Notes |
+|-----------|-------------|-------|
+| A: Genuine ethereal morpheme "ruler/authority" | Low–Moderate | Two attestations with coherent semantics; but Arabic design confound is strong |
+| B: Coincidental homophony | Moderate | Different decompositions possible; small sample |
+| C: Arabic design aesthetic | **Moderate–High** | *-daar* = Arabic *-dār* ("abode"); *hadar* ≈ Arabic *hādara* ("to preside"); consistent with established Arabic design pattern |
+
+**Confidence: Very Low–Low** for *-hadar* / *-hadaar* as a genuine ethereal morpheme. The Arabic design confound (see Arabic-Inspired Naming Pattern investigation) is severe: *-daar* parallels Arabic *-dār* ("abode/house"), and *hadar* parallels Arabic *hādara* ("to preside"). The two attestations could independently reflect Arabic phonological templates chosen by Blizzard. However, if additional *-hadVr* names appear in future content, this investigation should be revisited.
+
+## Investigation 2: The *-az* vs. *-aar* / *-aan* Social Rank Hypothesis
+
+Phonological Pattern 11 identified the *-az* name-ending cluster as distinct from the *-aar* / *-aan* / *-aal* pattern. This investigation tests whether *-az* names correlate with a different social rank or occupational category from *-aar* / *-aan* names.
+
+### Data
+
+| Name | Ending | Role/Rank | Faction |
+|------|--------|-----------|---------|
+| *Salhadaar* | *-daar* | Nexus-King (highest rank) | Shadowguard |
+| *Razaan* | *-aan* | Nexus-Prince | Independent (Blade's Edge) |
+| *Durzaan* | *-aan* | Nether-Prince | Netherguard |
+| *Bilaal* | *-aal* | Nexus-Prince | Ethereum |
+| *Zarhaal* | *-aal* | (unknown rank) | Independent (BfA) |
+| *Azir* | *-zir* (medial /z/) | Nexus-Prince | Shadowguard |
+| *Arzda* | *-zda* (final /z/+da) | Abductor (operational role) | Shadowguard |
+| *Araz* | *-az* | Forgeweaver (operational role) | (K'aresh) |
+| *Zovex* | *-vex* (no *-az*) | Prisoner (no rank) | (TWW) |
+
+### Analysis
+
+The *-aar* / *-aan* / *-aal* names are disproportionately associated with **high-ranking political titles** (Nexus-King, Nexus-Prince, Nether-Prince). Of the five *-aaC* names with known ranks, 4/5 hold Nexus-* or equivalent titles.
+
+The *-az* names are associated with **operational or specialist roles**: *Arzda* = "Abductor" (a specific operational function), *Araz* = "Forgeweaver" (a craft specialist). Neither holds a political title.
+
+| Ending Pattern | Attested Ranks | Functional Category |
+|---------------|---------------|-------------------|
+| *-aar* / *-aan* / *-aal* | Nexus-King, Nexus-Prince, Nether-Prince | **Political/noble** — rulers and governors |
+| *-az* | Abductor, Forgeweaver | **Operational/specialist** — specific functions |
+| Neither | *Zovex* (prisoner), *Ve'nari* (broker leader) | Unclassified |
+
+### Hypotheses
+
+**Hypothesis A: *-az* marks a different social category from *-aar*/*-aan*.** If the ethereal naming system encodes social rank through name endings, *-az* could mark "specialist/operative" while *-aar* marks "ruler/noble." This would parallel the nerubian *-arak*/*-kan*/*-rek* title hierarchy.
+
+**Hypothesis B: *-az* is a Blizzard naming convention, not a genuine ethereal morpheme.** The concentration of *-az* endings in TWW/Midnight names (*Arzda*, *Araz*, *Zo'ardaz*) vs. absence from TBC names could reflect a shift in Blizzard's naming conventions over time rather than a genuine in-universe morphological distinction.
+
+**Hypothesis C: The social rank correlation is coincidental.** With only 2 *-az* names having known roles, the sample is too small to confirm any pattern. The apparent correlation with operational roles could be accidental.
+
+### Assessment
+
+| Hypothesis | Plausibility | Notes |
+|-----------|-------------|-------|
+| A: *-az* marks "specialist/operative" social category | Very Low–Low | Only 2 *-az* names with known roles; sample too small |
+| B: Blizzard naming convention shift | **Moderate** | TBC used Arabic *-aan*/*-aal* endings; TWW/Midnight introduced *-az* endings — may reflect design evolution |
+| C: Coincidental correlation | **Moderate–High** | Small sample; no internal evidence beyond role correlation |
+
+**Confidence: Very Low–Low** for *-az* as a genuine social-rank morpheme. The correlation with operational roles is intriguing but the sample is too small (2 *-az* names with known roles vs. 5 *-aaC* names with known titles). The TBC vs. TWW/Midnight temporal distribution of *-az* names is more parsimoniously explained by Blizzard design evolution (Hypothesis B). However, if future content adds more *-az* names consistently in non-political roles, this investigation should be revisited.

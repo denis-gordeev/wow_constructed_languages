@@ -38,6 +38,14 @@ Key historical events affecting the language:
 - **Domanaar naming (Midnight)**: The Domanaar — a separate Void species that commands the Devouring Host — use systematically Latin-inspired names (*Pertinax*, *Decimus*, *Nocturnius*, *Averzian*) with zero apostrophe usage, contrasting sharply with the Arabic-inspired, apostrophe-using ethereal naming convention. This likely represents a different language rather than a dialect of the ethereal language. The Domanaar also use the *Imperator* military title rather than the *Nexus-* noble hierarchy.
 - **Domanaar gender suffix system**: Domanaar names show a systematic gender-marking suffix pattern (*-us* masculine, *-a* feminine, *-ix* neuter/void), confirming morphological productivity in Domanaar naming
 - **Two-layer diachronic naming hypothesis**: Ethereal names may reflect two chronological layers — pre-transformation names (before Dimensius) vs. post-transformation names — with potential phonological differences between the strata
+- **Elven contact evidence**: The K'aresh Trust base *Shan'dorah* is a Thalassian (elven) compound (*Shan'* + *-dorah*), not an ethereal-language name. The void elves (Ren'dorei) in the K'aresh Trust coalition presumably named their base in their native language, constituting direct evidence of elven-ethereal cultural contact and potential linguistic influence on K'aresh
+
+## Open Linguistic Investigations
+
+| # | Investigation | Confidence | Key Question |
+|---|--------------|------------|-------------|
+| 1 | The *-hadar* / *-hadaar* Element | Very Low–Low | Is *-hadar* (in *Hal'hadar*) related to *-hadaar* (in *Salhadaar*)? Arabic design confound is severe |
+| 2 | The *-az* vs. *-aar* / *-aan* Social Rank Hypothesis | Very Low–Low | Do *-az* name endings mark "specialist/operative" vs. *-aar*/*-aan* marking "ruler/noble"? Sample too small to confirm |
 
 ## Phonological Features
 
@@ -74,6 +82,7 @@ The ethereal language is **extremely poorly attested**. The known corpus consist
 - The faction designation "Ethereum" (possibly containing the self-designation root)
 - The artifact name "Reshii Ribbons" (possibly containing the *-esh* element)
 - 13+ Domanaar names (Midnight) with a systematically different naming convention
+- 1 elven contact name on K'aresh (*Shan'dorah*, a Thalassian compound used by void elves in the K'aresh Trust)
 
 No ethereal-language sentences, phrases, or texts are attested in canon. No Domanaar-language sentences, phrases, or texts are attested either.
 

@@ -476,7 +476,7 @@ The Naaru — beings of Holy Light — consistently use names that follow the **
 | K'ara | /ˈkɑːrɑː/ | Naaru aboard the Exodar (Legion) | *K'* initial + *-ara*; parallels *K'ure* with same initial consonant |
 | M'uru | /ˈmuːruː/ | Dark Naaru, Sunwell Plateau (TBC) | The most narratively significant dark Naaru; captured by the Blood Knights, drained of Light, eventually restored and sacrificed to reignite the Sunwell. *M'* initial + *-uru* |
 | O'ros | /ˈoʊrɒs/ | Naaru aboard the Exodar (TBC) | *O'* initial + *-ros* |
-| L'ura | /ˈluːrɑː/ | Dark Naaru (Legion, Midnight) | See Midnight section above. *L'* initial + *-ura*; corrupted and released by Xal'atath |
+| L'ura | /ˈluːrɑː/ | Dark Naaru (Legion, Midnight) | See Midnight section above. *L'* initial + *-ura*; corrupted and released by Xal'atath. Sixth attested naaru name; cross-referenced in [Draenei vocabulary](../draenei/vocabulary.md) and [Draenei grammar](../draenei/grammar.md) Investigation 1 |
 
 ### Lothraxion
 
