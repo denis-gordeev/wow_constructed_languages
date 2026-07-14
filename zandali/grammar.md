@@ -1243,6 +1243,75 @@ If *-ey* and *-ye* are allomorphs, the conditioning factor might be the phonolog
 
 **Confidence: Low–Moderate** for *gokinye* = *gokin* + *-ye* (agentive decomposition). The connection to *-ey* in *Hash'ey* is the strongest argument — if both words use agentive suffixes, the shared morphological structure would support *-ey/-ye* as a genuine Zandali agentive suffix with two attestations. The root *gokin* = "foreign/strange" remains speculative without independent attestation. The monomorphemic analysis remains competitive.
 
+### Investigation 12: The *-tek* Element in *Ula'tek* — Cross-Language Parallels
+
+The loa name *Ula'tek* (/ˈuːlə.ˌtɛk/) is decomposed as *Ula'* + *-tek*, but neither element has a confirmed gloss. The *-tek* element, however, shows striking phonological parallels across three other WoW constructed languages — two of which are also associated with serpent or Old God themes.
+
+#### Cross-Language Parallels for *-tek*
+
+| Language | Name | Element | IPA | Context | Confidence |
+|----------|------|---------|-----|---------|------------|
+| **Zandali** | *Ula'tek* | *-tek* | /tɛk/ | Snake goddess; "nightmare born from the Rift of Aln" | — (under analysis) |
+| **Sethrak** | *Korthek* | *-thek* | /θɛk/ | Faithless general; serpent-folk language | Low |
+| **Shath'Yar** | *sk'tek* | *tek* | /tɛk/ | Confirmed morpheme: "skull(s)" (Moderate confidence); 6 independent attestations of *sk'* = "your" | Moderate |
+| **Nerubian** | *Y'tekhi* | *-tekhi* | /ˈtɛki/ | Quartermaster who underwent Old Blood ascension (Old God transformation) | Very Low–Low |
+
+The phonological match is exact between Zandali *-tek* /tɛk/ and Shath'Yar *tek* /tɛk/. The Sethrak *-thek* /θɛk/ differs only in the dental consonant (alveolar stop vs. dental fricative) — a typologically natural alternation. The nerubian *-tekhi* extends the /tɛk/ sequence with an additional /i/ vowel.
+
+#### Hypotheses
+
+**Hypothesis 1: *-tek* is a genuine Zandali morpheme with no cross-language connection**
+
+*-tek* is simply the second element of a bimorphemic loa name, parallel to *-zala* (*Mueh'zala*), *-eek* (*Hir'eek*), *-wa* (*Krag'wa*), *-ku* (*Pa'ku*). The cross-language parallels are coincidental — *-tek* is a short CVCC sequence that occurs independently in multiple Blizzard naming systems.
+
+**Hypothesis 2: *-tek* reflects Old God substrate vocabulary (Shath'Yar borrowing)**
+
+If *tek* = "skull" (Shath'Yar, Moderate confidence), then *Ula'tek* could mean "Skull of Ula" or "Ula-Skull" — a name befitting a serpent goddess associated with venom and death. This hypothesis is strengthened by:
+
+- Ula'tek is described as "a nightmare born from the Rift of Aln" — the Rift is an Old God-associated location
+- The Venomous Abyss raid bosses (born of Ula'tek's venom and blood) have names with "mixed Zandali and possible Aqir/Shath'Yar phonological features" (see description.md)
+- *Kith'ix*, the C'Thraxxi general whose defeat is commemorated at *Atal'Utek*, has a Shath'Yar/N'raqi origin name
+- The Amani summoned Ula'tek during the Aqir and Troll War (~16,000 BDP), when Old God influence was pervasive
+- Nerubian *Y'tekhi* (post-apostrophe element *-tekhi*) underwent confirmed Old God transformation, linking the /tɛk/ sequence to Old God contact
+
+The semantic extension from "skull" to "head/crest/crown" to "goddess" is typologically natural (many real-world deities are named after body parts or attributes — e.g., Celtic *Cernunnos* "the horned one" from *carn* "horn").
+
+**Hypothesis 3: *-tek*/*-thek* is a shared serpent-vocabulary element (Zandali–Sethrak)**
+
+Both Zandali (via Ula'tek, snake goddess) and Sethrak (as serpent-folk who worship *Sethraliss*, Loa of Serpents) are associated with serpent cultures. The *-tek* / *-thek* element may be a "serpent vocabulary" morpheme preserved across cultures that worship snake loa. Sethrak *Seth* = "serpent" (Low–Medium confidence), and *-thek* may be a serpent-related suffix within the *-ek*/*-ok* velar-stop-frame pattern identified for Faithless names.
+
+However, the phonological difference (/t/ vs /θ/) and the absence of any confirmed semantic gloss for *-thek* weaken this hypothesis. The Sethrak–Zandali connection is more likely due to shared Blizzard design aesthetics (serpent-themed naming) than genuine in-universe morphological borrowing.
+
+**Hypothesis 4: *-tek*/*-tekhi* reflects shared Aqir substrate (Zandali–Nerubian)**
+
+The *-tek* element in Zandali and *-tekhi* in nerubian could reflect a shared Aqir substrate morpheme, preserved through Old God contact in both languages. Both nerubians (Aqir descendants) and the Ula'tek context (Aqir and Troll War era, Old God-tainted environment) have deep Aqir connections. The nerubian *-ek*/*-rek* suffix pattern (*Ansurek*, *Nizrek*, *Ix'zek*) may be a broader reflex of the same substrate element.
+
+#### The *Ula'* Element
+
+The pre-apostrophe element *Ula'* (/ˈuːlə/) is unique to Zandali — no cognate, parallel, or similar root exists in any other language file in the repository. The official IPA shows a long /uː/ vowel followed by schwa, which is phonologically unusual for Zandali (a language dominated by /a/ vowels). The closest Hara'ni parallel is *Ul'ar* (/ʊlˈɑːr/), a Haranir place name (Wildcamp Ul'ar), where *Ul'* /ʊl/ shares the /u/ + /l/ consonantal skeleton. However, *Ul'ar* is a Hara'ni place name with no confirmed semantic gloss, and the /ʊ/ vs /uː/ vowel difference is significant.
+
+#### The Rift of Aln Connection
+
+Ula'tek is described as "a nightmare born from the Rift of Aln" (warcraft.wiki.gg). The Rift of Aln is central to Hara'ni cosmology:
+
+- *Aln'hara* = the Worldsoul of Azeroth (Hara'ni goddess)
+- *Alndust* = Azerite in particle form
+- *Alnscorned* = broken nightmares dwelling in the Rift
+- The Shul'ka sever their connection to Aln'hara to safely patrol the Rift
+
+The Amani summoned Ula'tek from the Rift during the Aqir and Troll War (~16,000 BDP), the same era the Haranir traveled to Harandar following Aln'hara's call. This establishes a deep lore connection: the Rift of Aln is a source of both spiritual power (Aln'hara/Alndust) and primordial horror (Ula'tek). However, no direct linguistic cognate between *Ula'* and any Hara'ni morpheme has been identified.
+
+#### Assessment
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| H1: Coincidental | *-tek* is a Zandali-internal morpheme; cross-language parallels are coincidental | **Low–Moderate** — most parsimonious; short CVCC sequences are prone to coincidence |
+| H2: Old God substrate | *-tek* reflects Shath'Yar *tek* "skull" borrowed into Zandali via Old God contact during the Aqir and Troll War | **Low–Moderate** — semantically coherent; supported by Rift of Aln/Old God lore context; exact phonological match with Shath'Yar; weakened by single cross-family comparison |
+| H3: Serpent vocabulary | *-tek*/*-thek* is a shared serpent-culture morpheme between Zandali and Sethrak | **Very Low–Low** — /t/ vs /θ/ alternation is natural but unconfirmed; no semantic gloss for *-thek*; likely design aesthetic convergence |
+| H4: Aqir substrate | *-tek*/*-tekhi* reflects shared Aqir substrate preserved via Old God contact | **Very Low–Low** — the /tɛk/ sequence appears in Aqir-descended contexts but the broader *-ek*/*-rek* pattern may be independent |
+
+**Overall confidence: Low–Moderate** for *-tek* as a meaningful Zandali morpheme with cross-language significance. The strongest specific connection is Hypothesis 2 (Old God substrate), which is supported by: (1) the exact phonological match with Shath'Yar *tek* = "skull" (Moderate confidence), (2) the Old God-associated lore context of Ula'tek (born from the Rift of Aln, summoned during the Aqir and Troll War), and (3) the parallel in nerubian *Y'tekhi* (an Old God-transformed individual). The main limitation is that all three cross-language parallels involve short CVCC sequences that are prone to coincidence, and no independent Zandali *-tek* attestation exists outside the loa name itself.
+
 ## Gaps and Uncertainties
 
 The following aspects of Zandali grammar remain unattested and should not be assumed:
