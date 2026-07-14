@@ -72,7 +72,7 @@ No grammar, syntax, or extended text has been published by Blizzard. All grammat
 
 | Investigation | Topic | Confidence | Key Finding |
 |-------------|-------|------------|-------------|
-| 1 | Naaru naming — phonological sub-system | Moderate (observation); Low–Moderate (hypothesis) | All 6 Naaru names fit (C/V)'V(C)(V) template; distinct from Draenei compound names; likely Naaru self-designations transliterated into Draenei; L'ura (dark naaru, Legion + Midnight) confirms pattern is independent of Light/Void state |
+| 1 | Naaru naming — phonological sub-system | Moderate (observation); Low–Moderate (hypothesis) | All 7 Naaru names fit (C/V)'V(C)(V) template; distinct from Draenei compound names; likely Naaru self-designations transliterated into Draenei; L'ura and T'era (both dark/corrupted naaru) confirm pattern is independent of Light/Void state; T'era parallels M'uru (both captured and corrupted Light naaru) |
 | 2 | *-ari* suffix and *ered* root family | Very Low–Low | *-ari* has only 1 attestation (*Man'ari*); potential connection to *-ar* in *Eredar* via *-ar* + *-i* compound suffix; *ered* root in *Eredar* and *Eredath* may mean "original/first" |
 
 ### What is reliable

@@ -58,7 +58,7 @@ See [grammar.md](grammar.md) for full morphological analysis.
 - Whispers are a primary vector of Old God influence; the language itself is a weapon.
 - The faceless ones (N'raqi) serve as priests and commanders, suggesting a liturgical or command-function for the language.
 - The insectoid servants (Aqir, Qiraji, possibly Ssra'thik) may speak a related dialect.
-- Naaru names follow the identical initial-apostrophe pattern (*A'dal*, *K'ure*, *K'ara*, *M'uru*, *O'ros*, *L'ura*), paradoxically using a convention associated with their antithesis (see vocabulary.md for full analysis).
+- Naaru names follow the identical initial-apostrophe pattern (*A'dal*, *K'ure*, *K'ara*, *M'uru*, *O'ros*, *L'ura*, *T'era*), paradoxically using a convention associated with their antithesis (see vocabulary.md for full analysis).
 - The domanaar (Midnight) use the *-aar* suffix which parallels ethereal *-daar* in *Salhadaar* — most likely coincidental (Very Low confidence for genuine connection; see vocabulary.md).
 - The Tortollan Seekers are able to at least recognize, if not understand, Shath'Yar, and even have scrolls written in that language.
 - The language is inspired by **R'lyehian** from Lovecraft's Cthulhu Mythos — unlike most WoW languages, it has no real-world linguistic inspiration.
@@ -86,7 +86,7 @@ Shath'Yar writing appears on in-game objects including the **Banner of the Black
 | Confirmed single-word translations | 2 | *An'qoth* = "Vessel", *Yu'gaz* = "Fluffy" |
 | Untranslated phrases | 20+ | From cultists, artifacts, quest text |
 | Deep Watcher phrases (Midnight) | 2+ | "The eye sees all!", "We slumber no more!" |
-| Naaru names (cross-reference) | 6 | A'dal, K'ure, K'ara, M'uru, O'ros, L'ura |
+| Naaru names (cross-reference) | 7 | A'dal, K'ure, K'ara, M'uru, O'ros, L'ura, T'era |
 | Speculative dictionary entries | 76+ | Derived from cross-referencing confirmed phrases with translations |
 | Confirmed pronouns | 6 | y'za, hoq, iilth, ywaq, ag, ak |
 | Confirmed grammatical markers | 3+ | sk- (possessive), qi' (future), maq (negation) |

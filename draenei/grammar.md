@@ -102,7 +102,7 @@ No data available. Place names with heavy final syllables (e.g., *Auchindoun*, *
 
 ### Phonological Patterns
 
-6. **Naaru naming sub-pattern**: All five Naaru names (*A'dal*, *K'ure*, *K'ara*, *M'uru*, *O'ros*) share a distinctive pattern: a single consonant or vowel + apostrophe + 2-3 character element beginning with a vowel. This is a highly constrained phonological sub-pattern distinct from Draenei compound words. The apostrophe in Naaru names is likely phonological (a glottal stop or prosodic feature) rather than morphological, as the initial elements are too short to be meaningful morphemes. This supports the hypothesis that Naaru names may not follow Draenei morphological rules. **Confidence: High**
+6. **Naaru naming sub-pattern**: All seven Naaru names (*A'dal*, *K'ure*, *K'ara*, *M'uru*, *O'ros*, *L'ura*, *T'era*) share a distinctive pattern: a single consonant or vowel + apostrophe + 2-3 character element beginning with a vowel. This is a highly constrained phonological sub-pattern distinct from Draenei compound words. The apostrophe in Naaru names is likely phonological (a glottal stop or prosodic feature) rather than morphological, as the initial elements are too short to be meaningful morphemes. This supports the hypothesis that Naaru names may not follow Draenei morphological rules. **Confidence: High**
 
 7. **Word-final /r/ in place names**: Six place names end in /r/ (*Draenor*, *Karabor*, *Telredor*, *Xenedar*, *Elodor*, *Aldor*), far exceeding other final consonants. This correlates with the *-or* toponymic suffix but extends beyond it: *-ar* in *Karabor*, *Xenedar*, and *Vindicaar* suggests a broader pattern of sonorant-final toponymic suffixes. **Confidence: Medium**
 
@@ -128,7 +128,7 @@ No data available. Place names with heavy final syllables (e.g., *Auchindoun*, *
 
 ## Investigation 1: Naaru Naming — A Phonological Sub-System
 
-Six Naaru names are attested in the Draenei vocabulary. All six share a highly constrained phonological pattern that is distinct from any Draenei compound word, suggesting that Naaru names constitute a separate phonological sub-system — possibly reflecting the Naaru's non-Draenei origin or their unique mode of communication (chimes and light patterns).
+Seven Naaru names are attested in the Draenei vocabulary. All seven share a highly constrained phonological pattern that is distinct from any Draenei compound word, suggesting that Naaru names constitute a separate phonological sub-system — possibly reflecting the Naaru's non-Draenei origin or their unique mode of communication (chimes and light patterns).
 
 ### Data
 
@@ -140,6 +140,7 @@ Six Naaru names are attested in the Draenei vocabulary. All six share a highly c
 | M'uru | /məˈjʊɾu/ or /m'ʊɾu/ | C'VCV | Dark Naaru; drained by Blood Knights; reignited Sunwell |
 | O'ros | /oʊˈɾɒs/ or /ʔoʊ'ɾɒs/ | V'CVC | Naaru aboard the Exodar (TBC) |
 | L'ura | /ˈluːrɑː/ | C'VCV | Dark naaru; corrupted on Argus (Legion); absorbed by Alleria Windrunner; released by Xal'atath (Midnight); destroyed at the Darkwell |
+| T'era | /ˈtɛrə/ | C'VCV | Naaru captured by Shadowguard in Voidstorm (Midnight); corrupted by Salhadaar; killed by Alleria using L'ura's essence |
 
 ### Pattern Description
 
@@ -175,7 +176,7 @@ The pattern can be formalized as: **(C/V)'V(C)(V)** — where the initial elemen
 | **B: Naaru self-designations transliterated** | **Moderate** | Best accounts for constrained pattern; consistent with Naaru's non-vocal communication |
 | C: Argus-era Eredar archaism | Low–Moderate | Possible but requires assuming a lost morphological rule |
 
-**Confidence: Moderate** for the observation that Naaru names constitute a distinct phonological sub-system. **Low–Moderate** for Hypothesis B (Naaru self-designation transliterated into Draenei phonology). The key evidence is the extreme phonological constraint: all six names fit the (C/V)'V(C)(V) template, which has zero exceptions and zero parallels in Draenei compound words. This constraint is too consistent to be accidental but cannot be explained by any known Draenei morphological rule. Notably, L'ura — the only naaru attested as both Light and dark — follows the identical pattern, confirming that the naming convention is independent of naaru Light/Void state.
+**Confidence: Moderate** for the observation that Naaru names constitute a distinct phonological sub-system. **Low–Moderate** for Hypothesis B (Naaru self-designation transliterated into Draenei phonology). The key evidence is the extreme phonological constraint: all seven names fit the (C/V)'V(C)(V) template, which has zero exceptions and zero parallels in Draenei compound words. This constraint is too consistent to be accidental but cannot be explained by any known Draenei morphological rule. Notably, L'ura and T'era — both attested as corrupted/dark naaru — follow the identical pattern, confirming that the naming convention is independent of naaru Light/Void state. T'era provides an additional parallel to M'uru: both were Light naaru captured and corrupted by hostile forces (Blood Knights for M'uru, Shadowguard for T'era), reinforcing that the naming template predates and transcends the Light/Void dichotomy.
 
 ## Investigation 2: The *-ari* Suffix and the *ered* Root Family
 
