@@ -141,7 +141,8 @@ Patch 12.1.0 "Curse of Ula'tek" adds the Coiled Isle zone east of Zul'Aman, cont
 - **Coiled Isle**: Originally named "Atal'Utek" on the map (patch 12.0.1), renamed to "The Coiled Isle" in 12.1.0 when the underground temple kept the name *Atal'Utek*
 - **New Zandali words confirmed**: *gokinye* (invader/outsider), *oraka* (greeting), *zernago* (farewell, spelling uncertain), *Tokobo'ne* (welcome)
 - **Zul'jarra confirmed as hash'ey**: Earned the title by gaining blessings of four Amani loa (Akil'zon, Halazzi, Jan'alai, Nalorakk). Her hash'uras include Lady Liadrin
-- **Kinduru**: Zul'jin's son (not brother as previously assumed); Man'ye's brother. Has four students training as loa speakers: Rul'ari, Kaziil, Amala, Rakan
+- **Kinduru**: Zul'jin's son (not brother as previously assumed); Man'ye's brother. Has four students training as loa speakers: Rul'ari, Kaziil, Amala, Rakan. **Killed by the magic protecting the key to free Ula'tek** in the Curse of Ula'tek campaign (Wikipedia)
+- **Malacrass spirit mask**: Hex Lord Malacrass disguised himself as an enchanted spirit mask knowledgeable of Ula'tek, deceiving Zul'jan and Kinduru. The spirit mask may be a *rush'kah* (ceremonial mask), the confirmed Zandali word for ritual masks
 - **Family tree confirmed**: Zul'jin → Man'ye + Kinduru (sons). Man'ye + Zarama → Zul'jarra + Zul'jan (children). Ral'ji is Zul'jarra's lover
 - **Basengo = "Slashed tree"**: Officially confirmed translation (commonly mistranslated as "Witherbark")
 - **Shan'aten = "Ashen pine"**: Officially confirmed translation (commonly mistranslated as "Shadowpine")

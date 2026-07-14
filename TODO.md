@@ -131,6 +131,14 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-14, Round 55)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* article checked (last edited 12 July 2026); all linguistic content already documented; warcraft.wiki.gg and wowpedia.fandom.com still inaccessible (Cloudflare block); patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] Update Zandali vocabulary.md — Kinduru entry updated with death detail (killed by magic protecting key to free Ula'tek, per Wikipedia Curse of Ula'tek article) and correct family relationship (Zul'jin's son); Zul'jan entry updated with completed patch 12.1.0 details (spirit mask/Malacrass, transformation); added Malacrass spirit mask row to Additional Amani Lore table
+- [x] Update Zandali description.md — Kinduru bullet updated with death detail; added Malacrass spirit mask bullet noting possible *rush'kah* connection
+- [x] Update Hara'ni grammar.md Investigation 1 cross-linguistic comparison — added Zandali *Iklani* as potential *-ni* cognate (Very Low confidence)
+- [x] Sync Zandali vocabulary.html and description.html with updated .md counterparts
+
 ## Completed This Round (2026-07-14, Round 54)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* and *The War Within* articles checked; all linguistic content already documented; warcraft.wiki.gg and wowpedia.fandom.com still inaccessible (Cloudflare block); patch 12.1.5 still not available (scheduled Autumn 2026)

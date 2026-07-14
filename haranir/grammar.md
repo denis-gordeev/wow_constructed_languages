@@ -576,7 +576,7 @@ Alternatively, *-ani* in *-tani* could be a linking vowel *-a-* + *-ni*, making 
 #### Cross-Linguistic Comparison
 
 The *-tani* element has no confirmed parallel in any other WoW language. The closest candidates are:
-- **Zandali *-ton*/*-tani***: No attested Zandali names end in *-tani*
+- **Zandali *-ni***: The Amani villager name *Iklani* ends in *-ni*, potentially analyzable as *Ikla-* + *-ni*. If *-ni* in Zandali personal names is cognate with Hara'ni *-ni* (language/group suffix), it would provide another cross-family morpheme connecting the two branches. However, *Iklani* is a single attestation and *-ni* could be part of the stem rather than a suffix. *Nek'mani* (Bloodscalp pool) is better analyzed as *Nek'* + *-mani* rather than containing *-ni*. **Confidence: Very Low** for Zandali *-ni* as a cognate of Hara'ni *-ni*
 - **Darnassian *-ani***: No confirmed Darnassian morpheme matches *-ani* or *-tani*
 - **Nerubian *-ani***: No confirmed nerubian morpheme matches *-ani* or *-tani*
 
