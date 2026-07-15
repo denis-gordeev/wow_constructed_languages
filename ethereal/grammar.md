@@ -293,6 +293,7 @@ No verb forms, particles, or syntactic structures are known. The only confirmed 
 5. Domanaar gender suffix system (high confidence for morphological consistency; 10 attestations across 6 suffix forms and 3 genders)
 6. *-az* ending cluster (low–moderate confidence — 4 attestations of *-az* name endings, distinct from *-aar*/*-aan* pattern)
 7. Two-layer diachronic naming (low–moderate confidence — pre-transformation vs. post-transformation phonological split)
+8. *Zo'-* prefix (moderate confidence for genuine morpheme — 3 attestations across places, people, and pets; very low confidence on meaning)
 
 ## Investigation 1: The *-hadar* / *-hadaar* Element — Potential Ethereal Morpheme
 
@@ -380,3 +381,50 @@ The *-az* names are associated with **operational or specialist roles**: *Arzda*
 | C: Coincidental correlation | **Moderate–High** | Small sample; no internal evidence beyond role correlation |
 
 **Confidence: Very Low–Low** for *-az* as a genuine social-rank morpheme. The correlation with operational roles is intriguing but the sample is too small (2 *-az* names with known roles vs. 5 *-aaC* names with known titles). The TBC vs. TWW/Midnight temporal distribution of *-az* names is more parsimoniously explained by Blizzard design evolution (Hypothesis B). However, if future content adds more *-az* names consistently in non-political roles, this investigation should be revisited.
+
+## Investigation 3: The *Zo'-* Prefix — A Productive Ethereal Morpheme?
+
+Three independent ethereal names share the initial element *Zo'-*, making it one of the most frequently attested ethereal prefixes in the corpus. This investigation evaluates whether *Zo'-* is a genuine ethereal morpheme and, if so, what its function might be.
+
+### Data
+
+| Name | Decomposition | Context | Name Type |
+|------|--------------|---------|-----------|
+| *Zo'Shuul* | *Zo'* + *-Shuul* | Overlook on K'aresh (Midnight) | Place name |
+| *Zo'ardaz* | *Zo'* + *-ardaz* | Constable in Tazavesh (Midnight) | Personal name + title |
+| *Zo'ya* | *Zo'* + *-ya* | Pet on K'aresh (Midnight) | Pet/personal name |
+
+### Analysis
+
+**Cross-category distribution**: *Zo'-* appears across three distinct name categories — a place name (*Zo'Shuul* = an "Overlook"), a personal name with professional title (*Zo'ardaz* = a Constable), and a pet name (*Zo'ya*). This broad distribution is unusual for a morpheme. Most WoW morphemes are restricted to a single category (e.g., *-esh* is only in place names, *-daar* is only in high-ranking personal names). The cross-category appearance of *Zo'-* could mean:
+
+1. *Zo'-* is a very general morpheme with broad applicability (like a demonstrative or article)
+2. *Zo'-* is a personal name element that has been extended to places and pets by possessive or associative naming (e.g., "Zo's Overlook," "Zo's pet")
+3. *Zo'-* is not a genuine morpheme — the three names coincidentally share an initial syllable
+
+**Phonological profile**: *Zo'-* follows the canonical ethereal compound pattern identified in Phonological Pattern 12: short prefix (1 syllable) + longer stem (1–3 syllables). This is consistent with the grammatical interpretation where *Zo'-* is a determiner, classifier, or grammatical particle.
+
+**Temporal distribution**: All three *Zo'-* names are from Midnight/K'aresh content (2026). No *Zo'-* names appear in TBC (2007) or other earlier expansions. This concentration could reflect:
+- A K'aresh-dialect feature not present in the Netherstorm ethereal dialect
+- A recent Blizzard naming innovation for the K'aresh zone
+- A genuine ethereal morpheme that was simply not attested in earlier content
+
+**Comparison with *Ve'-* prefix**: The broker name *Ve'nari* uses a similar apostrophe-initial-prefix pattern (*Ve'* + *-nari*). If both *Zo'-* and *Ve'-* are genuine ethereal/broker prefixes, they could represent a class of pronominal or deictic prefixes. The two-prefix system would be: *Zo'-* (demonstrative/proximal?) + *Ve'-* (another function?). However, with only one *Ve'-* attestation, this remains speculative.
+
+### Hypotheses
+
+**Hypothesis A: *Zo'-* is a genuine ethereal prefix meaning "this" or "the" (definite article/demonstrative).** A proximal demonstrative or definite article would explain the cross-category distribution — "this place" (*Zo'Shuul*), "this person" (*Zo'ardaz*), "this pet" (*Zo'ya*). This parallels how English "the" can precede any noun type. However, ethereal already has a potential definite article in *Al'-* (*Al'burq*, *Alra'ed* — see Tol'vir), though this is likely a Tol'vir borrowing from Arabic *al-*, not ethereal.
+
+**Hypothesis B: *Zo'-* is a personal name or proper noun prefix.** All three names could be possessive constructions: "Zo's Overlook" (a place named after a person Zo), "Zo'ardaz" (a person whose name includes "Zo"), "Zo's pet" (a pet belonging to Zo). Under this analysis, *Zo'* is not a grammatical morpheme but a proper noun used in associative naming.
+
+**Hypothesis C: *Zo'-* is a Blizzard naming convention for K'aresh content.** The design team created *Zo'Shuul*, *Zo'ardaz*, and *Zo'ya* independently, using the *Zo'-* pattern as an aesthetic choice to make K'aresh names feel cohesive and "ethereal." The shared prefix would then reflect Blizzard's design process rather than a genuine in-universe morpheme.
+
+### Assessment
+
+| Hypothesis | Plausibility | Notes |
+|-----------|-------------|-------|
+| A: Genuine prefix "this/the" (demonstrative/definite article) | Low–Moderate | Cross-category distribution supports a grammatical function; but no other WoW language has a definite article expressed as a compound prefix in this way |
+| B: Personal name prefix (possessive/associative) | Low–Moderate | Explains cross-category distribution through possessive naming; but requires "Zo" to be a common name element |
+| C: Blizzard naming convention | **Moderate** | All three names are from the same content patch; could reflect cohesive zone design rather than genuine morphology |
+
+**Confidence: Moderate** that *Zo'-* is a genuine ethereal morpheme (3 independent attestations across different name types is significant). **Confidence: Very Low** on the specific meaning — the cross-category distribution (places, people, pets) makes a single semantic gloss difficult. The most likely interpretations are either a demonstrative/article (Hypothesis A) or a personal name used in associative naming (Hypothesis B). The concentration in K'aresh/Midnight content means the Blizzard design confound (Hypothesis C) cannot be ruled out. If additional *Zo'-* names appear in future content outside K'aresh, this would strengthen the case for a genuine morpheme; if *Zo'-* remains restricted to K'aresh, the design-convention explanation becomes more likely.

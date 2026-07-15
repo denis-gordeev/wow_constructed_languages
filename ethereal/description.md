@@ -46,6 +46,7 @@ Key historical events affecting the language:
 |---|--------------|------------|-------------|
 | 1 | The *-hadar* / *-hadaar* Element | Very Low–Low | Is *-hadar* (in *Hal'hadar*) related to *-hadaar* (in *Salhadaar*)? Arabic design confound is severe |
 | 2 | The *-az* vs. *-aar* / *-aan* Social Rank Hypothesis | Very Low–Low | Do *-az* name endings mark "specialist/operative" vs. *-aar*/*-aan* marking "ruler/noble"? Sample too small to confirm |
+| 3 | The *Zo'-* Prefix | Moderate (for morpheme) / Very Low (for meaning) | Is *Zo'-* a genuine ethereal prefix? 3 attestations across places, people, and pets; specific meaning unclear |
 
 ## Phonological Features
 
