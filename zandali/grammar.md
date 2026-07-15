@@ -376,6 +376,10 @@ This is consistent with Common (English) influence and typical of pidgin/creole 
 
 16. **/a/-dominance hierarchy by morpheme type**: The overwhelming /a/ dominance noted in Pattern 1 is not uniform across morpheme types. A hierarchy emerges: **place names > common nouns > personal names > loa names**. Place names and common nouns show the highest /a/ concentration (*Zandalar*, *Nazmir*, *Alai*, *nazdo*, *roa*, *keke*, *Atal*, *Zal*), with many morphemes being exclusively /a/-voweled (Pattern 10). Personal names show moderate /a/ but with more /i/, /o/, and /e/ (*Rastakhan*, *Talanji*, *Vol'jin*, *Sen'jin*). Loa names show the most phonological diversity, with /i/, /u/, /e/, and /o/ much more prominent (*Hir'eek*, *Pa'ku*, *Krag'wa*, *Gonk*, *Rezan*, *Kimbul*, *Sethraliss*). This hierarchy may reflect (a) age of the vocabulary — loa names may preserve older, pre-/a/-dominance phonology, while place names and common nouns have undergone /a/-dominated sound changes; or (b) register — loa names may require a distinctive, less /a/-dominated phonology as a marker of the sacred/profane distinction. **Confidence: Low–Moderate** for the hierarchy itself (the distribution is observable); Very Low for the age vs. register explanation.
 
+17. **Reduplication**: The loa name *Dundun* (Patch 12.1.0, Coiled Isle) exhibits total reduplication of the CVC syllable *Dun* → *Dundun*. This is the first attested Zandali reduplication, though it is common in other WoW languages: qiraji *Sarsarun* (Prince title, intensive reduplication), Shath'Yar *gag gag* (volitional future doubling), and Hara'ni geminate patterns (*Fuunid*, *Ruutani* with long vowels rather than full reduplication). In Zandali, *Dundun* could reflect (a) intensive/emphatic reduplication (the loa's name is "doubly powerful" or "doubly ancient"), (b) baby-talk formation (cf. English "dun-dun" as a childish sound), or (c) a phonologically iconic name for a loa whose domain involves repetition or duality. The *Dun* element may connect to *Vol'dun* (desert region) if *dun* = "land/place", making *Dundun* = "land-land" or "double-land" — but this is highly speculative with a single attestation. **Confidence: Very Low** for *Dundun* as productive reduplication; a single loa name is insufficient to establish a pattern.
+
+18. **Initial *Q'* in loa names**: The loa name *Q'onzu* (Patch 12.1.0) contains an initial *Q'* element — the first Zandali name to use *Q* as an initial consonant. *Q* is not otherwise attested in the Zandali consonant inventory (which includes /k/ and /g/ as velar stops but not /q/). The initial apostrophe (*Q'*) follows the Shath'Yar/Aqir initial-apostrophe pattern documented in alien-comparative.html: Shath'Yar *Qwor* ("above"), nerubian *Qal'ikir*, and qiraji *Qiraji* all use *Q* as an onset. If *Q'onzu* reflects Shath'Yar/Aqir substrate influence on Zandali loa nomenclature, it would parallel *Ula'tek*'s Old God-associated origins (Investigation 12). However, *Q* could also represent a phonologically unusual Zandali-internal development — a uvular or ejective stop not otherwise needed in Zandali phonology, appearing only in the sacred register of loa names. **Confidence: Very Low–Low** for Shath'Yar substrate influence on *Q'onzu*; the /q/ onset could reflect genuine Zandali sacred-register phonology, Blizzard design choice for exotic-sounding loa names, or Aqir substrate.
+
 ### Creole vs. Native Phonology
 
 A phonological distinction exists between the creole register and native Zandali names:
@@ -1311,6 +1315,72 @@ The Amani summoned Ula'tek from the Rift during the Aqir and Troll War (~16,000 
 | H4: Aqir substrate | *-tek*/*-tekhi* reflects shared Aqir substrate preserved via Old God contact | **Very Low–Low** — the /tɛk/ sequence appears in Aqir-descended contexts but the broader *-ek*/*-rek* pattern may be independent |
 
 **Overall confidence: Low–Moderate** for *-tek* as a meaningful Zandali morpheme with cross-language significance. The strongest specific connection is Hypothesis 2 (Old God substrate), which is supported by: (1) the exact phonological match with Shath'Yar *tek* = "skull" (Moderate confidence), (2) the Old God-associated lore context of Ula'tek (born from the Rift of Aln, summoned during the Aqir and Troll War), and (3) the parallel in nerubian *Y'tekhi* (an Old God-transformed individual). The main limitation is that all three cross-language parallels involve short CVCC sequences that are prone to coincidence, and no independent Zandali *-tek* attestation exists outside the loa name itself.
+
+### Investigation 13: The *-darah* Element in *Akil'darah* — Cross-Family Cognate with Elven *-dorah*/*-dora*?
+
+The loa name *Akil'darah* (Patch 12.1.0, Coiled Isle) is decomposed as *Akil'* ("eagle", Moderate confidence from *Akil'zon* and *Akil'darah*) + *-darah*. The *-darah* element has no confirmed gloss, but shows a striking phonological and structural parallel with the elven *-dorah*/*-dora* morpheme family documented in Darnassian Investigation 18.
+
+#### Cross-Family Comparison
+
+| Language | Form | IPA | Proposed Meaning | Context | Confidence |
+|----------|------|-----|-----------------|---------|------------|
+| **Darnassian** | *-dorah* | /ˈdoʊrɑː/ | Honor / remembrance (sacred context) | *Anu Dorah*, *Tor falah-no dorah*, *Thara dormil dorah*, *Thas'dorah*, *Shan'dorah* | Moderate |
+| **Shalassian** | *-dora* | /ˈdoʊrə/ | Grace / thanks | *Erana-dora isil* = "A thousand thanks upon you", *Fal'adora* | Low–Moderate |
+| **Thalassian** | *-dorah* | /ˈdoʊrɑː/ | Honor (in compounds) | *Thas'dorah*, *Shan'dorah* | Low–Moderate |
+| **Zandali** | *-darah* | /dɑːˈrɑː/ | Unknown (loa name element) | *Akil'darah* (eagle-associated loa) | — (under analysis) |
+
+The consonantal skeleton /d-r-h/ is identical across all four forms. The vowel difference (Zandali /a/ vs. elven /o/ in the first syllable) is consistent with a known phonological tendency: **Zandali systematically prefers /a/ where the elven languages use /o/**. This /o/ → /a/ correspondence is attested in the verbal ablaut system (Pattern C: /e/ → /o/ in *Peran/Poran*), where /o/ is the least frequent ablaut vowel in Zandali, and in the /a/-dominance hierarchy (Pattern 16), where common nouns and place names show the highest /a/ concentration.
+
+#### Arguments For Cognacy
+
+1. **Identical consonantal skeleton**: /d/ + /r/ + /h/ appears in all four languages. The sequence /drh/ is not a universally common consonant cluster, reducing the probability of independent invention.
+
+2. **Consistent compound position**: In all four languages, the element appears as a post-apostrophe or post-hyphen compound suffix — always the second element of a bimorphemic name.
+
+3. **Sacred/religious context**: *-dorah* appears in Darnassian ritual/memorial contexts; *-dora* appears in Shalassian ceremonial greeting; *-darah* appears in a Zandali loa name. All attested contexts are sacred or ceremonial.
+
+4. **Vowel shift consistent with known tendencies**: The /o/ → /a/ shift from elven to Zandali parallels Zandali's overwhelming /a/ dominance (Patterns 1, 10, 16) and is consistent with the direction of the *Ma'/Min'* correspondence (where Zandali retains /a/ and elven has /i/).
+
+5. **Ancestral-stock model**: The Haranir are confirmed as ancestral stock of both trolls and elves (Hagar, "Curse of Ula'tek" campaign). Shared morphemes at deep time depths (~16,000 years) are expected to be rare but not absent; *-da* (kinship suffix) is the first confirmed cross-family morpheme (Investigation 6), and *-darah/dorah* could be the second.
+
+6. **Semantic coherence**: If *-dorah* = "honor/remembrance" (Darnassian) and *-dora* = "grace/thanks" (Shalassian), both derive from the *-dor* "crown" root via different suffixes (*-ah* nominalizer, *-a* adjectival). A Zandali *-darah* in a loa name could mean "honor/grace" — semantically appropriate for a divine being's name.
+
+#### Arguments Against Cognacy
+
+1. **Single attestation**: *-darah* appears in only one Zandali name (*Akil'darah*). The elven *-dorah* has 5 attestations across 2 languages; Zandali has only 1.
+
+2. **Phonological coincidence**: /darah/ and /dorah/ share the consonantal skeleton /d-r-h/, but this sequence uses three of the most common phonemes cross-linguistically. The vowel difference /a/ vs /o/ could reflect independent development rather than systematic sound change.
+
+3. **Alternative decomposition**: *-darah* could be a Zandali-internal compound: *-dar* (related to *Dazar*/*-dazar* "throne/capital") + *-ah* (an unattested nominalizer). If *-dar* = "throne" and *-ah* = nominalizer, then *Akil'darah* = "eagle-throne" — a coherent loa name. Under this analysis, the similarity to elven *-dorah* would be coincidental, with the /d-r/ sequence independently meaning "throne/honor" in both families.
+
+4. **No confirmed gloss for *-darah***: Without knowing what *-darah* means in Zandali, the semantic coherence argument is circular — we infer the meaning from the elven cognate and then use that inferred meaning to support the cognate hypothesis.
+
+5. **The *-ah* nominalizer is not independently attested in Zandali**: The elven *-ah* suffix has four confirmed cognate pairs (*tal/talah*, *al/alah*, *fal/falah*, *dor/dorah*), but no parallel suffix is confirmed in Zandali. If *-darah* = *-dar* + *-ah*, this would be the first Zandali attestation of *-ah* — a significant claim requiring strong evidence.
+
+#### Hypotheses
+
+| Hypothesis | Description | Confidence |
+|------------|-------------|------------|
+| **Cross-family cognate** | *-darah* reflects the same Proto-Troll-Elven morpheme as *-dorah*/*-dora*, with /o/ → /a/ vowel shift consistent with Zandali /a/-dominance | **Low–Moderate** — strongest argument is the /d-r-h/ skeleton + sacred context + ancestral-stock model; weakest is single attestation and no confirmed gloss |
+| **Zandali-internal compound** (*-dar* + *-ah*) | *-darah* = *-dar* (throne/realm, related to *Dazar*/*-dazar*) + *-ah* (nominalizer, first Zandali attestation); similarity to elven *-dorah* is coincidental | **Low** — *-dar* connecting to *Dazar* is plausible but *-ah* is unattested in Zandali; the coincidence of two independent /d-r-V-h/ morphemes with similar semantics in related languages would be remarkable |
+| **Coincidental phonological similarity** | *-darah* and *-dorah* are unrelated; the /d-r-h/ match is accidental | **Low–Moderate** — most parsimonious if the ancestral-stock model does not predict shared morphology at this time depth; /darah/ is a natural CVCV sequence |
+
+#### Implications If Confirmed
+
+If *-darah* is cognate with *-dorah*/*-dora*, this would:
+
+1. Be the **second confirmed cross-family morpheme** shared between Zandali and the elven languages (after *-da*, Investigation 6)
+2. Extend the *-dor* morpheme family to **four languages** (Darnassian, Thalassian, Shalassian, Zandali)
+3. Provide the **first regular sound correspondence** for a content morpheme: Zandali /a/ ↔ Elven /o/ in the first syllable of *-darah/dorah*
+4. Support the ancestral-stock model's prediction that shared morphology should exist at ~16,000 years of divergence, though heavily eroded
+
+#### Testable Predictions
+
+1. If *-darah* is cognate with *-dorah*, additional Zandali names with the *-darah* or *-dor-* element may exist in future content (e.g., a Zandali place name or title containing *-darah*)
+2. If *-ah* is a genuine Zandali nominalizer (as in the *-dar* + *-ah* decomposition), other Zandali words ending in *-ah* should show similar nominalizing function
+3. If the /o/ → /a/ correspondence is systematic, other Zandali–Elven cognate pairs should show the same vowel shift in equivalent phonological environments
+
+**Confidence: Low–Moderate** for *-darah* as a cross-family cognate with elven *-dorah*/*-dora*. The consonantal match and sacred context are suggestive, but the single Zandali attestation and lack of confirmed gloss prevent firm conclusions. The analysis is documented as testable: if additional *-darah* attestations appear in Zandali, or if *-dor-* elements appear in Hara'ni (the most conservative branch of the family), the cognate hypothesis would strengthen significantly. Cross-referenced with Darnassian grammar.md Investigation 18.
 
 ## Gaps and Uncertainties
 
