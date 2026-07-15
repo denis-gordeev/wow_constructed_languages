@@ -49,6 +49,9 @@ Shath'Yar is the language of the Old Gods and their servants. The wiki at warcra
 | Darkwell | Corrupted Sunwell | The Sunwell after corruption by L'ura's void beam. Common-language name |
 | Dawnwell | Purified Sunwell | The renamed Sunwell after purification by combined elven heritage. Common-language name |
 | Mor'duun | Leader of Twilight's Blade (Midnight) | Language affiliation uncertain — could be Zandali-influenced (*Mor'* prefix parallels *Mor'*, *Zul'* in troll names), Shath'Yar-influenced, or Common. Led the Twilight's Blade cult in their infiltration of Quel'Thalas and invasion of Zul'Aman. Killed by Zul'jarra and Liadrin at the Broken Throne in Zul'Aman. Decomposition: if Zandali, *Mor'* + *-duun* (cf. *Mor'** in *Morta'ka* Hara'ni, but cross-family); if Shath'Yar-influenced, medial apostrophe is non-standard for Shath'Yar (which prefers initial apostrophe). Most likely Zandali or a mixed Zandali–Shath'Yar name, given the Twilight's Blade are mortal cultists operating in troll and elven territory. Also listed in zandali/vocabulary.md |
+| Devouring Host | Void army commanded by Xal'atath | Common-language name; vast army of void creatures formed by Xal'atath using the Dark Heart. In Midnight, the Devouring Host besieges the Sunwell; its generals are the Domanaar — highly intelligent Void beings brought together by Xal'atath in an uneasy alliance after she consumed their former High Lords. The Devouring Host also operates across dimensional boundaries (followed Arator into the Shadowlands' Maw). See also ethereal/vocabulary.md |
+| Dark Heart | Powerful void artifact | Common-language name; absorbs arcane and void energy. Xal'atath used it to absorb Dalaran's arcane energy, then later to create the Voidstorm. Contained Khadgar temporarily after Dalaran's destruction. Stolen from Gallywix by Phase-Thief Azir in Undermine, then brought to K'aresh where Salhadaar used it to attempt to revive Dimensius. After Dimensius's defeat, Xal'atath emerged from the Dark Heart having absorbed both Dimensius's essence and Locus-Walker's power. See also ethereal/vocabulary.md |
+| Voidstorm | Massive void phenomenon above Quel'Danas | Common-language compound; created by Xal'atath using the Dark Heart's energy. The Voidstorm serves as a base of operations for the Devouring Host; Xal'atath's seat within it is the Voidspire. Disabling Nexus-Points weakens the Voidstorm's integrity. See also ethereal/vocabulary.md |
 | Twilight's Blade | Void cult devoted to Xal'atath (Midnight) | Common-language name; cultists who infiltrated Quel'Thalas, including the town of Tranquillien. Led by Mor'duun. Not a Shath'Yar term, but culturally significant as the mortal arm of the Devouring Host in the Midnight campaign. The cult's name follows the English [element] + [weapon] naming pattern common in WoW faction design |
 | L'ura | Dark naaru | Shath'Yar-style initial-apostrophe name (*L'* + *-ura*). Originally a naaru aboard the Xenedar in Mac'Aree (Argus, Legion); corrupted by the Void into a dark naaru. Absorbed into Alleria Windrunner during the Argus campaign. Alleria used L'ura's essence to kill the corrupted naaru T'era at Nexus-Point Mid'Ar. Released by Xal'atath during the Midnight Voidspire confrontation; fired a void beam into the Sunwell, corrupting it into the Darkwell. Destroyed by combined elven forces at the Darkwell. See Draenei vocabulary.md and grammar.md Investigation 1 (7 attested naaru names) |
 | T'era | Captured naaru | Shath'Yar-style initial-apostrophe name (*T'* + *-era*). Naaru captured by the Shadowguard in the Voidstorm; fully corrupted by Salhadaar at Nexus-Point Mid'Ar. Killed by Alleria Windrunner using L'ura's essence. Seventh attested naaru name, following the (C/V)'V(C)(V) template. See Draenei vocabulary.md and grammar.md Investigation 1 |
@@ -418,7 +421,7 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 
 ## Investigation: *domanaar* and the *-aar* Suffix
 
-The Midnight expansion introduces the **domanaar**, generals of the Devouring Host. This section analyzes whether the *-aar* ending in *domanaar* reflects ethereal *-daar*, shared Void nomenclature, or coincidence.
+The Midnight expansion introduces the **domanaar**, generals of the Devouring Host. Wikipedia confirms they are "highly intelligent Void beings brought together by Xal'atath in an uneasy alliance after she consumed their former High Lords." This section analyzes whether the *-aar* ending in *domanaar* reflects ethereal *-daar*, shared Void nomenclature, or coincidence.
 
 ### The Three Attestations of *-aar* / *-daar*
 
@@ -488,13 +491,13 @@ The Naaru — beings of Holy Light — consistently use names that follow the **
 
 | Feature | Naaru Names | Old God Names | Assessment |
 |---------|------------|---------------|------------|
-| Initial apostrophe | All 6 names | N'Zoth, C'Thun, Y'Shaarj | Shared pattern |
-| C'V(C) structure | All 6 names | Most Old God names | Shared pattern |
+| Initial apostrophe | All 7 names | N'Zoth, C'Thun, Y'Shaarj | Shared pattern |
+| C'V(C) structure | All 7 names | Most Old God names | Shared pattern |
 | Apostrophe as morpheme boundary | Likely | Likely | Shared pattern |
 | Semantic content of initial element | Unknown | Unknown (possibly entity-designator) | Cannot assess |
 | Relationship to Void | Opposed | Aligned | Paradoxical if names are Shath'Yar |
 
-**Confidence: Low–Medium** that Naaru names reflect genuine Shath'Yar naming conventions rather than Blizzard design convergence. The systematic parallel (all Naaru use the convention) is stronger than a coincidence would predict, but the Light-Void opposition makes in-universe transmission unlikely unless the naming convention predates the Light-Void split or is a universal cosmic naming pattern.
+**Confidence: Low–Medium** that Naaru names reflect genuine Shath'Yar naming conventions rather than Blizzard design convergence. The systematic parallel (all 7 Naaru use the convention) is stronger than a coincidence would predict, but the Light-Void opposition makes in-universe transmission unlikely unless the naming convention predates the Light-Void split or is a universal cosmic naming pattern.
 
 ## Potential Morphemes (Updated from Confirmed Data)
 

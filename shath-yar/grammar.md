@@ -2253,3 +2253,47 @@ If *qam*₃ = copula (paralleling *ma*) and *qam*₂ = negation (paralleling *ma
 The formal similarity between *ma*/*maq* (sharing /m/) and *qam*/*qam* (identical form) is intriguing. If *maq* = *ma* + *-q* (copula + negation suffix), then *qam* could be the reverse order *q* + *am* (negation + copula stem), creating a mirror-image pair. This is speculative but would provide a systematic phonological relationship between copulas and their corresponding negations.
 
 **Confidence: Low–Moderate** for three homophonous *qam* morphemes. The strongest result is the construction-specific negation analysis for *qam*₂ (*wgah qam* = "will-not"), which would resolve the Aux-Neg ordering puzzle and add a seventh element to the negation inventory. The copula *qam*₃ analysis is weaker, resting on a single attestation (*Fssh qam ak'agathShi*) that could alternatively be read as *qam*₁ "return" in a metaphorical sense ("They return as redemption").
+
+### Investigation 17: Domanaar Naming — Latin-Style Names in a Shath'Yar Context — **NEW Round 58**
+
+The Midnight expansion introduces the **domanaar**, generals of the Devouring Host (see vocabulary.md Investigation section). Wikipedia confirms they are "highly intelligent Void beings brought together by Xal'atath in an uneasy alliance after she consumed their former High Lords." Two domanaar are named: **Decimus** and **Terminas**. Both names follow a Latin-inspired morphological pattern, which is anomalous in the Shath'Yar naming system.
+
+### The Anomaly
+
+| Feature | Typical Shath'Yar Names | Domanaar Names |
+|---------|------------------------|----------------|
+| Apostrophe usage | Pervasive (initial and medial) | Absent |
+| Consonant clusters | Heavy (*ssh*, *qzz*, *thk*, *vwg*) | None |
+| Phonological complexity | Extreme (designed to be alien/unpronounceable) | Simple (CV/CVC syllable structure) |
+| Morphological inspiration | R'lyehian/Lovecraftian | Latin |
+
+### Latin Morphological Analysis
+
+| Name | Latin Root | Meaning | Notes |
+|------|-----------|---------|-------|
+| *Decimus* | *decimus* | "tenth" | Latin ordinal number; standard Roman praenomen |
+| *Terminas* | *terminus* / *terminare* | "boundary/end" or "to terminate" | Possibly *terminās* (2nd person singular "you terminate"); the *-as* ending suggests a Latin verb conjugation rather than a noun |
+
+### Hypotheses
+
+**Hypothesis 1: Common-Language Rendering (Most Likely)**
+
+Decimus and Terminas are not their native Shath'Yar/Void names but Common-language renderings assigned by mortals who could not pronounce the originals. This parallels how many Old God names may be Common renderings (*N'Zoth* is likely not how N'Zoth self-designates). The Domanaar, being "highly intelligent" Void beings, may have adopted mortal-friendly names for inter-species communication.
+
+**Hypothesis 2: Blizzard Design Choice for Void Aristocracy**
+
+Blizzard chose Latin-inspired names to evoke imperial authority and hierarchy, paralleling how Eredun names draw on Latin for Burning Legion commanders (*Archimonde*, *Kil'jaeden* share Latinate phonological patterns). The Domanaar as generals of a structured void army needed names conveying command and order — Latin naming achieves this more effectively than Shath'Yar-style consonant clusters, which evoke chaos and incomprehensibility.
+
+**Hypothesis 3: Genuine Void Nomenclature Tier**
+
+Shath'Yar may have a two-tier naming system: Shath'Yar-style names for cosmic/religious entities (Old Gods, their servants) and a more structured register for organizational/military designations. The Domanaar, as military commanders rather than religious figures, may use a different naming convention. If genuine, *-us* (Decimus) and *-as* (Terminas) could be case or rank suffixes in this register.
+
+### Assessment
+
+| Hypothesis | Confidence | Key Argument |
+|-----------|-----------|--------------|
+| Common-language rendering | **Moderate** | Parallels widespread WoW practice; Shath'Yar phonology is extremely hostile to CV structure |
+| Blizzard design for void aristocracy | **Moderate–High** | Parallels Eredun Latin-inspired naming for commanders; design consistency with existing void/legion aesthetics |
+| Genuine two-tier nomenclature | **Very Low–Low** | Only 2 data points; no corroborating evidence for a structured Shath'Yar register system |
+
+**Overall Confidence: Moderate–High** that the Latin-style domanaar names are a Blizzard design choice (whether as in-universe Common renderings or as out-of-universe aesthetic decisions), not evidence of a genuine Shath'Yar morphological subsystem. The sharp phonological break from Shath'Yar conventions is more consistent with deliberate design than with an organic register distinction within a single language. The Domanaar naming parallels the Eredun command-name pattern (*Archimonde*, *Kil'jaeden*, *Mannoroth*), suggesting Blizzard has a consistent design template of Latinate names for high-ranking entities in hierarchical void/demonic organizations.
