@@ -97,7 +97,7 @@ Shath'Yar writing appears on in-game objects including the **Banner of the Black
 - **Moderate attestation.** With 87+ confirmed translated phrases, Shath'Yar is now one of the better-attested WoW constructed languages — far surpassing nerubian, qiraji, and ethereal in confirmed vocabulary.
 - **Translation imprecision.** The English translations are often idiomatic rather than literal, making it difficult to map Shath'Yar morphemes precisely.
 - **Design intent.** The language was likely designed for aesthetic effect (alien, maddening, Lovecraftian) rather than as a functional constructed language. The wiki explicitly states: "the grammar of Shath'Yar appears to be quite different from English, especially when it comes to articles and auxiliary verbs."
-- **Speculative dictionary caveat.** The 60+ speculative dictionary entries are derived by cross-referencing, not by official Blizzard morpheme assignments. The wiki marks this section as "should not be taken as representing official lore."
+- **Speculative dictionary caveat.** The 76+ speculative dictionary entries are derived by cross-referencing, not by official Blizzard morpheme assignments. The wiki marks this section as "should not be taken as representing official lore."
 - **Parser words are not genuine.** The in-game language translator does not use a real Shath'Yar dictionary.
 - The association of N'raqi, Aqir, Qiraji, and K'thir with Shath'Yar is inferred from their service to the Old Gods, not explicitly stated in canon.
 - See [alien-comparative.html](../alien-comparative.html) for comparative analysis with nerubian, qiraji, ethereal, and Hara'ni.
