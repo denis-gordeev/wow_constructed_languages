@@ -86,6 +86,15 @@ No Nerglish writing system has been depicted in canon for any stage of the langu
 | Ankoan proper names | 5 | Okani, Inowari, Ori, Akana, Kotori |
 | Kobyss attested speech | 3 | "Animate bones", "Devour", "Violence" (Common) |
 | Kobyss tribal designations | 7 | Darkwater, Fathomless, Gutter, Hungering, Murkfin, Ragefin, Sunless |
+| Open linguistic investigations | 3 | Investigation 1 (Murloc→Jinyu expansion, Moderate), Investigation 2 (Jinyu *-shi* suffix, Very Low–Low), Investigation 3 (*Sele'na* apostrophe, Very Low–Low) |
+
+## Open Linguistic Investigations
+
+| # | Topic | Confidence |
+|---|-------|------------|
+| 1 | Murloc → Jinyu phonological expansion — the only case of linguistic complexification in WoW | Moderate |
+| 2 | Jinyu *-shi* suffix — agentive, honorific, or coincidental? | Very Low–Low |
+| 3 | *Sele'na* — Zandali contact or independent apostrophe development? | Very Low–Low |
 
 ## Reliability Notes
 
