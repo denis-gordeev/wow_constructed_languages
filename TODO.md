@@ -131,6 +131,20 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-17, Round 63)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] HTML-MD sync audit of 11 directories not recently checked (dwarven, drust, gnomish, kalimag, gutterspeak, vulpera, common, nature, titan, earthen, pandaren) — 3 of 11 had substantive discrepancies fixed:
+  - Gnomish: grammar.html Investigations 1–3 significantly abbreviated — added missing phonological analysis table, detailed hypothesis descriptions, assessment paragraphs, cross-linguistic context, Mi- reduplication analysis, and testable predictions
+  - Kalimag: grammar.html Investigation 6 (Cross-Dialect Lexical Correspondence) abbreviated — added missing bromo dialect comparison table, three numbered analyses, Reth dialect comparison table, detailed Reth analysis paragraph, and implications for dialectal divergence section
+  - Common: vocabulary.html has duplicate legacy "Arathi & Hallowfall" section (noted but not restructured — would require significant HTML rewrite)
+- [x] Cross-reference consistency check: titan-forged-comparative.html vs individual language files — 4 issues fixed:
+  - Added Dwarven *-grim* attestation (*Grim Batol*) to cross-language wordlist row (was blank in Dwarven column)
+  - Corrected *Skar-* row assessment from "possibly Titan morpheme" to "Norse design element preferred (Moderate–High); Low–Moderate for genuine Titan morpheme"
+  - Added Drust *Ath-*/**Athair** Thornspeaker investigation section to Vrykul↔Drust section
+  - Added Earthen *Dhar-*, *-gaz*, *-modan*/*Modr* rows to cross-language wordlist with confidence levels
+- [x] Confirmed directories in sync: dwarven, drust, gutterspeak, vulpera, pandaren, titan, earthen (MD and HTML content matches)
+
 ## Completed This Round (2026-07-17, Round 62)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
