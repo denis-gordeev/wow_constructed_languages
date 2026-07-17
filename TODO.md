@@ -131,6 +131,16 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-17, Round 64)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] HTML-MD sync audit of 4 directories not recently checked (sethrak, mogu, pandaren, nerglish) — 3 of 4 had discrepancies found and fixed:
+  - Sethrak: grammar.html Compounding section missing "(inferred)" text labels — restored alongside existing CSS class for accessibility
+  - Mogu: vocabulary.md Roots & Morphemes table missing IPA column (30 rows affected) — added IPA transcriptions to match vocabulary.html; vocabulary.md missing closing note about attestation quality — added to match vocabulary.html
+  - Pandaren: vocabulary.md missing attestation warning, "No invented words" statement, "NPC names" in source list, Yu'lon apostrophe note, and Mogu cross-reference link — all added to match vocabulary.html; vocabulary.html missing "NPC names" and "No invented words" — added back
+  - Nerglish: description.html missing nav link for "Open Linguistic Investigations" section — added to navigation bar
+- [x] Cross-reference consistency check: alien-comparative.html, elven-comparative.html, titan-forged-comparative.html vs individual language files — investigation counts and confidence levels confirmed consistent; no discrepancies found
+
 ## Completed This Round (2026-07-17, Round 63)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)

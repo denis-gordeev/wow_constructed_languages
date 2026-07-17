@@ -101,38 +101,38 @@ The empire had at least three confirmed dynasties (Shen, Wai, Qiang); a possible
 
 ## Roots and Morphemes
 
-| Morpheme | Gloss | Evidence | Certainty |
-|----------|-------|----------|-----------|
-| Mogu | "demon-ancient" or "magic-ancient" (uncertain) | Self-designation; Chinese 魔古 = "demon/magic" + "ancient," but may be Chinese rendering rather than original etymology; may be a compound (*mo* + *gu*) or monomorphemic | Low–Medium |
-| lei | "thunder" | *Lei Shen* = "Thunder King"; Chinese 雷 (léi) = "thunder" confirms | High |
-| shen | "god" / "deity" / "ruler" | *Lei Shen* = "Thunder King"; Chinese 神 (shén) = "god/deity" confirms; also a dynasty name | High |
-| shan | "mountain" | *Mogu'shan* place names; Chinese 山 (shān) = "mountain" confirms; also in *Shan'ze* clan | High |
-| qon | "iron" / "strength" (inferred) | *Iron Qon* — "Qon" may correspond to "iron" | Low |
-| qiang | "strong" / "ruthless" (inferred) | *Qiang the Merciless* + Qiang dynasty | Low–Medium |
-| zian | "shadow" / "dark" (inferred) | *Zian of the Endless Shadow* — may correspond to epithet | Low |
-| meng | "mad" / "fierce" (inferred) | *Meng the Demented* — may correspond to epithet | Low |
-| xin | "weapon" / "blade" (inferred) | *Xin the Weaponmaster* — may correspond to epithet | Low |
-| ra | creator / father (uncertain) | *Ra-den*; may be the Mogu name for their Titan creator | Low |
-| wai | (unknown) | *Wai dynasty*; no epithet or translation to gloss from | Very Low |
-| feng | "accursed" or "wind" (inferred) | *Feng the Accursed*; Chinese 风 (fēng) = "wind" but epithet suggests "accursed" | Low |
-| kuai | "brigand" or "swift" (inferred) | *Kuai the Brigand*; epithet suggests "brigand" | Low |
-| hai | "unbreakable" or "sea" (inferred) | *Hai the Unbreakable*; Chinese 海 (hǎi) = "sea" but epithet suggests "unbreakable" | Low |
-| ming | "bright" / "cunning" (inferred) | *Ming the Cunning*; Chinese 明 (míng) = "bright" | Low |
-| xi | (unknown; possibly "emperor" or "ruler") | Shared element in *Qin-xi* and *Jan-xi* (Will of the Emperor bosses); may be a title suffix | Low |
-| qin | (unknown) | *Qin-xi*; may be related to *qiang* (strong/ruthless)? | Very Low |
-| jan | (unknown) | *Jan-xi*; no reliable gloss | Very Low |
-| ze | (unknown) | *Shan'ze* clan; follows *shan* ("mountain") | Very Low |
-| baruk | (unknown) | *Baruk* clan; possibly monomorphemic | Very Low |
-| dok | (unknown) | Potential element in *Dokani* | Very Low |
-| ani | (unknown; possibly clan/group suffix) | Shared ending in *Dokani* and *Rajani*; may be a clan suffix | Very Low |
-| zan | (unknown) | *Zan-Tien* clan; first element | Very Low |
-| tien | "heaven" / "sky" (inferred) | *Zan-Tien* clan; Chinese 天 (tiān) = "heaven/sky" may gloss this | Low |
-| raj | (unknown) | Potential element in *Rajani* | Very Low |
-| suen | (unknown; possibly "sun" or "day") | Twin Consort associated with day/sun | Very Low |
-| lu | (unknown; possibly "night" or "moon") | First element of *Lu'lin* | Very Low |
-| lin | (unknown) | Second element of *Lu'lin* | Very Low |
-| sha | (unknown; possibly "engine" or "serpent" or suffix) | *Nalak'sha* in *Engine of Nalak'sha*; appears after *Nalak* (storm serpent name) | Very Low |
-| dao | "island" (inferred) | *Shan'ze Dao*; Chinese 岛 (dǎo) = "island" | Medium |
+| Morpheme | IPA | Gloss | Evidence | Certainty |
+|----------|-----|-------|----------|-----------|
+| Mogu | /ˈmoʊɡuː/ | "demon-ancient" or "magic-ancient" (uncertain) | Self-designation; Chinese 魔古 = "demon/magic" + "ancient," but may be Chinese rendering rather than original etymology; may be a compound (*mo* + *gu*) or monomorphemic | Low–Medium |
+| lei | /leɪ/ | "thunder" | *Lei Shen* = "Thunder King"; Chinese 雷 (léi) = "thunder" confirms | High |
+| shen | /ʃɛn/ | "god" / "deity" / "ruler" | *Lei Shen* = "Thunder King"; Chinese 神 (shén) = "god/deity" confirms; also a dynasty name | High |
+| shan | /ʃɑn/ | "mountain" | *Mogu'shan* place names; Chinese 山 (shān) = "mountain" confirms; also in *Shan'ze* clan | High |
+| qon | /kɔn/ | "iron" / "strength" (inferred) | *Iron Qon* — "Qon" may correspond to "iron" | Low |
+| qiang | /tʃjɑŋ/ | "strong" / "ruthless" (inferred) | *Qiang the Merciless* + Qiang dynasty | Low–Medium |
+| zian | /ziːˈɑn/ | "shadow" / "dark" (inferred) | *Zian of the Endless Shadow* — may correspond to epithet | Low |
+| meng | /mɛŋ/ | "mad" / "fierce" (inferred) | *Meng the Demented* — may correspond to epithet | Low |
+| xin | /ʃɪn/ | "weapon" / "blade" (inferred) | *Xin the Weaponmaster* — may correspond to epithet | Low |
+| ra | /rɑː/ | creator / father (uncertain) | *Ra-den*; may be the Mogu name for their Titan creator | Low |
+| wai | /waɪ/ | (unknown) | *Wai dynasty*; no epithet or translation to gloss from | Very Low |
+| feng | /fɛŋ/ | "accursed" or "wind" (inferred) | *Feng the Accursed*; Chinese 风 (fēng) = "wind" but epithet suggests "accursed" | Low |
+| kuai | /kwaɪ/ | "brigand" or "swift" (inferred) | *Kuai the Brigand*; epithet suggests "brigand" | Low |
+| hai | /haɪ/ | "unbreakable" or "sea" (inferred) | *Hai the Unbreakable*; Chinese 海 (hǎi) = "sea" but epithet suggests "unbreakable" | Low |
+| ming | /mɪŋ/ | "bright" / "cunning" (inferred) | *Ming the Cunning*; Chinese 明 (míng) = "bright" | Low |
+| xi | /ʃi/ | (unknown; possibly "emperor" or "ruler") | Shared element in *Qin-xi* and *Jan-xi* (Will of the Emperor bosses); may be a title suffix | Low |
+| qin | /tʃɪn/ | (unknown) | *Qin-xi*; may be related to *qiang* (strong/ruthless)? | Very Low |
+| jan | /dʒɑn/ | (unknown) | *Jan-xi*; no reliable gloss | Very Low |
+| ze | /zɛ/ | (unknown) | *Shan'ze* clan; follows *shan* ("mountain") | Very Low |
+| baruk | /bɑˈruk/ | (unknown) | *Baruk* clan; possibly monomorphemic | Very Low |
+| dok | /doʊk/ | (unknown) | Potential element in *Dokani* | Very Low |
+| ani | /ɑːni/ | (unknown; possibly clan/group suffix) | Shared ending in *Dokani* and *Rajani*; may be a clan suffix | Very Low |
+| zan | /zɑn/ | (unknown) | *Zan-Tien* clan; first element | Very Low |
+| tien | /tiːɛn/ | "heaven" / "sky" (inferred) | *Zan-Tien* clan; Chinese 天 (tiān) = "heaven/sky" may gloss this | Low |
+| raj | /rɑːdʒ/ | (unknown) | Potential element in *Rajani* | Very Low |
+| suen | /suːˈɛn/ | (unknown; possibly "sun" or "day") | Twin Consort associated with day/sun | Very Low |
+| lu | /luː/ | (unknown; possibly "night" or "moon") | First element of *Lu'lin* | Very Low |
+| lin | /lɪn/ | (unknown) | Second element of *Lu'lin* | Very Low |
+| sha | /ʃɑ/ | (unknown; possibly "engine" or "serpent" or suffix) | *Nalak'sha* in *Engine of Nalak'sha*; appears after *Nalak* (storm serpent name) | Very Low |
+| dao | /daʊ/ | "island" (inferred) | *Shan'ze Dao*; Chinese 岛 (dǎo) = "island" | Medium |
 
 ## Potential Morphemic Decompositions (Speculative)
 
@@ -159,3 +159,5 @@ The empire had at least three confirmed dynasties (Shen, Wai, Qiang); a possible
 | Rajani | *raj* + *ani* (?) | (unknown) + clan suffix (?) | Very Low |
 | Lu'lin | *lu* + *lin* | (unknown) + (unknown) | Very Low |
 | Nalak'sha | *Nalak* + *sha* | (proper name) + suffix (?) | Very Low |
+
+> **Note:** Mogu is very poorly attested. No Mogu sentences, verb forms, or grammatical particles are known. All morphological analysis is based on decomposition of proper names. Chinese localization data provides strong support for *lei* = "thunder," *shen* = "god/deity," and *shan* = "mountain." See grammar.md and description.md for full analysis.

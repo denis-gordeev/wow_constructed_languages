@@ -1,6 +1,8 @@
 # Pandaren Vocabulary
 
-All entries are attested from in-game dialogue, quest text, NPC names, or official Blizzard sources. No invented words are included.
+All entries are attested from in-game dialogue, quest text, NPC names, or official Blizzard sources. No invented words are included. No complete Pandaren sentences are attested; the corpus consists entirely of proper names.
+
+> **Attestation warning:** The Pandaren language has no attested translated phrases or sentences. Pandaren NPCs speak Common in-game. The entire corpus consists of proper names and two philosophical faction names (*Tushui*, *Huojin*). All morpheme decompositions are speculative.
 
 ## Philosophical / Cultural Terms
 
@@ -16,7 +18,7 @@ All entries are attested from in-game dialogue, quest text, NPC names, or offici
 | Chi-Ji | /ˈtʃiː dʒiː/ | The Red Crane (Hope) | Celestial of Hope |
 | Niuzao | /ˈnjuːzaʊ/ | The Black Ox (Fortitude) | Celestial of Fortitude |
 | Xuen | /ʃwɛn/ | The White Tiger (Strength) | Celestial of Strength |
-| Yu'lon | /juːˈlɔn/ | The Jade Serpent (Wisdom) | Celestial of Wisdom |
+| Yu'lon | /juːˈlɔn/ | The Jade Serpent (Wisdom) | Celestial of Wisdom; apostrophe may mark morpheme boundary or glottal stop |
 
 ## Beings and Entities
 
@@ -59,7 +61,7 @@ All entries are attested from in-game dialogue, quest text, NPC names, or offici
 
 ## Cross-Reference with Mogu Language
 
-The Mogu enslaved the Pandaren for thousands of years, creating conditions for significant linguistic contact.
+The Mogu enslaved the Pandaren for thousands of years, creating conditions for significant linguistic contact. The following table identifies potential shared elements between Pandaren and the Mogu language (see [Mogu vocabulary](../mogu/vocabulary.md)).
 
 ### Shared Morphemes
 
