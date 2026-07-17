@@ -282,7 +282,7 @@ This would make *-kahet* one of the most securely attested nerubian morphemes, w
 
 ## 7. The *Anub-* Prefix: A Persistent Nerubian Morpheme
 
-The prefix *Anub-* appears in four nerubian names across multiple expansions:
+The prefix *Anub-* appears in eight nerubian names across multiple expansions:
 
 | Name | Expansion | Role |
 |------|-----------|------|

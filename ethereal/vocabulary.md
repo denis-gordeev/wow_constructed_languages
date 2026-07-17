@@ -1,4 +1,4 @@
-# Ethereal Vocabulary
+# Ethereal / Broker Vocabulary
 
 All entries are attested in World of Warcraft canon (NPC dialogue, quest text, in-game text, official Blizzard sources) unless marked. Inferences are marked with [inferred].
 

@@ -380,6 +380,23 @@ This is consistent with Common (English) influence and typical of pidgin/creole 
 
 18. **Initial *Q'* in loa names**: The loa name *Q'onzu* (Patch 12.1.0) contains an initial *Q'* element — the first Zandali name to use *Q* as an initial consonant. *Q* is not otherwise attested in the Zandali consonant inventory (which includes /k/ and /g/ as velar stops but not /q/). The initial apostrophe (*Q'*) follows the Shath'Yar/Aqir initial-apostrophe pattern documented in alien-comparative.html: Shath'Yar *Qwor* ("above"), nerubian *Qal'ikir*, and qiraji *Qiraji* all use *Q* as an onset. If *Q'onzu* reflects Shath'Yar/Aqir substrate influence on Zandali loa nomenclature, it would parallel *Ula'tek*'s Old God-associated origins (Investigation 12). However, *Q* could also represent a phonologically unusual Zandali-internal development — a uvular or ejective stop not otherwise needed in Zandali phonology, appearing only in the sacred register of loa names. **Confidence: Very Low–Low** for Shath'Yar substrate influence on *Q'onzu*; the /q/ onset could reflect genuine Zandali sacred-register phonology, Blizzard design choice for exotic-sounding loa names, or Aqir substrate.
 
+19. **Serpent/venom phonological register**: The six Venomous Abyss raid bosses from the Curse of Ula'tek campaign (Patch 12.1.0) exhibit a phonological profile distinct from standard Zandali naming:
+
+    | Name | Apostrophe | Unusual Feature | Standard Zandali? |
+    |------|-----------|-----------------|-------------------|
+    | *Nek'zali* | Yes | None — follows CV'CV.CV template | Yes |
+    | *Mor'zahi* | Yes | None — follows CVC'CV.CV template | Yes |
+    | *Vashnik* | No | *-nik* ending; no apostrophe | No — *-nik* unattested elsewhere |
+    | *Sszorak* | No | Geminate /sz/ onset; *-orak* ending | No — /ss/ onset violates Pattern 6 |
+    | *Vexhul* | No | /ks/ medial; no apostrophe | No — /ks/ rare in Zandali |
+    | *Ithraz* | No | *-raz* ending; no apostrophe | No — *-raz* unattested |
+
+    Four of six bosses violate Zandali phonological norms: complex onset clusters (*Sszorak*), /ks/ in medial position (*Vexhul*), and unattested suffixes (*-nik*, *-raz*). The two apostrophe-bearing names (*Nek'zali*, *Mor'zahi*) conform to standard Zandali phonology. The four non-conforming names are all described as creatures "born of Ula'tek's venom" or associated with the Old God–corrupted depths, while the two conforming names are higher-ranking entities with more conventional roles.
+
+    This split suggests a **bimodal naming system** within the Venomous Abyss: (a) names derived from standard Zandali morphology for entities with troll-culture integration (*Nek'zali* "the Soulcoiler", *Mor'zahi* tomb namesake), and (b) names reflecting a **serpent/venom substrate** for entities spawned directly from Ula'tek's corruption — with phonological features (sibilant clusters, /ks/, unusual suffixes) that are not native Zandali but may reflect the Aqir/Old God phonological substrate already documented in Investigation 12 (*-tek* = Shath'Yar "skull"). The /sz/ geminate in *Sszorak* is particularly notable: geminate sibilant onsets are found in nerubian (*Krix'vizk*) and qiraji names, but not in standard Zandali — suggesting that *Sszorak*'s name is phonologically closer to the Aqir-descended languages than to Zandali.
+
+    **Confidence: Low–Moderate** for the observation of bimodal naming; **Very Low–Low** for the serpent/venom substrate interpretation. The sample is tiny (6 names), and the non-conforming features could reflect Blizzard design choices for "serpent boss" aesthetics rather than in-universe phonological register variation. However, the correlation between non-standard phonology and direct Ula'tek/venom origin (vs. standard phonology and troll-culture integration) is consistent across all six names.
+
 ### Creole vs. Native Phonology
 
 A phonological distinction exists between the creole register and native Zandali names:

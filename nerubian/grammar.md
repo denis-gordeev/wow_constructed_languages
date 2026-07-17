@@ -183,7 +183,7 @@ Four names end in the /æks/ or /ɒks/ sound. This may be:
 
 **Confidence: Very Low.**
 
-Notably, qiraji names also feature the *-naxx* / *-axx* ending (*Kurinnaxx*, *General Rajaxx*), suggesting this may be a shared Aqir substrate suffix. The qiraji forms consistently double the final consonant (*-naxx*, *-axx*) while the nerubian forms do not (*-nax*, *-ax*), potentially reflecting a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate). See vocabulary.md §13 for full analysis.
+Notably, qiraji names also feature the *-naxx* / *-axx* ending (*Kurinnaxx*, *General Rajaxx*), suggesting this may be a shared Aqir substrate suffix. The qiraji forms consistently double the final consonant (*-naxx*, *-axx*) while the nerubian forms do not (*-nax*, *-ax*), potentially reflecting a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate). See qiraji/vocabulary.md §7 for full analysis.
 
 ### The *-azj* Suffix
 
@@ -557,7 +557,7 @@ The place names *Ahn'kahet* and *Azj-Kahet* share *-kahet* but differ in the ini
 
 2. **Dialectal variation from shared root**: A proto-nerubian form like *\*Anzj-* could have simplified to *Ahn-* in Northrend and fronted to *Azj-* in Khaz Algar. Speculative but possible.
 
-3. **Ahn- is not nerubian**: *Ahn'kahet* may be an Aqir or qiraji name rather than native nerubian, since the similar element *Ahn-* appears in *Ahn'qiraj* (a qiraji place name). The *Ahn-* element appears in both nerubian (*Ahn'kahet*) and qiraji (*Ahn'qiraj*) toponyms, both with the same structural pattern (*Ahn-* + apostrophe + second morpheme). If *Ahn-* is a shared Aqir substrate morpheme meaning "old/ancient/sacred," it was inherited by both species from their common Aqir ancestry. This would make *Ahn-* the second confirmed Aqir substrate morpheme (after *Azj-*). See vocabulary.md §13 for full analysis.
+3. **Ahn- is not nerubian**: *Ahn'kahet* may be an Aqir or qiraji name rather than native nerubian, since the similar element *Ahn-* appears in *Ahn'qiraj* (a qiraji place name). The *Ahn-* element appears in both nerubian (*Ahn'kahet*) and qiraji (*Ahn'qiraj*) toponyms, both with the same structural pattern (*Ahn-* + apostrophe + second morpheme). If *Ahn-* is a shared Aqir substrate morpheme meaning "old/ancient/sacred," it was inherited by both species from their common Aqir ancestry. This would make *Ahn-* the second confirmed Aqir substrate morpheme (after *Azj-*). See vocabulary.md §13 and qiraji/vocabulary.md §13 for full analysis.
 
 **Confidence: Low–Medium** for *Ahn-* as a shared Aqir morpheme; **Low** for the data being insufficient to resolve the *Ahn-* vs. *Azj-* alternation.
 
@@ -627,7 +627,7 @@ If *Y'* in *Y'tekhi* reflects Shath'Yar substrate, it parallels the Shath'Yar *Y
 
 #### The *A'* Element: Possible Aqir Substrate
 
-The *A'* in *A'zak* could reflect an Aqir substrate element rather than Shath'Yar, since *A'zak* holds the title "Reclaimer" in the living nerubian resistance (Azjol-anak) — a group that explicitly rejected Old God influence. If *A'* is an Aqir naming particle (not Shath'Yar), it would represent pre-Old-Gog nerubian naming tradition preserved by the resistance faction.
+The *A'* in *A'zak* could reflect an Aqir substrate element rather than Shath'Yar, since *A'zak* holds the title "Reclaimer" in the living nerubian resistance (Azjol-anak) — a group that explicitly rejected Old God influence. If *A'* is an Aqir naming particle (not Shath'Yar), it would represent pre-Old-God nerubian naming tradition preserved by the resistance faction.
 
 #### Three Hypotheses
 
