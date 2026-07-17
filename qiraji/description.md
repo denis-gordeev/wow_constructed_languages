@@ -38,6 +38,7 @@ No qiraji dialects are explicitly attested in canon. The qiraji corpus is too sm
 - Qiraji society is organized as a theocratic hive, with C'Thun at the apex and military leaders below. This contrasts with nerubian society, which has a more conventional political structure (queen, generals, viziers).
 - The qiraji's primary function is to serve C'Thun and expand his influence. Their naming conventions reflect this: *Ahn'qiraj* = "Sacred Temple" (if *Ahn-* = "sacred"), suggesting the fortress-temple is primarily a religious site.
 - The Egyptian aesthetic (pyramids, scarabs, sphinx-like constructs) that permeates qiraji design extends to their naming, with *Anubisath* evoking Egyptian *Anubis* and *Ossirian* evoking *Osiris*.
+- The qiraji have a hieroglyphic writing system, visible on the walls of Ahn'qiraj, but no translations of this script exist in canon.
 
 ## Phonological Features
 

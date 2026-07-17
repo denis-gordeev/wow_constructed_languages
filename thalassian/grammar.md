@@ -255,7 +255,7 @@ Note: /b/, /k/, /g/, /p/, /z/, /f/, /v/, /dʒ/ appear primarily in proper names 
 | Apostrophe function | Morpheme boundary | Morpheme boundary |
 | Hyphen function | Phrasal boundary | Phrasal boundary |
 | /f/ frequency | Low (*falah*) | Low (*Felo'melorn, falor*) |
-| Kinship terms | Not attested | *Ann'da, Minn'da, Shal'na* |
+| Kinship terms | Confirmed (*An'da, Min'da, Shal'nar*) | *Ann'da, Minn'da, Shal'na* |
 
 Thalassian appears phonologically more conservative than Darnassian in some respects (simpler onset structure) and innovative in others (expanded /ʃ/ frequency, confirmed kinship terminology). The expanded corpus reduces the gap between observed and expected phonological complexity.
 

@@ -131,6 +131,18 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-17, Round 62)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] Full HTML-MD sync audit of 7 directories (thalassian, shalassian, nerubian, qiraji, orcish, vrykul, tolvir) — 5 of 7 had discrepancies found and fixed:
+  - Thalassian: grammar.md phonology comparison table "Not attested" → "Confirmed (An'da, Min'da, Shal'nar)" for Darnassian kinship terms; vocabulary.md RPG table added missing IPA column (/kwɛlˈzɑrɑm/, /roʊˈnɑːɛ/, /sɪlˈvɑnɑs/)
+  - Shalassian: description.md *Tel'anor'ien* → *Tel'anor* (erroneous form corrected to match all other files); vocabulary.md added missing corpus note and legend paragraphs
+  - Nerubian: vocabulary.md broken table row fixed (Ahn'kahet and Azj'Aqir merged onto one line); vocabulary.md Speculative Morphemes table missing `A'-` added to Element column; grammar.md "Three subzones" → "Four subzones" for Rak-; grammar.md "3 attestations" → "4 attestations" for Rak-; grammar.md duplicate phonological pattern numbering fixed (items 3–13 renumbered to 3–14)
+  - Qiraji: vocabulary.md *-ox* row added missing "without initial nasal" text; description.md added missing hieroglyphic writing bullet to Cultural Context section
+  - Orcish: vocabulary.html duplicate Nagrand entry removed from Additional Canon Phrases table (was already in Proper Names)
+  - Tol'vir: grammar.html significant content drift fixed — ~20 missing phrases, sentences, and explanatory details restored across Investigations 2–4 (Vir'- cross-linguistic comparison, Al'- function word significance, apostrophe distribution detail, drill command phonological comparison, expanded hypothesis descriptions); vocabulary.html NPC Names table column redistribution fixed (full title+name now in Word column matching MD)
+  - Vrykul: confirmed in sync, no fixes needed
+
 ## Completed This Round (2026-07-16, Round 61)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)

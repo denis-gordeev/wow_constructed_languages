@@ -1,5 +1,9 @@
 # Shalassian Vocabulary
 
+All entries are attested in World of Warcraft canon. Brown = inferred morpheme; gray = uncertain gloss.
+
+**Corpus note:** Shalassian is attested through 5 confirmed translations, 25+ untranslated phrases spoken by named NPCs with voice acting, and numerous proper names. See [grammar.md](grammar.md) for full phonological and morphological analysis.
+
 ## Confirmed Phrases with Official Translations
 
 These phrases have confirmed in-game or developer-confirmed translations.

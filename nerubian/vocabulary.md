@@ -100,7 +100,8 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
 | Azjol-Nerub | /ˈɑːʒoʊlˈnɛrʊb/ | *Azj-* + *-ol* + *Nerub* | Ancient nerubian kingdom in Northrend. *Azj-* prefix matches *Azj-Kahet*! IPA updated: *Azj-* = /ɑːʒ/ per official warcraft.wiki.gg pronunciation of *Azj-Kahet*. |
-| Ahn'kahet | /ˈɑːnkɑːhɛt/ | *Ahn-* + *-kahet* | Old Kingdom dungeon. *-kahet* matches *Azj-Kahet* — this is a significant parallel. || Azj'Aqir | /ˈɑːʒɑːkwɪr/ | *Azj-* + *Aqir* | The original Aqir empire (capital city). Critical third attestation of the *Azj-* toponymic prefix, directly connecting it to the Aqir self-designation. IPA updated: *Azj-* = /ɑːʒ/. |
+| Ahn'kahet | /ˈɑːnkɑːhɛt/ | *Ahn-* + *-kahet* | Old Kingdom dungeon. *-kahet* matches *Azj-Kahet* — this is a significant parallel. |
+| Azj'Aqir | /ˈɑːʒɑːkwɪr/ | *Azj-* + *Aqir* | The original Aqir empire (capital city). Critical third attestation of the *Azj-* toponymic prefix, directly connecting it to the Aqir self-designation. IPA updated: *Azj-* = /ɑːʒ/. |
 | Kil'jaeden's Terrace | — | Named after the demon; not nerubian | |
 | En'kilah | /ɛnˈkiːlɑː/ | *En-* + *-kilah* | Temple City in Borean Tundra; Scourge-occupied nerubian structure. The *En-* prefix differs from *Ahn-*. |
 
@@ -209,7 +210,7 @@ This parallels the attested Tol'vir phrases (*Kadesh* = "Swing", *Osadi* = "Stri
 | -nan | Uncertain | *Rasha'nan* | **Very Low** — single attestation |
 | -veza | Uncertain | *Ky'veza* | **Very Low** — single attestation; Ky'veza is actually an ethereal, so *-veza* may be an ethereal morpheme, not nerubian |
 | -venth | Uncertain | *Xanventh* | **Very Low** — single attestation |
-| Ix- / Y- | Possibly "chosen" or "first" (if Old God substrate) | *Ix'zek*, *Ix'lar*, *Y'tekhi*, *A'zak* | **Very Low** — initial apostrophe forms may reflect Shath'Yar substrate; *Y'tekhi* underwent Old Blood ascension (Old God transformation) |
+| Ix- / Y- / A'- | Possibly "chosen" or "first" (if Old God substrate) | *Ix'zek*, *Ix'lar*, *Y'tekhi*, *A'zak* | **Very Low** — initial apostrophe forms may reflect Shath'Yar substrate; *Y'tekhi* underwent Old Blood ascension (Old God transformation) |
 
 ## 5. The *Azj-* / *Nazj-* Connection
 

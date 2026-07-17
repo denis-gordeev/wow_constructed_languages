@@ -151,7 +151,7 @@ The qiraji names *Kurinnaxx* and *General Rajaxx* end in *-naxx* and *-axx* resp
 | *-naxx* (*Kurinnaxx*) | *-nax* (*Ovi'nax*) | *\*-naxx* (qiraji retained geminate; nerubian simplified) |
 | *-axx* (*Rajaxx*) | *-ax* (*Ulgrax*) | *\*-axx* (same pattern) |
 | — | *-nox* (*Hadronox*) | *\*-nox* (vowel variant) |
-| — | *-ox* (*Elder Nadox*) | *\*-ox* (reduced form) |
+| — | *-ox* (*Elder Nadox*) | *\*-ox* (reduced form without initial nasal) |
 
 If the qiraji forms preserve the original Aqir geminate consonant while the nerubian forms simplified it, this would represent a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate /xx/ → /x/).
 

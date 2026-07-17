@@ -24,7 +24,7 @@ During the Legion expansion (2016), the Suramar campaign revealed Nightborne soc
 - Nightborne society was stratified between the arcane elite and the Withered (those cut off from the Nightwell). This social division may be reflected in linguistic register differences (inferred).
 - Arcwine, produced from Nightwell energy, is central to Nightborne culture; the term has no attested Shalassian equivalent.
 - The Duskwatch served as Suramar's military arm; their title is English but may reflect a Shalassian original.
-- Nightborne names sometimes use apostrophes as morpheme boundaries (*Ly'leth*, *Tel'anor'ien*), consistent with the elven family's compounding pattern.
+- Nightborne names sometimes use apostrophes as morpheme boundaries (*Ly'leth*, *Tel'anor*), consistent with the elven family's compounding pattern.
 - The Nightborne joined the Horde after the Legion expansion, which may introduce Orcish and Troll loanwords over time (inferred).
 
 ## Phonology

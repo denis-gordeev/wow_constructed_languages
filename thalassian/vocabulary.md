@@ -275,8 +275,8 @@ Phrases attested in-game or in official sources without confirmed Blizzard trans
 
 Entries from the Warcraft RPG (non-canon) and speculative etymology from official sources.
 
-| Word | Translation | Source / Notes |
-|------|-------------|----------------|
-| Quel'Zaram | High blade | RPG (*Lands of Conflict*, pg. 172); non-canon; *Quel* = "high" + *Zaram* = "blade" |
-| Ronae | Peaceful | RPG (*Lands of Conflict*, pg. 19); non-canon; combined with Dwarven *lorn* and Common *daer* to create "Lordaeron" |
-| Sylvanas | Named for the woods / a love for living things | *Sylvanas* novel chapter 4 / *Elegy* part 4; implies a Thalassian word similar to English "sylvan" (woods); also attested in Darnassian toponym *Sylvanaar* |
+| Word | IPA | Translation | Source / Notes |
+|------|-----|-------------|----------------|
+| Quel'Zaram | /kwɛlˈzɑrɑm/ | High blade | RPG (*Lands of Conflict*, pg. 172); non-canon; *Quel* = "high" + *Zaram* = "blade" |
+| Ronae | /roʊˈnɑːɛ/ | Peaceful | RPG (*Lands of Conflict*, pg. 19); non-canon; combined with Dwarven *lorn* and Common *daer* to create "Lordaeron" |
+| Sylvanas | /sɪlˈvɑnɑs/ | Named for the woods / a love for living things | *Sylvanas* novel chapter 4 / *Elegy* part 4; implies a Thalassian word similar to English "sylvan" (woods); also attested in Darnassian toponym *Sylvanaar* |
