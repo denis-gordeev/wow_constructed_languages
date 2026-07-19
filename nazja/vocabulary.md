@@ -130,7 +130,7 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, u
 | Element | Inferred Meaning | Attested In | Confidence |
 |---------|-----------------|-------------|------------|
 | Nazj- | Of the deep / Naga (as self-designation) | Nazja (language), Nazjatar (capital), Naz'jar (tribe), Nazeshi (tribe), Nazjak (name), Nar'jira (name) | **Moderate** — extremely productive root; may mean "deep" or "of the sea" or simply be the self-designation |
-| -tar / -tar | City / Capital / Domain | Nazjatar, Zin'jatar, Kaz'jatar | **Moderate** — appears in three place/leader names; possibly means "city," "domain," or "throne" |
+| -tar / -atar | City / Capital / Domain | Nazjatar, Zin'jatar, Kaz'jatar | **Moderate** — appears in three place/leader names; possibly means "city," "domain," or "throne" |
 | Vashj- | Proper name (pre-transformation) | Vashj, Vashj'ir, Vashj'elan | **Moderate** — pre-dates transformation; meaning unknown but productive as a name element |
 | -'jir / -'ir | People / Tribe / Domain | Zanj'ir, Azsh'ir, Vashj'ir | **Moderate** — appears in three tribe names with apostrophe marking morpheme boundary |
 | -kess | Possibly a feminine/leadership suffix | Sira'kess, Idra'kess, Shirakess | **Moderate** — appears in three tribe names; may indicate a female-led group or a coastal/deep association |
@@ -332,7 +332,7 @@ All three daughter languages diverged from Darnassian approximately 10,000 years
 | Morpheme | Darnassian | Thalassian | Shalassian | Nazja |
 |----------|-----------|------------|------------|-------|
 | -dorei | Kaldorei, Quel'dorei | Sin'dorei, Ren'dorei | Shal'dorei | Ba'anthalso-dorei! |
-| Quel- | Quel'dorei ("noble") | Quel'Thalas ("high") | —
+| Quel- | Quel'dorei ("noble") | Quel'Thalas ("high") | — | — |
 | Sin- | — | Sin'dorei ("blood") | — | — |
 | Zin- | Zin-Azshari ("glory") | — | — | Zin-Azshari adore |
 | adore | Elune-adore | — | — | Zin-Azshari adore |

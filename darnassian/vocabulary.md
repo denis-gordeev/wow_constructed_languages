@@ -1,6 +1,8 @@
 # Darnassian Vocabulary
 
-All entries are attested in World of Warcraft canon (NPC dialogue, quest text, official Blizzard sources). Inferences are marked with [inferred].
+All entries are attested in World of Warcraft canon (NPC dialogue, quest text, official Blizzard sources). Inferences are marked with [inferred]; uncertain glosses are marked with [uncertain].
+
+> **IPA convention:** Phonetic transcriptions are approximations based on the romanized spelling and the phonological analysis in grammar.md. Darnassian has no official phonology; these transcriptions follow the inferred sound system.
 
 ## Nouns
 
