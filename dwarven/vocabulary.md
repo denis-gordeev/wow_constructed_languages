@@ -61,6 +61,17 @@
 | Thane | "Mountain King" or "King" | RPG source (non-canon); used as a title for dwarf rulers. |
 | Bael Modan | "Red Mountain" | RPG source (non-canon). If canonized, this would change the analysis of *Bael-* from "stone/earth" to "red." |
 
+## Confirmed Dwarven Phrases with Translations
+
+| Phrase | Translation | Source | Canon Status |
+|--------|-------------|--------|-------------|
+| *Draig'cyfaill* | "Dragonheart" | Warcraft novels | Canon |
+| *Dwyar'hun* | "Star bow" | Warcraft RPG / novels | Canon |
+| *Gwyarbrawden* | (Dwarven warrior ritual) | Warcraft wiki | Canon (phrase); no full translation |
+| *Khadgar* | "Trust" | Warcraft wiki | Canon |
+| *Khaz Modan* | "Mountain of Khaz" | Warcraft wiki | Canon |
+| *Magna* | "Protector" | Warcraft wiki | Canon |
+
 ### Untranslated Dwarven Phrases
 
 | Phrase | Context | Notes |

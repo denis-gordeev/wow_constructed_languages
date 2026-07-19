@@ -596,7 +596,7 @@ The expanded Darnassian place name corpus (34 additional proper nouns from warcr
 
 The phonological conditioning is **exceptionless** across all 12 native Darnassian stems: every vowel-final stem takes *-naar*, every consonant-final stem takes *Aran*. The sole counterexample (*Satyrnaar*) involves a Common-borrowed stem (*Satyr-*) that would be exempt from Darnassian phonological rules. This is a remarkably clean distribution for a corpus of only 13 items — the probability of such a clean split arising by chance is approximately (12!)/(2^6 × 6! × 6!) ≈ 0.001, which is statistically significant at p < 0.01 (Fisher's exact test). The phonological conditioning hypothesis is therefore well-supported by the quantitative data.
 
-**Cross-elven significance**: *-thalas* "home/realm" is shared with Thalassian (*Quel'Thalas* = "High Home"), confirming it as a Proto-Elven toponymic morpheme. *Aran* "town" is attested only in Darnassian place names and may be a Darnassian innovation or a Proto-Elven morpheme lost in the other daughter languages.
+**Cross-elven significance**: *-thalas* "home/realm" is shared with Thalassian (*Quel'Thalas* = "High Home"), confirming it as a Proto-Elven toponymic morpheme. *Aran* "town" is attested only in Darnassian place names and may be a Darnassian innovation or a Proto-Elven morpheme lost in the other daughter languages. **Shalassian *Falanaar*** (ruined city in Suramar) extends *-naar* to a second elven language. The stem *Fala-* is vowel-final, consistent with the Hypothesis 4 phonological conditioning pattern (*-naar* after vowels). If confirmed, *Falanaar* would be the 6th native *-naar* attestation and the first outside Darnassian, strengthening the argument that *-naar* is a Proto-Elven toponymic suffix rather than a Darnassian innovation.
 
 **New proper noun observations from expanded corpus**:
 
@@ -627,9 +627,9 @@ Four additional cognate candidates have been identified through cross-referencin
 | **Meaning** | "balance" (in *Andu-falah-dor*) | "breaking through" (in *Shindu fallah na*) |
 | **Attestation** | 1 confirmed phrase | 2 phrases (*Shindu fallah na*, *Sindu-fallah-nor*) |
 
-The phonological form is nearly identical, differing only in gemination of /l/. The semantic divergence is explained by a unified root meaning "disruption/overturning": Darnassian retains the result sense ("balance" = the restored state), Thalassian retains the action sense ("breaking through"). The root co-occurs with *sindu/shindu* in both languages, strengthening the cognate hypothesis through shared syntagmatic context. See elven-comparative.html Set 15.
+The phonological form is nearly identical, differing only in gemination of /l/. The semantic divergence is explained by a unified root meaning "disruption/overturning": Darnassian retains the result sense ("balance" = the restored state), Thalassian retains the action sense ("breaking through"). The root co-occurs with *sindu/shindu* in both languages, strengthening the cognate hypothesis through shared syntagmatic context. **Shalassian extension**: Shalassian *Fal-* = "fallen/cursed" in *Fal'dorei*, *Falanaar*, *Fal'adora* provides a semantic bridge between Darnassian "balance" and Thalassian "breaking through" — all three share a root meaning "disruption/overturning" that diverged along different semantic axes. See elven-comparative.html Set 15.
 
-**Confidence: Low–Moderate**
+**Confidence: Low–Moderate** (upgraded from Low for three-language extension; Shalassian link at Very Low–Low per Shalassian grammar Investigation 3)
 
 #### Candidate B: *dal* — "fortune / goodness"
 
@@ -711,7 +711,7 @@ See elven-comparative.html Set 19 for the full comparative analysis.
 
 ### Investigation 11: The *-ethil* Element — "Diminished / Warded"
 
-The element *-ethil* appears in three Darnassian proper names and one shared Darnassian–Thalassian phrase, making it a potential Proto-Elven morpheme.
+The element *-ethil* appears in three Darnassian proper names, one shared Darnassian–Thalassian phrase, and one Shalassian exclamation, making it a potential Proto-Elven morpheme.
 
 #### Evidence Table
 
@@ -720,6 +720,7 @@ The element *-ethil* appears in three Darnassian proper names and one shared Dar
 | *Ande'thoras-ethil* | "May your troubles be diminished" | Farewell/blessing | Darnassian + Thalassian |
 | *Irana'ethil* | "Shield against the Shadow" | Title/compound name | Darnassian |
 | *Ban'ethil* | (barrow den in Teldrassil) | Place name | Darnassian |
+| *aran'ethil* | (emotional exclamation) | Exclamation by Vanthir upon being freed | Shalassian |
 
 In *Ande'thoras-ethil*, *ethil* is confirmed as "diminished/lessened" from the official translation. The morpheme boundary is clear: *thoras* = "troubles" + *ethil* = "diminished."
 
@@ -729,11 +730,11 @@ In *Irana'ethil* ("Shield against the Shadow"), *-ethil* may mean "that which di
 
 #### Morphological Status
 
-If *-ethil* is a genuine suffix meaning "diminished," it would be the first attested Darnassian suffix with a confirmed semantic gloss other than *-dorei* and the kinship suffixes. Its appearance in the shared Darnassian–Thalassian phrase *Ande'thoras-ethil* confirms it as Proto-Elven, not a Darnassian innovation.
+If *-ethil* is a genuine suffix meaning "diminished," it would be the first attested Darnassian suffix with a confirmed semantic gloss other than *-dorei* and the kinship suffixes. Its appearance in the shared Darnassian–Thalassian phrase *Ande'thoras-ethil* confirms it as Proto-Elven, not a Darnassian innovation. The Shalassian attestation *aran'ethil* extends *-ethil* to a third elven language. If *aran* = "sanctuary/home" and *-ethil* = "diminished/warded," then *aran'ethil* = "warded sanctuary" or "diminished home" — semantically coherent for someone just freed from oppression, describing their home as diminished/warded.
 
 See elven-comparative.html Set 20 for the full comparative analysis.
 
-**Confidence: Moderate** for *-ethil* as a genuine Darnassian morpheme (3 attestations, confirmed gloss in one); **Low–Moderate** for the semantic analysis "diminished → warded/shielded."
+**Confidence: Moderate** for *-ethil* as a genuine Proto-Elven morpheme (4 attestations across 3 elven languages, confirmed gloss in one); **Low–Moderate** for the semantic analysis "diminished → warded/shielded."
 
 ### Investigation 12: The Imperative Paradigm — *Andu*, *Ande*, *Bandu*
 

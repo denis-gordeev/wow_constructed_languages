@@ -97,6 +97,8 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 | Nor | /nɔr/ | Possibly "rest" or "peace" (homophonous with "heavens") | [uncertain] from Sindu-fallah-nor |
 | T'lara | /ˈtɛlɑrɑ/ | A warrior armed only with words (derogatory) | Make Some Noise quest; pejorative term reflecting Kaldorei martial values |
 
+> **Note on Warcraft III sources:** The Night Elf units in Warcraft III had Darnassian voice lines. *Ishnu-alah* is widely attested as a Priestess of the Moon greeting. However, some phrases attributed to early sources have been reconstructed by fans and may not be directly traceable to Blizzard voice files. All such entries are marked [uncertain].
+
 ## Complete Attested Phrases
 
 | Phrase | IPA | Translation | Context |

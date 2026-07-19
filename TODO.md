@@ -131,6 +131,37 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-19, Round 72)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] HTML-MD sync audit of 4 directories (draenei, drust, dwarven, darnassian) — 11 discrepancies found and fixed:
+  - Draenei: description.md wording "appears in" → "inferred from" to match HTML; grammar.html subsection order swapped to match MD (Vowel Inventory before Consonant Clusters)
+  - Drust: grammar.html missing cross-reference to titan-forged-comparative.html in *Gol-* Titan connection; description.html restored 2 missing source URLs (warcraft.wiki.gg/wiki/Drust, warcraft.wiki.gg/wiki/Drustvar); vocabulary.md fixed malformed Thornspeakers table row (4th column merged into Notes); vocabulary.md added intro paragraph and footer
+  - Dwarven: vocabulary.md added missing "Confirmed Dwarven Phrases with Translations" section (6-row table with Source and Canon Status columns)
+  - Darnassian: vocabulary.md added missing "Note on Warcraft III sources" blockquote; description.md added missing corpus reliability note
+- [x] Elven-comparative.html wordlist update — 10 entries updated with missing cross-language attestations:
+  - *Quel* "noble": added Shalassian *Quel* (in *Quel'vala thonos*)
+  - *Kal* "star": added Shalassian *Kal* (in *Kal'theros*)
+  - *Shal* "twilight/arcane": changed from "Shalassian innovation" to triple cognate with Darnassian/Thalassian *Shal'* kinship term; cross-references Set 11
+  - *Thas* "forest": added Darnassian *Thas* (3 attestations: *Thas'talah*, *Thas'alah*, *Thas'dorah*)
+  - *falah/fallah*: added Shalassian *Fal-* (3 attestations)
+  - *-ethil*: added Shalassian *-ethil* (in *aran'ethil*)
+  - *Tel* "earth": added Shalassian *Tel* (5 attestations)
+  - *-alah* "light": upgraded Darnassian from "—" to confirmed; added Shalassian *In'alah*
+  - *-thalas* "home": added Darnassian *-thalas* (3 attestations)
+  - *Dor/Drassil* "crown": added Thalassian *-dorah* and Shalassian *-dora*
+  - *Elun-*: added Thalassian *Elu-* (in *Elu'meniel*)
+  - *adore*: added Shalassian *ador* (in *An'ratha ador*)
+  - Grammatical morphemes: added Shalassian *An-/An'* to jussive row; added *Endu/En-* ↔ Shalassian *E'-* negative/inversive cognate row
+  - *ther-* battle root: added Shalassian *-thoras/-theros* greeting/farewell pair
+  - *Nor* "heavens": added Shalassian *Nor-* (in *Nor'bethos*)
+  - Correspondence 4 (*ala/alah*): updated Darnassian from "uncertain" to "confirmed" (in *Ishnu-alah*, *Thandae-alah*); added 3-language cognate note
+- [x] Darnassian grammar cross-reference updates:
+  - Investigation 8: added Shalassian *Falanaar* as potential 6th *-naar* attestation and first cross-elven *-naar* example; stem *Fala-* is vowel-final, consistent with Hypothesis 4 phonological conditioning
+  - Investigation 9 Candidate A (*falah/fallah*): added Shalassian *Fal-* extension as semantic bridge; confidence upgraded with three-language note
+  - Investigation 11 (*-ethil*): added Shalassian *aran'ethil* as 4th attestation; extends to 3rd elven language; proposed semantic analysis "warded sanctuary"; confidence upgraded from "Darnassian morpheme" to "Proto-Elven morpheme"
+  - All changes synced to grammar.html and description.md/html attestation summaries
+
 ## Completed This Round (2026-07-19, Round 71)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)

@@ -43,7 +43,7 @@ Draenei culture is centered on worship of the Light and reverence for the Naaru.
 - *Shattrath* = "Dwelling of Light" — the name of their greatest city.
 - *Sha'tar* = "Born of Light" — the Naaru faction that reclaimed Shattrath.
 - *Aldor* = possibly "holy ones" or "devoted" — a Draenei religious order.
-- *Kara* = "temple" / "holy place" — appears in *Karabor*.
+- *Kara* = "temple" / "holy place" — inferred from *Karabor*.
 
 The Draenei language reflects a worldview in which Light, exile, and refuge are central themes. The self-designation *Draenei* ("Exiled Ones") and the planet name *Draenor* ("Exiles' Refuge") encode the trauma of their flight from Argus as foundational identity.
 
