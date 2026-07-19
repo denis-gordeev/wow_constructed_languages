@@ -596,7 +596,7 @@ The Haranir title **Greenspeaker** (held by Na'layro) parallels the Drust title 
 
 3. **Cultural context differences**:
    - **Thornspeakers**: Drust druids who maintained a nature-communication tradition after splitting from Gorak Tul's death-magic faction. Ulfar is the last living Drust Thornspeaker. Human Kul Tirans can become Thornspeakers (Adalyn Forestwatcher, Amalie Oakseeker, etc.), suggesting the tradition is teachable to outsiders. Thornspeakers take bear form and are associated with the Emerald Dream.
-   - **Greenspeakers**: Haranir who communicate with the green/living aspects of nature in Harandar. Na'layro is the only named Greenspeaker. She "secretly worked with outsiders," suggesting the Greenspeaker role may have a diplomatic or intermediary function in addition to its druidic role.
+   - **Greenspeakers**: Haranir who communicate with the green/living aspects of nature in Harandar. Na'layro is the only named Greenspeaker. He "secretly worked with outsiders," suggesting the Greenspeaker role may have a diplomatic or intermediary function in addition to its druidic role.
 
 4. **Geographic and temporal separation**: The Drust are in Kul Tiras (Eastern Kingdoms, surface world); the Haranir are in Harandar (Khaz Algar, subterranean). There is no documented contact between Drust and Haranir civilizations. The Drust were active ~2,600 years ago (per lore); the Haranir have been in Harandar since ~16,000 BDP.
 

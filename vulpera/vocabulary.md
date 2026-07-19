@@ -2,6 +2,8 @@
 
 No Vulpera vocabulary items beyond proper names are attested. The following proper names may contain linguistic morphemes.
 
+> **Attestation warning:** The Vulpera language has no attested translated phrases or sentences. Vulpera NPCs speak Common in-game. The entire corpus consists of five personal names and the ethnonym *Vulpera*. It is not confirmed that the Vulpera have a distinct language. All morpheme decompositions are speculative.
+
 ## Personal Names
 
 | Name | IPA | Context | Notes |
@@ -26,6 +28,8 @@ No Vulpera vocabulary items beyond proper names are attested. The following prop
 | Vulp- | /vʌlp/ | *Fox / desert fox* | Ethnonym "Vulpera" | *Low* |
 | -era | /ɛrə/ | *People / folk* | "Vulpera" = fox-people? | *Low* |
 | -a | /ə/ | *Feminine name suffix* | Nisha, Meera, Serka | *Low — may be coincidental* |
+
+> **Potential *-a* feminine suffix:** Three of the four female Vulpera names end in *-a* (Nisha, Meera, Serka), while the single clearly male name (Kiro) does not. This could indicate a feminine *-a* suffix, a common pattern in many real-world languages. However, with only five data points, this is extremely speculative.
 
 ## Phonological Observations
 
