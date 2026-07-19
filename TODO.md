@@ -131,6 +131,21 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-19, Round 69)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; all Midnight content verified present (Zul'jarra, Mor'duun, Lufsela, Naigtal, Dawnwell, Darkwell, Soul-Scribe, Devouring Host, Dark Heart, Voidstorm, Reshii Ribbons, Phase-Thief Azir, Hash'ey, Antenorian, Silversun Compact); TWW Undermine(d) campaign goblin/Common-language names (Grimla Fizzlecrank, Nikki the Fixer, Pamsy, Siren Isle, Opportunity Point) checked — all Common-language with no constructed-language content; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] Deep HTML-MD sync audit of shath-yar directory — 3 discrepancies found and fixed:
+  - vocabulary.html: Missing "Draenei vocabulary" cross-reference in L'ura and T'era Midnight entries (only linked to grammar, not vocabulary) — restored
+  - description.html: Wording shift in overview ("with official Blizzard translations" moved from modifying 87+ to after 94+) — restored correct phrasing
+  - grammar.md / grammar.html: Confirmed in sync (all 17 investigations match)
+- [x] Deep HTML-MD sync audit of haranir directory — all 3 file pairs confirmed in sync, no discrepancies found
+- [x] Deep HTML-MD sync audit of taur-ahe directory — 10 discrepancies found and fixed:
+  - grammar.html: Investigation 5 (*-sha/-she* Celestial Morpheme) severely truncated — restored allomorph analysis table (3 for/3 against), semantic analysis with word-by-word breakdown (An'she, Mu'sha, Mashan'she), "The Isha problem" section with 2 alternative analyses, full hypothesis table with detailed confidence explanations, closing note about upgrade path to Moderate–High
+  - grammar.html: Missing nav links for Investigations 1–5 — added to navigation bar
+  - grammar.html: Dropped cross-reference in Investigation 6 ("see the morphology table below") — restored
+  - grammar.html: Dropped Zandali *Sho* cross-reference in Investigation 6 Lo'sho analysis — restored
+- [x] Cross-reference consistency check: comparative HTML files vs individual language files — investigation counts and confidence levels confirmed consistent across elven-comparative.html, alien-comparative.html, titan-forged-comparative.html, and eredun-draenei-comparative.html
+
 ## Completed This Round (2026-07-19, Round 68)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; all terms verified present (Zul'jarra, Mor'duun, Lufsela, Naigtal, Dawnwell, Soul-Scribe, Manaforge Omega, Siren Isle, Opportunity Point, Grimla Fizzlecrank, Nikki the Fixer, Pamsy, Kinduru, Silversun Compact, Hash'ey); patch 12.1.5 still not available (scheduled Autumn 2026)
