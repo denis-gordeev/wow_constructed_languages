@@ -121,6 +121,47 @@ The Arathi of Hallowfall are a mixed human–high-elf population descended from 
 | Syndicate | Criminal organization; allied with Red Dawn; planted false evidence to incite human-orc war. Pre-existing WoW faction; Common-language name. |
 | Defias Brotherhood | Bandit organization; recruited into the Red Dawn. Pre-existing WoW faction; Common-language name. |
 
+## Midnight Expansion (2026): Common-Language Place Names and Phenomena
+
+Quel'Thalas is the primary setting for the Midnight expansion. Several significant place names and phenomena use Common (English) compounds, paralleling the *-well* fount-naming convention established by the Sunwell.
+
+| Name | IPA | Notes |
+|------|-----|-------|
+| Darkwell | /ˈdɑːrkwɛl/ | The Sunwell after corruption by L'ura's void beam. Common compound ("Dark" + "Well"). The most significant desecration of the holiest site in Thalassian culture. See also [Shath'Yar vocabulary](../shath-yar/vocabulary.md) and [Thalassian vocabulary](../thalassian/vocabulary.md) |
+| Dawnwell | /ˈdɔːnwɛl/ | The renamed Sunwell after purification by combined elven heritage. Common compound ("Dawn" + "Well"). "Dawn" symbolizes the new era of elven unity. The *-well* suffix in Darkwell/Dawnwell/Sunwell forms a three-term semantic sequence: holy → corrupted → renewed. See also [Thalassian vocabulary](../thalassian/vocabulary.md) |
+| Voidstorm | /ˈvɔɪdstɔːrm/ | Massive void phenomenon above Quel'Danas. Common compound ("Void" + "Storm"). Created by Xal'atath using the Dark Heart. See also [Shath'Yar vocabulary](../shath-yar/vocabulary.md) |
+| Voidspire | /ˈvɔɪdspaɪər/ | Xal'atath's base of operations within the Voidstorm. Common compound ("Void" + "Spire") |
+| Lightbloom | /ˈlaɪtbluːm/ | Plant life infused with the Light, growing across Eversong Woods and Harandar. Common compound ("Light" + "Bloom"). Explicitly a Common-language designation, not Hara'ni or Thalassian (per warcraft.wiki.gg). The ruutani are afflicted by Lightbloom; Alndust (Azerite) cures them. See also [Hara'ni vocabulary](../haranir/vocabulary.md) |
+| lightwood | /ˈlaɪtwʊd/ | Weaponry created by Amani trolls from harvested Lightbloom. Common compound ("Light" + "Wood"). Used against the Twilight's Blade cultists. See also [Zandali vocabulary](../zandali/vocabulary.md) |
+
+### *-well* Fount-Naming Convention
+
+The Midnight expansion introduces a Common-language naming convention for magical founts using the *-well* suffix:
+
+| Name | State | Notes |
+|------|-------|-------|
+| Sunwell | Original | Sacred fount of light magic; pre-existing WoW location |
+| Darkwell | Corrupted | Sunwell after L'ura's void beam; Common compound |
+| Dawnwell | Purified | Sunwell after purification by combined elven heritage; Common compound |
+
+The sequence Sunwell → Darkwell → Dawnwell uses Common adjective modification of the *-well* morpheme to track the fount's narrative state. No Thalassian form of "Darkwell" or "Dawnwell" is attested; if one existed, it might contain *belore* (sun) — e.g., *Belore'thalas* — but this is speculative.
+
+## Midnight Expansion (2026): Common-Language Factions
+
+| Name | Notes |
+|------|-------|
+| Silversun Compact | Alliance of Sunreavers and Silver Covenant formed by Aethas Sunreaver and Vereesa Windrunner. Portmanteau of "Silver" (Silver Covenant) + "Sun" (Sunreavers; cf. Thalassian *belore* = "sun"). Common-language compound, but the "sun" element echoes Thalassian. See also [Thalassian vocabulary](../thalassian/vocabulary.md) |
+| Devouring Host | Void army commanded by Xal'atath. Common compound ("Devouring" + "Host"). See also [Shath'Yar vocabulary](../shath-yar/vocabulary.md) |
+| Twilight's Blade | Void cult devoted to Xal'atath, operating in Quel'Thalas and Zul'Aman. Common compound ("Twilight's" + "Blade"). Led by Mor'duun. See also [Shath'Yar vocabulary](../shath-yar/vocabulary.md) and [Zandali vocabulary](../zandali/vocabulary.md) |
+| Order of Night | Void cultist group allied with Xal'atath in Hallowfall (TWW). Common compound ("Order" + "of" + "Night"). Led by Aelric Leid |
+
+## Midnight Expansion (2026): Common-Language Artifacts
+
+| Name | Notes |
+|------|-------|
+| Dark Heart | Powerful void artifact that absorbs arcane and void energy. Common compound ("Dark" + "Heart"). Used by Xal'atath to absorb Dalaran's energy, create the Voidstorm, and empower herself. See also [Shath'Yar vocabulary](../shath-yar/vocabulary.md) and [Ethereal vocabulary](../ethereal/vocabulary.md) |
+| Mantle of Predation | Artifact that can shut down all Nexus-Points simultaneously. Common compound ("Mantle" + "of" + "Predation"). Stolen by Decimus from Terminas |
+
 ## Human Kingdom Names
 
 | Kingdom | Capital | Etymology Notes |

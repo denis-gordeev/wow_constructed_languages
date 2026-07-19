@@ -425,7 +425,7 @@ Loa (troll spirits/gods) constitute a distinct lexical category in Zandali. Thei
 
 #### Bimorphemic Loa Names with Apostrophe
 
-Six attested Loa names contain an apostrophe boundary, suggesting compound structure:
+Nine attested Loa names contain an apostrophe boundary, suggesting compound structure:
 
 | Loa Name | Components (Proposed) | Domain | Notes |
 |----------|----------------------|--------|-------|
