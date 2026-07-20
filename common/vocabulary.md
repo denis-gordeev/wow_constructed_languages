@@ -167,14 +167,14 @@ The sequence Sunwell → Darkwell → Dawnwell uses Common adjective modificatio
 | Kingdom | Capital | Etymology Notes |
 |---------|---------|-----------------|
 | Arathor | Strom | First human empire; "Arathor" may contain Vrykul *Arath-* element |
-| Lordaeron | Capital: Lordaeron City | Possibly Vrykul/Common hybrid |
-| Stormwind | Capital: Stormwind City | Transparent Common compound |
-| Gilneas | Capital: Gilneas City | Etymology unknown |
-| Alterac | Capital: Alterac City | Etymology unknown |
-| Kul Tiras | Capital: Boralus | "Kul" may be Vrykul; "Tiras" unknown |
-| Stromgarde | Capital: Stromgarde | Common + Vrykul *-garde* suffix |
-| Dalaran | Capital: Dalaran (mobile) | Etymology unknown |
-| Theramore | Capital: Theramore | Common compound (?) |
+| Lordaeron | Lordaeron City | Possibly Vrykul/Common hybrid |
+| Stormwind | Stormwind City | Transparent Common compound |
+| Gilneas | Gilneas City | Etymology unknown |
+| Alterac | Alterac City | Etymology unknown |
+| Kul Tiras | Boralus | "Kul" may be Vrykul; "Tiras" unknown |
+| Stromgarde | Stromgarde | Common + Vrykul *-garde* suffix |
+| Dalaran | Dalaran (mobile) | Etymology unknown |
+| Theramore | Theramore | Common compound (?) |
 
 ## Inherited Vrykul Morphemes in Common Place Names
 

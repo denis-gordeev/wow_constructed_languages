@@ -1,5 +1,7 @@
 # Nerglish (Murloc/Jinyu/Ankoan/Kobyss) Vocabulary
 
+All entries are attested in World of Warcraft canon. No invented words are included.
+
 ## Language Names
 
 | Name | Speakers | Notes |

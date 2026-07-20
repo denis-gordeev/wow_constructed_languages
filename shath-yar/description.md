@@ -2,11 +2,11 @@
 
 ## Overview
 
-Shath'Yar is the language of the Old Gods and their servants — one of the oldest languages in the Warcraft universe, predating all mortal languages on Azeroth. It is spoken (or projected) by the Old Gods themselves (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj), their faceless servants (N'raqi, K'thir), and likely the Aqir and Qiraji in some form. The language is inspired by **R'lyehian** from H.P. Lovecraft's Cthulhu Mythos and shares its alien, maddening quality. Unlike most WoW constructed languages, Shath'Yar now has **87+ confirmed translated phrases** with official Blizzard translations and **94+ syntactically codable phrases**, making it one of the better-attested WoW constructed languages despite its intentionally opaque design.
+Shath'Yar is the language of the Old Gods and their servants — one of the oldest languages in the Warcraft universe, predating all mortal languages on Azeroth. It is spoken (or projected) by the Old Gods themselves (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj, Xal'atath), their faceless servants (N'raqi, K'thir), and likely the Aqir and Qiraji in some form. The language is inspired by **R'lyehian** from H.P. Lovecraft's Cthulhu Mythos and shares its alien, maddening quality. Unlike most WoW constructed languages, Shath'Yar now has **87+ confirmed translated phrases** with official Blizzard translations and **94+ syntactically codable phrases**, making it one of the better-attested WoW constructed languages despite its intentionally opaque design.
 
 ## Speakers
 
-Shath'Yar is spoken by the Old Gods and their servants. It is spoken by the Old Gods themselves (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj), their faceless servants (N'raqi, K'thir), and likely the Aqir and Qiraji in some form. Mortals who hear Shath'Yar are often driven mad by it. The Midnight expansion (2026) adds the *domanaar* — generals of the Devouring Host — as speakers of Shath'Yar or a related Void language.
+Shath'Yar is spoken by the Old Gods and their servants. It is spoken by the Old Gods themselves (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj, Xal'atath), their faceless servants (N'raqi, K'thir), and likely the Aqir and Qiraji in some form. Mortals who hear Shath'Yar are often driven mad by it. The Midnight expansion (2026) adds the *domanaar* — generals of the Devouring Host — as speakers of Shath'Yar or a related Void language.
 
 ## History
 
@@ -22,7 +22,7 @@ Shath'Yar likely does not exhibit dialectal variation in the conventional sense.
 
 - **Non-human transmission:** Shath'Yar is not learned through normal language acquisition. Old God servants are either created (Aqir, N'raqi) or corrupted (mortals driven to madness). There is no "child language acquisition" and therefore no mechanism for the incremental drift that produces dialects in mortal languages.
 - **Register variation by servant type:** The most plausible form of variation is register-based rather than geographic. The N'raqi (faceless ones) serve as priests and commanders and may use a formal, liturgical register. The K'thir — shadowy, whispering entities — may employ a reduced or whispered register, potentially explaining the sibilant-heavy forms (*fhssh*, *Ssra'thik*). The Aqir-descended races (qiraji, nerubians) inherited Shath'Yar's apostrophe convention but repurposed it from a prefix boundary (C'+root) to a compound boundary (stem+'stem), representing the most significant structural divergence from the source language.
-- **Old God idiolects:** Each Old God (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj) may speak a distinct idiolect. The confirmed phrases show different phonological patterns per source (e.g., G'huun's emphasis on infection/plague vocabulary vs. N'Zoth's emphasis on shadow/throne vocabulary), but the corpus is too small to confirm whether these reflect systematic differences or thematic variation.
+- **Old God idiolects:** Each Old God (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj, Xal'atath) may speak a distinct idiolect. The confirmed phrases show different phonological patterns per source (e.g., G'huun's emphasis on infection/plague vocabulary vs. N'Zoth's emphasis on shadow/throne vocabulary), but the corpus is too small to confirm whether these reflect systematic differences or thematic variation.
 - **Suppression of variation:** The Old Gods are psychic entities who communicate telepathically with their servants. If Shath'Yar is transmitted psychically rather than acoustically, the very concept of "dialect" may be inapplicable — the language could be a fixed, non-varying code imposed directly on servants.
 - **Shadow priests in Voidform:** Shadow priests can speak Shath'Yar while in Voidform (confirmed by WarcraftDevs on Twitter, 2015), and users of the Glyph of the Shath'Yar can understand it. This suggests mortals can access the language through Void channeling.
 
@@ -79,7 +79,7 @@ Shath'Yar writing appears on in-game objects including the **Banner of the Black
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Old God names | 5 | Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj, G'huun |
+| Old God names | 6 | Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj, G'huun, Xal'atath |
 | Servant names | 5+ | Il'gynoth, N'raqi, K'thir, Aqir, Ssra'thik |
 | Midnight entities | 3+ | domanaar, Decimus, Terminas (Common/Latin names) |
 | Confirmed phrases (official translations) | 87+ | From Yogg-Saron, Yor'sahj, Kaahrj, Volazj, Zon'ozz, Mythrax, G'huun, Vol'zith, Zek'voz, and other sources |

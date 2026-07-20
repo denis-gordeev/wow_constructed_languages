@@ -19,6 +19,7 @@ Shath'Yar is the language of the Old Gods and their servants. The wiki at warcra
 | C'Thun | Proper name | An Old God, entity in Silithus |
 | Y'Shaarj | Proper name | The first Old God, killed by the Pantheon |
 | G'huun | Proper name | Blood God; related to Old God corruption; possibly not a "true" Old God |
+| Xal'atath | The Harbinger | Void entity; primary antagonist of TWW and Midnight. Follows initial-apostrophe Old God naming convention (*Xal'* + *-atath*); parallels *Xal'atoh* (same *Xal'* prefix). Possibly an Old God fragment or ascendant rather than a "true" Old God — originally manifested as a sentient dagger (Xal'atath, Blade of the Black Empire, Legion), later gained physical form. Created the Devouring Host, commanded the Voidstorm siege of Quel'Danas, and corrupted the Sunwell into the Darkwell. Former Harbinger of Dimensius who betrayed him; member of the Ravel on K'aresh. Not explicitly classified as an "Old God" by Blizzard — described as a "Void entity" or "the Harbinger" |
 
 ## Servants & Races
 
@@ -491,7 +492,7 @@ The Naaru — beings of Holy Light — consistently use names that follow the **
 
 | Feature | Naaru Names | Old God Names | Assessment |
 |---------|------------|---------------|------------|
-| Initial apostrophe | All 7 names | N'Zoth, C'Thun, Y'Shaarj | Shared pattern |
+| Initial apostrophe | All 7 names | N'Zoth, C'Thun, Y'Shaarj, Xal'atath | Shared pattern |
 | C'V(C) structure | All 7 names | Most Old God names | Shared pattern |
 | Apostrophe as morpheme boundary | Likely | Likely | Shared pattern |
 | Semantic content of initial element | Unknown | Unknown (possibly entity-designator) | Cannot assess |
