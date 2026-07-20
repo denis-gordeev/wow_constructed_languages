@@ -131,6 +131,33 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-20, Round 75)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; all Midnight content verified present; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] Deep HTML-MD sync audit of Shath'Yar directory — 3 discrepancies found and fixed:
+  - vocabulary.html: Midnight Void Entities table row ordering corrected to match MD (Voidspire/Darkwell/Dawnwell before Devouring Host/Dark Heart/Voidstorm)
+  - vocabulary.html: `ag'xig` entry restored missing parenthetical "(appears with 2nd and 3rd person subjects)" in Confidence/Notes column
+  - description.html: Restored missing word "distribution" in Investigation 12 summary ("synthetic future *qi'* vs. analytic future *wgah* distribution")
+- [x] Deep HTML-MD sync audit of Darnassian directory — 9 discrepancies found and fixed:
+  - grammar.html: Added missing nav links for Investigations 13 and 14
+  - grammar.html: Investigation 17 Distributional Argument — restored statistical bullet points and contextual paragraph (both /ks/-containing words show repetition, p ≈ 0.01)
+  - grammar.html: Investigation 17 Counterarguments — restored intermediate form examples (*Althalaxax*, *Althalaxxax*), "may not reflect historical phonology" clause, "for a single name" qualifier, "weakening the distributional argument slightly" clause
+  - grammar.html: Investigation 17 Weaker Candidates table — restored full reduplication analysis for *Falfarren* and *Lathar'Lazal*
+  - grammar.html: Investigation 17 Assessment table — restored full notes including "(parallel to *Xaxas*)", "only two data points; the pattern could be restricted to these two names", "could equally be compound of distinct roots"
+  - grammar.html: Investigation 17 Overall Confidence — restored full evidentiary discussion and testable prediction
+  - grammar.html: Investigation 18 — converted stale "grammar.md" references to proper `.html` links (Shalassian grammar Investigation 5, Zandali grammar Investigation 13)
+  - description.md/html: Updated Vordrassil/Andrassil entry — *Vordrassil* = "Broken Crown" and *Andrassil* = "Crown of the Snow" now confirmed per grammar.md Investigation 3; only *Shaladrassil* remains uncertain
+  - vocabulary.html: Updated stale footer (corrected attestation counts)
+- [x] Deep HTML-MD sync audit of Zandali directory — 8 discrepancies found and fixed:
+  - vocabulary.md: Added missing *Kimbul* (Loa of Tigers) to main Loa table (was present in HTML but absent from MD)
+  - vocabulary.md: Unified Taz'dingo notes across two Exclamations sections (now uses more detailed "Warcry or cheer; Chris Metzen stated he didn't know what it meant (2007)" consistently)
+  - grammar.html: Investigation 12 — restored missing semantic extension paragraph ("skull" → "head/crest/crown" → "goddess" with Celtic *Cernunnos* parallel)
+  - grammar.html: Investigation 12 — restored missing Sethrak *Seth* = "serpent" sentence and *-thek* suffix analysis in Hypothesis 3
+  - grammar.html: Investigation 12 — restored dropped "(see description.md)" cross-reference in Hypothesis 2
+  - vocabulary.html: Updated stale footer (from 2026-06-24)
+  - vocabulary.md/html: Fixed misplaced BfA note under Midnight heading (changed "BfA content" → "Midnight content" and "BfA Zandalar storyline" → "Midnight Zul'Aman storyline")
+  - vocabulary.md: Reorganized Shan'aten/Basengo meaning column to remove redundant "Moldy Diary" from meaning field (already in Source column; now matches HTML organization)
+
 ## Completed This Round (2026-07-20, Round 74)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; all Midnight content verified present (Zul'jarra, Mor'duun, Hash'ey, Ula'tek, Decimus, Terminas, Salhadaar, Naigtal, Val, Antenorian, Darkwell, Dawnwell, Voidspire, L'ura, T'era, Soul-Scribe, Reshii Ribbons); patch 12.1.5 still not available (scheduled Autumn 2026)

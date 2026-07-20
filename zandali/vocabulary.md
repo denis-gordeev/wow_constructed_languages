@@ -100,6 +100,7 @@ All entries are attested from in-game dialogue, NPC speech, quest text, or offic
 | Pa'ku | Loa of Winds | Proper name |
 | Krag'wa | Loa of Frogs/Earth | Proper name |
 | Gonk | Loa of Raptors | Proper name |
+| Kimbul | Loa of Tigers | Proper name |
 | Akunda | Loa of Storms/Thoughts | Proper name; potential *Akun* + *-da* decomposition would extend *-da* suffix beyond kinship — see grammar.md Investigation 8 |
 | Sethraliss | Loa of Serpents/Lightning | Proper name |
 | Rezan | Loa of Kings | Proper name |
@@ -212,7 +213,7 @@ The *Vol* prefix now has **three attestations**: *Vol'jin*, *Vol'guk*, *Vol'tar*
 
 | Word | Meaning | Notes |
 |------|---------|-------|
-| Taz'dingo | Victory / Hooray | Exclamation of triumph |
+| Taz'dingo | Victory / Hooray | Warcry or cheer; Chris Metzen stated he didn't know what it meant (2007) |
 | Dingo | Possibly a victory exclamation element | Component of Taz'dingo; uncertain independent meaning |
 
 ## Nouns — Common Nouns (Confirmed from Zandali Primer)
@@ -323,8 +324,8 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Wa'aru po | Fearing the dark | Hastily-Scribbled Note, Scrap of Singed Paper |
 | Watha-nekan | Cleanse us | Moldy Diary |
 | Weta-den | Cleanse him | Moldy Diary |
-| Shan'aten | Ashen pine (Moldy Diary; commonly mistranslated as "Shadowpine") | Moldy Diary |
-| Basengo | Slashed tree (Moldy Diary; commonly mistranslated as "Witherbark") | Moldy Diary |
+| Shan'aten | Ashen pine | Moldy Diary; commonly mistranslated as "Shadowpine" |
+| Basengo | Slashed tree | Moldy Diary; commonly mistranslated as "Witherbark" |
 | Bwon'tulak | Death singer | Blood in the Tides quest |
 | Shera Ali'kh | Death's Hand | Zandalarian Shadow Talisman quest |
 
@@ -530,7 +531,7 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 
 ### Midnight Expansion: Additional Place Names
 
-No new glossed Zandali phrases are attested from BfA content. Zandalari trolls speak Common in-game. The BfA Zandalar storyline provides extensive cultural context but no new Zandali-language sentences with translations.
+No new glossed Zandali phrases are attested from Midnight content beyond those listed above. The Midnight Zul'Aman storyline provides extensive cultural context but no new Zandali-language sentences with translations.
 
 ### Patch 12.1.0: Curse of Ula'tek (Summer 2026)
 

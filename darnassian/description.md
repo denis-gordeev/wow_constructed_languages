@@ -118,7 +118,7 @@ The in-game script on Darnassian signage does not consistently map to romanized 
 - *Xil'varu*, *Ma'thor*, *Asha'man* — attested with no reliable translation
 - *Alah* = "light/blessed" — confirmed Darnassian by *Thandae-alah* (Tel'anor) and *Ishnu-alah*
 - The relationship between *thera* (in *ilisar'thera'nal*) and *Thero* (in *Thero'shan*) — whether homophony or polysemy
-- *Vordrassil*, *Andrassil*, *Shaladrassil* — World Tree names whose non-*drassil* elements lack confirmed translations
+- *Shaladrassil* — World Tree name whose non-*drassil* element lacks confirmed translation (*Vordrassil* = "Broken Crown" and *Andrassil* = "Crown of the Snow" now confirmed; see grammar.md Investigation 3)
 
 > **Note:** The Darnassian corpus is small and heavily skewed toward proper names, titles, and formulaic phrases. Full grammatical analysis is necessarily incomplete. See vocabulary.md for the full word list and grammar.md for morphological analysis.
 
