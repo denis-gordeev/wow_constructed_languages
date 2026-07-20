@@ -20,7 +20,7 @@ The RPG (non-canon) reconciles this by stating that Forsaken "have not lost the 
 
 ## Dialectal Variation
 
-Gutterspeak's variation is limited because it is fundamentally a Common dialect, but two sociolectal registers can be distinguished:
+Gutterspeak's variation is limited because it is fundamentally a Common dialect, but three sociolectal registers can be distinguished:
 
 - **Pre-Forsaken Gutterspeak** — the original black market and rogues' guild register that predates the Forsaken. This was a covert speech variety used for secrecy in underground trade, characterized by Dwarven and Thalassian loanwords for illicit goods, coded references, and deliberate obfuscation. It functioned as an anti-language — a speech variety designed to exclude outsiders and resist comprehension by authority figures.
 - **Forsaken Gutterspeak** — the adopted official language of the Forsaken, layered over the pre-existing underworld register. The Forsaken expanded Gutterspeak from a niche criminal jargon into a communal identity marker. New domains emerged: undeath, plaguecraft, and apothecary work. The **Royal Apothecary Society** likely developed a technical sub-register for alchemical and plague research, potentially drawing on Dwarven scientific vocabulary and Thalassian magical terminology — the two attested non-Common influences on Gutterspeak.

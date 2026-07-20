@@ -236,7 +236,7 @@ All 10 Drust Stele inscription texts have been recovered from warcraft.wiki.gg s
 | Term | Context | Notes |
 |------|---------|-------|
 | Heartsbane Coven | Order of witches formed by Lady Waycrest | English compound; "bane of hearts"; not Drust-language |
-| Thornspeakers | Druidic order of the Drust | English compound; "those who speak to/with thorns"; possibly a translation of a Drust term. The *Thornspeaker* title parallels the Haranir *Greenspeaker* title — both are Common-language [Nature-element] + [speaker] compounds for druidic practitioners. However, geographic and temporal separation (Drust in Kul Tiras ~2,600 years ago vs. Haranir in Harandar since ~16,000 BDP) makes contact borrowing extremely unlikely. See haranir/vocabulary.md for full analysis. |
+| Thornspeakers | Druidic order of the Drust | English compound; "those who speak to/with thorns"; possibly a translation of a Drust term. The *Thornspeaker* title parallels the Haranir *Greenspeaker* title — both are Common-language [Nature-element] + [speaker] compounds for druidic practitioners. However, geographic and temporal separation (Drust in Kul Tiras ~2,600 years ago vs. Haranir in Harandar since ~16,000 BDP) makes contact borrowing extremely unlikely. See ../haranir/vocabulary.md for full analysis. |
 | Order of Embers | Human order created to fight the Drust | English name; not Drust |
 | House Waycrest | Noble house of Drustvar | English name; not Drust |
 
@@ -297,7 +297,7 @@ All 10 Drust Stele inscription texts have been recovered from warcraft.wiki.gg s
 
 | Morpheme | Inferred Meaning | Evidence | Notes |
 |----------|-----------------|----------|-------|
-| Gol- | Settlement / place / fortress / stone-place | Gol Osigr, Gol Inath, Gol Koval, Gol Var | Not found in mainland Vrykul; Drust innovation. Four attested toponyms all use this prefix. May be connected to the *Gol-* element in Titan *Golganneth* — see grammar.md and titan-forged-comparative.html for analysis. |
+| Gol- | Settlement / place / fortress / stone-place | Gol Osigr, Gol Inath, Gol Koval, Gol Var | Not found in mainland Vrykul; Drust innovation. Four attested toponyms all use this prefix. May be connected to the *Gol-* element in Titan *Golganneth* — see grammar.md and ../titan-forged-comparative.html for analysis. |
 | -var | Land / home / region | Drustvar | Parallels Vrykul -heim (home/realm); may be a cognate or independent development |
 | Gorak- | King / lord / ruler / great one | Gorak Tul, Gorak Zhar | Two Drust leaders share this element; may be a title rather than a personal name |
 | -Tul | ? (title element?) | Gorak Tul | Distinguishes this Gorak from Gorak Zhar |
