@@ -131,6 +131,21 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-21, Round 78)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) checked; no new linguistic data beyond what repository already documents; all Midnight content verified present; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] Add Malacrass standalone entry to Zandali vocabulary — pre-existing TBC character (Zul'Aman raid boss); central antagonist in Curse of Ula'tek campaign (patch 12.1.0); disguises himself as spirit mask; lures Zul'jan; was only present as cross-references before
+- [x] Add missing Midnight entries to Thalassian vocabulary — 6 new entries: Twilight's Blade, Devouring Host, Voidstorm, Voidspire, Dark Heart, Lightbloom; all are Common-language names but culturally significant to Quel'Thalas
+- [x] Add Mantle of Predation standalone entry to Shath'Yar vocabulary — artifact that can disable Nexus-Points; was only mentioned in passing in Decimus/Terminus entries; also restored 3 missing HTML rows (Devouring Host, Dark Heart, Voidstorm) that were present in MD but absent from HTML
+- [x] HTML-MD sync audit of Haranir directory — 4 discrepancies found and fixed:
+  - **grammar.html**: Fixed broken cross-reference `vocabulary.html` → `../earthen/vocabulary.html` for *-dar* suffix section
+  - **grammar.html**: Converted stale `darnassian/grammar.md` plain text to proper `<a href="../darnassian/grammar.html#investigation-13">` link
+  - **description.html**: Fixed display text "grammar.md" → "grammar.html" for Investigation 1 cross-reference
+  - **vocabulary.md**: Fixed "§5" → "§5b" for Morta'ka *-ka* analysis reference (confirmed village translations section, not -ia suffix section)
+- [x] HTML-MD sync audit of Thalassian/Shalassian directories — 2 discrepancies found and fixed:
+  - **Thalassian grammar.html**: Restored missing strikethrough sentence (`<del>No Darnassian, Shalassian, or Nazja kinship terms are attested for comparison.</del>`) in Investigation 1 Assessment
+  - **Thalassian grammar.html**: Fixed truncated cross-reference "full analysis" → "*-da* kinship suffix analysis" in Relationship to Darnassian section
+
 ## Completed This Round (2026-07-21, Round 77)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) checked; warcraft.wiki.gg checked for Haranir, Ula'tek, Zul'jarra, and Kinduru pages; **significant new data found from patch 12.1.0 wiki updates**:

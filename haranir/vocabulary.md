@@ -47,7 +47,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 |------|-----|------|-------|
 | En'liahn | /ɛnˈliːɑːn/ | Shul'ka mentor | Apostrophe-marked compound: *En'* + *-liahn*. Guides Shul'ka initiates through their ritual |
 | Chua | /ˈtʃuːə/ | Shul'ka member | No apostrophe; short name. Visits/visited by friends and family at the Rift of Aln |
-| Morta'ka the Sundered Echo | /mɔːrtəˈkɑː/ | Elemental in the Rift of Aln | Apostrophe-marked compound: *Morta'* + *-ka*. **Race: Unknown (Elemental)** — NOT Haranir (per warcraft.wiki.gg). "Said to be the shadow of the first Hara'ti to fall to the madness of the Rift." This is the manifestation that Shul'ka initiates must slay as their final rite. The connection to the first fallen Hara'ti provides critical context for *-ka* analysis — see §5 |
+| Morta'ka the Sundered Echo | /mɔːrtəˈkɑː/ | Elemental in the Rift of Aln | Apostrophe-marked compound: *Morta'* + *-ka*. **Race: Unknown (Elemental)** — NOT Haranir (per warcraft.wiki.gg). "Said to be the shadow of the first Hara'ti to fall to the madness of the Rift." This is the manifestation that Shul'ka initiates must slay as their final rite. The connection to the first fallen Hara'ti provides critical context for *-ka* analysis — see §5b |
 
 ### Additional Named Haranir NPCs (warcraft.wiki.gg)
 
