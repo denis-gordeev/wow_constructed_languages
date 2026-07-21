@@ -449,7 +449,7 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 |------|---------|-------|
 | Zul'jan | Amani commander (Midnight) | Apostrophe-marked compound: *Zul-* ("great") + *-jan*. The *-jan* element is new; possibly a shortened form of a personal name. Uncle is Loa Speaker Kinduru. In the Curse of Ula'tek campaign (patch 12.1.0), discovers a spirit mask knowledgeable of Ula'tek that reveals himself as Hex Lord Malacrass; retrieves the key to free Ula'tek, which kills Kinduru; later transforms into a "snakeoid beast" after seeking power |
 | Zul'jarra | Chieftain of the Amani tribe; Zul'jan's sister (Midnight) | Apostrophe-marked compound: *Zul-* ("great") + *-jarra*. The *-a* ending is consistent with feminine naming across WoW languages. Earned the title *Hash'ey* by uniting the Amani tribes and gaining blessings of four loa of Zul'Aman. Daughter of Zarama (former chieftain, killed by Kol'anji) |
-| Hash'ey | Amani title meaning "unifier" (Midnight) | Apostrophe-marked compound: *Hash'* + *-ey*. **First attested Zandali title with a confirmed semantic gloss.** Earned by completing trials and gaining loa blessings; implies *Hash'* = "unite/gather" and *-ey* = agentive suffix ("one who does X"). **Confidence: Low–Moderate** for this decomposition |
+| Hash'ey | Amani title meaning "a leader blessed by the loa" (Midnight) | Apostrophe-marked compound: *Hash'* + *-ey*. **First attested Zandali title with a confirmed semantic gloss.** The warcraft.wiki.gg definition is more specific than "unifier": "a forest troll champion of the loa" / "a leader blessed by the loa themselves." Earned by completing trials and gaining loa blessings; requires exactly two hash'uras. The *Hash'ey Staff* is a ritual item associated with the ceremony. *Hash'* may = "blessing/devotion" (rather than "unite/gather") and *-ey* = agentive suffix ("one who does X"). **Confidence: Low–Moderate** for this decomposition |
 | Mor'duun | Leader of Twilight's Blade (Midnight) | Apostrophe-marked compound: *Mor'* + *-duun*. Language affiliation uncertain — could be Zandali, Shath'Yar-influenced, or Common. The *-duun* element is new. Killed by the united Amani army at the Broken Throne |
 | Zarama | Former Amani chieftain; Zul'jarra's mother (Midnight) | No apostrophe; *-a* ending consistent with feminine naming. Ruled the Amani for decades before stepping down after being wounded by gnarldin. Killed by Kol'anji in a leadership challenge |
 | Kol'anji | Vilebranch chieftain (Midnight) | Apostrophe-marked compound: *Kol'* + *-anji*. Challenged Zarama's leadership of the Amani Empire; killed Zarama before being struck down by Zul'jarra |
@@ -561,6 +561,13 @@ Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Z
 | Ithraz | Raid boss ("The Twin Fangs") | No apostrophe. Twin Fang boss alongside Vexhul; *-raz* ending may connect to *Raza* ("is near") or be coincidental. Described as brooding "beneath a roiling sea of venom" |
 | Mor'zahi | Tomb namesake (subzone: Mor'zahi's Tomb) | Apostrophe-marked: *Mor'* + *-zahi*. Only attested in the Venomous Abyss subzone name; meaning unknown |
 
+#### Venomous Abyss Raid Loot Names (Patch 12.1.0)
+
+| Word | Meaning | Notes |
+|------|---------|-------|
+| Zatha'tek | Weapon name ("Breath of Corruption") | Apostrophe-marked: *Zatha'* + *-tek*. The *-tek* suffix parallels *Ula'tek* — if *-tek* = "skull" (Shath'Yar substrate hypothesis; see grammar.md Investigation 12), *Zatha'tek* = "skull of corruption" or "corrupt skull." Alternatively, *-tek* may be a loa-name suffix specific to serpent/venom deities. **Confidence: Very Low** for *-tek* as a genuine morpheme in this context — weapon names may follow Blizzard fantasy-naming conventions rather than genuine Zandali morphology |
+| Jan'thrazet | Weapon name ("the Soul Fang") | Apostrophe-marked: *Jan'* + *-thrazet*. The *Jan'* element may connect to *Jan'alai* (dragonhawk loa). The *-thrazet* element is phonologically similar to *-thraze* ("blade," three attestations in Zul'Gurub sword names: *Jang'thraze*, *Sang'thraze*, *Sul'thraze*). If *-thrazet* = *-thraze* + *-t* (an extended form), this would be the **fourth attestation** of the "blade" morpheme, albeit in a weapon name rather than a Zandali word. Alternatively, *-thrazet* may be coincidental similarity. **Confidence: Very Low** for *-thrazet* as a cognate of *-thraze* — weapon naming conventions may not reflect genuine Zandali morphology |
+
 #### New NPC Names (Patch 12.1.0)
 
 | Word | Meaning | Notes |
@@ -593,7 +600,7 @@ Patch 12.1.0 "Curse of Ula'tek" focuses on the Coiled Isle, a new zone east of Z
 
 | Element | Details | Notes |
 |---------|---------|-------|
-| Hash'ey | A forest troll champion of the loa (confirmed definition) | Confirmed by warcraft.wiki.gg: "a forest troll champion of the loa." Requires passing trials and gaining loa blessings. Requires exactly two hash'uras. Associated with the Hash'ey Staff. Quest: "De Legend of de Hash'ey" |
+| Hash'ey | A forest troll champion of the loa (confirmed definition) | Confirmed by warcraft.wiki.gg: "a forest troll champion of the loa" / "a leader blessed by the loa themselves." Requires passing trials and gaining loa blessings. Requires exactly two hash'uras. Associated with the Hash'ey Staff. Quest: "De Legend of de Hash'ey" |
 | Hash'ura | Acolytes and companions to a hash'ey (confirmed definition) | Confirmed by warcraft.wiki.gg. The hash'ey's champion companions who help secure loa blessings. Lady Liadrin is one of Zul'jarra's hash'uras |
 | Hash'ey Staff | Ritual staff associated with the hash'ey ceremony | Kinduru refused to leave Atal'Aman without it |
 | Zul- prefix as detachable | Confirmed by character dialogue | Zul'jan and Zul'jarra call each other "Jan" and "Jarra" in intimate conversation, dropping the "Zul-" prefix. Confirms *Zul-* is a detachable title prefix, not part of the core name. Kinduru calls Zul'jan "Jan-boy" |

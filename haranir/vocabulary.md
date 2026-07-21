@@ -91,6 +91,12 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Goehi | /ˈɡoʊɛhi/ | Ancient entity | Said that the Haranir are "worth more than you know" and that adventurers should "take care with them." Can read the history of an ancient by reading the rings of wood in their roots |
 | Chimaerus the Undreamt God | /kɪˈmɪərəs/ | Dreamrift raid boss | Entity that "feasted on the void of pain and madness left behind in the rift after Aln'hara was taken." Battled by the Shul'ka and adventurers in the Dreamrift — the permeable veil between primordial dreams and reality. The name *Chimaerus* is likely Common/Greek-derived (cf. "chimera"), not Hara'ni — it follows the Blizzard pattern of giving Old God-adjacent entities Greek-inspired names. **Confidence: Very Low** for Hara'ni morpheme content |
 
+### Patch 12.1.0: Curse of Ula'tek (2026)
+
+| Name | IPA | Role | Notes |
+|------|-----|------|-------|
+| Aln'sharan | /ælnˈʃɑːrən/ | Benevolent serpent; Worldsoul Memory | Described on the Ula'tek wiki page as a "benevolent serpent" who is "more of a Worldsoul Memory." **Fifth attestation of the *Aln-* morpheme** — *Aln'* + *-sharan*. If *Aln-* = "deep/source/Worldsoul" (confirmed by four previous attestations), then *-sharan* likely = "serpent" or "memory/echo" (consistent with being a "Worldsoul Memory"). The *-sharan* element is phonologically similar to *-ashar* in *Zur'ashar* (painter-storytellers): *-sharan* vs. *-ashar* share the consonantal skeleton /ʃ-r-n/ ↔ /-ʃ-r-/, with *-sharan* adding a final /n/. If *-sharan* = "serpent," the connection to *Zur'ashar* would be coincidental (painter-storytellers ≠ serpents). If *-sharan* = "memory/echo" (connecting to *Har'athir* = "Village of Memory"), then *Zur'ashar* = "memory-keepers" — a semantically coherent gloss for painter-storytellers who preserve history. **Confidence: Very Low–Low** for *-sharan* as a genuine Hara'ni morpheme (single attestation, no confirmed gloss). **Confidence: Moderate** for *Aln-* in *Aln'sharan* (fifth attestation of a confirmed morpheme). See also grammar.md §Aln- Root |
+
 ### Midnight Expansion: Sporefall Raid (2026, Patch 12.0.7)
 
 | Name | IPA | Role | Notes |

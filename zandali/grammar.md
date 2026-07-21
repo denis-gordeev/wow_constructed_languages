@@ -1318,6 +1318,7 @@ Ula'tek is described as "a nightmare born from the Rift of Aln" (warcraft.wiki.g
 - *Aln'hara* = the Worldsoul of Azeroth (Hara'ni goddess)
 - *Alndust* = Azerite in particle form
 - *Alnscorned* = broken nightmares dwelling in the Rift
+- *Aln'sharan* = benevolent serpent; "more of a Worldsoul Memory" (patch 12.1.0)
 - The Shul'ka sever their connection to Aln'hara to safely patrol the Rift
 
 The Amani summoned Ula'tek from the Rift during the Aqir and Troll War (~16,000 BDP), the same era the Haranir traveled to Harandar following Aln'hara's call. This establishes a deep lore connection: the Rift of Aln is a source of both spiritual power (Aln'hara/Alndust) and primordial horror (Ula'tek). However, no direct linguistic cognate between *Ula'* and any Hara'ni morpheme has been identified.
@@ -1331,7 +1332,7 @@ The Amani summoned Ula'tek from the Rift during the Aqir and Troll War (~16,000 
 | H3: Serpent vocabulary | *-tek*/*-thek* is a shared serpent-culture morpheme between Zandali and Sethrak | **Very Low–Low** — /t/ vs /θ/ alternation is natural but unconfirmed; no semantic gloss for *-thek*; likely design aesthetic convergence |
 | H4: Aqir substrate | *-tek*/*-tekhi* reflects shared Aqir substrate preserved via Old God contact | **Very Low–Low** — the /tɛk/ sequence appears in Aqir-descended contexts but the broader *-ek*/*-rek* pattern may be independent |
 
-**Overall confidence: Low–Moderate** for *-tek* as a meaningful Zandali morpheme with cross-language significance. The strongest specific connection is Hypothesis 2 (Old God substrate), which is supported by: (1) the exact phonological match with Shath'Yar *tek* = "skull" (Moderate confidence), (2) the Old God-associated lore context of Ula'tek (born from the Rift of Aln, summoned during the Aqir and Troll War), and (3) the parallel in nerubian *Y'tekhi* (an Old God-transformed individual). The main limitation is that all three cross-language parallels involve short CVCC sequences that are prone to coincidence, and no independent Zandali *-tek* attestation exists outside the loa name itself.
+**Overall confidence: Low–Moderate** for *-tek* as a meaningful Zandali morpheme with cross-language significance. The strongest specific connection is Hypothesis 2 (Old God substrate), which is supported by: (1) the exact phonological match with Shath'Yar *tek* = "skull" (Moderate confidence), (2) the Old God-associated lore context of Ula'tek (born from the Rift of Aln, summoned during the Aqir and Troll War), and (3) the parallel in nerubian *Y'tekhi* (an Old God-transformed individual). The main limitation is that all three cross-language parallels involve short CVCC sequences that are prone to coincidence, and no independent Zandali *-tek* attestation exists outside the loa name itself — though the Venomous Abyss raid loot item **Zatha'tek** ("Breath of Corruption") provides a potential second Zandali-internal *-tek* attestation (Very Low confidence for morphological significance; weapon names may follow Blizzard fantasy-naming conventions rather than genuine Zandali morphology; see vocabulary.md).
 
 ### Investigation 13: The *-darah* Element in *Akil'darah* — Cross-Family Cognate with Elven *-dorah*/*-dora*?
 

@@ -100,7 +100,7 @@ No Hara'ni-language sentences, phrases, or texts are attested in canon.
 
 - The Haranir are a distinct species, not elves or trolls (confirmed by canon).
 - The *Hara-* root appears in five independent attestations with consistent structural position (initial in ethnonym, language name, capital, faction; final in *Aln'hara*).
-- The *Aln-* root now has four attestations (*Aln'hara*, *Alndust*, *Alnscorned*, *Rift of Aln*), making it the second-most-secure morpheme. **Alndust is confirmed to be Azerite** (the Worldsoul's crystallized blood), and *Aln* is used as a verb in the quest title "The Greater They Aln."
+- The *Aln-* root now has five attestations (*Aln'hara*, *Alndust*, *Alnscorned*, *Rift of Aln*, *Aln'sharan*), making it the second-most-secure morpheme. **Alndust is confirmed to be Azerite** (the Worldsoul's crystallized blood), and *Aln* is used as a verb in the quest title "The Greater They Aln."
 - The apostrophe marks genuine morpheme boundaries (consistent with nerubian and qiraji conventions).
 - The language name *Hara'ni* is explicitly confirmed in the wiki infobox.
 - **Har' = "village"** is confirmed by four official translations (Har'alnor, Har'athir, Har'kuai, Har'mara).

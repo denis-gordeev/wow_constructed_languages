@@ -131,6 +131,22 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [ ] Continue HTML-MD sync for remaining directories with table data gaps: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync
 
+## Completed This Round (2026-07-21, Round 77)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) checked; warcraft.wiki.gg checked for Haranir, Ula'tek, Zul'jarra, and Kinduru pages; **significant new data found from patch 12.1.0 wiki updates**:
+  - **Aln'sharan** discovered on Ula'tek wiki page: "a benevolent serpent, who is more of a Worldsoul Memory" — **fifth attestation of the *Aln-* morpheme** in Hara'ni; *-sharan* element potentially connects to *-ashar* in *Zur'ashar* (painter-storytellers) if *-sharan* = "memory/echo"
+  - **Zatha'tek** and **Jan'thrazet** discovered as Venomous Abyss raid loot items; *Zatha'tek* provides potential second Zandali-internal *-tek* attestation; *Jan'thrazet* may connect to *-thraze* "blade" morpheme (Very Low confidence for both)
+  - **Hash'ey** definition upgraded from "unifier" to confirmed "a leader blessed by the loa" per warcraft.wiki.gg Zul'jarra page
+- [x] Add Aln'sharan to Hara'ni vocabulary.md and grammar.md — fifth *Aln-* attestation; added *-sharan* analysis with two hypotheses ("memory/echo" vs "serpent"); updated attestation counts from 4→5 across all Haranir files (vocabulary, grammar, description)
+- [x] Update Hash'ey definition in Zandali vocabulary — upgraded from "unifier" to "a leader blessed by the loa"; added Hash'ey Staff reference and alternative decomposition (Hash' = "blessing/devotion")
+- [x] Add Zatha'tek and Jan'thrazet loot names to Zandali vocabulary — potential *-tek* and *-thraze* attestations with appropriate caveats
+- [x] Update Zandali grammar Investigation 12 (*-tek*) — added Zatha'tek as potential second Zandali-internal *-tek* attestation; added Aln'sharan to Rift of Aln connection
+- [x] HTML-MD sync audit of Haranir and Zandali directories — 10 discrepancies found and fixed:
+  - **Haranir** (vocabulary.html): Added missing "Patch 12.1.0: Curse of Ula'tek" section with Aln'sharan table row; updated footer timestamp
+  - **Haranir** (grammar.html): Added Aln'sharan row to Aln- root table; updated "four attestations" → "five attestations" in 2 places; added Aln'sharan analysis paragraph with hypotheses
+  - **Haranir** (description.md/html): Updated "four attestations" → "five attestations"; added Aln'sharan to list
+  - **Zandali** (vocabulary.html): Added missing "Venomous Abyss Raid Loot Names" section with Zatha'tek and Jan'thrazet; updated Hash'ey meaning from "unifier" to "a leader blessed by the loa" with full notes; added second half of Hash'ey wiki definition in Amani Lore table; restored "Region name;" to Vol'dun entry
+
 ## Completed This Round (2026-07-20, Round 76)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~8 July 2026) articles checked; no new linguistic data found beyond what repository already documents; all Midnight and TWW content verified present (including Ghosts of K'aresh campaign names); patch 12.1.5 still not available (scheduled Autumn 2026)

@@ -158,7 +158,7 @@ The four confirmed village translations provide the first Hara'ni vocabulary ite
 
 ### The *Aln-* Root
 
-The *Aln-* root has four attestations, making it one of the more securely attested morphemes in Hara'ni. *Aln* is a place — the Rift of Aln in Harandar and the Emerald Dream, formed when the Worldsoul was taken from the Cradle. This means *Aln* likely means "the deep/source/rift" rather than just "deep/sacred." The attestations:
+The *Aln-* root has **five attestations**, making it one of the more securely attested morphemes in Hara'ni. *Aln* is a place — the Rift of Aln in Harandar and the Emerald Dream, formed when the Worldsoul was taken from the Cradle. This means *Aln* likely means "the deep/source/rift" rather than just "deep/sacred." The attestations:
 
 | Name | *Aln-* Context | Proposed Function |
 |------|----------------|-------------------|
@@ -166,6 +166,7 @@ The *Aln-* root has four attestations, making it one of the more securely attest
 | *Alndust* | *Aln-* + *-dust* | Material: "dust from the deep/source" — **confirmed to be Azerite in particle form** (warcraft.wiki.gg: "Alndust" redirects to "Azerite") |
 | *Alnscorned* | *Aln-* + *-scorned* | Mixed Hara'ni-English: "scorned/corrupted by the deep" |
 | *Rift of Aln* | *Aln* | The physical location — the source |
+| *Aln'sharan* | *Aln'* + *-sharan* | Benevolent serpent; "Worldsoul Memory" (patch 12.1.0) — fifth attestation |
 
 **Alndust = Azerite**: The wiki confirms that Alndust is "a particulate used by the haranir for their magic and said to have been created when the worldsoul was taken from her cradle in Harandar," and that "it is implied to be Azerite in particle form. Many spells related to Alndust use Azerite icons, and the graphics effects for things affected by Alndust have the same blue and yellow color scheme as Azerite." This dramatically recontextualizes *Alndust*: the Haranir name for Azerite particles combines *Aln-* (the deep/source/Worldsoul) with *-dust* (the particulate form). Since Azerite is literally the crystallized blood of the Worldsoul, *Aln-* in *Alndust* most likely refers to the Worldsoul's essence itself, strengthening the gloss "source/essence" for *Aln*.
 
@@ -175,7 +176,15 @@ The *Aln-* root likely means "deep/source/rift/essence," consistent with all att
 
 [speculative]: If *Aln-* = "deep/source/rift/essence," it may be connected to the Haranir's subterranean existence and their goddess Aln'hara (the Worldsoul). The root could originally have meant "depth" (physical depth of Harandar) and acquired a sacred connotation through association with the Worldsoul and the World Tree roots. The Alndust = Azerite connection reinforces this: the Worldsoul's crystallized blood is "dust of the deep/source."
 
-**Confidence: Moderate–High** for *Aln* = "deep/source/rift/essence" (four attestations, confirmed in-game geography, Alndust = Azerite confirmation, and *Aln* used as a verb in quest title).
+**Confidence: Moderate–High** for *Aln* = "deep/source/rift/essence" (five attestations, confirmed in-game geography, Alndust = Azerite confirmation, and *Aln* used as a verb in quest title).
+
+**Aln'sharan = benevolent serpent / Worldsoul Memory**: The Ula'tek wiki page (patch 12.1.0) describes *Aln'sharan* as "a benevolent serpent, who is more of a Worldsoul Memory." This is the **fifth attestation of the *Aln-* morpheme**, further confirming it as the most securely attested Hara'ni root after *Har'*. The *-sharan* element is significant: it is phonologically similar to *-ashar* in *Zur'ashar* (painter-storytellers). Two hypotheses:
+
+1. ***-sharan* = "memory/echo"**: If *-sharan* connects to the "Worldsoul Memory" description and to *Har'athir* = "Village of Memory," then *Zur'ashar* could = "memory-keepers" — a semantically coherent gloss for painter-storytellers who preserve history through Alndust paintings. The shared /ʃ-r/ consonantal skeleton (*-sharan* ↔ *-ashar*) would reflect a single root with variable affixation.
+
+2. ***-sharan* = "serpent"**: The simpler reading from the description. If *-sharan* = "serpent," then *Aln'sharan* = "Worldsoul serpent" and the connection to *-ashar* in *Zur'ashar* would be coincidental (painter-storytellers ≠ serpents).
+
+**Confidence: Very Low–Low** for *-sharan* as a genuine Hara'ni morpheme (single attestation, no confirmed gloss); **Moderate** for *Aln-* in *Aln'sharan* (fifth attestation of a confirmed morpheme).
 
 [speculative]: The quest title **"The Greater They Aln"** (Amarakk's quest line) uses *Aln* as a verb in a Common-language sentence — the only known instance of *Aln* functioning verbally. If *Aln* = "to dream" or "to grow deep", the root would have both nominal ("deep/source/dream/essence") and verbal ("to dream" / "to grow deep") functions. The Dreamrift Adventure Guide confirms that "the dreams of Aln'hara took form" in the Rift, supporting the "dream" gloss. However, this is a single attestation in a mixed Hara'ni-English quest title, and the "verb" may be a Blizzard translation choice rather than a genuine Hara'ni grammatical function. **Confidence: Very Low–Low** for *Aln* as a verb.
 
@@ -596,7 +605,7 @@ Wikipedia's Midnight article uses "ruutani" consistently as a lowercase common n
 - **The Haranir goddess is confirmed to be Aln'hara** (the Azeroth Worldsoul), resolving a major open question.
 - **The Haranir are confirmed to descend from dark trolls/night elves** (*The Art of Midnight*), and are further confirmed as the **ancestral stock** from which both elves and trolls diverged (Hagar, "Curse of Ula'tek" campaign, patch 12.1.0). This means Hara'ni is not an independent language family but the most conservative known branch of the elven/troll family, retaining proto-forms that the elven and troll languages innovated away from.
 - **Morpheme decompositions are inferred from patterns**, not confirmed by any canon source (except where noted as confirmed above).
-- **The *Har'* root** is now the most attested morpheme (4 confirmed attestations); the *Hara-* root has 5 attestations; the *Aln-* root has 4 attestations; all other morphemes have 1–2 attestations.
+- **The *Har'* root** is now the most attested morpheme (4 confirmed attestations); the *Hara-* root has 5 attestations; the *Aln-* root has 5 attestations; all other morphemes have 1–2 attestations.
 - **The *-ia* feminine suffix is effectively disproven.** Wiki gender data confirms Ruia and On'hiea are male, while only Ney'leia is female. The *-ia* ending cannot be a feminine marker.
 - **Morta'ka is an Elemental**, not a Haranir, but was likely named by the Haranir. This means *-ka* may apply to non-Haranir entities designated by Haranir naming conventions.
 - **The Derelict Mural** in Harandar (Nordrassil Roots) contains only Common/English text. The alpha version used "the Goddess" and "lesser trollkind" but no Hara'ni vocabulary. The live version was toned down.
