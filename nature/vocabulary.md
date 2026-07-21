@@ -4,6 +4,8 @@ This document compiles vocabulary related to druidic communication, nature spiri
 
 No invented words are included. All entries are attested from in-game dialogue, quest text, or official Blizzard sources.
 
+> **Key caveat:** All vocabulary below is drawn from the languages that druids actually speak (primarily Darnassian and Taur-ahe). No distinct "Druidic language" is attested in WoW canon. See grammar.md for why no grammatical analysis is possible.
+
 ## Druidic Titles and Roles
 
 | Word | Translation | Notes |
@@ -45,7 +47,7 @@ No invented words are included. All entries are attested from in-game dialogue, 
 | An'she | The Sun | Tauren sun deity; central to Sunwalker druidism |
 | Mu'sha | The Moon (Elune) | Tauren name for the moon goddess |
 | Lo'sho | Earth-related term | (uncertain) meaning |
-| Apa'ro | /ˈɑpɑroʊ/ | The white stag / Malorne | Taur-ahe name for the Ancient of the Hunt |
+| Apa'ro | The white stag / Malorne | Taur-ahe name for the Ancient of the Hunt |
 
 ## Darnassian Nature Terms
 

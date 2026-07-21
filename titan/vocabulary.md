@@ -201,3 +201,5 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Golganneth | *Gol* + *ganneth* | unknown + unknown | Low |
 | Aggramar | *Ag* + *gramar* | unknown + unknown | Low |
 | Sargeras | *Sar* + *geras* | unknown + unknown | Low |
+
+> **Note on Titan vocabulary:** Titan is the most poorly attested language in the WoW corpus. Only five words have confirmed translations, and only two phrases are known (both untranslated). The vast majority of entries are proper names — personal names, place names, and weapon names — from which morphemes can be inferred but not confirmed. The morphological analysis of weapon names (*Taeshalach* = "Flame Rend," etc.) derives from RPG sources, which Blizzard considers non-canon. The prefix *Uld-* is the most productive identifiable morpheme, appearing in 8+ facility names.
