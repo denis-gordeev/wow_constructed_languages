@@ -327,7 +327,7 @@ The name *Takazj* (Skeinspinner, Silken Court encounter) introduces *-azj* as a 
 
 ## 7b. The *Rak-* Prefix: A New Nerubian Toponymic Element
 
-Three subzones in Azj-Kahet share the initial element *Rak-*:
+Four subzones in Azj-Kahet share the initial element *Rak-*:
 
 | Name | Analysis | Notes |
 |------|----------|-------|

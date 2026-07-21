@@ -36,7 +36,7 @@ Key historical events affecting the language:
 - **Broker dialect**: The language as spoken by brokers. Attested through personal names (*Ve'nari*) and the city name *Tazavesh*. Names tend to be shorter, possibly reflecting a more streamlined mercantile register.
 - **Shadowguard variant**: Void-corrupted ethereals may use a dialect influenced by Shath'Yar phonology, though no clear evidence of this is attested in the name corpus.
 - **Domanaar naming (Midnight)**: The Domanaar — a separate Void species that commands the Devouring Host — use systematically Latin-inspired names (*Pertinax*, *Decimus*, *Nocturnius*, *Averzian*) with zero apostrophe usage, contrasting sharply with the Arabic-inspired, apostrophe-using ethereal naming convention. This likely represents a different language rather than a dialect of the ethereal language. The Domanaar also use the *Imperator* military title rather than the *Nexus-* noble hierarchy.
-- **Domanaar gender suffix system**: Domanaar names show a systematic gender-marking suffix pattern (*-us* masculine, *-a* feminine, *-ix* neuter/void), confirming morphological productivity in Domanaar naming
+- **Domanaar gender suffix system**: Domanaar names show a systematic gender-marking suffix pattern (*-ius*/*-us*/*-as* masculine, *-ia*/*-arra* feminine, *-um* neuter), confirming morphological productivity in Domanaar naming
 - **Two-layer diachronic naming hypothesis**: Ethereal names may reflect two chronological layers — pre-transformation names (before Dimensius) vs. post-transformation names — with potential phonological differences between the strata
 - **Elven contact evidence**: The K'aresh Trust base *Shan'dorah* is a Thalassian (elven) compound (*Shan'* + *-dorah*), not an ethereal-language name. The void elves (Ren'dorei) in the K'aresh Trust coalition presumably named their base in their native language, constituting direct evidence of elven-ethereal cultural contact and potential linguistic influence on K'aresh
 
@@ -65,7 +65,7 @@ See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA c
 
 ## Writing System
 
-No ethereal writing system has been depicted in canon. Given that ethereals are energy beings without conventional vocal apparatus, their language may have been primarily oral before the destruction of K'aresh, with any native script lost along with their homeworld. The brokers of Tazavesh maintain extensive trade records, but these are presumably rendered in Common or other widely understood scripts for commercial purposes. The pre-Dimensius form of the language — and any writing system that may have existed — is entirely unattested.
+No ethereal writing system has been depicted in-game. However, the K'areshi wiki page confirms that K'areshi used cuneiform writing — a wedge-shaped script impressed into clay tablets. This suggests an ancient, well-developed literary tradition predating the ethereal transformation. The cuneiform writing system may have been used by the pre-Dimensius K'areshi civilization for record-keeping, religious texts (Oracles), and magical formulae. Given that ethereals are energy beings without conventional vocal apparatus, their language may have been primarily oral before the destruction of K'aresh, with any native script lost along with their homeworld. The brokers of Tazavesh maintain extensive trade records, but these are presumably rendered in Common or other widely understood scripts for commercial purposes.
 
 ## Relationship to Other Languages
 

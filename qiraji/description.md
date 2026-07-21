@@ -55,7 +55,7 @@ See [grammar.md](grammar.md#phonology) for full phonological analysis.
 
 ## Writing System
 
-The qiraji possess a hieroglyphic writing system, visible on the walls of Ahn'qiraj and other Silithus structures. The script consists of angular, insectile glyphs carved into stone, consistent with the Egyptian aesthetic of qiraji architecture. No translations of this script exist in canon. The hieroglyphic tradition likely descends from the Aqir writing system (if one existed), potentially shared with nerubian glyphs in a common ancestor. The relationship between qiraji hieroglyphs and Tol'vir heiroglyphs — both Egyptian-inspired, both in southern Kalimdor — may reflect either shared Aqir substrate or independent Blizzard design choices.
+The qiraji possess a hieroglyphic writing system, visible on the walls of Ahn'qiraj and other Silithus structures. The script consists of angular, insectile glyphs carved into stone, consistent with the Egyptian aesthetic of qiraji architecture. No translations of this script exist in canon. The hieroglyphic tradition likely descends from the Aqir writing system (if one existed), potentially shared with nerubian glyphs in a common ancestor. The relationship between qiraji hieroglyphs and Tol'vir hieroglyphs — both Egyptian-inspired, both in southern Kalimdor — may reflect either shared Aqir substrate or independent Blizzard design choices.
 
 ## Relationship to Other Languages
 

@@ -2,6 +2,8 @@
 
 All entries are attested from in-game dialogue, quest text, NPC names, or official Blizzard sources. Draenei cognates are cross-referenced where applicable.
 
+> **Attestation warning:** No complete Eredun-language sentences are attested outside of spell incantations. Spell incantations in "Demonic" script are decorative, not linguistic. The entire corpus consists of proper names, shared Draenei cognates, and the word Man'ari. See [eredun-draenei-comparative.html](../eredun-draenei-comparative.html) for full comparative analysis.
+
 ## Nouns — People and Groups
 
 | Word | IPA | Translation | Source / Notes |
