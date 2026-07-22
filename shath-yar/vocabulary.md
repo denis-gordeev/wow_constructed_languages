@@ -331,7 +331,7 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 | guulphg | sustains | *Sk'uuyat guulphg hoq* = "Your agony sustains me" | **Moderate** |
 | huqth | sate | *Sk'yahf agth huqth N'Zoth qornaus* = "Your souls shall sate N'Zoth's endless hunger" | **Moderate** |
 | yawifk | strengthens | *Sk'magg yawifk hoq* = "Your suffering strengthens me" | **Moderate** |
-| uovssh | wait(ed) / now | *Uovssh thyzz* = "waited so long"; *uovssh Nuq* = "Now you shall" | **Moderate** |
+| uovssh | wait(ed) / now | *Uovssh thyzz... qwaz...* = "To have waited so long... for this..."; *uovssh Nuq* = "Now you shall" | **Moderate** |
 
 ### Nouns
 
@@ -425,7 +425,7 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 
 The Midnight expansion introduces the **domanaar**, generals of the Devouring Host. Wikipedia confirms they are "highly intelligent Void beings brought together by Xal'atath in an uneasy alliance after she consumed their former High Lords." This section analyzes whether the *-aar* ending in *domanaar* reflects ethereal *-daar*, shared Void nomenclature, or coincidence.
 
-### The Three Attestations of *-aar* / *-daar*
+### The Two Attestations of *-aar* / *-daar*
 
 | Name | Language | Context | Decomposition |
 |------|----------|---------|---------------|

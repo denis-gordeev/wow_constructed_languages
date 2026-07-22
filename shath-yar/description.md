@@ -58,8 +58,8 @@ See [grammar.md](grammar.md) for full morphological analysis.
 - Whispers are a primary vector of Old God influence; the language itself is a weapon.
 - The faceless ones (N'raqi) serve as priests and commanders, suggesting a liturgical or command-function for the language.
 - The insectoid servants (Aqir, Qiraji, possibly Ssra'thik) may speak a related dialect.
-- Naaru names follow the identical initial-apostrophe pattern (*A'dal*, *K'ure*, *K'ara*, *M'uru*, *O'ros*, *L'ura*, *T'era*), paradoxically using a convention associated with their antithesis (see vocabulary.md for full analysis).
-- The domanaar (Midnight) use the *-aar* suffix which parallels ethereal *-daar* in *Salhadaar* — most likely coincidental (Very Low confidence for genuine connection; see vocabulary.md).
+- Naaru names follow the identical initial-apostrophe pattern (*A'dal*, *K'ure*, *K'ara*, *M'uru*, *O'ros*, *L'ura*, *T'era*), paradoxically using a convention associated with their antithesis (see [vocabulary.md](vocabulary.md) for full analysis).
+- The domanaar (Midnight) use the *-aar* suffix which parallels ethereal *-daar* in *Salhadaar* — most likely coincidental (Very Low confidence for genuine connection; see [vocabulary.md](vocabulary.md)).
 - The Tortollan Seekers are able to at least recognize, if not understand, Shath'Yar, and even have scrolls written in that language.
 - The language is inspired by **R'lyehian** from Lovecraft's Cthulhu Mythos — unlike most WoW languages, it has no real-world linguistic inspiration.
 
