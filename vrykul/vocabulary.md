@@ -83,7 +83,7 @@
 | Gjalerbron | /ˈʃɑːlɛɾbɾɔn/ | Unknown (Gj = Sh sound) | Vrykul hibernation keep; pronunciation confirmed by Captain Adams |
 | Valgarde | /ˈvɑlɡɑɾðə/ | "Enclosure of the slain/chosen" | Alliance port in Howling Fjord |
 | Nifflevar | /ˈnɪflɛvɑɾ/ | Unknown | Vrykul village |
-| Shield Hill | — | (Common translation) | Vrykul burial ground |
+| Shield Hill | /—/ | (Common translation) | Vrykul burial ground |
 
 ### Northrend — Grizzly Hills / Dragonblight
 
@@ -117,8 +117,8 @@
 | Tideskorn Harbor | /ˈtaɪdskɔɾn/ | "Tide-kin/chosen" | Kvaldir harbor in Stormheim |
 | Haustvald | /ˈhɑʊstvɑld/ | Possibly "autumn-field" or "harvest-forest" | Runestones and burial area |
 | Skold-Ashil | /ˈskɔldɑʃɪl/ | Unknown | Shieldmaiden fortress |
-| Dreadwake's Landing | — | (Common translation) | Vrykul settlement |
-| Talonrest | — | (Common translation) | Vrykul settlement |
+| Dreadwake's Landing | /—/ | (Common translation) | Vrykul settlement |
+| Talonrest | /—/ | (Common translation) | Vrykul settlement |
 
 ### Other Vrykul-Related Places
 
