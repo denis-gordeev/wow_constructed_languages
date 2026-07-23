@@ -1,6 +1,6 @@
 # Drust Vocabulary
 
-All entries are attested in World of Warcraft canon (NPC dialogue, quest text, official Blizzard sources). Green = inferred morpheme; Gray italic = uncertain meaning.
+All entries are attested in World of Warcraft canon (NPC dialogue, quest text, official Blizzard sources). Sienna = inferred morpheme; Gray italic = uncertain meaning.
 
 ## 1. Proper Names (Beings)
 
