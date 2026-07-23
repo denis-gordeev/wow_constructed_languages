@@ -54,7 +54,7 @@ Vrykul possesses a runic writing system depicted on in-game standing stones, cav
 - **Kvaldir speech**: Sea vrykul may have specialized maritime/mist vocabulary; they use the same base language.
 - **Hyldnir dialect**: The matriarchal vrykul of Brunnhildar Village; may have distinct terms.
 - **Frost vrykul**: Ymirjar and frost vrykul in Icecrown may have specialized military vocabulary.
-- **Drust**: Vrykul who settled Kul Tiras after the Sundering and developed a distinct language (see [drust/](../drust/) for full documentation). The Drust language uses a unique *Gol-* prefix for place names (vs. Vrykul suffixes) and has phonological innovations including /ʒ/ and /θ/.
+- **Drust**: Vrykul who settled Kul Tiras after the Sundering and developed a distinct language (see [Drust description](../drust/description.md) for full documentation). The Drust language uses a unique *Gol-* prefix for place names (vs. Vrykul suffixes) and has phonological innovations including /ʒ/ and /θ/.
 
 ## Relationship to Other Languages
 

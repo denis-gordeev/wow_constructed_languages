@@ -4,7 +4,7 @@
 
 ### Kings and Leaders
 
-| Name | IPA Approximation | Context | Old Norse Parallel |
+| Name | IPA | Context | Old Norse Parallel |
 |------|-------------------|---------|--------------------|
 | Ymiron | /ˈyːmɪɾɔn/ | King of the Northrend vrykul | Ymir (primordial giant) |
 | Skovald | /ˈskɔːvɑld/ | God-King of Stormheim | Skjǫld (shield) |
@@ -16,7 +16,7 @@
 
 ### Dragonflayer Clan
 
-| Name | IPA Approximation | Context | Old Norse Parallel |
+| Name | IPA | Context | Old Norse Parallel |
 |------|-------------------|---------|--------------------|
 | Ingvar the Plunderer | /ˈɪŋɡvɑɾ/ | Boss of Utgarde Keep | Ingvar (Ing's warrior) |
 | Skadi the Ruthless | /ˈskɑːðɪ/ | Boss of Utgarde Pinnacle | Skaði (goddess of winter) |
@@ -24,34 +24,34 @@
 
 ### Winterskorn Clan
 
-| Name | IPA Approximation | Context | Old Norse Parallel |
+| Name | IPA | Context | Old Norse Parallel |
 |------|-------------------|---------|--------------------|
 | Bjorn Halgurdsson | /ˈbjɔːɾn/ | Vrykul at Nifflevar | Björn (bear) |
 
 ### Hyldnir (Storm Peaks)
 
-| Name | IPA Approximation | Context | Old Norse Parallel |
+| Name | IPA | Context | Old Norse Parallel |
 |------|-------------------|---------|--------------------|
 | Sif | /sɪv/ | Thorim's wife | Sif (goddess, wife of Thor) |
 | Yulda the Stormspeaker | /ˈʏldɑ/ | Hyldnir who joined Scourge | — |
 
 ### Jotunheim / Mjordin
 
-| Name | IPA Approximation | Context | Old Norse Parallel |
+| Name | IPA | Context | Old Norse Parallel |
 |------|-------------------|---------|--------------------|
 | Overthane Balargarde | /ˈbɑlɑɾɡɑɾð/ | Mjordin leader | — |
 | Halof the Deathbringer | /ˈhɑːlɔf/ | Frost vrykul | — |
 
 ### Stormheim Vrykul (Legion)
 
-| Name | IPA Approximation | Context | Old Norse Parallel |
+| Name | IPA | Context | Old Norse Parallel |
 |------|-------------------|---------|--------------------|
 | Hruthnir | /ˈhɾʏθnɪɾ/ | Son of King Magnar | — |
 | Helgus | /ˈhɛlɡʏs/ | Vrykul bard of Nifflevar | — |
 
 ### Titan Keepers (Vrykul-related)
 
-| Name | IPA Approximation | Context | Old Norse Parallel |
+| Name | IPA | Context | Old Norse Parallel |
 |------|-------------------|---------|--------------------|
 | Odyn | /ˈoːðʏn/ | Keeper, creator of Val'kyr | Óðinn (Odin) |
 | Helya | /ˈhɛljɑ/ | First Val'kyr, ruler of Helheim | Hel (goddess of the dead) |
@@ -77,7 +77,7 @@
 
 ### Northrend — Howling Fjord
 
-| Name | IPA Approximation | Translation/Meaning | Notes |
+| Name | IPA | Translation/Meaning | Notes |
 |------|-------------------|---------------------|-------|
 | Utgarde Keep | /ˈuːtɡɑɾðə/ | "Out-enclosure" | Main Dragonflayer fortress; garðr = enclosure |
 | Gjalerbron | /ˈʃɑːlɛɾbɾɔn/ | Unknown (Gj = Sh sound) | Vrykul hibernation keep; pronunciation confirmed by Captain Adams |
@@ -87,20 +87,20 @@
 
 ### Northrend — Grizzly Hills / Dragonblight
 
-| Name | IPA Approximation | Translation/Meaning | Notes |
+| Name | IPA | Translation/Meaning | Notes |
 |------|-------------------|---------------------|-------|
 | Voldskar | /ˈvɔldskɑɾ/ | Unknown | Vrykul settlement |
 
 ### Northrend — Zul'Drak / Storm Peaks
 
-| Name | IPA Approximation | Translation/Meaning | Notes |
+| Name | IPA | Translation/Meaning | Notes |
 |------|-------------------|---------------------|-------|
 | Brunnhildar Village | /ˈbɾʏnhɪldɑɾ/ | Possibly "brown-shield" | Hyldnir stronghold; cognate with Brynhildr |
 | Valkyrion | /ˈvɑlkʏɾiːɔn/ | "Place of the Val'kyr" | Village where vrykul aspire to become Val'kyr |
 
 ### Northrend — Icecrown
 
-| Name | IPA Approximation | Translation/Meaning | Notes |
+| Name | IPA | Translation/Meaning | Notes |
 |------|-------------------|---------------------|-------|
 | Jotunheim | /ˈjoːtʊnhaɪm/ | "Home of the giants" | Largest vrykul village; cognate with Jǫtunheimr |
 | Ymirheim | /ˈyːmɪɾhaɪm/ | "Home of Ymir" | Ymirjar city in Icecrown |
@@ -109,7 +109,7 @@
 
 ### Broken Isles — Stormheim
 
-| Name | IPA Approximation | Translation/Meaning | Notes |
+| Name | IPA | Translation/Meaning | Notes |
 |------|-------------------|---------------------|-------|
 | Stormheim | /ˈstɔɾmhaɪm/ | "Storm-home" | Vrykul homeland in Broken Isles |
 | Halls of Valor | /—/ | = Valhalas/Valhallas | Odyn's fortress above Stormheim |
@@ -122,7 +122,7 @@
 
 ### Other Vrykul-Related Places
 
-| Name | IPA Approximation | Translation/Meaning | Notes |
+| Name | IPA | Translation/Meaning | Notes |
 |------|-------------------|---------------------|-------|
 | Tirisfal | /ˈtɪɾɪsfɑl/ | "Tyr's Fall" | Canon confirmed: *Chronicle Volume 1*, pg. 63 |
 | Angrathar the Wrathgate | /ˈɑŋɡɾɑθɑɾ/ | Possibly "wrath-gate" | Scourge fortress |
@@ -329,7 +329,7 @@
 | Name | Description |
 |------|-------------|
 | Bloodwake | Vrykul clan |
-| Drust | Vrykul who settled Kul Tiras; became witch-focused culture | See [drust/](../drust/) for full Drust vocabulary |
+| Drust | Vrykul who settled Kul Tiras; became witch-focused culture | See [Drust vocabulary](../drust/vocabulary.md) for full Drust vocabulary |
 | Fleshrot | Vrykul group |
 
 ### The War Within

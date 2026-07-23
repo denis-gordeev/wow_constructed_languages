@@ -131,6 +131,18 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters
 
+## Completed This Round (2026-07-23, Round 85)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~21 July 2026) checked; no new linguistic data found beyond what repository already documents; warcraft.wiki.gg still inaccessible (timeout); patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] HTML-MD sync audit of 4 directories (pandaren, vrykul, shalassian, thalassian) — shalassian confirmed fully in sync; 12+ discrepancies found and fixed in other 3:
+  - **Thalassian** (vocabulary.html): Fixed 5 bare `*...*` markdown italic markers in Midnight Expansion table not converted to `<em>` tags (*-orian*, *belore* ×3, *Belore'thalas*); fixed CSS h3 color inconsistency (#388e3c → #2e7d32 matching grammar.html and description.html)
+  - **Thalassian** (description.html): Restored missing `<em>` tags on 6 italicized terms in Dialectal Variation and Relationship sections (*Sin'dorei*, *belore*, *Ren'dorei*, *-'dorei*, *Nor'alah*, *Quel*, *dorei*, *-assian*)
+  - **Thalassian** (grammar.html): Converted plain-text "Darnassian grammar.html Investigation 15" to clickable `<a href="../darnassian/grammar.html#investigation-15">` link
+  - **Vrykul** (vocabulary.md): Normalized 13 "IPA Approximation" column headers to "IPA" matching HTML and all other vocabulary files
+  - **Vrykul** (vocabulary.md + description.md): Updated Drust cross-references from directory links (`../drust/`) to specific files (`../drust/vocabulary.md`, `../drust/description.md`)
+  - **Vrykul** (vocabulary.html): Updated Drust cross-reference link text from "drust/" to "Drust vocabulary" matching MD
+  - **Pandaren** (description.html): Fixed cross-reference link text from "grammar" to "grammar.html" matching MD
+
 ## Completed This Round (2026-07-23, Round 84)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~21 July 2026) checked; no new linguistic data found beyond what repository already documents; warcraft.wiki.gg still inaccessible (timeout); patch 12.1.5 still not available (scheduled Autumn 2026)
