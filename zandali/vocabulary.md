@@ -215,6 +215,16 @@ The *Vol* prefix now has **three attestations**: *Vol'jin*, *Vol'guk*, *Vol'tar*
 |------|---------|-------|
 | Taz'dingo | Victory / Hooray | Warcry or cheer; Chris Metzen stated he didn't know what it meant (2007) |
 | Dingo | Possibly a victory exclamation element | Component of Taz'dingo; uncertain independent meaning |
+| Oraka'zul | Unknown exclamation | Said by Kul'amara the Fierce at the start of Maisara Caverns instance |
+| Ma'tuba | Unknown exclamation | Attested in *Bloodsworn* |
+| Zagota | An insult | Attested in *Shadows Rising* |
+| Taz'okun | Unknown | Spoken by several Zandalari trolls throughout Zandalar |
+| Ikambokem | Unknown | Said by witch doctors in *Warcraft III* |
+| Tazaga-choo! | Unknown | Said by Akil'zon upon death in Zul'Aman |
+| Gachaga | Unknown | Combat vocalization of blood troll mobs |
+| Guzincha | Unknown | Combat vocalization of blood troll mobs |
+| Pohkiza | Unknown | Said by blood troll mobs upon dying |
+| E'chuta | Possibly an insult or swear word | Speculative; wiki notes no specific translation but context suggests insult |
 
 ## Nouns — Common Nouns (Confirmed from Zandali Primer)
 
@@ -328,22 +338,6 @@ Officially confirmed translations from in-game items (Moldy Diary, Hastily-Scrib
 | Basengo | Slashed tree | Moldy Diary; commonly mistranslated as "Witherbark" |
 | Bwon'tulak | Death singer | Blood in the Tides quest |
 | Shera Ali'kh | Death's Hand | Zandalarian Shadow Talisman quest |
-
-## Exclamations
-
-| Word | Meaning | Notes |
-|------|---------|-------|
-| Taz'dingo | Victory / Hooray | Warcry or cheer; Chris Metzen stated he didn't know what it meant (2007) |
-| Oraka'zul | Unknown exclamation | Said by Kul'amara the Fierce at the start of Maisara Caverns instance |
-| Ma'tuba | Unknown exclamation | Attested in *Bloodsworn* |
-| Zagota | An insult | Attested in *Shadows Rising* |
-| Taz'okun | Unknown | Spoken by several Zandalari trolls throughout Zandalar |
-| Ikambokem | Unknown | Said by witch doctors in *Warcraft III* |
-| Tazaga-choo! | Unknown | Said by Akil'zon upon death in Zul'Aman |
-| Gachaga | Unknown | Combat vocalization of blood troll mobs |
-| Guzincha | Unknown | Combat vocalization of blood troll mobs |
-| Pohkiza | Unknown | Said by blood troll mobs upon dying |
-| E'chuta | Possibly an insult or swear word | Speculative; wiki notes no specific translation but context suggests insult |
 
 ## Untranslated Zandali Phrases (Midnight)
 
