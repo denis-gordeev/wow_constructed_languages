@@ -88,7 +88,7 @@ If *Lok'* = "victory" (as inferred from *Lok'tar*), then *Lok'osh* could mean "v
 **Analysis 3: *-osh* as a coincidental phonological pattern**
 
 The simplest explanation: *-osh* is not a morpheme at all. The three names share a final /ʃ/ sound, but:
-- *Grommash* ends in /aʃ/, *Garrosh* in /oʃ/, *Lok'osh* in /oʃ/ — the vowel quality differs
+- *Grommash* ends in /ɑʃ/, *Garrosh* in /oʃ/, *Lok'osh* in /oʃ/ — the vowel quality differs
 - /ʃ/ is a common coda in orcish names (*Grommash*, *Garrosh*, *Kosh'harg* → *harg* ends in /g/, but the /ʃ/ coda is still notable)
 - Proper names in many languages share phonological patterns without shared morphology (cf. English *Richard*, *Edward*, *Howard* all ending in /d/ — this does not make /-d/ a suffix)
 

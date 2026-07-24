@@ -131,6 +131,16 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters
 
+## Completed This Round (2026-07-24, Round 90)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~21 July 2026) checked; no new constructed-language data found; all Midnight and TWW content already documented in repository; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] HTML-MD sync audit of 2 directories not recently checked (orcish, shalassian) — 5 discrepancies found and fixed:
+  - **Shalassian** (grammar.html): Added 4 missing navigation links for Morphology subsections (-dorei Construction, -assian Suffix, Aran Root, Potential Apocope or Sound Change)
+  - **Shalassian** (grammar.html): Removed stale `class="new"` from 3 phonological patterns (13–15: phrase-final stress, hyphen usage, /n/ frequency) added in Round 45
+  - **Orcish** (grammar.md + grammar.html): Fixed IPA inconsistency `/aʃ/` → `/ɑʃ/` in Analysis 3 paragraph (matching the -osh suffix table which uses `/ɑʃ/`)
+  - **alien-comparative.html**: Fixed redundant link text `nerglish/description.html` → `Nerglish description`
+- [x] Audit of 5 comparative HTML files and example-sentences.html — confirmed clean: no remaining unconverted markdown artifacts, no stale .md references, no broken anchors
+
 ## Completed This Round (2026-07-24, Round 89)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~21 July 2026) checked; no new constructed-language data found; all Midnight and TWW content already documented in repository; patch 12.1.5 still not available (scheduled Autumn 2026)
