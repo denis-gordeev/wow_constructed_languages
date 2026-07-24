@@ -131,6 +131,27 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters
 
+## Completed This Round (2026-07-24, Round 89)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~21 July 2026) checked; no new constructed-language data found; all Midnight and TWW content already documented in repository; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] HTML-MD sync audit of 7 directories not recently checked (kalimag, gutterspeak, eredun, mogu, qiraji, ethereal, earthen) — 17 discrepancies found and fixed:
+  - **Ethereal** (vocabulary.md): Fixed typo *-aan* / *-aan* → *-aan* / *-zaan* in §8 heading
+  - **Ethereal** (description.md): Fixed stray space "pre- destruction" → "pre-destruction"
+  - **Ethereal** (grammar.html): Fixed 3 stale cross-references from `<a href="vocabulary.html">vocabulary.html</a> §14/§15` to proper `<a href="vocabulary.html#s14">` / `<a href="vocabulary.html#s15">` section anchors
+  - **Mogu** (vocabulary.html): Fixed incorrect legend "Dark brown background" → "Light yellow background" (CSS `.new` is #fffde7)
+  - **Kalimag** (vocabulary.html): Restored lost "elemental word" context in Cyruush/Fahss Possible Meaning column — "(uncertain)" → "(uncertain elemental word)" matching vocabulary.md
+  - **Kalimag** (vocabulary.md): Fixed capitalization "orcish" → "Orcish" matching vocabulary.html
+  - **Kalimag** (grammar.md + grammar.html): Converted stale plain-text cross-references to proper links — Shath'Yar grammar Phonological Pattern 10 and alien-comparative.html
+  - **Gutterspeak** (vocabulary.md): Added missing warning blockquote content about Gutterspeak having no uniquely attested vocabulary (was HTML-only)
+  - **Gutterspeak** (vocabulary.md): Added "English construction" to Dark Lady notes matching vocabulary.html
+  - **Gutterspeak** (vocabulary.html): Fixed legend "Dark yellow" → "Light yellow" matching CSS `.new` color
+  - **Gutterspeak** (grammar.html): Fixed CSS class mismatch `(inferred, though none are specifically attested)` from `class="uncertain"` to `class="inferred"` matching grammar.md text
+  - **Gutterspeak** (description.html): Fixed nav link order — Attestation Summary now before Reliability Notes matching document order
+  - **Earthen** (vocabulary.html): Added missing `margin-top: 1.5em` to h3 CSS rule matching grammar.html and description.html
+  - **Earthen** (vocabulary.html): Added missing `.new` CSS class matching grammar.html and description.html
+  - **Qiraji** (description.html): Fixed nav link order — Attestation Summary now before Reliability Notes matching document order
+  - **Eredun**: Confirmed fully in sync, no fixes needed
+
 ## Completed This Round (2026-07-24, Round 88)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~21 July 2026) checked; no new constructed-language data found; patch 12.1.5 still not available (scheduled Autumn 2026)

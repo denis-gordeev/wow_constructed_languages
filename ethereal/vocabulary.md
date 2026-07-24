@@ -394,7 +394,7 @@ Alternatively, *Resh-* may be a separate root with no connection to *-esh*.
 
 7. **Arabic-inspired naming pattern**: Many ethereal names evoke Arabic phonology: *Salhadaar*, *Haramad*, *Ameer*, *Bilaal*, *Razaan*, *Durzaan*, *Nezhar*, *Mu'fah*. This is likely a deliberate Blizzard design choice reflecting the ethereals' desert-dwelling origins on K'aresh and their merchant/trading culture — paralleling real-world Arabic-speaking merchant cultures.
 
-8. **The *-aan* / *-aan* ending**: Three ethereal names share the *-aan* / *-zaan* ending: *Razaan*, *Durzaan*. If *-aan* = a title or rank suffix, this would be a new ethereal morpheme. However, the sample size is very small.
+8. **The *-aan* / *-zaan* ending**: Three ethereal names share the *-aan* / *-zaan* ending: *Razaan*, *Durzaan*. If *-aan* = a title or rank suffix, this would be a new ethereal morpheme. However, the sample size is very small.
 
    **Confidence: Very Low.** The *-aan* similarity may reflect Blizzard's Arabic-inspired naming convention rather than a genuine ethereal morpheme.
 

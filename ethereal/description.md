@@ -14,7 +14,7 @@ The language is primarily attested through proper names of ethereal and broker N
 
 Key historical events affecting the language:
 
-- **Pre-Dimensius K'aresh**: Before Dimensius's attack, the ethereals were flesh-and-blood humanoids with a presumably fully developed language. The pre- destruction form of the language is entirely unattested.
+- **Pre-Dimensius K'aresh**: Before Dimensius's attack, the ethereals were flesh-and-blood humanoids with a presumably fully developed language. The pre-destruction form of the language is entirely unattested.
 - **Destruction of K'aresh**: The Void Lord Dimensius consumed K'aresh's arcane energy, destroying the world. The surviving ethereals were transformed into energy beings. This cataclysm may have disrupted language transmission, though the continued use of ethereal names suggests the language survived.
 - **The Ravel and the Reshii Ribbons**: A secret collective called the Ravel used powerful artifacts known as Reshii Ribbons to survive K'aresh's destruction. The Ravel may have preserved older forms of the language.
 - **The Consortium (TBC)**: Ethereals established the Consortium, a trading guild based in Netherstorm, Outland. Consortium ethereals like Nexus-Prince Haramad and Nexus-Prince Shaffar carry ethereal-language names but speak Common in-game.

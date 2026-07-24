@@ -1,5 +1,7 @@
 # Gutterspeak Vocabulary
 
+> **Important:** Gutterspeak has virtually no uniquely attested vocabulary. The Forsaken were human citizens of Lordaeron who were raised as undead. They continue to speak Common with archaic, morbid, and culturally specific expressions, but no distinct lexicon has been recorded in canon. The entries below are English terms and proper names used within Forsaken culture. Where no meaningful phonological distinction exists, IPA is marked —.
+
 ## Language Name
 
 | Word | Translation | Notes |
@@ -22,7 +24,7 @@ This quote from Dan Golthas suggests that some Forsaken have lost the ability to
 
 | Word | Translation | Notes |
 |------|-------------|-------|
-| Dark Lady | Title for Sylvanas Windrunner | Forsaken-specific honorific |
+| Dark Lady | Title for Sylvanas Windrunner | Forsaken-specific honorific; English construction |
 
 ## Place Names
 

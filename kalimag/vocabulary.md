@@ -79,7 +79,7 @@ The Kalimag runes on Frostmourne's pedestal in Frostmourne Cavern translate to: 
 
 | Word | Translation | Notes |
 |------|-------------|-------|
-| Shaman | One who speaks with spirits | Possibly from Kalimag (uncertain); may be orcish |
+| Shaman | One who speaks with spirits | Possibly from Kalimag (uncertain); may be Orcish |
 
 ## Potential Morphemes
 
