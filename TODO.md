@@ -131,6 +131,24 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters
 
+## Completed This Round (2026-07-24, Round 88)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~21 July 2026) checked; no new constructed-language data found; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] Update Naigtal entry with Burning Legion history — ethereal/vocabulary.md and vocabulary.html updated: Naigtal now described as "formerly controlled by the Burning Legion" per Wikipedia Curse of Ula'tek campaign; added Decimus rift context
+- [x] Add "All-Devouring" epithet to Dimensius — ethereal/vocabulary.md and vocabulary.html updated: Dimensius now described as "Dimensius the All-Devouring"; expanded notes with Harbinger betrayal, Ravel destruction attempt, and Salhadaar revival
+- [x] Add The Vanguard (of the Light) to common/vocabulary.md and vocabulary.html — Midnight faction led by Turalyon; includes Lothraxion as high commander and "lightblinded" condition note
+- [x] HTML-MD sync audit of haranir directory — 6 issues found and fixed:
+  - vocabulary.md: Added missing cross-family cognate cross-reference in *-athir* row (Darnassian/Nazja *-athir*/*-ethir*, see grammar.md §Potential Cognates, Candidate F)
+  - grammar.md: Updated vague "see below" cross-reference to specific "see §Potential Cognates, Candidate F" in *-athir* row
+  - grammar.md + grammar.html: Fixed Har'athir decomposition from *Har'* + *-thir* to *Har'* + *-athir* (matching vocabulary files and confirmed translation "Village of Memory")
+  - vocabulary.md + vocabulary.html: Added missing Aln'sharan row to Aln-* Root table (fifth attestation was documented in Patch 12.1.0 section but missing from summary table)
+  - vocabulary.md: Fixed duplicate list numbering in Key Phonological Features (items numbered 1,2,2,3,4,5,6,7 → 1,2,3,4,5,6,7,8)
+  - grammar.md: Fixed non-sequential list numbering in Notable Phonological Features (items numbered 1,7,8,2,3,4,5,6,9,10,11,12 → 1–12 sequential)
+- [x] HTML-MD sync audit of nerubian directory — 3 cross-file inconsistencies found and fixed:
+  - vocabulary.md + vocabulary.html: Fixed Vul'akan decomposition from *Vul-* + *-akan* to *Vul'* + *-akan* (matching grammar files; apostrophe marks morpheme boundary)
+  - vocabulary.md + vocabulary.html: Fixed sibilant frequency from "High" to "Moderate" (matching grammar.md and description.md which both say "Moderate")
+  - vocabulary.md + vocabulary.html: Fixed *-ar* suffix count from "four faction names" to "five faction/group names" including Voru'kar (matching grammar.md count of five plus Nerub-ar Palace)
+
 ## Completed This Round (2026-07-23, Round 87)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~21 July 2026) checked; no new linguistic data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)

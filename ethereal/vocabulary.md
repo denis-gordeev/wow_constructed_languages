@@ -90,7 +90,7 @@ The Domanaar title **Imperator** (Latin for "commander/emperor") replaces the et
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| Naigtal | /ˈneɪɡtɑːl/ | Uncertain | Fungal, arcane-rich world now occupied by the Hal'hadar ethereal faction. Accessed via unstable portal in Voidstorm. No apostrophe; potential ethereal-language place name. **Confidence: Very Low** for genuine ethereal morpheme content |
+| Naigtal | /ˈneɪɡtɑːl/ | Uncertain | Fungal, arcane-rich world formerly controlled by the Burning Legion, now occupied by the Hal'hadar ethereal faction (per Wikipedia Curse of Ula'tek campaign: "worlds formerly controlled by the Burning Legion, which the Devouring Host and Shadowguard had since occupied"). Accessed via unstable portal in Voidstorm; Decimus opened rifts to Naigtal and Val for the strike force. No apostrophe; potential ethereal-language place name. **Confidence: Very Low** for genuine ethereal morpheme content |
 | Val | /vɑːl/ | Uncertain | Icy world once inhabited by the Burning Legion; now occupied by Domanaar Imperator Pertinax. Short name, no apostrophe. Likely not ethereal-language (Legion origin). Accessed via unstable portal in Voidstorm |
 
 ### Midnight Expansion: Additional Entities (2026)
@@ -336,7 +336,7 @@ This parallels how *Nerub-* appears in *Nerubian* and *Azjol-Nerub* as a self-de
 | Name | IPA | Context | Notes |
 |------|-----|---------|-------|
 | Reshii Ribbons | /ˈrɛʃi/ | Powerful artifacts used by the Ravel | *Reshii* may be an ethereal/broker word. The *-esh-* element appears here too (*Re-shii* or *Resh-ii*), possibly related to *K'aresh* / *Tazavesh*. |
-| Dimensius | /dɪˈmɛnsiəs/ | Void Lord who destroyed K'aresh | Latin-style name; not ethereal-language. A Common-language rendering of a Void entity name. |
+| Dimensius | /dɪˈmɛnsiəs/ | Void Lord who destroyed K'aresh; "Dimensius the All-Devouring" | Latin-style name; not ethereal-language. A Common-language rendering of a Void entity name. Xal'atath formerly served as his Harbinger before betraying him; the Ravel used the Reshii Ribbons to destroy K'aresh in an attempt to kill him; Salhadaar attempted to revive him using the Dark Heart at Manaforge Omega |
 | Black Blood | — | Corruptive substance from deceased Old Gods | Common-language designation. |
 | Worldsoul | — | The living essence of K'aresh (and Azeroth) | Common-language concept. K'aresh's Worldsoul was strengthened by Soul-Scribe's sacrifice. |
 | Dark Heart | — | Powerful artifact; absorbs arcane and void energy | Common-language name. Xal'atath used it to absorb Dalaran's arcane energy, then later to create the Voidstorm. Contained Khadgar temporarily after Dalaran's destruction. Stolen from Gallywix by Phase-Thief Azir in Undermine, then brought to K'aresh where Salhadaar used it to attempt to revive Dimensius. After Dimensius's defeat, Xal'atath emerged from the Dark Heart having absorbed both Dimensius's essence and Locus-Walker's power, making her the artifact's current wielder. |

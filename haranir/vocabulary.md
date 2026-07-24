@@ -286,6 +286,7 @@ The *Aln-* root now has **multiple attestations**, and the wiki provides crucial
 | Name | Decomposition | Proposed Gloss |
 |------|---------------|----------------|
 | *Aln'hara* | *Aln'* + *-hara* | "Worldsoul of Azeroth" (confirmed) — "the song/call from the deep (Aln)" |
+| *Aln'sharan* | *Aln'* + *-sharan* | "benevolent serpent" or "memory/echo of the deep" — a benevolent serpent, described as "more of a Worldsoul Memory" per warcraft.wiki.gg |
 | *Alndust* | *Aln-* + *-dust* | "[Aln]-dust" — **confirmed to be Azerite in particle form** (warcraft.wiki.gg redirects "Alndust" to "Azerite"); the Haranir name for the Worldsoul's crystallized blood |
 | *Alnscorned* | *Aln-* + *-scorned* | "scorned by the deep" — broken nightmares from the Rift of Aln |
 | *Rift of Aln* | *Aln* | The physical location — the rift in Harandar and the Emerald Dream |
@@ -504,7 +505,7 @@ The Morta'ka lore ("shadow of the first Hara'ti to fall to the madness of the Ri
 | Suffix | Meaning | Notes |
 |--------|---------|-------|
 | *-alnor* | "twilight" | Possible: *al-* + *-nor* or indivisible |
-| *-athir* | "memory" | Possible connection to *Hara'ti* if *-ti* = "group" and *-athir* shares the *-th-* consonant |
+| *-athir* | "memory" | Possible connection to *Hara'ti* if *-ti* = "group" and *-athir* shares the *-th-* consonant; **cross-family cognate with Darnassian/Nazja *-athir* / *-ethir*** (see grammar.md §Potential Cognates, Candidate F) |
 | *-kuai* | "rain" | Single morpheme; /kw/ cluster |
 | *-mara* | "balance" | Possible: *mar-* + *-a* (feminine?) or indivisible |
 
@@ -674,21 +675,21 @@ The Midnight expansion introduced the **ruutani**, a Harandar-native race. If *R
 
 2. **Long/geminate vowels**: *Fuunid* (*-uu-* = /uː/), *Ruutani* (*-uu-* = /uː/) — the double vowel spelling is now attested twice, confirming that long /uː/ is a genuine Hara'ni phonological feature rather than a spelling error. This supports the *Ruutani* double-u spelling over the *Rutaani* single-u variant.
 
-2. **Apostrophe as morpheme boundary**: Very consistent (~25 of ~30+ names). The apostrophe marks compound boundaries between two content morphemes, identical to nerubian and qiraji patterns.
+3. **Apostrophe as morpheme boundary**: Very consistent (~25 of ~30+ names). The apostrophe marks compound boundaries between two content morphemes, identical to nerubian and qiraji patterns.
 
-3. **Syllable structure**: Predominantly (C)V(C):
+4. **Syllable structure**: Predominantly (C)V(C):
    - CV: *Hagar* (CV.CV), *Gnarla* (CCV.CV)
    - CVC.CV: *Hannan*
    - CV'.CV.CV: *Na'layro*, *Nye'rangi*
    - CV'.CV.CV: *Ter'kova*, *Ran'hune*
 
-4. **Geminate consonants**: *Hannan* (*-nn-*), *Amarakk* (*-kk-*), *Fuunid* (*-uu-* vocalic geminate). If geminates are phonologically significant, Hara'ni shares this feature with qiraji (*-naxx*) and some ethereal names (*-ff-* in *Shaffar*).
+5. **Geminate consonants**: *Hannan* (*-nn-*), *Amarakk* (*-kk-*), *Fuunid* (*-uu-* vocalic geminate). If geminates are phonologically significant, Hara'ni shares this feature with qiraji (*-naxx*) and some ethereal names (*-ff-* in *Shaffar*).
 
-5. **Initial clusters**: *Gnarla* (*Gn-* = /n/ or /ɡn/?), *Chonon* (*Ch-* = /tʃ/), *Zhakir* (*Zh-* = /ʒ/), *Dreth'amar* (*Dr-* = /dr/). If /ɡn/, /dr/ are genuine clusters, Hara'ni allows more initial clusters than previously documented.
+6. **Initial clusters**: *Gnarla* (*Gn-* = /n/ or /ɡn/?), *Chonon* (*Ch-* = /tʃ/), *Zhakir* (*Zh-* = /ʒ/), *Dreth'amar* (*Dr-* = /dr/). If /ɡn/, /dr/ are genuine clusters, Hara'ni allows more initial clusters than previously documented.
 
-6. **Vowel patterns**: Predominantly /a/, /e/, /i/; /o/ and /u/ are less common. This pattern partially overlaps with elven and nerubian vowel distributions.
+7. **Vowel patterns**: Predominantly /a/, /e/, /i/; /o/ and /u/ are less common. This pattern partially overlaps with elven and nerubian vowel distributions.
 
-7. **Expanded consonant inventory**: New data significantly expands the consonant inventory with /ʒ/ (*Zhakir*), /tʃ/ (*Chonon*, *Chua*), /θ/ (*Har'athir*, *Dreth'amar*), /kw/ (*Har'kuai*), and /dʒ/ (*Or'jan*). The phonological profile is richer than initially documented.
+8. **Expanded consonant inventory**: New data significantly expands the consonant inventory with /ʒ/ (*Zhakir*), /tʃ/ (*Chonon*, *Chua*), /θ/ (*Har'athir*, *Dreth'amar*), /kw/ (*Har'kuai*), and /dʒ/ (*Or'jan*). The phonological profile is richer than initially documented.
 
 ### Comparison with Other WoW Languages
 

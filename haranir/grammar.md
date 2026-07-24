@@ -19,24 +19,24 @@ Grammar rules below are **inferred from attested examples only**. The Hara'ni la
 
 1. **High /h/ frequency**: Six of ~15 attested Hara'ni names contain /h/ (*Hagar*, *Hannan*, *Harandar*, *Hara'ni*, *On'hiea*, *Ran'hune*). This is unusually high compared to other WoW languages. /h/ may be a phonologically salient consonant in Hara'ni, possibly reflecting a connection to breath/spirit vocabulary (the Haranir are associated with bat-like shapeshifting and the "call from deep within").
 
-7. **Xhosa-accented English**: The Haranir use the same Xhosa-accented English as the Zandalari trolls (confirmed by warcraft.wiki.gg/wiki/Haranir). This is a critical phonological connection — the voice actor for Amarakk (Ike Amadi) also voices Rokhan, a Darkspear troll. The shared accent implies that Hara'ni and Zandali share phonological features inherited from their common proto-troll ancestry, including:
+2. **Xhosa-accented English**: The Haranir use the same Xhosa-accented English as the Zandalari trolls (confirmed by warcraft.wiki.gg/wiki/Haranir). This is a critical phonological connection — the voice actor for Amarakk (Ike Amadi) also voices Rokhan, a Darkspear troll. The shared accent implies that Hara'ni and Zandali share phonological features inherited from their common proto-troll ancestry, including:
    - **Click consonants or click-like articulations** (Xhosa is famous for its click consonants; if the accent reflects genuine phonological features, Hara'ni may have had click consonants that were lost or modified in the name corpus)
    - **Tonal or pitch-accent patterns** (Xhosa is a tonal language; Hara'ni may preserve tonal distinctions not reflected in the orthography)
    - **Syllable timing and rhythm** (the "accent" perceived by players reflects prosodic patterns shared with Zandali)
    
    The Xhosa accent may be a Blizzard design choice indicating phonological affinity between Hara'ni and Zandali (both derive from the proto-troll/elven language), or may simply be a production convenience (reusing the same voice direction). **Confidence: Moderate** that the shared accent reflects a genuine in-universe phonological connection rather than mere production convenience, given the confirmed genetic relationship between Haranir and dark trolls/night elves.
 
-8. **Xhosa phonological parallels: Hara'ni vs. Zandali** (detailed comparison below in §Xhosa Comparison): The shared Xhosa accent implies that both Hara'ni and Zandali inherited phonological features from proto-troll. The name corpora reveal several shared features consistent with a Xhosa-like substrate: identical five-vowel system /a e i o u/, (C)V(C) syllable preference, high /a/ and /i/ frequency, shared palato-alveolar series /ʃ/ /tʃ/, and apostrophe-marked morpheme boundaries (likely reflecting glottal stops or former click positions). Differences (/h/ frequency, geminates, /θ/ /ʒ/ in Hara'ni; /f/ /v/ /z/ pre-nasalized stops in Zandali) are likely post-divergence innovations after ~16,000 years of independent development.
+3. **Xhosa phonological parallels: Hara'ni vs. Zandali** (detailed comparison below in §Xhosa Comparison): The shared Xhosa accent implies that both Hara'ni and Zandali inherited phonological features from proto-troll. The name corpora reveal several shared features consistent with a Xhosa-like substrate: identical five-vowel system /a e i o u/, (C)V(C) syllable preference, high /a/ and /i/ frequency, shared palato-alveolar series /ʃ/ /tʃ/, and apostrophe-marked morpheme boundaries (likely reflecting glottal stops or former click positions). Differences (/h/ frequency, geminates, /θ/ /ʒ/ in Hara'ni; /f/ /v/ /z/ pre-nasalized stops in Zandali) are likely post-divergence innovations after ~16,000 years of independent development.
 
-2. **Apostrophe as morpheme boundary**: The apostrophe in Hara'ni names consistently marks compound boundaries between two content morphemes (e.g., *Ter'* + *-kova*, *Nye'* + *-rangi*). This is identical to the medial apostrophe pattern in nerubian and qiraji, and distinct from the initial apostrophe pattern in Shath'Yar.
+4. **Apostrophe as morpheme boundary**: The apostrophe in Hara'ni names consistently marks compound boundaries between two content morphemes (e.g., *Ter'* + *-kova*, *Nye'* + *-rangi*). This is identical to the medial apostrophe pattern in nerubian and qiraji, and distinct from the initial apostrophe pattern in Shath'Yar.
 
-3. **Geminate consonants and long vowels**: *Hannan* (*-nn-*) and *Amarakk* (*-kk-*) contain geminate consonants. *Fuunid* (*-uu-*) and *Ruutani* (*-uu-*) contain long/geminate /uː/. If these are phonologically significant (not merely orthographic), Hara'ni would share geminate consonants with qiraji (*-naxx*) and long vowels would be a distinctive feature. The two *-uu-* attestations confirm that long /uː/ is a genuine phonological feature.
+5. **Geminate consonants and long vowels**: *Hannan* (*-nn-*) and *Amarakk* (*-kk-*) contain geminate consonants. *Fuunid* (*-uu-*) and *Ruutani* (*-uu-*) contain long/geminate /uː/. If these are phonologically significant (not merely orthographic), Hara'ni would share geminate consonants with qiraji (*-naxx*) and long vowels would be a distinctive feature. The two *-uu-* attestations confirm that long /uː/ is a genuine phonological feature.
 
-4. **Syllable simplicity**: Hara'ni names tend toward simple CV or CVC syllables. The most complex name in the corpus is *Na'layro* (/nɑːˈleɪroʊ/), which still follows a straightforward CVC.CV.CV pattern after the apostrophe boundary.
+6. **Syllable simplicity**: Hara'ni names tend toward simple CV or CVC syllables. The most complex name in the corpus is *Na'layro* (/nɑːˈleɪroʊ/), which still follows a straightforward CVC.CV.CV pattern after the apostrophe boundary.
 
-5. **Palato-alveolar consonants**: *Shul'ka* (/ʃ/), *Chonon* (/tʃ/), *Or'jan* (/dʒ/), *Zhakir* (/ʒ/) introduce a new series of palato-alveolar consonants not previously attested. These may reflect a phonological subsystem used primarily in compound-forming elements or religious vocabulary.
+7. **Palato-alveolar consonants**: *Shul'ka* (/ʃ/), *Chonon* (/tʃ/), *Or'jan* (/dʒ/), *Zhakir* (/ʒ/) introduce a new series of palato-alveolar consonants not previously attested. These may reflect a phonological subsystem used primarily in compound-forming elements or religious vocabulary.
 
-6. **Dental fricative /θ/**: *Har'athir* and *Dreth'amar* introduce /θ/ (th-sound), a relatively rare phoneme in WoW constructed languages. In Hara'ni, /θ/ appears in compound suffixes.
+8. **Dental fricative /θ/**: *Har'athir* and *Dreth'amar* introduce /θ/ (th-sound), a relatively rare phoneme in WoW constructed languages. In Hara'ni, /θ/ appears in compound suffixes.
 
 9. **Open final syllable preference**: Hara'ni personal names overwhelmingly end in open syllables — final vowels /a/, /i/, /u/: /a/-final (*Orweyna*, *Gnarla*, *Mowaia*, *Tawroa*, *Yaila*, *Shay'neia*, *Ney'leia*, *Ruia*, *Ah'wara*, *Amwa'ana*, *Har'mara*, *Ahl'ua*, *Na'bala*, *Ka'dani*), /i/-final (*Kalni*, *Kamari*, *Hawli*, *Habissi*, *Ruutani*, *Hara'ni*, *Kai'shae*, *Ir'ayi*), /u/-final (*Maku*, *Chua*, *Zo'ya*). Consonant-final exceptions (*Hagar*, *Hannan*, *Amarakk*, *Manat*) are few. The ratio is approximately 20+ open-syllable names to 4 closed-syllable names — the strongest open-syllable preference of any WoW constructed language. This may be a Hara'ni innovation developed during 16,000 years of subterranean isolation, since neither Darnassian nor Zandali shows this degree of open-syllable fixation.
 
@@ -101,7 +101,7 @@ The most significant morphological discovery from the warcraft.wiki.gg Hara'ni l
 | Name | Decomposition | Confirmed Translation |
 |------|---------------|----------------------|
 | *Har'alnor* | *Har'* + *-alnor* | Village of Twilight |
-| *Har'athir* | *Har'* + *-thir* | Village of Memory |
+| *Har'athir* | *Har'* + *-athir* | Village of Memory |
 | *Har'kuai* | *Har'* + *-kuai* | Village of Rain |
 | *Har'mara* | *Har'* + *-mara* | Village of Balance |
 
@@ -152,7 +152,7 @@ The four confirmed village translations provide the first Hara'ni vocabulary ite
 | Suffix | Confirmed Meaning | Notes |
 |--------|-------------------|-------|
 | *-alnor* | "twilight" | May decompose further (*al-* + *-nor*) or be indivisible |
-| *-athir* | "memory" | Possible connection to *Hara'ti* via shared *-th-* / *-t-* consonant; **cross-family cognate with Darnassian/Nazja *-athir* / *-ethir*** (see below) |
+| *-athir* | "memory" | Possible connection to *Hara'ti* via shared *-th-* / *-t-* consonant; **cross-family cognate with Darnassian/Nazja *-athir* / *-ethir*** (see §Potential Cognates, Candidate F) |
 | *-kuai* | "rain" | Contains /kw/ cluster; likely single morpheme |
 | *-mara* | "balance" | Possible: *mar-* + *-a* or indivisible. Note: *-mara* parallels *Har'mara* = "Village of Balance" |
 

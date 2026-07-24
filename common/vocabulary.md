@@ -154,6 +154,7 @@ The sequence Sunwell → Darkwell → Dawnwell uses Common adjective modificatio
 | Devouring Host | Void army commanded by Xal'atath. Common compound ("Devouring" + "Host"). See also [Shath'Yar vocabulary](../shath-yar/vocabulary.md) |
 | Twilight's Blade | Void cult devoted to Xal'atath, operating in Quel'Thalas and Zul'Aman. Common compound ("Twilight's" + "Blade"). Led by Mor'duun. See also [Shath'Yar vocabulary](../shath-yar/vocabulary.md) and [Zandali vocabulary](../zandali/vocabulary.md) |
 | Order of Night | Void cultist group allied with Xal'atath in Hallowfall (TWW). Common compound ("Order" + "of" + "Night"). Led by Aelric Leid |
+| The Vanguard (of the Light) | Coalition of paladins and priests led by Turalyon in Midnight. "Vanguard" is a Common word; "of the Light" specifies their allegiance. Lothraxion served as high commander. Some commanders became "lightblinded" and attacked allies, forcing Alleria and Arator to kill Lothraxion |
 
 ## Midnight Expansion (2026): Common-Language Artifacts
 

@@ -28,7 +28,7 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Xanventh | /ˈzænvɛnθ/ | Dungeon boss (Speaker) | *Xan-* + *-venth*; no apostrophe; contains /θ/ (dental fricative). |
 | Ix'zek | /ɪksˈzɛk/ | Dungeon boss (the Gnarled) | Apostrophe-marked compound: *Ix-* + *-zek*. *-zek* parallels *-rek* / *-urek*. |
 | Vrrix | /ˈvrɪks/ | Possible nerubian name (Ascended) | Doubled consonant pattern; initial cluster /vr/. |
-| Scarab Captain Vul'akan | /vʊˈlɑːkæn/ | Nerub-ar Palace NPC | *Vul-* + *-akan*. The *-akan* element parallels *Anub'et'kan* (*-et'kan*). |
+| Scarab Captain Vul'akan | /vʊˈlɑːkæn/ | Nerub-ar Palace NPC | *Vul'* + *-akan*. The *-akan* element parallels *Anub'et'kan* (*-et'kan*). |
 | Foreseer Xix'amon | /zɪksˈɑːmɒn/ | Nerub-ar Palace NPC | *Xix-* + *-amon*. Initial sibilant + apostrophe matches *Ix'* pattern. *-amon* is a new suffix. |
 | Scarab Lord Anub'arash | /ɑˈnʊbəˈræʃ/ | Silken Court encounter | *Anub-* + *-arash*. The *-arash* suffix parallels *-arak* but with /ʃ/ ending. |
 | Skeinspinner Takazj | /ˈtɑːkɑːʒ/ | Silken Court encounter | *Tak-* + *-azj*. **Critical**: *-azj* as a suffix mirrors *Azj-* as a prefix — if *Azj-* = "deep/realm," *-azj* could mean "of the deep" or be an agentive suffix. The official pronunciation of *Azj-* is /ɑːʒ/, making *-azj* = /ɑːʒ/ a near-exact match. |
@@ -361,7 +361,7 @@ Four attestations of the same prefix in toponymic context is significant. If *Ra
 
 1. **Apostrophe as morpheme boundary**: The most distinctive orthographic feature of nerubian naming. Nearly all multi-morpheme names use apostrophes: *Anub'azal*, *Arak'nai*, *Y'tekhi*, *Ovi'nax*, *Ky'veza*, *Krix'vizk*, *Ix'zek*, *Rasha'nan*. This is more consistent than Darnassian/Nazja apostrophe usage.
 
-2. **Sibilant frequency**: High, though less extreme than Nazja. Names like *Nizrek*, *Krix'vizk*, *Xanventh*, *Rasha'nan* feature prominent sibilants.
+2. **Sibilant frequency**: Moderate, though less extreme than Nazja. Names like *Nizrek*, *Krix'vizk*, *Xanventh*, *Rasha'nan* feature prominent sibilants.
 
 3. **The /ks/ (x) phoneme**: Unusually common in nerubian names compared to other WoW languages: *Ulgrax*, *Ovi'nax*, *Krix'vizk*, *Ix'zek*, *Vrrix*, *Hadronox*. This may reflect:
    - The chitinous clicking sound of arachnid vocalization
@@ -570,7 +570,7 @@ The Severed Threads is the name of the resistance faction. "Threads" likely tran
 | Nerubis | /ˈnɛrʊbɪs/ | Crypt fiend group (Quel'Thalas) | *Nerub-* + *-is*; no apostrophe. |
 | Sureki | /sʊˈrɛki/ | Loyalist faction (Azj-Kahet) | Short name; may contain *-rek* variant. |
 
-The *-ar* suffix appears in four faction names (*Anub'ar*, *Hath'ar*, *Nerub'ar*, *Ahn'kahar*). If *-ar* = "brood" or "swarm," this would be a productive faction-designation suffix. This parallels *Nerub-ar Palace* (TWW), where *-ar* may have the same meaning.
+The *-ar* suffix appears in five faction/group names (*Anub'ar*, *Hath'ar*, *Nerub'ar*, *Ahn'kahar*, *Voru'kar*) plus *Nerub-ar Palace* as a major place name. If *-ar* = "brood" or "swarm," this would be a productive faction-designation suffix.
 
 **Confidence: Low–Moderate** for *-ar* as a productive faction suffix.
 
