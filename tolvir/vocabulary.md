@@ -6,15 +6,15 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 
 | Phrase | IPA | Gloss | Source / Notes |
 |--------|-----|-------|----------------|
-| Achusenmen osadi djahi kahun Ammunae | /ɑxusɛnmɛn osɑdi dʒɑhi kɑhun ɑmunɑe/ | (untranslated) | Inscription on the [Staff of Ammunae] archaeology artifact. This is the longest attested Tol'vir text. Individual words cannot be reliably glossed. *Ammunae* appears to be a proper name (a keeper/watcher of the Halls of Origination). |
-| Kadesh! Osadi! Satekh! | /kɑdɛʃ osɑdi sɑtɛk/ | "Swing! Swing! Block!" (combat drill) | Written on the [Engraved Scimitar Hilt] archaeology artifact. Also said aloud by a Ramkahen Sergeant while drilling Ramkahen Infantry. Each word corresponds to a combat move: *Kadesh* = a swing, *Osadi* = another swing, *Satekh* = a block. |
+| Achusenmen osadi djahi kahun Ammunae | /ɑxusɛnmɛn osɑdi dʒɑhi kɑhun ɑmunɑe/ | (untranslated) | Inscription on the *Staff of Ammunae* archaeology artifact. This is the longest attested Tol'vir text. Individual words cannot be reliably glossed. *Ammunae* appears to be a proper name (a keeper/watcher of the Halls of Origination). |
+| Kadesh! Osadi! Satekh! | /kɑdɛʃ osɑdi sɑtɛk/ | "Swing! Swing! Block!" (combat drill) | Written on the *Engraved Scimitar Hilt* archaeology artifact. Also said aloud by a Ramkahen Sergeant while drilling Ramkahen Infantry. Each word corresponds to a combat move: *Kadesh* = a swing, *Osadi* = another swing, *Satekh* = a block. |
 | Murkash! | /murkɑʃ/ | (untranslated; likely a battle cry or exclamation) | Said by General Husam (Neferset boss in Lost City of the Tol'vir) during combat. |
 
 ## Confirmed Vocabulary
 
 | Word | IPA | Gloss | Source / Notes |
 |------|-----|-------|----------------|
-| khopesh | /xoˈpɛʃ/ | "sickle sword" / curved sword | The tol'vir name for a type of curved "sickle sword" design. Confirmed by the [Scimitar of the Sirocco] archaeology artifact. The only attested common noun with a confirmed translation. Also a real-world Egyptian weapon type (ḫpš). |
+| khopesh | /xoˈpɛʃ/ | "sickle sword" / curved sword | The tol'vir name for a type of curved "sickle sword" design. Confirmed by the *Scimitar of the Sirocco* archaeology artifact. The only attested common noun with a confirmed translation. Also a real-world Egyptian weapon type (ḫpš). |
 | Kadesh | /kɑˈdɛʃ/ | (combat command: a swing) | From the drill phrase. May be a verb imperative meaning "swing" or "strike." Cf. real-world Hebrew *qadesh* ("holy") and Egyptian *kds* ("holy"), but the Tol'vir meaning is "a swing" in combat context. |
 | Osadi | /oˈsɑdi/ | (combat command: another swing) | From the drill phrase. May be a verb imperative meaning "swing again" or a different type of strike. |
 | Satekh | /sɑˈtɛk/ | (combat command: a block) | From the drill phrase. May be a verb imperative meaning "block" or "parry." Cf. Egyptian god Setekh/Seth. |
