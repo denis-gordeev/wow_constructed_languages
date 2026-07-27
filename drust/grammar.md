@@ -98,7 +98,7 @@ Drust personal names show two patterns:
    - Thros — single element (place name used as a proper name)
    - Vadekius — single element; Latin-sounding, may not be Drust
 
-### Investigation: *-kor* in *Lorkron* and Vrykul *-korn*
+### Investigation 1: *-kor* in *Lorkron* and Vrykul *-korn*
 
 The Drust name *Lorkron* the Hunter (a Drust in Ardenweald, Shadowlands) contains the element *-kron* which may be decomposed as *-kor* + *-on* or as a single *-kron* suffix. This analysis investigates whether the *-kor*/*-kron* element in *Lorkron* is related to the Vrykul clan suffix *-korn* (as in *Winterskorn*, *Tideskorn*, *Felskorn*).
 
