@@ -1238,7 +1238,7 @@ This decomposition produces two elements with no independent support. The *gok* 
 | *gokin* | Unknown root; possibly "strange/foreign" | Resembles *gogeh* ("know") in sharing /go/ initial; if *gokin* = "not-known" (from *go-* negation + *-kin* "known"), this would be semantically coherent: "invader" = "unknown one" |
 | *-ye* | Agentive or nominal suffix | Directly parallels *-ey* in *Hash'ey* ("unifier") — if *-ye* = *-ey* with vowel lowering or a dialectal variant, then *gokinye* = "[gokin]-one" = "foreign-one" = "outsider" |
 
-This decomposition is the most promising because it connects to an existing morpheme hypothesis: *-ey* (agentive suffix, Investigation on *Hash'ey*). If *-ye* and *-ey* are the same suffix, then:
+This decomposition is the most promising because it connects to an existing morpheme hypothesis: *-ey* (agentive suffix, see Agentive Suffix section on *Hash'ey*). If *-ye* and *-ey* are the same suffix, then:
 
 - *Hash'ey* = *Hash'* + *-ey* = "unite" + "one who" = "unifier"
 - *gokinye* = *gokin* + *-ye* = "foreign/strange" + "one who" = "foreigner/outsider"

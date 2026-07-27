@@ -74,7 +74,7 @@ Darnassian's daughter languages show how the same root language diverged under r
 | Divergence date | — | ~−7,000 years | ~−10,000 years | ~−10,000 years |
 | Environment | Forest/mountain | Temperate (Quel'Thalas) | Sealed city (Suramar) | Underwater |
 | /ʒ/ (zh) | Absent | Absent | Absent | Very frequent |
-| /dʒ/ (j) | Absent | Absent | Present | Very frequent |
+| /dʒ/ (j) | Absent | Absent | Not attested | Very frequent |
 | *-dorei* suffix | Present | Present | Present | Present |
 | Apostrophe usage | Morpheme boundary | Morpheme boundary | Morpheme boundary | Morpheme boundary |
 

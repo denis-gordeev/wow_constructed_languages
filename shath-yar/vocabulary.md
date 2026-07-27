@@ -423,7 +423,7 @@ ghawl'fwata, naggwa'fssh, yeq'kafhgyl
 
 ## Investigation: *domanaar* and the *-aar* Suffix
 
-The Midnight expansion introduces the **domanaar**, generals of the Devouring Host. Wikipedia confirms they are "highly intelligent Void beings brought together by Xal'atath in an uneasy alliance after she consumed their former High Lords." This section analyzes whether the *-aar* ending in *domanaar* reflects ethereal *-daar*, shared Void nomenclature, or coincidence.
+The Midnight expansion introduces the **domanaar**, generals of the Devouring Host. The wiki confirms they are "highly intelligent Void beings brought together by Xal'atath in an uneasy alliance after she consumed their former High Lords." This section analyzes whether the *-aar* ending in *domanaar* reflects ethereal *-daar*, shared Void nomenclature, or coincidence.
 
 ### The Two Attestations of *-aar* / *-daar*
 
