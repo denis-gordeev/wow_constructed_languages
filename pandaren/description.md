@@ -48,7 +48,7 @@ Pandaren culture is deeply philosophical, emphasizing balance, inner peace, and 
 
 The Pandaren phonological system is reconstructed entirely from proper names. Key features include:
 
-- **Chinese-inspired phonotactics**: Predominantly (C)V(N) syllable structure — simple open or lightly closed syllables (*Shen*, *Jin*, *Xuen*, *Su*) — consistent with the Chinese cultural inspiration. This contrasts with the heavier syllable structures of Mogu and Titan
+- **Chinese-inspired phonotactics**: Predominantly (C)V(N) syllable structure — simple open or lightly closed syllables (*Shen*, *Jin*, *Xuen*, *Su*) — consistent with the Chinese cultural inspiration. This contrasts with the heavier syllable structures of Mogu and Titan.
 - **Affricate preference**: /tʃ/ (*Chen*, *Chi-Ji*) and /dʒ/ (*Ji*, *Jin*) are relatively frequent compared to other WoW languages, consistent with areal Chinese phonological patterns
 - **Rhotic tap /ɾ/**: Present in names like *Taran* rather than the trilled /r/ common in Orcish or Zandali
 - **Tone**: The romanized Pandaren names suggest a tonal language, consistent with the Chinese cultural inspiration, but tone cannot be confirmed from romanized text alone

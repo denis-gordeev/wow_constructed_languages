@@ -48,7 +48,7 @@ No morphemes can be confirmed from the attested corpus. The following are specul
 | -shui | Possibly "water" or "flow" | *Tushui* | Low |
 | -shan | Possibly "mountain" or "palace" | *Mogu'shan* | Low — may be Mogu |
 | -lao | Possibly "venerable" or "old" | Common in Pandaren personal names | Low |
-| Sha | Negative emotion / darkness | The Sha; possibly related to Shath'Yar | Low |
+| Sha | Negative emotion / darkness | The Sha; possibly related to Shath'Yar or Old God vocabulary | Low |
 
 ### Compounding
 
