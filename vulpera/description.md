@@ -36,7 +36,7 @@ The Vulpera phonological system is reconstructed from only five proper names and
 - **Possible feminine *-a* suffix**: Three of four female names end in *-a* (*Nisha*, *Meera*, *Serka*), while the single clearly male name (*Kiro*) does not — potentially a gender-marking suffix, though extremely speculative with only five data points
 - ***-a*/*-o* binary vowel-gender system**: The *-a* feminine / *-o* masculine alternation forms a consistent binary system paralleling Latin, Russian, and Japanese gender marking. With only five data points this remains speculative, but the pattern is internally consistent
 - **Postalveolar /ʃ/**: Present in *Nisha*, suggesting a palatal consonant inventory
-- **Vowel distribution**: /i/, /e/, and /a/ predominate; /o/ and /u/ are inferred from the ethnonym *Vulpera* but not clearly attested in personal names
+- **Vowel distribution**: /i/, /e/, and /ɑ/ predominate; /o/ and /u/ are inferred from the ethnonym *Vulpera* but not clearly attested in personal names
 - **No apostrophe usage**: Unlike neighboring Zandali and Sethrak, no Vulpera names contain apostrophes, suggesting a different morphological or orthographic convention
 
 See [grammar.md](grammar.md#phonology) for full phonological analysis with IPA charts.
