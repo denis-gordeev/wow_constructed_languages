@@ -86,7 +86,7 @@ Unlike the Titan-forged language family (which has confirmed genetic relationshi
 
 | Category | Count | Examples |
 |----------|-------|----------|
-| Attested personal names | ~16+ | *Anub'arak*, *Anub'rekhan*, *Anub'azal*, *Anub'arash*, *Ansurek*, *Arak'nai*, *Nizrek*, *Ulgrax*, *Ovi'nax*, *Ky'veza*, *Krix'vizk*, *Rasha'nan*, *Y'tekhi*, *Takazj*, *Krik'thir*, *Ix'zek* |
+| Attested personal names | ~22+ | *Anub'arak*, *Anub'rekhan*, *Anub'azal*, *Anub'arash*, *Ansurek*, *Arak'nai*, *Nizrek*, *Ulgrax*, *Ovi'nax*, *Krix'vizk*, *Rasha'nan*, *Y'tekhi*, *Takazj*, *Krik'thir*, *Ix'zek*, *Vul'akan*, *Xix'amon*, *Ki'katal*, *Gut'usul*, *Anub'ess*, *Anub'esset*, *Anub'et'kan* |
 | Attested place names | ~8+ | *Azjol-Nerub*, *Ahn'kahet*, *Azj-Kahet*, *Nerub-ar Palace*, *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz*, *Tak-Rethan* |
 | Confirmed morphemes | 2 | *Anub-* (title/warrior prefix), *-kahet* (kingdom/realm suffix) |
 | Inferred morphemes | 9+ | *Azj-* (deep/domain prefix), *-ar* (brood/collective suffix), *-rek*/*-urek* (title suffix), *-nax* (role suffix), *Rak-* (toponymic prefix), *tak-* (combat/imperative element, 5–6 attestations), *-kan*/*-akan* (subordinate ruler suffix, 3+ attestations), *-na* (clause-final discourse particle, 3 attestations), *-thir*/*-tir* (watcher/guardian suffix, 2 attestations) |
@@ -97,7 +97,7 @@ Unlike the Titan-forged language family (which has confirmed genetic relationshi
 
 ## Reliability Notes
 
-- **Very limited attestation.** Only ~16 personal names and ~8 place names are known from WotLK and TWW combined.
+- **Very limited attestation.** Only ~22 personal names and ~8 place names are known from WotLK and TWW combined.
 - **One confirmed translation** (*Shabtir bakh sokhen* = "The servant bows to the master's authority"). This is the first nerubian phrase with an official Blizzard translation, providing initial evidence for subject-initial word order and basic vocabulary.
 - **9 untranslated combat/greeting phrases** from Kaheti NPCs provide phonological data but no syntactic evidence without translations.
 - **The *Anub-* prefix analysis** (as a title meaning "lord/warrior") is speculative. It could simply be a proper-name element with no independent meaning.
