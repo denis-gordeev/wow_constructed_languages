@@ -268,7 +268,7 @@ Notes:
 Orcish permits heavy onset and coda clusters:
 
 - **Onset clusters**: /gr/ (*Grom*), /thr/ (*Throm*, *Thrall*), /gl/ (*Gul'dan*), /sk/ (inferred)
-- **Coda clusters**: /sh/ (*Grommash*, *Garrosh*), /rg/ (*harg*), /kt/ (inferred from stop-heavy pattern)
+- **Coda clusters**: /ʃ/ (*Grommash*, *Garrosh*), /rg/ (*harg*), /kt/ (inferred from stop-heavy pattern)
 - **Medial clusters**: /mm/ (*Grommash*), /rr/ (*Garrosh*) — gemination or double consonants
 
 ### Vowel Inventory

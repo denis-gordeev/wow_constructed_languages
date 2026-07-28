@@ -18,9 +18,12 @@ tr:nth-child(even) { background: #f9fdf9; }
 .inferred { color: #a0522d; }
 .new { background: #fffde7; }
 .note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
+.warning { background: #fff3e0; border-left: 3px solid #e53935; padding: 0.5em 1em; margin: 1em 0; }
+.shared { background: #e8f5e8; }
 nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
 nav a { margin-right: 1em; }
-a { color: #2e7d32; }
+  a { color: #2e7d32; }
+  a:hover { color: #a0522d; }
 </style>
 </head>
 <body>
@@ -28,22 +31,18 @@ a { color: #2e7d32; }
 <nav>
   <a href="description.html">Description</a>
   <a href="grammar.html">Grammar</a>
-  <a href="vocabulary.html">Vocabulary</a>
-</nav>
-
-<nav>
-Sections:
-<a href="#overview">Overview</a>
-<a href="#speakers">Speakers</a>
-<a href="#history">History</a>
-<a href="#dialectal-variation">Dialectal Variation</a>
-<a href="#phonology">Phonology</a>
-<a href="#morphology">Morphology</a>
-<a href="#cultural-context">Cultural Context</a>
-<a href="#relationship-to-other-languages">Relationships</a>
-<a href="#writing-system">Writing System</a>
-<a href="#attestation-summary">Attestation</a>
-<a href="#reliability-notes">Reliability</a>
+  <a href="vocabulary.html">Vocabulary</a> &mdash;
+  <a href="#overview">Overview</a>
+  <a href="#speakers">Speakers</a>
+  <a href="#history">History</a>
+  <a href="#dialectal-variation">Dialectal Variation</a>
+  <a href="#phonology">Phonology</a>
+  <a href="#morphology">Morphology</a>
+  <a href="#cultural-context">Cultural Context</a>
+  <a href="#relationship-to-other-languages">Relationships</a>
+  <a href="#writing-system">Writing System</a>
+  <a href="#attestation-summary">Attestation</a>
+  <a href="#reliability-notes">Reliability</a>
 </nav>
 
 <h1>Shath'Yar &mdash; Description</h1>
@@ -77,10 +76,10 @@ Sections:
 <p>Shath'Yar likely does not exhibit dialectal variation in the conventional sense. As the language of cosmic entities beyond mortal comprehension, the conditions that produce dialectal divergence &mdash; geographic isolation, speaker communities, intergenerational transmission &mdash; may not apply.</p>
 
 <ul>
-<li><strong>Non-human transmission:</strong> Shath'Yar is not learned through normal language acquisition. Old God servants are either created (Aqir, N'raqi) or corrupted (mortals driven to madness). There is no &ldquo;child language acquisition&rdquo; and therefore no mechanism for the incremental drift that produces dialects in mortal languages.</li>
+<li><strong>Non-human transmission:</strong> Shath'Yar is not learned through normal language acquisition. Old God servants are either created (Aqir, N'raqi) or corrupted (mortals driven to madness). There is no "child language acquisition" and therefore no mechanism for the incremental drift that produces dialects in mortal languages.</li>
 <li><strong>Register variation by servant type:</strong> The most plausible form of variation is register-based rather than geographic. The N'raqi (faceless ones) serve as priests and commanders and may use a formal, liturgical register. The K'thir &mdash; shadowy, whispering entities &mdash; may employ a reduced or whispered register, potentially explaining the sibilant-heavy forms (<em>fhssh</em>, <em>Ssra'thik</em>). The Aqir-descended races (qiraji, nerubians) inherited Shath'Yar's apostrophe convention but repurposed it from a prefix boundary (C'+root) to a compound boundary (stem+'stem), representing the most significant structural divergence from the source language.</li>
 <li><strong>Old God idiolects:</strong> Each Old God (Yogg-Saron, N'Zoth, C'Thun, Y'Shaarj, Xal'atath) may speak a distinct idiolect. The confirmed phrases show different phonological patterns per source (e.g., G'huun's emphasis on infection/plague vocabulary vs. N'Zoth's emphasis on shadow/throne vocabulary), but the corpus is too small to confirm whether these reflect systematic differences or thematic variation.</li>
-<li><strong>Suppression of variation:</strong> The Old Gods are psychic entities who communicate telepathically with their servants. If Shath'Yar is transmitted psychically rather than acoustically, the very concept of &ldquo;dialect&rdquo; may be inapplicable &mdash; the language could be a fixed, non-varying code imposed directly on servants.</li>
+<li><strong>Suppression of variation:</strong> The Old Gods are psychic entities who communicate telepathically with their servants. If Shath'Yar is transmitted psychically rather than acoustically, the very concept of "dialect" may be inapplicable &mdash; the language could be a fixed, non-varying code imposed directly on servants.</li>
 <li><strong>Shadow priests in Voidform:</strong> Shadow priests can speak Shath'Yar while in Voidform (confirmed by WarcraftDevs on Twitter, 2015), and users of the Glyph of the Shath'Yar can understand it. This suggests mortals can access the language through Void channeling.</li>
 </ul>
 
@@ -109,12 +108,12 @@ Sections:
 <tr><th>Feature</th><th>Description</th><th>Confidence</th></tr>
 </thead>
 <tbody>
-<tr><td>Pronoun system</td><td><em>y'za</em> = &ldquo;I&rdquo;, <em>hoq</em> = &ldquo;me&rdquo;, <em>iilth</em> = &ldquo;you&rdquo;, <em>ywaq</em> = &ldquo;they&rdquo;, <em>ag</em> = &ldquo;we&rdquo;, <em>ak</em> = &ldquo;our&rdquo;</td><td>High</td></tr>
-<tr><td>Possessive prefix <em>sk-</em></td><td>Attaches to nouns: <em>sk'magg</em> = &ldquo;your suffering&rdquo;, <em>sk'yahf</em> = &ldquo;your soul(s)&rdquo;</td><td>High</td></tr>
-<tr><td>Future prefix <em>qi'</em></td><td>Attaches to verbs: <em>qi'uothk</em> = &ldquo;will drown&rdquo;, <em>qi'plahf</em> = &ldquo;will know&rdquo;</td><td>High</td></tr>
-<tr><td>Negation <em>maq</em></td><td>Preverbal: <em>ywaq maq oou</em> = &ldquo;they do not die&rdquo;</td><td>High</td></tr>
-<tr><td>Copula <em>ma</em></td><td>&ldquo;is/are&rdquo;: <em>Ywaq ma phgwa'cul</em> = &ldquo;They are the whisper&rdquo;</td><td>Moderate</td></tr>
-<tr><td>Compound nouns</td><td><em>Shuul'wah</em> = &ldquo;Death-wing&rdquo; = Deathwing; <em>Shath'Yar</em> = &ldquo;Old Gods&rdquo;</td><td>High</td></tr>
+<tr><td>Pronoun system</td><td><em>y'za</em> = "I", <em>hoq</em> = "me", <em>iilth</em> = "you", <em>ywaq</em> = "they", <em>ag</em> = "we", <em>ak</em> = "our"</td><td>High</td></tr>
+<tr><td>Possessive prefix <em>sk-</em></td><td>Attaches to nouns: <em>sk'magg</em> = "your suffering", <em>sk'yahf</em> = "your soul(s)"</td><td>High</td></tr>
+<tr><td>Future prefix <em>qi'</em></td><td>Attaches to verbs: <em>qi'uothk</em> = "will drown", <em>qi'plahf</em> = "will know"</td><td>High</td></tr>
+<tr><td>Negation <em>maq</em></td><td>Preverbal: <em>ywaq maq oou</em> = "they do not die"</td><td>High</td></tr>
+<tr><td>Copula <em>ma</em></td><td>"is/are": <em>Ywaq ma phgwa'cul</em> = "They are the whisper"</td><td>Moderate</td></tr>
+<tr><td>Compound nouns</td><td><em>Shuul'wah</em> = "Death-wing" = Deathwing; <em>Shath'Yar</em> = "Old Gods"</td><td>High</td></tr>
 </tbody>
 </table>
 
@@ -165,14 +164,14 @@ Sections:
 <tr><td>Servant names</td><td>5+</td><td>Il'gynoth, N'raqi, K'thir, Aqir, Ssra'thik</td></tr>
 <tr><td>Midnight entities</td><td>3+</td><td>domanaar, Decimus, Terminas (Common/Latin names)</td></tr>
 <tr><td>Confirmed phrases (official translations)</td><td>87+</td><td>From Yogg-Saron, Yor'sahj, Kaahrj, Volazj, Zon'ozz, Mythrax, G'huun, Vol'zith, Zek'voz, and other sources</td></tr>
-<tr><td>Confirmed single-word translations</td><td>2</td><td><em>An'qoth</em> = &ldquo;Vessel&rdquo;, <em>Yu'gaz</em> = &ldquo;Fluffy&rdquo;</td></tr>
+<tr><td>Confirmed single-word translations</td><td>2</td><td><em>An'qoth</em> = "Vessel", <em>Yu'gaz</em> = "Fluffy"</td></tr>
 <tr><td>Untranslated phrases</td><td>20+</td><td>From cultists, artifacts, quest text</td></tr>
-<tr><td>Deep Watcher phrases (Midnight)</td><td>2+</td><td>&ldquo;The eye sees all!&rdquo;, &ldquo;We slumber no more!&rdquo;</td></tr>
+<tr><td>Deep Watcher phrases (Midnight)</td><td>2+</td><td>"The eye sees all!", "We slumber no more!"</td></tr>
 <tr><td>Naaru names (cross-reference)</td><td>7</td><td>A'dal, K'ure, K'ara, M'uru, O'ros, L'ura, T'era</td></tr>
 <tr><td>Speculative dictionary entries</td><td>76+</td><td>Derived from cross-referencing confirmed phrases with translations</td></tr>
 <tr><td>Confirmed pronouns</td><td>6</td><td>y'za, hoq, iilth, ywaq, ag, ak</td></tr>
 <tr><td>Confirmed grammatical markers</td><td>3+</td><td>sk- (possessive), qi' (future), maq (negation)</td></tr>
-<tr><td>Open linguistic investigations</td><td>17</td><td><em>za</em> &ldquo;place&rdquo; vs. &ldquo;my&rdquo; (Low&ndash;Moderate), <em>ma</em> copula vs. &ldquo;millennia&rdquo; (Moderate), <em>iilth</em>/<em>ilith</em>/<em>illith</em> pronoun variants (Moderate), Syntactic pattern analysis &mdash; SVO word order, auxiliary system, negation, prosodic grammar (Moderate&ndash;High), Three-way negation system &mdash; <em>og</em> existential vs. <em>maq</em>/<em>noq</em> verbal (Low&ndash;Moderate), <em>og</em> homophony &mdash; negation vs. affirmative existential copula (Low&ndash;Moderate; see <a href="grammar.html#investigation-8">Investigation 8</a>), <em>-ka</em> privative suffix (Very Low&ndash;Low; see <a href="grammar.html#investigation-9">Investigation 9</a>), Difficult phrase reanalysis &mdash; auxiliary inversion, genitive order, new prepositions (Low&ndash;Moderate; see <a href="grammar.html#investigation-10">Investigation 10</a>), Genitive order conditioned by syntactic position &mdash; Possessed-Possessor as basic order; Possessor-Possessed in direct object position (Moderate; see <a href="grammar.html#investigation-11">Investigation 11</a>), synthetic future <em>qi'</em> vs. analytic future <em>wgah</em> distribution (Low&ndash;Moderate; see <a href="grammar.html#investigation-12">Investigation 12</a>), Productive noun incorporation &mdash; prepositional prefixes incorporate noun objects; potential object incorporation in <em>erh'ongg</em> (Moderate&ndash;High for PP incorporation; Very Low for object incorporation; see <a href="grammar.html#investigation-13">Investigation 13</a>), Refined auxiliary semantics &mdash; <em>agth</em> = cosmic inevitability, <em>gag</em> = speaker-volitional future, <em>lal</em> = perfective? (Moderate for <em>agth</em>/<em>gag</em>; Low for <em>lal</em>; see <a href="grammar.html#investigation-14">Investigation 14</a>), The <em>nVq</em> root &mdash; <em>noq</em> and <em>nuq</em> may share a grammaticalization chain: temporal &ldquo;now&rdquo; &rarr; terminative &ldquo;no more&rdquo; &rarr; propositional &ldquo;not&rdquo; (Low&ndash;Moderate; see <a href="grammar.html#investigation-15">Investigation 15</a>), <em>qam</em> polysemy &mdash; three homophonous morphemes: &ldquo;return&rdquo;, construction-specific negation (<em>wgah qam</em> = &ldquo;will-not&rdquo;), copula/imperative (Low&ndash;Moderate; see <a href="grammar.html#investigation-16">Investigation 16</a>), Domanaar Latin-style naming &mdash; Common rendering or design choice for Void aristocracy; parallels Eredun command-name pattern (Moderate&ndash;High for design choice; see <a href="grammar.html#investigation-17">Investigation 17</a>)</td></tr>
+<tr><td>Open linguistic investigations</td><td>17</td><td><em>za</em> "place" vs. "my" (Low&ndash;Moderate), <em>ma</em> copula vs. "millennia" (Moderate), <em>iilth</em>/<em>ilith</em>/<em>illith</em> pronoun variants (Moderate), Syntactic pattern analysis &mdash; SVO word order, auxiliary system, negation, prosodic grammar (Moderate&ndash;High), Three-way negation system &mdash; <em>og</em> existential vs. <em>maq</em>/<em>noq</em> verbal (Low&ndash;Moderate), <em>og</em> homophony &mdash; negation vs. affirmative existential copula (Low&ndash;Moderate; see <a href="grammar.html#investigation-8">Investigation 8</a>), <em>-ka</em> privative suffix (Very Low&ndash;Low; see <a href="grammar.html#investigation-9">Investigation 9</a>), Difficult phrase reanalysis &mdash; auxiliary inversion, genitive order, new prepositions (Low&ndash;Moderate; see <a href="grammar.html#investigation-10">Investigation 10</a>), Genitive order conditioned by syntactic position &mdash; Possessed-Possessor as basic order; Possessor-Possessed in direct object position (Moderate; see <a href="grammar.html#investigation-11">Investigation 11</a>), synthetic future <em>qi'</em> vs. analytic future <em>wgah</em> distribution (Low&ndash;Moderate; see <a href="grammar.html#investigation-12">Investigation 12</a>), Productive noun incorporation &mdash; prepositional prefixes incorporate noun objects; potential object incorporation in <em>erh'ongg</em> (Moderate&ndash;High for PP incorporation; Very Low for object incorporation; see <a href="grammar.html#investigation-13">Investigation 13</a>), Refined auxiliary semantics &mdash; <em>agth</em> = cosmic inevitability, <em>gag</em> = speaker-volitional future, <em>lal</em> = perfective? (Moderate for <em>agth</em>/<em>gag</em>; Low for <em>lal</em>; see <a href="grammar.html#investigation-14">Investigation 14</a>), The <em>nVq</em> root &mdash; <em>noq</em> and <em>nuq</em> may share a grammaticalization chain: temporal "now" &rarr; terminative "no more" &rarr; propositional "not" (Low&ndash;Moderate; see <a href="grammar.html#investigation-15">Investigation 15</a>), <em>qam</em> polysemy &mdash; three homophonous morphemes: "return", construction-specific negation (<em>wgah qam</em> = "will-not"), copula/imperative (Low&ndash;Moderate; see <a href="grammar.html#investigation-16">Investigation 16</a>), Domanaar Latin-style naming &mdash; Common rendering or design choice for Void aristocracy; parallels Eredun command-name pattern (Moderate&ndash;High for design choice; see <a href="grammar.html#investigation-17">Investigation 17</a>)</td></tr>
 </tbody>
 </table>
 
@@ -184,8 +183,8 @@ Sections:
 
 <ul>
 <li><strong>Translation imprecision.</strong> The English translations are often idiomatic rather than literal, making it difficult to map Shath'Yar morphemes precisely.</li>
-<li><strong>Design intent.</strong> The language was likely designed for aesthetic effect (alien, maddening, Lovecraftian) rather than as a functional constructed language. The wiki explicitly states: &ldquo;the grammar of Shath'Yar appears to be quite different from English, especially when it comes to articles and auxiliary verbs.&rdquo;</li>
-<li><strong>Speculative dictionary caveat.</strong> The 76+ speculative dictionary entries are derived by cross-referencing, not by official Blizzard morpheme assignments. The wiki marks this section as &ldquo;should not be taken as representing official lore.&rdquo;</li>
+<li><strong>Design intent.</strong> The language was likely designed for aesthetic effect (alien, maddening, Lovecraftian) rather than as a functional constructed language. The wiki explicitly states: "the grammar of Shath'Yar appears to be quite different from English, especially when it comes to articles and auxiliary verbs."</li>
+<li><strong>Speculative dictionary caveat.</strong> The 76+ speculative dictionary entries are derived by cross-referencing, not by official Blizzard morpheme assignments. The wiki marks this section as "should not be taken as representing official lore."</li>
 <li><strong>Parser words are not genuine.</strong> The in-game language translator does not use a real Shath'Yar dictionary.</li>
 <li>The association of N'raqi, Aqir, Qiraji, and K'thir with Shath'Yar is <span class="inferred">inferred from their service to the Old Gods</span>, not explicitly stated in canon.</li>
 <li>See <a href="../alien-comparative.html">alien-comparative.html</a> for comparative analysis with nerubian, qiraji, ethereal, and Hara'ni.</li>
