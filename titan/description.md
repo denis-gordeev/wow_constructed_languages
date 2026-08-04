@@ -95,7 +95,7 @@ No grammar, syntax, or extended text in Titan has been published by Blizzard. Th
 - *Aesir* = "Storm Giants" and *Vanir* = "Earth Giants" — confirmed by the Tribunal of Ages in-game event.
 - *Kalimdor* = "Land of Eternal Starlight" — confirmed by *The Old Gods and the Ordering of Azeroth* in-game book and the *Dragon Hunt* novel.
 - *Midnir* = "Vessel" — confirmed by the quest *Music of the Spheres*.
-- *Nalak* = "Serpent" — confirmed by Dave Kosak on Twitter (2013); may be specific to the Mogu dialect.
+- *Nalak* = "Serpent" — confirmed by Dave Kosak on Twitter (2013-08-19); may be specific to the Mogu dialect.
 - The same Titan word means both "created" and "Ordered" — confirmed by *Grimoire of the Shadowlands and Beyond*.
 - *Uld* = "city" — proposed by Brann Bronzebeard (*Lands of Mystery*, RPG, non-canon); not specifically confirmed.
 

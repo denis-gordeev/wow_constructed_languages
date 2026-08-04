@@ -23,6 +23,7 @@
 |------|-------------|-------|
 | Shu'halo | The Tauren (self-designation) | Confirmed (Mists of Dawn) |
 | Yeena'e | Those who herald the dawn | Confirmed (Bleeding Sun) |
+| Taur-ahe | Language of the Tauren / earth-speak | Confirmed IPA: /tɔɹ.ˈɑːhɛh/ (TOR AH-heh) |
 
 ### Animals & Creatures
 
@@ -57,10 +58,10 @@
 | Element | Inferred Meaning | Attested In | Notes |
 |---------|-----------------|-------------|-------|
 | An | The (article) / celestial prefix | An'she, Mashan'she | (inferred) |
-| She | Sun | An'she, Mashan'she | (inferred) |
+| She | Sun / celestial body | An'she, Mashan'she | (inferred) |
 | Mu | Mother / light | Mu'sha | (uncertain) |
-| Sha | Moon | Mu'sha | (inferred) — also appears in Isha Awak |
-| -mani | Hand / shaker / force | Lakota'mani | (uncertain) |
+| Sha | Moon | Mu'sha, Isha Awak | (inferred) |
+| -mani | Hand / shaker / force | Lakota'mani, Awak'mani | (uncertain) |
 | -ka | (diminutive or grammatical?) | Arikara, Owatanka | (uncertain) |
 | Taur | Earth / people | Taur-ahe, Tauren | (inferred) |
 | -ahe | Speech / language | Taur-ahe | (inferred) |
@@ -98,7 +99,7 @@
 | Camp Una'fe | "Refuge"; confirmed translation |
 | Camp Mojache | Feralas settlement |
 | Camp Narache | Mulgore starting zone |
-| Camp Aparaje | (untranslated) |
+| Camp Aparaje | Stonetalon Mountains (untranslated) |
 
 ### Spirit Walker Incantations (Warcraft III)
 
