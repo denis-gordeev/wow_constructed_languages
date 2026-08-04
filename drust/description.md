@@ -44,7 +44,7 @@ Drust phonology is similar to Vrykul with several distinctive innovations result
 - **Gol- prefix**: The /ɡɔl-/ prefix is unique to Drust toponyms. The vowel /ɔ/ followed by /l/ is consistent with Vrykul phonotactics, but the prefix-based toponymic strategy is a structural innovation
 - **Celtic/Norse blend**: Drust names blend Norse phonology (inherited from Vrykul) with Celtic-inspired elements (*Thros*, *Gol-*, *Kivarr*), reflecting the Drust's unique cultural development in Kul Tiras
 
-See [grammar.md](grammar.md#phonology) for full consonant/vowel IPA charts.
+See [grammar.html](grammar.html#phonology) for full consonant/vowel IPA charts.
 
 ## Writing System
 

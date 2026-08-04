@@ -65,7 +65,7 @@ Based on attested proper names, Sethrak consonants likely include:
 
 | | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Velar | Glottal |
 |---|---|---|---|---|---|---|---|
-| Stops | p b | | | t | | k g | |
+| Stops | p b | | | t | | k ɡ | |
 | Fricatives | | v | θ | s z | | | |
 | Affricates | | | | | dʒ | | |
 | Nasals | m | | | n | | | |

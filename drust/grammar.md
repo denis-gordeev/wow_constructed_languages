@@ -133,25 +133,25 @@ If analysis (a) is correct, the sound change Vrykul *-korn* → Drust *-kron* (w
 
 **Confidence: Low–Medium.** The phonological match is good and the genetic relationship supports inheritance, but the single data point and functional difference (clan suffix vs. personal name element) prevent a confident conclusion.
 
-## Investigation 2: The *Ath-* / *Athair* Element in Thornspeaker Names
+### Investigation 2: The *Ath-* / *Athair* Element in Thornspeaker Names
 
 Two Thornspeaker names — *Athainne* and *Athair* — share the initial element *Ath-* /əˈθ/. This pattern is distinct from all other Drust naming patterns (the *Gorak-* title, the *Gol-* toponymic prefix, single-element names like *Ulfar* and *Thros*). This investigation evaluates whether *Ath-* is a genuine Drust morpheme associated specifically with the druidic Thornspeaker tradition, or whether it reflects Blizzard's Celtic design aesthetic for Kul Tiras.
 
-### Data
+#### Data
 
 | Name | IPA | Context | Notes |
 |------|-----|---------|-------|
-| Athainne | /əˈθaɪn/ | Thornspeaker (Kul Tiran?) | Described in vocabulary.md as "possibly Drust-influenced name" |
-| Athair | /əˈθɛɾ/ | Thornspeaker (Kul Tiran?) | Described in vocabulary.md as "possibly Drust-influenced name" |
+| Athainne | /əˈθaɪn/ | Thornspeaker (Kul Tiran?) | Described in vocabulary.html as "possibly Drust-influenced name" |
+| Athair | /əˈθɛɾ/ | Thornspeaker (Kul Tiran?) | Described in vocabulary.html as "possibly Drust-influenced name" |
 
-### Shared Elements
+#### Shared Elements
 
 Both names share:
 1. **Initial *Ath-* /əˈθ/**: The sequence /əθ/ at the onset
 2. **Thornspeaker affiliation**: Both are members of the druidic Thornspeaker order
 3. **Celtic phonological quality**: Both names sound Irish/Scottish Gaelic
 
-### Hypotheses
+#### Hypotheses
 
 **Hypothesis A: *Ath-* is a Drust druidic name prefix.** Under this hypothesis, *Ath-* is a genuine Drust morpheme meaning "renewal," "father," or "elder" — concepts central to the druidic tradition. The two Thornspeakers bearing *Ath-* names would reflect a naming convention specific to the druidic register of Drust, distinct from the death-magic register (*Gorak-* titles) and the toponymic register (*Gol-* places).
 
@@ -166,7 +166,7 @@ The semantic field "renewal/father/reverence" is coherent with the Thornspeaker 
 
 **Hypothesis C: *Ath-* is a shared morpheme across the Drust druidic and death-magic registers.** Under this hypothesis, *Ath-* has a broader meaning in Drust (perhaps "sacred" or "powerful") that appears in both registers. *Athair* in the Thornspeaker register means "sacred father/elder," while a hypothetical *Ath-* name in the death-magic register might mean "sacred/corrupted." No death-magic *Ath-* names are attested, making this untestable.
 
-### Assessment
+#### Assessment
 
 | Hypothesis | Plausibility | Notes |
 |-----------|-------------|-------|
@@ -176,7 +176,7 @@ The semantic field "renewal/father/reverence" is coherent with the Thornspeaker 
 
 **Confidence: Very Low–Low.** The *Ath-* / *Athair* pattern is the most promising candidate for a Drust druidic morpheme, but the Celtic design confound is severe. Kul Tiras is explicitly Celtic-themed, and *Athainne* / *Athair* are indistinguishable from Gaelic personal names. The strongest argument for Hypothesis A is the exclusive Thornspeaker association — if *Ath-* were purely aesthetic, one would expect it in non-Thornspeaker Kul Tiran names as well. However, the sample size of two names is too small to establish a pattern. A third *Ath-* initial Thornspeaker name would significantly strengthen the case; conversely, an *Ath-* initial non-Thornspeaker name would weaken it.
 
-### Testable Prediction
+#### Testable Prediction
 
 If Hypothesis A is correct, future Kul Tiran/Drust content should show *Ath-* names exclusively among Thornspeakers or druidic figures, never among non-druidic characters. If Hypothesis B is correct, *Ath-* names should appear across all Kul Tiran character types, reflecting the general Celtic aesthetic rather than a druidic-specific convention.
 

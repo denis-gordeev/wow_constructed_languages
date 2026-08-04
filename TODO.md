@@ -131,6 +131,21 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters
 
+## Completed This Round (2026-08-04, Round 101)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) checked; no new constructed-language data found; warcraft.wiki.gg still inaccessible (499 status); patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] Fix remaining curly quote in shath-yar/grammar.html — `&lsquo;` → straight `'` in *nuq* negation inventory reference
+- [x] Fix unconverted markdown bold `**Unknown**` in ethereal/vocabulary.html — → `<strong>Unknown</strong>` in Domanaar relationship tree
+- [x] Fix vulpera/description.html factual phoneme error — `/a/` → `/ɑ/` in Vowel Distribution bullet (matched description.md, grammar.md, grammar.html); also added missing `<span class="ipa">` wrappers for /r/, /ʃ/, /i/, /e/, /o/, /u/ in Phonological Features list
+- [x] Fix Drust grammar.md Investigation 2 heading hierarchy — `##` → `###` matching Investigation 1 and grammar.html; subsections (Data, Shared Elements, Hypotheses, Assessment, Testable Prediction) demoted from `###` to `####`
+- [x] Fix Sethrak vocabulary.html CSS class mismatches — Gloss column changed from `class="uncertain"` to `class="inferred"` for 7 morpheme rows matching MD `(inferred)` markers; morpheme names wrapped in `<em class="inferred">`
+- [x] Fix Sethrak vocabulary.html heading — "Roots &amp; Morphemes" → "Roots and Morphemes" matching vocabulary.md
+- [x] Fix Sethrak grammar.html Summary table — added missing `class="uncertain"` on Medium confidence cell for consistency
+- [x] Fix Sethrak grammar.md consonant table — `k g` → `k ɡ` using IPA script g matching grammar.html
+- [x] Fix Dwarven vocabulary.html missing IPA wrappers — 4 bare `/θ/` instances wrapped in `<span class="ipa">` (Thandol, Thelgen, Thelsamar, Thul Medran rows)
+- [x] Fix common/vocabulary.md broken cross-reference paths — `earthen/vocabulary.md` → `../earthen/vocabulary.md` (2 instances; missing `../` prefix)
+- [x] Fix stale .md cross-references — haranir/grammar.html "Darnassian grammar.md" → proper `<a href>` link to `../darnassian/grammar.html#investigation-6`; drust/vocabulary.md `grammar.md` → `grammar.html`, `vocabulary.md` → `vocabulary.html`; drust/grammar.md `vocabulary.md` → `vocabulary.html`; drust/description.md `grammar.md#phonology` → `grammar.html#phonology`; confirmed zero remaining `.md` references in any HTML file
+
 ## Completed This Round (2026-08-04, Round 100)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~28 July 2026) checked; no new constructed-language data found; warcraft.wiki.gg still inaccessible (499 status); patch 12.1.5 still not available (scheduled Autumn 2026)

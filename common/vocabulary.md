@@ -40,7 +40,7 @@ Hallowfall is a vast underground cavern in Khaz Algar, settled by the Arathi exp
 
 | Name | IPA | Notes |
 |------|-----|-------|
-| Mereldar | /mɛˈrɛldɑːr/ | Arathi city in Hallowfall; *-dar* suffix may be Earthen substrate (see earthen/vocabulary.md §8) |
+| Mereldar | /mɛˈrɛldɑːr/ | Arathi city in Hallowfall; *-dar* suffix may be Earthen substrate (see ../earthen/vocabulary.md §8) |
 | Light's Redoubt | — | Common compound |
 | Dunelle's Kindness | — | Arathi personal name (*Dunelle*) + Common possessive + Common noun |
 | Sina's Yearning | — | Arathi personal name (*Sina*) + Common possessive + Common noun |
@@ -53,7 +53,7 @@ Hallowfall is a vast underground cavern in Khaz Algar, settled by the Arathi exp
 
 | Name | Notes |
 |------|-------|
-| Beledar | The immense crystal in Hallowfall's ceiling; *-dar* suffix (see earthen/vocabulary.md §8) |
+| Beledar | The immense crystal in Hallowfall's ceiling; *-dar* suffix (see ../earthen/vocabulary.md §8) |
 | Aegis Wall | Common compound; border wall against nerubians |
 | Sanguine Grasps | Common compound; vine-covered area |
 | The Stagnant Mire | Common compound |
