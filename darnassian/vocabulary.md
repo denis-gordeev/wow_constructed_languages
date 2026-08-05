@@ -61,7 +61,7 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 
 | Word | IPA | Translation | Source / Notes |
 |------|-----|-------------|----------------|
-| Elunara | | Grace of Elune | Attested given name |
+| Elunara | /—/ | Grace of Elune | Attested given name |
 
 ## Adjectives / Modifiers
 

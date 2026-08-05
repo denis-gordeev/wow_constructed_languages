@@ -80,7 +80,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 |------|-----|------|-------|
 | Ikuzz the Light Hunter | /ɪˈkʌz/ | Boss in Blinding Vale | Geminate *-zz*; title "the Light Hunter" is Common. Possibly a Lightbloom-corrupted entity rather than a Haranir. Name does not follow standard Hara'ni apostrophe patterns |
 | Ziekket | /ˈziːkɛt/ | Boss in Blinding Vale | Geminate *-kk-*; *-et* ending. Possibly a Lightbloom-corrupted entity. Name lacks apostrophe |
-| Lightblossom Trinity | — | Boss in Blinding Vale | Common compound name; Lightbloom entity |
+| Lightblossom Trinity | /—/ | Boss in Blinding Vale | Common compound name; Lightbloom entity |
 
 **Note:** The Blinding Vale is a Midnight dungeon where Lightwarden Ruia is also a boss. *Ikuzz* and *Ziekket* may not be Haranir names — they could belong to Lightbloom-corrupted entities of other races. Their inclusion here is provisional pending confirmation of their species.
 
@@ -101,7 +101,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
-| Sporefall | — | Raid in Harandar | Common/English compound name. No Hara'ni morpheme content. Added in patch 12.0.7 (2026-06-16) |
+| Sporefall | /—/ | Raid in Harandar | Common/English compound name. No Hara'ni morpheme content. Added in patch 12.0.7 (2026-06-16) |
 | Rotmire | /ˈrɒtmaɪər/ | Boss of Sporefall raid | Fungal giant nurtured by the fungarians of Sporefall to grow far beyond its natural growth cycle. Common/English compound name (rot + mire). No Hara'ni morpheme content. Single-boss raid with flexible Mythic difficulty (15–25 players) |
 
 ## 2. Proper Names (Places)
@@ -119,32 +119,32 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Dreth'amar | /drɛθˈæmɑːr/ | *Dreth'* + *-amar* | Cave/cavern in Harandar. Apostrophe-marked compound |
 | Na'bala | /nɑːˈbɑːlə/ | *Na'* + *-bala* | Flower species in Harandar (*Na'bala Bloom*). The Na'bala flower has medicinal properties in Hara'ni culture. Apostrophe-marked compound |
 | Nai'theren | /naɪˈθɛrɛn/ | *Nai'* + *-theren* | Grotto in Harandar. Apostrophe-marked compound |
-| Nihil | /ˈnaɪhɪl/ | — | The empty expanse surrounding Harandar. Haranir who enter the Rift of Aln without protection succumb and die within minutes |
+| Nihil | /ˈnaɪhɪl/ | /—/ | The empty expanse surrounding Harandar. Haranir who enter the Rift of Aln without protection succumb and die within minutes |
 | Rift of Aln | /æln/ | *Aln* | A rift in Harandar and the Emerald Dream, formed when the Worldsoul was taken from the Cradle. Source of Alndust and the Alnscorned |
-| The Cradle | /ˈkreɪdəl/ | — | The place from which the Worldsoul (Aln'hara) was taken, forming the Rift of Aln. English name; no Hara'ni form is attested |
-| The Den | /ðə ˈdɛn/ | — | Capital of Harandar; English name. Yaila is a vendor here. No Hara'ni form is attested |
+| The Cradle | /ˈkreɪdəl/ | /—/ | The place from which the Worldsoul (Aln'hara) was taken, forming the Rift of Aln. English name; no Hara'ni form is attested |
+| The Den | /ðə ˈdɛn/ | /—/ | Capital of Harandar; English name. Yaila is a vendor here. No Hara'ni form is attested |
 | Fungara Village | /ˈfʊŋɡɑːrə/ | *Fungara* | Village in Harandar. "Fungara" is a potential Hara'ni place name (no apostrophe; /ŋ/ + /ɡ/ medial cluster; *-a* ending). The name may derive from *fung-* (fungus/fungal) + *-ara* (a place suffix), reflecting Harandar's fungal ecology, or may be a Common compound ("fungus" + "ara"). **Confidence: Very Low** for genuine Hara'ni morpheme content |
-| The Cradle | — | Common | Location in Harandar where the Worldsoul originally rested before being moved. Common/English name |
-| Den of Echoes | — | Common | Subzone in Harandar. The "Echoes" element may connect to *Morta'ka the Sundered Echo*. Common/English name |
-| Warden's Retreat | — | Common | Location in the Blinding Vale where Lightwarden Ruia resides. Common/English name |
-| Har'alnor Den | — | *Har'alnor* + *Den* | Sub-dungeon/area attached to Har'alnor village |
-| Blinding Vale | — | Common | Midnight dungeon in Harandar. Contains the Lightblossom Trinity, Ikuzz the Light Hunter, Lightwarden Ruia, and Ziekket as bosses |
+| The Cradle | /—/ | Common | Location in Harandar where the Worldsoul originally rested before being moved. Common/English name |
+| Den of Echoes | /—/ | Common | Subzone in Harandar. The "Echoes" element may connect to *Morta'ka the Sundered Echo*. Common/English name |
+| Warden's Retreat | /—/ | Common | Location in the Blinding Vale where Lightwarden Ruia resides. Common/English name |
+| Har'alnor Den | /—/ | *Har'alnor* + *Den* | Sub-dungeon/area attached to Har'alnor village |
+| Blinding Vale | /—/ | Common | Midnight dungeon in Harandar. Contains the Lightblossom Trinity, Ikuzz the Light Hunter, Lightwarden Ruia, and Ziekket as bosses |
+| Gulf of Memory | /—/ | Common | Subzone and delve in Harandar. The "Memory" element parallels *Har'athir* (Village of Memory). Common/English name |
+| Maisara Caverns | /maɪˈsɑːrə/ | *Maisara* | Midnight dungeon in Zul'Aman zone; Witherbark trolls abducted by Vilebranch for soul-consumption rituals. "Maisara" is a potential Hara'ni or Zandali place name (no apostrophe; *-ara* ending; /s/ medial). Alternatively, it may be a Common compound. **Confidence: Very Low** for genuine Hara'ni or Zandali morpheme content. See also zandali/vocabulary.md |
+| Shrine of Ages | /—/ | Common | Subzone in Harandar. Common/English name |
+| Verdant Sepulcher | /—/ | Common | Subzone in Harandar. Common/English name |
+| Glade of Walking Memories | /—/ | Common | Subzone in Harandar. The "Memories" element parallels *Har'athir* (Village of Memory). Common/English name |
 
 ### Elun'Ahir (Speculative Connection)
 
 **Elun'Ahir** was the legendary first world tree on Azeroth, planted by Eonar from a branch of G'Hanir gifted by Elune. Aman'Thul tore its trunk from the earth, but the roots survived underground. The Haranir are speculated (warcraft.wiki.gg) to be the "mysterious guardians who dedicated their lives to protecting the roots" referenced in *The Legend of Elun'Ahir*. The name *Elun'Ahir* is elven (*Elun'* = Elune + *-Ahir*), not Hara'ni. However, the Haranir's protection of these roots in Azj-Kahet provides cultural context for their presence there. No Hara'ni vocabulary is found in the Elun'Ahir legend.
-| Gulf of Memory | — | Common | Subzone and delve in Harandar. The "Memory" element parallels *Har'athir* (Village of Memory). Common/English name |
-| Maisara Caverns | /maɪˈsɑːrə/ | *Maisara* | Midnight dungeon in Zul'Aman zone; Witherbark trolls abducted by Vilebranch for soul-consumption rituals. "Maisara" is a potential Hara'ni or Zandali place name (no apostrophe; *-ara* ending; /s/ medial). Alternatively, it may be a Common compound. **Confidence: Very Low** for genuine Hara'ni or Zandali morpheme content. See also zandali/vocabulary.md |
-| Shrine of Ages | — | Common | Subzone in Harandar. Common/English name |
-| Verdant Sepulcher | — | Common | Subzone in Harandar. Common/English name |
-| Glade of Walking Memories | — | Common | Subzone in Harandar. The "Memories" element parallels *Har'athir* (Village of Memory). Common/English name |
 
 ### Midnight Expansion: New Creatures (2026)
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
 | Gnarldin | /ˈnɑːrldɪn/ | *Gnarl-* + *-din* | Giant creature type in Harandar. The *Gnarl-* element parallels Elder *Gnarla* (/ˈnɑːrlə/) — if related, *Gnarl-* could be a Hara'ni root meaning "ancient/stone/earth." The *-din* element is unexplained. Alternatively, "Gnarldin" may be a Common compound (gnarl + din). **Confidence: Very Low** for genuine Hara'ni morpheme content |
-| Light Rutaani | — | Common + *Ruutani* | A Lightbloom-affected variant of the ruutani, attested in game data as IconSmall_LightRutaani.gif. The "Light" prefix is a Common/English descriptor — no Hara'ni word for "light" is attested. All Lightbloom-related terms (Lightbloom, Lightwarden, Blinding Vale) are Common-language designations. The icon naming convention follows Blizzard's pattern of prepending English descriptors to distinguish variants (cf. IconSmall_Haranir_Male.gif, IconSmall_LightRutaani.gif). If the Haranir have a native word for the Lightbloom or for "light" as a concept, it is unattested. **Confidence: High** that "Light Rutaani" is purely Common with no Hara'ni compound equivalent attested |
+| Light Rutaani | /—/ | Common + *Ruutani* | A Lightbloom-affected variant of the ruutani, attested in game data as IconSmall_LightRutaani.gif. The "Light" prefix is a Common/English descriptor — no Hara'ni word for "light" is attested. All Lightbloom-related terms (Lightbloom, Lightwarden, Blinding Vale) are Common-language designations. The icon naming convention follows Blizzard's pattern of prepending English descriptors to distinguish variants (cf. IconSmall_Haranir_Male.gif, IconSmall_LightRutaani.gif). If the Haranir have a native word for the Lightbloom or for "light" as a concept, it is unattested. **Confidence: High** that "Light Rutaani" is purely Common with no Hara'ni compound equivalent attested |
 
 ## 3. Cultural and Faction Names
 
@@ -156,7 +156,7 @@ The Harandar ruling body is the **Elders** (confirmed by warcraft.wiki.gg): Haga
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| Saptor | /ˈsæptɔːr/ | — | A plant type used by Haranir to wrap meals before steaming (saptor fronds). No clear Hara'ni morpheme decomposition; may be a native word for this plant |
+| Saptor | /ˈsæptɔːr/ | /—/ | A plant type used by Haranir to wrap meals before steaming (saptor fronds). No clear Hara'ni morpheme decomposition; may be a native word for this plant |
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
@@ -164,8 +164,8 @@ The Harandar ruling body is the **Elders** (confirmed by warcraft.wiki.gg): Haga
 | Hara'ni | /ˈhærəni/ | *Hara'* + *-ni* | The language name. Apostrophe-marked. The *-ni* suffix may be a language/people suffix (cf. *Hara'ni* vs. *Haranir*) |
 | Hara'ti | /ˈhærəti/ | *Hara'* + *-ti* | Faction/subgroup — confirmed by wiki as "the haranir tribe that inhabits Harandar." Apostrophe-marked. The *-ti* suffix may be a group/collective suffix. The earlier speculative gloss "those who heard the call" is superseded by the wiki's more precise definition |
 | Aln'hara | /ælnˈhɑːrə/ | *Aln'* + *-hara* | **The Worldsoul of Azeroth** (confirmed translation). The Haranir name for the nascent titan world-soul of Azeroth, whom they worship as their goddess. The Shul'ka sever their connection to Aln'hara's song to safely patrol the Rift of Aln. Previously described as "the call from deep within the world" — this is consistent: Aln'hara IS the call, the world-soul singing from deep within. The *-hara* element appears reversed from the *Hara-* root, but may instead reflect a distinct morpheme *-hara* = "song/voice" |
-| Grimlynx | — | Common compound | Haranir racial mount. English/Common name |
-| Alndust | — | *Aln-* + *-dust* | **Alndust is Azerite in particle form** (confirmed by warcraft.wiki.gg — "Alndust" redirects to "Azerite"). The wiki states: "Alndust, a particulate used by the haranir for their magic and said to have been created when the worldsoul was taken from her cradle in Harandar, is implied to be Azerite in particle form. Many spells related to Alndust use Azerite icons, and the graphics effects for things affected by Alndust have the same blue and yellow color scheme as Azerite." This dramatically recontextualizes *Alndust*: the Haranir name for Azerite dust is *Aln-* + *-dust*, where *Aln-* = the deep/source/rift and *-dust* describes its particulate form. The *Aln-* element matches *Aln'hara*, making this the **second attestation of the *Aln-* morpheme**. *Alndust* lacks the apostrophe found in *Aln'hara* — the /d/ after *Aln* may eliminate the need for a glottal stop marker (whereas *Aln'hara* needs one before the /h/). Cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess." **Confidence: Moderate** for *Aln-* as a genuine Hara'ni morpheme (now two attestations, plus Alndust = Azerite confirms *Aln-* refers to the Worldsoul's essence) |
+| Grimlynx | /—/ | Common compound | Haranir racial mount. English/Common name |
+| Alndust | /—/ | *Aln-* + *-dust* | **Alndust is Azerite in particle form** (confirmed by warcraft.wiki.gg — "Alndust" redirects to "Azerite"). The wiki states: "Alndust, a particulate used by the haranir for their magic and said to have been created when the worldsoul was taken from her cradle in Harandar, is implied to be Azerite in particle form. Many spells related to Alndust use Azerite icons, and the graphics effects for things affected by Alndust have the same blue and yellow color scheme as Azerite." This dramatically recontextualizes *Alndust*: the Haranir name for Azerite dust is *Aln-* + *-dust*, where *Aln-* = the deep/source/rift and *-dust* describes its particulate form. The *Aln-* element matches *Aln'hara*, making this the **second attestation of the *Aln-* morpheme**. *Alndust* lacks the apostrophe found in *Aln'hara* — the /d/ after *Aln* may eliminate the need for a glottal stop marker (whereas *Aln'hara* needs one before the /h/). Cures ruutani of the Lightbloom; "believed to have been blessed by the haranir's goddess." **Confidence: Moderate** for *Aln-* as a genuine Hara'ni morpheme (now two attestations, plus Alndust = Azerite confirms *Aln-* refers to the Worldsoul's essence) |
 | Shul'ka | /ʃʊlˈkɑː/ | *Shul'* + *-ka* | **Hunters of Shadows** (confirmed translation) — group of Haranir hunters, healers, and guides who sever their connection to the goddess (Aln'hara) to safely patrol the Rift of Aln. The wiki expands the Shul'ka's role beyond just "hunters" to include healing and guidance. **First confirmed Hara'ni translation with official gloss.** *Shul'* = "shadow" and *-ka* = "hunter(s)" is the most natural decomposition. Amarakk is a Shul'ka member who was mutated by the initiation ritual. In Midnight, the Shul'ka also hunt threats in the **Dreamrift** — a permeable veil between primordial dreams and reality — where they pursue **Chimaerus the Undreamt God** and battle "half-birthed abominations." **Shul'ka initiation ritual** (from warcraft.wiki.gg): Initiates must (1) collect poisonous glands from the Rift and water of Ahl'ua (which counters the poison), (2) consume both at a ritual site unique to each initiate, rendering them unconscious, (3) fight for their life while unconscious (manifestations of the rift may appear, stopped by wards), (4) upon awakening, they are freed from the Goddess's song. The ritual scars their spirit and changes them — Amarakk has been mutated since becoming Shul'ka. Shul'ka live in self-exile in the Rift, occasionally visited by friends/family. **Final rite**: Slay **Morta'ka the Sundered Echo** (takes years of preparation). En'liahn and Chua are confirmed Shul'ka members who appear together in dialogue |
 | Zur'ashar | /zʊrˈæʃɑːr/ | *Zur'* + *-ashar* | Order of painter-storytellers who paint records of history on the walls of Harandar. Their paintings can bring visions of history to life through Alndust. A named member is **Zur'ashar Shay'neia** (*Shay'* + *-neia*) |
 
@@ -175,11 +175,11 @@ The Harandar ruling body is the **Elders** (confirmed by warcraft.wiki.gg): Haga
 |------|-----|------|-------|
 | Shay'neia | /ʃeɪˈneɪə/ | Zur'ashar painter-storyteller | Apostrophe-marked compound: *Shay'* + *-neia*. The *-neia* ending parallels *Ney'leia* (*-leia*) and *On'hiea* (*-iea*). Under the final *-a* feminine suffix analysis: *Shay'ne* + *-ia* → *Shay'neia*, where *-ne* is part of the stem and *-ia/-a* is the feminine suffix. Alternatively, *Shay'* is the prefix and *-neia* is a single compound element. If *-neia* is decomposable as *-ne-* + *-ia*, then *-ne-* may be a separate morpheme (perhaps a participial or adjectival element). **See §5** for full *-ia* / *-neia* analysis |
 | Ka'dani | /kɑːˈdɑːni/ | *Ka'* + *-dani* | Order of elite hunters from Har'athir (Village of Memory). Apostrophe-marked compound. The *-dani* ending does not match *-nir*/*-ni*/*-ti* suffix set. Confirmed by quest 'A Hunter's Plight' (warcraft.wiki.gg/wiki/Hara'ni) |
-| Alnscorned | — | *Aln-* + *-scorned* | Broken nightmares that dwell in the Rift of Aln. Mixed Hara'ni-English compound; *-scorned* is Common |
-| Saptor | /ˈsæptɔːr/ | — | Plant species in Harandar; Haranir wrap meals in saptor fronds before steaming |
-| Envoy | — | Common title | Diplomatic title held by three Haranir (Habissi, Ir'ayi, Manat). Common-language designation, not a Hara'ni word. The existence of three Envoys suggests a significant diplomatic/intermediary role within Haranir society |
-| Leaf-Weaver | — | Common title | Cultural title held by Kulawah. Common-language designation, parallel to Greenspeaker and Thornspeaker. Suggests a tradition of weaving/crafting with plant materials |
-| Mothkeeper | — | Common title | Cultural title held by Wew'tam. Common-language designation. Suggests a tradition of caring for moths (possibly related to the Haranir's bat-like nature and subterranean habitat) |
+| Alnscorned | /—/ | *Aln-* + *-scorned* | Broken nightmares that dwell in the Rift of Aln. Mixed Hara'ni-English compound; *-scorned* is Common |
+| Saptor | /ˈsæptɔːr/ | /—/ | Plant species in Harandar; Haranir wrap meals in saptor fronds before steaming |
+| Envoy | /—/ | Common title | Diplomatic title held by three Haranir (Habissi, Ir'ayi, Manat). Common-language designation, not a Hara'ni word. The existence of three Envoys suggests a significant diplomatic/intermediary role within Haranir society |
+| Leaf-Weaver | /—/ | Common title | Cultural title held by Kulawah. Common-language designation, parallel to Greenspeaker and Thornspeaker. Suggests a tradition of weaving/crafting with plant materials |
+| Mothkeeper | /—/ | Common title | Cultural title held by Wew'tam. Common-language designation. Suggests a tradition of caring for moths (possibly related to the Haranir's bat-like nature and subterranean habitat) |
 
 ## 4. Attested Phrases
 
