@@ -41,13 +41,13 @@ Hallowfall is a vast underground cavern in Khaz Algar, settled by the Arathi exp
 | Name | IPA | Notes |
 |------|-----|-------|
 | Mereldar | /mɛˈrɛldɑːr/ | Arathi city in Hallowfall; *-dar* suffix may be Earthen substrate (see ../earthen/vocabulary.md §8) |
-| Light's Redoubt | — | Common compound |
-| Dunelle's Kindness | — | Arathi personal name (*Dunelle*) + Common possessive + Common noun |
-| Sina's Yearning | — | Arathi personal name (*Sina*) + Common possessive + Common noun |
-| Tanir's Ascent | — | Arathi personal name (*Tanir*) + Common possessive + Common noun |
-| Tenvir's Ascent | — | Arathi personal name (*Tenvir*) + Common possessive + Common noun |
-| The Orphanage | — | Common name; located in Mereldar |
-| Priory of the Sacred Flame | — | Common compound; Arathi religious site |
+| Light's Redoubt | /—/ | Common compound |
+| Dunelle's Kindness | /—/ | Arathi personal name (*Dunelle*) + Common possessive + Common noun |
+| Sina's Yearning | /—/ | Arathi personal name (*Sina*) + Common possessive + Common noun |
+| Tanir's Ascent | /—/ | Arathi personal name (*Tanir*) + Common possessive + Common noun |
+| Tenvir's Ascent | /—/ | Arathi personal name (*Tenvir*) + Common possessive + Common noun |
+| The Orphanage | /—/ | Common name; located in Mereldar |
+| Priory of the Sacred Flame | /—/ | Common compound; Arathi religious site |
 
 ### Hallowfall Geographic Features
 

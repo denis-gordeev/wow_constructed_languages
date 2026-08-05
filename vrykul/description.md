@@ -76,7 +76,7 @@ Vrykul possesses a runic writing system depicted on in-game standing stones, cav
 | Category | Count | Examples |
 |----------|-------|----------|
 | Attested phrases (with translations) | ~10+ | *Bjorns mottar haelgond sygar*, *Ymirjar*, *Valarjar*, *Drottinn*, *Skold*, *Hild* |
-| Attested proper names | 15+ | *Ymiron*, *Sylvie*, *Bjorn*, *Eyir*, *Helya*, *Odyn*, *Thorim*, etc. |
+| Attested proper names | 15+ | *Ymiron*, *Sigryn*, *Bjorn*, *Eyir*, *Helya*, *Odyn*, *Thorim*, etc. |
 | Confirmed morphemes | 0 | No Vrykul morpheme has independent canon confirmation |
 | Inferred morphemes | 5+ | *bjarn* (bear), *mottar* (mother), *-heim* (home/realm suffix), *-jar* (person/warrior suffix), *Drottinn* (lord/title) |
 | Morphemes from phrase analysis | 2 High, 3 Medium | *orm* (serpent, High), *kval* (torment, High), *fol-* (folk/people, Medium), *uul* (wolf, Medium), *na* (and/reduced nja, Medium) |

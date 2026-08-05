@@ -217,7 +217,7 @@
 
 | Morpheme | Inferred Meaning | Evidence | Old Norse Cognate | Confidence |
 |----------|-----------------|----------|-------------------|------------|
-| orm | Serpent / dragon / enemy | *Mjul orm agn gjor!* (Skadi); embedded in *Jormungar* | ormr (serpent, dragon) | High |
+| orm | Serpent / dragon / enemy | *Mjul orm agn gjor!* (Ingvar); embedded in *Jormungar* | ormr (serpent, dragon) | High |
 | kval | Torment / anguish | *Mjor na uul kval!* (Skadi the Ruthless) | kvál (torment, agony) | High |
 | fol- | Folk / people / army | *foln* (Haraak foln!), *Folvynn* (two independent phrases) | fólk (folk, people) | Medium |
 | uul | Wolf | *Mjor na uul kval!* (Skadi); independent from *buul* = "lair" (Investigation 2) | úlfr (wolf) | Medium |
@@ -329,7 +329,7 @@
 | Name | Description |
 |------|-------------|
 | Bloodwake | Vrykul clan |
-| Drust | Vrykul who settled Kul Tiras; became witch-focused culture | See [Drust vocabulary](../drust/vocabulary.md) for full Drust vocabulary |
+| Drust | Vrykul who settled Kul Tiras; became witch-focused culture. See [Drust vocabulary](../drust/vocabulary.md) |
 | Fleshrot | Vrykul group |
 
 ### The War Within
@@ -381,7 +381,7 @@ The War Within (2024) features vrykul primarily through the *Sturmvyn* clan name
 
 The vrykul are titan-forged (iron vrykul), and their language descends from Titan. Key shared features:
 - Place names with structural suffixes (-heim, -garde) parallel Titan facility naming (Uld- prefix)
-- The "Val-" root exists in both: Vrykul Val'kyr and Titan Val'anyr (both relate to "chosen/slaken")
+- The "Val-" root exists in both: Vrykul Val'kyr and Titan Val'anyr (both relate to "chosen/slain")
 - Structural complexity of compounds suggests a shared compounding tradition
 
 ### Vrykul — Dwarven Connection

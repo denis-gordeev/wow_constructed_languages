@@ -10,9 +10,9 @@ Based on attested Pandaren proper names:
 
 | | Bilabial | Alveolar | Postalveolar | Velar | Glottal |
 |---|---|---|---|---|---|
-| Stops | p | t d | | k g | |
+| Stops | p | t d | | k ɡ | |
 | Affricates | | | tʃ dʒ | | |
-| Fricatives | | s | ʃ | | |
+| Fricatives | | s z | ʃ | | |
 | Nasals | m | n | | | |
 | Approximants | | ɾ | j | | |
 | Laterals | | l | | | |
