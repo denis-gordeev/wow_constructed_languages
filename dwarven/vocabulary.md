@@ -118,8 +118,8 @@ Dwarves descend from the Earthen, titan-forged beings created by Khaz'goroth. Th
 | Khaz Algar | /kæz ˈælgɑːr/ | *Khaz-* (forge/craft) + *Algar* (uncertain) | The subterranean continent named after the Titan Khaz'goroth. The *Khaz-* element confirms this as a Titan-derived toponym, parallel to *Khaz Modan* (Mountain of Khaz). *Algar* may mean "deep" or "below" or may be a proper name. |
 | Isle of Dorn | /dɔːrn/ | *Dorn-* possibly related to Titan *-dor* (land) | Surface zone. *Dorn* / *Dor-n* could be *-dor* + *-n* suffix. Named after Watcher Dornic. |
 | Dornogal | /ˈdɔːrnəɡɑːl/ | *Dorn-* + *-ogal* (?) | Earthen capital city, named in honor of watchers Dornic and Galan. *Dorn-* may be the same root as "Isle of Dorn." *-ogal* may incorporate *-gal* from Watcher *Galan*. |
-| Ringing Deeps | — | Common/English name | Underground zone. |
-| Hallowfall | — | Common/English name | Underground cavern zone. |
+| Ringing Deeps | /—/ | Common/English name | Underground zone. |
+| Hallowfall | /—/ | Common/English name | Underground cavern zone. |
 | Gundargaz | /ˈɡʊndɑːrɡæz/ | *Gun-* + *-dar-* + *-gaz* (?) | Machine Speakers settlement. The *-dar-* element in medial position may reflect *-dor* (land/realm). *-gaz* appears in 4 Khaz Algar toponyms. |
 | Dhar Oztan | /dɑːr ˈɒztæn/ | *Dhar-* + *Oztan* | Mountain where first stormrooks were summoned. *Dhar-* = potential Earthen place prefix. |
 | Dhar Kazhad | /dɑːr kæzˈhæd/ | *Dhar-* + *Kazhad* | *Kazhad* may contain *Kaz-* (forge) + *-had*. |
@@ -129,8 +129,8 @@ Dwarves descend from the Earthen, titan-forged beings created by Khaz'goroth. Th
 | Taelloch | /ˈteɪlɒx/ | Uncertain | *-loch* element parallels *Loch Modan*. |
 | Nibelgaz | /ˈnɪbɛlɡæz/ | *Nibel-* + *-gaz* | Mine name; *-gaz* appears in 4 toponyms. |
 | Thraegar Rest | /ˈθreɪɡɑːr/ | *Thraegar* + Common *Rest* | District in Dornogal named after crystallized Earthen variant. |
-| Deepforge Golemworks | — | Common/English compound | Abandoned war golem facility. |
-| Coreway | — | Common/English compound | Large access tunnel connecting surface to underground. |
+| Deepforge Golemworks | /—/ | Common/English compound | Abandoned war golem facility. |
+| Coreway | /—/ | Common/English compound | Large access tunnel connecting surface to underground. |
 
 ### Earthen Personal Names (The War Within)
 
@@ -147,10 +147,10 @@ Dwarves descend from the Earthen, titan-forged beings created by Khaz'goroth. Th
 
 | Name | IPA | Notes |
 |------|-----|-------|
-| Stormriders | — | English designation; military earthen who ride stormrooks |
-| Oathsworn | — | English designation; earthen who follow Titan edicts |
-| Unbound | — | English designation; earthen who reject Titan edicts |
-| Machine Speakers | — | English designation; earthen who maintain ancient machinery |
+| Stormriders | /—/ | English designation; military earthen who ride stormrooks |
+| Oathsworn | /—/ | English designation; earthen who follow Titan edicts |
+| Unbound | /—/ | English designation; earthen who reject Titan edicts |
+| Machine Speakers | /—/ | English designation; earthen who maintain ancient machinery |
 | Skardyn | /ˈskɑːrdɪn/ | Earthen corrupted by void magic; the *Skar-* element may relate to Vrykul *Skar-* (cf. *Skarvald*, *Voldskar*) |
 
 ### Key Linguistic Observations from The War Within

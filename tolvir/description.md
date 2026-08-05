@@ -66,7 +66,7 @@ Tol'vir culture is heavily inspired by ancient Egypt, reflected in their languag
 - **Ancient Egyptian-inspired phonology**: Tol'vir names echo Egyptian phonotactics — aspirated stops, back consonants, and vowel patterns reminiscent of transliterated Egyptian (e.g., *Phaoris*, *Tekahn*, *Nahkotep*, *Ammunae*, *Ninjter*).
 - **Apostrophe**: Marks morpheme boundaries or glottal stops in some words (*Al'burq*, *Alra'ed*, *Vir'naal*, *Vir'sar*, *Mar'at*). May indicate a prefix or compound element.
 - **Initial aspirated stops**: Names like *Tebhotep*, *Tekahn*, *Tahret* suggest a preference for initial /tʰ/ or /th/.
-- **-et/-ep endings**: Several place names end in *-et* (*Akhenet*, *Khintaset*, *Amathet*, *Hamatep*, *Sahket*) or *-ep* (*Hamatep*), possibly a locative or nominal suffix.
+- **-et/-ep endings**: Several place names end in *-et* (*Akhenet*, *Khintaset*, *Amathet*, *Sahket*) or *-ep* (*Hamatep*), possibly a locative or nominal suffix.
 - **-en ending**: Several words end in *-en* (*Akhenet*, *Ankhaten*, *Ramkahen*), possibly a suffix meaning "place" or "settlement."
 - **Syllable structure**: Predominantly (C)V(C) with a tendency toward two- or three-syllable words. Final stress is common.
 - **Vowel inventory**: Full cardinal vowels /a e i o u/ are attested, with /a/ being the most frequent.
