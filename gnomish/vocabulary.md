@@ -9,8 +9,8 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Word | IPA | Gloss | Source / Notes |
 |------|-----|-------|----------------|
 | Gnomeregan | /ˈnoʊmərɛɡæn/ | (unknown; capital city name) | The gnomish capital, irradiated during the Third War. Likely contains *Gnome*/*Gnom-* as a root. |
-| Tinkertown | — | (Common-language name) | Gnomish district in Ironforge. Not Gnomish. |
-| New Tinkertown | — | (Common-language name) | Gnomish exile settlement in Dun Morogh. Not Gnomish. |
+| Tinkertown | /—/ | (Common-language name) | Gnomish district in Ironforge. Not Gnomish. |
+| New Tinkertown | /—/ | (Common-language name) | Gnomish exile settlement in Dun Morogh. Not Gnomish. |
 
 ## Proper Names (Beings — Notable Gnomes)
 
@@ -18,20 +18,20 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 |------|-----|---------|-------|
 | Gelbin Mekkatorque | /ˈɡɛlbɪn ˈmɛkətɔːrk/ | High Tinker of the gnomes | "Mekkatorque" may contain *mekka-* (cf. Mechagnome) as a Gnomish morpheme; "torque" may be a separate element |
 | Sicco Thermaplugg | /ˈsɪkoʊ ˈθɜːrməplʌɡ/ | Traitor who caused the fall of Gnomeregan | Title "Mekgineer" contains *Mek-* variant; "Thermaplugg" may contain *Therm-* element (heat?) + *-aplugg* |
-| Milli Featherwhistle | — | NPC | Common-language surname |
-| Oglethorpe Obnoticus | — | NPC | Possibly Gnomish-influenced given name; Common surname |
-| Gnomercy | — | NPC/pun | English pun on "no mercy"; not Gnomish |
-| Evol Fingers | — | NPC | "Evol" = "love" reversed; not Gnomish |
-| Fizzle Brassbolts | — | NPC | Common-language name |
+| Milli Featherwhistle | /—/ | NPC | Common-language surname |
+| Oglethorpe Obnoticus | /—/ | NPC | Possibly Gnomish-influenced given name; Common surname |
+| Gnomercy | /—/ | NPC/pun | English pun on "no mercy"; not Gnomish |
+| Evol Fingers | /—/ | NPC | "Evol" = "love" reversed; not Gnomish |
+| Fizzle Brassbolts | /—/ | NPC | Common-language name |
 | Carinda | /kəˈrɪndə/ | NPC | Possibly Gnomish-influenced name |
-| Razzle Sprysprocket | — | NPC | Common-language compound name |
+| Razzle Sprysprocket | /—/ | NPC | Common-language compound name |
 | Spark | /spɑːrk/ | NPC | Possibly a Common word used as a name; may reflect Gnomish phonological preference for initial clusters |
-| Tinkmaster Overspark | — | NPC | Common-language title |
+| Tinkmaster Overspark | /—/ | NPC | Common-language title |
 | Captain Krazz | /kræz/ | Mechagon NPC | "Krazz" may reflect Gnomish phonological preference for initial Kr- clusters and final -azz pattern; possibly Gnomish-influenced |
 | Bondo | /ˈbɒndoʊ/ | Mechagon NPC (Bondo's Yard) | Single-element name; may reflect Gnomish phonological preference for CVCV pattern with final /oʊ/ |
 | Rinling | /ˈrɪnlɪŋ/ | Mechagon NPC | Possibly Gnomish-influenced; -ling suffix may be Common diminutive |
-| Recycler Kerchunk | — | Mechagon NPC | Common-language compound |
-| Rocket-Chief Fuselage | — | Mechagon NPC | Common-language title |
+| Recycler Kerchunk | /—/ | Mechagon NPC | Common-language compound |
+| Rocket-Chief Fuselage | /—/ | Mechagon NPC | Common-language title |
 
 ## Proper Names (Beings — Mechagnomes)
 
@@ -39,15 +39,15 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 |------|-----|---------|-------|
 | King Mechagon | /ˈmɛkəɡɒn/ | Last king of the mechagnomes | Contains *Mech-*/*Meka-* element; "-agon" may be a title or place suffix |
 | Prince Erazmin | /ˈɛræzmɪn/ | Mechagnome prince, leader of the Rustbolt Resistance | No clear morpheme decomposition; *Eraz-* element unclear; *-min* may be a suffix |
-| Christy Punchcog | — | Mechagnome NPC | Common-language name |
-| Flip Quickcharge | — | Mechagnome NPC | Common-language name |
-| Kelsey Steelspark | — | Mechagnome NPC | Common-language name |
-| Pascal-R01 | — | Mechagnome NPC | Designation, not a name |
-| Cork Stuttguard | — | Mechagnome NPC | Common-language name |
-| Waren Gearhart | — | Mechagnome NPC | Common-language name |
+| Christy Punchcog | /—/ | Mechagnome NPC | Common-language name |
+| Flip Quickcharge | /—/ | Mechagnome NPC | Common-language name |
+| Kelsey Steelspark | /—/ | Mechagnome NPC | Common-language name |
+| Pascal-R01 | /—/ | Mechagnome NPC | Designation, not a name |
+| Cork Stuttguard | /—/ | Mechagnome NPC | Common-language name |
+| Waren Gearhart | /—/ | Mechagnome NPC | Common-language name |
 | Bolt | /boʊlt/ | Mechagnome NPC | Possibly a Common word used as name; may reflect Gnomish phonological preference |
 | Mekgineer Thermaplugg | /ˈmɛkdʒɪnɪər ˈθɜːrməplʌɡ/ | Title of Sicco Thermaplugg | *Mekgineer* = *Mek-* + *gineer* (engineer?); the *Mek-* variant of *Mech-* appears in this title and in *Mekkatorque* |
-| Advance Scout Jo | — | Mechagnome NPC | Common-language name |
+| Advance Scout Jo | /—/ | Mechagnome NPC | Common-language name |
 | Qip | /kwɪp/ | Mechagnome NPC | Short single-element name; may reflect Gnomish phonological preference for monosyllabic names with complex codas |
 
 ## Proper Names (Places — Gnomeregan Area)
@@ -55,24 +55,24 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Name | IPA | Description | Notes |
 |------|-----|-------------|-------|
 | Gnomeregan | /ˈnoʊmərɛɡæn/ | Gnomish capital city | Irradiated; now a dungeon. Likely Gnomish-language name. |
-| Gnomeregan Ironforge Station | — | Deeprun Tram station | Compound of Gnomish + Common elements |
-| New Tinkertown | — | Exile settlement | Common-language name |
-| Frostmane Hold | — | Troll hold in Gnomeregan area | Not Gnomish |
+| Gnomeregan Ironforge Station | /—/ | Deeprun Tram station | Compound of Gnomish + Common elements |
+| New Tinkertown | /—/ | Exile settlement | Common-language name |
+| Frostmane Hold | /—/ | Troll hold in Gnomeregan area | Not Gnomish |
 
 ## Proper Names (Places — Mechagon Island)
 
 | Name | IPA | Description | Notes |
 |------|-----|-------------|-------|
 | Mechagon | /ˈmɛkəɡɒn/ | Island and city | The mechagnome kingdom; contains *Mech-* element |
-| Mechagon City | — | Underground city | King Mechagon's capital |
+| Mechagon City | /—/ | Underground city | King Mechagon's capital |
 | Rustbolt | /ˈrʌstboʊlt/ | Mechagnome town | Common-language name; resistance headquarters |
-| The Heap | — | Junkyard area | Common-language name |
-| Sparkweaver Point | — | Area on Mechagon | Common-language name |
-| Bondo's Yard | — | Area on Mechagon | Common-language name |
-| Scrapyard Den | — | Area on Mechagon | Common-language name |
-| Outflow | — | Area on Mechagon | Common-language name |
-| The Hollow | — | Area on Mechagon | Common-language name |
-| Armstrout's Camp | — | Area on Mechagon | Common-language name |
+| The Heap | /—/ | Junkyard area | Common-language name |
+| Sparkweaver Point | /—/ | Area on Mechagon | Common-language name |
+| Bondo's Yard | /—/ | Area on Mechagon | Common-language name |
+| Scrapyard Den | /—/ | Area on Mechagon | Common-language name |
+| Outflow | /—/ | Area on Mechagon | Common-language name |
+| The Hollow | /—/ | Area on Mechagon | Common-language name |
+| Armstrout's Camp | /—/ | Area on Mechagon | Common-language name |
 | Zapjack | /ˈzæpdʒæk/ | Area on Mechagon | Possibly Gnomish-influenced; *Zap-* may reflect electrical/mechanical vocabulary |
 | Zapslaw | /ˈzæpslɔː/ | Area near Mechagon | Possibly Gnomish-influenced; shares *Zap-* element with Zapjack |
 
@@ -97,9 +97,9 @@ The following goblin names are from the *Undermine(d)* campaign in *The War With
 |------|-----|-------------|-------|
 | Undermine | /ˈʌndərmaɪn/ | Goblin capital city | Common-language name. Not Gnomish/Goblin-language. |
 | Gallagio | /ˌɡæləˈdʒiːoʊ/ | Gallywix's personal casino | Potentially Gnomish/Goblin-influenced. May be a portmanteau of *Gally-* (from *Gallywix*) + Italian *-aggio* or a goblin place suffix *-gio*. The *-gio* / *-agio* ending is unique among attested goblin place names and may preserve a genuine morpheme. |
-| Opportunity Point | — | Goblin settlement in Khaz Algar | Common-language name. Not Gnomish/Goblin. |
-| Incontinental Hotel | — | Hotel in Undermine | English pun; not Gnomish/Goblin. |
-| Siren Isle | — | Island discovered during Lingering Shadows campaign | Common-language name. Contains a singing crystal that drew goblins, earthen, and Arathi expeditions. A titan-forged vault on the island revealed its history. Not Gnomish/Goblin. |
+| Opportunity Point | /—/ | Goblin settlement in Khaz Algar | Common-language name. Not Gnomish/Goblin. |
+| Incontinental Hotel | /—/ | Hotel in Undermine | English pun; not Gnomish/Goblin. |
+| Siren Isle | /—/ | Island discovered during Lingering Shadows campaign | Common-language name. Contains a singing crystal that drew goblins, earthen, and Arathi expeditions. A titan-forged vault on the island revealed its history. Not Gnomish/Goblin. |
 
 ## Goblin Cartel Names
 
@@ -173,8 +173,8 @@ The *Galla-* / *Gally-* element may genuinely derive from *Gallywix* as a person
 | Name | IPA | Description | Notes |
 |------|-----|-------------|-------|
 | Mechagon | /ˈmɛkəɡɒn/ | Titan facility / mechagnome city | Created by Keeper Mimiron. The *Mech-* prefix may be Titan in origin, related to *Mimiron* and the concept of mechanical creation. |
-| The Chamber of the Guardian | — | Titan facility | Common-language name |
-| Storm Peaks mechagnome ruins | — | Various | No Gnomish-language names attested |
+| The Chamber of the Guardian | /—/ | Titan facility | Common-language name |
+| Storm Peaks mechagnome ruins | /—/ | Various | No Gnomish-language names attested |
 
 ## Titles and Ranks
 

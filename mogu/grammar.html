@@ -9,6 +9,7 @@ body { font-family: "Noto Serif", "Times New Roman", serif; max-width: 960px; ma
 h1 { border-bottom: 2px solid #2e7d32; padding-bottom: 0.3em; }
 h2 { color: #2e7d32; margin-top: 2em; }
 h3 { color: #2e7d32; margin-top: 1.5em; }
+  h4 { color: #2e7d32; margin-top: 1.2em; }
 table { border-collapse: collapse; width: 100%; margin: 1em 0; }
 th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
 th { background: #e8f5e9; font-weight: bold; }
@@ -16,14 +17,15 @@ tr:nth-child(even) { background: #f9fdf9; }
 .ipa { font-family: "DejaVu Sans", "Gentium Plus", "Lucida Sans Unicode", serif; }
 .uncertain { color: #888; font-style: italic; }
 .inferred { color: #a0522d; }
+.high { color: #2e7d32; font-weight: bold; }
 .new { background: #fffde7; }
 .note { background: #fffde7; border-left: 3px solid #f0c040; padding: 0.5em 1em; margin: 1em 0; }
 nav { background: #e8f5e9; padding: 0.5em 1em; border-radius: 4px; margin-bottom: 2em; }
 nav a { margin-right: 1em; }
 a { color: #2e7d32; }
-  a:hover { color: #1b5e20; }
-  .warning { color: #b71c1c; font-style: italic; }
-  .shared { color: #1565c0; }
+a:hover { color: #1b5e20; }
+.warning { color: #b71c1c; font-style: italic; }
+.shared { color: #1565c0; }
 </style>
 </head>
 <body>
@@ -104,14 +106,14 @@ a { color: #2e7d32; }
 <tr><th>Mogu Name</th><th>English Epithet</th><th><span class="inferred">Inferred Meaning &rarr; Epithet</span></th></tr>
 </thead>
 <tbody>
-<tr><td><em>Qiang</em></td><td>the Merciless</td><td class="inferred">"strong/ruthless" &rarr; "the Merciless"</td></tr>
-<tr><td><em>Zian</em></td><td>of the Endless Shadow</td><td class="inferred">"shadow/dark" &rarr; "of the Endless Shadow"</td></tr>
-<tr><td><em>Meng</em></td><td>the Demented</td><td class="inferred">"mad/fierce" &rarr; "the Demented"</td></tr>
-<tr><td><em>Xin</em></td><td>the Weaponmaster</td><td class="inferred">"weapon/blade" &rarr; "the Weaponmaster"</td></tr>
-<tr><td><em>Feng</em></td><td>the Accursed</td><td class="inferred">"accursed" &rarr; "the Accursed"</td></tr>
-<tr><td><em>Kuai</em></td><td>the Brigand</td><td class="inferred">"brigand/swift" &rarr; "the Brigand"</td></tr>
-<tr><td><em>Hai</em></td><td>the Unbreakable</td><td class="inferred">"unbreakable" &rarr; "the Unbreakable"</td></tr>
-<tr><td><em>Ming</em></td><td>the Cunning</td><td class="inferred">"bright/cunning" &rarr; "the Cunning"</td></tr>
+<tr><td><em>Qiang</em></td><td>the Merciless</td><td class="inferred">&asymp; "strong/ruthless" &rarr; "the Merciless"</td></tr>
+<tr><td><em>Zian</em></td><td>of the Endless Shadow</td><td class="inferred">&asymp; "shadow/dark" &rarr; "of the Endless Shadow"</td></tr>
+<tr><td><em>Meng</em></td><td>the Demented</td><td class="inferred">&asymp; "mad/fierce" &rarr; "the Demented"</td></tr>
+<tr><td><em>Xin</em></td><td>the Weaponmaster</td><td class="inferred">&asymp; "weapon/blade" &rarr; "the Weaponmaster"</td></tr>
+<tr><td><em>Feng</em></td><td>the Accursed</td><td class="inferred">&asymp; "accursed" &rarr; "the Accursed"</td></tr>
+<tr><td><em>Kuai</em></td><td>the Brigand</td><td class="inferred">&asymp; "brigand/swift" &rarr; "the Brigand"</td></tr>
+<tr><td><em>Hai</em></td><td>the Unbreakable</td><td class="inferred">&asymp; "unbreakable" &rarr; "the Unbreakable"</td></tr>
+<tr><td><em>Ming</em></td><td>the Cunning</td><td class="inferred">&asymp; "bright/cunning" &rarr; "the Cunning"</td></tr>
 </tbody>
 </table>
 
@@ -249,10 +251,10 @@ a { color: #2e7d32; }
 <tr><th>Feature</th><th>Confidence</th><th>Reason</th></tr>
 </thead>
 <tbody>
-<tr><td>Compounding in place names</td><td>High</td><td>Transparent in <em>Mogu'shan</em>, <em>Shan'ze Dao</em></td></tr>
-<tr><td><em>lei</em> = "thunder"</td><td>High</td><td>Supported by <em>Lei Shen</em> = "Thunder King" + Chinese 雷神</td></tr>
-<tr><td><em>shen</em> = "god/deity/ruler"</td><td>High</td><td>Supported by <em>Lei Shen</em> = "Thunder King" + Chinese 雷神 + Shen dynasty</td></tr>
-<tr><td><em>shan</em> = "mountain"</td><td>High</td><td>Supported by <em>Mogu'shan</em> place names + Chinese 魔古山</td></tr>
+<tr><td>Compounding in place names</td><td class="high">High</td><td>Transparent in <em>Mogu'shan</em>, <em>Shan'ze Dao</em></td></tr>
+<tr><td><em>lei</em> = "thunder"</td><td class="high">High</td><td>Supported by <em>Lei Shen</em> = "Thunder King" + Chinese 雷神</td></tr>
+<tr><td><em>shen</em> = "god/deity/ruler"</td><td class="high">High</td><td>Supported by <em>Lei Shen</em> = "Thunder King" + Chinese 雷神 + Shen dynasty</td></tr>
+<tr><td><em>shan</em> = "mountain"</td><td class="high">High</td><td>Supported by <em>Mogu'shan</em> place names + Chinese 魔古山</td></tr>
 <tr><td>Name-epithet correspondence</td><td class="uncertain">Low&ndash;Medium</td><td>Pattern is consistent across 8 names but not confirmed</td></tr>
 <tr><td><em>xi</em> = "emperor/ruler" suffix</td><td class="uncertain">Low</td><td>Only two attestations (<em>Qin-xi</em>, <em>Jan-xi</em>) + encounter name "Will of the Emperor"</td></tr>
 <tr><td><em>ani</em> = clan suffix</td><td class="uncertain">Low</td><td>Only two attestations (<em>Dokani</em>, <em>Rajani</em>)</td></tr>
@@ -277,14 +279,14 @@ a { color: #2e7d32; }
 <tr><th>Name</th><th>English Epithet</th><th>Chinese Character</th><th>Chinese Pinyin</th><th>Chinese Gloss</th><th>Semantic Match to Epithet?</th></tr>
 </thead>
 <tbody>
-<tr><td>Qiang</td><td>the Merciless</td><td>强</td><td>qiáng</td><td>"strong, powerful"</td><td>Strong → merciless: plausible extension</td></tr>
+<tr><td>Qiang</td><td>the Merciless</td><td>强</td><td>qiáng</td><td>"strong, powerful"</td><td>Strong &rarr; merciless: plausible extension</td></tr>
 <tr><td>Zian</td><td>of the Endless Shadow</td><td>?</td><td>?</td><td>(no clear Chinese equivalent)</td><td>N/A</td></tr>
-<tr><td>Meng</td><td>the Demented</td><td>猛</td><td>měng</td><td>"fierce, violent"</td><td>Fierce → demented: partial (both imply intensity/violence)</td></tr>
-<tr><td>Xin</td><td>the Weaponmaster</td><td>心</td><td>xīn</td><td>"heart, mind"</td><td>Heart/mind → weaponmaster: weak (tactical mind?)</td></tr>
-<tr><td>Feng</td><td>the Accursed</td><td>风</td><td>fēng</td><td>"wind"</td><td>Wind → accursed: no semantic connection</td></tr>
-<tr><td>Kuai</td><td>the Brigand</td><td>快</td><td>kuài</td><td>"fast, swift"</td><td>Swift → brigand: weak (brigands must be swift?)</td></tr>
-<tr><td>Hai</td><td>the Unbreakable</td><td>海</td><td>hǎi</td><td>"sea, ocean"</td><td>Sea → unbreakable: metaphorical (the sea is relentless)</td></tr>
-<tr><td>Ming</td><td>the Cunning</td><td>明</td><td>míng</td><td>"bright, clear"</td><td>Bright → cunning: partial (bright → clever is a common semantic extension)</td></tr>
+<tr><td>Meng</td><td>the Demented</td><td>猛</td><td>měng</td><td>"fierce, violent"</td><td>Fierce &rarr; demented: partial (both imply intensity/violence)</td></tr>
+<tr><td>Xin</td><td>the Weaponmaster</td><td>心</td><td>xīn</td><td>"heart, mind"</td><td>Heart/mind &rarr; weaponmaster: weak (tactical mind?)</td></tr>
+<tr><td>Feng</td><td>the Accursed</td><td>风</td><td>fēng</td><td>"wind"</td><td>Wind &rarr; accursed: no semantic connection</td></tr>
+<tr><td>Kuai</td><td>the Brigand</td><td>快</td><td>kuài</td><td>"fast, swift"</td><td>Swift &rarr; brigand: weak (brigands must be swift?)</td></tr>
+<tr><td>Hai</td><td>the Unbreakable</td><td>海</td><td>hǎi</td><td>"sea, ocean"</td><td>Sea &rarr; unbreakable: metaphorical (the sea is relentless)</td></tr>
+<tr><td>Ming</td><td>the Cunning</td><td>明</td><td>míng</td><td>"bright, clear"</td><td>Bright &rarr; cunning: partial (bright &rarr; clever is a common semantic extension)</td></tr>
 </tbody>
 </table>
 
@@ -293,11 +295,11 @@ a { color: #2e7d32; }
 <p><strong>Three tiers of correspondence:</strong></p>
 
 <ol>
-<li><strong>Strong matches (Chinese gloss → epithet is a plausible semantic extension):</strong> <em>Qiang</em> (strong → merciless), <em>Meng</em> (fierce → demented), <em>Ming</em> (bright → cunning). These three names have Chinese equivalents that map naturally onto their English epithets through well-attested semantic shifts: power → cruelty, ferocity → madness, intelligence → cunning.</li>
+<li><strong>Strong matches (Chinese gloss &rarr; epithet is a plausible semantic extension):</strong> <em>Qiang</em> (strong &rarr; merciless), <em>Meng</em> (fierce &rarr; demented), <em>Ming</em> (bright &rarr; cunning). These three names have Chinese equivalents that map naturally onto their English epithets through well-attested semantic shifts: power &rarr; cruelty, ferocity &rarr; madness, intelligence &rarr; cunning.</li>
 
-<li><strong>Weak/poetic matches (Chinese gloss → epithet requires metaphorical leap):</strong> <em>Hai</em> (sea → unbreakable), <em>Kuai</em> (swift → brigand). These require a secondary association: the sea as relentless/invincible, or speed as a brigand's attribute.</li>
+<li><strong>Weak/poetic matches (Chinese gloss &rarr; epithet requires metaphorical leap):</strong> <em>Hai</em> (sea &rarr; unbreakable), <em>Kuai</em> (swift &rarr; brigand). These require a secondary association: the sea as relentless/invincible, or speed as a brigand's attribute.</li>
 
-<li><strong>No match / unmatchable:</strong> <em>Feng</em> (wind → accursed), <em>Xin</em> (heart/mind → weaponmaster). These names show a clear mismatch between the Chinese character meaning and the English epithet. <em>Feng</em> is particularly striking: 风 = "wind" has no semantic connection to "accursed," and the English epithet suggests a meaning closer to 封 (fēng = "to seal/confine") or 疯 (fēng = "mad/crazy").</li>
+<li><strong>No match / unmatchable:</strong> <em>Feng</em> (wind &rarr; accursed), <em>Xin</em> (heart/mind &rarr; weaponmaster). These names show a clear mismatch between the Chinese character meaning and the English epithet. <em>Feng</em> is particularly striking: 风 = "wind" has no semantic connection to "accursed," and the English epithet suggests a meaning closer to 封 (fēng = "to seal/confine") or 疯 (fēng = "mad/crazy").</li>
 </ol>
 
 <h3 id="investigation-1-hypotheses">Hypotheses</h3>
@@ -315,7 +317,7 @@ a { color: #2e7d32; }
 <tr><th>Hypothesis</th><th>Plausibility</th><th>Notes</th></tr>
 </thead>
 <tbody>
-<tr><td>A: All names from Chinese, epithets adapted</td><td class="uncertain">Low&ndash;Medium</td><td>Cannot explain <em>Feng</em> (wind → accursed) and <em>Xin</em> (heart → weaponmaster) mismatches</td></tr>
+<tr><td>A: All names from Chinese, epithets adapted</td><td class="uncertain">Low&ndash;Medium</td><td>Cannot explain <em>Feng</em> (wind &rarr; accursed) and <em>Xin</em> (heart &rarr; weaponmaster) mismatches</td></tr>
 <tr><td>B: Independent design, coincidental matches</td><td>Medium</td><td>Explains mismatches but underestimates the strength of the <em>Lei Shen</em> Chinese model</td></tr>
 <tr><td>C: Mixed — some from Chinese, some aesthetic</td><td><strong>Medium&ndash;High</strong></td><td>Best accounts for the three-tier pattern; consistent with Blizzard's typical design process</td></tr>
 </tbody>
@@ -365,8 +367,8 @@ a { color: #2e7d32; }
 
 <p><strong>3. Phonological distinction (vowel boundary vs. consonant boundary):</strong></p>
 <ul>
-<li>Apostrophe boundaries: <em>Mogu'shan</em> (vowel → consonant: <span class="ipa">/uː/</span> → <span class="ipa">/ʃ/</span>), <em>Shan'ze</em> (consonant → consonant: <span class="ipa">/n/</span> → <span class="ipa">/z/</span>), <em>Lu'lin</em> (vowel → consonant: <span class="ipa">/uː/</span> → <span class="ipa">/l/</span>)</li>
-<li>Hyphen boundaries: <em>Qin-xi</em> (consonant → consonant: <span class="ipa">/n/</span> → <span class="ipa">/ʃ/</span>), <em>Jan-xi</em> (consonant → consonant: <span class="ipa">/n/</span> → <span class="ipa">/ʃ/</span>), <em>Zan-Tien</em> (consonant → consonant: <span class="ipa">/n/</span> → <span class="ipa">/t/</span>)</li>
+<li>Apostrophe boundaries: <em>Mogu'shan</em> (vowel &rarr; consonant: <span class="ipa">/uː/</span> &rarr; <span class="ipa">/ʃ/</span>), <em>Shan'ze</em> (consonant &rarr; consonant: <span class="ipa">/n/</span> &rarr; <span class="ipa">/z/</span>), <em>Lu'lin</em> (vowel &rarr; consonant: <span class="ipa">/uː/</span> &rarr; <span class="ipa">/l/</span>)</li>
+<li>Hyphen boundaries: <em>Qin-xi</em> (consonant &rarr; consonant: <span class="ipa">/n/</span> &rarr; <span class="ipa">/ʃ/</span>), <em>Jan-xi</em> (consonant &rarr; consonant: <span class="ipa">/n/</span> &rarr; <span class="ipa">/ʃ/</span>), <em>Zan-Tien</em> (consonant &rarr; consonant: <span class="ipa">/n/</span> &rarr; <span class="ipa">/t/</span>)</li>
 <li>No consistent phonological pattern distinguishes the two marks.</li>
 </ul>
 
@@ -379,7 +381,7 @@ a { color: #2e7d32; }
 
 <p><strong>5. Compound tightness (fused vs. transparent):</strong></p>
 <ul>
-<li>Apostrophe may mark tighter, more fused compounds where the morpheme boundary is less transparent phonologically (<em>Mogu'shan</em> → <span class="ipa">/moʊˈɡuːʃɑn/</span> with stress shift)</li>
+<li>Apostrophe may mark tighter, more fused compounds where the morpheme boundary is less transparent phonologically (<em>Mogu'shan</em> &rarr; <span class="ipa">/moʊˈɡuːʃɑn/</span> with stress shift)</li>
 <li>Hyphen may mark looser, more transparent compounds where each element retains independent stress (<em>Qin-xi</em>, <em>Jan-xi</em>)</li>
 <li>This is the most promising hypothesis: the apostrophe marks compounds that have undergone phonological fusion (the boundary may involve elision or stress shift), while the hyphen marks compounds that remain morphologically transparent with clear boundaries.</li>
 </ul>

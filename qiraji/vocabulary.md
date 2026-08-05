@@ -15,9 +15,9 @@ The Qiraji are an insectoid race descended from the Aqir, created by the Old God
 | Kurinnaxx | /ˈkʊrɪnæks/ | Qiraji boss | *-naxx* ending; parallels nerubian *Ovi'nax* (*-nax*). If *-naxx* = *-nax* with geminate, this strengthens the shared suffix hypothesis. |
 | Ossirian | /ˈɒsiːriən/ | Qiraji boss (the Unscarred) | Egyptian-inspired name (cf. Osiris); no apostrophe. |
 | Moam | /moʊm/ | Qiraji construct boss | Short name; uncertain etymology. May be onomatopoeic. |
-| Buru the Gorager | — | Qiraji boss | English epithet; no qiraji-language name known. |
-| Ayamiss the Hunter | — | Qiraji boss | English epithet; no qiraji-language name known. |
-| Swarmguard | — | Qiraji rank designation | English compound. |
+| Buru the Gorager | /—/ | Qiraji boss | English epithet; no qiraji-language name known. |
+| Ayamiss the Hunter | /—/ | Qiraji boss | English epithet; no qiraji-language name known. |
+| Swarmguard | /—/ | Qiraji rank designation | English compound. |
 
 ### Gates of Ahn'qiraj Event NPCs (Classic)
 
@@ -43,13 +43,13 @@ The Qiraji are an insectoid race descended from the Aqir, created by the Old God
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
 | Ahn'qiraj | /ˈɑːn.kiˌɹɑːʒ/ | *Ahn-* + *-qiraj* | The qiraji fortress-temple in Silithus. **Official IPA from warcraft.wiki.gg**: *Ahn-* = /ɑːn/; *-qiraj* = /kiˌɹɑːʒ/ (with /ʒ/!). The final /ʒ/ in *-qiraj* parallels *Azj-* = /ɑːʒ/ in nerubian, potentially connecting the qiraji self-designation to the Aqir *Azj-* morpheme family. *Ahn-* also appears in nerubian *Ahn'kahet* — potentially a shared Aqir morpheme meaning "old/ancient/sacred." |
-| Ruins of Ahn'qiraj | — | Same toponym | The outdoor 20-man raid; same *Ahn'qiraj* name. |
-| The Scarab Wall | — | Common/English name | The massive wall surrounding Ahn'qiraj. |
-| Gates of Ahn'qiraj | — | Common/English name | The entrance to the temple. |
+| Ruins of Ahn'qiraj | /—/ | Same toponym | The outdoor 20-man raid; same *Ahn'qiraj* name. |
+| The Scarab Wall | /—/ | Common/English name | The massive wall surrounding Ahn'qiraj. |
+| Gates of Ahn'qiraj | /—/ | Common/English name | The entrance to the temple. |
 | Hive'Ashi | /ˈæʃi/ | *Hive* (English) + *Ashi* | Silithid hive. *Ashi* matches the Colossus of Ashi — may be a qiraji place-name element. |
 | Hive'Zora | /ˈzɔːrə/ | *Hive* (English) + *Zora* | Silithid hive. *Zora* matches the Colossus of Zora. |
 | Hive'Regal | /ˈriːɡəl/ | *Hive* (English) + *Regal* | Silithid hive. "Regal" may be English rather than qiraji. |
-| Hive'Zora (Colossal) | — | Variant of Hive'Zora | World boss location. |
+| Hive'Zora (Colossal) | /—/ | Variant of Hive'Zora | World boss location. |
 
 ## 3. Attested Phrases
 
@@ -150,8 +150,8 @@ The qiraji names *Kurinnaxx* and *General Rajaxx* end in *-naxx* and *-axx* resp
 |-------------|---------------|--------------------------|
 | *-naxx* (*Kurinnaxx*) | *-nax* (*Ovi'nax*) | *\*-naxx* (qiraji retained geminate; nerubian simplified) |
 | *-axx* (*Rajaxx*) | *-ax* (*Ulgrax*) | *\*-axx* (same pattern) |
-| — | *-nox* (*Hadronox*) | *\*-nox* (vowel variant) |
-| — | *-ox* (*Elder Nadox*) | *\*-ox* (reduced form without initial nasal) |
+| /—/ | *-nox* (*Hadronox*) | *\*-nox* (vowel variant) |
+| /—/ | *-ox* (*Elder Nadox*) | *\*-ox* (reduced form without initial nasal) |
 
 If the qiraji forms preserve the original Aqir geminate consonant while the nerubian forms simplified it, this would represent a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate /xx/ → /x/).
 
@@ -261,12 +261,12 @@ Aqir (unattested; Old God-created insectoid race)
 
 | Aqir Morpheme | Nerubian Form | Qiraji Form | Naga Form | Inferred Meaning |
 |--------------|--------------|-------------|-----------|-----------------|
-| *\*Azj-* | *Azj-Kahet*, *Azjol-Nerub* | — | *Nazj-* (with *N-* prefix) in *Nazjatar* | "deep/realm" |
-| *\*Azj-* (suffix) | *-azj* in *Takazj* | — | — | Same morpheme in suffix position |
-| *\*Ahn-* | *Ahn'kahet* | *Ahn'qiraj* | — | "old/ancient/sacred" |
-| *\*-naxx* (?) | *-nax* (*Ovi'nax*) | *-naxx* (*Kurinnaxx*) | — | "warrior/hunter" (?) |
-| *\*Anub-* (?) | *Anub'arak*, *Anub'azal* | *Anubisath* (if qiraji) | — | "lord/guardian" (?) |
-| *\*Rak-* (?) | *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz* | — | — | Unknown (Khaz Algar dialect only) |
+| *\*Azj-* | *Azj-Kahet*, *Azjol-Nerub* | /—/ | *Nazj-* (with *N-* prefix) in *Nazjatar* | "deep/realm" |
+| *\*Azj-* (suffix) | *-azj* in *Takazj* | /—/ | — | Same morpheme in suffix position |
+| *\*Ahn-* | *Ahn'kahet* | *Ahn'qiraj* | /—/ | "old/ancient/sacred" |
+| *\*-naxx* (?) | *-nax* (*Ovi'nax*) | *-naxx* (*Kurinnaxx*) | /—/ | "warrior/hunter" (?) |
+| *\*Anub-* (?) | *Anub'arak*, *Anub'azal* | *Anubisath* (if qiraji) | /—/ | "lord/guardian" (?) |
+| *\*Rak-* (?) | *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz* | /—/ | — | Unknown (Khaz Algar dialect only) |
 
 ## 11. Writing System
 

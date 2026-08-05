@@ -79,12 +79,12 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
 | Azj-Kahet | /ˈɑːʒ.kəˌhɛt/ | *Azj-* + *-Kahet* | Nerubian kingdom. **Official IPA from warcraft.wiki.gg**: *Azj-* = /ɑːʒ/ (with /ʒ/, not /z/). This strengthens the *Azj-*/**Nazj-* connection — *Nazj-* = /nɑːʒ/ is simply /n/ + /ɑːʒ/. *-Kahet* may mean "realm" or "kingdom." |
-| City of Threads | — | Common/English name | Nerubian capital; also a dungeon name |
+| City of Threads | /—/ | Common/English name | Nerubian capital; also a dungeon name |
 | Nerub-ar Palace | /ˈnɛ.ruːbˌɑ:r/ | *Nerub-* + *-ar* | Ansurek's seat of power. **Official IPA from warcraft.wiki.gg**: *Nerub-* = /ˈnɛ.ruːb/ with full /uː/, *-ar* = /ɑ:r/. The *-ar* suffix may parallel other nerubian suffixes. |
-| The Transformatory | — | Common/English name | Ascended creation facility |
+| The Transformatory | /—/ | Common/English name | Ascended creation facility |
 | Rak-Zakaz | /rækˈzækæz/ | *Rak-* + *Zakaz* (?) | Subzone in Azj-Kahet; doubled *-za-* element; hyphen marks compound boundary |
-| Sureki Unyielding | — | *Sureki* + Common epithet | Subzone; *Sureki* is a nerubian house/faction |
-| Weaver's Lair | — | Common name for Arak'nai's base | |
+| Sureki Unyielding | /—/ | *Sureki* + Common epithet | Subzone; *Sureki* is a nerubian house/faction |
+| Weaver's Lair | /—/ | Common name for Arak'nai's base | |
 | Pillar-nest Xesh | /zɛʃ/ | *Pillar-nest* (Common) + *Xesh* | Subzone in Azj-Kahet. *Xesh* may be a nerubian word. |
 | Pillar-nest Noth | /nɒθ/ | *Pillar-nest* (Common) + *Noth* | Subzone in Azj-Kahet. *Noth* may be a nerubian word. |
 | Pillar-nest Vosh | /vɒʃ/ | *Pillar-nest* (Common) + *Vosh* | Subzone in Azj-Kahet. *Vosh* may be a nerubian word. |
@@ -102,7 +102,7 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Azjol-Nerub | /ˈɑːʒoʊlˈnɛrʊb/ | *Azj-* + *-ol* + *Nerub* | Ancient nerubian kingdom in Northrend. *Azj-* prefix matches *Azj-Kahet*! IPA updated: *Azj-* = /ɑːʒ/ per official warcraft.wiki.gg pronunciation of *Azj-Kahet*. |
 | Ahn'kahet | /ˈɑːnkɑːhɛt/ | *Ahn-* + *-kahet* | Old Kingdom dungeon. *-kahet* matches *Azj-Kahet* — this is a significant parallel. |
 | Azj'Aqir | /ˈɑːʒɑːkwɪr/ | *Azj-* + *Aqir* | The original Aqir empire (capital city). Critical third attestation of the *Azj-* toponymic prefix, directly connecting it to the Aqir self-designation. IPA updated: *Azj-* = /ɑːʒ/. |
-| Kil'jaeden's Terrace | — | Named after the demon; not nerubian | |
+| Kil'jaeden's Terrace | /—/ | Named after the demon; not nerubian | |
 | En'kilah | /ɛnˈkiːlɑː/ | *En-* + *-kilah* | Temple City in Borean Tundra; Scourge-occupied nerubian structure. The *En-* prefix differs from *Ahn-*. |
 
 ## 3. Attested Phrases
@@ -593,11 +593,11 @@ The qiraji are the other major Aqir-descended civilization, inhabiting Silithus 
 |------|-----|---------|----------|
 | Ahn'qiraj | /ˈɑːn.kiˌɹɑːʒ/ | Qiraji fortress-temple in Silithus | *Ahn-* + *-qiraj*; the *-qiraj* element may be the source of the English "qiraji" (the people's name). **Official IPA from warcraft.wiki.gg**: *Ahn-* = /ɑːn/; *-qiraj* = /kiˌɹɑːʒ/ (with /ʒ/!). |
 | C'Thun | /kəˈθuːn/ | Old God who created the qiraji | Shath'Yar-style name; not qiraji-language. |
-| Ruins of Ahn'qiraj | — | The outdoor portion of the temple | Same *Ahn'qiraj* toponym. |
+| Ruins of Ahn'qiraj | /—/ | The outdoor portion of the temple | Same *Ahn'qiraj* toponym. |
 | Ossirian | /ˈɒsiːriən/ | Qiraji boss (the Unscarred) | Egyptian-inspired name; no apostrophe. |
 | Moam | /moʊm/ | Qiraji construct boss | Short name; uncertain etymology. |
-| Buru the Gorger | — | Qiraji boss | English epithet. |
-| Ayamiss the Hunter | — | Qiraji boss | English epithet. |
+| Buru the Gorger | /—/ | Qiraji boss | English epithet. |
+| Ayamiss the Hunter | /—/ | Qiraji boss | English epithet. |
 | General Rajaxx | /ˈrædʒɑːks/ | Qiraji military leader | *-axx* ending; parallels nerubian *-ax* / *-nax*. |
 | Kurinnaxx | /ˈkʊrɪnæks/ | Qiraji boss | *-naxx* ending; parallels nerubian *-nax* in *Ovi'nax*. |
 
@@ -625,8 +625,8 @@ A further potential connection:
 |----------|--------|---------------|
 | *Ovi'nax* | *Kurinnaxx* | *-nax* / *-naxx* |
 | *Ulgrax* | *General Rajaxx* | *-ax* / *-axx* |
-| *Hadronox* | — | *-nox* |
-| *Elder Nadox* | — | *-ox* |
+| *Hadronox* | /—/ | *-nox* |
+| *Elder Nadox* | /—/ | *-ox* |
 
 If the *-nax* / *-naxx* element is a shared Aqir suffix (perhaps meaning "warrior" or "hunter"), this would represent a third potential Aqir substrate morpheme. The qiraji forms consistently double the final consonant (*-naxx*, *-axx*), while the nerubian forms do not (*-nax*, *-ax*). This could reflect a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate).
 
@@ -647,12 +647,12 @@ Combined with the *Azj-*/*Nazj-* pattern (§5) and the possible *-nax*/*-naxx* p
 
 | Aqir Morpheme | Nerubian Form | Qiraji Form | Naga Form | Inferred Meaning |
 |--------------|--------------|-------------|-----------|-----------------|
-| *\*Azj-* | *Azj-Kahet*, *Azjol-Nerub* | — | *Nazj-* (with *N-* prefix) in *Nazjatar* | "deep/realm" |
-| *\*Azj-* (original) | — | *Azj'Aqir* (the Aqir empire itself) | — | Confirmed Aqir-era usage; *Azj'Aqir* = *Azj-* + *Aqir* self-designation |
-| *\*Azj-* (suffix) | *-azj* in *Takazj* | — | — | Same morpheme in suffix position; agentive or locative function |
-| *\*Ahn-* | *Ahn'kahet* | *Ahn'qiraj* | — | "old/ancient/sacred" |
-| *\*-naxx* (?) | *-nax* (*Ovi'nax*) | *-naxx* (*Kurinnaxx*) | — | "warrior/hunter" (?) |
-| *\*Rak-* (?) | *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz* | — | — | Unknown (Khaz Algar dialect only) |
+| *\*Azj-* | *Azj-Kahet*, *Azjol-Nerub* | /—/ | *Nazj-* (with *N-* prefix) in *Nazjatar* | "deep/realm" |
+| *\*Azj-* (original) | /—/ | *Azj'Aqir* (the Aqir empire itself) | /—/ | Confirmed Aqir-era usage; *Azj'Aqir* = *Azj-* + *Aqir* self-designation |
+| *\*Azj-* (suffix) | *-azj* in *Takazj* | /—/ | — | Same morpheme in suffix position; agentive or locative function |
+| *\*Ahn-* | *Ahn'kahet* | *Ahn'qiraj* | /—/ | "old/ancient/sacred" |
+| *\*-naxx* (?) | *-nax* (*Ovi'nax*) | *-naxx* (*Kurinnaxx*) | /—/ | "warrior/hunter" (?) |
+| *\*Rak-* (?) | *Rak-Ahat*, *Rak-Ush*, *Rak-Zakaz* | /—/ | — | Unknown (Khaz Algar dialect only) |
 
 **Confidence: Medium** for *Ahn-* as a shared Aqir morpheme; **High** for *Azj-* as a confirmed Aqir morpheme (strengthened by *Azj'Aqir* and official IPA confirming *Azj-* = /ɑːʒ/); **Moderate** for *-azj* as the same morpheme in suffix position (attested in *Takazj*); **Low–Moderate** for *Rak-* as a new toponymic prefix; **Very Low** for the *-nax*/*-naxx* connection. The Aqir substrate hypothesis is now well-supported for *Azj-*, with *Azj'Aqir* providing direct evidence of Aqir-era usage and official IPA confirming the phonological form.
 

@@ -89,15 +89,15 @@ The empire had at least three confirmed dynasties (Shen, Wai, Qiang); a possible
 | Word | IPA | Gloss | Source / Notes |
 |------|-----|-------|----------------|
 | Engine of Nalak'sha | /ˈnɑːlɑkʃɑ/ | Titan/Mogu flesh-shaping device | Contains *Nalak* (Lei Shen's mount) + *sha* (suffix? unknown). Used by the Mogu for flesh-shaping. Located beneath the Mogu'shan Vaults. |
-| Divine Bell | — | Mogu mind-control artifact | English name only. Created by Lei Shen. Capable of dominating minds. |
+| Divine Bell | /—/ | Mogu mind-control artifact | English name only. Created by Lei Shen. Capable of dominating minds. |
 
 ## People / Groups
 
 | Word | IPA | Gloss | Source / Notes |
 |------|-----|-------|----------------|
 | Mogu | /ˈmoʊɡuː/ | The race / the people | Self-designation. Same as the noun above. |
-| Will of the Emperor | — | (English) | Boss encounter name; not a Mogu phrase. Abbreviated "WoE" informally. |
-| Hundred Kings | — | (English translation) | The pre-Lei Shen era of Mogu clan warfare. No Mogu form attested. |
+| Will of the Emperor | /—/ | (English) | Boss encounter name; not a Mogu phrase. Abbreviated "WoE" informally. |
+| Hundred Kings | /—/ | (English translation) | The pre-Lei Shen era of Mogu clan warfare. No Mogu form attested. |
 
 ## Roots and Morphemes
 

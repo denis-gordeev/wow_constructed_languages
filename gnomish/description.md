@@ -47,7 +47,7 @@ Gnomish phonology is reconstructed from a very small corpus of proper names. Key
 - **Playful phonology**: Gnomish personal names favor high front vowels (*Fizzle*, *Sprocket*, *Tink*), affricates (*Gelbin*), and onomatopoeic elements (*Zzzap*, *Bzzek*), creating a distinctive "tinkering" sound that contrasts with the more somber Vrykul or Dwarven naming patterns
 - **Mechagnome vs. gnome naming divergence**: Mechagnome names tend to be longer and more compound-like (*Sparkweaver*, *Bondo's Blockyard*), while traditional gnome names are shorter and simpler (*Erazmin*, *Gelbin*). This may reflect the mechagnomes' preservation of Titan compound structures
 - **-egan place suffix**: *Gnomeregan* contains the *-egan* element, possibly a Gnomish toponymic suffix. If genuine, it would parallel Dwarven *-gar* and Vrykul *-heim* as a Titan-forged place-name suffix
-- **Goblin naming contrast**: Gnomish names differ from Goblin names (*Noggenfogger*, *Galleywix*) in preserving more Titan-derived phonology, while Goblin names show more Trade Common influence
+- **Goblin naming contrast**: Gnomish names differ from Goblin names (*Noggenfogger*, *Gallywix*) in preserving more Titan-derived phonology, while Goblin names show more Trade Common influence
 
 See [grammar.md](grammar.md#phonology) for full consonant/vowel IPA charts.
 

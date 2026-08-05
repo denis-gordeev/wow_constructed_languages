@@ -72,10 +72,10 @@ Nerubians are confirmed to have a written language with a unique **touch-and-sce
 
 ```
 Aqir (unattested; Old God-created insectoid race)
-├── Nerubian (via nerubian spider-people)
-│   ├── Northrend dialect (Azjol-Nerub)
-│   └── Khaz Algar dialect (Azj-Kahet)
-├── Qiraji (via Silithid → Qiraji; language unattested)
+├── Nerubian (via Nerubian spider-people)
+│   ├── Northrend dialect (Azjol-Nerub, Ahn'kahet)
+│   └── Khaz Algar dialect (Azj-Kahet, City of Threads)
+├── Qiraji (via Silithid → Qiraji; unattested as language)
 └── [Possible substrate in Nazja]
     └── *Azj-* / *Nazj-* element (if Aqir origin)
 ```
