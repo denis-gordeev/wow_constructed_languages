@@ -384,7 +384,7 @@ Terms and names attested in the Battle for Azeroth expansion (2018), particularl
 | Atal'Dazar | Loa temple in Zandalar | Atal + dazar; "devoted temple" or "chosen throne" |
 | Nazmir | Blood troll region of Zandalar | Region name; etymology uncertain |
 | Vol'dun | Desert region of Zandalar | Region name; possibly "vol" = "desert" + "dun" = "land" |
-| Zul'jan | Ruins in Zandalar | Zul + jan; "jan" meaning unknown |
+| Zul'jan | Ruins in Zandalar | Zul + jan; "jan" meaning unknown. Same character as Amani commander in Midnight "Curse of Ula'tek" campaign — see Amani Names |
 | Terrace of the Speakers | Zandalari gathering place | English name; no Zandali form attested |
 | The Great Seal | Zandalari hub | English name; no Zandali form attested |
 | Port of Zandalar | Harbor district | English name; no Zandali form attested |
