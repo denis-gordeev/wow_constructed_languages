@@ -99,10 +99,10 @@ The Domanaar title **Imperator** (Latin for "commander/emperor") replaces the et
 |------|-----|------|-------|
 | T'era | /ˈtɛrə/ | Naaru; captured and corrupted by Salhadaar | Initial-apostrophe name following the naaru naming convention (cf. *K'ure*, *M'uru*, *O'ros*). The Shadowguard captured T'era in the Voidstorm and sought to corrupt her to the Void. Salhadaar succeeded in fully corrupting her, creating a dark naaru. Alleria Windrunner used the essence of the dark naaru L'ura inside her to kill the corrupted T'era at Nexus-Point Mid'Ar. **Not an ethereal-language name** — naaru names follow Shath'Yar initial-apostrophe patterns. See Draenei grammar.md Investigation 1 (7th attested naaru name) |
 | Soul-Scribe | /ˈsoʊlskraɪb/ | Wastelander ethereal leader; former confidant of Salhadaar | English compound title. Salhadaar's closest confidant alongside Bilaal; stood with him when he declared himself High King of K'aresh. Ordered by Salhadaar to hunt down Ravel members after K'aresh's destruction. Sacrificed herself to heal K'aresh's Worldsoul during the Ghosts of K'aresh campaign. **Confirmed female** by wiki lore |
-| Shadowgraft | — | Void-infused metal | Domanaar technology. Empowers those it is grafted onto but also alters their minds. Used by the Domanaar to increase the numbers of the Devouring Host. Common-language name |
-| Voidforge | — | Domanaar structure | A structure visible in Domanaar concept art. Likely related to their Artisan class (builders who enhance Void mastery). Common-language name |
-| Council of Oracles | — | K'areshi ruling class | The ruling class of K'aresh before its destruction. The Oracles became the Nexus-Princes after the ethereal transformation. Common-language name |
-| The Ravel | — | Secret K'areshi collective | A collection of the sharpest K'areshi minds. Members included Locus-Walker, Nari, and (secretly) Xal'atath. Used the combined power of the Reshii Ribbons to destroy K'aresh in an attempt to kill Dimensius. The name "Ravel" may be a Common translation of an ethereal concept |
+| Shadowgraft | /—/ | Void-infused metal | Domanaar technology. Empowers those it is grafted onto but also alters their minds. Used by the Domanaar to increase the numbers of the Devouring Host. Common-language name |
+| Voidforge | /—/ | Domanaar structure | A structure visible in Domanaar concept art. Likely related to their Artisan class (builders who enhance Void mastery). Common-language name |
+| Council of Oracles | /—/ | K'areshi ruling class | The ruling class of K'aresh before its destruction. The Oracles became the Nexus-Princes after the ethereal transformation. Common-language name |
+| The Ravel | /—/ | Secret K'areshi collective | A collection of the sharpest K'areshi minds. Members included Locus-Walker, Nari, and (secretly) Xal'atath. Used the combined power of the Reshii Ribbons to destroy K'aresh in an attempt to kill Dimensius. The name "Ravel" may be a Common translation of an ethereal concept |
 
 ### The Burning Crusade (2007): Netherstorm Ethereals
 
@@ -139,19 +139,19 @@ The Domanaar title **Imperator** (Latin for "commander/emperor") replaces the et
 
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
-| Arcana-Monger So'zer | — | K'aresh NPC | Apostrophe-marked compound: *So'* + *-zer*. New ethereal name |
-| Phase-Thief Tezra | — | K'aresh NPC | No apostrophe; short personal name |
-| Ba'kril | — | K'aresh entity (Ba'kril's Iniquities in Tazavesh) | Apostrophe-marked: *Ba'* + *-kril*. New ethereal place or personal name |
-| Heka'tamos | — | Rare NPC on K'aresh | Apostrophe-marked: *Heka'* + *-tamos*. The *Heka-* element may relate to Egyptian *heka* (magic) |
-| Malek'ta | — | Rare NPC on K'aresh | Apostrophe-marked: *Malek'* + *-ta*. Arabic-style first element (*Malik* = "king") |
-| Sha'ryth | — | Rare NPC ("the Cursed") | Apostrophe-marked: *Sha'* + *-ryth*. New ethereal name |
-| Zo'ya | — | Pet NPC on K'aresh | Apostrophe-marked: *Zo'* + *-ya*. **Third attestation of Zo'- prefix** — see Zo'- prefix analysis below |
-| Looker Gaz'kreth Jr. | — | NPC on K'aresh | Apostrophe-marked: *Gaz'* + *-kreth*. "Looker" is a Common title |
-| Sthaarbs | — | Rare NPC on K'aresh | Unusual name; no apostrophe. Possibly ethereal |
-| Etries | — | K'aresh architect | Leader of the Architects societal aspect. Short name, no apostrophe. Pre-transformation K'areshi name |
-| Krysson | — | Locus-Walker's lover | Described in the Doom of K'aresh. Pre-transformation K'areshi name. Notably non-Arabic phonology — possibly a native K'areshi name predating the Arabic-influenced ethereal naming convention |
+| Arcana-Monger So'zer | /—/ | K'aresh NPC | Apostrophe-marked compound: *So'* + *-zer*. New ethereal name |
+| Phase-Thief Tezra | /—/ | K'aresh NPC | No apostrophe; short personal name |
+| Ba'kril | /—/ | K'aresh entity (Ba'kril's Iniquities in Tazavesh) | Apostrophe-marked: *Ba'* + *-kril*. New ethereal place or personal name |
+| Heka'tamos | /—/ | Rare NPC on K'aresh | Apostrophe-marked: *Heka'* + *-tamos*. The *Heka-* element may relate to Egyptian *heka* (magic) |
+| Malek'ta | /—/ | Rare NPC on K'aresh | Apostrophe-marked: *Malek'* + *-ta*. Arabic-style first element (*Malik* = "king") |
+| Sha'ryth | /—/ | Rare NPC ("the Cursed") | Apostrophe-marked: *Sha'* + *-ryth*. New ethereal name |
+| Zo'ya | /—/ | Pet NPC on K'aresh | Apostrophe-marked: *Zo'* + *-ya*. **Third attestation of Zo'- prefix** — see Zo'- prefix analysis below |
+| Looker Gaz'kreth Jr. | /—/ | NPC on K'aresh | Apostrophe-marked: *Gaz'* + *-kreth*. "Looker" is a Common title |
+| Sthaarbs | /—/ | Rare NPC on K'aresh | Unusual name; no apostrophe. Possibly ethereal |
+| Etries | /—/ | K'aresh architect | Leader of the Architects societal aspect. Short name, no apostrophe. Pre-transformation K'areshi name |
+| Krysson | /—/ | Locus-Walker's lover | Described in the Doom of K'aresh. Pre-transformation K'areshi name. Notably non-Arabic phonology — possibly a native K'areshi name predating the Arabic-influenced ethereal naming convention |
 | Vorasius | /vɔːˈreɪsiəs/ | Domanaar boss (Voidspire) | Latin-style name; *Vor-* + *-asius* (cf. Latin *vorax* = "devouring"). New Domanaar boss |
-| Constable Zo'ardaz | — | NPC in Tazavesh (gives Warrants) | Apostrophe-marked: *Zo'* + *-ardaz*. **Second attestation of Zo'- prefix** — see analysis below |
+| Constable Zo'ardaz | /—/ | NPC in Tazavesh (gives Warrants) | Apostrophe-marked: *Zo'* + *-ardaz*. **Second attestation of Zo'- prefix** — see analysis below |
 
 ### The *Zo'-* Prefix (3 Attestations)
 
@@ -175,7 +175,7 @@ The *Zo'-* prefix appears in both place names (*Zo'Shuul*) and personal names (*
 | Tazavesh | /tɑːˈzɑːvɛʃ/ | Uncertain | The broker capital. Previously located in the Shadowlands (9.1 patch); relocated to K'aresh in TWW. No clear morpheme decomposition. Shares *-esh* ending with *K'aresh*. |
 | Ma'nussa | /mɑːˈnʊsə/ | *Ma'* + *-nussa* | City on K'aresh, ruled by Nexus-Princess Ky'veza. Apostrophe-marked compound. The *-nussa* element is new. The **Manussa civilization** was a historical period in K'areshi culture that preceded the creation of multi-state economies — suggesting the city gave its name to the era |
 | Eco-Dome Al'dani | /ælˈdɑːni/ | *Al'* + *-dani* | Preserved fragment of K'aresh, built atop a sacred site of ancient K'aresh. Apostrophe-marked compound: *Al'* + *-dani*. The *-dani* element is new. Ghosts of K'aresh patch. |
-| Manaforge Omega | — | Common + Greek | "Manaforge" is a Common compound; "Omega" is Greek. Not ethereal-language. A colossal Shadowguard facility in K'aresh. |
+| Manaforge Omega | /—/ | Common + Greek | "Manaforge" is a Common compound; "Omega" is Greek. Not ethereal-language. A colossal Shadowguard facility in K'aresh. |
 | Hara'samid Sector | /ˈhærəˌsæmɪd/ | *Hara'* + *-samid* | Region in the Great Dark Beyond / Twisting Nether. Apostrophe-marked. The *Hara-* element may relate to *Haramad*. |
 | Heraazi | /hɛˈrɑːzi/ | Uncertain | Region in the Great Dark Beyond / Twisting Nether. No apostrophe. Arabic-style name. |
 | Sodaraami | /soʊˈdɑːrɑːmi/ | Uncertain | Region in the Great Dark Beyond / Twisting Nether. No apostrophe. Long name. |
@@ -185,20 +185,20 @@ The *Zo'-* prefix appears in both place names (*Zo'Shuul*) and personal names (*
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| Gastalt | — | Uncertain | City-state on K'aresh. No apostrophe; phonologically unlike other ethereal names (Germanic feel). May reflect a non-Arabic K'areshi naming tradition |
-| Dervashna | — | Uncertain | City-state on K'aresh. No apostrophe; long name, possible Slavic/Indic phonological influence — unusual for ethereal naming |
-| Tingarla | — | Uncertain | City-state on K'aresh. No apostrophe; unknown phonological parallel |
-| Sufaad | — | Uncertain | City-state on K'aresh. No apostrophe; Arabic-style name (*ṣufād*?). The inhabitants are called **Sufaadi** — **second independent attestation of *-i* demonym suffix** (after *K'areshi*), upgrading its confidence |
+| Gastalt | /—/ | Uncertain | City-state on K'aresh. No apostrophe; phonologically unlike other ethereal names (Germanic feel). May reflect a non-Arabic K'areshi naming tradition |
+| Dervashna | /—/ | Uncertain | City-state on K'aresh. No apostrophe; long name, possible Slavic/Indic phonological influence — unusual for ethereal naming |
+| Tingarla | /—/ | Uncertain | City-state on K'aresh. No apostrophe; unknown phonological parallel |
+| Sufaad | /—/ | Uncertain | City-state on K'aresh. No apostrophe; Arabic-style name (*ṣufād*?). The inhabitants are called **Sufaadi** — **second independent attestation of *-i* demonym suffix** (after *K'areshi*), upgrading its confidence |
 
 ### Midnight Expansion: Additional Place Names
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| Nexus-Point Mid'Ar | — | *Mid'* + *-Ar* | Location in the Voidstorm where Alleria, Lothraxion, Arator, and Decimus went to free T'era. Apostrophe-marked compound. The *-Ar* element is new |
-| Overlook Zo'Shuul | — | *Zo'* + *-Shuul* | Named location on K'aresh. Apostrophe-marked. **First attestation of *Zo'-* prefix** |
-| Shan'dorah | — | *Shan'* + *-dorah* | Trust base location on K'aresh. Apostrophe-marked compound. **Not an ethereal-language name** — this is a Thalassian (elven) compound: *Shan'* (honored?) + *-dorah* (valor/honor), cognate with Darnassian *dorah* (see elven-comparative.html Set 17 and Darnassian grammar.md Investigation 14). The K'aresh Trust coalition includes void elves (Ren'dorei), who presumably named this base in their native language. The elven name on K'aresh constitutes evidence of elven-ethereal cultural contact and linguistic influence, but does not reflect ethereal-language morphology |
-| Reshanor | — | Uncertain | Possibly a subzone on K'aresh. Referenced in a hotfix |
-| Hosaas' Rest | — | *Hosaas* + *'s* (Common possessive) | Named location on K'aresh. "Rest" is Common; *Hosaas* may be an ethereal personal name |
+| Nexus-Point Mid'Ar | /—/ | *Mid'* + *-Ar* | Location in the Voidstorm where Alleria, Lothraxion, Arator, and Decimus went to free T'era. Apostrophe-marked compound. The *-Ar* element is new |
+| Overlook Zo'Shuul | /—/ | *Zo'* + *-Shuul* | Named location on K'aresh. Apostrophe-marked. **First attestation of *Zo'-* prefix** |
+| Shan'dorah | /—/ | *Shan'* + *-dorah* | Trust base location on K'aresh. Apostrophe-marked compound. **Not an ethereal-language name** — this is a Thalassian (elven) compound: *Shan'* (honored?) + *-dorah* (valor/honor), cognate with Darnassian *dorah* (see elven-comparative.html Set 17 and Darnassian grammar.md Investigation 14). The K'aresh Trust coalition includes void elves (Ren'dorei), who presumably named this base in their native language. The elven name on K'aresh constitutes evidence of elven-ethereal cultural contact and linguistic influence, but does not reflect ethereal-language morphology |
+| Reshanor | /—/ | Uncertain | Possibly a subzone on K'aresh. Referenced in a hotfix |
+| Hosaas' Rest | /—/ | *Hosaas* + *'s* (Common possessive) | Named location on K'aresh. "Rest" is Common; *Hosaas* may be an ethereal personal name |
 
 ## 3. Attested Phrases
 
@@ -337,10 +337,10 @@ This parallels how *Nerub-* appears in *Nerubian* and *Azjol-Nerub* as a self-de
 |------|-----|---------|-------|
 | Reshii Ribbons | /ˈrɛʃi/ | Powerful artifacts used by the Ravel | *Reshii* may be an ethereal/broker word. The *-esh-* element appears here too (*Re-shii* or *Resh-ii*), possibly related to *K'aresh* / *Tazavesh*. |
 | Dimensius | /dɪˈmɛnsiəs/ | Void Lord who destroyed K'aresh; "Dimensius the All-Devouring" | Latin-style name; not ethereal-language. A Common-language rendering of a Void entity name. Xal'atath formerly served as his Harbinger before betraying him; the Ravel used the Reshii Ribbons to destroy K'aresh in an attempt to kill him; Salhadaar attempted to revive him using the Dark Heart at Manaforge Omega |
-| Black Blood | — | Corruptive substance from deceased Old Gods | Common-language designation. |
-| Worldsoul | — | The living essence of K'aresh (and Azeroth) | Common-language concept. K'aresh's Worldsoul was strengthened by Soul-Scribe's sacrifice. |
-| Dark Heart | — | Powerful artifact; absorbs arcane and void energy | Common-language name. Xal'atath used it to absorb Dalaran's arcane energy, then later to create the Voidstorm. Contained Khadgar temporarily after Dalaran's destruction. Stolen from Gallywix by Phase-Thief Azir in Undermine, then brought to K'aresh where Salhadaar used it to attempt to revive Dimensius. After Dimensius's defeat, Xal'atath emerged from the Dark Heart having absorbed both Dimensius's essence and Locus-Walker's power, making her the artifact's current wielder. |
-| Voidstorm | — | Massive void phenomenon created by Xal'atath | Common-language compound. Created using the Dark Heart's energy. First attested in The Warning (TWW patch). |
+| Black Blood | /—/ | Corruptive substance from deceased Old Gods | Common-language designation. |
+| Worldsoul | /—/ | The living essence of K'aresh (and Azeroth) | Common-language concept. K'aresh's Worldsoul was strengthened by Soul-Scribe's sacrifice. |
+| Dark Heart | /—/ | Powerful artifact; absorbs arcane and void energy | Common-language name. Xal'atath used it to absorb Dalaran's arcane energy, then later to create the Voidstorm. Contained Khadgar temporarily after Dalaran's destruction. Stolen from Gallywix by Phase-Thief Azir in Undermine, then brought to K'aresh where Salhadaar used it to attempt to revive Dimensius. After Dimensius's defeat, Xal'atath emerged from the Dark Heart having absorbed both Dimensius's essence and Locus-Walker's power, making her the artifact's current wielder. |
+| Voidstorm | /—/ | Massive void phenomenon created by Xal'atath | Common-language compound. Created using the Dark Heart's energy. First attested in The Warning (TWW patch). |
 
 ### The *Reshii* Element
 
@@ -492,9 +492,9 @@ No ethereal or broker hieroglyphs or texts have been translated in canon.
 
 | Word | IPA | Context | Notes |
 |------|-----|---------|-------|
-| Tabiqa | — | Ritual through which Oracles communed with K'aresh's Worldsoul | Also a **Tabiqa Dagger** ritual implement. *Tabiqa* has no obvious Common-language etymology and may be a genuine K'areshi vocabulary word. **Confidence: Low–Moderate** — single attestation, but the lack of Common-language etymology and the ritual context suggest it may preserve a genuine K'areshi word |
-| Loom'ithar | — | Great beast that created the Shadowguard's wraps | Boss in Ghosts of K'aresh campaign. Not an ethereal-language name per se (likely a creature name), but culturally significant. The *'ithar* element is unique |
-| Singularity | — | Faction that some Shadowguard ethereals defected to | After Salhadaar was deposed by Xal'atath, some Shadowguard members defected to this faction. Common-language name |
+| Tabiqa | /—/ | Ritual through which Oracles communed with K'aresh's Worldsoul | Also a **Tabiqa Dagger** ritual implement. *Tabiqa* has no obvious Common-language etymology and may be a genuine K'areshi vocabulary word. **Confidence: Low–Moderate** — single attestation, but the lack of Common-language etymology and the ritual context suggest it may preserve a genuine K'areshi word |
+| Loom'ithar | /—/ | Great beast that created the Shadowguard's wraps | Boss in Ghosts of K'aresh campaign. Not an ethereal-language name per se (likely a creature name), but culturally significant. The *'ithar* element is unique |
+| Singularity | /—/ | Faction that some Shadowguard ethereals defected to | After Salhadaar was deposed by Xal'atath, some Shadowguard members defected to this faction. Common-language name |
 
 ### Common-Language Cultural Designations (Ethereal-Specific Usage)
 

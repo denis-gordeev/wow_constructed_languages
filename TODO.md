@@ -131,6 +131,23 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters
 
+## Completed This Round (2026-08-06, Round 108)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) checked; no new constructed-language data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] HTML-MD sync audit of 3 directories (ethereal, shath-yar, zandali) — 40+ discrepancies found and fixed:
+  - **Ethereal** (description.md + description.html): Fixed factual error — "Ethereum led by Commander Ameer" → "Ethereum led by Nexus-Prince Bilaal; Commander Ameer led the rival Protectorate faction" (vocabulary.md already had this correction but description was not updated)
+  - **Ethereal** (vocabulary.html): Reordered nav to Description, Grammar, Vocabulary; fixed 8 unconverted `*text*` markdown artifacts in headings and `<span class="inferred">` tags → `<em>` tags; swapped section order of "Additional Entities" and "New Worlds" to match MD source; converted 33 bare `&mdash;` in IPA column cells to `/—/` with `class="ipa"`; fixed bare IPA `/sæl.həˈdɑːɹ/` in Salhadaar notes from `<em>` to `<span class="ipa">`; converted ~60 bare `—` in prose to `&mdash;`
+  - **Ethereal** (vocabulary.md): Converted 33 bare `—` in IPA columns to `/—/`
+  - **Ethereal** (grammar.html): Wrapped bare `/z/` in `<span class="ipa">`; converted ~16 bare `—` in prose to `&mdash;`
+  - **Ethereal** (description.html): Converted ~12 bare `—` in prose (including title and h1) to `&mdash;`
+  - **Shath'Yar** (vocabulary.html): Reordered nav to Description, Grammar, Vocabulary; changed separator from `&mdash;` to `<span>|</span>`; standardized L'ura/T'era cross-reference link text from inconsistent "grammar Investigation 1" / "Draenei grammar" to consistent "Draenei grammar Investigation 1"
+  - **Shath'Yar** (grammar.html): Fixed column header "Gloss" → "Meaning" matching MD source; added h5 CSS rule
+  - **Shath'Yar** (all 3 HTML files): Added missing `h5 { color: #2e7d32; margin-top: 1.0em; }` CSS rule (grammar.html uses ~80 `<h5>` tags)
+  - **Shath'Yar** (description.html): Fixed CSS indentation inconsistency (extra leading spaces on h4, h5, a, a:hover rules)
+  - **Zandali** (all 3 HTML files): Reordered nav to Description, Grammar, Vocabulary pattern; fixed bottom nav order in grammar.html and description.html
+  - **Zandali** (vocabulary.html): Fixed 8 bare `—` in h2/h3 headings → `&mdash;`; fixed broken link `#amani` → `#midnight-names` (anchor exists as `id="midnight-names"`)
+  - **Zandali** (grammar.html): Fixed 2 bare `—` in h3 headings → `&mdash;`
+
 ## Completed This Round (2026-08-06, Round 107)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) checked; no new constructed-language data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
