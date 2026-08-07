@@ -37,16 +37,16 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 |------|-----|---------|-------|
 | Gorak Zhar | /ˈɡɔɾɑk ʒɑɾ/ | Nightscreamer leading the Drust invasion of Ardenweald | See above |
 | Lorkron the Hunter | /ˈlɔɾkɾɔn/ | Drust in Ardenweald | Name structure resembles Vrykul compound patterns |
-| Inquisitor Joan Cleardawn | — | Formerly Marshal Cleardawn; Drust-possessed | Human name |
+| Inquisitor Joan Cleardawn | /—/ | Formerly Marshal Cleardawn; Drust-possessed | Human name |
 | Ara'lon | /ɑˈɾɑːlɔn/ | Sylvar captured and bent to Gorak Zhar's will | Night Fae name, not Drust |
 
 ### Drust Spirits and Undead
 
 | Name | IPA | Context | Notes |
 |------|-----|---------|-------|
-| Herald of Gorak Tul | — | Fiend-like Drust that announced Gorak Tul's return | Title, not personal name |
-| Shade of Gorak Tul | — | Vessel/aspect of Gorak Tul | Title |
-| Vengeful Bones | — | Drust skeletons | Descriptive name |
+| Herald of Gorak Tul | /—/ | Fiend-like Drust that announced Gorak Tul's return | Title, not personal name |
+| Shade of Gorak Tul | /—/ | Vessel/aspect of Gorak Tul | Title |
+| Vengeful Bones | /—/ | Drust skeletons | Descriptive name |
 
 ### Thornspeakers (Druidic Drust)
 
@@ -55,21 +55,21 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 | Ulfar | /ˈʊlvɑɾ/ | Last living Drust; leader of the Kul Tiran Thornspeakers | See above |
 | Kivarr | /kɪˈvɑɾ/ | Ulfar's former teacher | See above |
 | Sef Iwen | /sɛf ˈiwɛn/ | Early Thornspeaker martyr | See above |
-| Adalyn Forestwatcher | — | Kul Tiran Thornspeaker | Human name |
-| Amalie Oakseeker | — | Kul Tiran Thornspeaker | Human name |
-| Arthur Tradewind | — | Kul Tiran Thornspeaker | Human name |
+| Adalyn Forestwatcher | /—/ | Kul Tiran Thornspeaker | Human name |
+| Amalie Oakseeker | /—/ | Kul Tiran Thornspeaker | Human name |
+| Arthur Tradewind | /—/ | Kul Tiran Thornspeaker | Human name |
 | Athainne | /əˈθaɪn/ | Thornspeaker (Kul Tiran?) | Possibly Drust-influenced name |
 | Athair | /əˈθɛɾ/ | Thornspeaker (Kul Tiran?) | Possibly Drust-influenced name |
-| Braedan Whitewall | — | Kul Tiran Thornspeaker | Human name |
-| Danir Emberlight | — | Kul Tiran Thornspeaker | Human name |
-| Dorian Atwater | — | Kul Tiran Thornspeaker | Human name |
-| Kivarr the Thornspeaker | — | Ulfar's teacher | See above |
-| Marcus Swiftwind | — | Kul Tiran Thornspeaker | Human name |
-| Morwin Gladeheart | — | Kul Tiran Thornspeaker | Human name |
-| Theodor Forestwatcher | — | Kul Tiran Thornspeaker | Human name |
-| Thornspeaker Birchgrove | — | Thornspeaker NPC | Descriptive name |
-| Thornspeaker Tavery | — | Thornspeaker NPC | Descriptive name |
-| Lyssa Treewarden | — | Kul Tiran Thornspeaker | Human name |
+| Braedan Whitewall | /—/ | Kul Tiran Thornspeaker | Human name |
+| Danir Emberlight | /—/ | Kul Tiran Thornspeaker | Human name |
+| Dorian Atwater | /—/ | Kul Tiran Thornspeaker | Human name |
+| Kivarr the Thornspeaker | /—/ | Ulfar's teacher | See above |
+| Marcus Swiftwind | /—/ | Kul Tiran Thornspeaker | Human name |
+| Morwin Gladeheart | /—/ | Kul Tiran Thornspeaker | Human name |
+| Theodor Forestwatcher | /—/ | Kul Tiran Thornspeaker | Human name |
+| Thornspeaker Birchgrove | /—/ | Thornspeaker NPC | Descriptive name |
+| Thornspeaker Tavery | /—/ | Thornspeaker NPC | Descriptive name |
+| Lyssa Treewarden | /—/ | Kul Tiran Thornspeaker | Human name |
 
 ## 2. Proper Names (Places)
 
@@ -83,8 +83,8 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, o
 | Gol Var | /ɡɔl vɑɾ/ | Drustvar | Unknown | Ruins of Gol Var; Drust settlement |
 | Thros | /θɾɔs/ | Shadowlands | Unknown | "The Blighted Lands"; an offshoot of the Emerald Nightmare where Drust spirits reside |
 | Drustvar | /ˈdɾʊstvɑɾ/ | Kul Tiras | Possibly "Drust-land" or "home of the Drust" | Canon pronunciation: "druhst-VAHR" |
-| Iwen's Sanctum | — | Drustvar | Named after Sef Iwen | Common-language name |
-| The Wicker Altar | — | Drustvar | Altar for Drust rituals | Common-language name |
+| Iwen's Sanctum | /—/ | Drustvar | Named after Sef Iwen | Common-language name |
+| The Wicker Altar | /—/ | Drustvar | Altar for Drust rituals | Common-language name |
 | Vadekius's Rest | /vəˈdɛkiəs/ | Drustvar | Unknown | "Vadekius" may be a Drust personal name |
 
 ### Human Settlements in Drustvar (Common-Language Names)

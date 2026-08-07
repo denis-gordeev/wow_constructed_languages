@@ -71,19 +71,19 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Neferset City | /nɛˈfɜrsɛt/ | Capital of the Neferset tribe | Same name as the tribe. Southern Uldum. |
 | Orsis | /ˈɔrsɪs/ | Capital of the Orsis tribe | Same name as the tribe. Buried by Al'Akir. |
 | Ramkahen | /rɑmˈkɑhɛn/ | Capital of the Ramkahen tribe | Same name as the tribe. Central Uldum. |
-| Ramkahen Legion Outpost | — | Military outpost of the Ramkahen | Where High Commander Kamses trains troops. |
+| Ramkahen Legion Outpost | /—/ | Military outpost of the Ramkahen | Where High Commander Kamses trains troops. |
 | Sahket | /ˈsɑkɛt/ | Wasteland in northwestern Uldum | |
-| Sunstone Terrace | — | Ancient Amathet territory | Unearthed by Sargeras' sword. |
+| Sunstone Terrace | /—/ | Ancient Amathet territory | Unearthed by Sargeras' sword. |
 | Tahret | /ˈtɑhrɛt/ | Ramkahen date farm in central Uldum | Also the name of the "Tahret dynasty" — the only known tol'vir dynasty. |
-| Tomb of the Sun King | — | Ancient tomb in Uldum | Contains the Ring of the Boy Emperor and other artifacts. |
+| Tomb of the Sun King | /—/ | Ancient tomb in Uldum | Contains the Ring of the Boy Emperor and other artifacts. |
 | Vir'naal | /vɪrˈnɑl/ | Major water system in Uldum | Consists of the Vir'naal River, a lake, dam, several oases, and a delta. Apostrophe marks morpheme boundary: *Vir* + *naal*. |
-| Vir'naal Dam | — | Dam on the Vir'naal River | |
-| Vir'naal Oasis | — | Oasis on the Vir'naal River system | |
-| Vir'naal River | — | Major river in Uldum | |
+| Vir'naal Dam | /—/ | Dam on the Vir'naal River |  |
+| Vir'naal Oasis | /—/ | Oasis on the Vir'naal River system |  |
+| Vir'naal River | /—/ | Major river in Uldum |  |
 | Vir'sar | /vɪrˈsɑr/ | Oasis in northwestern Uldum | Shares the *Vir'* prefix with *Vir'naal*. Apostrophe marks morpheme boundary: *Vir* + *sar*. |
-| Lost City of the Tol'vir | — | Ancient city in Uldum | Instance dungeon. Occupied by the Neferset, then reclaimed by the Ramkahen. Siamat was imprisoned here. |
-| Halls of Origination | — | Titan facility | Not a Tol'vir name — English/Titan. Contains the Forge of Origination. |
-| Neferset City | — | Capital of the Neferset | Southern Uldum delta. |
+| Lost City of the Tol'vir | /—/ | Ancient city in Uldum | Instance dungeon. Occupied by the Neferset, then reclaimed by the Ramkahen. Siamat was imprisoned here. |
+| Halls of Origination | /—/ | Titan facility | Not a Tol'vir name — English/Titan. Contains the Forge of Origination. |
+| Neferset City | /—/ | Capital of the Neferset | Southern Uldum delta. |
 
 ### Additional Uldum Place Names (BfA Patch 8.3)
 
@@ -91,13 +91,13 @@ The N'Zoth assault on Uldum (Battle for Azeroth patch 8.3) introduced additional
 
 | Word | IPA | Description | Source / Notes |
 |------|-----|-------------|----------------|
-| Obelisk of the Sun | — | Ancient tol'vir monument | Common-language name; the obelisk itself may have a Tol'vir name |
-| Ruins of Ammon | — | Amathet-controlled area | "Ammon" is the Tol'vir name (cf. Egyptian *Amun*) |
-| Tomb of the Sun King | — | Amathet-occupied tomb | Contains Amathet forces; English name |
-| Halls of Origination | — | Titan facility (Amathet-occupied) | English/Titan name; Amathet sought to use the Forge |
-| Uldum Accord Camp | — | Alliance base | Common-language name |
-| Ramkahen Legion Outpost | — | Ramkahen military camp | Already listed above; reinforced in BfA |
-| Sunstone Terrace | — | Amathet territory | Already listed above; expanded in BfA |
+| Obelisk of the Sun | /—/ | Ancient tol'vir monument | Common-language name; the obelisk itself may have a Tol'vir name |
+| Ruins of Ammon | /—/ | Amathet-controlled area | "Ammon" is the Tol'vir name (cf. Egyptian *Amun*) |
+| Tomb of the Sun King | /—/ | Amathet-occupied tomb | Contains Amathet forces; English name |
+| Halls of Origination | /—/ | Titan facility (Amathet-occupied) | English/Titan name; Amathet sought to use the Forge |
+| Uldum Accord Camp | /—/ | Alliance base | Common-language name |
+| Ramkahen Legion Outpost | /—/ | Ramkahen military camp | Already listed above; reinforced in BfA |
+| Sunstone Terrace | /—/ | Amathet territory | Already listed above; expanded in BfA |
 
 ### Amathet-Specific Names (BfA Patch 8.3)
 
@@ -130,10 +130,10 @@ The N'Zoth assault on Uldum (Battle for Azeroth patch 8.3) introduced additional
 | Al'burq | /ɑlˈburk/ | One of the Fists of the Heavens | Pair of fist weapons crafted by Irmaat. Apostrophe: *Al* + *burq*. Cf. Arabic *al-burq* ("lightning/flash") — may be intentional by Blizzard. |
 | Alra'ed | /ɑlˈrɑːɛd/ | One of the Fists of the Heavens | Pair of fist weapons crafted by Irmaat. Apostrophe: *Alra* + *ed*. Cf. Arabic *al-ra'd* ("the thunder") — may be intentional by Blizzard. |
 | Ammunae | /ɑˈmunɑe/ | Titan keeper/watcher | Keeper of the Halls of Origination. Name appears in the phrase "Achusenmen osadi djahi kahun Ammunae." Not a tol'vir but a titan construct. Cf. Egyptian *Amun*. |
-| Canopic Jar | — | Archaeology artifact | English name. A tol'vir burial jar. Cf. Egyptian canopic jars. |
-| Fists of the Heavens | — | Pair of fist weapons | English name for the pair (*Al'burq* and *Alra'ed*). Crafted by Irmaat to hold the power of Al'Akir. |
-| Scepter of Azj'Aqir | — | Archaeology artifact | Contains the element *Azj'Aqir* — likely Qiraji or Titan in origin, not Tol'vir. |
-| Seal of the Sun King | — | Archaeology artifact | English name. References the "Sun King" title. |
+| Canopic Jar | /—/ | Archaeology artifact | English name. A tol'vir burial jar. Cf. Egyptian canopic jars. |
+| Fists of the Heavens | /—/ | Pair of fist weapons | English name for the pair (*Al'burq* and *Alra'ed*). Crafted by Irmaat to hold the power of Al'Akir. |
+| Scepter of Azj'Aqir | /—/ | Archaeology artifact | Contains the element *Azj'Aqir* — likely Qiraji or Titan in origin, not Tol'vir. |
+| Seal of the Sun King | /—/ | Archaeology artifact | English name. References the "Sun King" title. |
 
 ## Archaeology Artifact Names (Tol'vir Fragments)
 

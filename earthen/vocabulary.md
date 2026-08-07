@@ -14,8 +14,8 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Isle of Dorn | /dɔːrn/ | *Dorn-* possibly related to Titan *-dor* (land) | Surface zone. *Dorn* / *Dor-n* could be *-dor* + *-n* suffix. Etymology possibly from Watcher Dornic, who ruled the earthen before they rebelled. |
 | Dornogal | /ˈdɔːrnəɡɑːl/ | *Dorn-* + *-ogal* (?) | Earthen capital city, named in honor of watchers Dornic and Galan. *Dorn-* may be the same root as "Isle of Dorn." *-ogal* is unexplained but may incorporate *-gal* from *Galan* (watcher name). |
 | Gundargaz | /ˈɡʊndɑːrɡæz/ | *Gun-* + *-dar-* + *-gaz* OR *Gundar-* + *-gaz* | Machine Speakers settlement in the Ringing Deeps. The *-dar-* element in medial position may reflect *-dor* (land/realm). *-gaz* is unexplained but parallels goblin names (*Gazlowe*) — possible goblin loan. |
-| Ringing Deeps | — | Common/English name | Underground zone. |
-| Hallowfall | — | Common/English name | Underground cavern zone. |
+| Ringing Deeps | /—/ | Common/English name | Underground zone. |
+| Hallowfall | /—/ | Common/English name | Underground cavern zone. |
 
 ### Khaz Algar Sub-Regions (Isle of Dorn)
 
@@ -27,55 +27,55 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Dhar Bandar | /dɑːr ˈbændɑːr/ | *Dhar-* + *Bandar* | Area in the southeast of Isle of Dorn. *-dar* element parallels *-dar* in *Beledar*, *Mereldar*. |
 | Thul Medran | /θʊl ˈmɛdræn/ | *Thul-* + *Medran* | Area near the Three Shields. *Thul-* contains /θ/, linking to Earthen phonology. *Medran* may contain *-dran* related to *-dun*? |
 | Thul (element) | /θʊl/ | Uncertain | Appears in *Thul Medran* and possibly related to Dwarven *Thandol*, *Thelsamar*, *Thelgen*. Contains /θ/, a Titan-retained phoneme. |
-| Golgrin's Reach | — | Common compound + personal name | *Golgrin* may be an Earthen personal name; *-grin* parallels *-grim* in *Baelgrim*. |
-| Mourning Rise | — | Common/English name | Cemetery for the Unbound. |
-| The Proscenium | — | Common/English name | Theater area where earthen gather. |
-| Freywold Village | — | Common compound | Settlement of the Freysworn. |
-| Rambleshire | — | Common compound | Settlement on Isle of Dorn. |
-| Storm's Watch | — | Common compound | Stormrider outpost. |
-| The Orecreg / Opalcreg | — | Common compound | Mining areas. |
+| Golgrin's Reach | /—/ | Common compound + personal name | *Golgrin* may be an Earthen personal name; *-grin* parallels *-grim* in *Baelgrim*. |
+| Mourning Rise | /—/ | Common/English name | Cemetery for the Unbound. |
+| The Proscenium | /—/ | Common/English name | Theater area where earthen gather. |
+| Freywold Village | /—/ | Common compound | Settlement of the Freysworn. |
+| Rambleshire | /—/ | Common compound | Settlement on Isle of Dorn. |
+| Storm's Watch | /—/ | Common compound | Stormrider outpost. |
+| The Orecreg / Opalcreg | /—/ | Common compound | Mining areas. |
 | Skolzgal Mill | /ˈskɒlzɡæl/ | *Skolzgal* (?) | Possibly Earthen toponym; contains /sk/ onset. |
 
 ### Khaz Algar Sub-Regions (Ringing Deeps)
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| The Earthenworks | — | Common compound | Industrial center of the Ringing Deeps. |
-| Candleslag Quarry | — | Common compound | Mining area; "Candleslag" combines kobold "candle" motif with Earthen industrial term "slag." |
-| Deepforge Golemworks | — | Common compound | Abandoned war golem facility. |
-| Ironhaul Station | — | Common compound | Transport hub. |
+| The Earthenworks | /—/ | Common compound | Industrial center of the Ringing Deeps. |
+| Candleslag Quarry | /—/ | Common compound | Mining area; "Candleslag" combines kobold "candle" motif with Earthen industrial term "slag." |
+| Deepforge Golemworks | /—/ | Common compound | Abandoned war golem facility. |
+| Ironhaul Station | /—/ | Common compound | Transport hub. |
 | Taelloch | /ˈteɪlɒx/ or /ˈteɪlɒk/ | Uncertain | Region and mine in Ringing Deeps. *Taelloch* contains the *-loch* element (cf. Dwarven *Loch Modan*), suggesting a Dwarven/Earthen toponym. |
-| Taelloch Mine | — | Common compound | Mine in Taelloch region. |
+| Taelloch Mine | /—/ | Common compound | Mine in Taelloch region. |
 | Nibelgaz Mine | /ˈnɪbɛlɡæz/ | *Nibel-* + *-gaz* | Mine in the Ringing Deeps. *-gaz* parallels *Gundargaz* and *Dhar Durgaz*. *Nibel-* may relate to Germanic *Nibelung* (dwarf myth) — possible Blizzard design parallel. |
-| Brunwin's Terrace | — | Common compound + personal name | *Brunwin* may be an Earthen personal name. |
-| Cataract River | — | Common/English name | Underground river. |
-| Shimmermist Falls | — | Common/English name | Waterfall area. |
-| Pillarstone Spire | — | Common compound | Stone spire formation. |
-| Camp Murroch | — | Common compound + personal name | *Murroch* may be an Earthen personal name. |
-| Shadowvein Point/Mine/Power Station/Extraction Site | — | Common compound | Goblin Darkfuse operations area. |
-| The Living Grotto | — | Common compound | Bioluminescent cave passage to Azj-Kahet. |
-| The Rumbling Wastes | — | Common/English name | Unstable geological area. |
-| Obsidian Hollow | — | Common compound | Underground cavern. |
-| The Waterworks | — | Common compound | Earthen water management facility. |
-| Opportunity Point | — | Common compound | Settlement in the south Ringing Deeps. |
+| Brunwin's Terrace | /—/ | Common compound + personal name | *Brunwin* may be an Earthen personal name. |
+| Cataract River | /—/ | Common/English name | Underground river. |
+| Shimmermist Falls | /—/ | Common/English name | Waterfall area. |
+| Pillarstone Spire | /—/ | Common compound | Stone spire formation. |
+| Camp Murroch | /—/ | Common compound + personal name | *Murroch* may be an Earthen personal name. |
+| Shadowvein Point/Mine/Power Station/Extraction Site | /—/ | Common compound | Goblin Darkfuse operations area. |
+| The Living Grotto | /—/ | Common compound | Bioluminescent cave passage to Azj-Kahet. |
+| The Rumbling Wastes | /—/ | Common/English name | Unstable geological area. |
+| Obsidian Hollow | /—/ | Common compound | Underground cavern. |
+| The Waterworks | /—/ | Common compound | Earthen water management facility. |
+| Opportunity Point | /—/ | Common compound | Settlement in the south Ringing Deeps. |
 
 ### Dornogal Sub-Regions (Capital City)
 
 | Name | IPA | Analysis | Notes |
 |------|-----|----------|-------|
-| The Coreway | — | Common compound | Large tunnel connecting Isle of Dorn to Ringing Deeps. |
-| The Archive | — | Common/English name | Repository where earthen relinquished memories to the Titan Archive. |
-| Foundation Hall | — | Common compound | Central hub of Dornogal with portals. |
-| The Forgegrounds | — | Common compound | Crafting area of Dornogal. |
-| Stoneshaper's Atrium | — | Common compound | Area associated with the Stonebound/Unbound. |
-| Stoneward's Rise | — | Common compound | Area associated with the Stoneward (Adelgonn). |
-| Councilward's Rise | — | Common compound | Area associated with the Councilward (Merrix). |
+| The Coreway | /—/ | Common compound | Large tunnel connecting Isle of Dorn to Ringing Deeps. |
+| The Archive | /—/ | Common/English name | Repository where earthen relinquished memories to the Titan Archive. |
+| Foundation Hall | /—/ | Common compound | Central hub of Dornogal with portals. |
+| The Forgegrounds | /—/ | Common compound | Crafting area of Dornogal. |
+| Stoneshaper's Atrium | /—/ | Common compound | Area associated with the Stonebound/Unbound. |
+| Stoneward's Rise | /—/ | Common compound | Area associated with the Stoneward (Adelgonn). |
+| Councilward's Rise | /—/ | Common compound | Area associated with the Councilward (Merrix). |
 | Thraegar Rest | /ˈθreɪɡɑːr rɛst/ | *Thraegar* + Common *Rest* | Area in Dornogal named after the crystallized thraegar beings. *Thraegar* contains /θ/ and may share the *-gar* element with *Dungard* → *-gard*. |
-| Oath Gate | — | Common compound | Entrance to Dornogal's inner city. |
-| Keepers Terrace | — | Common compound | Area honoring the Titan Keepers. |
-| The Lapidarium | — | Latin/English loan | Gem and mineral gallery. |
-| The Kindling Parlor | — | Common compound | Earthen warming area. |
-| Hearthside Suite | — | Common compound | Inn area. |
+| Oath Gate | /—/ | Common compound | Entrance to Dornogal's inner city. |
+| Keepers Terrace | /—/ | Common compound | Area honoring the Titan Keepers. |
+| The Lapidarium | /—/ | Latin/English loan | Gem and mineral gallery. |
+| The Kindling Parlor | /—/ | Common compound | Earthen warming area. |
+| Hearthside Suite | /—/ | Common compound | Inn area. |
 
 ### Hallowfall Places (Arathi Settlements with Possible Earthen Morphemes)
 
@@ -103,7 +103,7 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Thandol | /ˈθændɒl/ | Uncertain | The dwarven bridge connecting Khaz Modan to Lordaeron. Contains /θ/. |
 | Thelgen | /ˈθɛlɡɛn/ | Uncertain | Cave in the Wetlands. Contains /θ/. |
 | Thelsamar | /ˈθɛlsɑːmɑːr/ | Uncertain | Dwarven town in Loch Modan. Contains /θ/. |
-| Stonehearth | — | Common compound | Earthen settlement in Deepholm. |
+| Stonehearth | /—/ | Common compound | Earthen settlement in Deepholm. |
 
 ### Titan-Related Terms (Earthen Context)
 
@@ -147,10 +147,10 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 | Name | IPA | Affiliation | Notes |
 |------|-----|-------------|-------|
 | Urel Stoneheart | /ˈjʊərɛl/ | First king of the earthen | *Urel* is a personal name; "Stoneheart" is a Common epithet. Wielded Val'anyr, Hammer of Ancient Kings. Ancient/pre-Sundering. |
-| Bouldercrag the Rockshaper | — | Ulduar earthen leader | Common compound name. Led the earthen after Loken's betrayal. WotLK era. |
+| Bouldercrag the Rockshaper | /—/ | Ulduar earthen leader | Common compound name. Led the earthen after Loken's betrayal. WotLK era. |
 | Dungard Ironcutter | /ˈdʊnɡɑːrd/ | Earthen spokesman | *Dungard* may contain *Dun-* (cf. Dwarven *Dun Morogh*) + *-gard* (cf. Vrykul *-garde*). *Ironcutter* is a Common epithet. War of the Ancients. |
-| Stonefather Oremantle | — | Deepholm earthen leader | *Oremantle* = Latin *ore* + *mantle*. Common compound. Cata era. |
-| Flint Oremantle | — | Deepholm earthen (son of Stonefather) | *Flint* is Common. Cata era. |
+| Stonefather Oremantle | /—/ | Deepholm earthen leader | *Oremantle* = Latin *ore* + *mantle*. Common compound. Cata era. |
+| Flint Oremantle | /—/ | Deepholm earthen (son of Stonefather) | *Flint* is Common. Cata era. |
 | Goggeroc | /ˈɡɒɡərɒk/ | Earthen (Kalimdor) | Contains *-oc* / *-roc* element (cf. *Leikaroc*). Classic era. |
 | Iron Thane Argrum | /ˈɑːrɡrʊm/ | Iron dwarf (Thor Modan) | Iron dwarf, not strictly earthen. WotLK era. |
 
@@ -158,13 +158,13 @@ The Earthen are the titan-forged stone progenitors of Dwarves, introduced as a m
 
 | Name | IPA | Notes |
 |------|-----|-------|
-| Stormriders | — | English designation; military earthen who ride stormrooks |
-| Oathsworn | — | English designation; earthen who follow Titan edicts |
-| Unbound | — | English designation; earthen who reject Titan edicts |
-| Machine Speakers | — | English designation; earthen who maintain ancient machinery |
-| Freysworn | — | English designation; earthen cultural group (affiliation unknown) |
-| Stonebound | — | English designation; led by the Stoneward |
-| Stormrangers | — | English designation; new branch of Stormriders commissioned by Lufsela |
+| Stormriders | /—/ | English designation; military earthen who ride stormrooks |
+| Oathsworn | /—/ | English designation; earthen who follow Titan edicts |
+| Unbound | /—/ | English designation; earthen who reject Titan edicts |
+| Machine Speakers | /—/ | English designation; earthen who maintain ancient machinery |
+| Freysworn | /—/ | English designation; earthen cultural group (affiliation unknown) |
+| Stonebound | /—/ | English designation; led by the Stoneward |
+| Stormrangers | /—/ | English designation; new branch of Stormriders commissioned by Lufsela |
 | Skardyn | /ˈskɑːrdɪn/ | Earthen corrupted by void magic; the *Skar-* element may relate to Vrykul *Skar-* (cf. *Skarvald*, *Voldskar*) |
 | Thraegar | /ˈθreɪɡɑːr/ | Earthen corrupted by the Worldsoul's influence; crystallized variant. *Thraegar* contains /θ/ and the *-gar* element (cf. *Dungard* ~ *-gard*). Name also appears in Dornogal district *Thraegar Rest*. |
 

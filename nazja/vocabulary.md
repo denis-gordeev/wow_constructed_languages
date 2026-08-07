@@ -39,8 +39,8 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, u
 | Lord Sakrasis | Naga explorer | /səˈkræsɪs/ | Naga explorers |
 | Deepsire Saffsis | Naga leader | /ˈsæfsɪs/ | Tribe: Murkwater |
 | Tidelord Rrurgaz | Naga leader | /ˈrɜːrɡæz/ | Tribe: Strashaz |
-| Lord Sinslayer | Naga leader | — | Tribe: Stormscale |
-| Overseer Tidewrath | Naga overseer | — | Tribe: Wrathfin |
+| Lord Sinslayer | Naga leader | /—/ | Tribe: Stormscale |
+| Overseer Tidewrath | Naga overseer | /—/ | Tribe: Wrathfin |
 | Warlord Sriss'tiz | Naga warlord | /srɪsˈtɪz/ | Azuremyst Isle |
 
 ## 2. Proper Names (Places)
@@ -49,7 +49,7 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, u
 |------|-------------|-------------------|-------|
 | Nazjatar | Capital city of the naga, beneath the Maelstrom | /ˈnɔːzdʒətɑːr/ | Official pronunciation: "NAWZ-juh-tahr"; presumably derived from the language name "Nazja" (speculation) |
 | Zin-Azshari | "The Glory of Azshara" (Darnassian); ancient kaldorei capital, now ruins within Nazjatar | /zɪn æʒˈʃɑːri/ | Darnassian compound: *Zin* ("glory") + *Azshari* ("of Azshara"); originally named *Elun'dris* ("Eye of Elune") |
-| The Eternal Palace | Azshara's palace in Nazjatar | — | English name; no Nazja form attested |
+| The Eternal Palace | Azshara's palace in Nazjatar | /—/ | English name; no Nazja form attested |
 | Vashj'ir | Underwater zone (Cataclysm) | /væʃˈjɪr/ | Name predates the transformation; contains the Kelp'thar Forest, Shimmering Expanse, Abyssal Depths |
 | Azsh'ari Terrace | Location in Nazjatar | /æʒˈʃɑːri/ | Named after the Azsh'ari tribe |
 | Shirakess Repository | Location in Nazjatar | /ʃɪˈrɑːkɛs/ | Named after the Shirakess tribe |
@@ -61,11 +61,11 @@ All entries are attested in World of Warcraft canon (NPC dialogue, quest text, u
 | Thoras'tal Spire | Location in Nazjatar | /ˈθɔːræsˌtæl/ | — |
 | Lemor'athra Spire | Location in Nazjatar | /lɛˈmɔːrˌæθrə/ | *-athra* suffix parallels Hara'ni *-athir* = "memory" (Low–Moderate confidence cognate) |
 | Alathir Spire | Location in Nazjatar | /æˈlæθɪr/ | *-athir* suffix parallels Hara'ni *-athir* = "memory"; *Al-* may relate to *\*ala-* "light/essence" root |
-| Deepcoil Tunnels / Hatchery | Location in Nazjatar | — | English descriptor |
+| Deepcoil Tunnels / Hatchery | Location in Nazjatar | /—/ | English descriptor |
 | Ranazjar | Naga-inhabited island in Desolace | /ræˈnæzjɑːr/ | Attested Nazja place name |
 | Rethress | Abandoned naga camp in Azshara zone | /ˈrɛθrɛs/ | Attested Nazja place name |
-| Coilfang Reservoir | Naga stronghold in Outland (Zangarmarsh) | — | Contains Serpentshrine Cavern, Steamvault, Slave Pens; English name |
-| Blackfathom Deeps | Naga stronghold in Kalimdor | — | English name |
+| Coilfang Reservoir | Naga stronghold in Outland (Zangarmarsh) | /—/ | Contains Serpentshrine Cavern, Steamvault, Slave Pens; English name |
+| Blackfathom Deeps | Naga stronghold in Kalimdor | /—/ | English name |
 | Mak'aru | Capital of the makrura (RPG) | /mækˈɑːruː/ | Near Nazjatar; not a naga name but relevant geographic neighbor |
 
 ### Pre-Sundering Darnassian Place Names (now within Nazjatar)
@@ -359,9 +359,9 @@ All three daughter languages diverged from Darnassian approximately 10,000 years
 | Name | IPA | Notes |
 |------|-----|-------|
 | Azj-Kahet | /æzˈkɑːhɛt/ | Nerubian kingdom. *Azj-* prefix parallels *Nazj-* in *Nazjatar*. *-Kahet* may mean "realm" or "kingdom." |
-| City of Threads | — | Common/English name for the nerubian capital |
+| City of Threads | /—/ | Common/English name for the nerubian capital |
 | Nerub-ar Palace | /ˈnɛrʊbɑːr/ | Ansurek's seat of power. *Nerub-* + *-ar* (?). The *-ar* suffix parallels Zandali *-ar* suffixes. |
-| The Transformatory | — | Common/English name for the Ascended creation facility |
+| The Transformatory | /—/ | Common/English name for the Ascended creation facility |
 
 ### Analysis: The *Azj-* / *Nazj-* Connection
 

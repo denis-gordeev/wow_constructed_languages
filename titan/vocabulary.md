@@ -11,7 +11,7 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Kalimdor | /ˈkælɪmdɔːr/ | Land of Eternal Starlight | Confirmed by *The Old Gods and the Ordering of Azeroth* and *Dragon Hunt* novel. Name of the primary continent of Azeroth, given by the titan-forged. |
 | Midnir | /ˈmɪdnɪr/ | Vessel | Confirmed by quest *Music of the Spheres*. |
 | Nalak | /ˈnɑːlɑk/ | Serpent | Confirmed by Dave Kosak on Twitter. May be specific to the Mogu dialect of Titan. Name of Lei Shen's mount. |
-| [created/Ordered] | — | "created" = "Ordered" | The same Titan word is used for both concepts. Confirmed by *Grimoire of the Shadowlands and Beyond*, pg. 154. The actual Titan word for this concept is unattested. |
+| [created/Ordered] | /—/ | "created" = "Ordered" | The same Titan word is used for both concepts. Confirmed by *Grimoire of the Shadowlands and Beyond*, pg. 154. The actual Titan word for this concept is unattested. |
 
 ## Attested Phrases (Untranslated)
 
@@ -58,7 +58,7 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Ironaya | /aɪˈroʊnɑːjɑ/ | — | — | Guardian of Uldaman alongside Archaedas. |
 | Auriaya | /ɔːˈriːɑːjɑ/ | — | — | Watcher in Ulduar. Corrupted by Yogg-Saron. |
 | Norushen | /noʊˈrʌʃɛn/ | — | — | Watcher guarding the Heart of Y'Shaarj in Pandaria. |
-| MOTHER | — | — | — | Watcher of Uldir. Later relocated to the Chamber of Heart. |
+| MOTHER | /—/ | — | — | Watcher of Uldir. Later relocated to the Chamber of Heart. |
 | Koranos | /kɔːˈrɑːnoʊs/ | — | — | Watcher on the Dragon Isles. |
 | Eyir | /ˈeɪjɪr/ | — | — | Watcher in the Halls of Valor. |
 
@@ -95,8 +95,8 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Terramok | /ˈtɛrɑːmɒk/ | Titan vault | Located deep within Maraudon. |
 | Chamber of Khaz'mul | /kæzˈmuːl/ | Chamber | Contains the secrets of Uldaman. Unlocked by the Staff of Prehistoria. |
 | Echomok Cavern | /ˈɛkoʊmɒk/ | Cavern | Located inside Uldaman. |
-| Hall of Communion | — | — | Built by the titans. Described by Magni Bronzebeard. |
-| Primordial Observatory | — | — | Opened by Magni Bronzebeard with the phrase *Revola ruk maez amir*. |
+| Hall of Communion | /—/ | — | Built by the titans. Described by Magni Bronzebeard. |
+| Primordial Observatory | /—/ | — | Opened by Magni Bronzebeard with the phrase *Revola ruk maez amir*. |
 
 ## Proper Names (Weapons and Artifacts)
 
@@ -110,8 +110,8 @@ All entries are attested in World of Warcraft canon sources (in-game dialogue, N
 | Taesavir | /teɪˈsɑːvɪr/ | — | "Sword of the Grand Design." Titanic sword. |
 | M'thorus | /ɛmˈθɔːrʌs/ | — | "Dagger of the Grand Design." Titanic dagger. |
 | Val'anyr | /vælˈɑːnɪr/ | — | "Hammer of Ancient Kings." Crafted by the titans and given to Urel Stoneheart. |
-| Discs of Norgannon | — | — | Titan artifact recording the history of Azeroth. Inscribed in Titan. |
-| Staff of Prehistoria | — | — | Composed of The Shaft of Tsol and Gni'kiv Medallion. Used to open the Chamber of Khaz'mul. |
+| Discs of Norgannon | /—/ | — | Titan artifact recording the history of Azeroth. Inscribed in Titan. |
+| Staff of Prehistoria | /—/ | — | Composed of The Shaft of Tsol and Gni'kiv Medallion. Used to open the Chamber of Khaz'mul. |
 
 ## Proper Names (Items and Components)
 

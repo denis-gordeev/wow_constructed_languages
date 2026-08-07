@@ -129,7 +129,40 @@
 - [ ] Investigate Gnomish *-eregan*/*-agon* toponymic suffix pair — **INVESTIGATED Round 43**: Added Investigation 2; shared /ɡVn/ core suggestive but only 2 data points; Very Low–Low confidence for genuine morphological connection; Blizzard design convention preferred at Moderate confidence; see Gnomish grammar.md Investigation 2
 - [ ] Investigate Gnomish *Mim-*/*Mekk-* root — **INVESTIGATED Round 43**: Added Investigation 3; Titan creator vs. creation root at Very Low–Low confidence; /m/-initial alliterative naming convention preferred at Moderate–High confidence; *Mimiron* reduplication pattern analyzed; see Gnomish grammar.md Investigation 3
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
-- [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters
+- [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters — **UPDATED Round 109**: Remaining 7 directories fully fixed (earthen 48, tolvir 20, drust 19, haranir 18, nazja 8, titan 6, pandaren 2); all vocabulary.html and vocabulary.md IPA columns now use `/—/` consistently
+
+## Completed This Round (2026-08-07, Round 109)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) checked; no new constructed-language data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] Repository-wide bare `—` in IPA columns fix — 121 instances fixed across 7 directories:
+  - **Earthen** (vocabulary.md + vocabulary.html): 48 bare `—` → `/—/` in IPA columns
+  - **Tol'vir** (vocabulary.md + vocabulary.html): 20 bare `—` → `/—/` in IPA columns
+  - **Drust** (vocabulary.md + vocabulary.html): 19 bare `—` → `/—/` in IPA columns
+  - **Haranir** (vocabulary.html only; MD already had `/—/`): 18 bare `&mdash;` → `<td class="ipa">/&mdash;/</td>` in IPA columns
+  - **Nazja** (vocabulary.md + vocabulary.html): 8 bare `—` → `/—/` in IPA columns
+  - **Titan** (vocabulary.md + vocabulary.html): 6 bare `—` → `/—/` in IPA columns
+  - **Pandaren** (vocabulary.md + vocabulary.html): 2 bare `—` → `/—/` in IPA columns
+- [x] Markdown artifact fixes in HTML files:
+  - **Zandali** (grammar.html): Fixed 2 bare `*Zeb*` and `*Thraze*` in `<h3>` headings → `<em>` tags
+  - **Shath'Yar** (grammar.html): Fixed 5 bare `*nuq`, `*noq`, `*nVq` reconstruction markers → `<em>*nuq</em>`, `<em>*noq</em>`, `<em>*nVq</em>` in Hypothesis 2 list, Hypothesis 4 heading, comparison table, and reclassification paragraph
+- [x] Repository-wide `<span class="ipa">` wrapper addition — 470+ bare IPA transcriptions in running text wrapped across 28 directories:
+  - **Darnassian** (grammar.html): 127 IPA wrappers added (largest single file; /h/, /ʃ/, /ɑ/, /t/, /nn/, /l/, and full transcriptions throughout Investigations)
+  - **Haranir** (vocabulary.html + grammar.html + description.html): 83 IPA wrappers total
+  - **Shath'Yar** (grammar.html + vocabulary.html + description.html): 30 IPA wrappers total
+  - **Zandali** (vocabulary.html + grammar.html + description.html): 19 IPA wrappers total
+  - **Ethereal** (vocabulary.html + grammar.html): 12 IPA wrappers total
+  - **Drust** (vocabulary.html + description.html): 15 IPA wrappers total
+  - **Vrykul** (vocabulary.html + grammar.html): 9 IPA wrappers total
+  - **Nazja** (vocabulary.html + grammar.html): 8 IPA wrappers total
+  - **Gnomish** (grammar.html + description.html): 6 IPA wrappers total
+  - **Common** (vocabulary.html + description.html): 6 IPA wrappers total
+  - **Kalimag** (grammar.html): 7 IPA wrappers total
+  - **Dwarven** (grammar.html): 7 IPA wrappers total
+  - **Taur-ahe** (grammar.html + description.html): 5 IPA wrappers total
+  - **Thalassian** (grammar.html): 5 IPA wrappers total
+  - **Tol'vir** (grammar.html): 4 IPA wrappers total
+  - **Draenei** (grammar.html): 2 IPA wrappers total
+  - **Darnassian** (vocabulary.html + description.html): 2 IPA wrappers total
 
 ## Completed This Round (2026-08-06, Round 108)
 

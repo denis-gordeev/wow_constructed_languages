@@ -35,8 +35,8 @@ All entries are attested from in-game dialogue, quest text, NPC names, or offici
 | Kun-Lai | /kʊn laɪ/ | (region name) | Mountains of Kun-Lai Summit |
 | Zandalari | /zɑnˈdɑlɑrɪ/ | (troll empire) | Zandalari trolls invaded Pandaria; name is Zandali in origin |
 | Mogu'shan | /moʊˈguːʃɑn/ | (place name) | *"Shan" may mean "palace" or "mountain"; Mogu origin* |
-| Valley of the Four Winds | — | (English name) | No Pandaren native name attested |
-| Vale of Eternal Blossoms | — | (English name) | No Pandaren native name attested |
+| Valley of the Four Winds | /—/ | (English name) | No Pandaren native name attested |
+| Vale of Eternal Blossoms | /—/ | (English name) | No Pandaren native name attested |
 
 ## Personal Names
 
