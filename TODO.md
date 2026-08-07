@@ -131,6 +131,18 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters — **UPDATED Round 109**: Remaining 7 directories fully fixed (earthen 48, tolvir 20, drust 19, haranir 18, nazja 8, titan 6, pandaren 2); all vocabulary.html and vocabulary.md IPA columns now use `/—/` consistently
 
+## Completed This Round (2026-08-07, Round 110)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~7 August 2026) checked; no new constructed-language data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
+- [x] Fix severely corrupted table headers in earthen/vocabulary.html — 7 `<thead>` rows were mangled by botched Round 109 find-and-replace; all restored to correct structure matching MD source
+- [x] Fix 48 bare `<td>&mdash;</td>` in earthen/vocabulary.html IPA columns → `<td class="ipa">/&mdash;/</td>`
+- [x] Fix 12 bare `*Inferred from`/`*Uncertain from` markdown artifacts in orcish/vocabulary.html — bare `*` prefix removed from `<td class="inferred">`/`<td class="uncertain">` cells (CSS already provides visual distinction)
+- [x] Fix `*-alor*` markdown artifact in zandali/grammar.html h3 heading → `<span class="inferred"><em>-alor</em></span>`
+- [x] Fix `<span class="ipa">/wiki/</span>` false IPA wrappers — 51+ instances across 9 files (haranir, drust, common, gnomish, zandali, shath-yar, nerubian); URL path components `/wiki/` incorrectly wrapped as IPA
+- [x] Fix `<span class="ipa">/ethereal/</span>` false IPA wrapper in nerubian/vocabulary.html — file path incorrectly wrapped as IPA
+- [x] Fix `<span class="ipa">/move/</span>` and `<span class="ipa">/to/</span>` false IPA wrappers — gloss slashes incorrectly wrapped as IPA in haranir, zandali, darnassian
+- [x] Fix double-wrapped `<span class="ipa"><span class="ipa">` across 8 files (qiraji, nerubian, gnomish) — inner duplicate span removed
+
 ## Completed This Round (2026-08-07, Round 109)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited 8 July 2026) checked; no new constructed-language data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)
