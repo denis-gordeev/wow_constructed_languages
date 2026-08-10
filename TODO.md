@@ -131,6 +131,19 @@
 - [ ] Investigate Kalimag *Tas* element — appears sentence-initial in hearthstone question; may be demonstrative or question word — **SIGNIFICANTLY UPDATED Round 10**: Analysis expanded to three-form paradigm *Andu*/*Ande*/*Bandu* with proposed prefix × vowel matrix; see Darnassian grammar.md Investigation 12; elven-comparative.html *Andu/Ande/Bandu* correspondence updated; Low–Moderate confidence for systematic paradigm
 - [x] Audit vocabulary.html files for `/—/` IPA delimiters in IPA columns (bare `—` vs `/—/`) — 15+ directories potentially affected: Orcish, Taur-ahe, Dwarven, Kalimag, Shalassian, Gutterspeak, Pandaren, Mogu, Sethrak, Nazja, Drust, Earthen, Nerubian, Qiraji, Ethereal — **COMPLETED Round 16**: Full audit of all 15 directories; most were already in sync from prior rounds; minor fixes applied to mogu (1 noun row, expanded morpheme notes, proper name notes, Roots & Morphemes detail, Chinese pinyin), taur-ahe (2 text details), ethereal (8 text expansions), earthen (1 truncated cell), shalassian (1 truncated cell in description), orcish (intro paragraph, 2 missing grammar headings, 4 missing h3 ids), nazja (1 missing phrase in grammar); remaining directories (kalimag, qiraji, dwarven, gutterspeak, sethrak, pandaren, drust, nerubian) all confirmed in sync — **UPDATED Round 83**: Vrykul vocabulary.md and vocabulary.html fixed; 8 IPA cells now use `/—/` delimiters — **UPDATED Round 109**: Remaining 7 directories fully fixed (earthen 48, tolvir 20, drust 19, haranir 18, nazja 8, titan 6, pandaren 2); all vocabulary.html and vocabulary.md IPA columns now use `/—/` consistently
 
+## Completed This Round (2026-08-10, Round 113)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) checked; no new constructed-language data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026); warcraft.wiki.gg pages unavailable (499 errors)
+- [x] Fix orcish/vocabulary.html — bare `*Inferred` asterisk in Proper Names table (Grommash entry) replaced with `class="inferred"` matching Nouns table convention
+- [x] Fix orcish/vocabulary.html — Durotar Notes cell missing `.uncertain` class added, matching Nagrand pattern for entries with "uncertain" in notes
+- [x] Fix vrykul/vocabulary.html — `Sturm-` morpheme in TWW section (table cell and note paragraph) now uses `<span class="inferred"><em>Sturm-</em></span>` matching all other inferred morphemes in the same file
+- [x] Fix vrykul/vocabulary.html — Drust cross-reference link text "for full Drust vocabulary" removed, matching MD source
+- [x] Fix vrykul/vocabulary.md — add missing intro paragraph matching HTML and other vocabulary.md files
+- [x] Fix darnassian/vocabulary.html — bare `—` in IPA column (Elunara entry) converted to `&mdash;` matching all other entries in file
+- [x] Fix thalassian/vocabulary.html — bare `—` in IPA column (Silvermoon entry) converted to `&mdash;` matching all other entries in file
+- [x] Fix nazja/vocabulary.html — 4 bare `&mdash;` in IPA columns (Lord Sinslayer, Overseer Tidewrath, City of Threads, The Transformatory) converted to `<td class="ipa">/&mdash;/</td>`
+- [x] Fix nazja/vocabulary.html — Nerubian Place Names table header had 4 columns (extra "Role") but data rows had 3 columns; removed spurious "Role" column header matching MD source
+
 ## Completed This Round (2026-08-10, Round 112)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) and *The War Within* (last edited ~7 August 2026) checked; no new constructed-language data found beyond what repository already documents; patch 12.1.5 still not available (scheduled Autumn 2026)

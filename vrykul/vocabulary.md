@@ -1,5 +1,7 @@
 # Vrykul Vocabulary
 
+All entries are attested in World of Warcraft canon (NPC dialogue, quest text, official Blizzard sources). Many Vrykul names have direct Old Norse cognates, which provide strong analogical evidence.
+
 ## 1. Proper Names (Beings)
 
 ### Kings and Leaders
