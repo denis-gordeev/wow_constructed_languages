@@ -20,7 +20,7 @@ The Nerubian language is spoken by the nerubians — an ancient arachnid race na
 | Sikran | /ˈsɪkræn/ | Raid boss; Captain of the Sureki | Short name without apostrophe; may be a rank-based name. |
 | Rasha'nan | /rɑˈʃɑːnæn/ | Raid boss | Apostrophe marks morpheme boundary; *-nan* suffix. |
 | Ovi'nax | /ˈoʊvɪnæks/ | Raid boss (Broodtwister) | Apostrophe-marked compound: *Ovi-* + *-nax*. |
-| Ky'veza | /kaɪˈvɛzə/ | Raid boss (Nexus-Princess) | **Ethereal, not nerubian.** Ky'veza is a Nexus-Princess of the ethereals who infiltrated Queen Ansurek's court. Apostrophe-marked compound: *Ky-* + *-veza*. Listed here because she appears in Nerub-ar Palace as a raid boss. See ethereal/vocabulary.md for full analysis. |
+| Ky'veza | /kaɪˈvɛzə/ | Raid boss (Nexus-Princess) | **Ethereal, not nerubian.** Ky'veza is a Nexus-Princess of the ethereals who infiltrated Queen Ansurek's court. Apostrophe-marked compound: *Ky-* + *-veza*. Listed here because she appears in Nerub-ar Palace as a raid boss. See [ethereal vocabulary](../ethereal/vocabulary.md) for full analysis. |
 | Izo | /ˈiːzoʊ/ | Dungeon boss (the Grand Splicer) | Unusually short nerubian name; may be a title or abbreviation. |
 | Ki'katal | /kiːˈkɑːtɑːl/ | Quest NPC (the Harvester) | Apostrophe-marked compound: *Ki-* + *-katal*. TWW quest NPC targeted by Severed Threads. |
 | Gut'usul | /ɡʊˈtuːsʊl/ | Quest NPC (one of Nizrek's contacts) | Apostrophe-marked compound: *Gut-* + *-usul*. TWW quest NPC who reveals Ansurek's forced ascensions. |
@@ -630,7 +630,7 @@ A further potential connection:
 
 If the *-nax* / *-naxx* element is a shared Aqir suffix (perhaps meaning "warrior" or "hunter"), this would represent a third potential Aqir substrate morpheme. The qiraji forms consistently double the final consonant (*-naxx*, *-axx*), while the nerubian forms do not (*-nax*, *-ax*). This could reflect a regular sound change: Aqir *\*-naxx* → nerubian *-nax* (simplification of geminate).
 
-**Note on the phonological value of *x*:** The *-naxx* / *-nax* suffix may involve *x* = /x/ (velar fricative) rather than /ks/. If *-naxx* = /næxː/ and *-nax* = /næx/, the geminate vs. single fricative distinction is phonologically natural. The *-nox* / *-ox* variants would then be vowel alternations of the same suffix. This analysis is speculative but avoids the phonotactic difficulty of interpreting *-naxx* as /næksks/. See qiraji/vocabulary.md §7 for full discussion.
+**Note on the phonological value of *x*:** The *-naxx* / *-nax* suffix may involve *x* = /x/ (velar fricative) rather than /ks/. If *-naxx* = /næxː/ and *-nax* = /næx/, the geminate vs. single fricative distinction is phonologically natural. The *-nox* / *-ox* variants would then be vowel alternations of the same suffix. This analysis is speculative but avoids the phonotactic difficulty of interpreting *-naxx* as /næksks/. See [Qiraji vocabulary](../qiraji/vocabulary.md) §7 for full discussion.
 
 **Confidence: Very Low** for the *-nax*/*-naxx* connection. The sample size is tiny, and the similarity could reflect Blizzard's consistent aesthetic for insectoid naming rather than genuine morpheme sharing.
 

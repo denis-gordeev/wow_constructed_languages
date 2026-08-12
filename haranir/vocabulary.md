@@ -130,7 +130,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Har'alnor Den | /—/ | *Har'alnor* + *Den* | Sub-dungeon/area attached to Har'alnor village |
 | Blinding Vale | /—/ | Common | Midnight dungeon in Harandar. Contains the Lightblossom Trinity, Ikuzz the Light Hunter, Lightwarden Ruia, and Ziekket as bosses |
 | Gulf of Memory | /—/ | Common | Subzone and delve in Harandar. The "Memory" element parallels *Har'athir* (Village of Memory). Common/English name |
-| Maisara Caverns | /maɪˈsɑːrə/ | *Maisara* | Midnight dungeon in Zul'Aman zone; Witherbark trolls abducted by Vilebranch for soul-consumption rituals. "Maisara" is a potential Hara'ni or Zandali place name (no apostrophe; *-ara* ending; /s/ medial). Alternatively, it may be a Common compound. **Confidence: Very Low** for genuine Hara'ni or Zandali morpheme content. See also zandali/vocabulary.md |
+| Maisara Caverns | /maɪˈsɑːrə/ | *Maisara* | Midnight dungeon in Zul'Aman zone; Witherbark trolls abducted by Vilebranch for soul-consumption rituals. "Maisara" is a potential Hara'ni or Zandali place name (no apostrophe; *-ara* ending; /s/ medial). Alternatively, it may be a Common compound. **Confidence: Very Low** for genuine Hara'ni or Zandali morpheme content. See also [Zandali vocabulary](../zandali/vocabulary.md) |
 | Shrine of Ages | /—/ | Common | Subzone in Harandar. Common/English name |
 | Verdant Sepulcher | /—/ | Common | Subzone in Harandar. Common/English name |
 | Glade of Walking Memories | /—/ | Common | Subzone in Harandar. The "Memories" element parallels *Har'athir* (Village of Memory). Common/English name |
@@ -344,7 +344,7 @@ The *-dar* suffix appears in *Harandar* (the capital). This suffix also appears 
 
 If *-dar* = *-dor* (a Titan-derived toponymic suffix meaning "land" or "realm"), then *Harandar* = "Hara-land" or "realm of the Hara." This would place Haranir toponymic conventions within the Khaz Algar areal sphere, potentially indicating that the *-dar* suffix was borrowed from Earthen or Arathi into Hara'ni.
 
-**Confidence: Low–Moderate** for *-dar* as a shared Khaz Algar toponymic suffix (parallels in Earthen and Arathi; Harandar is within Khaz Algar). See also earthen/vocabulary.md §8 for the *-dar* analysis.
+**Confidence: Low–Moderate** for *-dar* as a shared Khaz Algar toponymic suffix (parallels in Earthen and Arathi; Harandar is within Khaz Algar). See also [Earthen vocabulary](../earthen/vocabulary.md) §8 for the *-dar* analysis.
 
 ### The *-ia* Feminine Suffix — **EFFECTIVELY DISPROVEN**
 
