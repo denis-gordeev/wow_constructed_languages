@@ -487,7 +487,7 @@ The Naaru — beings of Holy Light — consistently use names that follow the **
 
 ### Lothraxion
 
-**Lothraxion** is a unique case: a member of the Army of the Light who has been infused with Light energy, serving as "high commander of the Vanguard" in Midnight. His name lacks the apostrophe convention entirely and follows a Latinate morphological pattern (*Loth-* + *-raxion*), more similar to Eredun/Draenei naming (*Loth* as in *Lothar*) than to Naaru or Shath'Yar. He may not be a Naaru at all but a Light-infused being of another race.
+**Lothraxion** is a unique case: a member of the Army of the Light who has been infused with Light energy, serving as "high commander of the Vanguard" in Midnight. His name lacks the apostrophe convention entirely and follows a Latinate morphological pattern (*Loth-* + *-raxion*), more similar to Eredun/Draenei naming (*Loth* as in *Lothar*) than to Naaru or Shath'Yar. He may not be a Naaru at all but a Light-infused being of another race. He became "lightblinded" and attacked his allies, forcing Alleria and Arator to reluctantly kill him during the Voidstorm campaign (Midnight).
 
 ### Analysis
 
