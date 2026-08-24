@@ -13,7 +13,7 @@ The Haranir are confirmed linked to **dark trolls and night elves** — from *Th
 | Name | IPA | Role | Notes |
 |------|-----|------|-------|
 | Orweyna | /ɔːrˈweɪnə/ | Keeper of the Roots; central TWW/Midnight Haranir character | The most prominent Haranir NPC; in the Undermine patch (Lingering Shadows), she investigates Black Blood in Hallowfall with fellow Haranir, who leave her over her rejection of isolationist tradition. She then receives a vision from Azeroth's Worldsoul leading her to the Ringing Deeps, where she joins Gazlowe and scouts the goblin operation at Opportunity Point. |
-| Hagar | /ˈhɑːɡɑːr/ | Elder; Orweyna's grandmother | No apostrophe; short name. Possible shared initial *H-* with *Hannan*, *Harandar*, *Hara'ni*. In Midnight, helps Orweyna atone and brings her to a peaceful ruutani village; later helps stop Ruia from spreading Lightbloom |
+| Hagar | /ˈhɑːɡɑːr/ | Elder; Orweyna's grandmother | No apostrophe; short name. Possible shared initial *H-* with *Hannan*, *Harandar*, *Hara'ni*. In Midnight, helps Orweyna atone and brings her to a peaceful ruutani village; later helps stop Ruia from spreading Lightbloom; brought to Silvermoon by Halduron, where Lor'themar accepts the haranir as allies (Wikipedia) |
 | Ter'kova | /tɛɾˈkoʊvə/ | Elder | Apostrophe-marked compound: *Ter'* + *-kova*. The *-kova* element is unexplained |
 | Gnarla | /ˈnɑːrlə/ | Elder | No apostrophe; *Gn-* initial cluster |
 | Ran'hune | /ɾænˈhuːneɪ/ | Elder | Apostrophe-marked compound: *Ran'* + *-hune*. The *-hune* element is unexplained |
