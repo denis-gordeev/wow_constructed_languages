@@ -44,6 +44,7 @@ Key historical events affecting the language:
 - **The Zur'ashar** are Haranir painter-storytellers who paint records of history on the walls of Harandar. Through Alndust, these paintings can bring visions of history to life.
 - **The Ka'dani** are an order of elite hunters based in Har'athir (Village of Memory).
 - **Haranir naming**: Four Harandar village names have confirmed translations — *Har'alnor* (Village of Twilight), *Har'athir* (Village of Memory), *Har'kuai* (Village of Rain), *Har'mara* (Village of Balance). The morpheme *Har'* = "village" is the most securely attested morpheme in Hara'ni.
+- **Rootwalking**: The Haranir perform a distinctive dance to "rootwalk" — a form of ritual travel or transportation through the World Tree root network. This dance is featured prominently among their people and is also used in rituals that can be observed in Harandar (warcraft.wiki.gg). The practice has no known Hara'ni name; "rootwalk" is a Common-language description.
 - **The Saptor** plant: Haranir wrap their meals in saptor fronds before steaming them over boiling water.
 - **Haranir druids** use animal forms based on predators from Mount Hyjal (wolverine, quill-bear, razorquill bat, sable), not Harandar's native fauna.
 - In the alpha build of Midnight, a mural depicted the Haranir as the progenitors of all trollkind. At launch, this was changed to depict a "split" in Haranir society instead. The alpha mural text is no longer canon and did not contribute any Hara'ni vocabulary.

@@ -193,6 +193,18 @@ The *Vol* prefix now has **three attestations**: *Vol'jin*, *Vol'guk*, *Vol'tar*
 | Zuvembi | Name for Zuvembi Brew | A low magic brew that can turn anyone who breathes its fumes into being easily manipulated |
 | Amani'shi | Elite Amani force | May be an elite force of the Amani tribe in Zul'Aman. *Amani* + *-'shi* (role suffix?) |
 | Atal-Mhuto | Elite Darkspear organization | Compound: *Atal* ("devoted") + *-Mhuto*. Darkspear parallel to the Atal'ai |
+| Shadra'Zan | Alchemist society | Compound: *Shadra* (loa of spiders) + *'Zan* (unknown). A tight alchemical society within the Zandalari Empire; entrance requires a ritual where the inductee imbibes a potion made from their own blood (warcraft.wiki.gg). The *'Zan* element is unattested elsewhere; may mean "society/order" or "secret/binding" given the guild's secretive nature and blood ritual |
+| Gara'jal | Spiritbinder | MoP Throne of Thunder boss; Zandalari representative on the Council of Elders. Apostrophe-marked: *Gara'* + *-jal*. The *Gara'* element is distinct from *Gara*' in *Gara'jal*; *-jal* is unattested elsewhere |
+| Al'chukla | War-God blessed by Lei Shen | Isle of Thunder; apostrophe-marked: *Al'* + *-chukla*. The *Al'* prefix is also seen in *Al'tabim* — may be a title or honorific prefix distinct from *Zul'* |
+| Al'tabim | The All-Seeing | Zandalari elder on Yojamba Isle; apostrophe-marked: *Al'* + *-tabim*. The *Al'* prefix parallels *Al'chukla* |
+| Bah'Kini | Chronicler | Zul'Drak NPC; apostrophe-marked: *Bah'* + *-Kini*. The *-Kini* element matches *To'kini* |
+| To'kini | Chronicler | Zul'Drak NPC; apostrophe-marked: *To'* + *-kini*. The *-kini* element matches *Bah'Kini* — may be a role/designation suffix for scholars/chroniclers |
+| Tu'chek | Spiritbinder | MoP lore; brother of Arcanital Ra'kul. Apostrophe-marked: *Tu'* + *-chek*. Owner of the Mask of the Spirit-Caller |
+| Ra'kul | Arcanital | MoP lore; brother of Spiritbinder Tu'chek. Apostrophe-marked: *Ra'* + *-kul*. Owner of the Mask of the Dark Mystic |
+| Khar'vaxal | The Cracked (legendary madcap) | Zandalari legend; apostrophe-marked: *Khar'* + *-vaxal*. The *Khar'* prefix matches *Khar'zul* |
+| Khar'zul | Prophet | Kun-Lai Summit NPC; apostrophe-marked: *Khar'* + *-zul*. The *-zul* element is the known prefix *Zul* in suffix position, or a distinct morpheme. *Khar'* matches *Khar'vaxal* — may be a prefix meaning "prophet/seer" or "cracked/mad" |
+| Trag'kal | Lieutenant of Khal'ak | Novel: *Vol'jin: Shadows of the Horde*; apostrophe-marked: *Trag'* + *-kal* |
+| Nir'zan | Captain; right hand of Khal'ak | Novel: *Vol'jin: Shadows of the Horde*; apostrophe-marked: *Nir'* + *-zan*. The *-zan* element parallels *Shadra'Zan* — if *-zan* is a genuine suffix, it may mean "servant" or "hand" given Nir'zan's role as right-hand captain |
 
 ## Pronouns
 
