@@ -143,6 +143,13 @@
 - [x] Audit HTML quality — comprehensive audit of all 87+ HTML files: zero bare `<i>` tags, zero broken fragment links, zero missing heading IDs, zero duplicate IDs; all `<h2>`–`<h6>` tags have `id` attributes; all vocabulary row counts match between MD and HTML
 - [x] MD/HTML sync verification — full comparison of description.md vs description.html for 6 key directories (common, darnassian, drust, ethereal, shath-yar, zandali); all confirmed in sync; minor formatting differences (note boxes) are intentional presentation enhancements
 
+## Completed This Round (2026-08-25, Round 134)
+
+- [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026, revision 1363779806) and *The War Within* (last edited ~14 August 2026, revision 1363107670) checked; all Midnight/TWW plot names already documented in repository; no new constructed-language data found; patch 12.1.5 still not available (scheduled Autumn 2026); warcraft.wiki.gg pages unavailable (499 errors)
+- [x] Audit HTML quality — comprehensive audit of all 85+ HTML files: zero bare `<i>` tags, zero missing heading IDs (h2–h6), zero broken fragment links, zero bare Unicode entities, zero duplicate IDs, zero bare asterisks in inferred/uncertain spans; **45 bare Old Norse etymological characters (ð, ǫ, ø) found outside `<span class="ipa">` wrappers** — these use the same Unicode codepoints as IPA symbols and need the same font rendering
+- [x] Fix 45 Old Norse etymological IPA characters in 9 HTML files — vrykul/vocabulary.html (20), vrykul/grammar.html (12), vrykul/description.html (3), common/grammar.html (3), dwarven/grammar.html (2), titan-forged-comparative.html (2), common/vocabulary.html (1), earthen/grammar.html (1), gnomish/grammar.html (1); all Old Norse forms containing ð, ǫ, ø now wrapped in `<span class="ipa">` for consistent font rendering (DejaVu Sans / Gentium Plus); previous rounds excluded these as "historical orthography, not IPA" but the identical Unicode codepoints require the same font stack for proper display
+- [x] Verify zero remaining bare IPA characters outside `<span class="ipa">` across all HTML files — confirmed clean
+
 ## Completed This Round (2026-08-24, Round 133)
 
 - [x] Search for new WoW language data from online sources — Wikipedia *World of Warcraft: Midnight* (last edited 12 July 2026) checked; all Midnight plot names already documented in repository; no new constructed-language data found; patch 12.1.5 still not available (scheduled Autumn 2026); warcraft.wiki.gg unavailable (timeouts); Wowhead and Blizzard news sites unavailable (499 errors)
